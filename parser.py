@@ -2,19 +2,20 @@ import unicodecsv
 
 headers = ['county', 'office', 'district', 'party', 'candidate', 'votes', 'winner', 'write-in', 'notes']
 counties = ['Apache','Cochise','Coconino','Gila','Graham','Greenlee','La Paz','Maricopa','Mohave','Navajo','Pima','Pinal','Santa Cruz','Yavapai','Yuma','']
-offices = ['U.S. SENATOR', 'U.S. REPRESENTATIVE IN CONGRESS', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER', 'SUPERINTENDENT OF PUBLIC INSTRUCTION', 'STATE MINE INSPECTOR', 'CORPORATION COMMISSIONER']
+cds = ['U.S. House 1', 'U.S. House 2', 'U.S. House 3', 'U.S. House 4', 'U.S. House 5', 'U.S. House 6', 'U.S. House 7', 'U.S. House 8', '']
+offices = ['PRESIDENT OF THE UNITED STATES', 'U.S. SENATOR', 'U.S. REPRESENTATIVE IN CONGRESS', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER', 'SUPERINTENDENT OF PUBLIC INSTRUCTION', 'STATE MINE INSPECTOR', 'CORPORATION COMMISSIONER']
 office_lookup = {
     'U.S. SENATOR' : 'U.S. Senate', 'U.S. REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
     'STATE REPRESENTATIVE' : 'State House', 'SECRETARY OF STATE' : 'Secretary of State', 'ATTORNEY GENERAL' : 'Attorney General',
     'STATE TREASURER' : 'State Treasurer', 'SUPERINTENDENT OF PUBLIC INSTRUCTION' : 'Superintendent of Public Instruction',
-    'STATE MINE INSPECTOR' : 'State Mine Inspector', 'CORPORATION COMMISSIONER' : 'Corporation Commissioner'
+    'STATE MINE INSPECTOR' : 'State Mine Inspector', 'CORPORATION COMMISSIONER' : 'Corporation Commissioner', 'PRESIDENT OF THE UNITED STATES' : 'President'
 }
 
-with open('20101102__az__general.csv', 'wb') as csvfile:
+with open('20060912__az__primary.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    lines = open('Canvass2010GE.txt').readlines()
+    lines = open('/Users/DW-Admin/Downloads/Canvass2006PE.txt').readlines()
 
     for line in lines:
         party = None
