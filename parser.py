@@ -1,6 +1,6 @@
 import unicodecsv
 
-headers = ['county', 'office', 'district', 'party', 'candidate', 'votes', 'winner', 'write-in']
+headers = ['county', 'office', 'district', 'party', 'candidate', 'votes', 'winner', 'write-in', 'notes']
 counties = ['Apache','Cochise','Coconino','Gila','Graham','Greenlee','La Paz','Maricopa','Mohave','Navajo','Pima','Pinal','Santa Cruz','Yavapai','Yuma','']
 offices = ['U.S. SENATOR', 'U.S. REPRESENTATIVE IN CONGRESS', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER', 'SUPERINTENDENT OF PUBLIC INSTRUCTION', 'STATE MINE INSPECTOR', 'CORPORATION COMMISSIONER']
 office_lookup = {
@@ -10,16 +10,16 @@ office_lookup = {
     'STATE MINE INSPECTOR' : 'State Mine Inspector', 'CORPORATION COMMISSIONER' : 'Corporation Commissioner'
 }
 
-
-with open('20100824__az__primary.csv', 'wb') as csvfile:
+with open('20101102__az__general.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    lines = open('Canvass2010PE.txt').readlines()
+    lines = open('Canvass2010GE.txt').readlines()
 
     for line in lines:
         party = None
         write_in = None
+        notes = None
         if line == '\n':
             continue
         if len([x for x in offices if x in line]) == 1:
@@ -46,5 +46,11 @@ with open('20100824__az__primary.csv', 'wb') as csvfile:
                     race_winner = True
                 else:
                     race_winner = None
+                if 'Deceased' in name:
+                    name = name.replace('(Deceased', '')
+                    notes = 'Deceased'
+                if 'Withdrew' in name:
+                    name = name.replace('(Withdrew', '')
+                    notes = 'Withdrew'
                 name = name.replace('*','').strip()
-                w.writerow([county, display_office, district, party, name, int(votes.strip()), race_winner, write_in])
+                w.writerow([county, display_office, district, party, name, int(votes.strip()), race_winner, write_in, notes])
