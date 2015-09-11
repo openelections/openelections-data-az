@@ -1,4 +1,4 @@
-county,office,district,party,candidate,votes,winner,write-in,notes
+jurisdiction,office,district,party,candidate,votes,winner,write-in,notes
 U.S. House 1,President,,DEM,"Peter ""Simon"" Bollander",65,,,
 U.S. House 2,President,,DEM,"Peter ""Simon"" Bollander",11,,,
 U.S. House 3,President,,DEM,"Peter ""Simon"" Bollander",7,,,
