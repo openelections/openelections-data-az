@@ -12,11 +12,11 @@ office_lookup = {
     'CORPORATION COMMISSION' : 'Corporation Commissioner', 'PRESIDENTIAL ELECTORS' : 'President'
 }
 
-with open('20001107__az__general.csv', 'wb') as csvfile:
+with open('20040203__az__primary__president.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    lines = open('/Users/derekwillis/Downloads/Canvass2000GE.txt').readlines()
+    lines = open('/Users/derekwillis/Downloads/Canvass2004PPE.txt').readlines()
 
     for line in lines:
         party = None
