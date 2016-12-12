@@ -13,11 +13,15 @@ HEADERS = {
     'Mohave': ['contest', 'choice', 'precinct_id', 'vote_total', 'polling_place_votes', 'early_votes', 'provisional_votes', 'party_name', 'contest_name', 'choice_name', 'precinct_designation', 'precinct_name', 'subjurisdiction', 'votes_allowed', 'referendum_flag'],
     'Navajo': ['contest', 'choice', 'precinct_id', 'vote_total', 'polling_place_votes', 'early_votes', 'late_early_votes', 'provisional_votes', 'party_name', 'contest_name', 'choice_name', 'precinct_designation', 'precinct_name', 'votes_allowed', 'referendum_flag'],
     'Pima': ['contest', 'choice', 'precinct_id', 'vote_total', 'polling_place_votes', 'early_votes', 'provisional_votes', 'party_name', 'contest_name', 'choice_name', 'precinct_designation', 'precinct_name', 'subjurisdiction', 'votes_allowed', 'referendum_flag'],
-    'Pinal': ['contest', 'choice', 'precinct_id', 'vote_total', 'polling_place_votes', 'early_votes', 'late_early_votes', 'provisional_votes', 'polling_place_votes_ds200', 'early_votes_ds200', 'party_name', 'contest_name', 'choice_name', 'precinct_designation', 'precinct_name', 'subjurisdiction', 'votes_allowed', 'referendum_flag'],
+    'Pinal': ['contest', 'choice', 'precinct_id', 'vote_total', 'early_votes', 'polling_place_votes', 'late_early_votes', 'provisional_votes', 'party_name', 'contest_name', 'choice_name', 'precinct_designation', 'precinct_designation', 'precinct_name', 'votes_allowed', 'referendum_flag'],
     'Santa Cruz': ['contest', 'choice', 'precinct_id', 'vote_total', 'polling_place_votes', 'early_votes', 'provisional_votes', 'polling_place_votes_ds200', 'early_votes_ds200', 'party_name', 'contest_name', 'choice_name', 'precinct_name', 'votes_allowed', 'referendum_flag'],
     'Yavapai': ['record_type','precinct_id','precinct_name','contest','vote_for_value','contest_order_id','contest_name','candidate_name','party_name','candidate_id', 'vote_total', 'vote_type', 'done'],
     'Yuma': ['', 'precinct_id', 'precinct_name', '', 'contest', 'contest_name', '', '', '', '', '', '', '', 'choice', 'choice_name', '', '', 'party', 'candidate_party', 'vote_type_id', 'vote_type', '', 'vote_total']
 }
+
+def parse_all(year, election):
+    for county in HEADERS.keys():
+        parse_county(year, election, county)
 
 def fetch_url(year, election, county):
     return "http://apps.azsos.gov/results/%s/%s/%s.txt" % (year, election, county)
@@ -37,16 +41,19 @@ def parse_county_lines(county, lines):
     results = []
     if county == 'Apache':
         for line in lines.split('\r\n'):
-            results.append([line[0:3], line[4:6], line[7:10], line[11:16], line[17:22], line[23:28], line[29:34], line[35:40], line[41:46], line[101:104].strip(), line[111:166].strip(), line[167:204].strip(), line[205:206], line[207:233].strip(), line[234:259].strip(), line[260:261], line[262:263]])
-    elif county in ['Cochise', 'Gila', 'Graham', 'Greenlee', 'Mohave', 'Pima']:
+            results.append([line[0:3], line[4:6], line[7:10], line[11:17], line[18:23], line[23:28], line[29:34], line[35:40], line[41:46], line[101:104].strip(), line[111:166].strip(), line[167:204].strip(), line[205:206], line[207:233].strip(), line[234:259].strip(), line[260:261], line[262:263]])
+    elif county in ['Cochise', 'Gila', 'Graham', 'Greenlee', 'Pima', 'Mohave']:
         for line in lines.split('\r\n'):
-            results.append([line[0:3], line[4:6], line[7:10], line[11:16], line[17:22], line[23:28], line[29:34], line[101:104].strip(), line[111:166].strip(), line[167:204].strip(), line[205:234].strip(), line[260:261], line[262:263]])
+            results.append([line[0:3], line[4:6], line[7:10], line[11:17], line[18:23], line[24:29], line[30:35], line[101:104].strip(), line[111:166].strip(), line[167:204].strip(), line[205:234].strip(), line[260:261], line[262:263]])
+    elif county == 'Pinal':
+        for line in lines.split('\r\n'):
+            results.append([line[0:3], line[4:6], line[7:10], line[11:17], line[18:23], line[23:28], line[29:34], line[35:40], line[101:104].strip(), line[111:166].strip(), line[167:204].strip(), line[205:206], line[207:234].strip(), line[260:261], line[262:263]])
     elif county in ['Navajo']:
         for line in lines.split('\r\n'):
-            results.append([line[0:3], line[4:6], line[7:10], line[11:16], line[17:22], line[23:28], line[29:34], line[35:40], line[41:46], line[101:105].strip(), line[111:166].strip(), line[167:204].strip(), line[207:234].strip(), line[260:261], line[262:263]])
+            results.append([line[0:3], line[4:6], line[7:10], line[11:17], line[18:23], line[23:28], line[29:34], line[35:40], line[41:46], line[101:105].strip(), line[111:166].strip(), line[167:204].strip(), line[207:234].strip(), line[260:261], line[262:263]])
     elif county == 'Santa Cruz':
         for line in lines.split('\r\n'):
-            results.append([line[0:3], line[4:6], line[7:10], line[11:16], line[17:22], line[23:28], line[29:34], line[35:40], line[41:46], line[101:104].strip(), line[111:166].strip(), line[167:204].strip(), line[205:234].strip(), line[260:261], line[262:263]])
+            results.append([line[0:3], line[4:6], line[7:10], line[11:17], line[18:23], line[23:28], line[29:34], line[35:40], line[41:46], line[101:104].strip(), line[111:166].strip(), line[167:204].strip(), line[205:234].strip(), line[260:261], line[262:263]])
     elif county in ['Coconino', 'La Paz', 'Yuma']:
         reader = unicodecsv.reader(lines.split('\r\n'), encoding='utf-8')
         for row in reader:
@@ -63,7 +70,7 @@ def parse_county_lines(county, lines):
 
 def write_csv(results, county):
     headers = HEADERS[county]
-    filename = '20161108__az__general__%s__precinct.csv' % county.lower().replace(' ','_')
+    filename = '20160830__az__primary__%s__precinct.csv' % county.lower().replace(' ','_')
     with open(filename, 'wb') as csvfile:
          w = unicodecsv.writer(csvfile, encoding='utf-8')
          w.writerow(headers)
