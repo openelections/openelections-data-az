@@ -1,0 +1,1730 @@
+county,precinct,office,district,Candidate,party,votes
+Arizona,Apache,Registered Voters,,Republican,,8554
+Arizona,Cochise,Registered Voters,,Republican,,26979
+Arizona,Coconino,Registered Voters,,Republican,,19635
+Arizona,Gila,Registered Voters,,Republican,,12301
+Arizona,Graham,Registered Voters,,Republican,,8066
+Arizona,Greenlee,Registered Voters,,Republican,,1345
+Arizona,La Paz,Registered Voters,,Republican,,3908
+Arizona,Maricopa,Registered Voters,,Republican,,790246
+Arizona,Mohave,Registered Voters,,Republican,,54475
+Arizona,Navajo,Registered Voters,,Republican,,20587
+Arizona,Pima,Registered Voters,,Republican,,157706
+Arizona,Pinal,Registered Voters,,Republican,,68277
+Arizona,Santa Cruz,Registered Voters,,Republican,,4614
+Arizona,Yavapai,Registered Voters,,Republican,,63229
+Arizona,Yuma,Registered Voters,,Republican,,24248
+Arizona,TOTAL,Registered Voters,,Republican,,1264295
+Arizona,Apache,Registered Voters,,Democratic,,27385
+Arizona,Cochise,Registered Voters,,Democratic,,18589
+Arizona,Coconino,Registered Voters,,Democratic,,30512
+Arizona,Gila,Registered Voters,,Democratic,,8665
+Arizona,Graham,Registered Voters,,Democratic,,5076
+Arizona,Greenlee,Registered Voters,,Democratic,,1857
+Arizona,La Paz,Registered Voters,,Democratic,,2231
+Arizona,Maricopa,Registered Voters,,Democratic,,649268
+Arizona,Mohave,Registered Voters,,Democratic,,20140
+Arizona,Navajo,Registered Voters,,Democratic,,24136
+Arizona,Pima,Registered Voters,,Democratic,,200943
+Arizona,Pinal,Registered Voters,,Democratic,,51612
+Arizona,Santa Cruz,Registered Voters,,Democratic,,14189
+Arizona,Yavapai,Registered Voters,,Democratic,,27846
+Arizona,Yuma,Registered Voters,,Democratic,,29072
+Arizona,TOTAL,Registered Voters,,Democratic,,1111580
+Arizona,Apache,Registered Voters,,Libertarian,,147
+Arizona,Cochise,Registered Voters,,Libertarian,,558
+Arizona,Coconino,Registered Voters,,Libertarian,,742
+Arizona,Gila,Registered Voters,,Libertarian,,175
+Arizona,Graham,Registered Voters,,Libertarian,,82
+Arizona,Greenlee,Registered Voters,,Libertarian,,32
+Arizona,La Paz,Registered Voters,,Libertarian,,38
+Arizona,Maricopa,Registered Voters,,Libertarian,,20949
+Arizona,Mohave,Registered Voters,,Libertarian,,705
+Arizona,Navajo,Registered Voters,,Libertarian,,400
+Arizona,Pima,Registered Voters,,Libertarian,,4100
+Arizona,Pinal,Registered Voters,,Libertarian,,1493
+Arizona,Santa Cruz,Registered Voters,,Libertarian,,152
+Arizona,Yavapai,Registered Voters,,Libertarian,,1041
+Arizona,Yuma,Registered Voters,,Libertarian,,558
+Arizona,TOTAL,Registered Voters,,Libertarian,,31177
+Arizona,Apache,Registered Voters,,Green,,46
+Arizona,Cochise,Registered Voters,,Green,,114
+Arizona,Coconino,Registered Voters,,Green,,249
+Arizona,Gila,Registered Voters,,Green,,29
+Arizona,Graham,Registered Voters,,Green,,9
+Arizona,Greenlee,Registered Voters,,Green,,3
+Arizona,La Paz,Registered Voters,,Green,,12
+Arizona,Maricopa,Registered Voters,,Green,,3736
+Arizona,Mohave,Registered Voters,,Green,,139
+Arizona,Navajo,Registered Voters,,Green,,77
+Arizona,Pima,Registered Voters,,Green,,1485
+Arizona,Pinal,Registered Voters,,Green,,272
+Arizona,Santa Cruz,Registered Voters,,Green,,67
+Arizona,Yavapai,Registered Voters,,Green,,273
+Arizona,Yuma,Registered Voters,,Green,,58
+Arizona,TOTAL,Registered Voters,,Green,,6569
+Arizona,Apache,Registered Voters,,Other,,12229
+Arizona,Cochise,Registered Voters,,Other,,23202
+Arizona,Coconino,Registered Voters,,Other,,24445
+Arizona,Gila,Registered Voters,,Other,,7723
+Arizona,Graham,Registered Voters,,Other,,4152
+Arizona,Greenlee,Registered Voters,,Other,,1248
+Arizona,La Paz,Registered Voters,,Other,,3625
+Arizona,Maricopa,Registered Voters,,Other,,765519
+Arizona,Mohave,Registered Voters,,Other,,43109
+Arizona,Navajo,Registered Voters,,Other,,16958
+Arizona,Pima,Registered Voters,,Other,,160746
+Arizona,Pinal,Registered Voters,,Other,,71464
+Arizona,Santa Cruz,Registered Voters,,Other,,8742
+Arizona,Yavapai,Registered Voters,,Other,,44081
+Arizona,Yuma,Registered Voters,,Other,,31370
+Arizona,TOTAL,Registered Voters,,Other,,1218716
+Arizona,Apache,Registered Voters,,Total,,"48,361"
+Arizona,Cochise,Registered Voters,,Total,,"69,442"
+Arizona,Coconino,Registered Voters,,Total,,"75,583"
+Arizona,Gila,Registered Voters,,Total,,"28,893"
+Arizona,Graham,Registered Voters,,Total,,"17,385"
+Arizona,Greenlee,Registered Voters,,Total,,"4,485"
+Arizona,La Paz,Registered Voters,,Total,,"9,814"
+Arizona,Maricopa,Registered Voters,,Total,,"2,229,718"
+Arizona,Mohave,Registered Voters,,Total,,"118,568"
+Arizona,Navajo,Registered Voters,,Total,,"62,158"
+Arizona,Pima,Registered Voters,,Total,,"524,980"
+Arizona,Pinal,Registered Voters,,Total,,"193,118"
+Arizona,Santa Cruz,Registered Voters,,Total,,"27,764"
+Arizona,Yavapai,Registered Voters,,Total,,"136,470"
+Arizona,Yuma,Registered Voters,,Total,,"85,306"
+Arizona,TOTAL,Registered Voters,,Total,,"3,632,045"
+Arizona,Apache,Ballots Cast,,Republican,,4567
+Arizona,Cochise,Ballots Cast,,Republican,,16321
+Arizona,Coconino,Ballots Cast,,Republican,,10516
+Arizona,Gila,Ballots Cast,,Republican,,8431
+Arizona,Graham,Ballots Cast,,Republican,,4138
+Arizona,Greenlee,Ballots Cast,,Republican,,672
+Arizona,La Paz,Ballots Cast,,Republican,,1946
+Arizona,Maricopa,Ballots Cast,,Republican,,397977
+Arizona,Mohave,Ballots Cast,,Republican,,30539
+Arizona,Navajo,Ballots Cast,,Republican,,11434
+Arizona,Pima,Ballots Cast,,Republican,,94191
+Arizona,Pinal,Ballots Cast,,Republican,,34513
+Arizona,Santa Cruz,Ballots Cast,,Republican,,1969
+Arizona,Yavapai,Ballots Cast,,Republican,,43920
+Arizona,Yuma,Ballots Cast,,Republican,,11318
+Arizona,TOTAL,Ballots Cast,,Republican,,672452
+Arizona,Apache,Ballots Cast,,Democratic,,12137
+Arizona,Cochise,Ballots Cast,,Democratic,,9877
+Arizona,Coconino,Ballots Cast,,Democratic,,15755
+Arizona,Gila,Ballots Cast,,Democratic,,4468
+Arizona,Graham,Ballots Cast,,Democratic,,1752
+Arizona,Greenlee,Ballots Cast,,Democratic,,805
+Arizona,La Paz,Ballots Cast,,Democratic,,682
+Arizona,Maricopa,Ballots Cast,,Democratic,,293621
+Arizona,Mohave,Ballots Cast,,Democratic,,8995
+Arizona,Navajo,Ballots Cast,,Democratic,,9753
+Arizona,Pima,Ballots Cast,,Democratic,,113493
+Arizona,Pinal,Ballots Cast,,Democratic,,21685
+Arizona,Santa Cruz,Ballots Cast,,Democratic,,4979
+Arizona,Yavapai,Ballots Cast,,Democratic,,19504
+Arizona,Yuma,Ballots Cast,,Democratic,,9068
+Arizona,TOTAL,Ballots Cast,,Democratic,,526574
+Arizona,Apache,Ballots Cast,,Libertarian,,37
+Arizona,Cochise,Ballots Cast,,Libertarian,,103
+Arizona,Coconino,Ballots Cast,,Libertarian,,117
+Arizona,Gila,Ballots Cast,,Libertarian,,48
+Arizona,Graham,Ballots Cast,,Libertarian,,15
+Arizona,Greenlee,Ballots Cast,,Libertarian,,6
+Arizona,La Paz,Ballots Cast,,Libertarian,,15
+Arizona,Maricopa,Ballots Cast,,Libertarian,,3104
+Arizona,Mohave,Ballots Cast,,Libertarian,,131
+Arizona,Navajo,Ballots Cast,,Libertarian,,64
+Arizona,Pima,Ballots Cast,,Libertarian,,705
+Arizona,Pinal,Ballots Cast,,Libertarian,,216
+Arizona,Santa Cruz,Ballots Cast,,Libertarian,,18
+Arizona,Yavapai,Ballots Cast,,Libertarian,,253
+Arizona,Yuma,Ballots Cast,,Libertarian,,66
+Arizona,TOTAL,Ballots Cast,,Libertarian,,4898
+Arizona,Apache,Ballots Cast,,Green,,172
+Arizona,Cochise,Ballots Cast,,Green,,124
+Arizona,Coconino,Ballots Cast,,Green,,153
+Arizona,Gila,Ballots Cast,,Green,,48
+Arizona,Graham,Ballots Cast,,Green,,10
+Arizona,Greenlee,Ballots Cast,,Green,,7
+Arizona,La Paz,Ballots Cast,,Green,,15
+Arizona,Maricopa,Ballots Cast,,Green,,1888
+Arizona,Mohave,Ballots Cast,,Green,,228
+Arizona,Navajo,Ballots Cast,,Green,,139
+Arizona,Pima,Ballots Cast,,Green,,895
+Arizona,Pinal,Ballots Cast,,Green,,143
+Arizona,Santa Cruz,Ballots Cast,,Green,,26
+Arizona,Yavapai,Ballots Cast,,Green,,316
+Arizona,Yuma,Ballots Cast,,Green,,25
+Arizona,TOTAL,Ballots Cast,,Green,,4189
+Arizona,Apache,Ballots Cast,,Total,,16913
+Arizona,Cochise,Ballots Cast,,Total,,26425
+Arizona,Coconino,Ballots Cast,,Total,,26541
+Arizona,Gila,Ballots Cast,,Total,,12995
+Arizona,Graham,Ballots Cast,,Total,,5915
+Arizona,Greenlee,Ballots Cast,,Total,,1490
+Arizona,La Paz,Ballots Cast,,Total,,2658
+Arizona,Maricopa,Ballots Cast,,Total,,696590
+Arizona,Mohave,Ballots Cast,,Total,,39893
+Arizona,Navajo,Ballots Cast,,Total,,21390
+Arizona,Pima,Ballots Cast,,Total,,209284
+Arizona,Pinal,Ballots Cast,,Total,,56557
+Arizona,Santa Cruz,Ballots Cast,,Total,,6992
+Arizona,Yavapai,Ballots Cast,,Total,,63993
+Arizona,Yuma,Ballots Cast,,Total,,20477
+Arizona,TOTAL,Ballots Cast,,Total,,1208113
+Arizona,Apache,U.S. Senate,,Joe Arpaio,REP,1380
+Arizona,Cochise,U.S. Senate,,Joe Arpaio,REP,2783
+Arizona,Coconino,U.S. Senate,,Joe Arpaio,REP,2354
+Arizona,Gila,U.S. Senate,,Joe Arpaio,REP,2275
+Arizona,Graham,U.S. Senate,,Joe Arpaio,REP,1268
+Arizona,Greenlee,U.S. Senate,,Joe Arpaio,REP,216
+Arizona,La Paz,U.S. Senate,,Joe Arpaio,REP,688
+Arizona,Maricopa,U.S. Senate,,Joe Arpaio,REP,62516
+Arizona,Mohave,U.S. Senate,,Joe Arpaio,REP,8262
+Arizona,Navajo,U.S. Senate,,Joe Arpaio,REP,3123
+Arizona,Pima,U.S. Senate,,Joe Arpaio,REP,10477
+Arizona,Pinal,U.S. Senate,,Joe Arpaio,REP,7151
+Arizona,Santa Cruz,U.S. Senate,,Joe Arpaio,REP,266
+Arizona,Yavapai,U.S. Senate,,Joe Arpaio,REP,10061
+Arizona,Yuma,U.S. Senate,,Joe Arpaio,REP,3735
+Arizona,TOTAL,U.S. Senate,,Joe Arpaio,REP,116555
+Arizona,Apache,U.S. Senate,,Nicholas N. Glenn,REP,3
+Arizona,Cochise,U.S. Senate,,Nicholas N. Glenn,REP,4
+Arizona,Coconino,U.S. Senate,,Nicholas N. Glenn,REP,2
+Arizona,Gila,U.S. Senate,,Nicholas N. Glenn,REP,1
+Arizona,Graham,U.S. Senate,,Nicholas N. Glenn,REP,0
+Arizona,Greenlee,U.S. Senate,,Nicholas N. Glenn,REP,0
+Arizona,La Paz,U.S. Senate,,Nicholas N. Glenn,REP,0
+Arizona,Maricopa,U.S. Senate,,Nicholas N. Glenn,REP,79
+Arizona,Mohave,U.S. Senate,,Nicholas N. Glenn,REP,1
+Arizona,Navajo,U.S. Senate,,Nicholas N. Glenn,REP,2
+Arizona,Pima,U.S. Senate,,Nicholas N. Glenn,REP,9
+Arizona,Pinal,U.S. Senate,,Nicholas N. Glenn,REP,8
+Arizona,Santa Cruz,U.S. Senate,,Nicholas N. Glenn,REP,1
+Arizona,Yavapai,U.S. Senate,,Nicholas N. Glenn,REP,10
+Arizona,Yuma,U.S. Senate,,Nicholas N. Glenn,REP,1
+Arizona,TOTAL,U.S. Senate,,Nicholas N. Glenn,REP,121
+Arizona,Apache,U.S. Senate,,William Gonzales,REP,0
+Arizona,Cochise,U.S. Senate,,William Gonzales,REP,1
+Arizona,Coconino,U.S. Senate,,William Gonzales,REP,2
+Arizona,Gila,U.S. Senate,,William Gonzales,REP,0
+Arizona,Graham,U.S. Senate,,William Gonzales,REP,0
+Arizona,Greenlee,U.S. Senate,,William Gonzales,REP,0
+Arizona,La Paz,U.S. Senate,,William Gonzales,REP,0
+Arizona,Maricopa,U.S. Senate,,William Gonzales,REP,36
+Arizona,Mohave,U.S. Senate,,William Gonzales,REP,1
+Arizona,Navajo,U.S. Senate,,William Gonzales,REP,15
+Arizona,Pima,U.S. Senate,,William Gonzales,REP,9
+Arizona,Pinal,U.S. Senate,,William Gonzales,REP,3
+Arizona,Santa Cruz,U.S. Senate,,William Gonzales,REP,0
+Arizona,Yavapai,U.S. Senate,,William Gonzales,REP,3
+Arizona,Yuma,U.S. Senate,,William Gonzales,REP,0
+Arizona,TOTAL,U.S. Senate,,William Gonzales,REP,70
+Arizona,Apache,U.S. Senate,,Martha McSally,REP,1778
+Arizona,Cochise,U.S. Senate,,Martha McSally,REP,9589
+Arizona,Coconino,U.S. Senate,,Martha McSally,REP,4918
+Arizona,Gila,U.S. Senate,,Martha McSally,REP,3695
+Arizona,Graham,U.S. Senate,,Martha McSally,REP,1893
+Arizona,Greenlee,U.S. Senate,,Martha McSally,REP,279
+Arizona,La Paz,U.S. Senate,,Martha McSally,REP,760
+Arizona,Maricopa,U.S. Senate,,Martha McSally,REP,218120
+Arizona,Mohave,U.S. Senate,,Martha McSally,REP,11474
+Arizona,Navajo,U.S. Senate,,Martha McSally,REP,4907
+Arizona,Pima,U.S. Senate,,Martha McSally,REP,57169
+Arizona,Pinal,U.S. Senate,,Martha McSally,REP,17651
+Arizona,Santa Cruz,U.S. Senate,,Martha McSally,REP,1072
+Arizona,Yavapai,U.S. Senate,,Martha McSally,REP,20600
+Arizona,Yuma,U.S. Senate,,Martha McSally,REP,3721
+Arizona,TOTAL,U.S. Senate,,Martha McSally,REP,357626
+Arizona,Apache,U.S. Senate,,Kelli Ward,REP,1284
+Arizona,Cochise,U.S. Senate,,Kelli Ward,REP,3722
+Arizona,Coconino,U.S. Senate,,Kelli Ward,REP,2955
+Arizona,Gila,U.S. Senate,,Kelli Ward,REP,2185
+Arizona,Graham,U.S. Senate,,Kelli Ward,REP,889
+Arizona,Greenlee,U.S. Senate,,Kelli Ward,REP,169
+Arizona,La Paz,U.S. Senate,,Kelli Ward,REP,448
+Arizona,Maricopa,U.S. Senate,,Kelli Ward,REP,105837
+Arizona,Mohave,U.S. Senate,,Kelli Ward,REP,10148
+Arizona,Navajo,U.S. Senate,,Kelli Ward,REP,3198
+Arizona,Pima,U.S. Senate,,Kelli Ward,REP,24907
+Arizona,Pinal,U.S. Senate,,Kelli Ward,REP,8966
+Arizona,Santa Cruz,U.S. Senate,,Kelli Ward,REP,574
+Arizona,Yavapai,U.S. Senate,,Kelli Ward,REP,12092
+Arizona,Yuma,U.S. Senate,,Kelli Ward,REP,3552
+Arizona,TOTAL,U.S. Senate,,Kelli Ward,REP,180926
+Arizona,Apache,U.S. Senate,,Deedra Abboud,DEM,3333
+Arizona,Cochise,U.S. Senate,,Deedra Abboud,DEM,1800
+Arizona,Coconino,U.S. Senate,,Deedra Abboud,DEM,4147
+Arizona,Gila,U.S. Senate,,Deedra Abboud,DEM,660
+Arizona,Graham,U.S. Senate,,Deedra Abboud,DEM,338
+Arizona,Greenlee,U.S. Senate,,Deedra Abboud,DEM,143
+Arizona,La Paz,U.S. Senate,,Deedra Abboud,DEM,142
+Arizona,Maricopa,U.S. Senate,,Deedra Abboud,DEM,56750
+Arizona,Mohave,U.S. Senate,,Deedra Abboud,DEM,1537
+Arizona,Navajo,U.S. Senate,,Deedra Abboud,DEM,2191
+Arizona,Pima,U.S. Senate,,Deedra Abboud,DEM,24629
+Arizona,Pinal,U.S. Senate,,Deedra Abboud,DEM,3460
+Arizona,Santa Cruz,U.S. Senate,,Deedra Abboud,DEM,1098
+Arizona,Yavapai,U.S. Senate,,Deedra Abboud,DEM,3315
+Arizona,Yuma,U.S. Senate,,Deedra Abboud,DEM,2257
+Arizona,TOTAL,U.S. Senate,,Deedra Abboud,DEM,105800
+Arizona,Apache,U.S. Senate,,Kyrsten Sinema,DEM,7946
+Arizona,Cochise,U.S. Senate,,Kyrsten Sinema,DEM,7645
+Arizona,Coconino,U.S. Senate,,Kyrsten Sinema,DEM,11055
+Arizona,Gila,U.S. Senate,,Kyrsten Sinema,DEM,3546
+Arizona,Graham,U.S. Senate,,Kyrsten Sinema,DEM,1316
+Arizona,Greenlee,U.S. Senate,,Kyrsten Sinema,DEM,600
+Arizona,La Paz,U.S. Senate,,Kyrsten Sinema,DEM,493
+Arizona,Maricopa,U.S. Senate,,Kyrsten Sinema,DEM,230433
+Arizona,Mohave,U.S. Senate,,Kyrsten Sinema,DEM,6935
+Arizona,Navajo,U.S. Senate,,Kyrsten Sinema,DEM,7067
+Arizona,Pima,U.S. Senate,,Kyrsten Sinema,DEM,85574
+Arizona,Pinal,U.S. Senate,,Kyrsten Sinema,DEM,17517
+Arizona,Santa Cruz,U.S. Senate,,Kyrsten Sinema,DEM,3409
+Arizona,Yavapai,U.S. Senate,,Kyrsten Sinema,DEM,15457
+Arizona,Yuma,U.S. Senate,,Kyrsten Sinema,DEM,5177
+Arizona,TOTAL,U.S. Senate,,Kyrsten Sinema,DEM,404170
+Arizona,Apache,U.S. Senate,,Adam Kokesh,LBT,16
+Arizona,Cochise,U.S. Senate,,Adam Kokesh,LBT,49
+Arizona,Coconino,U.S. Senate,,Adam Kokesh,LBT,59
+Arizona,Gila,U.S. Senate,,Adam Kokesh,LBT,15
+Arizona,Graham,U.S. Senate,,Adam Kokesh,LBT,11
+Arizona,Greenlee,U.S. Senate,,Adam Kokesh,LBT,4
+Arizona,La Paz,U.S. Senate,,Adam Kokesh,LBT,7
+Arizona,Maricopa,U.S. Senate,,Adam Kokesh,LBT,1314
+Arizona,Mohave,U.S. Senate,,Adam Kokesh,LBT,56
+Arizona,Navajo,U.S. Senate,,Adam Kokesh,LBT,16
+Arizona,Pima,U.S. Senate,,Adam Kokesh,LBT,368
+Arizona,Pinal,U.S. Senate,,Adam Kokesh,LBT,95
+Arizona,Santa Cruz,U.S. Senate,,Adam Kokesh,LBT,4
+Arizona,Yavapai,U.S. Senate,,Adam Kokesh,LBT,116
+Arizona,Yuma,U.S. Senate,,Adam Kokesh,LBT,39
+Arizona,TOTAL,U.S. Senate,,Adam Kokesh,LBT,2169
+Arizona,Apache,U.S. Senate,,Angela Green,GRN,34
+Arizona,Cochise,U.S. Senate,,Angela Green,GRN,17
+Arizona,Coconino,U.S. Senate,,Angela Green,GRN,32
+Arizona,Gila,U.S. Senate,,Angela Green,GRN,1
+Arizona,Graham,U.S. Senate,,Angela Green,GRN,0
+Arizona,Greenlee,U.S. Senate,,Angela Green,GRN,0
+Arizona,La Paz,U.S. Senate,,Angela Green,GRN,0
+Arizona,Maricopa,U.S. Senate,,Angela Green,GRN,142
+Arizona,Mohave,U.S. Senate,,Angela Green,GRN,1
+Arizona,Navajo,U.S. Senate,,Angela Green,GRN,26
+Arizona,Pima,U.S. Senate,,Angela Green,GRN,116
+Arizona,Pinal,U.S. Senate,,Angela Green,GRN,5
+Arizona,Santa Cruz,U.S. Senate,,Angela Green,GRN,2
+Arizona,Yavapai,U.S. Senate,,Angela Green,GRN,10
+Arizona,Yuma,U.S. Senate,,Angela Green,GRN,3
+Arizona,TOTAL,U.S. Senate,,Angela Green,GRN,389
+Arizona,Apache,U.S. House,1,Wendy Rogers,REP,2366
+Arizona,Coconino,U.S. House,1,Wendy Rogers,REP,5112
+Arizona,Gila,U.S. House,1,Wendy Rogers,REP,743
+Arizona,Graham,U.S. House,1,Wendy Rogers,REP,1800
+Arizona,Greenlee,U.S. House,1,Wendy Rogers,REP,251
+Arizona,Maricopa,U.S. House,1,Wendy Rogers,REP,5
+Arizona,Mohave,U.S. House,1,Wendy Rogers,REP,11
+Arizona,Navajo,U.S. House,1,Wendy Rogers,REP,5367
+Arizona,Pima,U.S. House,1,Wendy Rogers,REP,6664
+Arizona,Pinal,U.S. House,1,Wendy Rogers,REP,5699
+Arizona,Yavapai,U.S. House,1,Wendy Rogers,REP,2162
+Arizona,TOTAL,U.S. House,1,Wendy Rogers,REP,30180
+Arizona,Apache,U.S. House,1,Tiffany Shedd,REP,770
+Arizona,Coconino,U.S. House,1,Tiffany Shedd,REP,1515
+Arizona,Gila,U.S. House,1,Tiffany Shedd,REP,365
+Arizona,Graham,U.S. House,1,Tiffany Shedd,REP,827
+Arizona,Greenlee,U.S. House,1,Tiffany Shedd,REP,151
+Arizona,Maricopa,U.S. House,1,Tiffany Shedd,REP,4
+Arizona,Mohave,U.S. House,1,Tiffany Shedd,REP,0
+Arizona,Navajo,U.S. House,1,Tiffany Shedd,REP,2104
+Arizona,Pima,U.S. House,1,Tiffany Shedd,REP,3025
+Arizona,Pinal,U.S. House,1,Tiffany Shedd,REP,3883
+Arizona,Yavapai,U.S. House,1,Tiffany Shedd,REP,616
+Arizona,TOTAL,U.S. House,1,Tiffany Shedd,REP,13260
+Arizona,Apache,U.S. House,1,Steve Smith,REP,1166
+Arizona,Coconino,U.S. House,1,Steve Smith,REP,3067
+Arizona,Gila,U.S. House,1,Steve Smith,REP,468
+Arizona,Graham,U.S. House,1,Steve Smith,REP,1279
+Arizona,Greenlee,U.S. House,1,Steve Smith,REP,235
+Arizona,Maricopa,U.S. House,1,Steve Smith,REP,2
+Arizona,Mohave,U.S. House,1,Steve Smith,REP,16
+Arizona,Navajo,U.S. House,1,Steve Smith,REP,3300
+Arizona,Pima,U.S. House,1,Steve Smith,REP,7130
+Arizona,Pinal,U.S. House,1,Steve Smith,REP,7202
+Arizona,Yavapai,U.S. House,1,Steve Smith,REP,1687
+Arizona,TOTAL,U.S. House,1,Steve Smith,REP,25552
+Arizona,Apache,U.S. House,1,Tom O'Halleran,DEM,10926
+Arizona,Coconino,U.S. House,1,Tom O'Halleran,DEM,14230
+Arizona,Gila,U.S. House,1,Tom O'Halleran,DEM,1980
+Arizona,Graham,U.S. House,1,Tom O'Halleran,DEM,1483
+Arizona,Greenlee,U.S. House,1,Tom O'Halleran,DEM,664
+Arizona,Maricopa,U.S. House,1,Tom O'Halleran,DEM,67
+Arizona,Mohave,U.S. House,1,Tom O'Halleran,DEM,39
+Arizona,Navajo,U.S. House,1,Tom O'Halleran,DEM,8651
+Arizona,Pima,U.S. House,1,Tom O'Halleran,DEM,10947
+Arizona,Pinal,U.S. House,1,Tom O'Halleran,DEM,11751
+Arizona,Yavapai,U.S. House,1,Tom O'Halleran,DEM,3376
+Arizona,TOTAL,U.S. House,1,Tom O'Halleran,DEM,64114
+Arizona,Apache,U.S. House,1,Zhani Doko,LBT,11
+Arizona,Coconino,U.S. House,1,Zhani Doko,LBT,48
+Arizona,Gila,U.S. House,1,Zhani Doko,LBT,3
+Arizona,Graham,U.S. House,1,Zhani Doko,LBT,8
+Arizona,Greenlee,U.S. House,1,Zhani Doko,LBT,3
+Arizona,Maricopa,U.S. House,1,Zhani Doko,LBT,0
+Arizona,Mohave,U.S. House,1,Zhani Doko,LBT,7
+Arizona,Navajo,U.S. House,1,Zhani Doko,LBT,16
+Arizona,Pima,U.S. House,1,Zhani Doko,LBT,31
+Arizona,Pinal,U.S. House,1,Zhani Doko,LBT,65
+Arizona,Yavapai,U.S. House,1,Zhani Doko,LBT,10
+Arizona,TOTAL,U.S. House,1,Zhani Doko,LBT,202
+Arizona,Cochise,U.S. House,2,Lea Marquez Peterson,REP,3517
+Arizona,Pima,U.S. House,2,Lea Marquez Peterson,REP,20054
+Arizona,TOTAL,U.S. House,2,Lea Marquez Peterson,REP,23571
+Arizona,Cochise,U.S. House,2,Brandon Martin,REP,5059
+Arizona,Pima,U.S. House,2,Brandon Martin,REP,14750
+Arizona,TOTAL,U.S. House,2,Brandon Martin,REP,19809
+Arizona,Cochise,U.S. House,2,Daniel Romero Morales Jr,REP,2787
+Arizona,Pima,U.S. House,2,Daniel Romero Morales Jr,REP,8348
+Arizona,TOTAL,U.S. House,2,Daniel Romero Morales Jr,REP,11135
+Arizona,Cochise,U.S. House,2,Casey Welch,REP,3023
+Arizona,Pima,U.S. House,2,Casey Welch,REP,11476
+Arizona,TOTAL,U.S. House,2,Casey Welch,REP,14499
+Arizona,Cochise,U.S. House,2,Matt Heinz,DEM,2862
+Arizona,Pima,U.S. House,2,Matt Heinz,DEM,21130
+Arizona,TOTAL,U.S. House,2,Matt Heinz,DEM,23992
+Arizona,Cochise,U.S. House,2,Ann Kirkpatrick,DEM,4072
+Arizona,Pima,U.S. House,2,Ann Kirkpatrick,DEM,29866
+Arizona,TOTAL,U.S. House,2,Ann Kirkpatrick,DEM,33938
+Arizona,Cochise,U.S. House,2,Billy Kovacs,DEM,386
+Arizona,Pima,U.S. House,2,Billy Kovacs,DEM,4964
+Arizona,TOTAL,U.S. House,2,Billy Kovacs,DEM,5350
+Arizona,Cochise,U.S. House,2,"Maria ""Mary"" Matiella",DEM,982
+Arizona,Pima,U.S. House,2,"Maria ""Mary"" Matiella",DEM,6624
+Arizona,TOTAL,U.S. House,2,"Maria ""Mary"" Matiella",DEM,7606
+Arizona,Cochise,U.S. House,2,Barbara Sherry,DEM,444
+Arizona,Pima,U.S. House,2,Barbara Sherry,DEM,1630
+Arizona,TOTAL,U.S. House,2,Barbara Sherry,DEM,2074
+Arizona,Cochise,U.S. House,2,Bruce Wheeler,DEM,524
+Arizona,Pima,U.S. House,2,Bruce Wheeler,DEM,6290
+Arizona,TOTAL,U.S. House,2,Bruce Wheeler,DEM,6814
+Arizona,Cochise,U.S. House,2,Yahya Yuksel,DEM,146
+Arizona,Pima,U.S. House,2,Yahya Yuksel,DEM,1173
+Arizona,TOTAL,U.S. House,2,Yahya Yuksel,DEM,1319
+Arizona,Maricopa,U.S. House,3,Sergio Arellano,REP,2500
+Arizona,Pima,U.S. House,3,Sergio Arellano,REP,3079
+Arizona,Pinal,U.S. House,3,Sergio Arellano,REP,1
+Arizona,Santa Cruz,U.S. House,3,Sergio Arellano,REP,622
+Arizona,Yuma,U.S. House,3,Sergio Arellano,REP,1198
+Arizona,TOTAL,U.S. House,3,Sergio Arellano,REP,7400
+Arizona,Maricopa,U.S. House,3,"Nicolas ""Nick"" Pierson",REP,5953
+Arizona,Pima,U.S. House,3,"Nicolas ""Nick"" Pierson",REP,4595
+Arizona,Pinal,U.S. House,3,"Nicolas ""Nick"" Pierson",REP,0
+Arizona,Santa Cruz,U.S. House,3,"Nicolas ""Nick"" Pierson",REP,720
+Arizona,Yuma,U.S. House,3,"Nicolas ""Nick"" Pierson",REP,1822
+Arizona,TOTAL,U.S. House,3,"Nicolas ""Nick"" Pierson",REP,13090
+Arizona,Maricopa,U.S. House,3,Edna San Miguel,REP,2157
+Arizona,Pima,U.S. House,3,Edna San Miguel,REP,2609
+Arizona,Pinal,U.S. House,3,Edna San Miguel,REP,0
+Arizona,Santa Cruz,U.S. House,3,Edna San Miguel,REP,370
+Arizona,Yuma,U.S. House,3,Edna San Miguel,REP,620
+Arizona,TOTAL,U.S. House,3,Edna San Miguel,REP,5756
+Arizona,Maricopa,U.S. House,3,Joshua Garcia,DEM,15
+Arizona,Pima,U.S. House,3,Joshua Garcia,DEM,53
+Arizona,Pinal,U.S. House,3,Joshua Garcia,DEM,1
+Arizona,Santa Cruz,U.S. House,3,Joshua Garcia,DEM,4
+Arizona,Yuma,U.S. House,3,Joshua Garcia,DEM,8
+Arizona,TOTAL,U.S. House,3,Joshua Garcia,DEM,81
+Arizona,Maricopa,U.S. House,3,Rabl Grijalva,DEM,11291
+Arizona,Pima,U.S. House,3,Rabl Grijalva,DEM,23969
+Arizona,Pinal,U.S. House,3,Rabl Grijalva,DEM,38
+Arizona,Santa Cruz,U.S. House,3,Rabl Grijalva,DEM,4353
+Arizona,Yuma,U.S. House,3,Rabl Grijalva,DEM,5535
+Arizona,TOTAL,U.S. House,3,Rabl Grijalva,DEM,45186
+Arizona,Gila,U.S. House,4,Paul Gosar,REP,5580
+Arizona,La Paz,U.S. House,4,Paul Gosar,REP,1670
+Arizona,Maricopa,U.S. House,4,Paul Gosar,REP,7163
+Arizona,Mohave,U.S. House,4,Paul Gosar,REP,26078
+Arizona,Pinal,U.S. House,4,Paul Gosar,REP,14777
+Arizona,Yavapai,U.S. House,4,Paul Gosar,REP,32752
+Arizona,Yuma,U.S. House,4,Paul Gosar,REP,6072
+Arizona,TOTAL,U.S. House,4,Paul Gosar,REP,94092
+Arizona,Gila,U.S. House,4,David Brill,DEM,964
+Arizona,La Paz,U.S. House,4,David Brill,DEM,290
+Arizona,Maricopa,U.S. House,4,David Brill,DEM,1202
+Arizona,Mohave,U.S. House,4,David Brill,DEM,3495
+Arizona,Pinal,U.S. House,4,David Brill,DEM,3056
+Arizona,Yavapai,U.S. House,4,David Brill,DEM,9000
+Arizona,Yuma,U.S. House,4,David Brill,DEM,1041
+Arizona,TOTAL,U.S. House,4,David Brill,DEM,19048
+Arizona,Gila,U.S. House,4,Delina DiSanto,DEM,785
+Arizona,La Paz,U.S. House,4,Delina DiSanto,DEM,288
+Arizona,Maricopa,U.S. House,4,Delina DiSanto,DEM,1543
+Arizona,Mohave,U.S. House,4,Delina DiSanto,DEM,4129
+Arizona,Pinal,U.S. House,4,Delina DiSanto,DEM,4280
+Arizona,Yavapai,U.S. House,4,Delina DiSanto,DEM,5016
+Arizona,Yuma,U.S. House,4,Delina DiSanto,DEM,1215
+Arizona,TOTAL,U.S. House,4,Delina DiSanto,DEM,17256
+Arizona,Gila,U.S. House,4,Ana Maria Perez,DEM,0
+Arizona,La Paz,U.S. House,4,Ana Maria Perez,DEM,2
+Arizona,Maricopa,U.S. House,4,Ana Maria Perez,DEM,3
+Arizona,Mohave,U.S. House,4,Ana Maria Perez,DEM,19
+Arizona,Pinal,U.S. House,4,Ana Maria Perez,DEM,2
+Arizona,Yavapai,U.S. House,4,Ana Maria Perez,DEM,20
+Arizona,Yuma,U.S. House,4,Ana Maria Perez,DEM,3
+Arizona,TOTAL,U.S. House,4,Ana Maria Perez,DEM,49
+Arizona,Gila,U.S. House,4,Haryaksha Gregor Knauer,GRN,15
+Arizona,La Paz,U.S. House,4,Haryaksha Gregor Knauer,GRN,10
+Arizona,Maricopa,U.S. House,4,Haryaksha Gregor Knauer,GRN,15
+Arizona,Mohave,U.S. House,4,Haryaksha Gregor Knauer,GRN,107
+Arizona,Pinal,U.S. House,4,Haryaksha Gregor Knauer,GRN,36
+Arizona,Yavapai,U.S. House,4,Haryaksha Gregor Knauer,GRN,136
+Arizona,Yuma,U.S. House,4,Haryaksha Gregor Knauer,GRN,4
+Arizona,TOTAL,U.S. House,4,Haryaksha Gregor Knauer,GRN,323
+Arizona,Maricopa,U.S. House,5,Andy Biggs,REP,86418
+Arizona,TOTAL,U.S. House,5,Andy Biggs,REP,86418
+Arizona,Maricopa,U.S. House,5,Joan Greene,DEM,27222
+Arizona,TOTAL,U.S. House,5,Joan Greene,DEM,27222
+Arizona,Maricopa,U.S. House,5,Jose Torres,DEM,18671
+Arizona,TOTAL,U.S. House,5,Jose Torres,DEM,18671
+Arizona,Maricopa,U.S. House,6,David Schweikert,REP,83406
+Arizona,TOTAL,U.S. House,6,David Schweikert,REP,83406
+Arizona,Maricopa,U.S. House,6,Anita Malik,DEM,22666
+Arizona,TOTAL,U.S. House,6,Anita Malik,DEM,22666
+Arizona,Maricopa,U.S. House,6,Garrick McFadden,DEM,10825
+Arizona,TOTAL,U.S. House,6,Garrick McFadden,DEM,10825
+Arizona,Maricopa,U.S. House,6,Heather Ross,DEM,20203
+Arizona,TOTAL,U.S. House,6,Heather Ross,DEM,20203
+Arizona,Maricopa,U.S. House,7,Ruben Gallego,DEM,32231
+Arizona,TOTAL,U.S. House,7,Ruben Gallego,DEM,32231
+Arizona,Maricopa,U.S. House,7,Catherine Miranda,DEM,10856
+Arizona,TOTAL,U.S. House,7,Catherine Miranda,DEM,10856
+Arizona,Maricopa,U.S. House,7,Gary Swing,GRN,13
+Arizona,TOTAL,U.S. House,7,Gary Swing,GRN,13
+Arizona,Maricopa,U.S. House,8,Sandra E. Dowling,REP,21825
+Arizona,TOTAL,U.S. House,8,Sandra E. Dowling,REP,21825
+Arizona,Maricopa,U.S. House,8,Debbie Lesko,REP,73776
+Arizona,TOTAL,U.S. House,8,Debbie Lesko,REP,73776
+Arizona,Maricopa,U.S. House,8,Hirai Tipirneni,DEM,52215
+Arizona,TOTAL,U.S. House,8,Hirai Tipirneni,DEM,52215
+Arizona,Maricopa,U.S. House,9,Irina Baroness von Behr,REP,4020
+Arizona,TOTAL,U.S. House,9,Irina Baroness von Behr,REP,4020
+Arizona,Maricopa,U.S. House,9,Stephen L Ferrara,REP,31006
+Arizona,TOTAL,U.S. House,9,Stephen L Ferrara,REP,31006
+Arizona,Maricopa,U.S. House,9,Dave Giles,REP,16722
+Arizona,TOTAL,U.S. House,9,Dave Giles,REP,16722
+Arizona,Maricopa,U.S. House,9,Greg Stanton,DEM,59066
+Arizona,TOTAL,U.S. House,9,Greg Stanton,DEM,59066
+Arizona,Apache,Governor,,Ken Bennett,REP,1795
+Arizona,Cochise,Governor,,Ken Bennett,REP,5055
+Arizona,Coconino,Governor,,Ken Bennett,REP,3192
+Arizona,Gila,Governor,,Ken Bennett,REP,2817
+Arizona,Graham,Governor,,Ken Bennett,REP,1554
+Arizona,Greenlee,Governor,,Ken Bennett,REP,258
+Arizona,La Paz,Governor,,Ken Bennett,REP,597
+Arizona,Maricopa,Governor,,Ken Bennett,REP,107581
+Arizona,Mohave,Governor,,Ken Bennett,REP,7547
+Arizona,Navajo,Governor,,Ken Bennett,REP,3681
+Arizona,Pima,Governor,,Ken Bennett,REP,28113
+Arizona,Pinal,Governor,,Ken Bennett,REP,9814
+Arizona,Santa Cruz,Governor,,Ken Bennett,REP,574
+Arizona,Yavapai,Governor,,Ken Bennett,REP,16001
+Arizona,Yuma,Governor,,Ken Bennett,REP,3196
+Arizona,TOTAL,Governor,,Ken Bennett,REP,191775
+Arizona,Apache,Governor,,Doug Ducey,REP,2627
+Arizona,Cochise,Governor,,Doug Ducey,REP,10897
+Arizona,Coconino,Governor,,Doug Ducey,REP,7030
+Arizona,Gila,Governor,,Doug Ducey,REP,5363
+Arizona,Graham,Governor,,Doug Ducey,REP,2496
+Arizona,Greenlee,Governor,,Doug Ducey,REP,405
+Arizona,La Paz,Governor,,Doug Ducey,REP,1276
+Arizona,Maricopa,Governor,,Doug Ducey,REP,280443
+Arizona,Mohave,Governor,,Doug Ducey,REP,21947
+Arizona,Navajo,Governor,,Doug Ducey,REP,7422
+Arizona,Pima,Governor,,Doug Ducey,REP,63793
+Arizona,Pinal,Governor,,Doug Ducey,REP,23988
+Arizona,Santa Cruz,Governor,,Doug Ducey,REP,1320
+Arizona,Yavapai,Governor,,Doug Ducey,REP,26915
+Arizona,Yuma,Governor,,Doug Ducey,REP,7750
+Arizona,TOTAL,Governor,,Doug Ducey,REP,463672
+Arizona,Apache,Governor,,Robert Weber,REP,5
+Arizona,Cochise,Governor,,Robert Weber,REP,5
+Arizona,Coconino,Governor,,Robert Weber,REP,3
+Arizona,Gila,Governor,,Robert Weber,REP,0
+Arizona,Graham,Governor,,Robert Weber,REP,0
+Arizona,Greenlee,Governor,,Robert Weber,REP,0
+Arizona,La Paz,Governor,,Robert Weber,REP,0
+Arizona,Maricopa,Governor,,Robert Weber,REP,54
+Arizona,Mohave,Governor,,Robert Weber,REP,1
+Arizona,Navajo,Governor,,Robert Weber,REP,2
+Arizona,Pima,Governor,,Robert Weber,REP,11
+Arizona,Pinal,Governor,,Robert Weber,REP,7
+Arizona,Santa Cruz,Governor,,Robert Weber,REP,2
+Arizona,Yavapai,Governor,,Robert Weber,REP,1
+Arizona,Yuma,Governor,,Robert Weber,REP,0
+Arizona,TOTAL,Governor,,Robert Weber,REP,91
+Arizona,Apache,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,12
+Arizona,Cochise,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,1
+Arizona,Coconino,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,3
+Arizona,Gila,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,0
+Arizona,Graham,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,0
+Arizona,Greenlee,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,0
+Arizona,La Paz,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,0
+Arizona,Maricopa,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,10
+Arizona,Mohave,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,0
+Arizona,Navajo,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,10
+Arizona,Pima,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,3
+Arizona,Pinal,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,3
+Arizona,Santa Cruz,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,0
+Arizona,Yavapai,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,1
+Arizona,Yuma,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,1
+Arizona,TOTAL,Governor,,"Mirza Fareed ""Fareed"" Baig (Write",DEM,44
+Arizona,Apache,Governor,,Steve Farley,DEM,3933
+Arizona,Cochise,Governor,,Steve Farley,DEM,3102
+Arizona,Coconino,Governor,,Steve Farley,DEM,4488
+Arizona,Gila,Governor,,Steve Farley,DEM,1277
+Arizona,Graham,Governor,,Steve Farley,DEM,489
+Arizona,Greenlee,Governor,,Steve Farley,DEM,223
+Arizona,La Paz,Governor,,Steve Farley,DEM,197
+Arizona,Maricopa,Governor,,Steve Farley,DEM,80305
+Arizona,Mohave,Governor,,Steve Farley,DEM,2938
+Arizona,Navajo,Governor,,Steve Farley,DEM,2858
+Arizona,Pima,Governor,,Steve Farley,DEM,46930
+Arizona,Pinal,Governor,,Steve Farley,DEM,6778
+Arizona,Santa Cruz,Governor,,Steve Farley,DEM,1163
+Arizona,Yavapai,Governor,,Steve Farley,DEM,6763
+Arizona,Yuma,Governor,,Steve Farley,DEM,1628
+Arizona,TOTAL,Governor,,Steve Farley,DEM,163072
+Arizona,Apache,Governor,,Kelly Fryer,DEM,3022
+Arizona,Cochise,Governor,,Kelly Fryer,DEM,1595
+Arizona,Coconino,Governor,,Kelly Fryer,DEM,3181
+Arizona,Gila,Governor,,Kelly Fryer,DEM,606
+Arizona,Graham,Governor,,Kelly Fryer,DEM,232
+Arizona,Greenlee,Governor,,Kelly Fryer,DEM,74
+Arizona,La Paz,Governor,,Kelly Fryer,DEM,126
+Arizona,Maricopa,Governor,,Kelly Fryer,DEM,45056
+Arizona,Mohave,Governor,,Kelly Fryer,DEM,1894
+Arizona,Navajo,Governor,,Kelly Fryer,DEM,1973
+Arizona,Pima,Governor,,Kelly Fryer,DEM,19918
+Arizona,Pinal,Governor,,Kelly Fryer,DEM,3583
+Arizona,Santa Cruz,Governor,,Kelly Fryer,DEM,609
+Arizona,Yavapai,Governor,,Kelly Fryer,DEM,3449
+Arizona,Yuma,Governor,,Kelly Fryer,DEM,1492
+Arizona,TOTAL,Governor,,Kelly Fryer,DEM,86810
+Arizona,Apache,Governor,,David Garcia,DEM,4333
+Arizona,Cochise,Governor,,David Garcia,DEM,4767
+Arizona,Coconino,Governor,,David Garcia,DEM,7519
+Arizona,Gila,Governor,,David Garcia,DEM,2265
+Arizona,Graham,Governor,,David Garcia,DEM,913
+Arizona,Greenlee,Governor,,David Garcia,DEM,444
+Arizona,La Paz,Governor,,David Garcia,DEM,307
+Arizona,Maricopa,Governor,,David Garcia,DEM,157145
+Arizona,Mohave,Governor,,David Garcia,DEM,3516
+Arizona,Navajo,Governor,,David Garcia,DEM,4294
+Arizona,Pima,Governor,,David Garcia,DEM,43385
+Arizona,Pinal,Governor,,David Garcia,DEM,10321
+Arizona,Santa Cruz,Governor,,David Garcia,DEM,2855
+Arizona,Yavapai,Governor,,David Garcia,DEM,8364
+Arizona,Yuma,Governor,,David Garcia,DEM,5127
+Arizona,TOTAL,Governor,,David Garcia,DEM,255555
+Arizona,Apache,Governor,,Barry Hess,LBT,17
+Arizona,Cochise,Governor,,Barry Hess,LBT,49
+Arizona,Coconino,Governor,,Barry Hess,LBT,53
+Arizona,Gila,Governor,,Barry Hess,LBT,17
+Arizona,Graham,Governor,,Barry Hess,LBT,12
+Arizona,Greenlee,Governor,,Barry Hess,LBT,5
+Arizona,La Paz,Governor,,Barry Hess,LBT,4
+Arizona,Maricopa,Governor,,Barry Hess,LBT,1326
+Arizona,Mohave,Governor,,Barry Hess,LBT,51
+Arizona,Navajo,Governor,,Barry Hess,LBT,17
+Arizona,Pima,Governor,,Barry Hess,LBT,375
+Arizona,Pinal,Governor,,Barry Hess,LBT,88
+Arizona,Santa Cruz,Governor,,Barry Hess,LBT,5
+Arizona,Yavapai,Governor,,Barry Hess,LBT,118
+Arizona,Yuma,Governor,,Barry Hess,LBT,39
+Arizona,TOTAL,Governor,,Barry Hess,LBT,2176
+Arizona,Apache,Governor,,Noah Dyer,GRN,6
+Arizona,Cochise,Governor,,Noah Dyer,GRN,8
+Arizona,Coconino,Governor,,Noah Dyer,GRN,7
+Arizona,Gila,Governor,,Noah Dyer,GRN,1
+Arizona,Graham,Governor,,Noah Dyer,GRN,0
+Arizona,Greenlee,Governor,,Noah Dyer,GRN,0
+Arizona,La Paz,Governor,,Noah Dyer,GRN,0
+Arizona,Maricopa,Governor,,Noah Dyer,GRN,52
+Arizona,Mohave,Governor,,Noah Dyer,GRN,0
+Arizona,Navajo,Governor,,Noah Dyer,GRN,10
+Arizona,Pima,Governor,,Noah Dyer,GRN,25
+Arizona,Pinal,Governor,,Noah Dyer,GRN,1
+Arizona,Santa Cruz,Governor,,Noah Dyer,GRN,1
+Arizona,Yavapai,Governor,,Noah Dyer,GRN,0
+Arizona,Yuma,Governor,,Noah Dyer,GRN,0
+Arizona,TOTAL,Governor,,Noah Dyer,GRN,111
+Arizona,Apache,Governor,,Angel Torres,GRN,20
+Arizona,Cochise,Governor,,Angel Torres,GRN,13
+Arizona,Coconino,Governor,,Angel Torres,GRN,20
+Arizona,Gila,Governor,,Angel Torres,GRN,2
+Arizona,Graham,Governor,,Angel Torres,GRN,0
+Arizona,Greenlee,Governor,,Angel Torres,GRN,0
+Arizona,La Paz,Governor,,Angel Torres,GRN,1
+Arizona,Maricopa,Governor,,Angel Torres,GRN,130
+Arizona,Mohave,Governor,,Angel Torres,GRN,1
+Arizona,Navajo,Governor,,Angel Torres,GRN,17
+Arizona,Pima,Governor,,Angel Torres,GRN,130
+Arizona,Pinal,Governor,,Angel Torres,GRN,5
+Arizona,Santa Cruz,Governor,,Angel Torres,GRN,1
+Arizona,Yavapai,Governor,,Angel Torres,GRN,18
+Arizona,Yuma,Governor,,Angel Torres,GRN,3
+Arizona,TOTAL,Governor,,Angel Torres,GRN,361
+Arizona,Maricopa,State Senate,1,Karen Fann,REP,9979
+Arizona,Yavapai,State Senate,1,Karen Fann,REP,28818
+Arizona,TOTAL,State Senate,1,Karen Fann,REP,38797
+Arizona,Maricopa,State Senate,1,Jo Craycraft,DEM,4196
+Arizona,Yavapai,State Senate,1,Jo Craycraft,DEM,10806
+Arizona,TOTAL,State Senate,1,Jo Craycraft,DEM,15002
+Arizona,Pima,State Senate,2,Shelley Kais,REP,5969
+Arizona,Santa Cruz,State Senate,2,Shelley Kais,REP,831
+Arizona,TOTAL,State Senate,2,Shelley Kais,REP,6800
+Arizona,Pima,State Senate,2,Bobby Wilson,REP,5259
+Arizona,Santa Cruz,State Senate,2,Bobby Wilson,REP,905
+Arizona,TOTAL,State Senate,2,Bobby Wilson,REP,6164
+Arizona,Pima,State Senate,2,Andrea Dalessandro,DEM,12035
+Arizona,Santa Cruz,State Senate,2,Andrea Dalessandro,DEM,4297
+Arizona,TOTAL,State Senate,2,Andrea Dalessandro,DEM,16332
+Arizona,Pima,State Senate,3,Sally Ann Gonzales,DEM,10632
+Arizona,TOTAL,State Senate,3,Sally Ann Gonzales,DEM,10632
+Arizona,Pima,State Senate,3,Betty Villegas,DEM,8547
+Arizona,TOTAL,State Senate,3,Betty Villegas,DEM,8547
+Arizona,Maricopa,State Senate,4,Lisa Otondo,DEM,3343
+Arizona,Pima,State Senate,4,Lisa Otondo,DEM,2441
+Arizona,Pinal,State Senate,4,Lisa Otondo,DEM,34
+Arizona,Yuma,State Senate,4,Lisa Otondo,DEM,4820
+Arizona,TOTAL,State Senate,4,Lisa Otondo,DEM,10638
+Arizona,La Paz,State Senate,5,Sonny Borrelli,REP,1669
+Arizona,Mohave,State Senate,5,Sonny Borrelli,REP,26249
+Arizona,TOTAL,State Senate,5,Sonny Borrelli,REP,27918
+Arizona,La Paz,State Senate,5,J'aime Morgaine,DEM,587
+Arizona,Mohave,State Senate,5,J'aime Morgaine,DEM,7478
+Arizona,TOTAL,State Senate,5,J'aime Morgaine,DEM,8065
+Arizona,Coconino,State Senate,6,Sylvia Tenney Allen,REP,6228
+Arizona,Gila,State Senate,6,Sylvia Tenney Allen,REP,5366
+Arizona,Navajo,State Senate,6,Sylvia Tenney Allen,REP,4184
+Arizona,Yavapai,State Senate,6,Sylvia Tenney Allen,REP,7266
+Arizona,TOTAL,State Senate,6,Sylvia Tenney Allen,REP,23044
+Arizona,Coconino,State Senate,6,Wade Carlisle,DEM,9374
+Arizona,Gila,State Senate,6,Wade Carlisle,DEM,1751
+Arizona,Navajo,State Senate,6,Wade Carlisle,DEM,1092
+Arizona,Yavapai,State Senate,6,Wade Carlisle,DEM,5595
+Arizona,TOTAL,State Senate,6,Wade Carlisle,DEM,17812
+Arizona,Coconino,State Senate,6,"Jeff ""JD"" Daniels",LBT,42
+Arizona,Gila,State Senate,6,"Jeff ""JD"" Daniels",LBT,14
+Arizona,Navajo,State Senate,6,"Jeff ""JD"" Daniels",LBT,4
+Arizona,Yavapai,State Senate,6,"Jeff ""JD"" Daniels",LBT,23
+Arizona,TOTAL,State Senate,6,"Jeff ""JD"" Daniels",LBT,83
+Arizona,Apache,State Senate,7,JL Mealer,REP,3422
+Arizona,Coconino,State Senate,7,JL Mealer,REP,1462
+Arizona,Gila,State Senate,7,JL Mealer,REP,31
+Arizona,Graham,State Senate,7,JL Mealer,REP,11
+Arizona,Mohave,State Senate,7,JL Mealer,REP,27
+Arizona,Navajo,State Senate,7,JL Mealer,REP,4530
+Arizona,Pinal,State Senate,7,JL Mealer,REP,0
+Arizona,TOTAL,State Senate,7,JL Mealer,REP,9483
+Arizona,Apache,State Senate,7,Jamescita Peshlakal,DEM,11043
+Arizona,Coconino,State Senate,7,Jamescita Peshlakal,DEM,4547
+Arizona,Gila,State Senate,7,Jamescita Peshlakal,DEM,216
+Arizona,Graham,State Senate,7,Jamescita Peshlakal,DEM,120
+Arizona,Mohave,State Senate,7,Jamescita Peshlakal,DEM,29
+Arizona,Navajo,State Senate,7,Jamescita Peshlakal,DEM,7548
+Arizona,Pinal,State Senate,7,Jamescita Peshlakal,DEM,0
+Arizona,TOTAL,State Senate,7,Jamescita Peshlakal,DEM,23503
+Arizona,Gila,State Senate,8,Frank Pratt,REP,1363
+Arizona,Pinal,State Senate,8,Frank Pratt,REP,12133
+Arizona,TOTAL,State Senate,8,Frank Pratt,REP,13496
+Arizona,Gila,State Senate,8,Natali Fierros Bock,DEM,944
+Arizona,Pinal,State Senate,8,Natali Fierros Bock,DEM,4441
+Arizona,TOTAL,State Senate,8,Natali Fierros Bock,DEM,5385
+Arizona,Gila,State Senate,8,Sharon Girard,DEM,945
+Arizona,Pinal,State Senate,8,Sharon Girard,DEM,5299
+Arizona,TOTAL,State Senate,8,Sharon Girard,DEM,6244
+Arizona,Pima,State Senate,9,Randy Fleenor,REP,698
+Arizona,TOTAL,State Senate,9,Randy Fleenor,REP,698
+Arizona,Pima,State Senate,9,Jim Love,DEM,5174
+Arizona,TOTAL,State Senate,9,Jim Love,DEM,5174
+Arizona,Pima,State Senate,9,Victoria Steele,DEM,23895
+Arizona,TOTAL,State Senate,9,Victoria Steele,DEM,23895
+Arizona,Pima,State Senate,10,Marilyn Wiles,REP,18057
+Arizona,TOTAL,State Senate,10,Marilyn Wiles,REP,18057
+Arizona,Pima,State Senate,10,David Bradley,DEM,24583
+Arizona,TOTAL,State Senate,10,David Bradley,DEM,24583
+Arizona,Pima,State Senate,11,"Venden ""Vince"" Leach",REP,17285
+Arizona,Pinal,State Senate,11,"Venden ""Vince"" Leach",REP,8967
+Arizona,TOTAL,State Senate,11,"Venden ""Vince"" Leach",REP,26252
+Arizona,Pima,State Senate,11,Ralph Atchue,DEM,12768
+Arizona,Pinal,State Senate,11,Ralph Atchue,DEM,5725
+Arizona,TOTAL,State Senate,11,Ralph Atchue,DEM,18493
+Arizona,Pima,State Senate,11,Mohammad Arif,GRN,6
+Arizona,Pinal,State Senate,11,Mohammad Arif,GRN,1
+Arizona,TOTAL,State Senate,11,Mohammad Arif,GRN,7
+Arizona,Maricopa,State Senate,12,Eddie Farnsworth,REP,15493
+Arizona,Pinal,State Senate,12,Eddie Farnsworth,REP,149
+Arizona,TOTAL,State Senate,12,Eddie Farnsworth,REP,15642
+Arizona,Maricopa,State Senate,12,Jimmy Lindblom,REP,14785
+Arizona,Pinal,State Senate,12,Jimmy Lindblom,REP,119
+Arizona,TOTAL,State Senate,12,Jimmy Lindblom,REP,14904
+Arizona,Maricopa,State Senate,12,Elizabeth Brown,DEM,13456
+Arizona,Pinal,State Senate,12,Elizabeth Brown,DEM,95
+Arizona,TOTAL,State Senate,12,Elizabeth Brown,DEM,13551
+Arizona,Maricopa,State Senate,13,Brent Backus,REP,5759
+Arizona,Yuma,State Senate,13,Brent Backus,REP,1875
+Arizona,TOTAL,State Senate,13,Brent Backus,REP,7634
+Arizona,Maricopa,State Senate,13,Sine Kerr,REP,8731
+Arizona,Yuma,State Senate,13,Sine Kerr,REP,4093
+Arizona,TOTAL,State Senate,13,Sine Kerr,REP,12824
+Arizona,Maricopa,State Senate,13,Don Shooter,REP,3235
+Arizona,Yuma,State Senate,13,Don Shooter,REP,1886
+Arizona,TOTAL,State Senate,13,Don Shooter,REP,5121
+Arizona,Maricopa,State Senate,13,Michelle Harris,DEM,8440
+Arizona,Yuma,State Senate,13,Michelle Harris,DEM,2827
+Arizona,TOTAL,State Senate,13,Michelle Harris,DEM,11267
+Arizona,Cochise,State Senate,14,David Gowan,REP,6785
+Arizona,Graham,State Senate,14,David Gowan,REP,1016
+Arizona,Greenlee,State Senate,14,David Gowan,REP,215
+Arizona,Pima,State Senate,14,David Gowan,REP,3018
+Arizona,TOTAL,State Senate,14,David Gowan,REP,11034
+Arizona,Cochise,State Senate,14,Drew John,REP,4673
+Arizona,Graham,State Senate,14,Drew John,REP,2414
+Arizona,Greenlee,State Senate,14,Drew John,REP,316
+Arizona,Pima,State Senate,14,Drew John,REP,1985
+Arizona,TOTAL,State Senate,14,Drew John,REP,9388
+Arizona,Cochise,State Senate,14,Lori Kilpatrick,REP,4237
+Arizona,Graham,State Senate,14,Lori Kilpatrick,REP,584
+Arizona,Greenlee,State Senate,14,Lori Kilpatrick,REP,128
+Arizona,Pima,State Senate,14,Lori Kilpatrick,REP,1936
+Arizona,TOTAL,State Senate,14,Lori Kilpatrick,REP,6885
+Arizona,Cochise,State Senate,14,Jaime Alvarez,DEM,6751
+Arizona,Graham,State Senate,14,Jaime Alvarez,DEM,980
+Arizona,Greenlee,State Senate,14,Jaime Alvarez,DEM,551
+Arizona,Pima,State Senate,14,Jaime Alvarez,DEM,2209
+Arizona,TOTAL,State Senate,14,Jaime Alvarez,DEM,10491
+Arizona,Cochise,State Senate,14,Mandy Gomez,DEM,2642
+Arizona,Graham,State Senate,14,Mandy Gomez,DEM,479
+Arizona,Greenlee,State Senate,14,Mandy Gomez,DEM,186
+Arizona,Pima,State Senate,14,Mandy Gomez,DEM,1482
+Arizona,TOTAL,State Senate,14,Mandy Gomez,DEM,4789
+Arizona,Maricopa,State Senate,15,Heather Carter,REP,24273
+Arizona,TOTAL,State Senate,15,Heather Carter,REP,24273
+Arizona,Maricopa,State Senate,15,Kristin Dybvig-Pawelko,DEM,14679
+Arizona,TOTAL,State Senate,15,Kristin Dybvig-Pawelko,DEM,14679
+Arizona,Maricopa,State Senate,16,David Christian Farnsworth,REP,12642
+Arizona,Pinal,State Senate,16,David Christian Farnsworth,REP,6757
+Arizona,TOTAL,State Senate,16,David Christian Farnsworth,REP,19399
+Arizona,Maricopa,State Senate,16,"Michael ""Big Mike"" Hernandez",REP,3789
+Arizona,Pinal,State Senate,16,"Michael ""Big Mike"" Hernandez",REP,2395
+Arizona,TOTAL,State Senate,16,"Michael ""Big Mike"" Hernandez",REP,6184
+Arizona,Maricopa,State Senate,16,"Benjamin ""Ben"" Carmitchel",DEM,7829
+Arizona,Pinal,State Senate,16,"Benjamin ""Ben"" Carmitchel",DEM,3956
+Arizona,TOTAL,State Senate,16,"Benjamin ""Ben"" Carmitchel",DEM,11785
+Arizona,Maricopa,State Senate,17,J.D. Mesnard,REP,22206
+Arizona,TOTAL,State Senate,17,J.D. Mesnard,REP,22206
+Arizona,Maricopa,State Senate,17,Steve Weichert,DEM,15680
+Arizona,TOTAL,State Senate,17,Steve Weichert,DEM,15680
+Arizona,Maricopa,State Senate,18,Frank Schmuck,REP,20824
+Arizona,TOTAL,State Senate,18,Frank Schmuck,REP,20824
+Arizona,Maricopa,State Senate,18,Sean Bowie,DEM,21256
+Arizona,TOTAL,State Senate,18,Sean Bowie,DEM,21256
+Arizona,Maricopa,State Senate,19,Lupe Chavira Contreras,DEM,9194
+Arizona,TOTAL,State Senate,19,Lupe Chavira Contreras,DEM,9194
+Arizona,Maricopa,State Senate,20,Paul Boyer,REP,13275
+Arizona,TOTAL,State Senate,20,Paul Boyer,REP,13275
+Arizona,Maricopa,State Senate,20,Charles Loftus,REP,5372
+Arizona,TOTAL,State Senate,20,Charles Loftus,REP,5372
+Arizona,Maricopa,State Senate,20,Douglas Ervin,DEM,7377
+Arizona,TOTAL,State Senate,20,Douglas Ervin,DEM,7377
+Arizona,Maricopa,State Senate,20,Matthew Marquez,DEM,6911
+Arizona,TOTAL,State Senate,20,Matthew Marquez,DEM,6911
+Arizona,Maricopa,State Senate,21,Rick Gray,REP,14497
+Arizona,TOTAL,State Senate,21,Rick Gray,REP,14497
+Arizona,Maricopa,State Senate,21,Randy Miller,REP,9055
+Arizona,TOTAL,State Senate,21,Randy Miller,REP,9055
+Arizona,Maricopa,State Senate,22,David Livingston,REP,25842
+Arizona,TOTAL,State Senate,22,David Livingston,REP,25842
+Arizona,Maricopa,State Senate,22,Clair Van Steenwyk,REP,10908
+Arizona,TOTAL,State Senate,22,Clair Van Steenwyk,REP,10908
+Arizona,Maricopa,State Senate,22,Wendy Garcia,DEM,10531
+Arizona,TOTAL,State Senate,22,Wendy Garcia,DEM,10531
+Arizona,Maricopa,State Senate,22,Brianna Westbrook,DEM,7586
+Arizona,TOTAL,State Senate,22,Brianna Westbrook,DEM,7586
+Arizona,Maricopa,State Senate,23,Timothy Jeffries,REP,12951
+Arizona,TOTAL,State Senate,23,Timothy Jeffries,REP,12951
+Arizona,Maricopa,State Senate,23,Krishna Kelly,REP,8792
+Arizona,TOTAL,State Senate,23,Krishna Kelly,REP,8792
+Arizona,Maricopa,State Senate,23,Michelle Ugenti-Rita,REP,15347
+Arizona,TOTAL,State Senate,23,Michelle Ugenti-Rita,REP,15347
+Arizona,Maricopa,State Senate,23,"Daria Lohman""",DEM,18681
+Arizona,TOTAL,State Senate,23,"Daria Lohman""",DEM,18681
+Arizona,Maricopa,State Senate,24,Vicki Alger,REP,7595
+Arizona,TOTAL,State Senate,24,Vicki Alger,REP,7596
+Arizona,Maricopa,State Senate,24,Lela Alston,DEM,19925
+Arizona,TOTAL,State Senate,24,Lela Alston,DEM,19925
+Arizona,Maricopa,State Senate,25,Tyler Pace',REP,25569
+Arizona,TOTAL,State Senate,25,Tyler Pace',REP,25569
+Arizona,Maricopa,State Senate,25,Itasca Small,REP,473
+Arizona,TOTAL,State Senate,25,Itasca Small,REP,473
+Arizona,Maricopa,State Senate,25,Kathy Mohr-Almeida,DEM,12465
+Arizona,TOTAL,State Senate,25,Kathy Mohr-Almeida,DEM,12465
+Arizona,Maricopa,State Senate,26,Rebecca Speakman',REP,6923
+Arizona,TOTAL,State Senate,26,Rebecca Speakman',REP,6923
+Arizona,Maricopa,State Senate,26,Juan Mendez,DEM,6660
+Arizona,TOTAL,State Senate,26,Juan Mendez,DEM,6660
+Arizona,Maricopa,State Senate,26,Debbie Nez Manuel,DEM,5853
+Arizona,TOTAL,State Senate,26,Debbie Nez Manuel,DEM,5853
+Arizona,Maricopa,State Senate,27,Cipriano Miranda,DEM,3036
+Arizona,TOTAL,State Senate,27,Cipriano Miranda,DEM,3036
+Arizona,Maricopa,State Senate,27,Rebecca Rios,DEM,11170
+Arizona,TOTAL,State Senate,27,Rebecca Rios,DEM,11170
+Arizona,Maricopa,State Senate,28,"Kenneth R ""Ken"" Bowers Jr",REP,7383
+Arizona,TOTAL,State Senate,28,"Kenneth R ""Ken"" Bowers Jr",REP,7383
+Arizona,Maricopa,State Senate,28,Kate Brophy McGee,REP,17325
+Arizona,TOTAL,State Senate,28,Kate Brophy McGee,REP,17325
+Arizona,Maricopa,State Senate,28,Christine Porter Marsh,DEM,19671
+Arizona,TOTAL,State Senate,28,Christine Porter Marsh,DEM,19671
+Arizona,Maricopa,State Senate,29,Martin J. Quezada,DEM,8457
+Arizona,TOTAL,State Senate,29,Martin J. Quezada,DEM,8457
+Arizona,Maricopa,State Senate,30,"Otoniel ""Tony"" Navarrete",DEM,10025
+Arizona,TOTAL,State Senate,30,"Otoniel ""Tony"" Navarrete",DEM,10025
+Arizona,Maricopa,State Representative,1,Noel Campbell,REP,6301
+Arizona,Yavapai,State Representative,1,Noel Campbell,REP,23052
+Arizona,TOTAL,State Representative,1,Noel Campbell,REP,29353
+Arizona,Maricopa,State Representative,1,Jodi Rooney,REP,3708
+Arizona,Yavapai,State Representative,1,Jodi Rooney,REP,10515
+Arizona,TOTAL,State Representative,1,Jodi Rooney,REP,14223
+Arizona,Maricopa,State Representative,1,David Stringer,REP,5962
+Arizona,Yavapai,State Representative,1,David Stringer,REP,19514
+Arizona,TOTAL,State Representative,1,David Stringer,REP,25476
+Arizona,Maricopa,State Representative,1,Ed Gogek,DEM,2437
+Arizona,Yavapai,State Representative,1,Ed Gogek,DEM,6639
+Arizona,TOTAL,State Representative,1,Ed Gogek,DEM,9076
+Arizona,Maricopa,State Representative,1,Jan Manolis,DEM,3476
+Arizona,Yavapai,State Representative,1,Jan Manolis,DEM,9083
+Arizona,TOTAL,State Representative,1,Jan Manolis,DEM,12559
+Arizona,Pima,State Representative,2,John Christopher Ackerley,REP,7845
+Arizona,Santa Cruz,State Representative,2,John Christopher Ackerley,REP,1190
+Arizona,TOTAL,State Representative,2,John Christopher Ackerley,REP,9035
+Arizona,Pima,State Representative,2,Anthony Sizer,REP,7498
+Arizona,Santa Cruz,State Representative,2,Anthony Sizer,REP,1081
+Arizona,TOTAL,State Representative,2,Anthony Sizer,REP,8579
+Arizona,Pima,State Representative,2,Rosanna Gabaldon,DEM,9369
+Arizona,Santa Cruz,State Representative,2,Rosanna Gabaldon,DEM,3208
+Arizona,TOTAL,State Representative,2,Rosanna Gabaldon,DEM,12577
+Arizona,Pima,State Representative,2,Daniel Hernandez Jr,DEM,9004
+Arizona,Santa Cruz,State Representative,2,Daniel Hernandez Jr,DEM,3062
+Arizona,TOTAL,State Representative,2,Daniel Hernandez Jr,DEM,12066
+Arizona,Pima,State Representative,3,Olivia Cajero Bedford,DEM,9478
+Arizona,TOTAL,State Representative,3,Olivia Cajero Bedford,DEM,9478
+Arizona,Pima,State Representative,3,Andres Cano,DEM,10423
+Arizona,TOTAL,State Representative,3,Andres Cano,DEM,10423
+Arizona,Pima,State Representative,3,Alma Hernandez,DEM,9951
+Arizona,TOTAL,State Representative,3,Alma Hernandez,DEM,9951
+Arizona,Pima,State Representative,3,Beryl Baker,GRN,135
+Arizona,TOTAL,State Representative,3,Beryl Baker,GRN,135
+Arizona,Maricopa,State Representative,4,Charlene Fernandez,DEM,2732
+Arizona,Pima,State Representative,4,Charlene Fernandez,DEM,2186
+Arizona,Pinal,State Representative,4,Charlene Fernandez,DEM,29
+Arizona,Yuma,State Representative,4,Charlene Fernandez,DEM,4510
+Arizona,TOTAL,State Representative,4,Charlene Fernandez,DEM,9457
+Arizona,Maricopa,State Representative,4,"Geraldine ""Gerae"" Peten",DEM,2085
+Arizona,Pima,State Representative,4,"Geraldine ""Gerae"" Peten",DEM,1250
+Arizona,Pinal,State Representative,4,"Geraldine ""Gerae"" Peten",DEM,21
+Arizona,Yuma,State Representative,4,"Geraldine ""Gerae"" Peten",DEM,2234
+Arizona,TOTAL,State Representative,4,"Geraldine ""Gerae"" Peten",DEM,5590
+Arizona,Maricopa,State Representative,4,Sara Mae Williams,GRN,19
+Arizona,Pima,State Representative,4,Sara Mae Williams,GRN,20
+Arizona,Pinal,State Representative,4,Sara Mae Williams,GRN,0
+Arizona,Yuma,State Representative,4,Sara Mae Williams,GRN,12
+Arizona,TOTAL,State Representative,4,Sara Mae Williams,GRN,51
+Arizona,La Paz,State Representative,5,"Leo Biasiucci """,REP,670
+Arizona,Mohave,State Representative,5,"Leo Biasiucci """,REP,11110
+Arizona,TOTAL,State Representative,5,"Leo Biasiucci """,REP,11780
+Arizona,La Paz,State Representative,5,Regina Cobb,REP,929
+Arizona,Mohave,State Representative,5,Regina Cobb,REP,17069
+Arizona,TOTAL,State Representative,5,Regina Cobb,REP,17998
+Arizona,La Paz,State Representative,5,Patrick Finerd,REP,0
+Arizona,Mohave,State Representative,5,Patrick Finerd,REP,1
+Arizona,TOTAL,State Representative,5,Patrick Finerd,REP,1
+Arizona,La Paz,State Representative,5,Sam Harrison,REP,2
+Arizona,Mohave,State Representative,5,Sam Harrison,REP,3
+Arizona,TOTAL,State Representative,5,Sam Harrison,REP,5
+Arizona,La Paz,State Representative,5,Jennifer Jones-Esposito,REP,493
+Arizona,Mohave,State Representative,5,Jennifer Jones-Esposito,REP,6528
+Arizona,TOTAL,State Representative,5,Jennifer Jones-Esposito,REP,7021
+Arizona,La Paz,State Representative,5,Paul Mosley,REP,718
+Arizona,Mohave,State Representative,5,Paul Mosley,REP,9893
+Arizona,TOTAL,State Representative,5,Paul Mosley,REP,10611
+Arizona,La Paz,State Representative,5,Mary McCord Robinson,DEM,583
+Arizona,Mohave,State Representative,5,Mary McCord Robinson,DEM,7613
+Arizona,TOTAL,State Representative,5,Mary McCord Robinson,DEM,8196
+Arizona,Coconino,State Representative,6,"Walter ""Walt"" Blackman",REP,3448
+Arizona,Gila,State Representative,6,"Walter ""Walt"" Blackman",REP,3516
+Arizona,Navajo,State Representative,6,"Walter ""Walt"" Blackman",REP,3755
+Arizona,Yavapai,State Representative,6,"Walter ""Walt"" Blackman",REP,4340
+Arizona,TOTAL,State Representative,6,"Walter ""Walt"" Blackman",REP,15059
+Arizona,Coconino,State Representative,6,Stuart McDaniel,REP,2724
+Arizona,Gila,State Representative,6,Stuart McDaniel,REP,1979
+Arizona,Navajo,State Representative,6,Stuart McDaniel,REP,979
+Arizona,Yavapai,State Representative,6,Stuart McDaniel,REP,2958
+Arizona,TOTAL,State Representative,6,Stuart McDaniel,REP,8640
+Arizona,Coconino,State Representative,6,Bob Thorpe,REP,4859
+Arizona,Gila,State Representative,6,Bob Thorpe,REP,3710
+Arizona,Navajo,State Representative,6,Bob Thorpe,REP,2289
+Arizona,Yavapai,State Representative,6,Bob Thorpe,REP,5654
+Arizona,TOTAL,State Representative,6,Bob Thorpe,REP,16512
+Arizona,Coconino,State Representative,6,Felicia French,DEM,8607
+Arizona,Gila,State Representative,6,Felicia French,DEM,1602
+Arizona,Navajo,State Representative,6,Felicia French,DEM,853
+Arizona,Yavapai,State Representative,6,Felicia French,DEM,5369
+Arizona,TOTAL,State Representative,6,Felicia French,DEM,16431
+Arizona,Coconino,State Representative,6,Bobby Tyler,DEM,5836
+Arizona,Gila,State Representative,6,Bobby Tyler,DEM,1120
+Arizona,Navajo,State Representative,6,Bobby Tyler,DEM,768
+Arizona,Yavapai,State Representative,6,Bobby Tyler,DEM,3624
+Arizona,TOTAL,State Representative,6,Bobby Tyler,DEM,11348
+Arizona,Apache,State Representative,7,Doyel Shamley,REP,3755
+Arizona,Coconino,State Representative,7,Doyel Shamley,REP,1463
+Arizona,Gila,State Representative,7,Doyel Shamley,REP,31
+Arizona,Graham,State Representative,7,Doyel Shamley,REP,10
+Arizona,Mohave,State Representative,7,Doyel Shamley,REP,26
+Arizona,Navajo,State Representative,7,Doyel Shamley,REP,4635
+Arizona,Pinal,State Representative,7,Doyel Shamley,REP,0
+Arizona,TOTAL,State Representative,7,Doyel Shamley,REP,9920
+Arizona,Apache,State Representative,7,Arlando Teller,DEM,5369
+Arizona,Coconino,State Representative,7,Arlando Teller,DEM,2049
+Arizona,Gila,State Representative,7,Arlando Teller,DEM,78
+Arizona,Graham,State Representative,7,Arlando Teller,DEM,39
+Arizona,Mohave,State Representative,7,Arlando Teller,DEM,13
+Arizona,Navajo,State Representative,7,Arlando Teller,DEM,3734
+Arizona,Pinal,State Representative,7,Arlando Teller,DEM,0
+Arizona,TOTAL,State Representative,7,Arlando Teller,DEM,11282
+Arizona,Apache,State Representative,7,Myron Tsosie,DEM,8832
+Arizona,Coconino,State Representative,7,Myron Tsosie,DEM,3842
+Arizona,Gila,State Representative,7,Myron Tsosie,DEM,197
+Arizona,Graham,State Representative,7,Myron Tsosie,DEM,114
+Arizona,Mohave,State Representative,7,Myron Tsosie,DEM,20
+Arizona,Navajo,State Representative,7,Myron Tsosie,DEM,6252
+Arizona,Pinal,State Representative,7,Myron Tsosie,DEM,0
+Arizona,TOTAL,State Representative,7,Myron Tsosie,DEM,19257
+Arizona,Gila,State Representative,8,David Cook,REP,1202
+Arizona,Pinal,State Representative,8,David Cook,REP,8860
+Arizona,TOTAL,State Representative,8,David Cook,REP,10062
+Arizona,Gila,State Representative,8,"Thomas ""T.J."" Shope",REP,982
+Arizona,Pinal,State Representative,8,"Thomas ""T.J."" Shope",REP,9450
+Arizona,TOTAL,State Representative,8,"Thomas ""T.J."" Shope",REP,10432
+Arizona,Gila,State Representative,8,Carmen Casillas,DEM,1270
+Arizona,Pinal,State Representative,8,Carmen Casillas,DEM,5646
+Arizona,TOTAL,State Representative,8,Carmen Casillas,DEM,6916
+Arizona,Gila,State Representative,8,Pablo Correa,DEM,771
+Arizona,Pinal,State Representative,8,Pablo Correa,DEM,4451
+Arizona,TOTAL,State Representative,8,Pablo Correa,DEM,5222
+Arizona,Gila,State Representative,8,Linda C Gross,DEM,1063
+Arizona,Pinal,State Representative,8,Linda C Gross,DEM,4280
+Arizona,TOTAL,State Representative,8,Linda C Gross,DEM,5343
+Arizona,Pima,State Representative,9,Ana Henderson,REP,17193
+Arizona,TOTAL,State Representative,9,Ana Henderson,REP,17193
+Arizona,Pima,State Representative,9,"Randall ""Randy"" Friese",DEM,20365
+Arizona,TOTAL,State Representative,9,"Randall ""Randy"" Friese",DEM,20365
+Arizona,Pima,State Representative,9,JP Martin,DEM,5127
+Arizona,TOTAL,State Representative,9,JP Martin,DEM,5127
+Arizona,Pima,State Representative,9,Pamela Powers Hannley,DEM,19392
+Arizona,TOTAL,State Representative,9,Pamela Powers Hannley,DEM,19392
+Arizona,Pima,State Representative,10,Todd Cledfelter,REP,18673
+Arizona,TOTAL,State Representative,10,Todd Cledfelter,REP,18673
+Arizona,Pima,State Representative,10,Domingo DeGrazia,DEM,9000
+Arizona,TOTAL,State Representative,10,Domingo DeGrazia,DEM,9000
+Arizona,Pima,State Representative,10,Kirsten Engel,DEM,16895
+Arizona,TOTAL,State Representative,10,Kirsten Engel,DEM,16895
+Arizona,Pima,State Representative,10,Nikki Lee,DEM,8585
+Arizona,TOTAL,State Representative,10,Nikki Lee,DEM,8585
+Arizona,Pima,State Representative,10,Catherine Ripley,DEM,8421
+Arizona,TOTAL,State Representative,10,Catherine Ripley,DEM,8421
+Arizona,Pima,State Representative,10,Joshua Reilly,GRN,25
+Arizona,TOTAL,State Representative,10,Joshua Reilly,GRN,25
+Arizona,Pima,State Representative,11,Mark Finchem,REP,13025
+Arizona,Pinal,State Representative,11,Mark Finchem,REP,5952
+Arizona,TOTAL,State Representative,11,Mark Finchem,REP,18977
+Arizona,Pima,State Representative,11,"Howell ""Jonesy"" Jones",REP,5538
+Arizona,Pinal,State Representative,11,"Howell ""Jonesy"" Jones",REP,2492
+Arizona,TOTAL,State Representative,11,"Howell ""Jonesy"" Jones",REP,8030
+Arizona,Pima,State Representative,11,Bret Roberts •,REP,10611
+Arizona,Pinal,State Representative,11,Bret Roberts •,REP,5635
+Arizona,TOTAL,State Representative,11,Bret Roberts •,REP,16246
+Arizona,Pima,State Representative,11,Hollace Lyon,DEM,8680
+Arizona,Pinal,State Representative,11,Hollace Lyon,DEM,3694
+Arizona,TOTAL,State Representative,11,Hollace Lyon,DEM,12374
+Arizona,Pima,State Representative,11,Barry McCain,DEM,2983
+Arizona,Pinal,State Representative,11,Barry McCain,DEM,1437
+Arizona,TOTAL,State Representative,11,Barry McCain,DEM,4420
+Arizona,Pima,State Representative,11,Marcela Quiroz,DEM,8854
+Arizona,Pinal,State Representative,11,Marcela Quiroz,DEM,3429
+Arizona,TOTAL,State Representative,11,Marcela Quiroz,DEM,12283
+Arizona,Maricopa,State Representative,12,Travis Grantham,REP,15446
+Arizona,Pinal,State Representative,12,Travis Grantham,REP,110
+Arizona,TOTAL,State Representative,12,Travis Grantham,REP,15556
+Arizona,Maricopa,State Representative,12,Nick Myers,REP,7665
+Arizona,Pinal,State Representative,12,Nick Myers,REP,122
+Arizona,TOTAL,State Representative,12,Nick Myers,REP,7787
+Arizona,Maricopa,State Representative,12,Warren Petersen,REP,16927
+Arizona,Pinal,State Representative,12,Warren Petersen,REP,122
+Arizona,TOTAL,State Representative,12,Warren Petersen,REP,17049
+Arizona,Maricopa,State Representative,12,Blake Sacha,REP,10820
+Arizona,Pinal,State Representative,12,Blake Sacha,REP,62
+Arizona,TOTAL,State Representative,12,Blake Sacha,REP,10882
+Arizona,Maricopa,State Representative,12,Joe Bisaccia,DEM,8060
+Arizona,Pinal,State Representative,12,Joe Bisaccia,DEM,46
+Arizona,TOTAL,State Representative,12,Joe Bisaccia,DEM,8106
+Arizona,Maricopa,State Representative,12,Lynsey Robinson,DEM,9566
+Arizona,Pinal,State Representative,12,Lynsey Robinson,DEM,72
+Arizona,TOTAL,State Representative,12,Lynsey Robinson,DEM,9638
+Arizona,Maricopa,State Representative,12,D. J. Rothans,DEM,3607
+Arizona,Pinal,State Representative,12,D. J. Rothans,DEM,25
+Arizona,TOTAL,State Representative,12,D. J. Rothans,DEM,3632
+Arizona,Maricopa,State Representative,13,"Timothy ""Tim"" Dunn",REP,9027
+Arizona,Yuma,State Representative,13,"Timothy ""Tim"" Dunn",REP,6276
+Arizona,TOTAL,State Representative,13,"Timothy ""Tim"" Dunn",REP,15303
+Arizona,Maricopa,State Representative,13,Darin Mitchell,REP,6281
+Arizona,Yuma,State Representative,13,Darin Mitchell,REP,2358
+Arizona,TOTAL,State Representative,13,Darin Mitchell,REP,8639
+Arizona,Maricopa,State Representative,13,Joanne Osborne,REP,7512
+Arizona,Yuma,State Representative,13,Joanne Osborne,REP,2367
+Arizona,TOTAL,State Representative,13,Joanne Osborne,REP,9879
+Arizona,Maricopa,State Representative,13,Trey Terry,REP,6139
+Arizona,Yuma,State Representative,13,Trey Terry,REP,1596
+Arizona,TOTAL,State Representative,13,Trey Terry,REP,7735
+Arizona,Maricopa,State Representative,13,Thomas Tzitzura,DEM,8131
+Arizona,Yuma,State Representative,13,Thomas Tzitzura,DEM,2722
+Arizona,TOTAL,State Representative,13,Thomas Tzitzura,DEM,10853
+Arizona,Cochise,State Representative,14,Gail Griffin,REP,12658
+Arizona,Graham,State Representative,14,Gail Griffin,REP,3090
+Arizona,Greenlee,State Representative,14,Gail Griffin,REP,500
+Arizona,Pima,State Representative,14,Gail Griffin,REP,5166
+Arizona,TOTAL,State Representative,14,Gail Griffin,REP,21414
+Arizona,Cochise,State Representative,14,Becky Nutt,REP,11637
+Arizona,Graham,State Representative,14,Becky Nutt,REP,2737
+Arizona,Greenlee,State Representative,14,Becky Nutt,REP,505
+Arizona,Pima,State Representative,14,Becky Nutt,REP,4374
+Arizona,TOTAL,State Representative,14,Becky Nutt,REP,19253
+Arizona,Cochise,State Representative,14,Bob Karp,DEM,6236
+Arizona,Graham,State Representative,14,Bob Karp,DEM,836
+Arizona,Greenlee,State Representative,14,Bob Karp,DEM,484
+Arizona,Pima,State Representative,14,Bob Karp,DEM,2433
+Arizona,TOTAL,State Representative,14,Bob Karp,DEM,9989
+Arizona,Cochise,State Representative,14,Shelley Renne-Leon,DEM,6970
+Arizona,Graham,State Representative,14,Shelley Renne-Leon,DEM,1046
+Arizona,Greenlee,State Representative,14,Shelley Renne-Leon,DEM,552
+Arizona,Pima,State Representative,14,Shelley Renne-Leon,DEM,2581
+Arizona,TOTAL,State Representative,14,Shelley Renne-Leon,DEM,11149
+Arizona,Maricopa,State Representative,15,John Allen,REP,17164
+Arizona,TOTAL,State Representative,15,John Allen,REP,17164
+Arizona,Maricopa,State Representative,15,Nancy Barto,REP,19196
+Arizona,TOTAL,State Representative,15,Nancy Barto,REP,19196
+Arizona,Maricopa,State Representative,15,Julie Gunnigle,DEM,7904
+Arizona,TOTAL,State Representative,15,Julie Gunnigle,DEM,7904
+Arizona,Maricopa,State Representative,15,Tonya MacBeth,DEM,7189
+Arizona,TOTAL,State Representative,15,Tonya MacBeth,DEM,7189
+Arizona,Maricopa,State Representative,15,Jennifer Samuels,DEM,7977
+Arizona,TOTAL,State Representative,15,Jennifer Samuels,DEM,7977
+Arizona,Maricopa,State Representative,16,John Fillmore,REP,6012
+Arizona,Pinal,State Representative,16,John Fillmore,REP,3395
+Arizona,TOTAL,State Representative,16,John Fillmore,REP,9407
+Arizona,Maricopa,State Representative,16,Lisa Godzich,REP,5754
+Arizona,Pinal,State Representative,16,Lisa Godzich,REP,2721
+Arizona,TOTAL,State Representative,16,Lisa Godzich,REP,8475
+Arizona,Maricopa,State Representative,16,Stephen Kridler,REP,2405
+Arizona,Pinal,State Representative,16,Stephen Kridler,REP,1353
+Arizona,TOTAL,State Representative,16,Stephen Kridler,REP,3758
+Arizona,Maricopa,State Representative,16,Tara Phelps,REP,4495
+Arizona,Pinal,State Representative,16,Tara Phelps,REP,2456
+Arizona,TOTAL,State Representative,16,Tara Phelps,REP,6951
+Arizona,Maricopa,State Representative,16,Kelly Townsend,REP,9376
+Arizona,Pinal,State Representative,16,Kelly Townsend,REP,4985
+Arizona,TOTAL,State Representative,16,Kelly Townsend,REP,14361
+Arizona,Maricopa,State Representative,16,Sharon Stinard,DEM,7862
+Arizona,Pinal,State Representative,16,Sharon Stinard,DEM,4035
+Arizona,TOTAL,State Representative,16,Sharon Stinard,DEM,11897
+Arizona,Maricopa,State Representative,16,Richard Grayson,GRN,1
+Arizona,Pinal,State Representative,16,Richard Grayson,GRN,1
+Arizona,TOTAL,State Representative,16,Richard Grayson,GRN,2
+Arizona,Maricopa,State Representative,17,Nora Ellen,REP,13800
+Arizona,TOTAL,State Representative,17,Nora Ellen,REP,13800
+Arizona,Maricopa,State Representative,17,Jeff Weninger,REP,17488
+Arizona,TOTAL,State Representative,17,Jeff Weninger,REP,17488
+Arizona,Maricopa,State Representative,17,Julie Willoughby,REP,7808
+Arizona,TOTAL,State Representative,17,Julie Willoughby,REP,7808
+Arizona,Maricopa,State Representative,17,Jennifer Pawlik,DEM,15757
+Arizona,TOTAL,State Representative,17,Jennifer Pawlik,DEM,15757
+Arizona,Maricopa,State Representative,18,Don Hawker,REP,4401
+Arizona,TOTAL,State Representative,18,Don Hawker,REP,4401
+Arizona,Maricopa,State Representative,18,Jill Norgaard,REP,16290
+Arizona,TOTAL,State Representative,18,Jill Norgaard,REP,16290
+Arizona,Maricopa,State Representative,18,Greg Patterson,REP,9230
+Arizona,TOTAL,State Representative,18,Greg Patterson,REP,9230
+Arizona,Maricopa,State Representative,18,Farhana SW-fa,REP,6910
+Arizona,TOTAL,State Representative,18,Farhana SW-fa,REP,6910
+Arizona,Maricopa,State Representative,18,"Denise ""Mitzi"" Epstein",DEM,15486
+Arizona,TOTAL,State Representative,18,"Denise ""Mitzi"" Epstein",DEM,15486
+Arizona,Maricopa,State Representative,18,"Jennifer Jermaine """,DEM,13150
+Arizona,TOTAL,State Representative,18,"Jennifer Jermaine """,DEM,13150
+Arizona,Maricopa,State Representative,18,LaDawn Stuben,DEM,6763
+Arizona,TOTAL,State Representative,18,LaDawn Stuben,DEM,6763
+Arizona,Maricopa,State Representative,19,Devin Del Palacio,DEM,3681
+Arizona,TOTAL,State Representative,19,Devin Del Palacio,DEM,3681
+Arizona,Maricopa,State Representative,19,Diego Espinoza,DEM,6080
+Arizona,TOTAL,State Representative,19,Diego Espinoza,DEM,6080
+Arizona,Maricopa,State Representative,19,Lorenzo Sierra,DEM,4524
+Arizona,TOTAL,State Representative,19,Lorenzo Sierra,DEM,4524
+Arizona,Maricopa,State Representative,20,Shawnna Bolick,REP,10483
+Arizona,TOTAL,State Representative,20,Shawnna Bolick,REP,10483
+Arizona,Maricopa,State Representative,20,Anthony Kern,REP,13801
+Arizona,TOTAL,State Representative,20,Anthony Kern,REP,13801
+Arizona,Maricopa,State Representative,20,Dan Anderson,DEM,2869
+Arizona,TOTAL,State Representative,20,Dan Anderson,DEM,2869
+Arizona,Maricopa,State Representative,20,"Hazel Chandler """,DEM,8429
+Arizona,TOTAL,State Representative,20,"Hazel Chandler """,DEM,8429
+Arizona,Maricopa,State Representative,20,Patrick Church,DEM,4987
+Arizona,TOTAL,State Representative,20,Patrick Church,DEM,4987
+Arizona,Maricopa,State Representative,20,"Christopher ""Chris"" Gilfillan",DEM,6053
+Arizona,TOTAL,State Representative,20,"Christopher ""Chris"" Gilfillan",DEM,6053
+Arizona,Maricopa,State Representative,21,"Kevin Payne """,REP,18543
+Arizona,TOTAL,State Representative,21,"Kevin Payne """,REP,18543
+Arizona,Maricopa,State Representative,21,Tony Rivero,REP,12870
+Arizona,TOTAL,State Representative,21,Tony Rivero,REP,12870
+Arizona,Maricopa,State Representative,21,Bradley Hughes,DEM,10161
+Arizona,TOTAL,State Representative,21,Bradley Hughes,DEM,10161
+Arizona,Maricopa,State Representative,21,"Gilbert Romero """,DEM,11140
+Arizona,TOTAL,State Representative,21,"Gilbert Romero """,DEM,11140
+Arizona,Maricopa,State Representative,22,Matt Bullock,REP,14084
+Arizona,TOTAL,State Representative,22,Matt Bullock,REP,14084
+Arizona,Maricopa,State Representative,22,Frank Carroll,REP,16599
+Arizona,TOTAL,State Representative,22,Frank Carroll,REP,16599
+Arizona,Maricopa,State Representative,22,John Heep,REP,10142
+Arizona,TOTAL,State Representative,22,John Heep,REP,10142
+Arizona,Maricopa,State Representative,22,Ben Toma,REP,21502
+Arizona,TOTAL,State Representative,22,Ben Toma,REP,21502
+Arizona,Maricopa,State Representative,22,Valerie Harris,DEM,13418
+Arizona,TOTAL,State Representative,22,Valerie Harris,DEM,13418
+Arizona,Maricopa,State Representative,22,Ten Sarmiento,DEM,10778
+Arizona,TOTAL,State Representative,22,Ten Sarmiento,DEM,10778
+Arizona,Maricopa,State Representative,23,John Kavanagh,REP,27994
+Arizona,TOTAL,State Representative,23,John Kavanagh,REP,27994
+Arizona,Maricopa,State Representative,23,Jay Lawrence,REP,22256
+Arizona,TOTAL,State Representative,23,Jay Lawrence,REP,22256
+Arizona,Maricopa,State Representative,23,Eric Kurland,DEM,18677
+Arizona,TOTAL,State Representative,23,Eric Kurland,DEM,18677
+Arizona,Maricopa,State Representative,24,David Alger Sr,REP,7431
+Arizona,TOTAL,State Representative,24,David Alger Sr,REP,7431
+Arizona,Maricopa,State Representative,24,Ken Clark,DEM,6890
+Arizona,TOTAL,State Representative,24,Ken Clark,DEM,6890
+Arizona,Maricopa,State Representative,24,Fred Dominguez,DEM,1730
+Arizona,TOTAL,State Representative,24,Fred Dominguez,DEM,1730
+Arizona,Maricopa,State Representative,24,Marcus Ferrell,DEM,3402
+Arizona,TOTAL,State Representative,24,Marcus Ferrell,DEM,3402
+Arizona,Maricopa,State Representative,24,John Glenn,DEM,3377
+Arizona,TOTAL,State Representative,24,John Glenn,DEM,3377
+Arizona,Maricopa,State Representative,24,Denise Link,DEM,3605
+Arizona,TOTAL,State Representative,24,Denise Link,DEM,3605
+Arizona,Maricopa,State Representative,24,Jennifer Longdon,DEM,8041
+Arizona,TOTAL,State Representative,24,Jennifer Longdon,DEM,8041
+Arizona,Maricopa,State Representative,24,Amish Shah,DEM,10820
+Arizona,TOTAL,State Representative,24,Amish Shah,DEM,10820
+Arizona,Maricopa,State Representative,25,"Russell W. ""Rusty"" Bowers",REP,20522
+Arizona,TOTAL,State Representative,25,"Russell W. ""Rusty"" Bowers",REP,20522
+Arizona,Maricopa,State Representative,25,Marlene Hinton,REP,9081
+Arizona,TOTAL,State Representative,25,Marlene Hinton,REP,9081
+Arizona,Maricopa,State Representative,25,Michelle Udall,REP,17759
+Arizona,TOTAL,State Representative,25,Michelle Udall,REP,17759
+Arizona,Maricopa,State Representative,25,Johnny Martin,DEM,12286
+Arizona,TOTAL,State Representative,25,Johnny Martin,DEM,12286
+Arizona,Maricopa,State Representative,26,Raymond ID Speakman,REP,6834
+Arizona,TOTAL,State Representative,26,Raymond ID Speakman,REP,6834
+Arizona,Maricopa,State Representative,26,Isela Blanc,DEM,9545
+Arizona,TOTAL,State Representative,26,Isela Blanc,DEM,9545
+Arizona,Maricopa,State Representative,26,Athena Selman,DEM,9672
+Arizona,TOTAL,State Representative,26,Athena Selman,DEM,9672
+Arizona,Maricopa,State Representative,27,Talonya Adams,DEM,4683
+Arizona,TOTAL,State Representative,27,Talonya Adams,DEM,4683
+Arizona,Maricopa,State Representative,27,Reginald Bolding,DEM,8226
+Arizona,TOTAL,State Representative,27,Reginald Bolding,DEM,8226
+Arizona,Maricopa,State Representative,27,Diego Rodriguez,DEM,5304
+Arizona,TOTAL,State Representative,27,Diego Rodriguez,DEM,5304
+Arizona,Maricopa,State Representative,27,Roberto Sanchez Garcia,DEM,4964
+Arizona,TOTAL,State Representative,27,Roberto Sanchez Garcia,DEM,4964
+Arizona,Maricopa,State Representative,27,Robert Pepiton,LBT,47
+Arizona,TOTAL,State Representative,27,Robert Pepiton,LBT,47
+Arizona,Maricopa,State Representative,28,"Kathy Pappas Petsas """,REP,14058
+Arizona,TOTAL,State Representative,28,"Kathy Pappas Petsas """,REP,14058
+Arizona,Maricopa,State Representative,28,Maria Syms,REP,16240
+Arizona,TOTAL,State Representative,28,Maria Syms,REP,16240
+Arizona,Maricopa,State Representative,28,Kelli Butler,OEM,17298
+Arizona,TOTAL,State Representative,28,Kelli Butler,OEM,17298
+Arizona,Maricopa,State Representative,28,Aaron Lieberman,DEM,12903
+Arizona,TOTAL,State Representative,28,Aaron Lieberman,DEM,12903
+Arizona,Maricopa,State Representative,29,"Richard Andrade """,DEM,5503
+Arizona,TOTAL,State Representative,29,"Richard Andrade """,DEM,5503
+Arizona,Maricopa,State Representative,29,Cesar Chavez,DEM,5995
+Arizona,TOTAL,State Representative,29,Cesar Chavez,DEM,5995
+Arizona,Maricopa,State Representative,30,Gary Spears,REP,5281
+Arizona,TOTAL,State Representative,30,Gary Spears,REP,5281
+Arizona,Maricopa,State Representative,30,Bill Brotherton,DEM,3091
+Arizona,TOTAL,State Representative,30,Bill Brotherton,DEM,3091
+Arizona,Maricopa,State Representative,30,Alejandro Larios,DEM,3514
+Arizona,TOTAL,State Representative,30,Alejandro Larios,DEM,3514
+Arizona,Maricopa,State Representative,30,Robert Meza,DEM,5401
+Arizona,TOTAL,State Representative,30,Robert Meza,DEM,5401
+Arizona,Maricopa,State Representative,30,Raquel Teran,DEM,5380
+Arizona,TOTAL,State Representative,30,Raquel Teran,DEM,5380
+Arizona,Apache,Secretary of State,,Steve Gaynor,REP,2340
+Arizona,Cochise,Secretary of State,,Steve Gaynor,REP,10047
+Arizona,Coconino,Secretary of State,,Steve Gaynor,REP,6295
+Arizona,Gila,Secretary of State,,Steve Gaynor,REP,5465
+Arizona,Graham,Secretary of State,,Steve Gaynor,REP,2210
+Arizona,Greenlee,Secretary of State,,Steve Gaynor,REP,409
+Arizona,La Paz,Secretary of State,,Steve Gaynor,REP,1196
+Arizona,Maricopa,Secretary of State,,Steve Gaynor,REP,244950
+Arizona,Mohave,Secretary of State,,Steve Gaynor,REP,18356
+Arizona,Navajo,Secretary of State,,Steve Gaynor,REP,6725
+Arizona,Pima,Secretary of State,,Steve Gaynor,REP,58875
+Arizona,Pinal,Secretary of State,,Steve Gaynor,REP,22156
+Arizona,Santa Cruz,Secretary of State,,Steve Gaynor,REP,1133
+Arizona,Yavapai,Secretary of State,,Steve Gaynor,REP,28591
+Arizona,Yuma,Secretary of State,,Steve Gaynor,REP,5584
+Arizona,TOTAL,Secretary of State,,Steve Gaynor,REP,414332
+Arizona,Apache,Secretary of State,,Michele Reagan,REP,1852
+Arizona,Cochise,Secretary of State,,Michele Reagan,REP,5312
+Arizona,Coconino,Secretary of State,,Michele Reagan,REP,3247
+Arizona,Gila,Secretary of State,,Michele Reagan,REP,2276
+Arizona,Graham,Secretary of State,,Michele Reagan,REP,1629
+Arizona,Greenlee,Secretary of State,,Michele Reagan,REP,228
+Arizona,La Paz,Secretary of State,,Michele Reagan,REP,587
+Arizona,Maricopa,Secretary of State,,Michele Reagan,REP,123098
+Arizona,Mohave,Secretary of State,,Michele Reagan,REP,9700
+Arizona,Navajo,Secretary of State,,Michele Reagan,REP,3803
+Arizona,Pima,Secretary of State,,Michele Reagan,REP,27782
+Arizona,Pinal,Secretary of State,,Michele Reagan,REP,10228
+Arizona,Santa Cruz,Secretary of State,,Michele Reagan,REP,678
+Arizona,Yavapai,Secretary of State,,Michele Reagan,REP,11712
+Arizona,Yuma,Secretary of State,,Michele Reagan,REP,4856
+Arizona,TOTAL,Secretary of State,,Michele Reagan,REP,206988
+Arizona,Apache,Secretary of State,,Katie Hobbs,DEM,10843
+Arizona,Cochise,Secretary of State,,Katie Hobbs,DEM,8763
+Arizona,Coconino,Secretary of State,,Katie Hobbs,DEM,13854
+Arizona,Gila,Secretary of State,,Katie Hobbs,DEM,3863
+Arizona,Graham,Secretary of State,,Katie Hobbs,DEM,1479
+Arizona,Greenlee,Secretary of State,,Katie Hobbs,DEM,677
+Arizona,La Paz,Secretary of State,,Katie Hobbs,DEM,590
+Arizona,Maricopa,Secretary of State,,Katie Hobbs,DEM,260447
+Arizona,Mohave,Secretary of State,,Katie Hobbs,DEM,7688
+Arizona,Navajo,Secretary of State,,Katie Hobbs,DEM,8575
+Arizona,Pima,Secretary of State,,Katie Hobbs,DEM,101837
+Arizona,Pinal,Secretary of State,,Katie Hobbs,DEM,19250
+Arizona,Santa Cruz,Secretary of State,,Katie Hobbs,DEM,4132
+Arizona,Yavapai,Secretary of State,,Katie Hobbs,DEM,16522
+Arizona,Yuma,Secretary of State,,Katie Hobbs,DEM,7148
+Arizona,TOTAL,Secretary of State,,Katie Hobbs,DEM,465668
+Arizona,Apache,Secretary of State,,Jenn Gray,LBT,17
+Arizona,Cochise,Secretary of State,,Jenn Gray,LBT,51
+Arizona,Coconino,Secretary of State,,Jenn Gray,LBT,53
+Arizona,Gila,Secretary of State,,Jenn Gray,LBT,16
+Arizona,Graham,Secretary of State,,Jenn Gray,LBT,9
+Arizona,Greenlee,Secretary of State,,Jenn Gray,LBT,5
+Arizona,La Paz,Secretary of State,,Jenn Gray,LBT,5
+Arizona,Maricopa,Secretary of State,,Jenn Gray,LBT,1295
+Arizona,Mohave,Secretary of State,,Jenn Gray,LBT,56
+Arizona,Navajo,Secretary of State,,Jenn Gray,LBT,15
+Arizona,Pima,Secretary of State,,Jenn Gray,LBT,371
+Arizona,Pinal,Secretary of State,,Jenn Gray,LBT,93
+Arizona,Santa Cruz,Secretary of State,,Jenn Gray,LBT,4
+Arizona,Yavapai,Secretary of State,,Jenn Gray,LBT,115
+Arizona,Yuma,Secretary of State,,Jenn Gray,LBT,39
+Arizona,TOTAL,Secretary of State,,Jenn Gray,LBT,2144
+Arizona,Apache,Attorney General,,Mark Brnovich,REP,3577
+Arizona,Cochise,Attorney General,,Mark Brnovich,REP,14452
+Arizona,Coconino,Attorney General,,Mark Brnovich,REP,7936
+Arizona,Gila,Attorney General,,Mark Brnovich,REP,6840
+Arizona,Graham,Attorney General,,Mark Brnovich,REP,3474
+Arizona,Greenlee,Attorney General,,Mark Brnovich,REP,585
+Arizona,La Paz,Attorney General,,Mark Brnovich,REP,1650
+Arizona,Maricopa,Attorney General,,Mark Brnovich,REP,335857
+Arizona,Mohave,Attorney General,,Mark Brnovich,REP,25674
+Arizona,Navajo,Attorney General,,Mark Brnovich,REP,9016
+Arizona,Pima,Attorney General,,Mark Brnovich,REP,76858
+Arizona,Pinal,Attorney General,,Mark Brnovich,REP,30024
+Arizona,Santa Cruz,Attorney General,,Mark Brnovich,REP,1593
+Arizona,Yavapai,Attorney General,,Mark Brnovich,REP,34277
+Arizona,Yuma,Attorney General,,Mark Brnovich,REP,9557
+Arizona,TOTAL,Attorney General,,Mark Brnovich,REP,561370
+Arizona,Apache,Attorney General,,January Contreras,DEM,10630
+Arizona,Cochise,Attorney General,,January Contreras,DEM,8878
+Arizona,Coconino,Attorney General,,January Contreras,DEM,13754
+Arizona,Gila,Attorney General,,January Contreras,DEM,3841
+Arizona,Graham,Attorney General,,January Contreras,DEM,1473
+Arizona,Greenlee,Attorney General,,January Contreras,DEM,673
+Arizona,La Paz,Attorney General,,January Contreras,DEM,587
+Arizona,Maricopa,Attorney General,,January Contreras,DEM,260209
+Arizona,Mohave,Attorney General,,January Contreras,DEM,7564
+Arizona,Navajo,Attorney General,,January Contreras,DEM,8405
+Arizona,Pima,Attorney General,,January Contreras,DEM,101674
+Arizona,Pinal,Attorney General,,January Contreras,DEM,19221
+Arizona,Santa Cruz,Attorney General,,January Contreras,DEM,4201
+Arizona,Yavapai,Attorney General,,January Contreras,DEM,16117
+Arizona,Yuma,Attorney General,,January Contreras,DEM,7283
+Arizona,TOTAL,Attorney General,,January Contreras,DEM,464510
+Arizona,Apache,Attorney General,,Michael Kielsky,LBT,15
+Arizona,Cochise,Attorney General,,Michael Kielsky,LBT,50
+Arizona,Coconino,Attorney General,,Michael Kielsky,LBT,53
+Arizona,Gila,Attorney General,,Michael Kielsky,LBT,17
+Arizona,Graham,Attorney General,,Michael Kielsky,LBT,9
+Arizona,Greenlee,Attorney General,,Michael Kielsky,LBT,5
+Arizona,La Paz,Attorney General,,Michael Kielsky,LBT,4
+Arizona,Maricopa,Attorney General,,Michael Kielsky,LBT,1300
+Arizona,Mohave,Attorney General,,Michael Kielsky,LBT,52
+Arizona,Navajo,Attorney General,,Michael Kielsky,LBT,13
+Arizona,Pima,Attorney General,,Michael Kielsky,LBT,379
+Arizona,Pinal,Attorney General,,Michael Kielsky,LBT,98
+Arizona,Santa Cruz,Attorney General,,Michael Kielsky,LBT,5
+Arizona,Yavapai,Attorney General,,Michael Kielsky,LBT,114
+Arizona,Yuma,Attorney General,,Michael Kielsky,LBT,42
+Arizona,TOTAL,Attorney General,,Michael Kielsky,LBT,2156
+Arizona,Apache,State Treasurer,,Jo Ann Sabbagh,REP,1786
+Arizona,Cochise,State Treasurer,,Jo Ann Sabbagh,REP,7126
+Arizona,Coconino,State Treasurer,,Jo Ann Sabbagh,REP,3643
+Arizona,Gila,State Treasurer,,Jo Ann Sabbagh,REP,3276
+Arizona,Graham,State Treasurer,,Jo Ann Sabbagh,REP,1552
+Arizona,Greenlee,State Treasurer,,Jo Ann Sabbagh,REP,256
+Arizona,La Paz,State Treasurer,,Jo Ann Sabbagh,REP,830
+Arizona,Maricopa,State Treasurer,,Jo Ann Sabbagh,REP,126790
+Arizona,Mohave,State Treasurer,,Jo Ann Sabbagh,REP,12026
+Arizona,Navajo,State Treasurer,,Jo Ann Sabbagh,REP,4152
+Arizona,Pima,State Treasurer,,Jo Ann Sabbagh,REP,38131
+Arizona,Pinal,State Treasurer,,Jo Ann Sabbagh,REP,14253
+Arizona,Santa Cruz,State Treasurer,,Jo Ann Sabbagh,REP,751
+Arizona,Yavapai,State Treasurer,,Jo Ann Sabbagh,REP,16154
+Arizona,Yuma,State Treasurer,,Jo Ann Sabbagh,REP,4383
+Arizona,TOTAL,State Treasurer,,Jo Ann Sabbagh,REP,235109
+Arizona,Apache,State Treasurer,,Kimberly Yee,REP,2157
+Arizona,Cochise,State Treasurer,,Kimberly Yee,REP,7708
+Arizona,Coconino,State Treasurer,,Kimberly Yee,REP,5138
+Arizona,Gila,State Treasurer,,Kimberly Yee,REP,3872
+Arizona,Graham,State Treasurer,,Kimberly Yee,REP,2066
+Arizona,Greenlee,State Treasurer,,Kimberly Yee,REP,349
+Arizona,La Paz,State Treasurer,,Kimberly Yee,REP,849
+Arizona,Maricopa,State Treasurer,,Kimberly Yee,REP,214792
+Arizona,Mohave,State Treasurer,,Kimberly Yee,REP,14492
+Arizona,Navajo,State Treasurer,,Kimberly Yee,REP,5688
+Arizona,Pima,State Treasurer,,Kimberly Yee,REP,43118
+Arizona,Pinal,State Treasurer,,Kimberly Yee,REP,16413
+Arizona,Santa Cruz,State Treasurer,,Kimberly Yee,REP,954
+Arizona,Yavapai,State Treasurer,,Kimberly Yee,REP,20554
+Arizona,Yuma,State Treasurer,,Kimberly Yee,REP,5593
+Arizona,TOTAL,State Treasurer,,Kimberly Yee,REP,343743
+Arizona,Apache,State Treasurer,,Mark Manoil,DEM,10594
+Arizona,Cochise,State Treasurer,,Mark Manoil,DEM,8645
+Arizona,Coconino,State Treasurer,,Mark Manoil,DEM,13504
+Arizona,Gila,State Treasurer,,Mark Manoil,DEM,3746
+Arizona,Graham,State Treasurer,,Mark Manoil,DEM,1460
+Arizona,Greenlee,State Treasurer,,Mark Manoil,DEM,672
+Arizona,La Paz,State Treasurer,,Mark Manoil,DEM,583
+Arizona,Maricopa,State Treasurer,,Mark Manoil,DEM,253961
+Arizona,Mohave,State Treasurer,,Mark Manoil,DEM,7476
+Arizona,Navajo,State Treasurer,,Mark Manoil,DEM,8394
+Arizona,Pima,State Treasurer,,Mark Manoil,DEM,99782
+Arizona,Pinal,State Treasurer,,Mark Manoil,DEM,18854
+Arizona,Santa Cruz,State Treasurer,,Mark Manoil,DEM,4090
+Arizona,Yavapai,State Treasurer,,Mark Manoil,DEM,15818
+Arizona,Yuma,State Treasurer,,Mark Manoil,DEM,7002
+Arizona,TOTAL,State Treasurer,,Mark Manoil,DEM,454581
+Arizona,Apache,Superintendent of Public Instruction,,Bob Branch,REP,978
+Arizona,Cochise,Superintendent of Public Instruction,,Bob Branch,REP,2945
+Arizona,Coconino,Superintendent of Public Instruction,,Bob Branch,REP,2090
+Arizona,Gila,Superintendent of Public Instruction,,Bob Branch,REP,1904
+Arizona,Graham,Superintendent of Public Instruction,,Bob Branch,REP,617
+Arizona,Greenlee,Superintendent of Public Instruction,,Bob Branch,REP,116
+Arizona,La Paz,Superintendent of Public Instruction,,Bob Branch,REP,337
+Arizona,Maricopa,Superintendent of Public Instruction,,Bob Branch,REP,71442
+Arizona,Mohave,Superintendent of Public Instruction,,Bob Branch,REP,6403
+Arizona,Navajo,Superintendent of Public Instruction,,Bob Branch,REP,2354
+Arizona,Pima,Superintendent of Public Instruction,,Bob Branch,REP,17135
+Arizona,Pinal,Superintendent of Public Instruction,,Bob Branch,REP,6301
+Arizona,Santa Cruz,Superintendent of Public Instruction,,Bob Branch,REP,392
+Arizona,Yavapai,Superintendent of Public Instruction,,Bob Branch,REP,9255
+Arizona,Yuma,Superintendent of Public Instruction,,Bob Branch,REP,2354
+Arizona,TOTAL,Superintendent of Public Instruction,,Bob Branch,REP,124623
+Arizona,Apache,Superintendent of Public Instruction,,Diane Douglas,REP,971
+Arizona,Cochise,Superintendent of Public Instruction,,Diane Douglas,REP,3365
+Arizona,Coconino,Superintendent of Public Instruction,,Diane Douglas,REP,1870
+Arizona,Gila,Superintendent of Public Instruction,,Diane Douglas,REP,1336
+Arizona,Graham,Superintendent of Public Instruction,,Diane Douglas,REP,893
+Arizona,Greenlee,Superintendent of Public Instruction,,Diane Douglas,REP,146
+Arizona,La Paz,Superintendent of Public Instruction,,Diane Douglas,REP,418
+Arizona,Maricopa,Superintendent of Public Instruction,,Diane Douglas,REP,69664
+Arizona,Mohave,Superintendent of Public Instruction,,Diane Douglas,REP,6397
+Arizona,Navajo,Superintendent of Public Instruction,,Diane Douglas,REP,2153
+Arizona,Pima,Superintendent of Public Instruction,,Diane Douglas,REP,17993
+Arizona,Pinal,Superintendent of Public Instruction,,Diane Douglas,REP,6200
+Arizona,Santa Cruz,Superintendent of Public Instruction,,Diane Douglas,REP,444
+Arizona,Yavapai,Superintendent of Public Instruction,,Diane Douglas,REP,7231
+Arizona,Yuma,Superintendent of Public Instruction,,Diane Douglas,REP,2371
+Arizona,TOTAL,Superintendent of Public Instruction,,Diane Douglas,REP,121452
+Arizona,Apache,Superintendent of Public Instruction,,Jonathan Gelbart,REP,468
+Arizona,Cochise,Superintendent of Public Instruction,,Jonathan Gelbart,REP,1783
+Arizona,Coconino,Superintendent of Public Instruction,,Jonathan Gelbart,REP,1256
+Arizona,Gila,Superintendent of Public Instruction,,Jonathan Gelbart,REP,861
+Arizona,Graham,Superintendent of Public Instruction,,Jonathan Gelbart,REP,417
+Arizona,Greenlee,Superintendent of Public Instruction,,Jonathan Gelbart,REP,79
+Arizona,La Paz,Superintendent of Public Instruction,,Jonathan Gelbart,REP,187
+Arizona,Maricopa,Superintendent of Public Instruction,,Jonathan Gelbart,REP,53129
+Arizona,Mohave,Superintendent of Public Instruction,,Jonathan Gelbart,REP,2987
+Arizona,Navajo,Superintendent of Public Instruction,,Jonathan Gelbart,REP,1072
+Arizona,Pima,Superintendent of Public Instruction,,Jonathan Gelbart,REP,12555
+Arizona,Pinal,Superintendent of Public Instruction,,Jonathan Gelbart,REP,4090
+Arizona,Santa Cruz,Superintendent of Public Instruction,,Jonathan Gelbart,REP,222
+Arizona,Yavapai,Superintendent of Public Instruction,,Jonathan Gelbart,REP,5308
+Arizona,Yuma,Superintendent of Public Instruction,,Jonathan Gelbart,REP,1097
+Arizona,TOTAL,Superintendent of Public Instruction,,Jonathan Gelbart,REP,85511
+Arizona,Apache,Superintendent of Public Instruction,,Tracy Livingston,REP,886
+Arizona,Cochise,Superintendent of Public Instruction,,Tracy Livingston,REP,2990
+Arizona,Coconino,Superintendent of Public Instruction,,Tracy Livingston,REP,1847
+Arizona,Gila,Superintendent of Public Instruction,,Tracy Livingston,REP,1389
+Arizona,Graham,Superintendent of Public Instruction,,Tracy Livingston,REP,847
+Arizona,Greenlee,Superintendent of Public Instruction,,Tracy Livingston,REP,126
+Arizona,La Paz,Superintendent of Public Instruction,,Tracy Livingston,REP,311
+Arizona,Maricopa,Superintendent of Public Instruction,,Tracy Livingston,REP,70401
+Arizona,Mohave,Superintendent of Public Instruction,,Tracy Livingston,REP,4684
+Arizona,Navajo,Superintendent of Public Instruction,,Tracy Livingston,REP,2301
+Arizona,Pima,Superintendent of Public Instruction,,Tracy Livingston,REP,15048
+Arizona,Pinal,Superintendent of Public Instruction,,Tracy Livingston,REP,5445
+Arizona,Santa Cruz,Superintendent of Public Instruction,,Tracy Livingston,REP,299
+Arizona,Yavapai,Superintendent of Public Instruction,,Tracy Livingston,REP,7260
+Arizona,Yuma,Superintendent of Public Instruction,,Tracy Livingston,REP,1944
+Arizona,TOTAL,Superintendent of Public Instruction,,Tracy Livingston,REP,115778
+Arizona,Apache,Superintendent of Public Instruction,,Frank Riggs,REP,694
+Arizona,Cochise,Superintendent of Public Instruction,,Frank Riggs,REP,3549
+Arizona,Coconino,Superintendent of Public Instruction,,Frank Riggs,REP,1729
+Arizona,Gila,Superintendent of Public Instruction,,Frank Riggs,REP,1663
+Arizona,Graham,Superintendent of Public Instruction,,Frank Riggs,REP,847
+Arizona,Greenlee,Superintendent of Public Instruction,,Frank Riggs,REP,136
+Arizona,La Paz,Superintendent of Public Instruction,,Frank Riggs,REP,353
+Arizona,Maricopa,Superintendent of Public Instruction,,Frank Riggs,REP,74202
+Arizona,Mohave,Superintendent of Public Instruction,,Frank Riggs,REP,5114
+Arizona,Navajo,Superintendent of Public Instruction,,Frank Riggs,REP,1967
+Arizona,Pima,Superintendent of Public Instruction,,Frank Riggs,REP,17090
+Arizona,Pinal,Superintendent of Public Instruction,,Frank Riggs,REP,8241
+Arizona,Santa Cruz,Superintendent of Public Instruction,,Frank Riggs,REP,339
+Arizona,Yavapai,Superintendent of Public Instruction,,Frank Riggs,REP,6958
+Arizona,Yuma,Superintendent of Public Instruction,,Frank Riggs,REP,1990
+Arizona,TOTAL,Superintendent of Public Instruction,,Frank Riggs,REP,124872
+Arizona,Apache,Superintendent of Public Instruction,,Kathy Hoffman,DEM,7474
+Arizona,Cochise,Superintendent of Public Instruction,,Kathy Hoffman,DEM,5446
+Arizona,Coconino,Superintendent of Public Instruction,,Kathy Hoffman,DEM,8084
+Arizona,Gila,Superintendent of Public Instruction,,Kathy Hoffman,DEM,2121
+Arizona,Graham,Superintendent of Public Instruction,,Kathy Hoffman,DEM,891
+Arizona,Greenlee,Superintendent of Public Instruction,,Kathy Hoffman,DEM,333
+Arizona,La Paz,Superintendent of Public Instruction,,Kathy Hoffman,DEM,347
+Arizona,Maricopa,Superintendent of Public Instruction,,Kathy Hoffman,DEM,132895
+Arizona,Mohave,Superintendent of Public Instruction,,Kathy Hoffman,DEM,4781
+Arizona,Navajo,Superintendent of Public Instruction,,Kathy Hoffman,DEM,5397
+Arizona,Pima,Superintendent of Public Instruction,,Kathy Hoffman,DEM,59430
+Arizona,Pinal,Superintendent of Public Instruction,,Kathy Hoffman,DEM,11026
+Arizona,Santa Cruz,Superintendent of Public Instruction,,Kathy Hoffman,DEM,2463
+Arizona,Yavapai,Superintendent of Public Instruction,,Kathy Hoffman,DEM,9608
+Arizona,Yuma,Superintendent of Public Instruction,,Kathy Hoffman,DEM,4270
+Arizona,TOTAL,Superintendent of Public Instruction,,Kathy Hoffman,DEM,254566
+Arizona,Apache,Superintendent of Public Instruction,,David Schapira,DEM,3672
+Arizona,Cochise,Superintendent of Public Instruction,,David Schapira,DEM,3775
+Arizona,Coconino,Superintendent of Public Instruction,,David Schapira,DEM,6556
+Arizona,Gila,Superintendent of Public Instruction,,David Schapira,DEM,1897
+Arizona,Graham,Superintendent of Public Instruction,,David Schapira,DEM,703
+Arizona,Greenlee,Superintendent of Public Instruction,,David Schapira,DEM,377
+Arizona,La Paz,Superintendent of Public Instruction,,David Schapira,DEM,271
+Arizona,Maricopa,Superintendent of Public Instruction,,David Schapira,DEM,139460
+Arizona,Mohave,Superintendent of Public Instruction,,David Schapira,DEM,3325
+Arizona,Navajo,Superintendent of Public Instruction,,David Schapira,DEM,3631
+Arizona,Pima,Superintendent of Public Instruction,,David Schapira,DEM,46269
+Arizona,Pinal,Superintendent of Public Instruction,,David Schapira,DEM,9036
+Arizona,Santa Cruz,Superintendent of Public Instruction,,David Schapira,DEM,1951
+Arizona,Yavapai,Superintendent of Public Instruction,,David Schapira,DEM,7905
+Arizona,Yuma,Superintendent of Public Instruction,,David Schapira,DEM,3591
+Arizona,TOTAL,Superintendent of Public Instruction,,David Schapira,DEM,232419
+Arizona,Apache,State Mine Inspector,,Joe Hart,REP,3593
+Arizona,Cochise,State Mine Inspector,,Joe Hart,REP,14314
+Arizona,Coconino,State Mine Inspector,,Joe Hart,REP,7797
+Arizona,Gila,State Mine Inspector,,Joe Hart,REP,6760
+Arizona,Graham,State Mine Inspector,,Joe Hart,REP,3458
+Arizona,Greenlee,State Mine Inspector,,Joe Hart,REP,593
+Arizona,La Paz,State Mine Inspector,,Joe Hart,REP,1638
+Arizona,Maricopa,State Mine Inspector,,Joe Hart,REP,323136
+Arizona,Mohave,State Mine Inspector,,Joe Hart,REP,25708
+Arizona,Navajo,State Mine Inspector,,Joe Hart,REP,8961
+Arizona,Pima,State Mine Inspector,,Joe Hart,REP,76249
+Arizona,Pinal,State Mine Inspector,,Joe Hart,REP,29433
+Arizona,Santa Cruz,State Mine Inspector,,Joe Hart,REP,1607
+Arizona,Yavapai,State Mine Inspector,,Joe Hart,REP,33640
+Arizona,Yuma,State Mine Inspector,,Joe Hart,REP,9302
+Arizona,TOTAL,State Mine Inspector,,Joe Hart,REP,546189
+Arizona,Apache,State Mine Inspector,,"William ""Bill"" Pierce",DEM,10691
+Arizona,Cochise,State Mine Inspector,,"William ""Bill"" Pierce",DEM,8649
+Arizona,Coconino,State Mine Inspector,,"William ""Bill"" Pierce",DEM,13404
+Arizona,Gila,State Mine Inspector,,"William ""Bill"" Pierce",DEM,3694
+Arizona,Graham,State Mine Inspector,,"William ""Bill"" Pierce",DEM,1468
+Arizona,Greenlee,State Mine Inspector,,"William ""Bill"" Pierce",DEM,669
+Arizona,La Paz,State Mine Inspector,,"William ""Bill"" Pierce",DEM,587
+Arizona,Maricopa,State Mine Inspector,,"William ""Bill"" Pierce",DEM,249160
+Arizona,Mohave,State Mine Inspector,,"William ""Bill"" Pierce",DEM,7456
+Arizona,Navajo,State Mine Inspector,,"William ""Bill"" Pierce",DEM,8407
+Arizona,Pima,State Mine Inspector,,"William ""Bill"" Pierce",DEM,98699
+Arizona,Pinal,State Mine Inspector,,"William ""Bill"" Pierce",DEM,18570
+Arizona,Santa Cruz,State Mine Inspector,,"William ""Bill"" Pierce",DEM,4086
+Arizona,Yavapai,State Mine Inspector,,"William ""Bill"" Pierce",DEM,15425
+Arizona,Yuma,State Mine Inspector,,"William ""Bill"" Pierce",DEM,6959
+Arizona,TOTAL,State Mine Inspector,,"William ""Bill"" Pierce",DEM,447924
+Arizona,Apache,State Mine Inspector,,Kim Ruff,LBT,15
+Arizona,Cochise,State Mine Inspector,,Kim Ruff,LBT,49
+Arizona,Coconino,State Mine Inspector,,Kim Ruff,LBT,51
+Arizona,Gila,State Mine Inspector,,Kim Ruff,LBT,12
+Arizona,Graham,State Mine Inspector,,Kim Ruff,LBT,9
+Arizona,Greenlee,State Mine Inspector,,Kim Ruff,LBT,5
+Arizona,La Paz,State Mine Inspector,,Kim Ruff,LBT,4
+Arizona,Maricopa,State Mine Inspector,,Kim Ruff,LBT,1279
+Arizona,Mohave,State Mine Inspector,,Kim Ruff,LBT,52
+Arizona,Navajo,State Mine Inspector,,Kim Ruff,LBT,14
+Arizona,Pima,State Mine Inspector,,Kim Ruff,LBT,366
+Arizona,Pinal,State Mine Inspector,,Kim Ruff,LBT,96
+Arizona,Santa Cruz,State Mine Inspector,,Kim Ruff,LBT,4
+Arizona,Yavapai,State Mine Inspector,,Kim Ruff,LBT,111
+Arizona,Yuma,State Mine Inspector,,Kim Ruff,LBT,39
+Arizona,TOTAL,State Mine Inspector,,Kim Ruff,LBT,2106
+Arizona,Apache,Corporation Commissioner,,Tom Forese,REP,899
+Arizona,Cochise,Corporation Commissioner,,Tom Forese,REP,4265
+Arizona,Coconino,Corporation Commissioner,,Tom Forese,REP,1988
+Arizona,Gila,Corporation Commissioner,,Tom Forese,REP,1645
+Arizona,Graham,Corporation Commissioner,,Tom Forese,REP,1055
+Arizona,Greenlee,Corporation Commissioner,,Tom Forese,REP,153
+Arizona,La Paz,Corporation Commissioner,,Tom Forese,REP,397
+Arizona,Maricopa,Corporation Commissioner,,Tom Forese,REP,93594
+Arizona,Mohave,Corporation Commissioner,,Tom Forese,REP,6325
+Arizona,Navajo,Corporation Commissioner,,Tom Forese,REP,2549
+Arizona,Pima,Corporation Commissioner,,Tom Forese,REP,20320
+Arizona,Pinal,Corporation Commissioner,,Tom Forese,REP,7614
+Arizona,Santa Cruz,Corporation Commissioner,,Tom Forese,REP,457
+Arizona,Yavapai,Corporation Commissioner,,Tom Forese,REP,8576
+Arizona,Yuma,Corporation Commissioner,,Tom Forese,REP,2558
+Arizona,TOTAL,Corporation Commissioner,,Tom Forese,REP,152395
+Arizona,Apache,Corporation Commissioner,,Rodney Glassman,REP,1245
+Arizona,Cochise,Corporation Commissioner,,Rodney Glassman,REP,6186
+Arizona,Coconino,Corporation Commissioner,,Rodney Glassman,REP,3618
+Arizona,Gila,Corporation Commissioner,,Rodney Glassman,REP,3094
+Arizona,Graham,Corporation Commissioner,,Rodney Glassman,REP,1419
+Arizona,Greenlee,Corporation Commissioner,,Rodney Glassman,REP,224
+Arizona,La Paz,Corporation Commissioner,,Rodney Glassman,REP,715
+Arizona,Maricopa,Corporation Commissioner,,Rodney Glassman,REP,123140
+Arizona,Mohave,Corporation Commissioner,,Rodney Glassman,REP,11481
+Arizona,Navajo,Corporation Commissioner,,Rodney Glassman,REP,4075
+Arizona,Pima,Corporation Commissioner,,Rodney Glassman,REP,31010
+Arizona,Pinal,Corporation Commissioner,,Rodney Glassman,REP,12045
+Arizona,Santa Cruz,Corporation Commissioner,,Rodney Glassman,REP,610
+Arizona,Yavapai,Corporation Commissioner,,Rodney Glassman,REP,15403
+Arizona,Yuma,Corporation Commissioner,,Rodney Glassman,REP,3865
+Arizona,TOTAL,Corporation Commissioner,,Rodney Glassman,REP,218130
+Arizona,Apache,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,1263
+Arizona,Cochise,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,5158
+Arizona,Coconino,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,2960
+Arizona,Gila,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,2639
+Arizona,Graham,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,1186
+Arizona,Greenlee,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,198
+Arizona,La Paz,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,586
+Arizona,Maricopa,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,123615
+Arizona,Mohave,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,8178
+Arizona,Navajo,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,3185
+Arizona,Pima,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,30517
+Arizona,Pinal,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,10404
+Arizona,Santa Cruz,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,634
+Arizona,Yavapai,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,13109
+Arizona,Yuma,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,3297
+Arizona,TOTAL,Corporation Commissioner,,"James ""Jim"" O'Connor",REP,206929
+Arizona,Apache,Corporation Commissioner,,Justin Olson,REP,1363
+Arizona,Cochise,Corporation Commissioner,,Justin Olson,REP,5821
+Arizona,Coconino,Corporation Commissioner,,Justin Olson,REP,3249
+Arizona,Gila,Corporation Commissioner,,Justin Olson,REP,2831
+Arizona,Graham,Corporation Commissioner,,Justin Olson,REP,1625
+Arizona,Greenlee,Corporation Commissioner,,Justin Olson,REP,272
+Arizona,La Paz,Corporation Commissioner,,Justin Olson,REP,544
+Arizona,Maricopa,Corporation Commissioner,,Justin Olson,REP,149732
+Arizona,Mohave,Corporation Commissioner,,Justin Olson,REP,9317
+Arizona,Navajo,Corporation Commissioner,,Justin Olson,REP,3911
+Arizona,Pima,Corporation Commissioner,,Justin Olson,REP,30491
+Arizona,Pinal,Corporation Commissioner,,Justin Olson,REP,12253
+Arizona,Santa Cruz,Corporation Commissioner,,Justin Olson,REP,650
+Arizona,Yavapai,Corporation Commissioner,,Justin Olson,REP,15195
+Arizona,Yuma,Corporation Commissioner,,Justin Olson,REP,3571
+Arizona,TOTAL,Corporation Commissioner,,Justin Olson,REP,240825
+Arizona,Apache,Corporation Commissioner,,Eric Sloan,REP,1114
+Arizona,Cochise,Corporation Commissioner,,Eric Sloan,REP,3487
+Arizona,Coconino,Corporation Commissioner,,Eric Sloan,REP,2088
+Arizona,Gila,Corporation Commissioner,,Eric Sloan,REP,1781
+Arizona,Graham,Corporation Commissioner,,Eric Sloan,REP,760
+Arizona,Greenlee,Corporation Commissioner,,Eric Sloan,REP,125
+Arizona,La Paz,Corporation Commissioner,,Eric Sloan,REP,404
+Arizona,Maricopa,Corporation Commissioner,,Eric Sloan,REP,80116
+Arizona,Mohave,Corporation Commissioner,,Eric Sloan,REP,6344
+Arizona,Navajo,Corporation Commissioner,,Eric Sloan,REP,2371
+Arizona,Pima,Corporation Commissioner,,Eric Sloan,REP,20042
+Arizona,Pinal,Corporation Commissioner,,Eric Sloan,REP,7457
+Arizona,Santa Cruz,Corporation Commissioner,,Eric Sloan,REP,343
+Arizona,Yavapai,Corporation Commissioner,,Eric Sloan,REP,9276
+Arizona,Yuma,Corporation Commissioner,,Eric Sloan,REP,2343
+Arizona,TOTAL,Corporation Commissioner,,Eric Sloan,REP,138051
+Arizona,Apache,Corporation Commissioner,,Sandra Kennedy,DEM,7673
+Arizona,Cochise,Corporation Commissioner,,Sandra Kennedy,DEM,6921
+Arizona,Coconino,Corporation Commissioner,,Sandra Kennedy,DEM,10548
+Arizona,Gila,Corporation Commissioner,,Sandra Kennedy,DEM,3040
+Arizona,Graham,Corporation Commissioner,,Sandra Kennedy,DEM,1049
+Arizona,Greenlee,Corporation Commissioner,,Sandra Kennedy,DEM,491
+Arizona,La Paz,Corporation Commissioner,,Sandra Kennedy,DEM,390
+Arizona,Maricopa,Corporation Commissioner,,Sandra Kennedy,DEM,194267
+Arizona,Mohave,Corporation Commissioner,,Sandra Kennedy,DEM,5672
+Arizona,Navajo,Corporation Commissioner,,Sandra Kennedy,DEM,6150
+Arizona,Pima,Corporation Commissioner,,Sandra Kennedy,DEM,78454
+Arizona,Pinal,Corporation Commissioner,,Sandra Kennedy,DEM,14384
+Arizona,Santa Cruz,Corporation Commissioner,,Sandra Kennedy,DEM,3268
+Arizona,Yavapai,Corporation Commissioner,,Sandra Kennedy,DEM,13762
+Arizona,Yuma,Corporation Commissioner,,Sandra Kennedy,DEM,5492
+Arizona,TOTAL,Corporation Commissioner,,Sandra Kennedy,DEM,351561
+Arizona,Apache,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,3953
+Arizona,Cochise,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,4188
+Arizona,Coconino,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,6541
+Arizona,Gila,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,2110
+Arizona,Graham,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,676
+Arizona,Greenlee,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,373
+Arizona,La Paz,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,283
+Arizona,Maricopa,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,115866
+Arizona,Mohave,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,3420
+Arizona,Navajo,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,3627
+Arizona,Pima,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,46144
+Arizona,Pinal,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,8702
+Arizona,Santa Cruz,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,1584
+Arizona,Yavapai,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,8844
+Arizona,Yuma,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,2630
+Arizona,TOTAL,Corporation Commissioner,,"William ""Bill"" Mundell",DEM,208941
+Arizona,Apache,Corporation Commissioner,,Kiana Maria Sears,DEM,3208
+Arizona,Cochise,Corporation Commissioner,,Kiana Maria Sears,DEM,4088
+Arizona,Coconino,Corporation Commissioner,,Kiana Maria Sears,DEM,5944
+Arizona,Gila,Corporation Commissioner,,Kiana Maria Sears,DEM,1646
+Arizona,Graham,Corporation Commissioner,,Kiana Maria Sears,DEM,726
+Arizona,Greenlee,Corporation Commissioner,,Kiana Maria Sears,DEM,345
+Arizona,La Paz,Corporation Commissioner,,Kiana Maria Sears,DEM,251
+Arizona,Maricopa,Corporation Commissioner,,Kiana Maria Sears,DEM,125789
+Arizona,Mohave,Corporation Commissioner,,Kiana Maria Sears,DEM,3196
+Arizona,Navajo,Corporation Commissioner,,Kiana Maria Sears,DEM,3118
+Arizona,Pima,Corporation Commissioner,,Kiana Maria Sears,DEM,49108
+Arizona,Pinal,Corporation Commissioner,,Kiana Maria Sears,DEM,8601
+Arizona,Santa Cruz,Corporation Commissioner,,Kiana Maria Sears,DEM,1907
+Arizona,Yavapai,Corporation Commissioner,,Kiana Maria Sears,DEM,7528
+Arizona,Yuma,Corporation Commissioner,,Kiana Maria Sears,DEM,3556
+Arizona,TOTAL,Corporation Commissioner,,Kiana Maria Sears,DEM,219011
