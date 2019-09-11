@@ -70,7 +70,7 @@ def parse_county_lines(county, lines):
 
 def write_csv(results, county):
     headers = HEADERS[county]
-    filename = '20160830__az__primary__%s__precinct.csv' % county.lower().replace(' ','_')
+    filename = '20161106__az__general__%s__precinct.csv' % county.lower().replace(' ','_')
     with open(filename, 'wb') as csvfile:
          w = unicodecsv.writer(csvfile, encoding='utf-8')
          w.writerow(headers)
