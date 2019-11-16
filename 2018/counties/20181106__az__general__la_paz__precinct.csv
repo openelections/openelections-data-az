@@ -1,1344 +1,1344 @@
-county,precinct,office,district,candidate,party,votes,early_voting,election_day,provisional,provisional_votes_ds200
-La Paz,1 Parker,Registered Voters,,,,329,0,0,0,0,
-La Paz,2 Poston,Registered Voters,,,,39,0,0,0,0,
-La Paz,4 Upriver,Registered Voters,,,,197,0,0,0,0,
-La Paz,5 Bouse,Registered Voters,,,,51,0,0,0,0,
-La Paz,6 Wenden,Registered Voters,,,,20,0,0,0,0,
-La Paz,7 Salome,Registered Voters,,,,89,0,0,0,0,
-La Paz,8 Quartzsite Two,Registered Voters,,,,123,0,0,0,0,
-La Paz,9 Cibola,Registered Voters,,,,13,0,0,0,0,
-La Paz,0 Ehrenberg,Registered Voters,,,,57,0,0,0,0,
-La Paz,2 Vicksburg,Registered Voters,,,,28,0,0,0,0,
-La Paz,4 Quartzsite Three,Registered Voters,,,,54,0,0,0,0,
-La Paz,1 Parker,Ballots Cast,,,,143,64,64,13,0,
-La Paz,2 Poston,Ballots Cast,,,,15,5,9,1,0,
-La Paz,4 Upriver,Ballots Cast,,,,109,67,30,11,0,
-La Paz,5 Bouse,Ballots Cast,,,,32,19,10,2,0,
-La Paz,6 Wenden,Ballots Cast,,,,10,5,3,1,0,
-La Paz,7 Salome,Ballots Cast,,,,60,35,16,8,0,
-La Paz,8 Quartzsite Two,Ballots Cast,,,,70,41,20,8,0,
-La Paz,9 Cibola,Ballots Cast,,,,6,3,2,0,0,
-La Paz,0 Ehrenberg,Ballots Cast,,,,21,11,7,2,0,
-La Paz,2 Vicksburg,Ballots Cast,,,,15,12,1,1,0,
-La Paz,4 Quartzsite Three,Ballots Cast,,,,30,22,5,3,0,
-La Paz,1 Parker,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,2 Poston,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,4 Upriver,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,5 Bouse,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,6 Wenden,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,7 Salome,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,9 Cibola,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,2 Vicksburg,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Blank Ballots Cast,,,,0,0,0,0,0,
-La Paz,1 Parker,U.S. Senate,,"MCSALLY, MARTHA",REP,70,36,27,6,0,
-La Paz,2 Poston,U.S. Senate,,"MCSALLY, MARTHA",REP,4,1,2,0,0,
-La Paz,4 Upriver,U.S. Senate,,"MCSALLY, MARTHA",REP,78,48,21,8,0,
-La Paz,5 Bouse,U.S. Senate,,"MCSALLY, MARTHA",REP,24,14,7,2,0,
-La Paz,6 Wenden,U.S. Senate,,"MCSALLY, MARTHA",REP,6,2,2,0,0,
-La Paz,7 Salome,U.S. Senate,,"MCSALLY, MARTHA",REP,43,25,12,5,0,
-La Paz,8 Quartzsite Two,U.S. Senate,,"MCSALLY, MARTHA",REP,45,27,13,5,0,
-La Paz,9 Cibola,U.S. Senate,,"MCSALLY, MARTHA",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,U.S. Senate,,"MCSALLY, MARTHA",REP,16,8,5,1,0,
-La Paz,2 Vicksburg,U.S. Senate,,"MCSALLY, MARTHA",REP,11,9,1,1,0,
-La Paz,4 Quartzsite Three,U.S. Senate,,"MCSALLY, MARTHA",REP,21,15,3,2,0,
-La Paz,1 Parker,U.S. Senate,,"SINEMA, KYRSTEN",DEM,65,25,33,6,0,
-La Paz,2 Poston,U.S. Senate,,"SINEMA, KYRSTEN",DEM,11,3,6,1,0,
-La Paz,4 Upriver,U.S. Senate,,"SINEMA, KYRSTEN",DEM,24,15,7,1,0,
-La Paz,5 Bouse,U.S. Senate,,"SINEMA, KYRSTEN",DEM,6,4,2,0,0,
-La Paz,6 Wenden,U.S. Senate,,"SINEMA, KYRSTEN",DEM,3,2,0,0,0,
-La Paz,7 Salome,U.S. Senate,,"SINEMA, KYRSTEN",DEM,15,8,4,2,0,
-La Paz,8 Quartzsite Two,U.S. Senate,,"SINEMA, KYRSTEN",DEM,18,10,5,2,0,
-La Paz,9 Cibola,U.S. Senate,,"SINEMA, KYRSTEN",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. Senate,,"SINEMA, KYRSTEN",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,U.S. Senate,,"SINEMA, KYRSTEN",DEM,3,2,0,0,0,
-La Paz,4 Quartzsite Three,U.S. Senate,,"SINEMA, KYRSTEN",DEM,7,5,1,0,0,
-La Paz,1 Parker,U.S. Senate,,"GREEN, ANGELA",GRN,5,2,2,0,0,
-La Paz,2 Poston,U.S. Senate,,"GREEN, ANGELA",GRN,0,0,0,0,0,
-La Paz,4 Upriver,U.S. Senate,,"GREEN, ANGELA",GRN,2,1,0,0,0,
-La Paz,5 Bouse,U.S. Senate,,"GREEN, ANGELA",GRN,1,1,0,0,0,
-La Paz,6 Wenden,U.S. Senate,,"GREEN, ANGELA",GRN,0,0,0,0,0,
-La Paz,7 Salome,U.S. Senate,,"GREEN, ANGELA",GRN,1,1,0,0,0,
-La Paz,8 Quartzsite Two,U.S. Senate,,"GREEN, ANGELA",GRN,4,2,0,0,0,
-La Paz,9 Cibola,U.S. Senate,,"GREEN, ANGELA",GRN,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. Senate,,"GREEN, ANGELA",GRN,0,0,0,0,0,
-La Paz,2 Vicksburg,U.S. Senate,,"GREEN, ANGELA",GRN,0,0,0,0,0,
-La Paz,4 Quartzsite Three,U.S. Senate,,"GREEN, ANGELA",GRN,1,1,0,0,0,
-La Paz,1 Parker,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,U.S. Senate,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,U.S. Senate,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,U.S. Senate,,UNDER VOTES,,1,0,1,0,0,
-La Paz,2 Poston,U.S. Senate,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,U.S. Senate,,UNDER VOTES,,2,1,0,0,0,
-La Paz,5 Bouse,U.S. Senate,,UNDER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,U.S. Senate,,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,U.S. Senate,,UNDER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,U.S. Senate,,UNDER VOTES,,2,0,1,0,0,
-La Paz,9 Cibola,U.S. Senate,,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. Senate,,UNDER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,U.S. Senate,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,U.S. Senate,,UNDER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,U.S. House,4,"GOSAR, PAUL",REP,78,39,31,7,0,
-La Paz,2 Poston,U.S. House,4,"GOSAR, PAUL",REP,5,1,2,0,0,
-La Paz,4 Upriver,U.S. House,4,"GOSAR, PAUL",REP,83,51,23,8,0,
-La Paz,5 Bouse,U.S. House,4,"GOSAR, PAUL",REP,25,15,8,2,0,
-La Paz,6 Wenden,U.S. House,4,"GOSAR, PAUL",REP,7,3,2,1,0,
-La Paz,7 Salome,U.S. House,4,"GOSAR, PAUL",REP,45,27,13,5,0,
-La Paz,8 Quartzsite Two,U.S. House,4,"GOSAR, PAUL",REP,50,30,14,6,0,
-La Paz,9 Cibola,U.S. House,4,"GOSAR, PAUL",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,U.S. House,4,"GOSAR, PAUL",REP,16,8,5,2,0,
-La Paz,2 Vicksburg,U.S. House,4,"GOSAR, PAUL",REP,12,9,1,1,0,
-La Paz,4 Quartzsite Three,U.S. House,4,"GOSAR, PAUL",REP,22,16,4,2,0,
-La Paz,1 Parker,U.S. House,4,"BRILL, DAVID",DEM,57,21,29,6,0,
-La Paz,2 Poston,U.S. House,4,"BRILL, DAVID",DEM,10,3,6,0,0,
-La Paz,4 Upriver,U.S. House,4,"BRILL, DAVID",DEM,21,13,6,1,0,
-La Paz,5 Bouse,U.S. House,4,"BRILL, DAVID",DEM,5,3,1,0,0,
-La Paz,6 Wenden,U.S. House,4,"BRILL, DAVID",DEM,2,1,0,0,0,
-La Paz,7 Salome,U.S. House,4,"BRILL, DAVID",DEM,12,7,3,1,0,
-La Paz,8 Quartzsite Two,U.S. House,4,"BRILL, DAVID",DEM,15,9,5,1,0,
-La Paz,9 Cibola,U.S. House,4,"BRILL, DAVID",DEM,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. House,4,"BRILL, DAVID",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,U.S. House,4,"BRILL, DAVID",DEM,2,2,0,0,0,
-La Paz,4 Quartzsite Three,U.S. House,4,"BRILL, DAVID",DEM,6,5,1,0,0,
-La Paz,1 Parker,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,2,0,1,0,0,
-La Paz,2 Poston,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0,0,
-La Paz,4 Upriver,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,1,0,0,0,0,
-La Paz,5 Bouse,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0,0,
-La Paz,6 Wenden,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0,0,
-La Paz,7 Salome,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0,0,
-La Paz,8 Quartzsite Two,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,1,0,0,0,0,
-La Paz,9 Cibola,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0,0,
-La Paz,2 Vicksburg,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0,0,
-La Paz,4 Quartzsite Three,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0,0,
-La Paz,1 Parker,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,U.S. House,4,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,U.S. House,4,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,U.S. House,4,UNDER VOTES,,4,1,2,0,0,
-La Paz,2 Poston,U.S. House,4,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,U.S. House,4,UNDER VOTES,,2,0,0,0,0,
-La Paz,5 Bouse,U.S. House,4,UNDER VOTES,,1,0,0,0,0,
-La Paz,6 Wenden,U.S. House,4,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,U.S. House,4,UNDER VOTES,,2,1,0,0,0,
-La Paz,8 Quartzsite Two,U.S. House,4,UNDER VOTES,,2,1,0,0,0,
-La Paz,9 Cibola,U.S. House,4,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,U.S. House,4,UNDER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,U.S. House,4,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,U.S. House,4,UNDER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Governor,,"DUCEY, DOUG",REP,86,44,34,8,0,
-La Paz,2 Poston,Governor,,"DUCEY, DOUG",REP,6,2,3,0,0,
-La Paz,4 Upriver,Governor,,"DUCEY, DOUG",REP,89,55,24,9,0,
-La Paz,5 Bouse,Governor,,"DUCEY, DOUG",REP,28,16,8,2,0,
-La Paz,6 Wenden,Governor,,"DUCEY, DOUG",REP,7,3,2,1,0,
-La Paz,7 Salome,Governor,,"DUCEY, DOUG",REP,50,30,13,6,0,
-La Paz,8 Quartzsite Two,Governor,,"DUCEY, DOUG",REP,56,33,15,6,0,
-La Paz,9 Cibola,Governor,,"DUCEY, DOUG",REP,5,2,2,0,0,
-La Paz,0 Ehrenberg,Governor,,"DUCEY, DOUG",REP,16,9,5,1,0,
-La Paz,2 Vicksburg,Governor,,"DUCEY, DOUG",REP,13,10,1,1,0,
-La Paz,4 Quartzsite Three,Governor,,"DUCEY, DOUG",REP,24,17,4,2,0,
-La Paz,1 Parker,Governor,,"GARCIA, DAVID",DEM,49,18,26,4,0,
-La Paz,2 Poston,Governor,,"GARCIA, DAVID",DEM,8,2,4,0,0,
-La Paz,4 Upriver,Governor,,"GARCIA, DAVID",DEM,16,9,5,1,0,
-La Paz,5 Bouse,Governor,,"GARCIA, DAVID",DEM,4,2,1,0,0,
-La Paz,6 Wenden,Governor,,"GARCIA, DAVID",DEM,1,1,0,0,0,
-La Paz,7 Salome,Governor,,"GARCIA, DAVID",DEM,9,5,2,1,0,
-La Paz,8 Quartzsite Two,Governor,,"GARCIA, DAVID",DEM,11,6,4,1,0,
-La Paz,9 Cibola,Governor,,"GARCIA, DAVID",DEM,0,0,0,0,0,
-La Paz,0 Ehrenberg,Governor,,"GARCIA, DAVID",DEM,3,1,1,0,0,
-La Paz,2 Vicksburg,Governor,,"GARCIA, DAVID",DEM,2,1,0,0,0,
-La Paz,4 Quartzsite Three,Governor,,"GARCIA, DAVID",DEM,5,4,0,0,0,
-La Paz,1 Parker,Governor,,"TORRES, ANGEL",GRN,4,1,2,0,0,
-La Paz,2 Poston,Governor,,"TORRES, ANGEL",GRN,0,0,0,0,0,
-La Paz,4 Upriver,Governor,,"TORRES, ANGEL",GRN,2,1,0,0,0,
-La Paz,5 Bouse,Governor,,"TORRES, ANGEL",GRN,0,0,0,0,0,
-La Paz,6 Wenden,Governor,,"TORRES, ANGEL",GRN,0,0,0,0,0,
-La Paz,7 Salome,Governor,,"TORRES, ANGEL",GRN,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Governor,,"TORRES, ANGEL",GRN,2,1,0,0,0,
-La Paz,9 Cibola,Governor,,"TORRES, ANGEL",GRN,0,0,0,0,0,
-La Paz,0 Ehrenberg,Governor,,"TORRES, ANGEL",GRN,1,0,0,0,0,
-La Paz,2 Vicksburg,Governor,,"TORRES, ANGEL",GRN,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Governor,,"TORRES, ANGEL",GRN,1,0,0,0,0,
-La Paz,1 Parker,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Governor,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Governor,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Governor,,UNDER VOTES,,2,0,1,0,0,
-La Paz,2 Poston,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Governor,,UNDER VOTES,,1,0,0,0,0,
-La Paz,5 Bouse,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Governor,,UNDER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,State Senate,5,"BORRELLI, SONNY",REP,79,40,31,7,0,
-La Paz,2 Poston,State Senate,5,"BORRELLI, SONNY",REP,5,2,2,0,0,
-La Paz,4 Upriver,State Senate,5,"BORRELLI, SONNY",REP,84,51,23,9,0,
-La Paz,5 Bouse,State Senate,5,"BORRELLI, SONNY",REP,26,15,8,2,0,
-La Paz,6 Wenden,State Senate,5,"BORRELLI, SONNY",REP,7,3,2,1,0,
-La Paz,7 Salome,State Senate,5,"BORRELLI, SONNY",REP,45,27,12,5,0,
-La Paz,8 Quartzsite Two,State Senate,5,"BORRELLI, SONNY",REP,50,30,14,5,0,
-La Paz,9 Cibola,State Senate,5,"BORRELLI, SONNY",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,State Senate,5,"BORRELLI, SONNY",REP,16,8,5,1,0,
-La Paz,2 Vicksburg,State Senate,5,"BORRELLI, SONNY",REP,12,9,1,1,0,
-La Paz,4 Quartzsite Three,State Senate,5,"BORRELLI, SONNY",REP,22,16,4,2,0,
-La Paz,1 Parker,State Senate,5,"MORGAINE, J'AIME",DEM,59,23,30,6,0,
-La Paz,2 Poston,State Senate,5,"MORGAINE, J'AIME",DEM,10,3,6,0,0,
-La Paz,4 Upriver,State Senate,5,"MORGAINE, J'AIME",DEM,21,13,6,1,0,
-La Paz,5 Bouse,State Senate,5,"MORGAINE, J'AIME",DEM,6,3,1,0,0,
-La Paz,6 Wenden,State Senate,5,"MORGAINE, J'AIME",DEM,2,1,0,0,0,
-La Paz,7 Salome,State Senate,5,"MORGAINE, J'AIME",DEM,13,7,3,2,0,
-La Paz,8 Quartzsite Two,State Senate,5,"MORGAINE, J'AIME",DEM,17,9,5,2,0,
-La Paz,9 Cibola,State Senate,5,"MORGAINE, J'AIME",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,State Senate,5,"MORGAINE, J'AIME",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,State Senate,5,"MORGAINE, J'AIME",DEM,3,2,0,0,0,
-La Paz,4 Quartzsite Three,State Senate,5,"MORGAINE, J'AIME",DEM,7,5,1,0,0,
-La Paz,1 Parker,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Senate,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Senate,5,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,State Senate,5,UNDER VOTES,,4,1,2,0,0,
-La Paz,2 Poston,State Senate,5,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,State Senate,5,UNDER VOTES,,2,1,1,0,0,
-La Paz,5 Bouse,State Senate,5,UNDER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,State Senate,5,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,State Senate,5,UNDER VOTES,,1,0,0,0,0,
-La Paz,8 Quartzsite Two,State Senate,5,UNDER VOTES,,2,1,1,0,0,
-La Paz,9 Cibola,State Senate,5,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Senate,5,UNDER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,State Senate,5,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Senate,5,UNDER VOTES,,1,0,0,0,0,
-La Paz,1 Parker,State House,5,"BIASIUCCI, LEO",REP,65,32,26,6,0,
-La Paz,2 Poston,State House,5,"BIASIUCCI, LEO",REP,4,1,2,0,0,
-La Paz,4 Upriver,State House,5,"BIASIUCCI, LEO",REP,69,42,19,7,0,
-La Paz,5 Bouse,State House,5,"BIASIUCCI, LEO",REP,17,10,5,1,0,
-La Paz,6 Wenden,State House,5,"BIASIUCCI, LEO",REP,5,2,2,0,0,
-La Paz,7 Salome,State House,5,"BIASIUCCI, LEO",REP,28,16,8,3,0,
-La Paz,8 Quartzsite Two,State House,5,"BIASIUCCI, LEO",REP,40,24,11,4,0,
-La Paz,9 Cibola,State House,5,"BIASIUCCI, LEO",REP,2,1,1,0,0,
-La Paz,0 Ehrenberg,State House,5,"BIASIUCCI, LEO",REP,13,7,4,1,0,
-La Paz,2 Vicksburg,State House,5,"BIASIUCCI, LEO",REP,8,6,0,1,0,
-La Paz,4 Quartzsite Three,State House,5,"BIASIUCCI, LEO",REP,14,9,2,1,0,
-La Paz,1 Parker,State House,5,"COBB, REGINA",REP,65,33,26,5,0,
-La Paz,2 Poston,State House,5,"COBB, REGINA",REP,6,1,4,0,0,
-La Paz,4 Upriver,State House,5,"COBB, REGINA",REP,60,37,16,5,0,
-La Paz,5 Bouse,State House,5,"COBB, REGINA",REP,23,14,7,1,0,
-La Paz,6 Wenden,State House,5,"COBB, REGINA",REP,5,2,2,0,0,
-La Paz,7 Salome,State House,5,"COBB, REGINA",REP,41,24,11,5,0,
-La Paz,8 Quartzsite Two,State House,5,"COBB, REGINA",REP,36,21,10,4,0,
-La Paz,9 Cibola,State House,5,"COBB, REGINA",REP,4,1,1,0,0,
-La Paz,0 Ehrenberg,State House,5,"COBB, REGINA",REP,12,6,4,1,0,
-La Paz,2 Vicksburg,State House,5,"COBB, REGINA",REP,11,9,1,1,0,
-La Paz,4 Quartzsite Three,State House,5,"COBB, REGINA",REP,21,14,4,2,0,
-La Paz,1 Parker,State House,5,"MCCORD ROBINSON, MARY",DEM,61,23,31,6,0,
-La Paz,2 Poston,State House,5,"MCCORD ROBINSON, MARY",DEM,10,2,6,0,0,
-La Paz,4 Upriver,State House,5,"MCCORD ROBINSON, MARY",DEM,22,13,6,1,0,
-La Paz,5 Bouse,State House,5,"MCCORD ROBINSON, MARY",DEM,6,4,1,0,0,
-La Paz,6 Wenden,State House,5,"MCCORD ROBINSON, MARY",DEM,2,1,0,0,0,
-La Paz,7 Salome,State House,5,"MCCORD ROBINSON, MARY",DEM,13,7,3,2,0,
-La Paz,8 Quartzsite Two,State House,5,"MCCORD ROBINSON, MARY",DEM,17,10,5,1,0,
-La Paz,9 Cibola,State House,5,"MCCORD ROBINSON, MARY",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,State House,5,"MCCORD ROBINSON, MARY",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,State House,5,"MCCORD ROBINSON, MARY",DEM,2,2,0,0,0,
-La Paz,4 Quartzsite Three,State House,5,"MCCORD ROBINSON, MARY",DEM,7,5,1,0,0,
-La Paz,1 Parker,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State House,5,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State House,5,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,State House,5,UNDER VOTES,,93,39,45,9,0,
-La Paz,2 Poston,State House,5,UNDER VOTES,,10,4,5,1,0,
-La Paz,4 Upriver,State House,5,UNDER VOTES,,65,40,18,6,0,
-La Paz,5 Bouse,State House,5,UNDER VOTES,,18,10,5,1,0,
-La Paz,6 Wenden,State House,5,UNDER VOTES,,6,3,1,0,0,
-La Paz,7 Salome,State House,5,UNDER VOTES,,38,23,10,4,0,
-La Paz,8 Quartzsite Two,State House,5,UNDER VOTES,,47,26,13,6,0,
-La Paz,9 Cibola,State House,5,UNDER VOTES,,3,2,1,0,0,
-La Paz,0 Ehrenberg,State House,5,UNDER VOTES,,12,7,4,1,0,
-La Paz,2 Vicksburg,State House,5,UNDER VOTES,,8,7,0,0,0,
-La Paz,4 Quartzsite Three,State House,5,UNDER VOTES,,19,14,2,1,0,
-La Paz,1 Parker,Secretary of State,,"GAYNOR, STEVE",REP,74,37,29,6,0,
-La Paz,2 Poston,Secretary of State,,"GAYNOR, STEVE",REP,4,1,2,0,0,
-La Paz,4 Upriver,Secretary of State,,"GAYNOR, STEVE",REP,81,51,21,8,0,
-La Paz,5 Bouse,Secretary of State,,"GAYNOR, STEVE",REP,26,15,8,2,0,
-La Paz,6 Wenden,Secretary of State,,"GAYNOR, STEVE",REP,6,3,2,1,0,
-La Paz,7 Salome,Secretary of State,,"GAYNOR, STEVE",REP,45,26,12,5,0,
-La Paz,8 Quartzsite Two,Secretary of State,,"GAYNOR, STEVE",REP,48,29,14,5,0,
-La Paz,9 Cibola,Secretary of State,,"GAYNOR, STEVE",REP,4,1,1,0,0,
-La Paz,0 Ehrenberg,Secretary of State,,"GAYNOR, STEVE",REP,15,8,5,1,0,
-La Paz,2 Vicksburg,Secretary of State,,"GAYNOR, STEVE",REP,11,9,1,1,0,
-La Paz,4 Quartzsite Three,Secretary of State,,"GAYNOR, STEVE",REP,22,16,3,2,0,
-La Paz,1 Parker,Secretary of State,,"HOBBS, KATIE",DEM,64,25,32,6,0,
-La Paz,2 Poston,Secretary of State,,"HOBBS, KATIE",DEM,10,3,6,1,0,
-La Paz,4 Upriver,Secretary of State,,"HOBBS, KATIE",DEM,25,15,8,2,0,
-La Paz,5 Bouse,Secretary of State,,"HOBBS, KATIE",DEM,6,4,1,0,0,
-La Paz,6 Wenden,Secretary of State,,"HOBBS, KATIE",DEM,2,1,0,0,0,
-La Paz,7 Salome,Secretary of State,,"HOBBS, KATIE",DEM,14,8,3,2,0,
-La Paz,8 Quartzsite Two,Secretary of State,,"HOBBS, KATIE",DEM,19,10,5,2,0,
-La Paz,9 Cibola,Secretary of State,,"HOBBS, KATIE",DEM,1,1,0,0,0,
-La Paz,0 Ehrenberg,Secretary of State,,"HOBBS, KATIE",DEM,5,2,1,0,0,
-La Paz,2 Vicksburg,Secretary of State,,"HOBBS, KATIE",DEM,3,3,0,0,0,
-La Paz,4 Quartzsite Three,Secretary of State,,"HOBBS, KATIE",DEM,7,5,1,0,0,
-La Paz,1 Parker,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Secretary of State,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Secretary of State,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Secretary of State,,UNDER VOTES,,3,0,2,0,0,
-La Paz,2 Poston,Secretary of State,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Secretary of State,,UNDER VOTES,,2,1,0,0,0,
-La Paz,5 Bouse,Secretary of State,,UNDER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Secretary of State,,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Secretary of State,,UNDER VOTES,,1,0,0,0,0,
-La Paz,8 Quartzsite Two,Secretary of State,,UNDER VOTES,,2,1,0,0,0,
-La Paz,9 Cibola,Secretary of State,,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Secretary of State,,UNDER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Secretary of State,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Secretary of State,,UNDER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Attorney General,,"BRNOVICH, MARK",REP,77,39,31,7,0,
-La Paz,2 Poston,Attorney General,,"BRNOVICH, MARK",REP,5,1,2,0,0,
-La Paz,4 Upriver,Attorney General,,"BRNOVICH, MARK",REP,83,51,22,9,0,
-La Paz,5 Bouse,Attorney General,,"BRNOVICH, MARK",REP,26,15,8,2,0,
-La Paz,6 Wenden,Attorney General,,"BRNOVICH, MARK",REP,7,3,2,1,0,
-La Paz,7 Salome,Attorney General,,"BRNOVICH, MARK",REP,46,27,13,5,0,
-La Paz,8 Quartzsite Two,Attorney General,,"BRNOVICH, MARK",REP,50,30,14,5,0,
-La Paz,9 Cibola,Attorney General,,"BRNOVICH, MARK",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,Attorney General,,"BRNOVICH, MARK",REP,16,8,5,1,0,
-La Paz,2 Vicksburg,Attorney General,,"BRNOVICH, MARK",REP,12,10,1,1,0,
-La Paz,4 Quartzsite Three,Attorney General,,"BRNOVICH, MARK",REP,22,16,3,2,0,
-La Paz,1 Parker,Attorney General,,"CONTRERAS, JANUARY",DEM,59,22,30,6,0,
-La Paz,2 Poston,Attorney General,,"CONTRERAS, JANUARY",DEM,10,3,6,0,0,
-La Paz,4 Upriver,Attorney General,,"CONTRERAS, JANUARY",DEM,21,12,7,1,0,
-La Paz,5 Bouse,Attorney General,,"CONTRERAS, JANUARY",DEM,5,3,1,0,0,
-La Paz,6 Wenden,Attorney General,,"CONTRERAS, JANUARY",DEM,2,1,0,0,0,
-La Paz,7 Salome,Attorney General,,"CONTRERAS, JANUARY",DEM,12,7,3,2,0,
-La Paz,8 Quartzsite Two,Attorney General,,"CONTRERAS, JANUARY",DEM,15,9,4,1,0,
-La Paz,9 Cibola,Attorney General,,"CONTRERAS, JANUARY",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,Attorney General,,"CONTRERAS, JANUARY",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,Attorney General,,"CONTRERAS, JANUARY",DEM,2,2,0,0,0,
-La Paz,4 Quartzsite Three,Attorney General,,"CONTRERAS, JANUARY",DEM,7,4,1,0,0,
-La Paz,1 Parker,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Attorney General,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Attorney General,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Attorney General,,UNDER VOTES,,5,2,3,0,0,
-La Paz,2 Poston,Attorney General,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Attorney General,,UNDER VOTES,,4,2,1,0,0,
-La Paz,5 Bouse,Attorney General,,UNDER VOTES,,1,0,0,0,0,
-La Paz,6 Wenden,Attorney General,,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Attorney General,,UNDER VOTES,,1,0,0,0,0,
-La Paz,8 Quartzsite Two,Attorney General,,UNDER VOTES,,3,1,1,1,0,
-La Paz,9 Cibola,Attorney General,,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Attorney General,,UNDER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Attorney General,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Attorney General,,UNDER VOTES,,1,1,0,0,0,
-La Paz,1 Parker,State Treasurer,,"YEE, KIMBERLY",REP,81,41,32,7,0,
-La Paz,2 Poston,State Treasurer,,"YEE, KIMBERLY",REP,5,2,3,0,0,
-La Paz,4 Upriver,State Treasurer,,"YEE, KIMBERLY",REP,82,51,22,9,0,
-La Paz,5 Bouse,State Treasurer,,"YEE, KIMBERLY",REP,25,15,8,2,0,
-La Paz,6 Wenden,State Treasurer,,"YEE, KIMBERLY",REP,7,3,2,1,0,
-La Paz,7 Salome,State Treasurer,,"YEE, KIMBERLY",REP,46,27,12,5,0,
-La Paz,8 Quartzsite Two,State Treasurer,,"YEE, KIMBERLY",REP,49,29,14,4,0,
-La Paz,9 Cibola,State Treasurer,,"YEE, KIMBERLY",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,State Treasurer,,"YEE, KIMBERLY",REP,16,8,5,2,0,
-La Paz,2 Vicksburg,State Treasurer,,"YEE, KIMBERLY",REP,12,9,1,1,0,
-La Paz,4 Quartzsite Three,State Treasurer,,"YEE, KIMBERLY",REP,22,16,3,2,0,
-La Paz,1 Parker,State Treasurer,,"MANOIL, MARK",DEM,55,19,28,6,0,
-La Paz,2 Poston,State Treasurer,,"MANOIL, MARK",DEM,9,3,5,1,0,
-La Paz,4 Upriver,State Treasurer,,"MANOIL, MARK",DEM,21,13,6,1,0,
-La Paz,5 Bouse,State Treasurer,,"MANOIL, MARK",DEM,6,3,1,0,0,
-La Paz,6 Wenden,State Treasurer,,"MANOIL, MARK",DEM,2,1,0,0,0,
-La Paz,7 Salome,State Treasurer,,"MANOIL, MARK",DEM,13,7,3,2,0,
-La Paz,8 Quartzsite Two,State Treasurer,,"MANOIL, MARK",DEM,16,8,5,2,0,
-La Paz,9 Cibola,State Treasurer,,"MANOIL, MARK",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,State Treasurer,,"MANOIL, MARK",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,State Treasurer,,"MANOIL, MARK",DEM,2,2,0,0,0,
-La Paz,4 Quartzsite Three,State Treasurer,,"MANOIL, MARK",DEM,7,5,1,0,0,
-La Paz,1 Parker,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Treasurer,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Treasurer,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,State Treasurer,,UNDER VOTES,,6,2,2,0,0,
-La Paz,2 Poston,State Treasurer,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,State Treasurer,,UNDER VOTES,,4,2,1,0,0,
-La Paz,5 Bouse,State Treasurer,,UNDER VOTES,,1,0,0,0,0,
-La Paz,6 Wenden,State Treasurer,,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,State Treasurer,,UNDER VOTES,,1,0,0,0,0,
-La Paz,8 Quartzsite Two,State Treasurer,,UNDER VOTES,,4,2,1,0,0,
-La Paz,9 Cibola,State Treasurer,,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Treasurer,,UNDER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,State Treasurer,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Treasurer,,UNDER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Super of Public Instruction,,"RIGGS, FRANK",REP,71,36,27,6,0,
-La Paz,2 Poston,Super of Public Instruction,,"RIGGS, FRANK",REP,4,1,2,0,0,
-La Paz,4 Upriver,Super of Public Instruction,,"RIGGS, FRANK",REP,80,49,21,8,0,
-La Paz,5 Bouse,Super of Public Instruction,,"RIGGS, FRANK",REP,25,14,8,2,0,
-La Paz,6 Wenden,Super of Public Instruction,,"RIGGS, FRANK",REP,6,3,2,1,0,
-La Paz,7 Salome,Super of Public Instruction,,"RIGGS, FRANK",REP,43,26,12,5,0,
-La Paz,8 Quartzsite Two,Super of Public Instruction,,"RIGGS, FRANK",REP,46,27,13,5,0,
-La Paz,9 Cibola,Super of Public Instruction,,"RIGGS, FRANK",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,Super of Public Instruction,,"RIGGS, FRANK",REP,15,8,5,1,0,
-La Paz,2 Vicksburg,Super of Public Instruction,,"RIGGS, FRANK",REP,12,9,1,1,0,
-La Paz,4 Quartzsite Three,Super of Public Instruction,,"RIGGS, FRANK",REP,22,15,3,2,0,
-La Paz,1 Parker,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,65,25,33,6,0,
-La Paz,2 Poston,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,11,3,6,1,0,
-La Paz,4 Upriver,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,24,15,7,2,0,
-La Paz,5 Bouse,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,6,4,1,0,0,
-La Paz,6 Wenden,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,2,1,0,0,0,
-La Paz,7 Salome,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,15,8,3,2,0,
-La Paz,8 Quartzsite Two,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,19,11,5,2,0,
-La Paz,9 Cibola,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,3,2,0,0,0,
-La Paz,4 Quartzsite Three,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,8,5,1,0,0,
-La Paz,1 Parker,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Super of Public Instruction,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Super of Public Instruction,,UNDER VOTES,,5,2,2,0,0,
-La Paz,2 Poston,Super of Public Instruction,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Super of Public Instruction,,UNDER VOTES,,4,2,1,0,0,
-La Paz,5 Bouse,Super of Public Instruction,,UNDER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Super of Public Instruction,,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Super of Public Instruction,,UNDER VOTES,,1,0,0,0,0,
-La Paz,8 Quartzsite Two,Super of Public Instruction,,UNDER VOTES,,4,1,1,0,0,
-La Paz,9 Cibola,Super of Public Instruction,,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Super of Public Instruction,,UNDER VOTES,,1,0,0,0,0,
-La Paz,2 Vicksburg,Super of Public Instruction,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Super of Public Instruction,,UNDER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,State Mine Inspector,,"HART, JOE",REP,73,37,29,6,0,
-La Paz,2 Poston,State Mine Inspector,,"HART, JOE",REP,5,1,2,0,0,
-La Paz,4 Upriver,State Mine Inspector,,"HART, JOE",REP,80,49,22,8,0,
-La Paz,5 Bouse,State Mine Inspector,,"HART, JOE",REP,25,15,8,2,0,
-La Paz,6 Wenden,State Mine Inspector,,"HART, JOE",REP,6,3,2,1,0,
-La Paz,7 Salome,State Mine Inspector,,"HART, JOE",REP,45,27,12,5,0,
-La Paz,8 Quartzsite Two,State Mine Inspector,,"HART, JOE",REP,48,29,14,5,0,
-La Paz,9 Cibola,State Mine Inspector,,"HART, JOE",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,State Mine Inspector,,"HART, JOE",REP,16,8,6,1,0,
-La Paz,2 Vicksburg,State Mine Inspector,,"HART, JOE",REP,12,9,1,1,0,
-La Paz,4 Quartzsite Three,State Mine Inspector,,"HART, JOE",REP,22,16,4,2,0,
-La Paz,1 Parker,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,64,24,32,6,0,
-La Paz,2 Poston,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,10,3,6,0,0,
-La Paz,4 Upriver,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,23,14,6,2,0,
-La Paz,5 Bouse,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,6,3,2,0,0,
-La Paz,6 Wenden,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,2,1,0,0,0,
-La Paz,7 Salome,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,13,7,3,2,0,
-La Paz,8 Quartzsite Two,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,17,9,5,1,0,
-La Paz,9 Cibola,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,2,2,0,0,0,
-La Paz,4 Quartzsite Three,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,7,5,1,0,0,
-La Paz,1 Parker,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Mine Inspector,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Mine Inspector,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,State Mine Inspector,,UNDER VOTES,,4,1,3,0,0,
-La Paz,2 Poston,State Mine Inspector,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,State Mine Inspector,,UNDER VOTES,,4,2,1,0,0,
-La Paz,5 Bouse,State Mine Inspector,,UNDER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,State Mine Inspector,,UNDER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,State Mine Inspector,,UNDER VOTES,,2,1,0,0,0,
-La Paz,8 Quartzsite Two,State Mine Inspector,,UNDER VOTES,,4,2,1,1,0,
-La Paz,9 Cibola,State Mine Inspector,,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,State Mine Inspector,,UNDER VOTES,,1,0,0,0,0,
-La Paz,2 Vicksburg,State Mine Inspector,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,State Mine Inspector,,UNDER VOTES,,1,0,0,0,0,
-La Paz,1 Parker,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,65,34,25,5,0,
-La Paz,2 Poston,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,3,1,2,0,0,
-La Paz,4 Upriver,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,71,43,20,7,0,
-La Paz,5 Bouse,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,21,13,6,1,0,
-La Paz,6 Wenden,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,5,2,2,0,0,
-La Paz,7 Salome,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,36,22,9,4,0,
-La Paz,8 Quartzsite Two,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,41,24,12,5,0,
-La Paz,9 Cibola,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,3,1,1,0,0,
-La Paz,0 Ehrenberg,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,13,7,4,1,0,
-La Paz,2 Vicksburg,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,11,8,1,1,0,
-La Paz,4 Quartzsite Three,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,18,13,3,2,0,
-La Paz,1 Parker,Corporation Commissioner,,"OLSON, JUSTIN",REP,57,31,20,5,0,
-La Paz,2 Poston,Corporation Commissioner,,"OLSON, JUSTIN",REP,3,1,1,0,0,
-La Paz,4 Upriver,Corporation Commissioner,,"OLSON, JUSTIN",REP,64,41,17,6,0,
-La Paz,5 Bouse,Corporation Commissioner,,"OLSON, JUSTIN",REP,22,12,7,2,0,
-La Paz,6 Wenden,Corporation Commissioner,,"OLSON, JUSTIN",REP,6,2,2,0,0,
-La Paz,7 Salome,Corporation Commissioner,,"OLSON, JUSTIN",REP,38,22,10,4,0,
-La Paz,8 Quartzsite Two,Corporation Commissioner,,"OLSON, JUSTIN",REP,39,25,11,3,0,
-La Paz,9 Cibola,Corporation Commissioner,,"OLSON, JUSTIN",REP,3,1,1,0,0,
-La Paz,0 Ehrenberg,Corporation Commissioner,,"OLSON, JUSTIN",REP,13,7,4,1,0,
-La Paz,2 Vicksburg,Corporation Commissioner,,"OLSON, JUSTIN",REP,10,7,1,1,0,
-La Paz,4 Quartzsite Three,Corporation Commissioner,,"OLSON, JUSTIN",REP,20,14,3,2,0,
-La Paz,1 Parker,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,60,23,30,6,0,
-La Paz,2 Poston,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,10,2,6,1,0,
-La Paz,4 Upriver,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,23,14,7,1,0,
-La Paz,5 Bouse,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,6,4,1,0,0,
-La Paz,6 Wenden,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,2,1,0,0,0,
-La Paz,7 Salome,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,14,7,4,2,0,
-La Paz,8 Quartzsite Two,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,17,10,5,1,0,
-La Paz,9 Cibola,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,4,2,1,0,0,
-La Paz,2 Vicksburg,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,2,2,0,0,0,
-La Paz,4 Quartzsite Three,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,7,5,1,0,0,
-La Paz,1 Parker,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,50,19,25,5,0,
-La Paz,2 Poston,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,8,2,5,0,0,
-La Paz,4 Upriver,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,18,10,5,2,0,
-La Paz,5 Bouse,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,5,3,1,0,0,
-La Paz,6 Wenden,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,1,1,0,0,0,
-La Paz,7 Salome,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,13,7,4,1,0,
-La Paz,8 Quartzsite Two,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,14,7,4,1,0,
-La Paz,9 Cibola,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,1,0,0,0,0,
-La Paz,0 Ehrenberg,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,3,1,1,0,0,
-La Paz,2 Vicksburg,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,2,2,0,0,0,
-La Paz,4 Quartzsite Three,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,7,5,1,0,0,
-La Paz,1 Parker,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Corporation Commissioner,,UNDER VOTES,,51,19,27,5,0,
-La Paz,2 Poston,Corporation Commissioner,,UNDER VOTES,,5,2,1,0,0,
-La Paz,4 Upriver,Corporation Commissioner,,UNDER VOTES,,40,25,10,4,0,
-La Paz,5 Bouse,Corporation Commissioner,,UNDER VOTES,,9,5,3,1,0,
-La Paz,6 Wenden,Corporation Commissioner,,UNDER VOTES,,3,2,1,0,0,
-La Paz,7 Salome,Corporation Commissioner,,UNDER VOTES,,19,11,5,2,0,
-La Paz,8 Quartzsite Two,Corporation Commissioner,,UNDER VOTES,,27,14,7,4,0,
-La Paz,9 Cibola,Corporation Commissioner,,UNDER VOTES,,2,1,0,0,0,
-La Paz,0 Ehrenberg,Corporation Commissioner,,UNDER VOTES,,7,3,3,1,0,
-La Paz,2 Vicksburg,Corporation Commissioner,,UNDER VOTES,,4,3,0,0,0,
-La Paz,4 Quartzsite Three,Corporation Commissioner,,UNDER VOTES,,8,6,1,0,0,
-La Paz,1 Parker,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,111,52,49,10,0,
-La Paz,2 Poston,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,11,3,7,0,0,
-La Paz,4 Upriver,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,93,56,26,10,0,
-La Paz,5 Bouse,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,28,16,8,2,0,
-La Paz,6 Wenden,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,8,4,2,1,0,
-La Paz,7 Salome,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,51,30,14,6,0,
-La Paz,8 Quartzsite Two,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,56,33,16,6,0,
-La Paz,9 Cibola,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,18,9,6,2,0,
-La Paz,2 Vicksburg,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,14,11,1,1,0,
-La Paz,4 Quartzsite Three,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,25,17,4,2,0,
-La Paz,1 Parker,Clerk of the Superior Court,,WRITE-IN,NON,3,0,2,0,0,
-La Paz,2 Poston,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Clerk of the Superior Court,,UNDER VOTES,,28,11,13,3,0,
-La Paz,2 Poston,Clerk of the Superior Court,,UNDER VOTES,,3,1,1,0,0,
-La Paz,4 Upriver,Clerk of the Superior Court,,UNDER VOTES,,15,9,4,1,0,
-La Paz,5 Bouse,Clerk of the Superior Court,,UNDER VOTES,,4,2,1,0,0,
-La Paz,6 Wenden,Clerk of the Superior Court,,UNDER VOTES,,1,0,0,0,0,
-La Paz,7 Salome,Clerk of the Superior Court,,UNDER VOTES,,8,4,2,1,0,
-La Paz,8 Quartzsite Two,Clerk of the Superior Court,,UNDER VOTES,,13,7,3,2,0,
-La Paz,9 Cibola,Clerk of the Superior Court,,UNDER VOTES,,1,0,0,0,0,
-La Paz,0 Ehrenberg,Clerk of the Superior Court,,UNDER VOTES,,3,1,1,0,0,
-La Paz,2 Vicksburg,Clerk of the Superior Court,,UNDER VOTES,,1,1,0,0,0,
-La Paz,4 Quartzsite Three,Clerk of the Superior Court,,UNDER VOTES,,5,4,0,0,0,
-La Paz,7 Salome,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,56,33,16,6,0,
-La Paz,9 Cibola,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,17,9,6,2,0,
-La Paz,4 Quartzsite Three,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,25,17,4,2,0,
-La Paz,7 Salome,Justice of the Peace Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Justice of the Peace Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Justice of the Peace Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Justice of the Peace Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Justice of the Peace Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Justice of the Peace Prec. 4,,UNDER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Justice of the Peace Prec. 4,,UNDER VOTES,,13,7,3,2,0,
-La Paz,9 Cibola,Justice of the Peace Prec. 4,,UNDER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Justice of the Peace Prec. 4,,UNDER VOTES,,3,1,1,0,0,
-La Paz,4 Quartzsite Three,Justice of the Peace Prec. 4,,UNDER VOTES,,5,4,0,0,0,
-La Paz,7 Salome,Constable Prec. 4,,"KOX, JAMES",REP,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Constable Prec. 4,,"KOX, JAMES",REP,54,32,16,5,0,
-La Paz,9 Cibola,Constable Prec. 4,,"KOX, JAMES",REP,4,2,1,0,0,
-La Paz,0 Ehrenberg,Constable Prec. 4,,"KOX, JAMES",REP,16,8,6,1,0,
-La Paz,4 Quartzsite Three,Constable Prec. 4,,"KOX, JAMES",REP,25,17,4,2,0,
-La Paz,7 Salome,Constable Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Constable Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Constable Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Constable Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Constable Prec. 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Constable Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Constable Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Constable Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Constable Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Constable Prec. 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Constable Prec. 4,,UNDER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Constable Prec. 4,,UNDER VOTES,,15,8,4,2,0,
-La Paz,9 Cibola,Constable Prec. 4,,UNDER VOTES,,1,0,0,0,0,
-La Paz,0 Ehrenberg,Constable Prec. 4,,UNDER VOTES,,4,2,1,0,0,
-La Paz,4 Quartzsite Three,Constable Prec. 4,,UNDER VOTES,,5,4,0,0,0,
-La Paz,6 Wenden,Justice of the Peace Prec. 5,,"SLAUGHTER, KAREN",REP,7,3,2,1,0,
-La Paz,7 Salome,Justice of the Peace Prec. 5,,"SLAUGHTER, KAREN",REP,46,27,13,5,0,
-La Paz,2 Vicksburg,Justice of the Peace Prec. 5,,"SLAUGHTER, KAREN",REP,13,11,1,1,0,
-La Paz,6 Wenden,Justice of the Peace Prec. 5,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Justice of the Peace Prec. 5,,WRITE-IN,NON,3,2,0,0,0,
-La Paz,2 Vicksburg,Justice of the Peace Prec. 5,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Justice of the Peace Prec. 5,,UNDER VOTES,,2,1,0,0,0,
-La Paz,7 Salome,Justice of the Peace Prec. 5,,UNDER VOTES,,10,5,2,2,0,
-La Paz,2 Vicksburg,Justice of the Peace Prec. 5,,UNDER VOTES,,1,1,0,0,0,
-La Paz,6 Wenden,Constable Prec. 5,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Constable Prec. 5,,WRITE-IN,NON,4,3,1,0,0,
-La Paz,2 Vicksburg,Constable Prec. 5,,WRITE-IN,NON,1,1,0,0,0,
-La Paz,6 Wenden,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Constable Prec. 5,,UNDER VOTES,,9,5,2,1,0,
-La Paz,7 Salome,Constable Prec. 5,,UNDER VOTES,,56,32,15,7,0,
-La Paz,2 Vicksburg,Constable Prec. 5,,UNDER VOTES,,14,11,1,1,0,
-La Paz,1 Parker,Justice of the Peace Prec. 6,,"DYER, TIFFANY",REP,99,45,44,9,0,
-La Paz,2 Poston,Justice of the Peace Prec. 6,,"DYER, TIFFANY",REP,8,2,5,1,0,
-La Paz,4 Upriver,Justice of the Peace Prec. 6,,"DYER, TIFFANY",REP,85,51,24,9,0,
-La Paz,5 Bouse,Justice of the Peace Prec. 6,,"DYER, TIFFANY",REP,25,15,7,2,0,
-La Paz,1 Parker,Justice of the Peace Prec. 6,,"MACFARLAND, KENNETH",LBT,32,14,15,2,0,
-La Paz,2 Poston,Justice of the Peace Prec. 6,,"MACFARLAND, KENNETH",LBT,5,1,3,0,0,
-La Paz,4 Upriver,Justice of the Peace Prec. 6,,"MACFARLAND, KENNETH",LBT,17,10,4,1,0,
-La Paz,5 Bouse,Justice of the Peace Prec. 6,,"MACFARLAND, KENNETH",LBT,5,3,1,0,0,
-La Paz,1 Parker,Justice of the Peace Prec. 6,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Poston,Justice of the Peace Prec. 6,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,Justice of the Peace Prec. 6,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Justice of the Peace Prec. 6,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Justice of the Peace Prec. 6,,UNDER VOTES,,9,4,4,1,0,
-La Paz,2 Poston,Justice of the Peace Prec. 6,,UNDER VOTES,,1,0,0,0,0,
-La Paz,4 Upriver,Justice of the Peace Prec. 6,,UNDER VOTES,,6,5,1,0,0,
-La Paz,5 Bouse,Justice of the Peace Prec. 6,,UNDER VOTES,,1,1,0,0,0,
-La Paz,1 Parker,Constable Prec. 6,,WRITE-IN,NON,13,5,7,0,0,
-La Paz,2 Poston,Constable Prec. 6,,WRITE-IN,NON,1,0,0,0,0,
-La Paz,4 Upriver,Constable Prec. 6,,WRITE-IN,NON,6,3,2,0,0,
-La Paz,5 Bouse,Constable Prec. 6,,WRITE-IN,NON,2,1,0,0,0,
-La Paz,1 Parker,Constable Prec. 6,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Constable Prec. 6,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Constable Prec. 6,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Constable Prec. 6,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Constable Prec. 6,,UNDER VOTES,,130,58,57,13,0,
-La Paz,2 Poston,Constable Prec. 6,,UNDER VOTES,,14,4,8,1,0,
-La Paz,4 Upriver,Constable Prec. 6,,UNDER VOTES,,102,63,28,10,0,
-La Paz,5 Bouse,Constable Prec. 6,,UNDER VOTES,,30,18,9,2,0,
-La Paz,1 Parker,Retain Justice Supreme-Bolick,,YES,NON,81,38,35,7,0,Y
-La Paz,2 Poston,Retain Justice Supreme-Bolick,,YES,NON,8,2,5,1,0,Y
-La Paz,4 Upriver,Retain Justice Supreme-Bolick,,YES,NON,68,42,19,7,0,Y
-La Paz,5 Bouse,Retain Justice Supreme-Bolick,,YES,NON,22,13,7,2,0,Y
-La Paz,6 Wenden,Retain Justice Supreme-Bolick,,YES,NON,6,3,2,0,0,Y
-La Paz,7 Salome,Retain Justice Supreme-Bolick,,YES,NON,39,23,10,5,0,Y
-La Paz,8 Quartzsite Two,Retain Justice Supreme-Bolick,,YES,NON,44,26,13,4,0,Y
-La Paz,9 Cibola,Retain Justice Supreme-Bolick,,YES,NON,3,2,1,0,0,Y
-La Paz,0 Ehrenberg,Retain Justice Supreme-Bolick,,YES,NON,13,7,4,1,0,Y
-La Paz,2 Vicksburg,Retain Justice Supreme-Bolick,,YES,NON,11,8,1,1,0,Y
-La Paz,4 Quartzsite Three,Retain Justice Supreme-Bolick,,YES,NON,21,15,3,2,0,Y
-La Paz,1 Parker,Retain Justice Supreme-Bolick,,NO,NON,38,15,18,4,0,Y
-La Paz,2 Poston,Retain Justice Supreme-Bolick,,NO,NON,5,2,3,0,0,Y
-La Paz,4 Upriver,Retain Justice Supreme-Bolick,,NO,NON,16,10,4,1,0,Y
-La Paz,5 Bouse,Retain Justice Supreme-Bolick,,NO,NON,6,3,2,0,0,Y
-La Paz,6 Wenden,Retain Justice Supreme-Bolick,,NO,NON,1,0,0,0,0,Y
-La Paz,7 Salome,Retain Justice Supreme-Bolick,,NO,NON,11,6,3,1,0,Y
-La Paz,8 Quartzsite Two,Retain Justice Supreme-Bolick,,NO,NON,12,7,3,1,0,Y
-La Paz,9 Cibola,Retain Justice Supreme-Bolick,,NO,NON,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,Retain Justice Supreme-Bolick,,NO,NON,4,1,1,1,0,Y
-La Paz,2 Vicksburg,Retain Justice Supreme-Bolick,,NO,NON,1,1,0,0,0,Y
-La Paz,4 Quartzsite Three,Retain Justice Supreme-Bolick,,NO,NON,3,2,0,0,0,Y
-La Paz,1 Parker,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Poston,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,5 Bouse,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,8 Quartzsite Two,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,9 Cibola,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Vicksburg,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,Retain Justice Supreme-Bolick,,UNDER VOTES,,22,9,10,2,0,Y
-La Paz,2 Poston,Retain Justice Supreme-Bolick,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,4 Upriver,Retain Justice Supreme-Bolick,,UNDER VOTES,,24,15,7,2,0,Y
-La Paz,5 Bouse,Retain Justice Supreme-Bolick,,UNDER VOTES,,4,2,1,0,0,Y
-La Paz,6 Wenden,Retain Justice Supreme-Bolick,,UNDER VOTES,,2,1,0,0,0,Y
-La Paz,7 Salome,Retain Justice Supreme-Bolick,,UNDER VOTES,,10,6,2,1,0,Y
-La Paz,8 Quartzsite Two,Retain Justice Supreme-Bolick,,UNDER VOTES,,13,7,3,2,0,Y
-La Paz,9 Cibola,Retain Justice Supreme-Bolick,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,0 Ehrenberg,Retain Justice Supreme-Bolick,,UNDER VOTES,,3,2,1,0,0,Y
-La Paz,2 Vicksburg,Retain Justice Supreme-Bolick,,UNDER VOTES,,2,2,0,0,0,Y
-La Paz,4 Quartzsite Three,Retain Justice Supreme-Bolick,,UNDER VOTES,,6,4,1,0,0,Y
-La Paz,1 Parker,Retain Justice Supreme-Pelander,,YES,NON,83,39,36,7,0,Y
-La Paz,2 Poston,Retain Justice Supreme-Pelander,,YES,NON,8,2,4,1,0,Y
-La Paz,4 Upriver,Retain Justice Supreme-Pelander,,YES,NON,67,42,17,7,0,Y
-La Paz,5 Bouse,Retain Justice Supreme-Pelander,,YES,NON,21,12,6,2,0,Y
-La Paz,6 Wenden,Retain Justice Supreme-Pelander,,YES,NON,6,3,2,0,0,Y
-La Paz,7 Salome,Retain Justice Supreme-Pelander,,YES,NON,38,22,10,5,0,Y
-La Paz,8 Quartzsite Two,Retain Justice Supreme-Pelander,,YES,NON,45,26,13,4,0,Y
-La Paz,9 Cibola,Retain Justice Supreme-Pelander,,YES,NON,3,2,1,0,0,Y
-La Paz,0 Ehrenberg,Retain Justice Supreme-Pelander,,YES,NON,14,8,4,1,0,Y
-La Paz,2 Vicksburg,Retain Justice Supreme-Pelander,,YES,NON,11,8,1,1,0,Y
-La Paz,4 Quartzsite Three,Retain Justice Supreme-Pelander,,YES,NON,21,15,3,2,0,Y
-La Paz,1 Parker,Retain Justice Supreme-Pelander,,NO,NON,34,14,16,3,0,Y
-La Paz,2 Poston,Retain Justice Supreme-Pelander,,NO,NON,5,1,3,0,0,Y
-La Paz,4 Upriver,Retain Justice Supreme-Pelander,,NO,NON,15,9,4,1,0,Y
-La Paz,5 Bouse,Retain Justice Supreme-Pelander,,NO,NON,6,4,2,0,0,Y
-La Paz,6 Wenden,Retain Justice Supreme-Pelander,,NO,NON,1,0,0,0,0,Y
-La Paz,7 Salome,Retain Justice Supreme-Pelander,,NO,NON,11,6,3,1,0,Y
-La Paz,8 Quartzsite Two,Retain Justice Supreme-Pelander,,NO,NON,10,6,2,1,0,Y
-La Paz,9 Cibola,Retain Justice Supreme-Pelander,,NO,NON,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,Retain Justice Supreme-Pelander,,NO,NON,3,1,1,0,0,Y
-La Paz,2 Vicksburg,Retain Justice Supreme-Pelander,,NO,NON,1,1,0,0,0,Y
-La Paz,4 Quartzsite Three,Retain Justice Supreme-Pelander,,NO,NON,2,1,0,0,0,Y
-La Paz,1 Parker,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Poston,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,5 Bouse,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,8 Quartzsite Two,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,9 Cibola,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Vicksburg,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,Retain Justice Supreme-Pelander,,UNDER VOTES,,25,10,11,2,0,Y
-La Paz,2 Poston,Retain Justice Supreme-Pelander,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,4 Upriver,Retain Justice Supreme-Pelander,,UNDER VOTES,,26,15,8,2,0,Y
-La Paz,5 Bouse,Retain Justice Supreme-Pelander,,UNDER VOTES,,5,3,1,0,0,Y
-La Paz,6 Wenden,Retain Justice Supreme-Pelander,,UNDER VOTES,,2,1,0,0,0,Y
-La Paz,7 Salome,Retain Justice Supreme-Pelander,,UNDER VOTES,,10,6,2,1,0,Y
-La Paz,8 Quartzsite Two,Retain Justice Supreme-Pelander,,UNDER VOTES,,14,8,4,2,0,Y
-La Paz,9 Cibola,Retain Justice Supreme-Pelander,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,0 Ehrenberg,Retain Justice Supreme-Pelander,,UNDER VOTES,,3,1,1,0,0,Y
-La Paz,2 Vicksburg,Retain Justice Supreme-Pelander,,UNDER VOTES,,3,3,0,0,0,Y
-La Paz,4 Quartzsite Three,Retain Justice Supreme-Pelander,,UNDER VOTES,,6,4,1,0,0,Y
-La Paz,1 Parker,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,47,24,18,4,0,
-La Paz,2 Poston,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,6,1,4,0,0,
-La Paz,4 Upriver,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,43,29,10,4,0,
-La Paz,5 Bouse,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,12,7,3,1,0,
-La Paz,6 Wenden,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,5,3,1,0,0,
-La Paz,7 Salome,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,25,15,6,3,0,
-La Paz,8 Quartzsite Two,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,35,22,11,2,0,
-La Paz,9 Cibola,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,2,1,0,0,0,
-La Paz,0 Ehrenberg,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,10,5,3,1,0,
-La Paz,2 Vicksburg,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,6,5,0,0,0,
-La Paz,4 Quartzsite Three,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,17,12,2,2,0,
-La Paz,1 Parker,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,80,31,41,7,0,
-La Paz,2 Poston,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,8,3,4,0,0,
-La Paz,4 Upriver,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,42,22,15,4,0,
-La Paz,5 Bouse,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,15,10,4,1,0,
-La Paz,6 Wenden,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,2,0,1,0,0,
-La Paz,7 Salome,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,22,12,7,3,0,
-La Paz,8 Quartzsite Two,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,19,10,5,4,0,
-La Paz,9 Cibola,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,2,0,1,0,0,
-La Paz,0 Ehrenberg,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,6,3,2,0,0,
-La Paz,2 Vicksburg,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,5,4,0,0,0,
-La Paz,4 Quartzsite Three,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,6,4,1,0,0,
-La Paz,1 Parker,Judge of the Superior Court,,WRITE-IN,NON,1,1,0,0,0,
-La Paz,2 Poston,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Upriver,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,6 Wenden,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Poston,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,6 Wenden,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,7 Salome,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,9 Cibola,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Judge of the Superior Court,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Judge of the Superior Court,,UNDER VOTES,,13,6,5,1,0,
-La Paz,2 Poston,Judge of the Superior Court,,UNDER VOTES,,0,0,0,0,0,
-La Paz,4 Upriver,Judge of the Superior Court,,UNDER VOTES,,21,14,5,2,0,
-La Paz,5 Bouse,Judge of the Superior Court,,UNDER VOTES,,4,2,1,0,0,
-La Paz,6 Wenden,Judge of the Superior Court,,UNDER VOTES,,2,1,0,0,0,
-La Paz,7 Salome,Judge of the Superior Court,,UNDER VOTES,,12,7,3,1,0,
-La Paz,8 Quartzsite Two,Judge of the Superior Court,,UNDER VOTES,,14,8,3,2,0,
-La Paz,9 Cibola,Judge of the Superior Court,,UNDER VOTES,,1,0,0,0,0,
-La Paz,0 Ehrenberg,Judge of the Superior Court,,UNDER VOTES,,4,2,1,0,0,
-La Paz,2 Vicksburg,Judge of the Superior Court,,UNDER VOTES,,3,2,0,0,0,
-La Paz,4 Quartzsite Three,Judge of the Superior Court,,UNDER VOTES,,7,5,1,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,9,6,2,0,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,1,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,7,3,3,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,4,2,0,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,28,15,8,4,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,4,2,1,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,6,4,1,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,13,8,3,1,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,1,0,0,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,6,4,1,1,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,9,6,3,0,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,1,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,4,2,1,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,6,5,0,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,14,7,4,2,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,2,1,0,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,6,4,1,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,16,10,4,1,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,1,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,3,2,1,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,6,4,0,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,31,18,9,3,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,1,0,1,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,6,3,2,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,10,7,2,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,6,2,2,1,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,2,1,0,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,2,1,0,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,15,9,4,1,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,1,1,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,4,2,1,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,9,6,1,1,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,8,5,2,1,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,3,1,1,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,3,2,0,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,5,3,0,0,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,1,0,0,0,0,
-La Paz,7 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,50,29,14,6,0,
-La Paz,9 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,7,3,2,1,0,
-La Paz,0 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,23,11,7,3,0,
-La Paz,4 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,28,21,4,2,0,
-La Paz,1 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"FINKBEINER, PAM",NON,0,0,0,0,0,
-La Paz,5 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"FINKBEINER, PAM",NON,9,5,2,0,0,
-La Paz,2 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"FINKBEINER, PAM",NON,1,1,0,0,0,
-La Paz,1 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"HILLHOUSE, SHARON",NON,0,0,0,0,0,
-La Paz,5 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"HILLHOUSE, SHARON",NON,23,14,7,2,0,
-La Paz,2 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"HILLHOUSE, SHARON",NON,2,2,0,0,0,
-La Paz,1 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"PONTIOUS, JAMES",NON,0,0,0,0,0,
-La Paz,5 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"PONTIOUS, JAMES",NON,16,10,4,1,0,
-La Paz,2 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"PONTIOUS, JAMES",NON,1,0,0,0,0,
-La Paz,1 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,5 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,2 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,OVER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,OVER VOTES,,0,0,0,0,0,
-La Paz,2 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,UNDER VOTES,,0,0,0,0,0,
-La Paz,5 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,UNDER VOTES,,15,8,5,1,0,
-La Paz,2 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,UNDER VOTES,,1,1,0,0,0,
-La Paz,1 Parker,Parker Fire Dist. Parker Fire District,,"DURAN, RAMONA",NON,64,27,31,6,0,
-La Paz,1 Parker,Parker Fire Dist. Parker Fire District,,"JAMES, DARYL",NON,53,27,20,4,0,
-La Paz,1 Parker,Parker Fire Dist. Parker Fire District,,"ROGERS, COURTNEY",NON,61,31,25,4,0,
-La Paz,1 Parker,Parker Fire Dist. Parker Fire District,,WRITE-IN,NON,0,0,0,0,0,
-La Paz,1 Parker,Parker Fire Dist. Parker Fire District,,OVER VOTES,,0,0,0,0,0,
-La Paz,1 Parker,Parker Fire Dist. Parker Fire District,,UNDER VOTES,,81,34,38,9,0,
-La Paz,8 Quartzsite Two,Council Member Town of Quartzsite,,WRITE-IN,NON,17,8,6,2,0,
-La Paz,4 Quartzsite Three,Council Member Town of Quartzsite,,WRITE-IN,NON,3,1,1,0,0,
-La Paz,8 Quartzsite Two,Council Member Town of Quartzsite,,OVER VOTES,,0,0,0,0,0,
-La Paz,4 Quartzsite Three,Council Member Town of Quartzsite,,OVER VOTES,,0,0,0,0,0,
-La Paz,8 Quartzsite Two,Council Member Town of Quartzsite,,UNDER VOTES,,52,32,14,5,0,
-La Paz,4 Quartzsite Three,Council Member Town of Quartzsite,,UNDER VOTES,,10,6,2,1,0,
-La Paz,1 Parker,PROPOSITION 125,,YES,NON,64,28,29,6,0,Y
-La Paz,2 Poston,PROPOSITION 125,,YES,NON,6,2,3,0,0,Y
-La Paz,4 Upriver,PROPOSITION 125,,YES,NON,45,26,13,5,0,Y
-La Paz,5 Bouse,PROPOSITION 125,,YES,NON,11,7,2,1,0,Y
-La Paz,6 Wenden,PROPOSITION 125,,YES,NON,4,2,1,0,0,Y
-La Paz,7 Salome,PROPOSITION 125,,YES,NON,25,15,6,3,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 125,,YES,NON,29,17,8,4,0,Y
-La Paz,9 Cibola,PROPOSITION 125,,YES,NON,1,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 125,,YES,NON,9,5,3,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 125,,YES,NON,7,5,0,1,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 125,,YES,NON,12,8,2,1,0,Y
-La Paz,1 Parker,PROPOSITION 125,,NO,NON,70,32,31,6,0,Y
-La Paz,2 Poston,PROPOSITION 125,,NO,NON,9,2,5,1,0,Y
-La Paz,4 Upriver,PROPOSITION 125,,NO,NON,54,36,13,4,0,Y
-La Paz,5 Bouse,PROPOSITION 125,,NO,NON,19,11,6,1,0,Y
-La Paz,6 Wenden,PROPOSITION 125,,NO,NON,5,2,1,0,0,Y
-La Paz,7 Salome,PROPOSITION 125,,NO,NON,32,19,9,3,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 125,,NO,NON,35,21,10,3,0,Y
-La Paz,9 Cibola,PROPOSITION 125,,NO,NON,3,2,1,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 125,,NO,NON,11,5,4,1,0,Y
-La Paz,2 Vicksburg,PROPOSITION 125,,NO,NON,7,6,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 125,,NO,NON,16,12,2,1,0,Y
-La Paz,1 Parker,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Poston,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,5 Bouse,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,9 Cibola,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 125,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 125,,UNDER VOTES,,7,3,3,0,0,Y
-La Paz,2 Poston,PROPOSITION 125,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 125,,UNDER VOTES,,9,5,3,1,0,Y
-La Paz,5 Bouse,PROPOSITION 125,,UNDER VOTES,,1,1,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 125,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 125,,UNDER VOTES,,3,1,1,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 125,,UNDER VOTES,,5,2,1,0,0,Y
-La Paz,9 Cibola,PROPOSITION 125,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 125,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 125,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 125,,UNDER VOTES,,2,1,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 126,,YES,NON,94,45,41,8,0,Y
-La Paz,2 Poston,PROPOSITION 126,,YES,NON,9,2,5,0,0,Y
-La Paz,4 Upriver,PROPOSITION 126,,YES,NON,77,47,22,7,0,Y
-La Paz,5 Bouse,PROPOSITION 126,,YES,NON,25,15,7,2,0,Y
-La Paz,6 Wenden,PROPOSITION 126,,YES,NON,7,4,2,0,0,Y
-La Paz,7 Salome,PROPOSITION 126,,YES,NON,46,28,12,5,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 126,,YES,NON,52,30,14,6,0,Y
-La Paz,9 Cibola,PROPOSITION 126,,YES,NON,4,2,1,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 126,,YES,NON,15,8,5,2,0,Y
-La Paz,2 Vicksburg,PROPOSITION 126,,YES,NON,12,10,0,1,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 126,,YES,NON,25,18,4,2,0,Y
-La Paz,1 Parker,PROPOSITION 126,,NO,NON,43,16,20,5,0,Y
-La Paz,2 Poston,PROPOSITION 126,,NO,NON,6,2,3,0,0,Y
-La Paz,4 Upriver,PROPOSITION 126,,NO,NON,24,15,6,2,0,Y
-La Paz,5 Bouse,PROPOSITION 126,,NO,NON,6,3,2,0,0,Y
-La Paz,6 Wenden,PROPOSITION 126,,NO,NON,2,1,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 126,,NO,NON,12,7,4,1,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 126,,NO,NON,15,8,4,1,0,Y
-La Paz,9 Cibola,PROPOSITION 126,,NO,NON,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 126,,NO,NON,4,2,1,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 126,,NO,NON,3,1,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 126,,NO,NON,4,3,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Poston,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,5 Bouse,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,9 Cibola,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 126,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 126,,UNDER VOTES,,4,1,2,0,0,Y
-La Paz,2 Poston,PROPOSITION 126,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 126,,UNDER VOTES,,6,3,2,0,0,Y
-La Paz,5 Bouse,PROPOSITION 126,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 126,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 126,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 126,,UNDER VOTES,,3,1,1,0,0,Y
-La Paz,9 Cibola,PROPOSITION 126,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 126,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 126,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 126,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 127,,YES,NON,29,12,14,2,0,Y
-La Paz,2 Poston,PROPOSITION 127,,YES,NON,3,1,2,0,0,Y
-La Paz,4 Upriver,PROPOSITION 127,,YES,NON,15,8,4,2,0,Y
-La Paz,5 Bouse,PROPOSITION 127,,YES,NON,4,2,1,0,0,Y
-La Paz,6 Wenden,PROPOSITION 127,,YES,NON,1,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 127,,YES,NON,9,5,2,1,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 127,,YES,NON,13,6,4,1,0,Y
-La Paz,9 Cibola,PROPOSITION 127,,YES,NON,1,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 127,,YES,NON,4,1,1,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 127,,YES,NON,1,1,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 127,,YES,NON,4,3,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 127,,NO,NON,109,49,49,10,0,Y
-La Paz,2 Poston,PROPOSITION 127,,NO,NON,11,3,6,1,0,Y
-La Paz,4 Upriver,PROPOSITION 127,,NO,NON,87,54,24,8,0,Y
-La Paz,5 Bouse,PROPOSITION 127,,NO,NON,27,16,8,2,0,Y
-La Paz,6 Wenden,PROPOSITION 127,,NO,NON,7,4,2,1,0,Y
-La Paz,7 Salome,PROPOSITION 127,,NO,NON,49,30,13,6,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 127,,NO,NON,54,33,14,6,0,Y
-La Paz,9 Cibola,PROPOSITION 127,,NO,NON,4,2,2,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 127,,NO,NON,16,8,5,1,0,Y
-La Paz,2 Vicksburg,PROPOSITION 127,,NO,NON,13,10,1,1,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 127,,NO,NON,25,17,4,2,0,Y
-La Paz,1 Parker,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Poston,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,5 Bouse,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,9 Cibola,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 127,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 127,,UNDER VOTES,,4,2,1,0,0,Y
-La Paz,2 Poston,PROPOSITION 127,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 127,,UNDER VOTES,,5,3,1,0,0,Y
-La Paz,5 Bouse,PROPOSITION 127,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 127,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 127,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 127,,UNDER VOTES,,2,1,1,0,0,Y
-La Paz,9 Cibola,PROPOSITION 127,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 127,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 127,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 127,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 305,,YES,NON,59,22,30,6,0,Y
-La Paz,2 Poston,PROPOSITION 305,,YES,NON,7,2,4,0,0,Y
-La Paz,4 Upriver,PROPOSITION 305,,YES,NON,33,19,10,4,0,Y
-La Paz,5 Bouse,PROPOSITION 305,,YES,NON,9,4,4,0,0,Y
-La Paz,6 Wenden,PROPOSITION 305,,YES,NON,3,1,1,0,0,Y
-La Paz,7 Salome,PROPOSITION 305,,YES,NON,17,9,6,2,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 305,,YES,NON,24,12,7,4,0,Y
-La Paz,9 Cibola,PROPOSITION 305,,YES,NON,1,0,1,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 305,,YES,NON,7,4,2,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 305,,YES,NON,4,3,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 305,,YES,NON,9,6,1,1,0,Y
-La Paz,1 Parker,PROPOSITION 305,,NO,NON,75,37,30,6,0,Y
-La Paz,2 Poston,PROPOSITION 305,,NO,NON,7,2,4,0,0,Y
-La Paz,4 Upriver,PROPOSITION 305,,NO,NON,63,39,18,5,0,Y
-La Paz,5 Bouse,PROPOSITION 305,,NO,NON,21,13,6,2,0,Y
-La Paz,6 Wenden,PROPOSITION 305,,NO,NON,5,3,1,0,0,Y
-La Paz,7 Salome,PROPOSITION 305,,NO,NON,40,25,9,4,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 305,,NO,NON,40,25,11,3,0,Y
-La Paz,9 Cibola,PROPOSITION 305,,NO,NON,3,2,1,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 305,,NO,NON,11,5,4,1,0,Y
-La Paz,2 Vicksburg,PROPOSITION 305,,NO,NON,10,8,0,1,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 305,,NO,NON,18,14,3,1,0,Y
-La Paz,1 Parker,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Poston,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,5 Bouse,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,9 Cibola,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 305,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 305,,UNDER VOTES,,8,4,3,1,0,Y
-La Paz,2 Poston,PROPOSITION 305,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 305,,UNDER VOTES,,11,7,2,1,0,Y
-La Paz,5 Bouse,PROPOSITION 305,,UNDER VOTES,,1,1,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 305,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 305,,UNDER VOTES,,3,1,0,1,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 305,,UNDER VOTES,,5,3,1,0,0,Y
-La Paz,9 Cibola,PROPOSITION 305,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 305,,UNDER VOTES,,2,1,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 305,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 305,,UNDER VOTES,,2,1,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 306,,YES,NON,75,34,35,6,0,Y
-La Paz,2 Poston,PROPOSITION 306,,YES,NON,7,2,4,0,0,Y
-La Paz,4 Upriver,PROPOSITION 306,,YES,NON,58,35,16,5,0,Y
-La Paz,5 Bouse,PROPOSITION 306,,YES,NON,17,10,5,1,0,Y
-La Paz,6 Wenden,PROPOSITION 306,,YES,NON,5,2,2,0,0,Y
-La Paz,7 Salome,PROPOSITION 306,,YES,NON,38,23,10,4,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 306,,YES,NON,38,22,10,5,0,Y
-La Paz,9 Cibola,PROPOSITION 306,,YES,NON,2,1,1,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 306,,YES,NON,12,6,4,2,0,Y
-La Paz,2 Vicksburg,PROPOSITION 306,,YES,NON,9,7,0,1,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 306,,YES,NON,19,13,3,2,0,Y
-La Paz,1 Parker,PROPOSITION 306,,NO,NON,57,26,25,6,0,Y
-La Paz,2 Poston,PROPOSITION 306,,NO,NON,7,2,4,0,0,Y
-La Paz,4 Upriver,PROPOSITION 306,,NO,NON,40,24,12,4,0,Y
-La Paz,5 Bouse,PROPOSITION 306,,NO,NON,13,8,4,1,0,Y
-La Paz,6 Wenden,PROPOSITION 306,,NO,NON,4,2,1,0,0,Y
-La Paz,7 Salome,PROPOSITION 306,,NO,NON,19,11,5,2,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 306,,NO,NON,26,15,8,2,0,Y
-La Paz,9 Cibola,PROPOSITION 306,,NO,NON,2,1,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 306,,NO,NON,6,3,2,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 306,,NO,NON,5,4,1,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 306,,NO,NON,9,7,1,1,0,Y
-La Paz,1 Parker,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Poston,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,5 Bouse,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,9 Cibola,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 306,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 306,,UNDER VOTES,,9,4,4,1,0,Y
-La Paz,2 Poston,PROPOSITION 306,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 306,,UNDER VOTES,,10,6,2,1,0,Y
-La Paz,5 Bouse,PROPOSITION 306,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 306,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 306,,UNDER VOTES,,3,1,1,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 306,,UNDER VOTES,,5,3,1,0,0,Y
-La Paz,9 Cibola,PROPOSITION 306,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 306,,UNDER VOTES,,2,1,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 306,,UNDER VOTES,,1,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 306,,UNDER VOTES,,1,1,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 402,,YES,NON,82,39,36,6,0,Y
-La Paz,2 Poston,PROPOSITION 402,,YES,NON,7,2,4,0,0,Y
-La Paz,4 Upriver,PROPOSITION 402,,YES,NON,51,29,16,5,0,Y
-La Paz,5 Bouse,PROPOSITION 402,,YES,NON,17,10,5,1,0,Y
-La Paz,6 Wenden,PROPOSITION 402,,YES,NON,5,3,1,0,0,Y
-La Paz,7 Salome,PROPOSITION 402,,YES,NON,29,17,7,4,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 402,,YES,NON,34,19,10,4,0,Y
-La Paz,9 Cibola,PROPOSITION 402,,YES,NON,2,0,1,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 402,,YES,NON,10,5,4,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 402,,YES,NON,6,5,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 402,,YES,NON,12,9,2,1,0,Y
-La Paz,1 Parker,PROPOSITION 402,,NO,NON,53,22,24,6,0,Y
-La Paz,2 Poston,PROPOSITION 402,,NO,NON,7,2,4,0,0,Y
-La Paz,4 Upriver,PROPOSITION 402,,NO,NON,47,31,11,4,0,Y
-La Paz,5 Bouse,PROPOSITION 402,,NO,NON,14,8,5,0,0,Y
-La Paz,6 Wenden,PROPOSITION 402,,NO,NON,4,2,1,1,0,Y
-La Paz,7 Salome,PROPOSITION 402,,NO,NON,29,17,8,3,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 402,,NO,NON,30,19,8,3,0,Y
-La Paz,9 Cibola,PROPOSITION 402,,NO,NON,3,2,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 402,,NO,NON,8,4,2,1,0,Y
-La Paz,2 Vicksburg,PROPOSITION 402,,NO,NON,8,7,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 402,,NO,NON,16,11,2,2,0,Y
-La Paz,1 Parker,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Poston,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,5 Bouse,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,9 Cibola,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 402,,OVER VOTES,,0,0,0,0,0,Y
-La Paz,1 Parker,PROPOSITION 402,,UNDER VOTES,,6,2,3,0,0,Y
-La Paz,2 Poston,PROPOSITION 402,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Upriver,PROPOSITION 402,,UNDER VOTES,,9,6,2,1,0,Y
-La Paz,5 Bouse,PROPOSITION 402,,UNDER VOTES,,1,1,0,0,0,Y
-La Paz,6 Wenden,PROPOSITION 402,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,7 Salome,PROPOSITION 402,,UNDER VOTES,,2,0,0,0,0,Y
-La Paz,8 Quartzsite Two,PROPOSITION 402,,UNDER VOTES,,5,3,1,0,0,Y
-La Paz,9 Cibola,PROPOSITION 402,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,0 Ehrenberg,PROPOSITION 402,,UNDER VOTES,,2,1,0,0,0,Y
-La Paz,2 Vicksburg,PROPOSITION 402,,UNDER VOTES,,0,0,0,0,0,Y
-La Paz,4 Quartzsite Three,PROPOSITION 402,,UNDER VOTES,,2,1,0,0,0,Y
+county,precinct,office,district,candidate,party,votes,early_voting,election_day,provisional
+La Paz,051 Parker,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,3297,0,0,0
+La Paz,052 Poston,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,390,0,0,0
+La Paz,054 Upriver,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,1972,0,0,0
+La Paz,055 Bouse,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,512,0,0,0
+La Paz,056 Wenden,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,206,0,0,0
+La Paz,057 Salome,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,897,0,0,0
+La Paz,058 Quartzsite Two,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,1236,0,0,0
+La Paz,059 Cibola,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,137,0,0,0
+La Paz,060 Ehrenberg,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,570,0,0,0
+La Paz,062 Vicksburg,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,282,0,0,0
+La Paz,064 Quartzsite Three,REGISTERED VOTERS,,REGISTERED VOTERS - TOTAL,,549,0,0,0
+La Paz,051 Parker,BALLOTS CAST,,BALLOTS CAST - TOTAL,,1431,644,648,139
+La Paz,052 Poston,BALLOTS CAST,,BALLOTS CAST - TOTAL,,158,52,91,15
+La Paz,054 Upriver,BALLOTS CAST,,BALLOTS CAST - TOTAL,,1092,673,308,111
+La Paz,055 Bouse,BALLOTS CAST,,BALLOTS CAST - TOTAL,,329,196,104,29
+La Paz,056 Wenden,BALLOTS CAST,,BALLOTS CAST - TOTAL,,100,53,34,13
+La Paz,057 Salome,BALLOTS CAST,,BALLOTS CAST - TOTAL,,608,358,169,81
+La Paz,058 Quartzsite Two,BALLOTS CAST,,BALLOTS CAST - TOTAL,,704,412,207,85
+La Paz,059 Cibola,BALLOTS CAST,,BALLOTS CAST - TOTAL,,60,30,24,6
+La Paz,060 Ehrenberg,BALLOTS CAST,,BALLOTS CAST - TOTAL,,216,114,76,26
+La Paz,062 Vicksburg,BALLOTS CAST,,BALLOTS CAST - TOTAL,,157,127,14,16
+La Paz,064 Quartzsite Three,BALLOTS CAST,,BALLOTS CAST - TOTAL,,309,223,54,32
+La Paz,051 Parker,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,1,1,0,0
+La Paz,052 Poston,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,0,0,0,0
+La Paz,054 Upriver,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,3,1,2,0
+La Paz,055 Bouse,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,1,0,1,0
+La Paz,056 Wenden,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,0,0,0,0
+La Paz,057 Salome,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,0,0,0,0
+La Paz,058 Quartzsite Two,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,1,0,1,0
+La Paz,059 Cibola,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,0,0,0,0
+La Paz,060 Ehrenberg,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,0,0,0,0
+La Paz,062 Vicksburg,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,0,0,0,0
+La Paz,064 Quartzsite Three,BALLOTS CAST - BLANK,,BALLOTS CAST - BLANK,,0,0,0,0
+La Paz,051 Parker,U.S. Senate,,"MCSALLY, MARTHA",REP,701,362,273,66
+La Paz,052 Poston,U.S. Senate,,"MCSALLY, MARTHA",REP,40,15,23,2
+La Paz,054 Upriver,U.S. Senate,,"MCSALLY, MARTHA",REP,789,487,215,87
+La Paz,055 Bouse,U.S. Senate,,"MCSALLY, MARTHA",REP,246,143,79,24
+La Paz,056 Wenden,U.S. Senate,,"MCSALLY, MARTHA",REP,61,27,26,8
+La Paz,057 Salome,U.S. Senate,,"MCSALLY, MARTHA",REP,433,256,121,56
+La Paz,058 Quartzsite Two,U.S. Senate,,"MCSALLY, MARTHA",REP,458,274,131,53
+La Paz,059 Cibola,U.S. Senate,,"MCSALLY, MARTHA",REP,44,21,17,6
+La Paz,060 Ehrenberg,U.S. Senate,,"MCSALLY, MARTHA",REP,161,87,57,17
+La Paz,062 Vicksburg,U.S. Senate,,"MCSALLY, MARTHA",REP,119,93,10,16
+La Paz,064 Quartzsite Three,U.S. Senate,,"MCSALLY, MARTHA",REP,213,152,36,25
+La Paz,051 Parker,U.S. Senate,,"SINEMA, KYRSTEN",DEM,652,252,335,65
+La Paz,052 Poston,U.S. Senate,,"SINEMA, KYRSTEN",DEM,110,34,64,12
+La Paz,054 Upriver,U.S. Senate,,"SINEMA, KYRSTEN",DEM,248,154,77,17
+La Paz,055 Bouse,U.S. Senate,,"SINEMA, KYRSTEN",DEM,65,40,20,5
+La Paz,056 Wenden,U.S. Senate,,"SINEMA, KYRSTEN",DEM,33,21,8,4
+La Paz,057 Salome,U.S. Senate,,"SINEMA, KYRSTEN",DEM,154,89,45,20
+La Paz,058 Quartzsite Two,U.S. Senate,,"SINEMA, KYRSTEN",DEM,180,102,58,20
+La Paz,059 Cibola,U.S. Senate,,"SINEMA, KYRSTEN",DEM,13,7,6,0
+La Paz,060 Ehrenberg,U.S. Senate,,"SINEMA, KYRSTEN",DEM,44,24,13,7
+La Paz,062 Vicksburg,U.S. Senate,,"SINEMA, KYRSTEN",DEM,32,29,3,0
+La Paz,064 Quartzsite Three,U.S. Senate,,"SINEMA, KYRSTEN",DEM,78,59,15,4
+La Paz,051 Parker,U.S. Senate,,"GREEN, ANGELA",GRN,56,23,27,6
+La Paz,052 Poston,U.S. Senate,,"GREEN, ANGELA",GRN,7,2,4,1
+La Paz,054 Upriver,U.S. Senate,,"GREEN, ANGELA",GRN,27,15,5,7
+La Paz,055 Bouse,U.S. Senate,,"GREEN, ANGELA",GRN,14,12,2,0
+La Paz,056 Wenden,U.S. Senate,,"GREEN, ANGELA",GRN,4,3,0,1
+La Paz,057 Salome,U.S. Senate,,"GREEN, ANGELA",GRN,18,11,3,4
+La Paz,058 Quartzsite Two,U.S. Senate,,"GREEN, ANGELA",GRN,44,27,8,9
+La Paz,059 Cibola,U.S. Senate,,"GREEN, ANGELA",GRN,1,1,0,0
+La Paz,060 Ehrenberg,U.S. Senate,,"GREEN, ANGELA",GRN,8,3,3,2
+La Paz,062 Vicksburg,U.S. Senate,,"GREEN, ANGELA",GRN,3,3,0,0
+La Paz,064 Quartzsite Three,U.S. Senate,,"GREEN, ANGELA",GRN,17,11,3,3
+La Paz,051 Parker,U.S. Senate,,WRITE-IN,NON,2,1,1,0
+La Paz,052 Poston,U.S. Senate,,WRITE-IN,NON,1,1,0,0
+La Paz,054 Upriver,U.S. Senate,,WRITE-IN,NON,1,0,1,0
+La Paz,055 Bouse,U.S. Senate,,WRITE-IN,NON,0,0,0,0
+La Paz,056 Wenden,U.S. Senate,,WRITE-IN,NON,1,1,0,0
+La Paz,057 Salome,U.S. Senate,,WRITE-IN,NON,1,1,0,0
+La Paz,058 Quartzsite Two,U.S. Senate,,WRITE-IN,NON,1,1,0,0
+La Paz,059 Cibola,U.S. Senate,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,U.S. Senate,,WRITE-IN,NON,1,0,1,0
+La Paz,062 Vicksburg,U.S. Senate,,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,U.S. Senate,,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,U.S. Senate,,OVER VOTES,,2,1,1,0
+La Paz,052 Poston,U.S. Senate,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,U.S. Senate,,OVER VOTES,,2,0,2,0
+La Paz,055 Bouse,U.S. Senate,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,U.S. Senate,,OVER VOTES,,1,1,0,0
+La Paz,057 Salome,U.S. Senate,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,U.S. Senate,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,U.S. Senate,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,U.S. Senate,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,U.S. Senate,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,U.S. Senate,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,U.S. Senate,,UNDER VOTES,,18,5,11,2
+La Paz,052 Poston,U.S. Senate,,UNDER VOTES,,0,0,0,0
+La Paz,054 Upriver,U.S. Senate,,UNDER VOTES,,25,17,8,0
+La Paz,055 Bouse,U.S. Senate,,UNDER VOTES,,4,1,3,0
+La Paz,056 Wenden,U.S. Senate,,UNDER VOTES,,0,0,0,0
+La Paz,057 Salome,U.S. Senate,,UNDER VOTES,,2,1,0,1
+La Paz,058 Quartzsite Two,U.S. Senate,,UNDER VOTES,,21,8,10,3
+La Paz,059 Cibola,U.S. Senate,,UNDER VOTES,,2,1,1,0
+La Paz,060 Ehrenberg,U.S. Senate,,UNDER VOTES,,2,0,2,0
+La Paz,062 Vicksburg,U.S. Senate,,UNDER VOTES,,3,2,1,0
+La Paz,064 Quartzsite Three,U.S. Senate,,UNDER VOTES,,1,1,0,0
+La Paz,051 Parker,U.S. House,4,"GOSAR, PAUL",REP,786,398,316,72
+La Paz,052 Poston,U.S. House,4,"GOSAR, PAUL",REP,53,19,28,6
+La Paz,054 Upriver,U.S. House,4,"GOSAR, PAUL",REP,839,518,233,88
+La Paz,055 Bouse,U.S. House,4,"GOSAR, PAUL",REP,259,153,81,25
+La Paz,056 Wenden,U.S. House,4,"GOSAR, PAUL",REP,73,34,29,10
+La Paz,057 Salome,U.S. House,4,"GOSAR, PAUL",REP,459,270,130,59
+La Paz,058 Quartzsite Two,U.S. House,4,"GOSAR, PAUL",REP,503,300,142,61
+La Paz,059 Cibola,U.S. House,4,"GOSAR, PAUL",REP,45,22,18,5
+La Paz,060 Ehrenberg,U.S. House,4,"GOSAR, PAUL",REP,162,85,57,20
+La Paz,062 Vicksburg,U.S. House,4,"GOSAR, PAUL",REP,125,97,13,15
+La Paz,064 Quartzsite Three,U.S. House,4,"GOSAR, PAUL",REP,229,163,40,26
+La Paz,051 Parker,U.S. House,4,"BRILL, DAVID",DEM,577,219,295,63
+La Paz,052 Poston,U.S. House,4,"BRILL, DAVID",DEM,100,32,61,7
+La Paz,054 Upriver,U.S. House,4,"BRILL, DAVID",DEM,217,139,62,16
+La Paz,055 Bouse,U.S. House,4,"BRILL, DAVID",DEM,55,35,16,4
+La Paz,056 Wenden,U.S. House,4,"BRILL, DAVID",DEM,22,14,5,3
+La Paz,057 Salome,U.S. House,4,"BRILL, DAVID",DEM,123,71,33,19
+La Paz,058 Quartzsite Two,U.S. House,4,"BRILL, DAVID",DEM,157,90,52,15
+La Paz,059 Cibola,U.S. House,4,"BRILL, DAVID",DEM,9,5,4,0
+La Paz,060 Ehrenberg,U.S. House,4,"BRILL, DAVID",DEM,41,26,10,5
+La Paz,062 Vicksburg,U.S. House,4,"BRILL, DAVID",DEM,29,27,1,1
+La Paz,064 Quartzsite Three,U.S. House,4,"BRILL, DAVID",DEM,69,50,14,5
+La Paz,051 Parker,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,23,9,14,0
+La Paz,052 Poston,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,4,1,2,1
+La Paz,054 Upriver,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,12,7,3,2
+La Paz,055 Bouse,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,5,3,2,0
+La Paz,056 Wenden,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,2,2,0,0
+La Paz,057 Salome,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,4,2,2,0
+La Paz,058 Quartzsite Two,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,14,8,4,2
+La Paz,059 Cibola,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,1,1,0,0
+La Paz,060 Ehrenberg,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,5,0,4,1
+La Paz,062 Vicksburg,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,0,0,0,0
+La Paz,064 Quartzsite Three,U.S. House,4,"KNAUER, HARYAKSHA GREGOR",GRN,6,5,0,1
+La Paz,051 Parker,U.S. House,4,WRITE-IN,NON,2,0,2,0
+La Paz,052 Poston,U.S. House,4,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,U.S. House,4,WRITE-IN,NON,1,0,1,0
+La Paz,055 Bouse,U.S. House,4,WRITE-IN,NON,0,0,0,0
+La Paz,056 Wenden,U.S. House,4,WRITE-IN,NON,2,2,0,0
+La Paz,057 Salome,U.S. House,4,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,U.S. House,4,WRITE-IN,NON,1,1,0,0
+La Paz,059 Cibola,U.S. House,4,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,U.S. House,4,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,U.S. House,4,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,U.S. House,4,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,U.S. House,4,OVER VOTES,,2,2,0,0
+La Paz,052 Poston,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,U.S. House,4,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,U.S. House,4,UNDER VOTES,,41,16,21,4
+La Paz,052 Poston,U.S. House,4,UNDER VOTES,,1,0,0,1
+La Paz,054 Upriver,U.S. House,4,UNDER VOTES,,23,9,9,5
+La Paz,055 Bouse,U.S. House,4,UNDER VOTES,,10,5,5,0
+La Paz,056 Wenden,U.S. House,4,UNDER VOTES,,1,1,0,0
+La Paz,057 Salome,U.S. House,4,UNDER VOTES,,22,15,4,3
+La Paz,058 Quartzsite Two,U.S. House,4,UNDER VOTES,,29,13,9,7
+La Paz,059 Cibola,U.S. House,4,UNDER VOTES,,5,2,2,1
+La Paz,060 Ehrenberg,U.S. House,4,UNDER VOTES,,8,3,5,0
+La Paz,062 Vicksburg,U.S. House,4,UNDER VOTES,,3,3,0,0
+La Paz,064 Quartzsite Three,U.S. House,4,UNDER VOTES,,5,5,0,0
+La Paz,051 Parker,Governor,,"DUCEY, DOUG",REP,869,442,344,83
+La Paz,052 Poston,Governor,,"DUCEY, DOUG",REP,68,23,37,8
+La Paz,054 Upriver,Governor,,"DUCEY, DOUG",REP,896,553,247,96
+La Paz,055 Bouse,Governor,,"DUCEY, DOUG",REP,281,165,89,27
+La Paz,056 Wenden,Governor,,"DUCEY, DOUG",REP,75,39,26,10
+La Paz,057 Salome,Governor,,"DUCEY, DOUG",REP,505,300,139,66
+La Paz,058 Quartzsite Two,Governor,,"DUCEY, DOUG",REP,560,338,156,66
+La Paz,059 Cibola,Governor,,"DUCEY, DOUG",REP,52,25,21,6
+La Paz,060 Ehrenberg,Governor,,"DUCEY, DOUG",REP,168,93,59,16
+La Paz,062 Vicksburg,Governor,,"DUCEY, DOUG",REP,136,107,13,16
+La Paz,064 Quartzsite Three,Governor,,"DUCEY, DOUG",REP,242,172,43,27
+La Paz,051 Parker,Governor,,"GARCIA, DAVID",DEM,493,180,266,47
+La Paz,052 Poston,Governor,,"GARCIA, DAVID",DEM,83,28,49,6
+La Paz,054 Upriver,Governor,,"GARCIA, DAVID",DEM,162,98,51,13
+La Paz,055 Bouse,Governor,,"GARCIA, DAVID",DEM,41,28,11,2
+La Paz,056 Wenden,Governor,,"GARCIA, DAVID",DEM,19,11,6,2
+La Paz,057 Salome,Governor,,"GARCIA, DAVID",DEM,92,50,27,15
+La Paz,058 Quartzsite Two,Governor,,"GARCIA, DAVID",DEM,116,62,42,12
+La Paz,059 Cibola,Governor,,"GARCIA, DAVID",DEM,7,5,2,0
+La Paz,060 Ehrenberg,Governor,,"GARCIA, DAVID",DEM,35,17,12,6
+La Paz,062 Vicksburg,Governor,,"GARCIA, DAVID",DEM,20,19,1,0
+La Paz,064 Quartzsite Three,Governor,,"GARCIA, DAVID",DEM,54,41,9,4
+La Paz,051 Parker,Governor,,"TORRES, ANGEL",GRN,47,17,25,5
+La Paz,052 Poston,Governor,,"TORRES, ANGEL",GRN,5,1,4,0
+La Paz,054 Upriver,Governor,,"TORRES, ANGEL",GRN,21,15,5,1
+La Paz,055 Bouse,Governor,,"TORRES, ANGEL",GRN,4,3,1,0
+La Paz,056 Wenden,Governor,,"TORRES, ANGEL",GRN,3,2,0,1
+La Paz,057 Salome,Governor,,"TORRES, ANGEL",GRN,8,6,2,0
+La Paz,058 Quartzsite Two,Governor,,"TORRES, ANGEL",GRN,20,11,4,5
+La Paz,059 Cibola,Governor,,"TORRES, ANGEL",GRN,0,0,0,0
+La Paz,060 Ehrenberg,Governor,,"TORRES, ANGEL",GRN,10,3,4,3
+La Paz,062 Vicksburg,Governor,,"TORRES, ANGEL",GRN,0,0,0,0
+La Paz,064 Quartzsite Three,Governor,,"TORRES, ANGEL",GRN,11,8,2,1
+La Paz,051 Parker,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,052 Poston,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,Governor,,WRITE-IN,NON,2,0,2,0
+La Paz,055 Bouse,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,056 Wenden,Governor,,WRITE-IN,NON,2,1,1,0
+La Paz,057 Salome,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,059 Cibola,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,Governor,,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,Governor,,OVER VOTES,,1,1,0,0
+La Paz,052 Poston,Governor,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Governor,,OVER VOTES,,1,0,0,1
+La Paz,055 Bouse,Governor,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Governor,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Governor,,OVER VOTES,,1,0,1,0
+La Paz,058 Quartzsite Two,Governor,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,Governor,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Governor,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Governor,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Governor,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Governor,,UNDER VOTES,,21,4,13,4
+La Paz,052 Poston,Governor,,UNDER VOTES,,2,0,1,1
+La Paz,054 Upriver,Governor,,UNDER VOTES,,10,7,3,0
+La Paz,055 Bouse,Governor,,UNDER VOTES,,3,0,3,0
+La Paz,056 Wenden,Governor,,UNDER VOTES,,1,0,1,0
+La Paz,057 Salome,Governor,,UNDER VOTES,,2,2,0,0
+La Paz,058 Quartzsite Two,Governor,,UNDER VOTES,,8,1,5,2
+La Paz,059 Cibola,Governor,,UNDER VOTES,,1,0,1,0
+La Paz,060 Ehrenberg,Governor,,UNDER VOTES,,3,1,1,1
+La Paz,062 Vicksburg,Governor,,UNDER VOTES,,1,1,0,0
+La Paz,064 Quartzsite Three,Governor,,UNDER VOTES,,2,2,0,0
+La Paz,051 Parker,State Senate,5,"BORRELLI, SONNY",REP,790,400,318,72
+La Paz,052 Poston,State Senate,5,"BORRELLI, SONNY",REP,53,21,28,4
+La Paz,054 Upriver,State Senate,5,"BORRELLI, SONNY",REP,847,518,235,94
+La Paz,055 Bouse,State Senate,5,"BORRELLI, SONNY",REP,261,156,82,23
+La Paz,056 Wenden,State Senate,5,"BORRELLI, SONNY",REP,73,34,29,10
+La Paz,057 Salome,State Senate,5,"BORRELLI, SONNY",REP,456,272,128,56
+La Paz,058 Quartzsite Two,State Senate,5,"BORRELLI, SONNY",REP,501,304,145,52
+La Paz,059 Cibola,State Senate,5,"BORRELLI, SONNY",REP,47,23,18,6
+La Paz,060 Ehrenberg,State Senate,5,"BORRELLI, SONNY",REP,166,88,59,19
+La Paz,062 Vicksburg,State Senate,5,"BORRELLI, SONNY",REP,125,98,12,15
+La Paz,064 Quartzsite Three,State Senate,5,"BORRELLI, SONNY",REP,228,164,40,24
+La Paz,051 Parker,State Senate,5,"MORGAINE, J'AIME",DEM,597,231,303,63
+La Paz,052 Poston,State Senate,5,"MORGAINE, J'AIME",DEM,102,30,63,9
+La Paz,054 Upriver,State Senate,5,"MORGAINE, J'AIME",DEM,217,139,63,15
+La Paz,055 Bouse,State Senate,5,"MORGAINE, J'AIME",DEM,63,39,18,6
+La Paz,056 Wenden,State Senate,5,"MORGAINE, J'AIME",DEM,22,16,4,2
+La Paz,057 Salome,State Senate,5,"MORGAINE, J'AIME",DEM,133,77,36,20
+La Paz,058 Quartzsite Two,State Senate,5,"MORGAINE, J'AIME",DEM,174,96,51,27
+La Paz,059 Cibola,State Senate,5,"MORGAINE, J'AIME",DEM,11,6,5,0
+La Paz,060 Ehrenberg,State Senate,5,"MORGAINE, J'AIME",DEM,44,24,13,7
+La Paz,062 Vicksburg,State Senate,5,"MORGAINE, J'AIME",DEM,30,27,2,1
+La Paz,064 Quartzsite Three,State Senate,5,"MORGAINE, J'AIME",DEM,71,52,13,6
+La Paz,051 Parker,State Senate,5,WRITE-IN,NON,2,0,2,0
+La Paz,052 Poston,State Senate,5,WRITE-IN,NON,1,0,0,1
+La Paz,054 Upriver,State Senate,5,WRITE-IN,NON,1,1,0,0
+La Paz,055 Bouse,State Senate,5,WRITE-IN,NON,0,0,0,0
+La Paz,056 Wenden,State Senate,5,WRITE-IN,NON,1,1,0,0
+La Paz,057 Salome,State Senate,5,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,State Senate,5,WRITE-IN,NON,0,0,0,0
+La Paz,059 Cibola,State Senate,5,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,State Senate,5,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,State Senate,5,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,State Senate,5,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,State Senate,5,OVER VOTES,,2,1,0,1
+La Paz,052 Poston,State Senate,5,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,State Senate,5,OVER VOTES,,1,1,0,0
+La Paz,055 Bouse,State Senate,5,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,State Senate,5,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,State Senate,5,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,State Senate,5,OVER VOTES,,1,1,0,0
+La Paz,059 Cibola,State Senate,5,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,State Senate,5,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,State Senate,5,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,State Senate,5,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,State Senate,5,UNDER VOTES,,40,12,25,3
+La Paz,052 Poston,State Senate,5,UNDER VOTES,,2,1,0,1
+La Paz,054 Upriver,State Senate,5,UNDER VOTES,,26,14,10,2
+La Paz,055 Bouse,State Senate,5,UNDER VOTES,,5,1,4,0
+La Paz,056 Wenden,State Senate,5,UNDER VOTES,,4,2,1,1
+La Paz,057 Salome,State Senate,5,UNDER VOTES,,19,9,5,5
+La Paz,058 Quartzsite Two,State Senate,5,UNDER VOTES,,28,11,11,6
+La Paz,059 Cibola,State Senate,5,UNDER VOTES,,2,1,1,0
+La Paz,060 Ehrenberg,State Senate,5,UNDER VOTES,,6,2,4,0
+La Paz,062 Vicksburg,State Senate,5,UNDER VOTES,,2,2,0,0
+La Paz,064 Quartzsite Three,State Senate,5,UNDER VOTES,,10,7,1,2
+La Paz,051 Parker,State Representative,5,"BIASIUCCI, LEO",REP,656,326,269,61
+La Paz,052 Poston,State Representative,5,"BIASIUCCI, LEO",REP,41,15,22,4
+La Paz,054 Upriver,State Representative,5,"BIASIUCCI, LEO",REP,696,423,196,77
+La Paz,055 Bouse,State Representative,5,"BIASIUCCI, LEO",REP,175,103,55,17
+La Paz,056 Wenden,State Representative,5,"BIASIUCCI, LEO",REP,54,24,23,7
+La Paz,057 Salome,State Representative,5,"BIASIUCCI, LEO",REP,286,160,88,38
+La Paz,058 Quartzsite Two,State Representative,5,"BIASIUCCI, LEO",REP,403,242,117,44
+La Paz,059 Cibola,State Representative,5,"BIASIUCCI, LEO",REP,29,12,15,2
+La Paz,060 Ehrenberg,State Representative,5,"BIASIUCCI, LEO",REP,136,70,49,17
+La Paz,062 Vicksburg,State Representative,5,"BIASIUCCI, LEO",REP,86,67,8,11
+La Paz,064 Quartzsite Three,State Representative,5,"BIASIUCCI, LEO",REP,140,99,26,15
+La Paz,051 Parker,State Representative,5,"COBB, REGINA",REP,650,334,260,56
+La Paz,052 Poston,State Representative,5,"COBB, REGINA",REP,67,18,42,7
+La Paz,054 Upriver,State Representative,5,"COBB, REGINA",REP,603,377,168,58
+La Paz,055 Bouse,State Representative,5,"COBB, REGINA",REP,235,140,79,16
+La Paz,056 Wenden,State Representative,5,"COBB, REGINA",REP,56,26,22,8
+La Paz,057 Salome,State Representative,5,"COBB, REGINA",REP,411,246,111,54
+La Paz,058 Quartzsite Two,State Representative,5,"COBB, REGINA",REP,362,214,105,43
+La Paz,059 Cibola,State Representative,5,"COBB, REGINA",REP,42,18,18,6
+La Paz,060 Ehrenberg,State Representative,5,"COBB, REGINA",REP,124,61,48,15
+La Paz,062 Vicksburg,State Representative,5,"COBB, REGINA",REP,116,90,12,14
+La Paz,064 Quartzsite Three,State Representative,5,"COBB, REGINA",REP,211,146,41,24
+La Paz,051 Parker,State Representative,5,"MCCORD ROBINSON, MARY",DEM,612,235,311,66
+La Paz,052 Poston,State Representative,5,"MCCORD ROBINSON, MARY",DEM,102,28,65,9
+La Paz,054 Upriver,State Representative,5,"MCCORD ROBINSON, MARY",DEM,223,138,67,18
+La Paz,055 Bouse,State Representative,5,"MCCORD ROBINSON, MARY",DEM,64,40,18,6
+La Paz,056 Wenden,State Representative,5,"MCCORD ROBINSON, MARY",DEM,23,16,5,2
+La Paz,057 Salome,State Representative,5,"MCCORD ROBINSON, MARY",DEM,133,77,33,23
+La Paz,058 Quartzsite Two,State Representative,5,"MCCORD ROBINSON, MARY",DEM,172,102,54,16
+La Paz,059 Cibola,State Representative,5,"MCCORD ROBINSON, MARY",DEM,10,7,3,0
+La Paz,060 Ehrenberg,State Representative,5,"MCCORD ROBINSON, MARY",DEM,46,24,15,7
+La Paz,062 Vicksburg,State Representative,5,"MCCORD ROBINSON, MARY",DEM,28,25,3,0
+La Paz,064 Quartzsite Three,State Representative,5,"MCCORD ROBINSON, MARY",DEM,74,55,12,7
+La Paz,051 Parker,State Representative,5,WRITE-IN,NON,9,2,6,1
+La Paz,052 Poston,State Representative,5,WRITE-IN,NON,1,0,1,0
+La Paz,054 Upriver,State Representative,5,WRITE-IN,NON,3,1,2,0
+La Paz,055 Bouse,State Representative,5,WRITE-IN,NON,2,1,1,0
+La Paz,056 Wenden,State Representative,5,WRITE-IN,NON,2,2,0,0
+La Paz,057 Salome,State Representative,5,WRITE-IN,NON,2,2,0,0
+La Paz,058 Quartzsite Two,State Representative,5,WRITE-IN,NON,1,1,0,0
+La Paz,059 Cibola,State Representative,5,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,State Representative,5,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,State Representative,5,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,State Representative,5,WRITE-IN,NON,1,0,0,1
+La Paz,051 Parker,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,052 Poston,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,State Representative,5,OVER VOTES,,2,2,0,0
+La Paz,055 Bouse,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,State Representative,5,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,State Representative,5,UNDER VOTES,,935,391,450,94
+La Paz,052 Poston,State Representative,5,UNDER VOTES,,105,43,52,10
+La Paz,054 Upriver,State Representative,5,UNDER VOTES,,657,405,183,69
+La Paz,055 Bouse,State Representative,5,UNDER VOTES,,182,108,55,19
+La Paz,056 Wenden,State Representative,5,UNDER VOTES,,65,38,18,9
+La Paz,057 Salome,State Representative,5,UNDER VOTES,,384,231,106,47
+La Paz,058 Quartzsite Two,State Representative,5,UNDER VOTES,,470,265,138,67
+La Paz,059 Cibola,State Representative,5,UNDER VOTES,,39,23,12,4
+La Paz,060 Ehrenberg,State Representative,5,UNDER VOTES,,126,73,40,13
+La Paz,062 Vicksburg,State Representative,5,UNDER VOTES,,84,72,5,7
+La Paz,064 Quartzsite Three,State Representative,5,UNDER VOTES,,192,146,29,17
+La Paz,051 Parker,Secretary of State,,"GAYNOR, STEVE",REP,743,377,297,69
+La Paz,052 Poston,Secretary of State,,"GAYNOR, STEVE",REP,48,17,27,4
+La Paz,054 Upriver,Secretary of State,,"GAYNOR, STEVE",REP,813,512,214,87
+La Paz,055 Bouse,Secretary of State,,"GAYNOR, STEVE",REP,260,152,84,24
+La Paz,056 Wenden,Secretary of State,,"GAYNOR, STEVE",REP,66,31,25,10
+La Paz,057 Salome,Secretary of State,,"GAYNOR, STEVE",REP,450,267,128,55
+La Paz,058 Quartzsite Two,Secretary of State,,"GAYNOR, STEVE",REP,484,290,142,52
+La Paz,059 Cibola,Secretary of State,,"GAYNOR, STEVE",REP,41,19,17,5
+La Paz,060 Ehrenberg,Secretary of State,,"GAYNOR, STEVE",REP,159,88,54,17
+La Paz,062 Vicksburg,Secretary of State,,"GAYNOR, STEVE",REP,118,90,12,16
+La Paz,064 Quartzsite Three,Secretary of State,,"GAYNOR, STEVE",REP,226,162,39,25
+La Paz,051 Parker,Secretary of State,,"HOBBS, KATIE",DEM,644,254,325,65
+La Paz,052 Poston,Secretary of State,,"HOBBS, KATIE",DEM,107,32,64,11
+La Paz,054 Upriver,Secretary of State,,"HOBBS, KATIE",DEM,256,150,84,22
+La Paz,055 Bouse,Secretary of State,,"HOBBS, KATIE",DEM,62,42,16,4
+La Paz,056 Wenden,Secretary of State,,"HOBBS, KATIE",DEM,26,17,8,1
+La Paz,057 Salome,Secretary of State,,"HOBBS, KATIE",DEM,145,86,36,23
+La Paz,058 Quartzsite Two,Secretary of State,,"HOBBS, KATIE",DEM,190,109,57,24
+La Paz,059 Cibola,Secretary of State,,"HOBBS, KATIE",DEM,15,10,5,0
+La Paz,060 Ehrenberg,Secretary of State,,"HOBBS, KATIE",DEM,51,24,18,9
+La Paz,062 Vicksburg,Secretary of State,,"HOBBS, KATIE",DEM,36,34,2,0
+La Paz,064 Quartzsite Three,Secretary of State,,"HOBBS, KATIE",DEM,76,56,14,6
+La Paz,051 Parker,Secretary of State,,WRITE-IN,NON,4,3,1,0
+La Paz,052 Poston,Secretary of State,,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,Secretary of State,,WRITE-IN,NON,1,0,1,0
+La Paz,055 Bouse,Secretary of State,,WRITE-IN,NON,0,0,0,0
+La Paz,056 Wenden,Secretary of State,,WRITE-IN,NON,2,1,0,1
+La Paz,057 Salome,Secretary of State,,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,Secretary of State,,WRITE-IN,NON,1,1,0,0
+La Paz,059 Cibola,Secretary of State,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,Secretary of State,,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,Secretary of State,,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,Secretary of State,,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,Secretary of State,,OVER VOTES,,2,1,1,0
+La Paz,052 Poston,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Secretary of State,,OVER VOTES,,1,0,0,1
+La Paz,058 Quartzsite Two,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Secretary of State,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Secretary of State,,UNDER VOTES,,38,9,24,5
+La Paz,052 Poston,Secretary of State,,UNDER VOTES,,3,3,0,0
+La Paz,054 Upriver,Secretary of State,,UNDER VOTES,,22,11,9,2
+La Paz,055 Bouse,Secretary of State,,UNDER VOTES,,7,2,4,1
+La Paz,056 Wenden,Secretary of State,,UNDER VOTES,,6,4,1,1
+La Paz,057 Salome,Secretary of State,,UNDER VOTES,,12,5,5,2
+La Paz,058 Quartzsite Two,Secretary of State,,UNDER VOTES,,29,12,8,9
+La Paz,059 Cibola,Secretary of State,,UNDER VOTES,,4,1,2,1
+La Paz,060 Ehrenberg,Secretary of State,,UNDER VOTES,,6,2,4,0
+La Paz,062 Vicksburg,Secretary of State,,UNDER VOTES,,3,3,0,0
+La Paz,064 Quartzsite Three,Secretary of State,,UNDER VOTES,,7,5,1,1
+La Paz,051 Parker,Attorney General,,"BRNOVICH, MARK",REP,776,390,315,71
+La Paz,052 Poston,Attorney General,,"BRNOVICH, MARK",REP,52,19,27,6
+La Paz,054 Upriver,Attorney General,,"BRNOVICH, MARK",REP,832,514,223,95
+La Paz,055 Bouse,Attorney General,,"BRNOVICH, MARK",REP,260,154,83,23
+La Paz,056 Wenden,Attorney General,,"BRNOVICH, MARK",REP,71,34,27,10
+La Paz,057 Salome,Attorney General,,"BRNOVICH, MARK",REP,464,273,133,58
+La Paz,058 Quartzsite Two,Attorney General,,"BRNOVICH, MARK",REP,507,303,148,56
+La Paz,059 Cibola,Attorney General,,"BRNOVICH, MARK",REP,45,22,17,6
+La Paz,060 Ehrenberg,Attorney General,,"BRNOVICH, MARK",REP,163,88,58,17
+La Paz,062 Vicksburg,Attorney General,,"BRNOVICH, MARK",REP,129,101,13,15
+La Paz,064 Quartzsite Three,Attorney General,,"BRNOVICH, MARK",REP,225,162,38,25
+La Paz,051 Parker,Attorney General,,"CONTRERAS, JANUARY",DEM,593,226,303,64
+La Paz,052 Poston,Attorney General,,"CONTRERAS, JANUARY",DEM,102,32,62,8
+La Paz,054 Upriver,Attorney General,,"CONTRERAS, JANUARY",DEM,217,129,72,16
+La Paz,055 Bouse,Attorney General,,"CONTRERAS, JANUARY",DEM,56,37,14,5
+La Paz,056 Wenden,Attorney General,,"CONTRERAS, JANUARY",DEM,23,14,7,2
+La Paz,057 Salome,Attorney General,,"CONTRERAS, JANUARY",DEM,126,74,32,20
+La Paz,058 Quartzsite Two,Attorney General,,"CONTRERAS, JANUARY",DEM,158,94,47,17
+La Paz,059 Cibola,Attorney General,,"CONTRERAS, JANUARY",DEM,13,7,6,0
+La Paz,060 Ehrenberg,Attorney General,,"CONTRERAS, JANUARY",DEM,46,21,16,9
+La Paz,062 Vicksburg,Attorney General,,"CONTRERAS, JANUARY",DEM,24,22,1,1
+La Paz,064 Quartzsite Three,Attorney General,,"CONTRERAS, JANUARY",DEM,72,49,16,7
+La Paz,051 Parker,Attorney General,,WRITE-IN,NON,3,3,0,0
+La Paz,052 Poston,Attorney General,,WRITE-IN,NON,1,0,1,0
+La Paz,054 Upriver,Attorney General,,WRITE-IN,NON,3,1,2,0
+La Paz,055 Bouse,Attorney General,,WRITE-IN,NON,1,0,0,1
+La Paz,056 Wenden,Attorney General,,WRITE-IN,NON,2,1,0,1
+La Paz,057 Salome,Attorney General,,WRITE-IN,NON,3,2,1,0
+La Paz,058 Quartzsite Two,Attorney General,,WRITE-IN,NON,0,0,0,0
+La Paz,059 Cibola,Attorney General,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,Attorney General,,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,Attorney General,,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,Attorney General,,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,Attorney General,,OVER VOTES,,3,2,0,1
+La Paz,052 Poston,Attorney General,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Attorney General,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Attorney General,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Attorney General,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Attorney General,,OVER VOTES,,2,2,0,0
+La Paz,058 Quartzsite Two,Attorney General,,OVER VOTES,,2,1,0,1
+La Paz,059 Cibola,Attorney General,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Attorney General,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Attorney General,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Attorney General,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Attorney General,,UNDER VOTES,,56,23,30,3
+La Paz,052 Poston,Attorney General,,UNDER VOTES,,3,1,1,1
+La Paz,054 Upriver,Attorney General,,UNDER VOTES,,40,29,11,0
+La Paz,055 Bouse,Attorney General,,UNDER VOTES,,12,5,7,0
+La Paz,056 Wenden,Attorney General,,UNDER VOTES,,4,4,0,0
+La Paz,057 Salome,Attorney General,,UNDER VOTES,,13,7,3,3
+La Paz,058 Quartzsite Two,Attorney General,,UNDER VOTES,,37,14,12,11
+La Paz,059 Cibola,Attorney General,,UNDER VOTES,,2,1,1,0
+La Paz,060 Ehrenberg,Attorney General,,UNDER VOTES,,7,5,2,0
+La Paz,062 Vicksburg,Attorney General,,UNDER VOTES,,4,4,0,0
+La Paz,064 Quartzsite Three,Attorney General,,UNDER VOTES,,12,12,0,0
+La Paz,051 Parker,State Treasurer,,"YEE, KIMBERLY",REP,815,417,327,71
+La Paz,052 Poston,State Treasurer,,"YEE, KIMBERLY",REP,57,20,32,5
+La Paz,054 Upriver,State Treasurer,,"YEE, KIMBERLY",REP,828,513,222,93
+La Paz,055 Bouse,State Treasurer,,"YEE, KIMBERLY",REP,258,152,81,25
+La Paz,056 Wenden,State Treasurer,,"YEE, KIMBERLY",REP,72,36,26,10
+La Paz,057 Salome,State Treasurer,,"YEE, KIMBERLY",REP,462,274,129,59
+La Paz,058 Quartzsite Two,State Treasurer,,"YEE, KIMBERLY",REP,491,298,144,49
+La Paz,059 Cibola,State Treasurer,,"YEE, KIMBERLY",REP,47,23,18,6
+La Paz,060 Ehrenberg,State Treasurer,,"YEE, KIMBERLY",REP,165,87,58,20
+La Paz,062 Vicksburg,State Treasurer,,"YEE, KIMBERLY",REP,121,95,11,15
+La Paz,064 Quartzsite Three,State Treasurer,,"YEE, KIMBERLY",REP,226,163,39,24
+La Paz,051 Parker,State Treasurer,,"MANOIL, MARK",DEM,551,198,289,64
+La Paz,052 Poston,State Treasurer,,"MANOIL, MARK",DEM,99,30,59,10
+La Paz,054 Upriver,State Treasurer,,"MANOIL, MARK",DEM,219,135,67,17
+La Paz,055 Bouse,State Treasurer,,"MANOIL, MARK",DEM,61,39,18,4
+La Paz,056 Wenden,State Treasurer,,"MANOIL, MARK",DEM,20,11,8,1
+La Paz,057 Salome,State Treasurer,,"MANOIL, MARK",DEM,131,76,34,21
+La Paz,058 Quartzsite Two,State Treasurer,,"MANOIL, MARK",DEM,166,88,51,27
+La Paz,059 Cibola,State Treasurer,,"MANOIL, MARK",DEM,10,6,4,0
+La Paz,060 Ehrenberg,State Treasurer,,"MANOIL, MARK",DEM,42,22,14,6
+La Paz,062 Vicksburg,State Treasurer,,"MANOIL, MARK",DEM,29,25,3,1
+La Paz,064 Quartzsite Three,State Treasurer,,"MANOIL, MARK",DEM,74,52,14,8
+La Paz,051 Parker,State Treasurer,,WRITE-IN,NON,3,1,2,0
+La Paz,052 Poston,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,055 Bouse,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,056 Wenden,State Treasurer,,WRITE-IN,NON,2,2,0,0
+La Paz,057 Salome,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,059 Cibola,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,State Treasurer,,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,State Treasurer,,OVER VOTES,,2,1,1,0
+La Paz,052 Poston,State Treasurer,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,State Treasurer,,OVER VOTES,,1,1,0,0
+La Paz,055 Bouse,State Treasurer,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,State Treasurer,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,State Treasurer,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,State Treasurer,,OVER VOTES,,1,1,0,0
+La Paz,059 Cibola,State Treasurer,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,State Treasurer,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,State Treasurer,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,State Treasurer,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,State Treasurer,,UNDER VOTES,,60,27,29,4
+La Paz,052 Poston,State Treasurer,,UNDER VOTES,,2,2,0,0
+La Paz,054 Upriver,State Treasurer,,UNDER VOTES,,44,24,19,1
+La Paz,055 Bouse,State Treasurer,,UNDER VOTES,,10,5,5,0
+La Paz,056 Wenden,State Treasurer,,UNDER VOTES,,6,4,0,2
+La Paz,057 Salome,State Treasurer,,UNDER VOTES,,15,8,6,1
+La Paz,058 Quartzsite Two,State Treasurer,,UNDER VOTES,,46,25,12,9
+La Paz,059 Cibola,State Treasurer,,UNDER VOTES,,3,1,2,0
+La Paz,060 Ehrenberg,State Treasurer,,UNDER VOTES,,9,5,4,0
+La Paz,062 Vicksburg,State Treasurer,,UNDER VOTES,,7,7,0,0
+La Paz,064 Quartzsite Three,State Treasurer,,UNDER VOTES,,9,8,1,0
+La Paz,051 Parker,Super of Public Instruction,,"RIGGS, FRANK",REP,713,369,278,66
+La Paz,052 Poston,Super of Public Instruction,,"RIGGS, FRANK",REP,42,15,23,4
+La Paz,054 Upriver,Super of Public Instruction,,"RIGGS, FRANK",REP,805,498,219,88
+La Paz,055 Bouse,Super of Public Instruction,,"RIGGS, FRANK",REP,254,148,81,25
+La Paz,056 Wenden,Super of Public Instruction,,"RIGGS, FRANK",REP,67,31,26,10
+La Paz,057 Salome,Super of Public Instruction,,"RIGGS, FRANK",REP,439,263,124,52
+La Paz,058 Quartzsite Two,Super of Public Instruction,,"RIGGS, FRANK",REP,468,278,136,54
+La Paz,059 Cibola,Super of Public Instruction,,"RIGGS, FRANK",REP,44,21,17,6
+La Paz,060 Ehrenberg,Super of Public Instruction,,"RIGGS, FRANK",REP,159,85,57,17
+La Paz,062 Vicksburg,Super of Public Instruction,,"RIGGS, FRANK",REP,121,93,12,16
+La Paz,064 Quartzsite Three,Super of Public Instruction,,"RIGGS, FRANK",REP,220,158,38,24
+La Paz,051 Parker,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,659,251,339,69
+La Paz,052 Poston,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,112,33,68,11
+La Paz,054 Upriver,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,246,150,73,23
+La Paz,055 Bouse,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,64,44,17,3
+La Paz,056 Wenden,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,28,19,8,1
+La Paz,057 Salome,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,151,88,36,27
+La Paz,058 Quartzsite Two,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,193,115,56,22
+La Paz,059 Cibola,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,12,7,5,0
+La Paz,060 Ehrenberg,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,47,23,15,9
+La Paz,062 Vicksburg,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,31,29,2,0
+La Paz,064 Quartzsite Three,Super of Public Instruction,,"HOFFMAN, KATHY",DEM,82,59,15,8
+La Paz,051 Parker,Super of Public Instruction,,WRITE-IN,NON,3,1,2,0
+La Paz,052 Poston,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0
+La Paz,055 Bouse,Super of Public Instruction,,WRITE-IN,NON,2,1,0,1
+La Paz,056 Wenden,Super of Public Instruction,,WRITE-IN,NON,2,1,0,1
+La Paz,057 Salome,Super of Public Instruction,,WRITE-IN,NON,3,1,2,0
+La Paz,058 Quartzsite Two,Super of Public Instruction,,WRITE-IN,NON,1,1,0,0
+La Paz,059 Cibola,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,Super of Public Instruction,,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,052 Poston,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Super of Public Instruction,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Super of Public Instruction,,UNDER VOTES,,56,23,29,4
+La Paz,052 Poston,Super of Public Instruction,,UNDER VOTES,,4,4,0,0
+La Paz,054 Upriver,Super of Public Instruction,,UNDER VOTES,,41,25,16,0
+La Paz,055 Bouse,Super of Public Instruction,,UNDER VOTES,,9,3,6,0
+La Paz,056 Wenden,Super of Public Instruction,,UNDER VOTES,,3,2,0,1
+La Paz,057 Salome,Super of Public Instruction,,UNDER VOTES,,15,6,7,2
+La Paz,058 Quartzsite Two,Super of Public Instruction,,UNDER VOTES,,42,18,15,9
+La Paz,059 Cibola,Super of Public Instruction,,UNDER VOTES,,4,2,2,0
+La Paz,060 Ehrenberg,Super of Public Instruction,,UNDER VOTES,,10,6,4,0
+La Paz,062 Vicksburg,Super of Public Instruction,,UNDER VOTES,,5,5,0,0
+La Paz,064 Quartzsite Three,Super of Public Instruction,,UNDER VOTES,,7,6,1,0
+La Paz,051 Parker,State Mine Inspector,,"HART, JOE",REP,738,379,291,68
+La Paz,052 Poston,State Mine Inspector,,"HART, JOE",REP,51,17,28,6
+La Paz,054 Upriver,State Mine Inspector,,"HART, JOE",REP,808,499,221,88
+La Paz,055 Bouse,State Mine Inspector,,"HART, JOE",REP,259,155,80,24
+La Paz,056 Wenden,State Mine Inspector,,"HART, JOE",REP,69,32,27,10
+La Paz,057 Salome,State Mine Inspector,,"HART, JOE",REP,454,273,129,52
+La Paz,058 Quartzsite Two,State Mine Inspector,,"HART, JOE",REP,484,291,141,52
+La Paz,059 Cibola,State Mine Inspector,,"HART, JOE",REP,47,24,17,6
+La Paz,060 Ehrenberg,State Mine Inspector,,"HART, JOE",REP,165,86,60,19
+La Paz,062 Vicksburg,State Mine Inspector,,"HART, JOE",REP,124,96,12,16
+La Paz,064 Quartzsite Three,State Mine Inspector,,"HART, JOE",REP,226,161,40,25
+La Paz,051 Parker,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,641,248,325,68
+La Paz,052 Poston,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,105,33,63,9
+La Paz,054 Upriver,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,235,146,68,21
+La Paz,055 Bouse,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,62,38,20,4
+La Paz,056 Wenden,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,24,16,6,2
+La Paz,057 Salome,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,130,73,33,24
+La Paz,058 Quartzsite Two,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,170,99,52,19
+La Paz,059 Cibola,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,11,6,5,0
+La Paz,060 Ehrenberg,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,40,23,11,6
+La Paz,062 Vicksburg,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,29,27,2,0
+La Paz,064 Quartzsite Three,State Mine Inspector,,"PIERCE, WILLIAM ""BILL""",DEM,72,53,12,7
+La Paz,051 Parker,State Mine Inspector,,WRITE-IN,NON,3,1,2,0
+La Paz,052 Poston,State Mine Inspector,,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,State Mine Inspector,,WRITE-IN,NON,2,0,2,0
+La Paz,055 Bouse,State Mine Inspector,,WRITE-IN,NON,1,0,0,1
+La Paz,056 Wenden,State Mine Inspector,,WRITE-IN,NON,2,2,0,0
+La Paz,057 Salome,State Mine Inspector,,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,State Mine Inspector,,WRITE-IN,NON,1,1,0,0
+La Paz,059 Cibola,State Mine Inspector,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,State Mine Inspector,,WRITE-IN,NON,1,1,0,0
+La Paz,062 Vicksburg,State Mine Inspector,,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,State Mine Inspector,,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,State Mine Inspector,,OVER VOTES,,0,0,0,0
+La Paz,052 Poston,State Mine Inspector,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,State Mine Inspector,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,State Mine Inspector,,OVER VOTES,,1,0,1,0
+La Paz,056 Wenden,State Mine Inspector,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,State Mine Inspector,,OVER VOTES,,1,0,1,0
+La Paz,058 Quartzsite Two,State Mine Inspector,,OVER VOTES,,1,0,0,1
+La Paz,059 Cibola,State Mine Inspector,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,State Mine Inspector,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,State Mine Inspector,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,State Mine Inspector,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,State Mine Inspector,,UNDER VOTES,,49,16,30,3
+La Paz,052 Poston,State Mine Inspector,,UNDER VOTES,,2,2,0,0
+La Paz,054 Upriver,State Mine Inspector,,UNDER VOTES,,47,28,17,2
+La Paz,055 Bouse,State Mine Inspector,,UNDER VOTES,,6,3,3,0
+La Paz,056 Wenden,State Mine Inspector,,UNDER VOTES,,5,3,1,1
+La Paz,057 Salome,State Mine Inspector,,UNDER VOTES,,23,12,6,5
+La Paz,058 Quartzsite Two,State Mine Inspector,,UNDER VOTES,,48,21,14,13
+La Paz,059 Cibola,State Mine Inspector,,UNDER VOTES,,2,0,2,0
+La Paz,060 Ehrenberg,State Mine Inspector,,UNDER VOTES,,10,4,5,1
+La Paz,062 Vicksburg,State Mine Inspector,,UNDER VOTES,,4,4,0,0
+La Paz,064 Quartzsite Three,State Mine Inspector,,UNDER VOTES,,11,9,2,0
+La Paz,051 Parker,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,654,345,252,57
+La Paz,052 Poston,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,39,13,24,2
+La Paz,054 Upriver,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,712,434,206,72
+La Paz,055 Bouse,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,213,132,64,17
+La Paz,056 Wenden,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,58,28,24,6
+La Paz,057 Salome,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,368,226,93,49
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,419,244,123,52
+La Paz,059 Cibola,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,38,19,16,3
+La Paz,060 Ehrenberg,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,137,74,47,16
+La Paz,062 Vicksburg,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,111,87,12,12
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,185,131,31,23
+La Paz,051 Parker,Corporation Commissioner,,"OLSON, JUSTIN",REP,576,316,209,51
+La Paz,052 Poston,Corporation Commissioner,,"OLSON, JUSTIN",REP,36,13,18,5
+La Paz,054 Upriver,Corporation Commissioner,,"OLSON, JUSTIN",REP,647,411,173,63
+La Paz,055 Bouse,Corporation Commissioner,,"OLSON, JUSTIN",REP,225,128,76,21
+La Paz,056 Wenden,Corporation Commissioner,,"OLSON, JUSTIN",REP,60,28,23,9
+La Paz,057 Salome,Corporation Commissioner,,"OLSON, JUSTIN",REP,382,228,108,46
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"OLSON, JUSTIN",REP,398,250,110,38
+La Paz,059 Cibola,Corporation Commissioner,,"OLSON, JUSTIN",REP,35,14,15,6
+La Paz,060 Ehrenberg,Corporation Commissioner,,"OLSON, JUSTIN",REP,139,76,48,15
+La Paz,062 Vicksburg,Corporation Commissioner,,"OLSON, JUSTIN",REP,103,79,11,13
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"OLSON, JUSTIN",REP,202,146,34,22
+La Paz,051 Parker,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,600,231,303,66
+La Paz,052 Poston,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,101,27,64,10
+La Paz,054 Upriver,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,238,142,77,19
+La Paz,055 Bouse,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,67,43,19,5
+La Paz,056 Wenden,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,25,16,5,4
+La Paz,057 Salome,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,141,79,40,22
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,178,106,56,16
+La Paz,059 Cibola,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,10,4,6,0
+La Paz,060 Ehrenberg,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,45,25,14,6
+La Paz,062 Vicksburg,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,27,26,1,0
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,73,52,16,5
+La Paz,051 Parker,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,508,199,256,53
+La Paz,052 Poston,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,87,22,58,7
+La Paz,054 Upriver,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,183,109,53,21
+La Paz,055 Bouse,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,57,38,16,3
+La Paz,056 Wenden,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,18,11,5,2
+La Paz,057 Salome,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,130,70,41,19
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,141,76,48,17
+La Paz,059 Cibola,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,12,8,4,0
+La Paz,060 Ehrenberg,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,35,19,12,4
+La Paz,062 Vicksburg,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,28,25,3,0
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,71,52,13,6
+La Paz,051 Parker,Corporation Commissioner,,WRITE-IN,NON,3,0,2,1
+La Paz,052 Poston,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,Corporation Commissioner,,WRITE-IN,NON,1,0,1,0
+La Paz,055 Bouse,Corporation Commissioner,,WRITE-IN,NON,1,0,0,1
+La Paz,056 Wenden,Corporation Commissioner,,WRITE-IN,NON,3,3,0,0
+La Paz,057 Salome,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0
+La Paz,059 Cibola,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,Corporation Commissioner,,WRITE-IN,NON,0,0,0,0
+La Paz,064 Quartzsite Three,Corporation Commissioner,,WRITE-IN,NON,1,0,0,1
+La Paz,051 Parker,Corporation Commissioner,,OVER VOTES,,2,0,2,0
+La Paz,052 Poston,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Corporation Commissioner,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Corporation Commissioner,,UNDER VOTES,,519,197,272,50
+La Paz,052 Poston,Corporation Commissioner,,UNDER VOTES,,53,29,18,6
+La Paz,054 Upriver,Corporation Commissioner,,UNDER VOTES,,403,250,106,47
+La Paz,055 Bouse,Corporation Commissioner,,UNDER VOTES,,95,51,33,11
+La Paz,056 Wenden,Corporation Commissioner,,UNDER VOTES,,36,20,11,5
+La Paz,057 Salome,Corporation Commissioner,,UNDER VOTES,,195,113,56,26
+La Paz,058 Quartzsite Two,Corporation Commissioner,,UNDER VOTES,,272,148,77,47
+La Paz,059 Cibola,Corporation Commissioner,,UNDER VOTES,,25,15,7,3
+La Paz,060 Ehrenberg,Corporation Commissioner,,UNDER VOTES,,76,34,31,11
+La Paz,062 Vicksburg,Corporation Commissioner,,UNDER VOTES,,45,37,1,7
+La Paz,064 Quartzsite Three,Corporation Commissioner,,UNDER VOTES,,86,65,14,7
+La Paz,051 Parker,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,1119,525,491,103
+La Paz,052 Poston,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,113,34,70,9
+La Paz,054 Upriver,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,936,569,267,100
+La Paz,055 Bouse,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,283,169,86,28
+La Paz,056 Wenden,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,86,44,29,13
+La Paz,057 Salome,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,519,308,146,65
+La Paz,058 Quartzsite Two,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,566,339,165,62
+La Paz,059 Cibola,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,49,25,19,5
+La Paz,060 Ehrenberg,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,182,95,64,23
+La Paz,062 Vicksburg,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,140,112,13,15
+La Paz,064 Quartzsite Three,Clerk of the Superior Court,,"SPIELMAN, MEGAN",REP,255,179,48,28
+La Paz,051 Parker,Clerk of the Superior Court,,WRITE-IN,NON,32,8,21,3
+La Paz,052 Poston,Clerk of the Superior Court,,WRITE-IN,NON,7,4,2,1
+La Paz,054 Upriver,Clerk of the Superior Court,,WRITE-IN,NON,6,5,1,0
+La Paz,055 Bouse,Clerk of the Superior Court,,WRITE-IN,NON,5,4,1,0
+La Paz,056 Wenden,Clerk of the Superior Court,,WRITE-IN,NON,1,1,0,0
+La Paz,057 Salome,Clerk of the Superior Court,,WRITE-IN,NON,2,2,0,0
+La Paz,058 Quartzsite Two,Clerk of the Superior Court,,WRITE-IN,NON,4,2,2,0
+La Paz,059 Cibola,Clerk of the Superior Court,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,Clerk of the Superior Court,,WRITE-IN,NON,4,4,0,0
+La Paz,062 Vicksburg,Clerk of the Superior Court,,WRITE-IN,NON,1,1,0,0
+La Paz,064 Quartzsite Three,Clerk of the Superior Court,,WRITE-IN,NON,1,0,0,1
+La Paz,051 Parker,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,052 Poston,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,Clerk of the Superior Court,,OVER VOTES,,1,0,1,0
+La Paz,059 Cibola,Clerk of the Superior Court,,OVER VOTES,,1,0,0,1
+La Paz,060 Ehrenberg,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Clerk of the Superior Court,,UNDER VOTES,,280,111,136,33
+La Paz,052 Poston,Clerk of the Superior Court,,UNDER VOTES,,38,14,19,5
+La Paz,054 Upriver,Clerk of the Superior Court,,UNDER VOTES,,150,99,40,11
+La Paz,055 Bouse,Clerk of the Superior Court,,UNDER VOTES,,41,23,17,1
+La Paz,056 Wenden,Clerk of the Superior Court,,UNDER VOTES,,13,8,5,0
+La Paz,057 Salome,Clerk of the Superior Court,,UNDER VOTES,,87,48,23,16
+La Paz,058 Quartzsite Two,Clerk of the Superior Court,,UNDER VOTES,,133,71,39,23
+La Paz,059 Cibola,Clerk of the Superior Court,,UNDER VOTES,,10,5,5,0
+La Paz,060 Ehrenberg,Clerk of the Superior Court,,UNDER VOTES,,30,15,12,3
+La Paz,062 Vicksburg,Clerk of the Superior Court,,UNDER VOTES,,16,14,1,1
+La Paz,064 Quartzsite Three,Clerk of the Superior Court,,UNDER VOTES,,53,44,6,3
+La Paz,057 Salome,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,1,1,0,0
+La Paz,058 Quartzsite Two,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,564,333,168,63
+La Paz,059 Cibola,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,49,25,19,5
+La Paz,060 Ehrenberg,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,179,94,65,20
+La Paz,064 Quartzsite Three,Justice of the Peace Prec. 4,,"CARNEVALE, TAMMY",REP,255,178,49,28
+La Paz,057 Salome,Justice of the Peace Prec. 4,,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,Justice of the Peace Prec. 4,,WRITE-IN,NON,5,1,2,2
+La Paz,059 Cibola,Justice of the Peace Prec. 4,,WRITE-IN,NON,1,1,0,0
+La Paz,060 Ehrenberg,Justice of the Peace Prec. 4,,WRITE-IN,NON,4,2,1,1
+La Paz,064 Quartzsite Three,Justice of the Peace Prec. 4,,WRITE-IN,NON,1,0,0,1
+La Paz,057 Salome,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,Justice of the Peace Prec. 4,,OVER VOTES,,1,0,0,1
+La Paz,060 Ehrenberg,Justice of the Peace Prec. 4,,OVER VOTES,,1,1,0,0
+La Paz,064 Quartzsite Three,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Justice of the Peace Prec. 4,,UNDER VOTES,,1,0,0,1
+La Paz,058 Quartzsite Two,Justice of the Peace Prec. 4,,UNDER VOTES,,135,78,37,20
+La Paz,059 Cibola,Justice of the Peace Prec. 4,,UNDER VOTES,,9,4,5,0
+La Paz,060 Ehrenberg,Justice of the Peace Prec. 4,,UNDER VOTES,,32,17,10,5
+La Paz,064 Quartzsite Three,Justice of the Peace Prec. 4,,UNDER VOTES,,53,45,5,3
+La Paz,057 Salome,Constable Prec. 4,,"KOX, JAMES",REP,1,1,0,0
+La Paz,058 Quartzsite Two,Constable Prec. 4,,"KOX, JAMES",REP,548,324,165,59
+La Paz,059 Cibola,Constable Prec. 4,,"KOX, JAMES",REP,49,24,19,6
+La Paz,060 Ehrenberg,Constable Prec. 4,,"KOX, JAMES",REP,168,88,61,19
+La Paz,064 Quartzsite Three,Constable Prec. 4,,"KOX, JAMES",REP,253,178,47,28
+La Paz,057 Salome,Constable Prec. 4,,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,Constable Prec. 4,,WRITE-IN,NON,3,1,2,0
+La Paz,059 Cibola,Constable Prec. 4,,WRITE-IN,NON,1,1,0,0
+La Paz,060 Ehrenberg,Constable Prec. 4,,WRITE-IN,NON,5,4,0,1
+La Paz,064 Quartzsite Three,Constable Prec. 4,,WRITE-IN,NON,1,0,0,1
+La Paz,057 Salome,Constable Prec. 4,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,Constable Prec. 4,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,Constable Prec. 4,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Constable Prec. 4,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Constable Prec. 4,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Constable Prec. 4,,UNDER VOTES,,1,0,0,1
+La Paz,058 Quartzsite Two,Constable Prec. 4,,UNDER VOTES,,153,87,40,26
+La Paz,059 Cibola,Constable Prec. 4,,UNDER VOTES,,10,5,5,0
+La Paz,060 Ehrenberg,Constable Prec. 4,,UNDER VOTES,,43,22,15,6
+La Paz,064 Quartzsite Three,Constable Prec. 4,,UNDER VOTES,,55,45,7,3
+La Paz,056 Wenden,Justice of the Peace Prec. 5,,"SLAUGHTER, KAREN",REP,75,39,25,11
+La Paz,057 Salome,Justice of the Peace Prec. 5,,"SLAUGHTER, KAREN",REP,465,276,134,55
+La Paz,062 Vicksburg,Justice of the Peace Prec. 5,,"SLAUGHTER, KAREN",REP,137,111,13,13
+La Paz,056 Wenden,Justice of the Peace Prec. 5,,WRITE-IN,NON,4,3,0,1
+La Paz,057 Salome,Justice of the Peace Prec. 5,,WRITE-IN,NON,35,23,8,4
+La Paz,062 Vicksburg,Justice of the Peace Prec. 5,,WRITE-IN,NON,5,3,0,2
+La Paz,056 Wenden,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Justice of the Peace Prec. 5,,UNDER VOTES,,21,11,9,1
+La Paz,057 Salome,Justice of the Peace Prec. 5,,UNDER VOTES,,106,58,27,21
+La Paz,062 Vicksburg,Justice of the Peace Prec. 5,,UNDER VOTES,,15,13,1,1
+La Paz,056 Wenden,Constable Prec. 5,,WRITE-IN,NON,7,2,5,0
+La Paz,057 Salome,Constable Prec. 5,,WRITE-IN,NON,45,32,12,1
+La Paz,062 Vicksburg,Constable Prec. 5,,WRITE-IN,NON,15,11,2,2
+La Paz,056 Wenden,Constable Prec. 5,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Constable Prec. 5,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Constable Prec. 5,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Constable Prec. 5,,UNDER VOTES,,93,51,29,13
+La Paz,057 Salome,Constable Prec. 5,,UNDER VOTES,,561,325,157,79
+La Paz,062 Vicksburg,Constable Prec. 5,,UNDER VOTES,,142,116,12,14
+La Paz,051 Parker,Justice of the Peace Prec. 6,,"DYER, TIFFANY",REP,995,451,449,95
+La Paz,052 Poston,Justice of the Peace Prec. 6,,"DYER, TIFFANY",REP,88,27,50,11
+La Paz,054 Upriver,Justice of the Peace Prec. 6,,"DYER, TIFFANY",REP,850,512,246,92
+La Paz,055 Bouse,Justice of the Peace Prec. 6,,"DYER, TIFFANY",REP,256,152,79,25
+La Paz,051 Parker,Justice of the Peace Prec. 6,,"MACFARLAND, KENNETH",LBT,329,146,154,29
+La Paz,052 Poston,Justice of the Peace Prec. 6,,"MACFARLAND, KENNETH",LBT,54,16,36,2
+La Paz,054 Upriver,Justice of the Peace Prec. 6,,"MACFARLAND, KENNETH",LBT,174,109,47,18
+La Paz,055 Bouse,Justice of the Peace Prec. 6,,"MACFARLAND, KENNETH",LBT,53,32,18,3
+La Paz,051 Parker,Justice of the Peace Prec. 6,,WRITE-IN,NON,8,5,3,0
+La Paz,052 Poston,Justice of the Peace Prec. 6,,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,Justice of the Peace Prec. 6,,WRITE-IN,NON,1,1,0,0
+La Paz,055 Bouse,Justice of the Peace Prec. 6,,WRITE-IN,NON,1,1,0,0
+La Paz,051 Parker,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0
+La Paz,052 Poston,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Justice of the Peace Prec. 6,,UNDER VOTES,,99,42,42,15
+La Paz,052 Poston,Justice of the Peace Prec. 6,,UNDER VOTES,,16,9,5,2
+La Paz,054 Upriver,Justice of the Peace Prec. 6,,UNDER VOTES,,67,51,15,1
+La Paz,055 Bouse,Justice of the Peace Prec. 6,,UNDER VOTES,,19,11,7,1
+La Paz,051 Parker,Constable Prec. 6,,WRITE-IN,NON,130,56,70,4
+La Paz,052 Poston,Constable Prec. 6,,WRITE-IN,NON,13,4,7,2
+La Paz,054 Upriver,Constable Prec. 6,,WRITE-IN,NON,68,37,23,8
+La Paz,055 Bouse,Constable Prec. 6,,WRITE-IN,NON,21,11,7,3
+La Paz,051 Parker,Constable Prec. 6,,OVER VOTES,,0,0,0,0
+La Paz,052 Poston,Constable Prec. 6,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Constable Prec. 6,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Constable Prec. 6,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Constable Prec. 6,,UNDER VOTES,,1301,588,578,135
+La Paz,052 Poston,Constable Prec. 6,,UNDER VOTES,,145,48,84,13
+La Paz,054 Upriver,Constable Prec. 6,,UNDER VOTES,,1024,636,285,103
+La Paz,055 Bouse,Constable Prec. 6,,UNDER VOTES,,308,185,97,26
+La Paz,051 Parker,Retain Justice Supreme-Bolick,,YES,NON,816,388,351,77
+La Paz,052 Poston,Retain Justice Supreme-Bolick,,YES,NON,87,24,52,11
+La Paz,054 Upriver,Retain Justice Supreme-Bolick,,YES,NON,684,421,192,71
+La Paz,055 Bouse,Retain Justice Supreme-Bolick,,YES,NON,223,131,70,22
+La Paz,056 Wenden,Retain Justice Supreme-Bolick,,YES,NON,60,35,21,4
+La Paz,057 Salome,Retain Justice Supreme-Bolick,,YES,NON,391,232,108,51
+La Paz,058 Quartzsite Two,Retain Justice Supreme-Bolick,,YES,NON,446,262,138,46
+La Paz,059 Cibola,Retain Justice Supreme-Bolick,,YES,NON,39,20,17,2
+La Paz,060 Ehrenberg,Retain Justice Supreme-Bolick,,YES,NON,135,75,48,12
+La Paz,062 Vicksburg,Retain Justice Supreme-Bolick,,YES,NON,110,84,14,12
+La Paz,064 Quartzsite Three,Retain Justice Supreme-Bolick,,YES,NON,212,156,34,22
+La Paz,051 Parker,Retain Justice Supreme-Bolick,,NO,NON,384,155,188,41
+La Paz,052 Poston,Retain Justice Supreme-Bolick,,NO,NON,56,21,32,3
+La Paz,054 Upriver,Retain Justice Supreme-Bolick,,NO,NON,164,102,46,16
+La Paz,055 Bouse,Retain Justice Supreme-Bolick,,NO,NON,62,39,20,3
+La Paz,056 Wenden,Retain Justice Supreme-Bolick,,NO,NON,16,7,6,3
+La Paz,057 Salome,Retain Justice Supreme-Bolick,,NO,NON,113,64,34,15
+La Paz,058 Quartzsite Two,Retain Justice Supreme-Bolick,,NO,NON,121,75,30,16
+La Paz,059 Cibola,Retain Justice Supreme-Bolick,,NO,NON,8,4,1,3
+La Paz,060 Ehrenberg,Retain Justice Supreme-Bolick,,NO,NON,42,18,13,11
+La Paz,062 Vicksburg,Retain Justice Supreme-Bolick,,NO,NON,18,15,0,3
+La Paz,064 Quartzsite Three,Retain Justice Supreme-Bolick,,NO,NON,36,26,7,3
+La Paz,051 Parker,Retain Justice Supreme-Bolick,,OVER VOTES,,2,2,0,0
+La Paz,052 Poston,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Retain Justice Supreme-Bolick,,OVER VOTES,,1,0,1,0
+La Paz,056 Wenden,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Retain Justice Supreme-Bolick,,OVER VOTES,,1,0,1,0
+La Paz,058 Quartzsite Two,Retain Justice Supreme-Bolick,,OVER VOTES,,1,1,0,0
+La Paz,059 Cibola,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Retain Justice Supreme-Bolick,,OVER VOTES,,1,1,0,0
+La Paz,062 Vicksburg,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Retain Justice Supreme-Bolick,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Retain Justice Supreme-Bolick,,UNDER VOTES,,229,99,109,21
+La Paz,052 Poston,Retain Justice Supreme-Bolick,,UNDER VOTES,,15,7,7,1
+La Paz,054 Upriver,Retain Justice Supreme-Bolick,,UNDER VOTES,,244,150,70,24
+La Paz,055 Bouse,Retain Justice Supreme-Bolick,,UNDER VOTES,,43,26,13,4
+La Paz,056 Wenden,Retain Justice Supreme-Bolick,,UNDER VOTES,,24,11,7,6
+La Paz,057 Salome,Retain Justice Supreme-Bolick,,UNDER VOTES,,103,62,26,15
+La Paz,058 Quartzsite Two,Retain Justice Supreme-Bolick,,UNDER VOTES,,136,74,39,23
+La Paz,059 Cibola,Retain Justice Supreme-Bolick,,UNDER VOTES,,13,6,6,1
+La Paz,060 Ehrenberg,Retain Justice Supreme-Bolick,,UNDER VOTES,,38,20,15,3
+La Paz,062 Vicksburg,Retain Justice Supreme-Bolick,,UNDER VOTES,,29,28,0,1
+La Paz,064 Quartzsite Three,Retain Justice Supreme-Bolick,,UNDER VOTES,,61,41,13,7
+La Paz,051 Parker,Retain Justice Supreme-Pelander,,YES,NON,835,395,363,77
+La Paz,052 Poston,Retain Justice Supreme-Pelander,,YES,NON,81,26,45,10
+La Paz,054 Upriver,Retain Justice Supreme-Pelander,,YES,NON,670,420,179,71
+La Paz,055 Bouse,Retain Justice Supreme-Pelander,,YES,NON,213,124,68,21
+La Paz,056 Wenden,Retain Justice Supreme-Pelander,,YES,NON,64,38,22,4
+La Paz,057 Salome,Retain Justice Supreme-Pelander,,YES,NON,383,227,104,52
+La Paz,058 Quartzsite Two,Retain Justice Supreme-Pelander,,YES,NON,453,269,135,49
+La Paz,059 Cibola,Retain Justice Supreme-Pelander,,YES,NON,39,20,16,3
+La Paz,060 Ehrenberg,Retain Justice Supreme-Pelander,,YES,NON,141,80,47,14
+La Paz,062 Vicksburg,Retain Justice Supreme-Pelander,,YES,NON,111,86,14,11
+La Paz,064 Quartzsite Three,Retain Justice Supreme-Pelander,,YES,NON,216,158,36,22
+La Paz,051 Parker,Retain Justice Supreme-Pelander,,NO,NON,344,141,167,36
+La Paz,052 Poston,Retain Justice Supreme-Pelander,,NO,NON,59,18,37,4
+La Paz,054 Upriver,Retain Justice Supreme-Pelander,,NO,NON,156,95,47,14
+La Paz,055 Bouse,Retain Justice Supreme-Pelander,,NO,NON,63,40,20,3
+La Paz,056 Wenden,Retain Justice Supreme-Pelander,,NO,NON,11,4,4,3
+La Paz,057 Salome,Retain Justice Supreme-Pelander,,NO,NON,117,68,36,13
+La Paz,058 Quartzsite Two,Retain Justice Supreme-Pelander,,NO,NON,104,63,28,13
+La Paz,059 Cibola,Retain Justice Supreme-Pelander,,NO,NON,8,4,2,2
+La Paz,060 Ehrenberg,Retain Justice Supreme-Pelander,,NO,NON,36,15,12,9
+La Paz,062 Vicksburg,Retain Justice Supreme-Pelander,,NO,NON,15,11,0,4
+La Paz,064 Quartzsite Three,Retain Justice Supreme-Pelander,,NO,NON,27,19,5,3
+La Paz,051 Parker,Retain Justice Supreme-Pelander,,OVER VOTES,,2,0,0,2
+La Paz,052 Poston,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Retain Justice Supreme-Pelander,,OVER VOTES,,1,0,1,0
+La Paz,058 Quartzsite Two,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Retain Justice Supreme-Pelander,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Retain Justice Supreme-Pelander,,UNDER VOTES,,250,108,118,24
+La Paz,052 Poston,Retain Justice Supreme-Pelander,,UNDER VOTES,,18,8,9,1
+La Paz,054 Upriver,Retain Justice Supreme-Pelander,,UNDER VOTES,,266,158,82,26
+La Paz,055 Bouse,Retain Justice Supreme-Pelander,,UNDER VOTES,,53,32,16,5
+La Paz,056 Wenden,Retain Justice Supreme-Pelander,,UNDER VOTES,,25,11,8,6
+La Paz,057 Salome,Retain Justice Supreme-Pelander,,UNDER VOTES,,107,63,28,16
+La Paz,058 Quartzsite Two,Retain Justice Supreme-Pelander,,UNDER VOTES,,147,80,44,23
+La Paz,059 Cibola,Retain Justice Supreme-Pelander,,UNDER VOTES,,13,6,6,1
+La Paz,060 Ehrenberg,Retain Justice Supreme-Pelander,,UNDER VOTES,,39,19,17,3
+La Paz,062 Vicksburg,Retain Justice Supreme-Pelander,,UNDER VOTES,,31,30,0,1
+La Paz,064 Quartzsite Three,Retain Justice Supreme-Pelander,,UNDER VOTES,,66,46,13,7
+La Paz,051 Parker,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,471,249,180,42
+La Paz,052 Poston,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,60,14,41,5
+La Paz,054 Upriver,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,433,290,101,42
+La Paz,055 Bouse,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,125,73,38,14
+La Paz,056 Wenden,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,50,31,15,4
+La Paz,057 Salome,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,252,157,65,30
+La Paz,058 Quartzsite Two,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,358,220,117,21
+La Paz,059 Cibola,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,21,12,8,1
+La Paz,060 Ehrenberg,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,107,57,38,12
+La Paz,062 Vicksburg,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,66,54,3,9
+La Paz,064 Quartzsite Three,Judge of the Superior Court,,"HOBBS, KAREN L.",NON,173,129,24,20
+La Paz,051 Parker,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,806,318,410,78
+La Paz,052 Poston,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,89,34,46,9
+La Paz,054 Upriver,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,426,228,150,48
+La Paz,055 Bouse,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,159,100,49,10
+La Paz,056 Wenden,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,27,9,10,8
+La Paz,057 Salome,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,226,121,72,33
+La Paz,058 Quartzsite Two,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,199,102,56,41
+La Paz,059 Cibola,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,22,9,12,1
+La Paz,060 Ehrenberg,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,67,34,25,8
+La Paz,062 Vicksburg,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,57,43,9,5
+La Paz,064 Quartzsite Three,Judge of the Superior Court,,"QUICKLE, JESSICA",NON,62,40,17,5
+La Paz,051 Parker,Judge of the Superior Court,,WRITE-IN,NON,15,11,2,2
+La Paz,052 Poston,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0
+La Paz,054 Upriver,Judge of the Superior Court,,WRITE-IN,NON,8,5,3,0
+La Paz,055 Bouse,Judge of the Superior Court,,WRITE-IN,NON,3,1,1,1
+La Paz,056 Wenden,Judge of the Superior Court,,WRITE-IN,NON,1,1,0,0
+La Paz,057 Salome,Judge of the Superior Court,,WRITE-IN,NON,3,3,0,0
+La Paz,058 Quartzsite Two,Judge of the Superior Court,,WRITE-IN,NON,3,1,1,1
+La Paz,059 Cibola,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,Judge of the Superior Court,,WRITE-IN,NON,0,0,0,0
+La Paz,062 Vicksburg,Judge of the Superior Court,,WRITE-IN,NON,1,1,0,0
+La Paz,064 Quartzsite Three,Judge of the Superior Court,,WRITE-IN,NON,1,1,0,0
+La Paz,051 Parker,Judge of the Superior Court,,OVER VOTES,,3,0,1,2
+La Paz,052 Poston,Judge of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,Judge of the Superior Court,,OVER VOTES,,6,5,0,1
+La Paz,055 Bouse,Judge of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,Judge of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,Judge of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,Judge of the Superior Court,,OVER VOTES,,1,0,0,1
+La Paz,059 Cibola,Judge of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,Judge of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Judge of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Judge of the Superior Court,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Judge of the Superior Court,,UNDER VOTES,,136,66,55,15
+La Paz,052 Poston,Judge of the Superior Court,,UNDER VOTES,,9,4,4,1
+La Paz,054 Upriver,Judge of the Superior Court,,UNDER VOTES,,219,145,54,20
+La Paz,055 Bouse,Judge of the Superior Court,,UNDER VOTES,,42,22,16,4
+La Paz,056 Wenden,Judge of the Superior Court,,UNDER VOTES,,22,12,9,1
+La Paz,057 Salome,Judge of the Superior Court,,UNDER VOTES,,127,77,32,18
+La Paz,058 Quartzsite Two,Judge of the Superior Court,,UNDER VOTES,,143,89,33,21
+La Paz,059 Cibola,Judge of the Superior Court,,UNDER VOTES,,17,9,4,4
+La Paz,060 Ehrenberg,Judge of the Superior Court,,UNDER VOTES,,42,23,13,6
+La Paz,062 Vicksburg,Judge of the Superior Court,,UNDER VOTES,,33,29,2,2
+La Paz,064 Quartzsite Three,Judge of the Superior Court,,UNDER VOTES,,73,53,13,7
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,95,61,25,9
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,11,4,7,0
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,75,36,30,9
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"CLOWSER, MICHAEL",NON,40,29,8,3
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,285,156,86,43
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,9,4,4,1
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,40,25,13,2
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"COLLIER, NICOLE ""NICCI""",NON,68,48,12,8
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,1,1,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,138,85,39,14
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,4,2,2,0
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,19,9,7,3
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"HENSHAW, CARROLLYNN",NON,62,40,11,11
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,1,1,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,98,60,30,8
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,13,9,4,0
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,47,28,15,4
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KAUFMAN, MICHELLE",NON,67,51,9,7
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,148,74,47,27
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,9,6,3,0
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,22,11,9,2
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"KEELIN, PAMELA",NON,67,42,16,9
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,1,1,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,163,101,47,15
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,11,4,6,1
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,39,21,16,2
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"ORGERON, MARK",NON,63,47,8,8
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,317,186,97,34
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,19,5,13,1
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,68,37,24,7
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"PONCE, WILLIAM",NON,106,78,21,7
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,63,28,25,10
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,3,2,1,0
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,21,12,7,2
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"REITER, AUTUMN",NON,27,18,7,2
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,158,99,44,15
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,16,12,3,1
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,48,28,13,7
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TIMBERLAKE, MONICA",NON,92,67,15,10
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,86,53,23,10
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,5,3,2,0
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,37,19,14,4
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,"TORRES, CRYSTAL",NON,37,26,8,3
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,6,3,2,1
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,0,0,0,0
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,1,0,1,0
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,WRITE-IN,NON,2,1,0,1
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,51,33,9,9
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,3,0,3,0
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,OVER VOTES,,15,9,6,0
+La Paz,057 Salome,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,3,0,0,3
+La Paz,058 Quartzsite Two,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,504,297,147,60
+La Paz,059 Cibola,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,77,39,24,14
+La Paz,060 Ehrenberg,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,231,116,79,36
+La Paz,064 Quartzsite Three,Quartzsite Elem. Dist. 4 Quartzsite Elementary SD 4,,UNDER VOTES,,281,213,41,27
+La Paz,051 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"FINKBEINER, PAM",NON,0,0,0,0
+La Paz,055 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"FINKBEINER, PAM",NON,91,54,28,9
+La Paz,062 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"FINKBEINER, PAM",NON,16,14,0,2
+La Paz,051 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"HILLHOUSE, SHARON",NON,2,0,0,2
+La Paz,055 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"HILLHOUSE, SHARON",NON,237,144,72,21
+La Paz,062 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"HILLHOUSE, SHARON",NON,29,26,1,2
+La Paz,051 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"PONTIOUS, JAMES",NON,0,0,0,0
+La Paz,055 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"PONTIOUS, JAMES",NON,164,102,49,13
+La Paz,062 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,"PONTIOUS, JAMES",NON,15,9,2,4
+La Paz,051 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,WRITE-IN,NON,0,0,0,0
+La Paz,055 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,WRITE-IN,NON,7,5,2,0
+La Paz,062 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,WRITE-IN,NON,0,0,0,0
+La Paz,051 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,OVER VOTES,,0,0,0,0
+La Paz,055 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,UNDER VOTES,,2,0,0,2
+La Paz,055 Bouse,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,UNDER VOTES,,159,87,57,15
+La Paz,062 Vicksburg,Bouse Elem. Dist. 26 Bouse Elementary SD 26,,UNDER VOTES,,16,11,1,4
+La Paz,051 Parker,Parker Fire Dist. Parker Fire District,,"DURAN, RAMONA",NON,646,272,312,62
+La Paz,051 Parker,Parker Fire Dist. Parker Fire District,,"JAMES, DARYL",NON,530,275,206,49
+La Paz,051 Parker,Parker Fire Dist. Parker Fire District,,"ROGERS, COURTNEY",NON,614,316,251,47
+La Paz,051 Parker,Parker Fire Dist. Parker Fire District,,WRITE-IN,NON,4,3,1,0
+La Paz,051 Parker,Parker Fire Dist. Parker Fire District,,OVER VOTES,,2,2,0,0
+La Paz,051 Parker,Parker Fire Dist. Parker Fire District,,UNDER VOTES,,812,340,382,90
+La Paz,058 Quartzsite Two,Council Member Town of Quartzsite,,WRITE-IN,NON,179,86,65,28
+La Paz,064 Quartzsite Three,Council Member Town of Quartzsite,,WRITE-IN,NON,30,15,11,4
+La Paz,058 Quartzsite Two,Council Member Town of Quartzsite,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,Council Member Town of Quartzsite,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,Council Member Town of Quartzsite,,UNDER VOTES,,522,323,142,57
+La Paz,064 Quartzsite Three,Council Member Town of Quartzsite,,UNDER VOTES,,102,67,22,13
+La Paz,051 Parker,PROPOSITION 125,,YES,NON,648,286,297,65
+La Paz,052 Poston,PROPOSITION 125,,YES,NON,61,22,34,5
+La Paz,054 Upriver,PROPOSITION 125,,YES,NON,450,261,136,53
+La Paz,055 Bouse,PROPOSITION 125,,YES,NON,114,74,29,11
+La Paz,056 Wenden,PROPOSITION 125,,YES,NON,44,24,15,5
+La Paz,057 Salome,PROPOSITION 125,,YES,NON,257,154,66,37
+La Paz,058 Quartzsite Two,PROPOSITION 125,,YES,NON,299,172,85,42
+La Paz,059 Cibola,PROPOSITION 125,,YES,NON,15,8,6,1
+La Paz,060 Ehrenberg,PROPOSITION 125,,YES,NON,95,57,31,7
+La Paz,062 Vicksburg,PROPOSITION 125,,YES,NON,77,55,8,14
+La Paz,064 Quartzsite Three,PROPOSITION 125,,YES,NON,126,88,24,14
+La Paz,051 Parker,PROPOSITION 125,,NO,NON,706,326,313,67
+La Paz,052 Poston,PROPOSITION 125,,NO,NON,92,28,54,10
+La Paz,054 Upriver,PROPOSITION 125,,NO,NON,545,360,138,47
+La Paz,055 Bouse,PROPOSITION 125,,NO,NON,196,111,68,17
+La Paz,056 Wenden,PROPOSITION 125,,NO,NON,50,27,15,8
+La Paz,057 Salome,PROPOSITION 125,,NO,NON,320,190,93,37
+La Paz,058 Quartzsite Two,PROPOSITION 125,,NO,NON,352,214,103,35
+La Paz,059 Cibola,PROPOSITION 125,,NO,NON,38,21,14,3
+La Paz,060 Ehrenberg,PROPOSITION 125,,NO,NON,111,52,40,19
+La Paz,062 Vicksburg,PROPOSITION 125,,NO,NON,74,67,5,2
+La Paz,064 Quartzsite Three,PROPOSITION 125,,NO,NON,162,121,24,17
+La Paz,051 Parker,PROPOSITION 125,,OVER VOTES,,3,2,1,0
+La Paz,052 Poston,PROPOSITION 125,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,PROPOSITION 125,,OVER VOTES,,1,1,0,0
+La Paz,055 Bouse,PROPOSITION 125,,OVER VOTES,,1,1,0,0
+La Paz,056 Wenden,PROPOSITION 125,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,PROPOSITION 125,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,PROPOSITION 125,,OVER VOTES,,1,1,0,0
+La Paz,059 Cibola,PROPOSITION 125,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,PROPOSITION 125,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,PROPOSITION 125,,OVER VOTES,,1,1,0,0
+La Paz,064 Quartzsite Three,PROPOSITION 125,,OVER VOTES,,1,1,0,0
+La Paz,051 Parker,PROPOSITION 125,,UNDER VOTES,,74,30,37,7
+La Paz,052 Poston,PROPOSITION 125,,UNDER VOTES,,5,2,3,0
+La Paz,054 Upriver,PROPOSITION 125,,UNDER VOTES,,96,51,34,11
+La Paz,055 Bouse,PROPOSITION 125,,UNDER VOTES,,18,10,7,1
+La Paz,056 Wenden,PROPOSITION 125,,UNDER VOTES,,6,2,4,0
+La Paz,057 Salome,PROPOSITION 125,,UNDER VOTES,,31,14,10,7
+La Paz,058 Quartzsite Two,PROPOSITION 125,,UNDER VOTES,,52,25,19,8
+La Paz,059 Cibola,PROPOSITION 125,,UNDER VOTES,,7,1,4,2
+La Paz,060 Ehrenberg,PROPOSITION 125,,UNDER VOTES,,10,5,5,0
+La Paz,062 Vicksburg,PROPOSITION 125,,UNDER VOTES,,5,4,1,0
+La Paz,064 Quartzsite Three,PROPOSITION 125,,UNDER VOTES,,20,13,6,1
+La Paz,051 Parker,PROPOSITION 126,,YES,NON,949,455,411,83
+La Paz,052 Poston,PROPOSITION 126,,YES,NON,90,29,55,6
+La Paz,054 Upriver,PROPOSITION 126,,YES,NON,776,473,225,78
+La Paz,055 Bouse,PROPOSITION 126,,YES,NON,253,156,76,21
+La Paz,056 Wenden,PROPOSITION 126,,YES,NON,76,42,25,9
+La Paz,057 Salome,PROPOSITION 126,,YES,NON,464,283,122,59
+La Paz,058 Quartzsite Two,PROPOSITION 126,,YES,NON,520,305,148,67
+La Paz,059 Cibola,PROPOSITION 126,,YES,NON,45,23,19,3
+La Paz,060 Ehrenberg,PROPOSITION 126,,YES,NON,154,80,54,20
+La Paz,062 Vicksburg,PROPOSITION 126,,YES,NON,123,106,6,11
+La Paz,064 Quartzsite Three,PROPOSITION 126,,YES,NON,257,186,43,28
+La Paz,051 Parker,PROPOSITION 126,,NO,NON,430,169,207,54
+La Paz,052 Poston,PROPOSITION 126,,NO,NON,66,21,36,9
+La Paz,054 Upriver,PROPOSITION 126,,NO,NON,243,158,61,24
+La Paz,055 Bouse,PROPOSITION 126,,NO,NON,68,36,25,7
+La Paz,056 Wenden,PROPOSITION 126,,NO,NON,21,10,7,4
+La Paz,057 Salome,PROPOSITION 126,,NO,NON,128,71,40,17
+La Paz,058 Quartzsite Two,PROPOSITION 126,,NO,NON,151,89,48,14
+La Paz,059 Cibola,PROPOSITION 126,,NO,NON,9,5,3,1
+La Paz,060 Ehrenberg,PROPOSITION 126,,NO,NON,43,24,14,5
+La Paz,062 Vicksburg,PROPOSITION 126,,NO,NON,30,18,7,5
+La Paz,064 Quartzsite Three,PROPOSITION 126,,NO,NON,42,31,7,4
+La Paz,051 Parker,PROPOSITION 126,,OVER VOTES,,3,1,2,0
+La Paz,052 Poston,PROPOSITION 126,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,PROPOSITION 126,,OVER VOTES,,5,3,1,1
+La Paz,055 Bouse,PROPOSITION 126,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,PROPOSITION 126,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,PROPOSITION 126,,OVER VOTES,,1,1,0,0
+La Paz,058 Quartzsite Two,PROPOSITION 126,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,PROPOSITION 126,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,PROPOSITION 126,,OVER VOTES,,1,1,0,0
+La Paz,062 Vicksburg,PROPOSITION 126,,OVER VOTES,,1,1,0,0
+La Paz,064 Quartzsite Three,PROPOSITION 126,,OVER VOTES,,1,1,0,0
+La Paz,051 Parker,PROPOSITION 126,,UNDER VOTES,,49,19,28,2
+La Paz,052 Poston,PROPOSITION 126,,UNDER VOTES,,2,2,0,0
+La Paz,054 Upriver,PROPOSITION 126,,UNDER VOTES,,68,39,21,8
+La Paz,055 Bouse,PROPOSITION 126,,UNDER VOTES,,8,4,3,1
+La Paz,056 Wenden,PROPOSITION 126,,UNDER VOTES,,3,1,2,0
+La Paz,057 Salome,PROPOSITION 126,,UNDER VOTES,,15,3,7,5
+La Paz,058 Quartzsite Two,PROPOSITION 126,,UNDER VOTES,,33,18,11,4
+La Paz,059 Cibola,PROPOSITION 126,,UNDER VOTES,,6,2,2,2
+La Paz,060 Ehrenberg,PROPOSITION 126,,UNDER VOTES,,18,9,8,1
+La Paz,062 Vicksburg,PROPOSITION 126,,UNDER VOTES,,3,2,1,0
+La Paz,064 Quartzsite Three,PROPOSITION 126,,UNDER VOTES,,9,5,4,0
+La Paz,051 Parker,PROPOSITION 127,,YES,NON,295,124,145,26
+La Paz,052 Poston,PROPOSITION 127,,YES,NON,36,11,22,3
+La Paz,054 Upriver,PROPOSITION 127,,YES,NON,159,88,46,25
+La Paz,055 Bouse,PROPOSITION 127,,YES,NON,46,28,15,3
+La Paz,056 Wenden,PROPOSITION 127,,YES,NON,17,7,9,1
+La Paz,057 Salome,PROPOSITION 127,,YES,NON,92,50,27,15
+La Paz,058 Quartzsite Two,PROPOSITION 127,,YES,NON,131,66,47,18
+La Paz,059 Cibola,PROPOSITION 127,,YES,NON,11,7,3,1
+La Paz,060 Ehrenberg,PROPOSITION 127,,YES,NON,44,18,17,9
+La Paz,062 Vicksburg,PROPOSITION 127,,YES,NON,19,17,1,1
+La Paz,064 Quartzsite Three,PROPOSITION 127,,YES,NON,47,39,5,3
+La Paz,051 Parker,PROPOSITION 127,,NO,NON,1096,498,490,108
+La Paz,052 Poston,PROPOSITION 127,,NO,NON,118,38,69,11
+La Paz,054 Upriver,PROPOSITION 127,,NO,NON,877,546,249,82
+La Paz,055 Bouse,PROPOSITION 127,,NO,NON,273,163,86,24
+La Paz,056 Wenden,PROPOSITION 127,,NO,NON,79,45,22,12
+La Paz,057 Salome,PROPOSITION 127,,NO,NON,499,301,136,62
+La Paz,058 Quartzsite Two,PROPOSITION 127,,NO,NON,544,334,149,61
+La Paz,059 Cibola,PROPOSITION 127,,NO,NON,46,22,21,3
+La Paz,060 Ehrenberg,PROPOSITION 127,,NO,NON,161,87,57,17
+La Paz,062 Vicksburg,PROPOSITION 127,,NO,NON,133,105,13,15
+La Paz,064 Quartzsite Three,PROPOSITION 127,,NO,NON,250,178,43,29
+La Paz,051 Parker,PROPOSITION 127,,OVER VOTES,,0,0,0,0
+La Paz,052 Poston,PROPOSITION 127,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,PROPOSITION 127,,OVER VOTES,,1,0,1,0
+La Paz,055 Bouse,PROPOSITION 127,,OVER VOTES,,1,0,1,0
+La Paz,056 Wenden,PROPOSITION 127,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,PROPOSITION 127,,OVER VOTES,,1,0,1,0
+La Paz,058 Quartzsite Two,PROPOSITION 127,,OVER VOTES,,1,0,0,1
+La Paz,059 Cibola,PROPOSITION 127,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,PROPOSITION 127,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,PROPOSITION 127,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,PROPOSITION 127,,OVER VOTES,,1,1,0,0
+La Paz,051 Parker,PROPOSITION 127,,UNDER VOTES,,40,22,13,5
+La Paz,052 Poston,PROPOSITION 127,,UNDER VOTES,,4,3,0,1
+La Paz,054 Upriver,PROPOSITION 127,,UNDER VOTES,,55,39,12,4
+La Paz,055 Bouse,PROPOSITION 127,,UNDER VOTES,,9,5,2,2
+La Paz,056 Wenden,PROPOSITION 127,,UNDER VOTES,,4,1,3,0
+La Paz,057 Salome,PROPOSITION 127,,UNDER VOTES,,16,7,5,4
+La Paz,058 Quartzsite Two,PROPOSITION 127,,UNDER VOTES,,28,12,11,5
+La Paz,059 Cibola,PROPOSITION 127,,UNDER VOTES,,3,1,0,2
+La Paz,060 Ehrenberg,PROPOSITION 127,,UNDER VOTES,,11,9,2,0
+La Paz,062 Vicksburg,PROPOSITION 127,,UNDER VOTES,,5,5,0,0
+La Paz,064 Quartzsite Three,PROPOSITION 127,,UNDER VOTES,,11,5,6,0
+La Paz,051 Parker,PROPOSITION 305,,YES,NON,594,224,306,64
+La Paz,052 Poston,PROPOSITION 305,,YES,NON,75,20,47,8
+La Paz,054 Upriver,PROPOSITION 305,,YES,NON,339,198,101,40
+La Paz,055 Bouse,PROPOSITION 305,,YES,NON,96,49,41,6
+La Paz,056 Wenden,PROPOSITION 305,,YES,NON,36,17,14,5
+La Paz,057 Salome,PROPOSITION 305,,YES,NON,178,90,63,25
+La Paz,058 Quartzsite Two,PROPOSITION 305,,YES,NON,246,126,74,46
+La Paz,059 Cibola,PROPOSITION 305,,YES,NON,19,6,10,3
+La Paz,060 Ehrenberg,PROPOSITION 305,,YES,NON,79,41,29,9
+La Paz,062 Vicksburg,PROPOSITION 305,,YES,NON,42,33,5,4
+La Paz,064 Quartzsite Three,PROPOSITION 305,,YES,NON,98,67,18,13
+La Paz,051 Parker,PROPOSITION 305,,NO,NON,753,379,309,65
+La Paz,052 Poston,PROPOSITION 305,,NO,NON,75,28,41,6
+La Paz,054 Upriver,PROPOSITION 305,,NO,NON,633,396,180,57
+La Paz,055 Bouse,PROPOSITION 305,,NO,NON,217,136,60,21
+La Paz,056 Wenden,PROPOSITION 305,,NO,NON,57,33,17,7
+La Paz,057 Salome,PROPOSITION 305,,NO,NON,400,257,97,46
+La Paz,058 Quartzsite Two,PROPOSITION 305,,NO,NON,401,252,116,33
+La Paz,059 Cibola,PROPOSITION 305,,NO,NON,35,22,11,2
+La Paz,060 Ehrenberg,PROPOSITION 305,,NO,NON,114,58,40,16
+La Paz,062 Vicksburg,PROPOSITION 305,,NO,NON,104,85,8,11
+La Paz,064 Quartzsite Three,PROPOSITION 305,,NO,NON,189,142,30,17
+La Paz,051 Parker,PROPOSITION 305,,OVER VOTES,,0,0,0,0
+La Paz,052 Poston,PROPOSITION 305,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,PROPOSITION 305,,OVER VOTES,,2,0,1,1
+La Paz,055 Bouse,PROPOSITION 305,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,PROPOSITION 305,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,PROPOSITION 305,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,PROPOSITION 305,,OVER VOTES,,1,0,1,0
+La Paz,059 Cibola,PROPOSITION 305,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,PROPOSITION 305,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,PROPOSITION 305,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,PROPOSITION 305,,OVER VOTES,,1,0,0,1
+La Paz,051 Parker,PROPOSITION 305,,UNDER VOTES,,84,41,33,10
+La Paz,052 Poston,PROPOSITION 305,,UNDER VOTES,,8,4,3,1
+La Paz,054 Upriver,PROPOSITION 305,,UNDER VOTES,,118,79,26,13
+La Paz,055 Bouse,PROPOSITION 305,,UNDER VOTES,,16,11,3,2
+La Paz,056 Wenden,PROPOSITION 305,,UNDER VOTES,,7,3,3,1
+La Paz,057 Salome,PROPOSITION 305,,UNDER VOTES,,30,11,9,10
+La Paz,058 Quartzsite Two,PROPOSITION 305,,UNDER VOTES,,56,34,16,6
+La Paz,059 Cibola,PROPOSITION 305,,UNDER VOTES,,6,2,3,1
+La Paz,060 Ehrenberg,PROPOSITION 305,,UNDER VOTES,,23,15,7,1
+La Paz,062 Vicksburg,PROPOSITION 305,,UNDER VOTES,,11,9,1,1
+La Paz,064 Quartzsite Three,PROPOSITION 305,,UNDER VOTES,,21,14,6,1
+La Paz,051 Parker,PROPOSITION 306,,YES,NON,758,342,350,66
+La Paz,052 Poston,PROPOSITION 306,,YES,NON,75,21,46,8
+La Paz,054 Upriver,PROPOSITION 306,,YES,NON,583,359,165,59
+La Paz,055 Bouse,PROPOSITION 306,,YES,NON,178,106,55,17
+La Paz,056 Wenden,PROPOSITION 306,,YES,NON,56,29,21,6
+La Paz,057 Salome,PROPOSITION 306,,YES,NON,380,232,100,48
+La Paz,058 Quartzsite Two,PROPOSITION 306,,YES,NON,380,221,107,52
+La Paz,059 Cibola,PROPOSITION 306,,YES,NON,29,11,15,3
+La Paz,060 Ehrenberg,PROPOSITION 306,,YES,NON,128,66,42,20
+La Paz,062 Vicksburg,PROPOSITION 306,,YES,NON,90,77,1,12
+La Paz,064 Quartzsite Three,PROPOSITION 306,,YES,NON,195,139,36,20
+La Paz,051 Parker,PROPOSITION 306,,NO,NON,575,260,255,60
+La Paz,052 Poston,PROPOSITION 306,,NO,NON,75,26,43,6
+La Paz,054 Upriver,PROPOSITION 306,,NO,NON,403,240,122,41
+La Paz,055 Bouse,PROPOSITION 306,,NO,NON,137,81,46,10
+La Paz,056 Wenden,PROPOSITION 306,,NO,NON,41,23,11,7
+La Paz,057 Salome,PROPOSITION 306,,NO,NON,198,114,59,25
+La Paz,058 Quartzsite Two,PROPOSITION 306,,NO,NON,268,158,83,27
+La Paz,059 Cibola,PROPOSITION 306,,NO,NON,23,16,6,1
+La Paz,060 Ehrenberg,PROPOSITION 306,,NO,NON,66,34,27,5
+La Paz,062 Vicksburg,PROPOSITION 306,,NO,NON,55,41,12,2
+La Paz,064 Quartzsite Three,PROPOSITION 306,,NO,NON,97,74,12,11
+La Paz,051 Parker,PROPOSITION 306,,OVER VOTES,,4,1,2,1
+La Paz,052 Poston,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,PROPOSITION 306,,OVER VOTES,,5,5,0,0
+La Paz,055 Bouse,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,PROPOSITION 306,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,PROPOSITION 306,,UNDER VOTES,,94,41,41,12
+La Paz,052 Poston,PROPOSITION 306,,UNDER VOTES,,8,5,2,1
+La Paz,054 Upriver,PROPOSITION 306,,UNDER VOTES,,101,69,21,11
+La Paz,055 Bouse,PROPOSITION 306,,UNDER VOTES,,14,9,3,2
+La Paz,056 Wenden,PROPOSITION 306,,UNDER VOTES,,3,1,2,0
+La Paz,057 Salome,PROPOSITION 306,,UNDER VOTES,,30,12,10,8
+La Paz,058 Quartzsite Two,PROPOSITION 306,,UNDER VOTES,,56,33,17,6
+La Paz,059 Cibola,PROPOSITION 306,,UNDER VOTES,,8,3,3,2
+La Paz,060 Ehrenberg,PROPOSITION 306,,UNDER VOTES,,22,14,7,1
+La Paz,062 Vicksburg,PROPOSITION 306,,UNDER VOTES,,12,9,1,2
+La Paz,064 Quartzsite Three,PROPOSITION 306,,UNDER VOTES,,17,10,6,1
+La Paz,051 Parker,PROPOSITION 402,,YES,NON,822,390,364,68
+La Paz,052 Poston,PROPOSITION 402,,YES,NON,74,22,43,9
+La Paz,054 Upriver,PROPOSITION 402,,YES,NON,513,291,168,54
+La Paz,055 Bouse,PROPOSITION 402,,YES,NON,174,104,51,19
+La Paz,056 Wenden,PROPOSITION 402,,YES,NON,50,31,16,3
+La Paz,057 Salome,PROPOSITION 402,,YES,NON,292,177,73,42
+La Paz,058 Quartzsite Two,PROPOSITION 402,,YES,NON,344,192,104,48
+La Paz,059 Cibola,PROPOSITION 402,,YES,NON,25,8,16,1
+La Paz,060 Ehrenberg,PROPOSITION 402,,YES,NON,107,55,44,8
+La Paz,062 Vicksburg,PROPOSITION 402,,YES,NON,63,51,6,6
+La Paz,064 Quartzsite Three,PROPOSITION 402,,YES,NON,126,94,22,10
+La Paz,051 Parker,PROPOSITION 402,,NO,NON,539,227,249,63
+La Paz,052 Poston,PROPOSITION 402,,NO,NON,78,26,47,5
+La Paz,054 Upriver,PROPOSITION 402,,NO,NON,478,318,114,46
+La Paz,055 Bouse,PROPOSITION 402,,NO,NON,141,81,52,8
+La Paz,056 Wenden,PROPOSITION 402,,NO,NON,45,21,14,10
+La Paz,057 Salome,PROPOSITION 402,,NO,NON,295,175,88,32
+La Paz,058 Quartzsite Two,PROPOSITION 402,,NO,NON,306,190,86,30
+La Paz,059 Cibola,PROPOSITION 402,,NO,NON,30,20,7,3
+La Paz,060 Ehrenberg,PROPOSITION 402,,NO,NON,87,46,23,18
+La Paz,062 Vicksburg,PROPOSITION 402,,NO,NON,86,70,7,9
+La Paz,064 Quartzsite Three,PROPOSITION 402,,NO,NON,163,117,25,21
+La Paz,051 Parker,PROPOSITION 402,,OVER VOTES,,2,0,2,0
+La Paz,052 Poston,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,054 Upriver,PROPOSITION 402,,OVER VOTES,,2,1,1,0
+La Paz,055 Bouse,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,056 Wenden,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,057 Salome,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,058 Quartzsite Two,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,059 Cibola,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,060 Ehrenberg,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,062 Vicksburg,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,064 Quartzsite Three,PROPOSITION 402,,OVER VOTES,,0,0,0,0
+La Paz,051 Parker,PROPOSITION 402,,UNDER VOTES,,68,27,33,8
+La Paz,052 Poston,PROPOSITION 402,,UNDER VOTES,,6,4,1,1
+La Paz,054 Upriver,PROPOSITION 402,,UNDER VOTES,,99,63,25,11
+La Paz,055 Bouse,PROPOSITION 402,,UNDER VOTES,,14,11,1,2
+La Paz,056 Wenden,PROPOSITION 402,,UNDER VOTES,,5,1,4,0
+La Paz,057 Salome,PROPOSITION 402,,UNDER VOTES,,21,6,8,7
+La Paz,058 Quartzsite Two,PROPOSITION 402,,UNDER VOTES,,54,30,17,7
+La Paz,059 Cibola,PROPOSITION 402,,UNDER VOTES,,5,2,1,2
+La Paz,060 Ehrenberg,PROPOSITION 402,,UNDER VOTES,,22,13,9,0
+La Paz,062 Vicksburg,PROPOSITION 402,,UNDER VOTES,,8,6,1,1
+La Paz,064 Quartzsite Three,PROPOSITION 402,,UNDER VOTES,,20,12,7,1
