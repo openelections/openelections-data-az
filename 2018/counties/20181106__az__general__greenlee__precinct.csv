@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party_name,votes,election_day,early_voting,provisional
+county,precinct,office,district,candidate,party,votes,election_day,early_voting,provisional
 Greenlee,001 Eagle,REGISTERED VOTERS,,REGISTERED VOTERS,,18,0,0,0
 Greenlee,002 Blue,REGISTERED VOTERS,,REGISTERED VOTERS,,37,0,0,0
 Greenlee,003 Clifton 1,REGISTERED VOTERS,,REGISTERED VOTERS,,878,0,0,0
