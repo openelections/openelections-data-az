@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,candidate,party,votes,early_voting,early_voting_tsx,election_day,provisional,tsx
+county,precinct,office,district,candidate,party,votes,early_voting,early_voting_tsx,election_day,provisional,tsx
 Coconino,Flagstaff 1,President,,Registered Voters,NP,1561,0,0,0,0,0
 Coconino,Flagstaff 1,President,,Times Counted,NP,1261,982,0,214,64,1
 Coconino,Flagstaff 1,President,,Times Blank Voted,NP,11,11,0,0,0,0

@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,candidate,party,votes,early_voting,election_day,late_early_voting,provisional
+county,precinct,office,district,candidate,party,votes,early_voting,election_day,late_early_voting,provisional
 Yuma,1,President,,Registered Voters,,1197,0,0,0,0
 Yuma,1,President,,Ballots Cast,,636,341,165,104,26
 Yuma,1,President,,Times Blank Voted,,6,3,3,0,0
