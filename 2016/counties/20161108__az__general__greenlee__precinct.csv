@@ -1,0 +1,685 @@
+county,votes,election_day,early_voting,provisional,party,office,district,candidate,precinct
+Greenlee,19,0,0,0,,Registered Voters,,REGISTERED VOTERS,001 Eagle
+Greenlee,37,0,0,0,,Registered Voters,,REGISTERED VOTERS,002 Blue
+Greenlee,908,0,0,0,,Registered Voters,,REGISTERED VOTERS,003 Clifton 1
+Greenlee,570,0,0,0,,Registered Voters,,REGISTERED VOTERS,004 Clifton 2
+Greenlee,1168,0,0,0,,Registered Voters,,REGISTERED VOTERS,005 Morenci
+Greenlee,368,0,0,0,,Registered Voters,,REGISTERED VOTERS,006 East Plantsite
+Greenlee,699,0,0,0,,Registered Voters,,REGISTERED VOTERS,007 York/Sheldon
+Greenlee,933,0,0,0,,Registered Voters,,REGISTERED VOTERS,008 Duncan
+Greenlee,16,1,15,0,,Ballots Cast,,BALLOTS CAST,001 Eagle
+Greenlee,29,12,17,0,,Ballots Cast,,BALLOTS CAST,002 Blue
+Greenlee,626,129,476,21,,Ballots Cast,,BALLOTS CAST,003 Clifton 1
+Greenlee,427,92,324,11,,Ballots Cast,,BALLOTS CAST,004 Clifton 2
+Greenlee,783,262,466,55,,Ballots Cast,,BALLOTS CAST,005 Morenci
+Greenlee,236,88,133,15,,Ballots Cast,,BALLOTS CAST,006 East Plantsite
+Greenlee,547,142,387,18,,Ballots Cast,,BALLOTS CAST,007 York/Sheldon
+Greenlee,712,192,492,28,,Ballots Cast,,BALLOTS CAST,008 Duncan
+Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,001 Eagle
+Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,002 Blue
+Greenlee,1,0,1,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,003 Clifton 1
+Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,004 Clifton 2
+Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,005 Morenci
+Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,006 East Plantsite
+Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,007 York/Sheldon
+Greenlee,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,008 Duncan
+Greenlee,13,0,13,0,REP,President,,"TRUMP, PENCE",001 Eagle
+Greenlee,25,10,15,0,REP,President,,"TRUMP, PENCE",002 Blue
+Greenlee,226,67,150,9,REP,President,,"TRUMP, PENCE",003 Clifton 1
+Greenlee,204,50,147,7,REP,President,,"TRUMP, PENCE",004 Clifton 2
+Greenlee,461,161,261,39,REP,President,,"TRUMP, PENCE",005 Morenci
+Greenlee,145,56,80,9,REP,President,,"TRUMP, PENCE",006 East Plantsite
+Greenlee,330,83,233,14,REP,President,,"TRUMP, PENCE",007 York/Sheldon
+Greenlee,488,138,328,22,REP,President,,"TRUMP, PENCE",008 Duncan
+Greenlee,2,1,1,0,DEM,President,,"CLINTON, KAINE",001 Eagle
+Greenlee,1,0,1,0,DEM,President,,"CLINTON, KAINE",002 Blue
+Greenlee,326,51,269,6,DEM,President,,"CLINTON, KAINE",003 Clifton 1
+Greenlee,192,35,155,2,DEM,President,,"CLINTON, KAINE",004 Clifton 2
+Greenlee,222,67,146,9,DEM,President,,"CLINTON, KAINE",005 Morenci
+Greenlee,62,20,38,4,DEM,President,,"CLINTON, KAINE",006 East Plantsite
+Greenlee,152,36,115,1,DEM,President,,"CLINTON, KAINE",007 York/Sheldon
+Greenlee,135,24,108,3,DEM,President,,"CLINTON, KAINE",008 Duncan
+Greenlee,1,0,1,0,LBT,President,,"JOHNSON, WELD",001 Eagle
+Greenlee,1,1,0,0,LBT,President,,"JOHNSON, WELD",002 Blue
+Greenlee,38,7,26,5,LBT,President,,"JOHNSON, WELD",003 Clifton 1
+Greenlee,13,1,10,2,LBT,President,,"JOHNSON, WELD",004 Clifton 2
+Greenlee,54,22,30,2,LBT,President,,"JOHNSON, WELD",005 Morenci
+Greenlee,23,9,13,1,LBT,President,,"JOHNSON, WELD",006 East Plantsite
+Greenlee,23,8,14,1,LBT,President,,"JOHNSON, WELD",007 York/Sheldon
+Greenlee,47,12,33,2,LBT,President,,"JOHNSON, WELD",008 Duncan
+Greenlee,0,0,0,0,GRN,President,,"STEIN, BARAKA",001 Eagle
+Greenlee,0,0,0,0,GRN,President,,"STEIN, BARAKA",002 Blue
+Greenlee,9,3,5,1,GRN,President,,"STEIN, BARAKA",003 Clifton 1
+Greenlee,7,2,5,0,GRN,President,,"STEIN, BARAKA",004 Clifton 2
+Greenlee,18,4,10,4,GRN,President,,"STEIN, BARAKA",005 Morenci
+Greenlee,2,2,0,0,GRN,President,,"STEIN, BARAKA",006 East Plantsite
+Greenlee,12,4,6,2,GRN,President,,"STEIN, BARAKA",007 York/Sheldon
+Greenlee,11,9,2,0,GRN,President,,"STEIN, BARAKA",008 Duncan
+Greenlee,0,0,0,0,NON,President,,WRITE-IN,001 Eagle
+Greenlee,1,0,1,0,NON,President,,WRITE-IN,002 Blue
+Greenlee,5,0,5,0,NON,President,,WRITE-IN,003 Clifton 1
+Greenlee,2,1,1,0,NON,President,,WRITE-IN,004 Clifton 2
+Greenlee,16,7,8,1,NON,President,,WRITE-IN,005 Morenci
+Greenlee,3,1,1,1,NON,President,,WRITE-IN,006 East Plantsite
+Greenlee,11,2,9,0,NON,President,,WRITE-IN,007 York/Sheldon
+Greenlee,19,6,12,1,NON,President,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,President,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,President,,OVER VOTES,002 Blue
+Greenlee,3,0,3,0,,President,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,President,,OVER VOTES,004 Clifton 2
+Greenlee,1,0,1,0,,President,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,President,,OVER VOTES,006 East Plantsite
+Greenlee,1,0,1,0,,President,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,President,,OVER VOTES,008 Duncan
+Greenlee,0,0,0,0,,President,,UNDER VOTES,001 Eagle
+Greenlee,1,1,0,0,,President,,UNDER VOTES,002 Blue
+Greenlee,19,1,18,0,,President,,UNDER VOTES,003 Clifton 1
+Greenlee,9,3,6,0,,President,,UNDER VOTES,004 Clifton 2
+Greenlee,11,1,10,0,,President,,UNDER VOTES,005 Morenci
+Greenlee,1,0,1,0,,President,,UNDER VOTES,006 East Plantsite
+Greenlee,18,9,9,0,,President,,UNDER VOTES,007 York/Sheldon
+Greenlee,12,3,9,0,,President,,UNDER VOTES,008 Duncan
+Greenlee,15,1,14,0,REP,U.S. Senate,,"MCCAIN, JOHN",001 Eagle
+Greenlee,25,12,13,0,REP,U.S. Senate,,"MCCAIN, JOHN",002 Blue
+Greenlee,221,58,152,11,REP,U.S. Senate,,"MCCAIN, JOHN",003 Clifton 1
+Greenlee,183,40,137,6,REP,U.S. Senate,,"MCCAIN, JOHN",004 Clifton 2
+Greenlee,457,173,254,30,REP,U.S. Senate,,"MCCAIN, JOHN",005 Morenci
+Greenlee,145,53,81,11,REP,U.S. Senate,,"MCCAIN, JOHN",006 East Plantsite
+Greenlee,297,79,206,12,REP,U.S. Senate,,"MCCAIN, JOHN",007 York/Sheldon
+Greenlee,441,120,300,21,REP,U.S. Senate,,"MCCAIN, JOHN",008 Duncan
+Greenlee,1,0,1,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",001 Eagle
+Greenlee,1,0,1,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",002 Blue
+Greenlee,342,56,278,8,DEM,U.S. Senate,,"KIRKPATRICK, ANN",003 Clifton 1
+Greenlee,190,38,148,4,DEM,U.S. Senate,,"KIRKPATRICK, ANN",004 Clifton 2
+Greenlee,250,74,158,18,DEM,U.S. Senate,,"KIRKPATRICK, ANN",005 Morenci
+Greenlee,62,22,37,3,DEM,U.S. Senate,,"KIRKPATRICK, ANN",006 East Plantsite
+Greenlee,176,44,128,4,DEM,U.S. Senate,,"KIRKPATRICK, ANN",007 York/Sheldon
+Greenlee,167,41,122,4,DEM,U.S. Senate,,"KIRKPATRICK, ANN",008 Duncan
+Greenlee,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",001 Eagle
+Greenlee,1,0,1,0,GRN,U.S. Senate,,"SWING, GARY",002 Blue
+Greenlee,44,10,33,1,GRN,U.S. Senate,,"SWING, GARY",003 Clifton 1
+Greenlee,30,9,20,1,GRN,U.S. Senate,,"SWING, GARY",004 Clifton 2
+Greenlee,49,11,32,6,GRN,U.S. Senate,,"SWING, GARY",005 Morenci
+Greenlee,22,11,10,1,GRN,U.S. Senate,,"SWING, GARY",006 East Plantsite
+Greenlee,48,13,34,1,GRN,U.S. Senate,,"SWING, GARY",007 York/Sheldon
+Greenlee,74,20,52,2,GRN,U.S. Senate,,"SWING, GARY",008 Duncan
+Greenlee,0,0,0,0,NON,U.S. Senate,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,U.S. Senate,,WRITE-IN,002 Blue
+Greenlee,4,2,2,0,NON,U.S. Senate,,WRITE-IN,003 Clifton 1
+Greenlee,4,2,2,0,NON,U.S. Senate,,WRITE-IN,004 Clifton 2
+Greenlee,8,2,6,0,NON,U.S. Senate,,WRITE-IN,005 Morenci
+Greenlee,2,0,2,0,NON,U.S. Senate,,WRITE-IN,006 East Plantsite
+Greenlee,7,1,6,0,NON,U.S. Senate,,WRITE-IN,007 York/Sheldon
+Greenlee,10,5,4,1,NON,U.S. Senate,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,U.S. Senate,,OVER VOTES,007 York/Sheldon
+Greenlee,1,0,1,0,,U.S. Senate,,OVER VOTES,008 Duncan
+Greenlee,0,0,0,0,,U.S. Senate,,UNDER VOTES,001 Eagle
+Greenlee,2,0,2,0,,U.S. Senate,,UNDER VOTES,002 Blue
+Greenlee,15,3,11,1,,U.S. Senate,,UNDER VOTES,003 Clifton 1
+Greenlee,20,3,17,0,,U.S. Senate,,UNDER VOTES,004 Clifton 2
+Greenlee,19,2,16,1,,U.S. Senate,,UNDER VOTES,005 Morenci
+Greenlee,5,2,3,0,,U.S. Senate,,UNDER VOTES,006 East Plantsite
+Greenlee,19,5,13,1,,U.S. Senate,,UNDER VOTES,007 York/Sheldon
+Greenlee,19,6,13,0,,U.S. Senate,,UNDER VOTES,008 Duncan
+Greenlee,11,0,11,0,REP,U.S. House,1,"BABEU, PAUL",001 Eagle
+Greenlee,24,9,15,0,REP,U.S. House,1,"BABEU, PAUL",002 Blue
+Greenlee,168,50,110,8,REP,U.S. House,1,"BABEU, PAUL",003 Clifton 1
+Greenlee,159,35,117,7,REP,U.S. House,1,"BABEU, PAUL",004 Clifton 2
+Greenlee,400,148,228,24,REP,U.S. House,1,"BABEU, PAUL",005 Morenci
+Greenlee,136,48,78,10,REP,U.S. House,1,"BABEU, PAUL",006 East Plantsite
+Greenlee,226,62,154,10,REP,U.S. House,1,"BABEU, PAUL",007 York/Sheldon
+Greenlee,373,110,245,18,REP,U.S. House,1,"BABEU, PAUL",008 Duncan
+Greenlee,2,1,1,0,DEM,U.S. House,1,"O'HALLERAN, TOM",001 Eagle
+Greenlee,5,3,2,0,DEM,U.S. House,1,"O'HALLERAN, TOM",002 Blue
+Greenlee,384,61,311,12,DEM,U.S. House,1,"O'HALLERAN, TOM",003 Clifton 1
+Greenlee,215,48,164,3,DEM,U.S. House,1,"O'HALLERAN, TOM",004 Clifton 2
+Greenlee,282,85,176,21,DEM,U.S. House,1,"O'HALLERAN, TOM",005 Morenci
+Greenlee,72,28,39,5,DEM,U.S. House,1,"O'HALLERAN, TOM",006 East Plantsite
+Greenlee,236,60,172,4,DEM,U.S. House,1,"O'HALLERAN, TOM",007 York/Sheldon
+Greenlee,258,59,190,9,DEM,U.S. House,1,"O'HALLERAN, TOM",008 Duncan
+Greenlee,0,0,0,0,GRN,U.S. House,1,"PARRISH, RAY",001 Eagle
+Greenlee,0,0,0,0,GRN,U.S. House,1,"PARRISH, RAY",002 Blue
+Greenlee,36,12,23,1,GRN,U.S. House,1,"PARRISH, RAY",003 Clifton 1
+Greenlee,25,4,20,1,GRN,U.S. House,1,"PARRISH, RAY",004 Clifton 2
+Greenlee,56,19,28,9,GRN,U.S. House,1,"PARRISH, RAY",005 Morenci
+Greenlee,18,10,8,0,GRN,U.S. House,1,"PARRISH, RAY",006 East Plantsite
+Greenlee,43,11,30,2,GRN,U.S. House,1,"PARRISH, RAY",007 York/Sheldon
+Greenlee,42,15,27,0,GRN,U.S. House,1,"PARRISH, RAY",008 Duncan
+Greenlee,0,0,0,0,NON,U.S. House,1,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,U.S. House,1,WRITE-IN,002 Blue
+Greenlee,2,1,1,0,NON,U.S. House,1,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,U.S. House,1,WRITE-IN,004 Clifton 2
+Greenlee,6,2,4,0,NON,U.S. House,1,WRITE-IN,005 Morenci
+Greenlee,0,0,0,0,NON,U.S. House,1,WRITE-IN,006 East Plantsite
+Greenlee,2,1,1,0,NON,U.S. House,1,WRITE-IN,007 York/Sheldon
+Greenlee,2,1,1,0,NON,U.S. House,1,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,U.S. House,1,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,U.S. House,1,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,U.S. House,1,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,U.S. House,1,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,U.S. House,1,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,U.S. House,1,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,U.S. House,1,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,U.S. House,1,OVER VOTES,008 Duncan
+Greenlee,3,0,3,0,,U.S. House,1,UNDER VOTES,001 Eagle
+Greenlee,0,0,0,0,,U.S. House,1,UNDER VOTES,002 Blue
+Greenlee,36,5,31,0,,U.S. House,1,UNDER VOTES,003 Clifton 1
+Greenlee,28,5,23,0,,U.S. House,1,UNDER VOTES,004 Clifton 2
+Greenlee,39,8,30,1,,U.S. House,1,UNDER VOTES,005 Morenci
+Greenlee,10,2,8,0,,U.S. House,1,UNDER VOTES,006 East Plantsite
+Greenlee,40,8,30,2,,U.S. House,1,UNDER VOTES,007 York/Sheldon
+Greenlee,37,7,29,1,,U.S. House,1,UNDER VOTES,008 Duncan
+Greenlee,14,1,13,0,REP,State Senate,14,"GRIFFIN, GAIL",001 Eagle
+Greenlee,25,11,14,0,REP,State Senate,14,"GRIFFIN, GAIL",002 Blue
+Greenlee,179,49,124,6,REP,State Senate,14,"GRIFFIN, GAIL",003 Clifton 1
+Greenlee,188,44,139,5,REP,State Senate,14,"GRIFFIN, GAIL",004 Clifton 2
+Greenlee,408,145,232,31,REP,State Senate,14,"GRIFFIN, GAIL",005 Morenci
+Greenlee,138,51,78,9,REP,State Senate,14,"GRIFFIN, GAIL",006 East Plantsite
+Greenlee,284,70,203,11,REP,State Senate,14,"GRIFFIN, GAIL",007 York/Sheldon
+Greenlee,447,126,303,18,REP,State Senate,14,"GRIFFIN, GAIL",008 Duncan
+Greenlee,1,0,1,0,DEM,State Senate,14,"ALVAREZ, JAMIE",001 Eagle
+Greenlee,4,1,3,0,DEM,State Senate,14,"ALVAREZ, JAMIE",002 Blue
+Greenlee,418,74,330,14,DEM,State Senate,14,"ALVAREZ, JAMIE",003 Clifton 1
+Greenlee,222,45,171,6,DEM,State Senate,14,"ALVAREZ, JAMIE",004 Clifton 2
+Greenlee,334,108,204,22,DEM,State Senate,14,"ALVAREZ, JAMIE",005 Morenci
+Greenlee,86,36,44,6,DEM,State Senate,14,"ALVAREZ, JAMIE",006 East Plantsite
+Greenlee,231,64,162,5,DEM,State Senate,14,"ALVAREZ, JAMIE",007 York/Sheldon
+Greenlee,229,62,158,9,DEM,State Senate,14,"ALVAREZ, JAMIE",008 Duncan
+Greenlee,0,0,0,0,NON,State Senate,14,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,State Senate,14,WRITE-IN,002 Blue
+Greenlee,2,1,0,1,NON,State Senate,14,WRITE-IN,003 Clifton 1
+Greenlee,1,0,1,0,NON,State Senate,14,WRITE-IN,004 Clifton 2
+Greenlee,2,2,0,0,NON,State Senate,14,WRITE-IN,005 Morenci
+Greenlee,0,0,0,0,NON,State Senate,14,WRITE-IN,006 East Plantsite
+Greenlee,0,0,0,0,NON,State Senate,14,WRITE-IN,007 York/Sheldon
+Greenlee,0,0,0,0,NON,State Senate,14,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,State Senate,14,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,State Senate,14,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,State Senate,14,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,State Senate,14,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,State Senate,14,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,State Senate,14,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,State Senate,14,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,State Senate,14,OVER VOTES,008 Duncan
+Greenlee,1,0,1,0,,State Senate,14,UNDER VOTES,001 Eagle
+Greenlee,0,0,0,0,,State Senate,14,UNDER VOTES,002 Blue
+Greenlee,27,5,22,0,,State Senate,14,UNDER VOTES,003 Clifton 1
+Greenlee,16,3,13,0,,State Senate,14,UNDER VOTES,004 Clifton 2
+Greenlee,39,7,30,2,,State Senate,14,UNDER VOTES,005 Morenci
+Greenlee,12,1,11,0,,State Senate,14,UNDER VOTES,006 East Plantsite
+Greenlee,32,8,22,2,,State Senate,14,UNDER VOTES,007 York/Sheldon
+Greenlee,36,4,31,1,,State Senate,14,UNDER VOTES,008 Duncan
+Greenlee,14,0,14,0,REP,State Representative,14,"JOHN, DREW",001 Eagle
+Greenlee,25,11,14,0,REP,State Representative,14,"JOHN, DREW",002 Blue
+Greenlee,206,55,141,10,REP,State Representative,14,"JOHN, DREW",003 Clifton 1
+Greenlee,180,44,128,8,REP,State Representative,14,"JOHN, DREW",004 Clifton 2
+Greenlee,426,165,226,35,REP,State Representative,14,"JOHN, DREW",005 Morenci
+Greenlee,131,53,67,11,REP,State Representative,14,"JOHN, DREW",006 East Plantsite
+Greenlee,283,77,194,12,REP,State Representative,14,"JOHN, DREW",007 York/Sheldon
+Greenlee,450,135,296,19,REP,State Representative,14,"JOHN, DREW",008 Duncan
+Greenlee,15,1,14,0,REP,State Representative,14,"NUTT, BECKY",001 Eagle
+Greenlee,25,11,14,0,REP,State Representative,14,"NUTT, BECKY",002 Blue
+Greenlee,200,61,130,9,REP,State Representative,14,"NUTT, BECKY",003 Clifton 1
+Greenlee,210,59,145,6,REP,State Representative,14,"NUTT, BECKY",004 Clifton 2
+Greenlee,377,155,189,33,REP,State Representative,14,"NUTT, BECKY",005 Morenci
+Greenlee,127,59,59,9,REP,State Representative,14,"NUTT, BECKY",006 East Plantsite
+Greenlee,298,87,202,9,REP,State Representative,14,"NUTT, BECKY",007 York/Sheldon
+Greenlee,421,129,273,19,REP,State Representative,14,"NUTT, BECKY",008 Duncan
+Greenlee,2,1,1,0,DEM,State Representative,14,"HOLMES, MIKE",001 Eagle
+Greenlee,2,1,1,0,DEM,State Representative,14,"HOLMES, MIKE",002 Blue
+Greenlee,343,59,275,9,DEM,State Representative,14,"HOLMES, MIKE",003 Clifton 1
+Greenlee,194,36,154,4,DEM,State Representative,14,"HOLMES, MIKE",004 Clifton 2
+Greenlee,261,88,160,13,DEM,State Representative,14,"HOLMES, MIKE",005 Morenci
+Greenlee,65,26,35,4,DEM,State Representative,14,"HOLMES, MIKE",006 East Plantsite
+Greenlee,168,39,124,5,DEM,State Representative,14,"HOLMES, MIKE",007 York/Sheldon
+Greenlee,201,54,142,5,DEM,State Representative,14,"HOLMES, MIKE",008 Duncan
+Greenlee,1,0,1,0,DEM,State Representative,14,"LINDSTROM, JASON",001 Eagle
+Greenlee,1,0,1,0,DEM,State Representative,14,"LINDSTROM, JASON",002 Blue
+Greenlee,311,53,248,10,DEM,State Representative,14,"LINDSTROM, JASON",003 Clifton 1
+Greenlee,157,27,126,4,DEM,State Representative,14,"LINDSTROM, JASON",004 Clifton 2
+Greenlee,218,62,141,15,DEM,State Representative,14,"LINDSTROM, JASON",005 Morenci
+Greenlee,55,25,27,3,DEM,State Representative,14,"LINDSTROM, JASON",006 East Plantsite
+Greenlee,157,42,112,3,DEM,State Representative,14,"LINDSTROM, JASON",007 York/Sheldon
+Greenlee,140,36,101,3,DEM,State Representative,14,"LINDSTROM, JASON",008 Duncan
+Greenlee,0,0,0,0,NON,State Representative,14,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,State Representative,14,WRITE-IN,002 Blue
+Greenlee,3,1,1,1,NON,State Representative,14,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,State Representative,14,WRITE-IN,004 Clifton 2
+Greenlee,4,2,2,0,NON,State Representative,14,WRITE-IN,005 Morenci
+Greenlee,0,0,0,0,NON,State Representative,14,WRITE-IN,006 East Plantsite
+Greenlee,1,0,1,0,NON,State Representative,14,WRITE-IN,007 York/Sheldon
+Greenlee,1,0,1,0,NON,State Representative,14,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,State Representative,14,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,State Representative,14,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,State Representative,14,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,State Representative,14,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,State Representative,14,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,State Representative,14,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,State Representative,14,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,State Representative,14,OVER VOTES,008 Duncan
+Greenlee,0,0,0,0,,State Representative,14,UNDER VOTES,001 Eagle
+Greenlee,5,1,4,0,,State Representative,14,UNDER VOTES,002 Blue
+Greenlee,189,29,157,3,,State Representative,14,UNDER VOTES,003 Clifton 1
+Greenlee,113,18,95,0,,State Representative,14,UNDER VOTES,004 Clifton 2
+Greenlee,280,52,214,14,,State Representative,14,UNDER VOTES,005 Morenci
+Greenlee,94,13,78,3,,State Representative,14,UNDER VOTES,006 East Plantsite
+Greenlee,187,39,141,7,,State Representative,14,UNDER VOTES,007 York/Sheldon
+Greenlee,211,30,171,10,,State Representative,14,UNDER VOTES,008 Duncan
+Greenlee,13,1,12,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",001 Eagle
+Greenlee,26,11,15,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",002 Blue
+Greenlee,219,63,147,9,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",003 Clifton 1
+Greenlee,199,48,144,7,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",004 Clifton 2
+Greenlee,385,167,185,33,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",005 Morenci
+Greenlee,122,59,53,10,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",006 East Plantsite
+Greenlee,273,84,179,10,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",007 York/Sheldon
+Greenlee,429,140,271,18,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",008 Duncan
+Greenlee,12,1,11,0,REP,Corporation Commissioner,,"DUNN, BOYD",001 Eagle
+Greenlee,23,9,14,0,REP,Corporation Commissioner,,"DUNN, BOYD",002 Blue
+Greenlee,189,66,115,8,REP,Corporation Commissioner,,"DUNN, BOYD",003 Clifton 1
+Greenlee,171,46,119,6,REP,Corporation Commissioner,,"DUNN, BOYD",004 Clifton 2
+Greenlee,397,169,191,37,REP,Corporation Commissioner,,"DUNN, BOYD",005 Morenci
+Greenlee,120,53,56,11,REP,Corporation Commissioner,,"DUNN, BOYD",006 East Plantsite
+Greenlee,244,79,153,12,REP,Corporation Commissioner,,"DUNN, BOYD",007 York/Sheldon
+Greenlee,424,141,264,19,REP,Corporation Commissioner,,"DUNN, BOYD",008 Duncan
+Greenlee,14,1,13,0,REP,Corporation Commissioner,,"TOBIN, ANDY",001 Eagle
+Greenlee,23,10,13,0,REP,Corporation Commissioner,,"TOBIN, ANDY",002 Blue
+Greenlee,205,58,135,12,REP,Corporation Commissioner,,"TOBIN, ANDY",003 Clifton 1
+Greenlee,189,49,132,8,REP,Corporation Commissioner,,"TOBIN, ANDY",004 Clifton 2
+Greenlee,426,183,207,36,REP,Corporation Commissioner,,"TOBIN, ANDY",005 Morenci
+Greenlee,129,50,70,9,REP,Corporation Commissioner,,"TOBIN, ANDY",006 East Plantsite
+Greenlee,277,91,177,9,REP,Corporation Commissioner,,"TOBIN, ANDY",007 York/Sheldon
+Greenlee,410,138,257,15,REP,Corporation Commissioner,,"TOBIN, ANDY",008 Duncan
+Greenlee,1,0,1,0,DEM,Corporation Commissioner,,"CHABIN, TOM",001 Eagle
+Greenlee,3,1,2,0,DEM,Corporation Commissioner,,"CHABIN, TOM",002 Blue
+Greenlee,336,62,264,10,DEM,Corporation Commissioner,,"CHABIN, TOM",003 Clifton 1
+Greenlee,195,41,150,4,DEM,Corporation Commissioner,,"CHABIN, TOM",004 Clifton 2
+Greenlee,263,90,156,17,DEM,Corporation Commissioner,,"CHABIN, TOM",005 Morenci
+Greenlee,65,32,28,5,DEM,Corporation Commissioner,,"CHABIN, TOM",006 East Plantsite
+Greenlee,176,48,125,3,DEM,Corporation Commissioner,,"CHABIN, TOM",007 York/Sheldon
+Greenlee,204,50,147,7,DEM,Corporation Commissioner,,"CHABIN, TOM",008 Duncan
+Greenlee,2,0,2,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",001 Eagle
+Greenlee,5,3,2,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",002 Blue
+Greenlee,347,61,276,10,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",003 Clifton 1
+Greenlee,204,45,152,7,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",004 Clifton 2
+Greenlee,252,89,150,13,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",005 Morenci
+Greenlee,62,31,27,4,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",006 East Plantsite
+Greenlee,187,53,128,6,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",007 York/Sheldon
+Greenlee,186,47,133,6,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",008 Duncan
+Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,002 Blue
+Greenlee,10,4,4,2,NON,Corporation Commissioner,,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,004 Clifton 2
+Greenlee,3,1,2,0,NON,Corporation Commissioner,,WRITE-IN,005 Morenci
+Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,006 East Plantsite
+Greenlee,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,007 York/Sheldon
+Greenlee,2,2,0,0,NON,Corporation Commissioner,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,Corporation Commissioner,,OVER VOTES,008 Duncan
+Greenlee,6,0,6,0,,Corporation Commissioner,,UNDER VOTES,001 Eagle
+Greenlee,7,2,5,0,,Corporation Commissioner,,UNDER VOTES,002 Blue
+Greenlee,572,73,487,12,,Corporation Commissioner,,UNDER VOTES,003 Clifton 1
+Greenlee,323,47,275,1,,Corporation Commissioner,,UNDER VOTES,004 Clifton 2
+Greenlee,623,87,507,29,,Corporation Commissioner,,UNDER VOTES,005 Morenci
+Greenlee,210,39,165,6,,Corporation Commissioner,,UNDER VOTES,006 East Plantsite
+Greenlee,484,71,399,14,,Corporation Commissioner,,UNDER VOTES,007 York/Sheldon
+Greenlee,481,58,404,19,,Corporation Commissioner,,UNDER VOTES,008 Duncan
+Greenlee,332,51,272,9,DEM,Board of Supervisors Dist. 1,,"GOMEZ, DAVID",003 Clifton 1
+Greenlee,196,32,161,3,DEM,Board of Supervisors Dist. 1,,"GOMEZ, DAVID",004 Clifton 2
+Greenlee,273,72,189,12,IND,Board of Supervisors Dist. 1,,"DUNAGAN, SHANE",003 Clifton 1
+Greenlee,224,58,158,8,IND,Board of Supervisors Dist. 1,,"DUNAGAN, SHANE",004 Clifton 2
+Greenlee,1,0,1,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,004 Clifton 2
+Greenlee,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,004 Clifton 2
+Greenlee,20,6,14,0,,Board of Supervisors Dist. 1,,UNDER VOTES,003 Clifton 1
+Greenlee,7,2,5,0,,Board of Supervisors Dist. 1,,UNDER VOTES,004 Clifton 2
+Greenlee,13,1,12,0,IND,Board of Supervisors Dist. 2,,"CAMPBELL, RON",001 Eagle
+Greenlee,26,12,14,0,IND,Board of Supervisors Dist. 2,,"CAMPBELL, RON",002 Blue
+Greenlee,697,244,402,51,IND,Board of Supervisors Dist. 2,,"CAMPBELL, RON",005 Morenci
+Greenlee,196,77,105,14,IND,Board of Supervisors Dist. 2,,"CAMPBELL, RON",006 East Plantsite
+Greenlee,0,0,0,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,002 Blue
+Greenlee,6,4,2,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,005 Morenci
+Greenlee,6,3,3,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,006 East Plantsite
+Greenlee,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,006 East Plantsite
+Greenlee,3,0,3,0,,Board of Supervisors Dist. 2,,UNDER VOTES,001 Eagle
+Greenlee,3,0,3,0,,Board of Supervisors Dist. 2,,UNDER VOTES,002 Blue
+Greenlee,80,14,62,4,,Board of Supervisors Dist. 2,,UNDER VOTES,005 Morenci
+Greenlee,34,8,25,1,,Board of Supervisors Dist. 2,,UNDER VOTES,006 East Plantsite
+Greenlee,264,62,195,7,IND,Board of Supervisors Dist. 3,,"CORBELL, ROBERT",007 York/Sheldon
+Greenlee,185,50,129,6,IND,Board of Supervisors Dist. 3,,"CORBELL, ROBERT",008 Duncan
+Greenlee,265,75,180,10,IND,Board of Supervisors Dist. 3,,"LUNT, RICHARD",007 York/Sheldon
+Greenlee,512,141,349,22,IND,Board of Supervisors Dist. 3,,"LUNT, RICHARD",008 Duncan
+Greenlee,2,0,1,1,NON,Board of Supervisors Dist. 3,,WRITE-IN,007 York/Sheldon
+Greenlee,3,1,2,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,008 Duncan
+Greenlee,16,5,11,0,,Board of Supervisors Dist. 3,,UNDER VOTES,007 York/Sheldon
+Greenlee,12,0,12,0,,Board of Supervisors Dist. 3,,UNDER VOTES,008 Duncan
+Greenlee,8,1,7,0,IND,County Attorney,,"FORD, JEREMY",001 Eagle
+Greenlee,25,12,13,0,IND,County Attorney,,"FORD, JEREMY",002 Blue
+Greenlee,454,103,333,18,IND,County Attorney,,"FORD, JEREMY",003 Clifton 1
+Greenlee,317,76,230,11,IND,County Attorney,,"FORD, JEREMY",004 Clifton 2
+Greenlee,675,242,384,49,IND,County Attorney,,"FORD, JEREMY",005 Morenci
+Greenlee,196,78,104,14,IND,County Attorney,,"FORD, JEREMY",006 East Plantsite
+Greenlee,410,119,278,13,IND,County Attorney,,"FORD, JEREMY",007 York/Sheldon
+Greenlee,575,172,377,26,IND,County Attorney,,"FORD, JEREMY",008 Duncan
+Greenlee,0,0,0,0,NON,County Attorney,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,County Attorney,,WRITE-IN,002 Blue
+Greenlee,2,0,2,0,NON,County Attorney,,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,County Attorney,,WRITE-IN,004 Clifton 2
+Greenlee,4,4,0,0,NON,County Attorney,,WRITE-IN,005 Morenci
+Greenlee,4,3,1,0,NON,County Attorney,,WRITE-IN,006 East Plantsite
+Greenlee,4,0,3,1,NON,County Attorney,,WRITE-IN,007 York/Sheldon
+Greenlee,8,5,3,0,NON,County Attorney,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,County Attorney,,OVER VOTES,008 Duncan
+Greenlee,8,0,8,0,,County Attorney,,UNDER VOTES,001 Eagle
+Greenlee,4,0,4,0,,County Attorney,,UNDER VOTES,002 Blue
+Greenlee,170,26,141,3,,County Attorney,,UNDER VOTES,003 Clifton 1
+Greenlee,110,16,94,0,,County Attorney,,UNDER VOTES,004 Clifton 2
+Greenlee,104,16,82,6,,County Attorney,,UNDER VOTES,005 Morenci
+Greenlee,36,7,28,1,,County Attorney,,UNDER VOTES,006 East Plantsite
+Greenlee,133,23,106,4,,County Attorney,,UNDER VOTES,007 York/Sheldon
+Greenlee,129,15,112,2,,County Attorney,,UNDER VOTES,008 Duncan
+Greenlee,5,1,4,0,REP,County Sheriff,,"SUMNER, TIM",001 Eagle
+Greenlee,9,1,8,0,REP,County Sheriff,,"SUMNER, TIM",002 Blue
+Greenlee,272,73,187,12,REP,County Sheriff,,"SUMNER, TIM",003 Clifton 1
+Greenlee,200,37,157,6,REP,County Sheriff,,"SUMNER, TIM",004 Clifton 2
+Greenlee,496,176,284,36,REP,County Sheriff,,"SUMNER, TIM",005 Morenci
+Greenlee,156,61,83,12,REP,County Sheriff,,"SUMNER, TIM",006 East Plantsite
+Greenlee,242,61,170,11,REP,County Sheriff,,"SUMNER, TIM",007 York/Sheldon
+Greenlee,416,123,273,20,REP,County Sheriff,,"SUMNER, TIM",008 Duncan
+Greenlee,10,0,10,0,DEM,County Sheriff,,"AVILA, C. LARRY",001 Eagle
+Greenlee,20,11,9,0,DEM,County Sheriff,,"AVILA, C. LARRY",002 Blue
+Greenlee,340,53,278,9,DEM,County Sheriff,,"AVILA, C. LARRY",003 Clifton 1
+Greenlee,220,52,163,5,DEM,County Sheriff,,"AVILA, C. LARRY",004 Clifton 2
+Greenlee,272,83,172,17,DEM,County Sheriff,,"AVILA, C. LARRY",005 Morenci
+Greenlee,71,26,42,3,DEM,County Sheriff,,"AVILA, C. LARRY",006 East Plantsite
+Greenlee,294,75,212,7,DEM,County Sheriff,,"AVILA, C. LARRY",007 York/Sheldon
+Greenlee,289,68,213,8,DEM,County Sheriff,,"AVILA, C. LARRY",008 Duncan
+Greenlee,0,0,0,0,NON,County Sheriff,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,County Sheriff,,WRITE-IN,002 Blue
+Greenlee,1,1,0,0,NON,County Sheriff,,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,County Sheriff,,WRITE-IN,004 Clifton 2
+Greenlee,1,0,1,0,NON,County Sheriff,,WRITE-IN,005 Morenci
+Greenlee,0,0,0,0,NON,County Sheriff,,WRITE-IN,006 East Plantsite
+Greenlee,2,2,0,0,NON,County Sheriff,,WRITE-IN,007 York/Sheldon
+Greenlee,2,0,2,0,NON,County Sheriff,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,002 Blue
+Greenlee,2,0,2,0,,County Sheriff,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,County Sheriff,,OVER VOTES,008 Duncan
+Greenlee,1,0,1,0,,County Sheriff,,UNDER VOTES,001 Eagle
+Greenlee,0,0,0,0,,County Sheriff,,UNDER VOTES,002 Blue
+Greenlee,11,2,9,0,,County Sheriff,,UNDER VOTES,003 Clifton 1
+Greenlee,7,3,4,0,,County Sheriff,,UNDER VOTES,004 Clifton 2
+Greenlee,14,3,9,2,,County Sheriff,,UNDER VOTES,005 Morenci
+Greenlee,9,1,8,0,,County Sheriff,,UNDER VOTES,006 East Plantsite
+Greenlee,9,4,5,0,,County Sheriff,,UNDER VOTES,007 York/Sheldon
+Greenlee,5,1,4,0,,County Sheriff,,UNDER VOTES,008 Duncan
+Greenlee,12,1,11,0,IND,County Treasurer,,"BERUBE, DIANE",001 Eagle
+Greenlee,27,12,15,0,IND,County Treasurer,,"BERUBE, DIANE",002 Blue
+Greenlee,508,113,375,20,IND,County Treasurer,,"BERUBE, DIANE",003 Clifton 1
+Greenlee,375,84,280,11,IND,County Treasurer,,"BERUBE, DIANE",004 Clifton 2
+Greenlee,705,251,404,50,IND,County Treasurer,,"BERUBE, DIANE",005 Morenci
+Greenlee,196,80,102,14,IND,County Treasurer,,"BERUBE, DIANE",006 East Plantsite
+Greenlee,464,126,323,15,IND,County Treasurer,,"BERUBE, DIANE",007 York/Sheldon
+Greenlee,621,180,416,25,IND,County Treasurer,,"BERUBE, DIANE",008 Duncan
+Greenlee,0,0,0,0,NON,County Treasurer,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,County Treasurer,,WRITE-IN,002 Blue
+Greenlee,7,2,5,0,NON,County Treasurer,,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,County Treasurer,,WRITE-IN,004 Clifton 2
+Greenlee,1,1,0,0,NON,County Treasurer,,WRITE-IN,005 Morenci
+Greenlee,4,2,2,0,NON,County Treasurer,,WRITE-IN,006 East Plantsite
+Greenlee,3,2,0,1,NON,County Treasurer,,WRITE-IN,007 York/Sheldon
+Greenlee,3,1,1,1,NON,County Treasurer,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,County Treasurer,,OVER VOTES,008 Duncan
+Greenlee,4,0,4,0,,County Treasurer,,UNDER VOTES,001 Eagle
+Greenlee,2,0,2,0,,County Treasurer,,UNDER VOTES,002 Blue
+Greenlee,111,14,96,1,,County Treasurer,,UNDER VOTES,003 Clifton 1
+Greenlee,52,8,44,0,,County Treasurer,,UNDER VOTES,004 Clifton 2
+Greenlee,77,10,62,5,,County Treasurer,,UNDER VOTES,005 Morenci
+Greenlee,36,6,29,1,,County Treasurer,,UNDER VOTES,006 East Plantsite
+Greenlee,80,14,64,2,,County Treasurer,,UNDER VOTES,007 York/Sheldon
+Greenlee,88,11,75,2,,County Treasurer,,UNDER VOTES,008 Duncan
+Greenlee,12,1,11,0,DEM,County School Superintendent,,"POWERS, TOM",001 Eagle
+Greenlee,25,12,13,0,DEM,County School Superintendent,,"POWERS, TOM",002 Blue
+Greenlee,539,113,406,20,DEM,County School Superintendent,,"POWERS, TOM",003 Clifton 1
+Greenlee,371,84,276,11,DEM,County School Superintendent,,"POWERS, TOM",004 Clifton 2
+Greenlee,670,237,386,47,DEM,County School Superintendent,,"POWERS, TOM",005 Morenci
+Greenlee,194,79,100,15,DEM,County School Superintendent,,"POWERS, TOM",006 East Plantsite
+Greenlee,443,120,307,16,DEM,County School Superintendent,,"POWERS, TOM",007 York/Sheldon
+Greenlee,586,169,394,23,DEM,County School Superintendent,,"POWERS, TOM",008 Duncan
+Greenlee,0,0,0,0,NON,County School Superintendent,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,County School Superintendent,,WRITE-IN,002 Blue
+Greenlee,8,6,2,0,NON,County School Superintendent,,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,County School Superintendent,,WRITE-IN,004 Clifton 2
+Greenlee,19,10,5,4,NON,County School Superintendent,,WRITE-IN,005 Morenci
+Greenlee,5,2,3,0,NON,County School Superintendent,,WRITE-IN,006 East Plantsite
+Greenlee,8,5,2,1,NON,County School Superintendent,,WRITE-IN,007 York/Sheldon
+Greenlee,11,7,3,1,NON,County School Superintendent,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,County School Superintendent,,OVER VOTES,008 Duncan
+Greenlee,4,0,4,0,,County School Superintendent,,UNDER VOTES,001 Eagle
+Greenlee,4,0,4,0,,County School Superintendent,,UNDER VOTES,002 Blue
+Greenlee,79,10,68,1,,County School Superintendent,,UNDER VOTES,003 Clifton 1
+Greenlee,56,8,48,0,,County School Superintendent,,UNDER VOTES,004 Clifton 2
+Greenlee,94,15,75,4,,County School Superintendent,,UNDER VOTES,005 Morenci
+Greenlee,37,7,30,0,,County School Superintendent,,UNDER VOTES,006 East Plantsite
+Greenlee,96,17,78,1,,County School Superintendent,,UNDER VOTES,007 York/Sheldon
+Greenlee,115,16,95,4,,County School Superintendent,,UNDER VOTES,008 Duncan
+Greenlee,10,1,9,0,DEM,County Recorder,,"MANUZ, BERTA",001 Eagle
+Greenlee,26,12,14,0,DEM,County Recorder,,"MANUZ, BERTA",002 Blue
+Greenlee,564,120,425,19,DEM,County Recorder,,"MANUZ, BERTA",003 Clifton 1
+Greenlee,397,89,297,11,DEM,County Recorder,,"MANUZ, BERTA",004 Clifton 2
+Greenlee,690,243,397,50,DEM,County Recorder,,"MANUZ, BERTA",005 Morenci
+Greenlee,195,80,100,15,DEM,County Recorder,,"MANUZ, BERTA",006 East Plantsite
+Greenlee,468,126,327,15,DEM,County Recorder,,"MANUZ, BERTA",007 York/Sheldon
+Greenlee,613,173,418,22,DEM,County Recorder,,"MANUZ, BERTA",008 Duncan
+Greenlee,0,0,0,0,NON,County Recorder,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,County Recorder,,WRITE-IN,002 Blue
+Greenlee,1,0,1,0,NON,County Recorder,,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,County Recorder,,WRITE-IN,004 Clifton 2
+Greenlee,7,3,1,3,NON,County Recorder,,WRITE-IN,005 Morenci
+Greenlee,3,1,2,0,NON,County Recorder,,WRITE-IN,006 East Plantsite
+Greenlee,6,4,1,1,NON,County Recorder,,WRITE-IN,007 York/Sheldon
+Greenlee,10,7,1,2,NON,County Recorder,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,County Recorder,,OVER VOTES,008 Duncan
+Greenlee,6,0,6,0,,County Recorder,,UNDER VOTES,001 Eagle
+Greenlee,3,0,3,0,,County Recorder,,UNDER VOTES,002 Blue
+Greenlee,61,9,50,2,,County Recorder,,UNDER VOTES,003 Clifton 1
+Greenlee,30,3,27,0,,County Recorder,,UNDER VOTES,004 Clifton 2
+Greenlee,86,16,68,2,,County Recorder,,UNDER VOTES,005 Morenci
+Greenlee,38,7,31,0,,County Recorder,,UNDER VOTES,006 East Plantsite
+Greenlee,73,12,59,2,,County Recorder,,UNDER VOTES,007 York/Sheldon
+Greenlee,89,12,73,4,,County Recorder,,UNDER VOTES,008 Duncan
+Greenlee,11,1,10,0,DEM,County Assessor,,"DURR, LINDA",001 Eagle
+Greenlee,17,10,7,0,DEM,County Assessor,,"DURR, LINDA",002 Blue
+Greenlee,411,78,323,10,DEM,County Assessor,,"DURR, LINDA",003 Clifton 1
+Greenlee,270,61,204,5,DEM,County Assessor,,"DURR, LINDA",004 Clifton 2
+Greenlee,413,150,238,25,DEM,County Assessor,,"DURR, LINDA",005 Morenci
+Greenlee,105,37,59,9,DEM,County Assessor,,"DURR, LINDA",006 East Plantsite
+Greenlee,283,69,208,6,DEM,County Assessor,,"DURR, LINDA",007 York/Sheldon
+Greenlee,392,99,276,17,DEM,County Assessor,,"DURR, LINDA",008 Duncan
+Greenlee,2,0,2,0,IND,County Assessor,,"REED, DOUGLAS",001 Eagle
+Greenlee,10,2,8,0,IND,County Assessor,,"REED, DOUGLAS",002 Blue
+Greenlee,194,48,135,11,IND,County Assessor,,"REED, DOUGLAS",003 Clifton 1
+Greenlee,146,27,113,6,IND,County Assessor,,"REED, DOUGLAS",004 Clifton 2
+Greenlee,317,103,188,26,IND,County Assessor,,"REED, DOUGLAS",005 Morenci
+Greenlee,108,44,58,6,IND,County Assessor,,"REED, DOUGLAS",006 East Plantsite
+Greenlee,253,71,173,9,IND,County Assessor,,"REED, DOUGLAS",007 York/Sheldon
+Greenlee,290,89,192,9,IND,County Assessor,,"REED, DOUGLAS",008 Duncan
+Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,001 Eagle
+Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,002 Blue
+Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,003 Clifton 1
+Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,004 Clifton 2
+Greenlee,0,0,0,0,NON,County Assessor,,WRITE-IN,005 Morenci
+Greenlee,2,1,1,0,NON,County Assessor,,WRITE-IN,006 East Plantsite
+Greenlee,1,0,0,1,NON,County Assessor,,WRITE-IN,007 York/Sheldon
+Greenlee,2,1,0,1,NON,County Assessor,,WRITE-IN,008 Duncan
+Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,County Assessor,,OVER VOTES,008 Duncan
+Greenlee,3,0,3,0,,County Assessor,,UNDER VOTES,001 Eagle
+Greenlee,2,0,2,0,,County Assessor,,UNDER VOTES,002 Blue
+Greenlee,21,3,18,0,,County Assessor,,UNDER VOTES,003 Clifton 1
+Greenlee,11,4,7,0,,County Assessor,,UNDER VOTES,004 Clifton 2
+Greenlee,53,9,40,4,,County Assessor,,UNDER VOTES,005 Morenci
+Greenlee,21,6,15,0,,County Assessor,,UNDER VOTES,006 East Plantsite
+Greenlee,10,2,6,2,,County Assessor,,UNDER VOTES,007 York/Sheldon
+Greenlee,28,3,24,1,,County Assessor,,UNDER VOTES,008 Duncan
+Greenlee,10,1,9,0,NON,Justice Supreme Court-TIMMER,,YES,001 Eagle
+Greenlee,17,7,10,0,NON,Justice Supreme Court-TIMMER,,YES,002 Blue
+Greenlee,418,89,314,15,NON,Justice Supreme Court-TIMMER,,YES,003 Clifton 1
+Greenlee,285,67,209,9,NON,Justice Supreme Court-TIMMER,,YES,004 Clifton 2
+Greenlee,538,212,289,37,NON,Justice Supreme Court-TIMMER,,YES,005 Morenci
+Greenlee,165,70,84,11,NON,Justice Supreme Court-TIMMER,,YES,006 East Plantsite
+Greenlee,343,105,223,15,NON,Justice Supreme Court-TIMMER,,YES,007 York/Sheldon
+Greenlee,457,146,293,18,NON,Justice Supreme Court-TIMMER,,YES,008 Duncan
+Greenlee,3,0,3,0,NON,Justice Supreme Court-TIMMER,,NO,001 Eagle
+Greenlee,4,1,3,0,NON,Justice Supreme Court-TIMMER,,NO,002 Blue
+Greenlee,93,32,56,5,NON,Justice Supreme Court-TIMMER,,NO,003 Clifton 1
+Greenlee,57,15,40,2,NON,Justice Supreme Court-TIMMER,,NO,004 Clifton 2
+Greenlee,131,42,73,16,NON,Justice Supreme Court-TIMMER,,NO,005 Morenci
+Greenlee,40,15,21,4,NON,Justice Supreme Court-TIMMER,,NO,006 East Plantsite
+Greenlee,68,22,45,1,NON,Justice Supreme Court-TIMMER,,NO,007 York/Sheldon
+Greenlee,128,36,85,7,NON,Justice Supreme Court-TIMMER,,NO,008 Duncan
+Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,008 Duncan
+Greenlee,3,0,3,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,001 Eagle
+Greenlee,8,4,4,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,002 Blue
+Greenlee,115,8,106,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,003 Clifton 1
+Greenlee,85,10,75,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,004 Clifton 2
+Greenlee,114,8,104,2,,Justice Supreme Court-TIMMER,,UNDER VOTES,005 Morenci
+Greenlee,31,3,28,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,006 East Plantsite
+Greenlee,136,15,119,2,,Justice Supreme Court-TIMMER,,UNDER VOTES,007 York/Sheldon
+Greenlee,127,10,114,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,008 Duncan
+Greenlee,214,47,157,10,NON,QUESTION DUNCAN USD DIST. NO. 2,,"BUDGET OVERRIDE CONTINUATION, YES",007 York/Sheldon
+Greenlee,394,125,249,20,NON,QUESTION DUNCAN USD DIST. NO. 2,,"BUDGET OVERRIDE CONTINUATION, YES",008 Duncan
+Greenlee,260,84,169,7,NON,QUESTION DUNCAN USD DIST. NO. 2,,"BUDGET OVERRIDE CONTINUATION, NO",007 York/Sheldon
+Greenlee,254,65,182,7,NON,QUESTION DUNCAN USD DIST. NO. 2,,"BUDGET OVERRIDE CONTINUATION, NO",008 Duncan
+Greenlee,0,0,0,0,,QUESTION DUNCAN USD DIST. NO. 2,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,QUESTION DUNCAN USD DIST. NO. 2,,OVER VOTES,008 Duncan
+Greenlee,68,11,56,1,,QUESTION DUNCAN USD DIST. NO. 2,,UNDER VOTES,007 York/Sheldon
+Greenlee,64,2,61,1,,QUESTION DUNCAN USD DIST. NO. 2,,UNDER VOTES,008 Duncan
+Greenlee,6,0,6,0,NON,PROPOSITION 205,,YES,001 Eagle
+Greenlee,11,4,7,0,NON,PROPOSITION 205,,YES,002 Blue
+Greenlee,327,81,229,17,NON,PROPOSITION 205,,YES,003 Clifton 1
+Greenlee,164,46,112,6,NON,PROPOSITION 205,,YES,004 Clifton 2
+Greenlee,412,134,244,34,NON,PROPOSITION 205,,YES,005 Morenci
+Greenlee,130,53,65,12,NON,PROPOSITION 205,,YES,006 East Plantsite
+Greenlee,225,70,145,10,NON,PROPOSITION 205,,YES,007 York/Sheldon
+Greenlee,268,74,180,14,NON,PROPOSITION 205,,YES,008 Duncan
+Greenlee,9,1,8,0,NON,PROPOSITION 205,,NO,001 Eagle
+Greenlee,15,7,8,0,NON,PROPOSITION 205,,NO,002 Blue
+Greenlee,251,47,200,4,NON,PROPOSITION 205,,NO,003 Clifton 1
+Greenlee,235,46,184,5,NON,PROPOSITION 205,,NO,004 Clifton 2
+Greenlee,325,127,178,20,NON,PROPOSITION 205,,NO,005 Morenci
+Greenlee,92,35,54,3,NON,PROPOSITION 205,,NO,006 East Plantsite
+Greenlee,295,70,217,8,NON,PROPOSITION 205,,NO,007 York/Sheldon
+Greenlee,408,114,280,14,NON,PROPOSITION 205,,NO,008 Duncan
+Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,PROPOSITION 205,,OVER VOTES,008 Duncan
+Greenlee,1,0,1,0,,PROPOSITION 205,,UNDER VOTES,001 Eagle
+Greenlee,3,1,2,0,,PROPOSITION 205,,UNDER VOTES,002 Blue
+Greenlee,48,1,47,0,,PROPOSITION 205,,UNDER VOTES,003 Clifton 1
+Greenlee,28,0,28,0,,PROPOSITION 205,,UNDER VOTES,004 Clifton 2
+Greenlee,46,1,44,1,,PROPOSITION 205,,UNDER VOTES,005 Morenci
+Greenlee,14,0,14,0,,PROPOSITION 205,,UNDER VOTES,006 East Plantsite
+Greenlee,27,2,25,0,,PROPOSITION 205,,UNDER VOTES,007 York/Sheldon
+Greenlee,36,4,32,0,,PROPOSITION 205,,UNDER VOTES,008 Duncan
+Greenlee,4,1,3,0,NON,PROPOSITION 206,,YES,001 Eagle
+Greenlee,5,2,3,0,NON,PROPOSITION 206,,YES,002 Blue
+Greenlee,438,92,333,13,NON,PROPOSITION 206,,YES,003 Clifton 1
+Greenlee,260,53,199,8,NON,PROPOSITION 206,,YES,004 Clifton 2
+Greenlee,421,142,248,31,NON,PROPOSITION 206,,YES,005 Morenci
+Greenlee,121,48,62,11,NON,PROPOSITION 206,,YES,006 East Plantsite
+Greenlee,280,65,207,8,NON,PROPOSITION 206,,YES,007 York/Sheldon
+Greenlee,324,80,229,15,NON,PROPOSITION 206,,YES,008 Duncan
+Greenlee,11,0,11,0,NON,PROPOSITION 206,,NO,001 Eagle
+Greenlee,21,9,12,0,NON,PROPOSITION 206,,NO,002 Blue
+Greenlee,135,34,94,7,NON,PROPOSITION 206,,NO,003 Clifton 1
+Greenlee,136,37,96,3,NON,PROPOSITION 206,,NO,004 Clifton 2
+Greenlee,314,119,173,22,NON,PROPOSITION 206,,NO,005 Morenci
+Greenlee,99,40,55,4,NON,PROPOSITION 206,,NO,006 East Plantsite
+Greenlee,237,74,153,10,NON,PROPOSITION 206,,NO,007 York/Sheldon
+Greenlee,350,110,227,13,NON,PROPOSITION 206,,NO,008 Duncan
+Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,001 Eagle
+Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,002 Blue
+Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,003 Clifton 1
+Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,004 Clifton 2
+Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,005 Morenci
+Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,006 East Plantsite
+Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,007 York/Sheldon
+Greenlee,0,0,0,0,,PROPOSITION 206,,OVER VOTES,008 Duncan
+Greenlee,1,0,1,0,,PROPOSITION 206,,UNDER VOTES,001 Eagle
+Greenlee,3,1,2,0,,PROPOSITION 206,,UNDER VOTES,002 Blue
+Greenlee,53,3,49,1,,PROPOSITION 206,,UNDER VOTES,003 Clifton 1
+Greenlee,31,2,29,0,,PROPOSITION 206,,UNDER VOTES,004 Clifton 2
+Greenlee,48,1,45,2,,PROPOSITION 206,,UNDER VOTES,005 Morenci
+Greenlee,16,0,16,0,,PROPOSITION 206,,UNDER VOTES,006 East Plantsite
+Greenlee,30,3,27,0,,PROPOSITION 206,,UNDER VOTES,007 York/Sheldon
+Greenlee,38,2,36,0,,PROPOSITION 206,,UNDER VOTES,008 Duncan

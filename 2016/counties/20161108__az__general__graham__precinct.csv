@@ -1,0 +1,2187 @@
+county,votes,election_day,early_voting,provisional,party,office,district,candidate,precinct
+Graham,990,0,0,0,,Registered Voters,,REGISTERED VOTERS,Solomon #1
+Graham,1482,0,0,0,,Registered Voters,,REGISTERED VOTERS,Safford #2
+Graham,668,0,0,0,,Registered Voters,,REGISTERED VOTERS,Safford #3
+Graham,513,0,0,0,,Registered Voters,,REGISTERED VOTERS,Layton #4
+Graham,1278,0,0,0,,Registered Voters,,REGISTERED VOTERS,Layton #5
+Graham,763,0,0,0,,Registered Voters,,REGISTERED VOTERS,Thatcher #6
+Graham,1625,0,0,0,,Registered Voters,,REGISTERED VOTERS,Thatcher #7
+Graham,552,0,0,0,,Registered Voters,,REGISTERED VOTERS,Central #8
+Graham,2159,0,0,0,,Registered Voters,,REGISTERED VOTERS,Pima #9
+Graham,250,0,0,0,,Registered Voters,,REGISTERED VOTERS,Ft Thomas #10
+Graham,1250,0,0,0,,Registered Voters,,REGISTERED VOTERS,Bylas #11
+Graham,57,0,0,0,,Registered Voters,,REGISTERED VOTERS,Klondyke #12
+Graham,146,0,0,0,,Registered Voters,,REGISTERED VOTERS,Bonita #13
+Graham,327,0,0,0,,Registered Voters,,REGISTERED VOTERS,Thunderbird #14
+Graham,1527,0,0,0,,Registered Voters,,REGISTERED VOTERS,Safford #15
+Graham,989,0,0,0,,Registered Voters,,REGISTERED VOTERS,Peridot #16
+Graham,213,0,0,0,,Registered Voters,,REGISTERED VOTERS,Cactus #17
+Graham,1093,0,0,0,,Registered Voters,,REGISTERED VOTERS,Jackson #18
+Graham,1101,0,0,0,,Registered Voters,,REGISTERED VOTERS,Desert Hills #19
+Graham,701,0,0,0,,Registered Voters,,REGISTERED VOTERS,Artesia #20
+Graham,88,0,0,0,,Registered Voters,,REGISTERED VOTERS,Quatro Cerros #21
+Graham,34,0,0,0,,Registered Voters,,REGISTERED VOTERS,Gila River #22
+Graham,705,226,474,5,,Ballots Cast,,BALLOTS CAST,Solomon #1
+Graham,953,321,610,22,,Ballots Cast,,BALLOTS CAST,Safford #2
+Graham,489,122,363,4,,Ballots Cast,,BALLOTS CAST,Safford #3
+Graham,386,103,280,3,,Ballots Cast,,BALLOTS CAST,Layton #4
+Graham,930,267,648,15,,Ballots Cast,,BALLOTS CAST,Layton #5
+Graham,584,197,379,8,,Ballots Cast,,BALLOTS CAST,Thatcher #6
+Graham,1214,385,806,23,,Ballots Cast,,BALLOTS CAST,Thatcher #7
+Graham,451,167,282,2,,Ballots Cast,,BALLOTS CAST,Central #8
+Graham,1615,643,943,29,,Ballots Cast,,BALLOTS CAST,Pima #9
+Graham,195,75,120,0,,Ballots Cast,,BALLOTS CAST,Ft Thomas #10
+Graham,714,562,150,2,,Ballots Cast,,BALLOTS CAST,Bylas #11
+Graham,44,2,42,0,,Ballots Cast,,BALLOTS CAST,Klondyke #12
+Graham,121,51,67,3,,Ballots Cast,,BALLOTS CAST,Bonita #13
+Graham,245,81,161,3,,Ballots Cast,,BALLOTS CAST,Thunderbird #14
+Graham,1079,270,793,16,,Ballots Cast,,BALLOTS CAST,Safford #15
+Graham,421,350,71,0,,Ballots Cast,,BALLOTS CAST,Peridot #16
+Graham,156,41,113,2,,Ballots Cast,,BALLOTS CAST,Cactus #17
+Graham,847,292,544,11,,Ballots Cast,,BALLOTS CAST,Jackson #18
+Graham,783,236,534,13,,Ballots Cast,,BALLOTS CAST,Desert Hills #19
+Graham,517,178,331,8,,Ballots Cast,,BALLOTS CAST,Artesia #20
+Graham,65,14,51,0,,Ballots Cast,,BALLOTS CAST,Quatro Cerros #21
+Graham,21,4,17,0,,Ballots Cast,,BALLOTS CAST,Gila River #22
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Solomon #1
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Safford #2
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Safford #3
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Layton #4
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Layton #5
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Thatcher #6
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Thatcher #7
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Central #8
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Pima #9
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Ft Thomas #10
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Bylas #11
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Klondyke #12
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Bonita #13
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Thunderbird #14
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Safford #15
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Peridot #16
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Cactus #17
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Jackson #18
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Desert Hills #19
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Artesia #20
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Quatro Cerros #21
+Graham,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Gila River #22
+Graham,428,141,285,2,REP,President,,"TRUMP, PENCE",Solomon #1
+Graham,565,205,344,16,REP,President,,"TRUMP, PENCE",Safford #2
+Graham,334,87,244,3,REP,President,,"TRUMP, PENCE",Safford #3
+Graham,207,72,133,2,REP,President,,"TRUMP, PENCE",Layton #4
+Graham,587,174,403,10,REP,President,,"TRUMP, PENCE",Layton #5
+Graham,451,160,285,6,REP,President,,"TRUMP, PENCE",Thatcher #6
+Graham,847,289,541,17,REP,President,,"TRUMP, PENCE",Thatcher #7
+Graham,374,143,230,1,REP,President,,"TRUMP, PENCE",Central #8
+Graham,1239,509,706,24,REP,President,,"TRUMP, PENCE",Pima #9
+Graham,159,68,91,0,REP,President,,"TRUMP, PENCE",Ft Thomas #10
+Graham,42,27,14,1,REP,President,,"TRUMP, PENCE",Bylas #11
+Graham,28,1,27,0,REP,President,,"TRUMP, PENCE",Klondyke #12
+Graham,105,44,58,3,REP,President,,"TRUMP, PENCE",Bonita #13
+Graham,186,55,128,3,REP,President,,"TRUMP, PENCE",Thunderbird #14
+Graham,620,163,447,10,REP,President,,"TRUMP, PENCE",Safford #15
+Graham,40,31,9,0,REP,President,,"TRUMP, PENCE",Peridot #16
+Graham,109,33,74,2,REP,President,,"TRUMP, PENCE",Cactus #17
+Graham,635,231,394,10,REP,President,,"TRUMP, PENCE",Jackson #18
+Graham,606,202,394,10,REP,President,,"TRUMP, PENCE",Desert Hills #19
+Graham,400,146,248,6,REP,President,,"TRUMP, PENCE",Artesia #20
+Graham,52,12,40,0,REP,President,,"TRUMP, PENCE",Quatro Cerros #21
+Graham,11,3,8,0,REP,President,,"TRUMP, PENCE",Gila River #22
+Graham,205,61,142,2,DEM,President,,"CLINTON, KAINE",Solomon #1
+Graham,302,85,212,5,DEM,President,,"CLINTON, KAINE",Safford #2
+Graham,113,28,84,1,DEM,President,,"CLINTON, KAINE",Safford #3
+Graham,136,22,113,1,DEM,President,,"CLINTON, KAINE",Layton #4
+Graham,248,65,180,3,DEM,President,,"CLINTON, KAINE",Layton #5
+Graham,61,15,45,1,DEM,President,,"CLINTON, KAINE",Thatcher #6
+Graham,223,52,168,3,DEM,President,,"CLINTON, KAINE",Thatcher #7
+Graham,33,8,25,0,DEM,President,,"CLINTON, KAINE",Central #8
+Graham,225,83,138,4,DEM,President,,"CLINTON, KAINE",Pima #9
+Graham,22,5,17,0,DEM,President,,"CLINTON, KAINE",Ft Thomas #10
+Graham,605,491,113,1,DEM,President,,"CLINTON, KAINE",Bylas #11
+Graham,15,1,14,0,DEM,President,,"CLINTON, KAINE",Klondyke #12
+Graham,13,6,7,0,DEM,President,,"CLINTON, KAINE",Bonita #13
+Graham,40,18,22,0,DEM,President,,"CLINTON, KAINE",Thunderbird #14
+Graham,349,75,270,4,DEM,President,,"CLINTON, KAINE",Safford #15
+Graham,349,291,58,0,DEM,President,,"CLINTON, KAINE",Peridot #16
+Graham,37,5,32,0,DEM,President,,"CLINTON, KAINE",Cactus #17
+Graham,117,32,85,0,DEM,President,,"CLINTON, KAINE",Jackson #18
+Graham,108,21,86,1,DEM,President,,"CLINTON, KAINE",Desert Hills #19
+Graham,80,24,55,1,DEM,President,,"CLINTON, KAINE",Artesia #20
+Graham,10,1,9,0,DEM,President,,"CLINTON, KAINE",Quatro Cerros #21
+Graham,10,1,9,0,DEM,President,,"CLINTON, KAINE",Gila River #22
+Graham,29,12,16,1,LBT,President,,"JOHNSON, WELD",Solomon #1
+Graham,37,17,20,0,LBT,President,,"JOHNSON, WELD",Safford #2
+Graham,23,5,18,0,LBT,President,,"JOHNSON, WELD",Safford #3
+Graham,19,4,15,0,LBT,President,,"JOHNSON, WELD",Layton #4
+Graham,43,14,28,1,LBT,President,,"JOHNSON, WELD",Layton #5
+Graham,27,6,20,1,LBT,President,,"JOHNSON, WELD",Thatcher #6
+Graham,56,19,36,1,LBT,President,,"JOHNSON, WELD",Thatcher #7
+Graham,17,7,10,0,LBT,President,,"JOHNSON, WELD",Central #8
+Graham,47,19,28,0,LBT,President,,"JOHNSON, WELD",Pima #9
+Graham,5,0,5,0,LBT,President,,"JOHNSON, WELD",Ft Thomas #10
+Graham,18,11,7,0,LBT,President,,"JOHNSON, WELD",Bylas #11
+Graham,1,0,1,0,LBT,President,,"JOHNSON, WELD",Klondyke #12
+Graham,2,1,1,0,LBT,President,,"JOHNSON, WELD",Bonita #13
+Graham,12,5,7,0,LBT,President,,"JOHNSON, WELD",Thunderbird #14
+Graham,60,19,39,2,LBT,President,,"JOHNSON, WELD",Safford #15
+Graham,8,8,0,0,LBT,President,,"JOHNSON, WELD",Peridot #16
+Graham,6,2,4,0,LBT,President,,"JOHNSON, WELD",Cactus #17
+Graham,38,13,24,1,LBT,President,,"JOHNSON, WELD",Jackson #18
+Graham,26,4,20,2,LBT,President,,"JOHNSON, WELD",Desert Hills #19
+Graham,21,6,15,0,LBT,President,,"JOHNSON, WELD",Artesia #20
+Graham,2,1,1,0,LBT,President,,"JOHNSON, WELD",Quatro Cerros #21
+Graham,0,0,0,0,LBT,President,,"JOHNSON, WELD",Gila River #22
+Graham,5,2,3,0,GRN,President,,"STEIN, BARAKA",Solomon #1
+Graham,12,1,11,0,GRN,President,,"STEIN, BARAKA",Safford #2
+Graham,3,1,2,0,GRN,President,,"STEIN, BARAKA",Safford #3
+Graham,4,3,1,0,GRN,President,,"STEIN, BARAKA",Layton #4
+Graham,10,3,7,0,GRN,President,,"STEIN, BARAKA",Layton #5
+Graham,3,1,2,0,GRN,President,,"STEIN, BARAKA",Thatcher #6
+Graham,10,3,6,1,GRN,President,,"STEIN, BARAKA",Thatcher #7
+Graham,3,2,1,0,GRN,President,,"STEIN, BARAKA",Central #8
+Graham,16,6,10,0,GRN,President,,"STEIN, BARAKA",Pima #9
+Graham,2,0,2,0,GRN,President,,"STEIN, BARAKA",Ft Thomas #10
+Graham,6,5,1,0,GRN,President,,"STEIN, BARAKA",Bylas #11
+Graham,0,0,0,0,GRN,President,,"STEIN, BARAKA",Klondyke #12
+Graham,0,0,0,0,GRN,President,,"STEIN, BARAKA",Bonita #13
+Graham,1,1,0,0,GRN,President,,"STEIN, BARAKA",Thunderbird #14
+Graham,13,4,9,0,GRN,President,,"STEIN, BARAKA",Safford #15
+Graham,8,6,2,0,GRN,President,,"STEIN, BARAKA",Peridot #16
+Graham,1,1,0,0,GRN,President,,"STEIN, BARAKA",Cactus #17
+Graham,8,4,4,0,GRN,President,,"STEIN, BARAKA",Jackson #18
+Graham,8,2,6,0,GRN,President,,"STEIN, BARAKA",Desert Hills #19
+Graham,3,2,1,0,GRN,President,,"STEIN, BARAKA",Artesia #20
+Graham,0,0,0,0,GRN,President,,"STEIN, BARAKA",Quatro Cerros #21
+Graham,0,0,0,0,GRN,President,,"STEIN, BARAKA",Gila River #22
+Graham,16,3,13,0,NON,President,,WRITE-IN,Solomon #1
+Graham,17,9,8,0,NON,President,,WRITE-IN,Safford #2
+Graham,6,1,5,0,NON,President,,WRITE-IN,Safford #3
+Graham,12,1,11,0,NON,President,,WRITE-IN,Layton #4
+Graham,25,8,16,1,NON,President,,WRITE-IN,Layton #5
+Graham,32,12,20,0,NON,President,,WRITE-IN,Thatcher #6
+Graham,50,14,35,1,NON,President,,WRITE-IN,Thatcher #7
+Graham,18,6,11,1,NON,President,,WRITE-IN,Central #8
+Graham,53,18,34,1,NON,President,,WRITE-IN,Pima #9
+Graham,1,1,0,0,NON,President,,WRITE-IN,Ft Thomas #10
+Graham,19,15,4,0,NON,President,,WRITE-IN,Bylas #11
+Graham,0,0,0,0,NON,President,,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,NON,President,,WRITE-IN,Bonita #13
+Graham,4,1,3,0,NON,President,,WRITE-IN,Thunderbird #14
+Graham,13,4,9,0,NON,President,,WRITE-IN,Safford #15
+Graham,3,2,1,0,NON,President,,WRITE-IN,Peridot #16
+Graham,3,0,3,0,NON,President,,WRITE-IN,Cactus #17
+Graham,37,8,29,0,NON,President,,WRITE-IN,Jackson #18
+Graham,21,4,17,0,NON,President,,WRITE-IN,Desert Hills #19
+Graham,11,0,10,1,NON,President,,WRITE-IN,Artesia #20
+Graham,1,0,1,0,NON,President,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,President,,WRITE-IN,Gila River #22
+Graham,1,1,0,0,,President,,OVER VOTES,Solomon #1
+Graham,6,0,6,0,,President,,OVER VOTES,Safford #2
+Graham,1,0,1,0,,President,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,President,,OVER VOTES,Layton #4
+Graham,6,0,6,0,,President,,OVER VOTES,Layton #5
+Graham,3,1,2,0,,President,,OVER VOTES,Thatcher #6
+Graham,3,1,2,0,,President,,OVER VOTES,Thatcher #7
+Graham,1,1,0,0,,President,,OVER VOTES,Central #8
+Graham,3,1,2,0,,President,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,President,,OVER VOTES,Ft Thomas #10
+Graham,6,3,3,0,,President,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,President,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,President,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,President,,OVER VOTES,Thunderbird #14
+Graham,5,1,4,0,,President,,OVER VOTES,Safford #15
+Graham,5,5,0,0,,President,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,President,,OVER VOTES,Cactus #17
+Graham,2,0,2,0,,President,,OVER VOTES,Jackson #18
+Graham,3,0,3,0,,President,,OVER VOTES,Desert Hills #19
+Graham,2,0,2,0,,President,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,President,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,President,,OVER VOTES,Gila River #22
+Graham,21,6,15,0,,President,,UNDER VOTES,Solomon #1
+Graham,14,4,9,1,,President,,UNDER VOTES,Safford #2
+Graham,9,0,9,0,,President,,UNDER VOTES,Safford #3
+Graham,8,1,7,0,,President,,UNDER VOTES,Layton #4
+Graham,11,3,8,0,,President,,UNDER VOTES,Layton #5
+Graham,7,2,5,0,,President,,UNDER VOTES,Thatcher #6
+Graham,25,7,18,0,,President,,UNDER VOTES,Thatcher #7
+Graham,5,0,5,0,,President,,UNDER VOTES,Central #8
+Graham,32,7,25,0,,President,,UNDER VOTES,Pima #9
+Graham,6,1,5,0,,President,,UNDER VOTES,Ft Thomas #10
+Graham,18,10,8,0,,President,,UNDER VOTES,Bylas #11
+Graham,0,0,0,0,,President,,UNDER VOTES,Klondyke #12
+Graham,1,0,1,0,,President,,UNDER VOTES,Bonita #13
+Graham,2,1,1,0,,President,,UNDER VOTES,Thunderbird #14
+Graham,19,4,15,0,,President,,UNDER VOTES,Safford #15
+Graham,8,7,1,0,,President,,UNDER VOTES,Peridot #16
+Graham,0,0,0,0,,President,,UNDER VOTES,Cactus #17
+Graham,10,4,6,0,,President,,UNDER VOTES,Jackson #18
+Graham,11,3,8,0,,President,,UNDER VOTES,Desert Hills #19
+Graham,0,0,0,0,,President,,UNDER VOTES,Artesia #20
+Graham,0,0,0,0,,President,,UNDER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,President,,UNDER VOTES,Gila River #22
+Graham,394,128,264,2,REP,U.S. Senate,,"MCCAIN, JOHN",Solomon #1
+Graham,558,211,331,16,REP,U.S. Senate,,"MCCAIN, JOHN",Safford #2
+Graham,319,81,235,3,REP,U.S. Senate,,"MCCAIN, JOHN",Safford #3
+Graham,226,62,162,2,REP,U.S. Senate,,"MCCAIN, JOHN",Layton #4
+Graham,590,169,411,10,REP,U.S. Senate,,"MCCAIN, JOHN",Layton #5
+Graham,442,158,277,7,REP,U.S. Senate,,"MCCAIN, JOHN",Thatcher #6
+Graham,837,281,538,18,REP,U.S. Senate,,"MCCAIN, JOHN",Thatcher #7
+Graham,370,134,234,2,REP,U.S. Senate,,"MCCAIN, JOHN",Central #8
+Graham,1122,464,639,19,REP,U.S. Senate,,"MCCAIN, JOHN",Pima #9
+Graham,131,54,77,0,REP,U.S. Senate,,"MCCAIN, JOHN",Ft Thomas #10
+Graham,133,107,25,1,REP,U.S. Senate,,"MCCAIN, JOHN",Bylas #11
+Graham,19,1,18,0,REP,U.S. Senate,,"MCCAIN, JOHN",Klondyke #12
+Graham,90,42,45,3,REP,U.S. Senate,,"MCCAIN, JOHN",Bonita #13
+Graham,159,51,105,3,REP,U.S. Senate,,"MCCAIN, JOHN",Thunderbird #14
+Graham,633,165,457,11,REP,U.S. Senate,,"MCCAIN, JOHN",Safford #15
+Graham,75,66,9,0,REP,U.S. Senate,,"MCCAIN, JOHN",Peridot #16
+Graham,102,28,72,2,REP,U.S. Senate,,"MCCAIN, JOHN",Cactus #17
+Graham,633,228,394,11,REP,U.S. Senate,,"MCCAIN, JOHN",Jackson #18
+Graham,508,159,340,9,REP,U.S. Senate,,"MCCAIN, JOHN",Desert Hills #19
+Graham,341,126,210,5,REP,U.S. Senate,,"MCCAIN, JOHN",Artesia #20
+Graham,37,6,31,0,REP,U.S. Senate,,"MCCAIN, JOHN",Quatro Cerros #21
+Graham,9,3,6,0,REP,U.S. Senate,,"MCCAIN, JOHN",Gila River #22
+Graham,217,61,153,3,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Solomon #1
+Graham,303,89,211,3,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Safford #2
+Graham,113,31,81,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Safford #3
+Graham,120,26,93,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Layton #4
+Graham,246,73,171,2,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Layton #5
+Graham,66,17,49,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Thatcher #6
+Graham,247,70,172,5,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Thatcher #7
+Graham,48,20,28,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Central #8
+Graham,258,107,146,5,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Pima #9
+Graham,26,8,18,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Ft Thomas #10
+Graham,503,395,107,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Bylas #11
+Graham,21,1,20,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Klondyke #12
+Graham,17,8,9,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Bonita #13
+Graham,49,21,28,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Thunderbird #14
+Graham,318,76,237,5,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Safford #15
+Graham,290,246,44,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Peridot #16
+Graham,36,11,25,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Cactus #17
+Graham,138,40,98,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Jackson #18
+Graham,157,37,119,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Desert Hills #19
+Graham,85,23,61,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Artesia #20
+Graham,14,5,9,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Quatro Cerros #21
+Graham,8,1,7,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Gila River #22
+Graham,52,25,27,0,GRN,U.S. Senate,,"SWING, GARY",Solomon #1
+Graham,51,12,37,2,GRN,U.S. Senate,,"SWING, GARY",Safford #2
+Graham,28,6,22,0,GRN,U.S. Senate,,"SWING, GARY",Safford #3
+Graham,21,9,12,0,GRN,U.S. Senate,,"SWING, GARY",Layton #4
+Graham,54,11,40,3,GRN,U.S. Senate,,"SWING, GARY",Layton #5
+Graham,43,16,26,1,GRN,U.S. Senate,,"SWING, GARY",Thatcher #6
+Graham,78,24,54,0,GRN,U.S. Senate,,"SWING, GARY",Thatcher #7
+Graham,18,10,8,0,GRN,U.S. Senate,,"SWING, GARY",Central #8
+Graham,122,36,83,3,GRN,U.S. Senate,,"SWING, GARY",Pima #9
+Graham,24,9,15,0,GRN,U.S. Senate,,"SWING, GARY",Ft Thomas #10
+Graham,46,36,10,0,GRN,U.S. Senate,,"SWING, GARY",Bylas #11
+Graham,2,0,2,0,GRN,U.S. Senate,,"SWING, GARY",Klondyke #12
+Graham,3,1,2,0,GRN,U.S. Senate,,"SWING, GARY",Bonita #13
+Graham,11,3,8,0,GRN,U.S. Senate,,"SWING, GARY",Thunderbird #14
+Graham,68,24,44,0,GRN,U.S. Senate,,"SWING, GARY",Safford #15
+Graham,47,31,16,0,GRN,U.S. Senate,,"SWING, GARY",Peridot #16
+Graham,10,2,8,0,GRN,U.S. Senate,,"SWING, GARY",Cactus #17
+Graham,44,16,28,0,GRN,U.S. Senate,,"SWING, GARY",Jackson #18
+Graham,72,22,49,1,GRN,U.S. Senate,,"SWING, GARY",Desert Hills #19
+Graham,62,20,40,2,GRN,U.S. Senate,,"SWING, GARY",Artesia #20
+Graham,12,3,9,0,GRN,U.S. Senate,,"SWING, GARY",Quatro Cerros #21
+Graham,3,0,3,0,GRN,U.S. Senate,,"SWING, GARY",Gila River #22
+Graham,10,4,6,0,NON,U.S. Senate,,WRITE-IN,Solomon #1
+Graham,11,3,8,0,NON,U.S. Senate,,WRITE-IN,Safford #2
+Graham,4,0,4,0,NON,U.S. Senate,,WRITE-IN,Safford #3
+Graham,2,1,1,0,NON,U.S. Senate,,WRITE-IN,Layton #4
+Graham,6,5,1,0,NON,U.S. Senate,,WRITE-IN,Layton #5
+Graham,7,2,5,0,NON,U.S. Senate,,WRITE-IN,Thatcher #6
+Graham,8,1,7,0,NON,U.S. Senate,,WRITE-IN,Thatcher #7
+Graham,1,0,1,0,NON,U.S. Senate,,WRITE-IN,Central #8
+Graham,26,7,18,1,NON,U.S. Senate,,WRITE-IN,Pima #9
+Graham,3,1,2,0,NON,U.S. Senate,,WRITE-IN,Ft Thomas #10
+Graham,1,1,0,0,NON,U.S. Senate,,WRITE-IN,Bylas #11
+Graham,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Klondyke #12
+Graham,4,0,4,0,NON,U.S. Senate,,WRITE-IN,Bonita #13
+Graham,3,3,0,0,NON,U.S. Senate,,WRITE-IN,Thunderbird #14
+Graham,5,0,5,0,NON,U.S. Senate,,WRITE-IN,Safford #15
+Graham,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Peridot #16
+Graham,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Cactus #17
+Graham,2,1,1,0,NON,U.S. Senate,,WRITE-IN,Jackson #18
+Graham,6,5,1,0,NON,U.S. Senate,,WRITE-IN,Desert Hills #19
+Graham,8,3,5,0,NON,U.S. Senate,,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,U.S. Senate,,OVER VOTES,Solomon #1
+Graham,3,1,2,0,,U.S. Senate,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Layton #4
+Graham,1,0,1,0,,U.S. Senate,,OVER VOTES,Layton #5
+Graham,1,0,1,0,,U.S. Senate,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Central #8
+Graham,6,2,4,0,,U.S. Senate,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Bonita #13
+Graham,1,0,1,0,,U.S. Senate,,OVER VOTES,Thunderbird #14
+Graham,1,0,1,0,,U.S. Senate,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Cactus #17
+Graham,1,0,1,0,,U.S. Senate,,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,U.S. Senate,,OVER VOTES,Gila River #22
+Graham,31,8,23,0,,U.S. Senate,,UNDER VOTES,Solomon #1
+Graham,27,5,21,1,,U.S. Senate,,UNDER VOTES,Safford #2
+Graham,25,4,21,0,,U.S. Senate,,UNDER VOTES,Safford #3
+Graham,17,5,12,0,,U.S. Senate,,UNDER VOTES,Layton #4
+Graham,33,9,24,0,,U.S. Senate,,UNDER VOTES,Layton #5
+Graham,25,4,21,0,,U.S. Senate,,UNDER VOTES,Thatcher #6
+Graham,44,9,35,0,,U.S. Senate,,UNDER VOTES,Thatcher #7
+Graham,14,3,11,0,,U.S. Senate,,UNDER VOTES,Central #8
+Graham,81,27,53,1,,U.S. Senate,,UNDER VOTES,Pima #9
+Graham,11,3,8,0,,U.S. Senate,,UNDER VOTES,Ft Thomas #10
+Graham,31,23,8,0,,U.S. Senate,,UNDER VOTES,Bylas #11
+Graham,2,0,2,0,,U.S. Senate,,UNDER VOTES,Klondyke #12
+Graham,7,0,7,0,,U.S. Senate,,UNDER VOTES,Bonita #13
+Graham,22,3,19,0,,U.S. Senate,,UNDER VOTES,Thunderbird #14
+Graham,54,5,49,0,,U.S. Senate,,UNDER VOTES,Safford #15
+Graham,9,7,2,0,,U.S. Senate,,UNDER VOTES,Peridot #16
+Graham,8,0,8,0,,U.S. Senate,,UNDER VOTES,Cactus #17
+Graham,29,7,22,0,,U.S. Senate,,UNDER VOTES,Jackson #18
+Graham,40,13,25,2,,U.S. Senate,,UNDER VOTES,Desert Hills #19
+Graham,21,6,15,0,,U.S. Senate,,UNDER VOTES,Artesia #20
+Graham,2,0,2,0,,U.S. Senate,,UNDER VOTES,Quatro Cerros #21
+Graham,1,0,1,0,,U.S. Senate,,UNDER VOTES,Gila River #22
+Graham,357,118,235,4,REP,U.S. House,1,"BABEU, PAUL",Solomon #1
+Graham,464,162,290,12,REP,U.S. House,1,"BABEU, PAUL",Safford #2
+Graham,285,72,210,3,REP,U.S. House,1,"BABEU, PAUL",Safford #3
+Graham,178,59,117,2,REP,U.S. House,1,"BABEU, PAUL",Layton #4
+Graham,491,145,337,9,REP,U.S. House,1,"BABEU, PAUL",Layton #5
+Graham,406,147,252,7,REP,U.S. House,1,"BABEU, PAUL",Thatcher #6
+Graham,695,240,440,15,REP,U.S. House,1,"BABEU, PAUL",Thatcher #7
+Graham,308,127,179,2,REP,U.S. House,1,"BABEU, PAUL",Central #8
+Graham,1029,426,586,17,REP,U.S. House,1,"BABEU, PAUL",Pima #9
+Graham,124,55,69,0,REP,U.S. House,1,"BABEU, PAUL",Ft Thomas #10
+Graham,110,92,18,0,REP,U.S. House,1,"BABEU, PAUL",Bylas #11
+Graham,19,1,18,0,REP,U.S. House,1,"BABEU, PAUL",Klondyke #12
+Graham,88,34,53,1,REP,U.S. House,1,"BABEU, PAUL",Bonita #13
+Graham,146,45,99,2,REP,U.S. House,1,"BABEU, PAUL",Thunderbird #14
+Graham,489,139,338,12,REP,U.S. House,1,"BABEU, PAUL",Safford #15
+Graham,60,49,11,0,REP,U.S. House,1,"BABEU, PAUL",Peridot #16
+Graham,80,24,54,2,REP,U.S. House,1,"BABEU, PAUL",Cactus #17
+Graham,554,202,344,8,REP,U.S. House,1,"BABEU, PAUL",Jackson #18
+Graham,486,173,304,9,REP,U.S. House,1,"BABEU, PAUL",Desert Hills #19
+Graham,308,115,186,7,REP,U.S. House,1,"BABEU, PAUL",Artesia #20
+Graham,32,6,26,0,REP,U.S. House,1,"BABEU, PAUL",Quatro Cerros #21
+Graham,6,2,4,0,REP,U.S. House,1,"BABEU, PAUL",Gila River #22
+Graham,250,78,172,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Solomon #1
+Graham,380,124,251,5,DEM,U.S. House,1,"O'HALLERAN, TOM",Safford #2
+Graham,153,40,112,1,DEM,U.S. House,1,"O'HALLERAN, TOM",Safford #3
+Graham,164,32,131,1,DEM,U.S. House,1,"O'HALLERAN, TOM",Layton #4
+Graham,343,92,248,3,DEM,U.S. House,1,"O'HALLERAN, TOM",Layton #5
+Graham,106,32,74,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Thatcher #6
+Graham,365,87,271,7,DEM,U.S. House,1,"O'HALLERAN, TOM",Thatcher #7
+Graham,92,24,68,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Central #8
+Graham,388,139,239,10,DEM,U.S. House,1,"O'HALLERAN, TOM",Pima #9
+Graham,45,13,32,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Ft Thomas #10
+Graham,529,411,117,1,DEM,U.S. House,1,"O'HALLERAN, TOM",Bylas #11
+Graham,18,1,17,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Klondyke #12
+Graham,24,15,9,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Bonita #13
+Graham,67,26,40,1,DEM,U.S. House,1,"O'HALLERAN, TOM",Thunderbird #14
+Graham,453,96,353,4,DEM,U.S. House,1,"O'HALLERAN, TOM",Safford #15
+Graham,322,269,53,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Peridot #16
+Graham,49,11,38,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Cactus #17
+Graham,200,53,144,3,DEM,U.S. House,1,"O'HALLERAN, TOM",Jackson #18
+Graham,185,27,156,2,DEM,U.S. House,1,"O'HALLERAN, TOM",Desert Hills #19
+Graham,146,44,101,1,DEM,U.S. House,1,"O'HALLERAN, TOM",Artesia #20
+Graham,23,6,17,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Quatro Cerros #21
+Graham,13,2,11,0,DEM,U.S. House,1,"O'HALLERAN, TOM",Gila River #22
+Graham,44,18,26,0,GRN,U.S. House,1,"PARRISH, RAY",Solomon #1
+Graham,71,26,42,3,GRN,U.S. House,1,"PARRISH, RAY",Safford #2
+Graham,19,4,15,0,GRN,U.S. House,1,"PARRISH, RAY",Safford #3
+Graham,18,5,13,0,GRN,U.S. House,1,"PARRISH, RAY",Layton #4
+Graham,46,15,28,3,GRN,U.S. House,1,"PARRISH, RAY",Layton #5
+Graham,26,7,18,1,GRN,U.S. House,1,"PARRISH, RAY",Thatcher #6
+Graham,78,33,45,0,GRN,U.S. House,1,"PARRISH, RAY",Thatcher #7
+Graham,23,6,17,0,GRN,U.S. House,1,"PARRISH, RAY",Central #8
+Graham,89,33,56,0,GRN,U.S. House,1,"PARRISH, RAY",Pima #9
+Graham,13,3,10,0,GRN,U.S. House,1,"PARRISH, RAY",Ft Thomas #10
+Graham,29,23,5,1,GRN,U.S. House,1,"PARRISH, RAY",Bylas #11
+Graham,2,0,2,0,GRN,U.S. House,1,"PARRISH, RAY",Klondyke #12
+Graham,2,1,1,0,GRN,U.S. House,1,"PARRISH, RAY",Bonita #13
+Graham,16,6,10,0,GRN,U.S. House,1,"PARRISH, RAY",Thunderbird #14
+Graham,70,23,47,0,GRN,U.S. House,1,"PARRISH, RAY",Safford #15
+Graham,23,19,4,0,GRN,U.S. House,1,"PARRISH, RAY",Peridot #16
+Graham,15,2,13,0,GRN,U.S. House,1,"PARRISH, RAY",Cactus #17
+Graham,46,20,26,0,GRN,U.S. House,1,"PARRISH, RAY",Jackson #18
+Graham,59,18,41,0,GRN,U.S. House,1,"PARRISH, RAY",Desert Hills #19
+Graham,35,10,25,0,GRN,U.S. House,1,"PARRISH, RAY",Artesia #20
+Graham,4,1,3,0,GRN,U.S. House,1,"PARRISH, RAY",Quatro Cerros #21
+Graham,1,0,1,0,GRN,U.S. House,1,"PARRISH, RAY",Gila River #22
+Graham,4,1,3,0,NON,U.S. House,1,WRITE-IN,Solomon #1
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Safford #2
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Safford #3
+Graham,1,0,1,0,NON,U.S. House,1,WRITE-IN,Layton #4
+Graham,1,1,0,0,NON,U.S. House,1,WRITE-IN,Layton #5
+Graham,2,1,1,0,NON,U.S. House,1,WRITE-IN,Thatcher #6
+Graham,5,1,4,0,NON,U.S. House,1,WRITE-IN,Thatcher #7
+Graham,1,1,0,0,NON,U.S. House,1,WRITE-IN,Central #8
+Graham,4,3,1,0,NON,U.S. House,1,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Ft Thomas #10
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Bylas #11
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Bonita #13
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Thunderbird #14
+Graham,2,0,2,0,NON,U.S. House,1,WRITE-IN,Safford #15
+Graham,2,1,1,0,NON,U.S. House,1,WRITE-IN,Peridot #16
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Cactus #17
+Graham,1,0,1,0,NON,U.S. House,1,WRITE-IN,Jackson #18
+Graham,8,5,3,0,NON,U.S. House,1,WRITE-IN,Desert Hills #19
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,U.S. House,1,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,U.S. House,1,OVER VOTES,Solomon #1
+Graham,3,0,3,0,,U.S. House,1,OVER VOTES,Safford #2
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Safford #3
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Layton #4
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Layton #5
+Graham,1,0,1,0,,U.S. House,1,OVER VOTES,Thatcher #6
+Graham,1,0,1,0,,U.S. House,1,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Central #8
+Graham,3,0,3,0,,U.S. House,1,OVER VOTES,Pima #9
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Ft Thomas #10
+Graham,1,1,0,0,,U.S. House,1,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Thunderbird #14
+Graham,2,1,1,0,,U.S. House,1,OVER VOTES,Safford #15
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Cactus #17
+Graham,2,0,2,0,,U.S. House,1,OVER VOTES,Jackson #18
+Graham,1,0,1,0,,U.S. House,1,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,U.S. House,1,OVER VOTES,Gila River #22
+Graham,49,11,37,1,,U.S. House,1,UNDER VOTES,Solomon #1
+Graham,35,9,24,2,,U.S. House,1,UNDER VOTES,Safford #2
+Graham,32,6,26,0,,U.S. House,1,UNDER VOTES,Safford #3
+Graham,25,7,18,0,,U.S. House,1,UNDER VOTES,Layton #4
+Graham,49,14,35,0,,U.S. House,1,UNDER VOTES,Layton #5
+Graham,43,10,33,0,,U.S. House,1,UNDER VOTES,Thatcher #6
+Graham,70,24,45,1,,U.S. House,1,UNDER VOTES,Thatcher #7
+Graham,27,9,18,0,,U.S. House,1,UNDER VOTES,Central #8
+Graham,102,42,58,2,,U.S. House,1,UNDER VOTES,Pima #9
+Graham,13,4,9,0,,U.S. House,1,UNDER VOTES,Ft Thomas #10
+Graham,45,35,10,0,,U.S. House,1,UNDER VOTES,Bylas #11
+Graham,5,0,5,0,,U.S. House,1,UNDER VOTES,Klondyke #12
+Graham,7,1,4,2,,U.S. House,1,UNDER VOTES,Bonita #13
+Graham,16,4,12,0,,U.S. House,1,UNDER VOTES,Thunderbird #14
+Graham,63,11,52,0,,U.S. House,1,UNDER VOTES,Safford #15
+Graham,14,12,2,0,,U.S. House,1,UNDER VOTES,Peridot #16
+Graham,12,4,8,0,,U.S. House,1,UNDER VOTES,Cactus #17
+Graham,44,17,27,0,,U.S. House,1,UNDER VOTES,Jackson #18
+Graham,44,13,29,2,,U.S. House,1,UNDER VOTES,Desert Hills #19
+Graham,28,9,19,0,,U.S. House,1,UNDER VOTES,Artesia #20
+Graham,6,1,5,0,,U.S. House,1,UNDER VOTES,Quatro Cerros #21
+Graham,1,0,1,0,,U.S. House,1,UNDER VOTES,Gila River #22
+Graham,576,448,126,2,DEM,State Senate,7,"PESHLAKAI, JAMESCITA",Bylas #11
+Graham,359,299,60,0,DEM,State Senate,7,"PESHLAKAI, JAMESCITA",Peridot #16
+Graham,2,2,0,0,NON,State Senate,7,WRITE-IN,Bylas #11
+Graham,2,1,1,0,NON,State Senate,7,WRITE-IN,Peridot #16
+Graham,0,0,0,0,,State Senate,7,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,State Senate,7,OVER VOTES,Peridot #16
+Graham,136,112,24,0,,State Senate,7,UNDER VOTES,Bylas #11
+Graham,60,50,10,0,,State Senate,7,UNDER VOTES,Peridot #16
+Graham,507,393,113,1,DEM,State Representative,7,"BENALLY, WENONA",Bylas #11
+Graham,274,222,52,0,DEM,State Representative,7,"BENALLY, WENONA",Peridot #16
+Graham,441,348,92,1,DEM,State Representative,7,"DESCHEENIE, ERIC",Bylas #11
+Graham,228,185,43,0,DEM,State Representative,7,"DESCHEENIE, ERIC",Peridot #16
+Graham,1,1,0,0,NON,State Representative,7,WRITE-IN,Bylas #11
+Graham,2,1,1,0,NON,State Representative,7,WRITE-IN,Peridot #16
+Graham,0,0,0,0,,State Representative,7,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,State Representative,7,OVER VOTES,Peridot #16
+Graham,479,382,95,2,,State Representative,7,UNDER VOTES,Bylas #11
+Graham,338,292,46,0,,State Representative,7,UNDER VOTES,Peridot #16
+Graham,407,130,275,2,REP,State Senate,14,"GRIFFIN, GAIL",Solomon #1
+Graham,541,190,335,16,REP,State Senate,14,"GRIFFIN, GAIL",Safford #2
+Graham,325,79,243,3,REP,State Senate,14,"GRIFFIN, GAIL",Safford #3
+Graham,207,59,146,2,REP,State Senate,14,"GRIFFIN, GAIL",Layton #4
+Graham,556,158,385,13,REP,State Senate,14,"GRIFFIN, GAIL",Layton #5
+Graham,466,163,297,6,REP,State Senate,14,"GRIFFIN, GAIL",Thatcher #6
+Graham,889,287,586,16,REP,State Senate,14,"GRIFFIN, GAIL",Thatcher #7
+Graham,383,140,241,2,REP,State Senate,14,"GRIFFIN, GAIL",Central #8
+Graham,1240,491,732,17,REP,State Senate,14,"GRIFFIN, GAIL",Pima #9
+Graham,146,60,86,0,REP,State Senate,14,"GRIFFIN, GAIL",Ft Thomas #10
+Graham,24,1,23,0,REP,State Senate,14,"GRIFFIN, GAIL",Klondyke #12
+Graham,101,43,55,3,REP,State Senate,14,"GRIFFIN, GAIL",Bonita #13
+Graham,177,52,122,3,REP,State Senate,14,"GRIFFIN, GAIL",Thunderbird #14
+Graham,567,148,409,10,REP,State Senate,14,"GRIFFIN, GAIL",Safford #15
+Graham,107,29,76,2,REP,State Senate,14,"GRIFFIN, GAIL",Cactus #17
+Graham,629,219,400,10,REP,State Senate,14,"GRIFFIN, GAIL",Jackson #18
+Graham,579,189,381,9,REP,State Senate,14,"GRIFFIN, GAIL",Desert Hills #19
+Graham,371,138,226,7,REP,State Senate,14,"GRIFFIN, GAIL",Artesia #20
+Graham,48,11,37,0,REP,State Senate,14,"GRIFFIN, GAIL",Quatro Cerros #21
+Graham,7,2,5,0,REP,State Senate,14,"GRIFFIN, GAIL",Gila River #22
+Graham,265,87,176,2,DEM,State Senate,14,"ALVAREZ, JAIME",Solomon #1
+Graham,380,121,255,4,DEM,State Senate,14,"ALVAREZ, JAIME",Safford #2
+Graham,131,39,91,1,DEM,State Senate,14,"ALVAREZ, JAIME",Safford #3
+Graham,154,37,116,1,DEM,State Senate,14,"ALVAREZ, JAIME",Layton #4
+Graham,330,98,230,2,DEM,State Senate,14,"ALVAREZ, JAIME",Layton #5
+Graham,82,25,56,1,DEM,State Senate,14,"ALVAREZ, JAIME",Thatcher #6
+Graham,272,82,184,6,DEM,State Senate,14,"ALVAREZ, JAIME",Thatcher #7
+Graham,41,13,28,0,DEM,State Senate,14,"ALVAREZ, JAIME",Central #8
+Graham,294,120,166,8,DEM,State Senate,14,"ALVAREZ, JAIME",Pima #9
+Graham,38,13,25,0,DEM,State Senate,14,"ALVAREZ, JAIME",Ft Thomas #10
+Graham,14,1,13,0,DEM,State Senate,14,"ALVAREZ, JAIME",Klondyke #12
+Graham,13,6,7,0,DEM,State Senate,14,"ALVAREZ, JAIME",Bonita #13
+Graham,55,25,30,0,DEM,State Senate,14,"ALVAREZ, JAIME",Thunderbird #14
+Graham,453,108,339,6,DEM,State Senate,14,"ALVAREZ, JAIME",Safford #15
+Graham,40,7,33,0,DEM,State Senate,14,"ALVAREZ, JAIME",Cactus #17
+Graham,170,55,114,1,DEM,State Senate,14,"ALVAREZ, JAIME",Jackson #18
+Graham,169,36,131,2,DEM,State Senate,14,"ALVAREZ, JAIME",Desert Hills #19
+Graham,124,35,88,1,DEM,State Senate,14,"ALVAREZ, JAIME",Artesia #20
+Graham,13,3,10,0,DEM,State Senate,14,"ALVAREZ, JAIME",Quatro Cerros #21
+Graham,13,2,11,0,DEM,State Senate,14,"ALVAREZ, JAIME",Gila River #22
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Solomon #1
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Safford #2
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Safford #3
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Layton #4
+Graham,1,0,1,0,NON,State Senate,14,WRITE-IN,Layton #5
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Thatcher #6
+Graham,1,0,1,0,NON,State Senate,14,WRITE-IN,Thatcher #7
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Central #8
+Graham,2,1,1,0,NON,State Senate,14,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Ft Thomas #10
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Bonita #13
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Thunderbird #14
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Safford #15
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Cactus #17
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Jackson #18
+Graham,2,2,0,0,NON,State Senate,14,WRITE-IN,Desert Hills #19
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,State Senate,14,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,State Senate,14,OVER VOTES,Solomon #1
+Graham,1,0,1,0,,State Senate,14,OVER VOTES,Safford #2
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Safford #3
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Layton #4
+Graham,1,1,0,0,,State Senate,14,OVER VOTES,Layton #5
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Thatcher #7
+Graham,1,1,0,0,,State Senate,14,OVER VOTES,Central #8
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Pima #9
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Safford #15
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Cactus #17
+Graham,2,0,2,0,,State Senate,14,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,State Senate,14,OVER VOTES,Gila River #22
+Graham,31,8,22,1,,State Senate,14,UNDER VOTES,Solomon #1
+Graham,31,10,19,2,,State Senate,14,UNDER VOTES,Safford #2
+Graham,33,4,29,0,,State Senate,14,UNDER VOTES,Safford #3
+Graham,25,7,18,0,,State Senate,14,UNDER VOTES,Layton #4
+Graham,42,10,32,0,,State Senate,14,UNDER VOTES,Layton #5
+Graham,36,9,26,1,,State Senate,14,UNDER VOTES,Thatcher #6
+Graham,52,16,35,1,,State Senate,14,UNDER VOTES,Thatcher #7
+Graham,26,13,13,0,,State Senate,14,UNDER VOTES,Central #8
+Graham,79,31,44,4,,State Senate,14,UNDER VOTES,Pima #9
+Graham,11,2,9,0,,State Senate,14,UNDER VOTES,Ft Thomas #10
+Graham,6,0,6,0,,State Senate,14,UNDER VOTES,Klondyke #12
+Graham,7,2,5,0,,State Senate,14,UNDER VOTES,Bonita #13
+Graham,13,4,9,0,,State Senate,14,UNDER VOTES,Thunderbird #14
+Graham,59,14,45,0,,State Senate,14,UNDER VOTES,Safford #15
+Graham,9,5,4,0,,State Senate,14,UNDER VOTES,Cactus #17
+Graham,46,18,28,0,,State Senate,14,UNDER VOTES,Jackson #18
+Graham,33,9,22,2,,State Senate,14,UNDER VOTES,Desert Hills #19
+Graham,22,5,17,0,,State Senate,14,UNDER VOTES,Artesia #20
+Graham,4,0,4,0,,State Senate,14,UNDER VOTES,Quatro Cerros #21
+Graham,1,0,1,0,,State Senate,14,UNDER VOTES,Gila River #22
+Graham,421,134,284,3,REP,State Representative,14,"JOHN, DREW",Solomon #1
+Graham,584,211,359,14,REP,State Representative,14,"JOHN, DREW",Safford #2
+Graham,330,89,238,3,REP,State Representative,14,"JOHN, DREW",Safford #3
+Graham,230,60,167,3,REP,State Representative,14,"JOHN, DREW",Layton #4
+Graham,607,172,423,12,REP,State Representative,14,"JOHN, DREW",Layton #5
+Graham,458,164,287,7,REP,State Representative,14,"JOHN, DREW",Thatcher #6
+Graham,851,271,561,19,REP,State Representative,14,"JOHN, DREW",Thatcher #7
+Graham,354,131,221,2,REP,State Representative,14,"JOHN, DREW",Central #8
+Graham,1229,499,711,19,REP,State Representative,14,"JOHN, DREW",Pima #9
+Graham,140,58,82,0,REP,State Representative,14,"JOHN, DREW",Ft Thomas #10
+Graham,27,1,26,0,REP,State Representative,14,"JOHN, DREW",Klondyke #12
+Graham,99,42,54,3,REP,State Representative,14,"JOHN, DREW",Bonita #13
+Graham,154,50,101,3,REP,State Representative,14,"JOHN, DREW",Thunderbird #14
+Graham,648,165,473,10,REP,State Representative,14,"JOHN, DREW",Safford #15
+Graham,108,26,80,2,REP,State Representative,14,"JOHN, DREW",Cactus #17
+Graham,629,221,398,10,REP,State Representative,14,"JOHN, DREW",Jackson #18
+Graham,543,171,363,9,REP,State Representative,14,"JOHN, DREW",Desert Hills #19
+Graham,356,125,226,5,REP,State Representative,14,"JOHN, DREW",Artesia #20
+Graham,43,10,33,0,REP,State Representative,14,"JOHN, DREW",Quatro Cerros #21
+Graham,9,4,5,0,REP,State Representative,14,"JOHN, DREW",Gila River #22
+Graham,360,109,249,2,REP,State Representative,14,"NUTT, BECKY",Solomon #1
+Graham,410,129,273,8,REP,State Representative,14,"NUTT, BECKY",Safford #2
+Graham,263,59,204,0,REP,State Representative,14,"NUTT, BECKY",Safford #3
+Graham,169,49,120,0,REP,State Representative,14,"NUTT, BECKY",Layton #4
+Graham,443,122,316,5,REP,State Representative,14,"NUTT, BECKY",Layton #5
+Graham,387,126,256,5,REP,State Representative,14,"NUTT, BECKY",Thatcher #6
+Graham,736,229,497,10,REP,State Representative,14,"NUTT, BECKY",Thatcher #7
+Graham,320,107,211,2,REP,State Representative,14,"NUTT, BECKY",Central #8
+Graham,979,349,617,13,REP,State Representative,14,"NUTT, BECKY",Pima #9
+Graham,120,46,74,0,REP,State Representative,14,"NUTT, BECKY",Ft Thomas #10
+Graham,25,1,24,0,REP,State Representative,14,"NUTT, BECKY",Klondyke #12
+Graham,95,41,51,3,REP,State Representative,14,"NUTT, BECKY",Bonita #13
+Graham,131,34,95,2,REP,State Representative,14,"NUTT, BECKY",Thunderbird #14
+Graham,479,119,353,7,REP,State Representative,14,"NUTT, BECKY",Safford #15
+Graham,80,23,56,1,REP,State Representative,14,"NUTT, BECKY",Cactus #17
+Graham,540,174,358,8,REP,State Representative,14,"NUTT, BECKY",Jackson #18
+Graham,436,124,307,5,REP,State Representative,14,"NUTT, BECKY",Desert Hills #19
+Graham,282,88,190,4,REP,State Representative,14,"NUTT, BECKY",Artesia #20
+Graham,37,5,32,0,REP,State Representative,14,"NUTT, BECKY",Quatro Cerros #21
+Graham,6,3,3,0,REP,State Representative,14,"NUTT, BECKY",Gila River #22
+Graham,187,59,127,1,DEM,State Representative,14,"HOLMES, MIKE",Solomon #1
+Graham,278,79,193,6,DEM,State Representative,14,"HOLMES, MIKE",Safford #2
+Graham,96,18,78,0,DEM,State Representative,14,"HOLMES, MIKE",Safford #3
+Graham,124,26,97,1,DEM,State Representative,14,"HOLMES, MIKE",Layton #4
+Graham,265,65,196,4,DEM,State Representative,14,"HOLMES, MIKE",Layton #5
+Graham,65,16,48,1,DEM,State Representative,14,"HOLMES, MIKE",Thatcher #6
+Graham,238,63,171,4,DEM,State Representative,14,"HOLMES, MIKE",Thatcher #7
+Graham,46,18,28,0,DEM,State Representative,14,"HOLMES, MIKE",Central #8
+Graham,256,97,156,3,DEM,State Representative,14,"HOLMES, MIKE",Pima #9
+Graham,23,6,17,0,DEM,State Representative,14,"HOLMES, MIKE",Ft Thomas #10
+Graham,13,1,12,0,DEM,State Representative,14,"HOLMES, MIKE",Klondyke #12
+Graham,8,5,3,0,DEM,State Representative,14,"HOLMES, MIKE",Bonita #13
+Graham,56,26,30,0,DEM,State Representative,14,"HOLMES, MIKE",Thunderbird #14
+Graham,331,66,263,2,DEM,State Representative,14,"HOLMES, MIKE",Safford #15
+Graham,42,6,36,0,DEM,State Representative,14,"HOLMES, MIKE",Cactus #17
+Graham,136,42,94,0,DEM,State Representative,14,"HOLMES, MIKE",Jackson #18
+Graham,138,27,109,2,DEM,State Representative,14,"HOLMES, MIKE",Desert Hills #19
+Graham,91,32,58,1,DEM,State Representative,14,"HOLMES, MIKE",Artesia #20
+Graham,12,3,9,0,DEM,State Representative,14,"HOLMES, MIKE",Quatro Cerros #21
+Graham,13,1,12,0,DEM,State Representative,14,"HOLMES, MIKE",Gila River #22
+Graham,165,49,116,0,DEM,State Representative,14,"LINDSTROM, JASON",Solomon #1
+Graham,247,68,176,3,DEM,State Representative,14,"LINDSTROM, JASON",Safford #2
+Graham,91,20,70,1,DEM,State Representative,14,"LINDSTROM, JASON",Safford #3
+Graham,95,13,82,0,DEM,State Representative,14,"LINDSTROM, JASON",Layton #4
+Graham,183,43,138,2,DEM,State Representative,14,"LINDSTROM, JASON",Layton #5
+Graham,55,18,36,1,DEM,State Representative,14,"LINDSTROM, JASON",Thatcher #6
+Graham,205,47,155,3,DEM,State Representative,14,"LINDSTROM, JASON",Thatcher #7
+Graham,35,7,28,0,DEM,State Representative,14,"LINDSTROM, JASON",Central #8
+Graham,206,74,127,5,DEM,State Representative,14,"LINDSTROM, JASON",Pima #9
+Graham,24,4,20,0,DEM,State Representative,14,"LINDSTROM, JASON",Ft Thomas #10
+Graham,11,1,10,0,DEM,State Representative,14,"LINDSTROM, JASON",Klondyke #12
+Graham,10,7,3,0,DEM,State Representative,14,"LINDSTROM, JASON",Bonita #13
+Graham,40,18,22,0,DEM,State Representative,14,"LINDSTROM, JASON",Thunderbird #14
+Graham,282,48,231,3,DEM,State Representative,14,"LINDSTROM, JASON",Safford #15
+Graham,21,4,17,0,DEM,State Representative,14,"LINDSTROM, JASON",Cactus #17
+Graham,134,39,95,0,DEM,State Representative,14,"LINDSTROM, JASON",Jackson #18
+Graham,127,25,101,1,DEM,State Representative,14,"LINDSTROM, JASON",Desert Hills #19
+Graham,87,22,65,0,DEM,State Representative,14,"LINDSTROM, JASON",Artesia #20
+Graham,6,1,5,0,DEM,State Representative,14,"LINDSTROM, JASON",Quatro Cerros #21
+Graham,11,0,11,0,DEM,State Representative,14,"LINDSTROM, JASON",Gila River #22
+Graham,2,1,1,0,NON,State Representative,14,WRITE-IN,Solomon #1
+Graham,1,1,0,0,NON,State Representative,14,WRITE-IN,Safford #2
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Safford #3
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Layton #4
+Graham,2,1,1,0,NON,State Representative,14,WRITE-IN,Layton #5
+Graham,2,0,2,0,NON,State Representative,14,WRITE-IN,Thatcher #6
+Graham,4,2,2,0,NON,State Representative,14,WRITE-IN,Thatcher #7
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Central #8
+Graham,5,3,2,0,NON,State Representative,14,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Ft Thomas #10
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Bonita #13
+Graham,1,1,0,0,NON,State Representative,14,WRITE-IN,Thunderbird #14
+Graham,1,0,1,0,NON,State Representative,14,WRITE-IN,Safford #15
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Cactus #17
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Jackson #18
+Graham,3,3,0,0,NON,State Representative,14,WRITE-IN,Desert Hills #19
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,State Representative,14,WRITE-IN,Gila River #22
+Graham,8,0,8,0,,State Representative,14,OVER VOTES,Solomon #1
+Graham,8,0,8,0,,State Representative,14,OVER VOTES,Safford #2
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Safford #3
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Layton #4
+Graham,2,2,0,0,,State Representative,14,OVER VOTES,Layton #5
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Thatcher #6
+Graham,2,0,2,0,,State Representative,14,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Central #8
+Graham,6,0,6,0,,State Representative,14,OVER VOTES,Pima #9
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Bonita #13
+Graham,2,2,0,0,,State Representative,14,OVER VOTES,Thunderbird #14
+Graham,2,0,2,0,,State Representative,14,OVER VOTES,Safford #15
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Cactus #17
+Graham,8,0,8,0,,State Representative,14,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,State Representative,14,OVER VOTES,Gila River #22
+Graham,265,98,163,4,,State Representative,14,UNDER VOTES,Solomon #1
+Graham,378,154,211,13,,State Representative,14,UNDER VOTES,Safford #2
+Graham,198,58,136,4,,State Representative,14,UNDER VOTES,Safford #3
+Graham,154,58,94,2,,State Representative,14,UNDER VOTES,Layton #4
+Graham,358,129,222,7,,State Representative,14,UNDER VOTES,Layton #5
+Graham,201,70,129,2,,State Representative,14,UNDER VOTES,Thatcher #6
+Graham,392,158,224,10,,State Representative,14,UNDER VOTES,Thatcher #7
+Graham,147,71,76,0,,State Representative,14,UNDER VOTES,Central #8
+Graham,549,264,267,18,,State Representative,14,UNDER VOTES,Pima #9
+Graham,83,36,47,0,,State Representative,14,UNDER VOTES,Ft Thomas #10
+Graham,12,0,12,0,,State Representative,14,UNDER VOTES,Klondyke #12
+Graham,30,7,23,0,,State Representative,14,UNDER VOTES,Bonita #13
+Graham,106,31,74,1,,State Representative,14,UNDER VOTES,Thunderbird #14
+Graham,415,142,263,10,,State Representative,14,UNDER VOTES,Safford #15
+Graham,61,23,37,1,,State Representative,14,UNDER VOTES,Cactus #17
+Graham,247,108,135,4,,State Representative,14,UNDER VOTES,Jackson #18
+Graham,319,122,188,9,,State Representative,14,UNDER VOTES,Desert Hills #19
+Graham,218,89,123,6,,State Representative,14,UNDER VOTES,Artesia #20
+Graham,32,9,23,0,,State Representative,14,UNDER VOTES,Quatro Cerros #21
+Graham,3,0,3,0,,State Representative,14,UNDER VOTES,Gila River #22
+Graham,377,124,251,2,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Solomon #1
+Graham,464,152,304,8,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Safford #2
+Graham,244,59,183,2,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Safford #3
+Graham,179,43,135,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Layton #4
+Graham,479,123,349,7,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Layton #5
+Graham,413,139,268,6,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Thatcher #6
+Graham,765,236,518,11,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Thatcher #7
+Graham,319,110,207,2,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Central #8
+Graham,1007,388,607,12,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Pima #9
+Graham,124,55,69,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Ft Thomas #10
+Graham,139,106,33,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Bylas #11
+Graham,21,1,20,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Klondyke #12
+Graham,92,44,45,3,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Bonita #13
+Graham,133,39,93,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Thunderbird #14
+Graham,511,131,375,5,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Safford #15
+Graham,61,52,9,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Peridot #16
+Graham,86,23,62,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Cactus #17
+Graham,557,192,357,8,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Jackson #18
+Graham,472,139,328,5,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Desert Hills #19
+Graham,268,88,177,3,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Artesia #20
+Graham,40,8,32,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Quatro Cerros #21
+Graham,7,3,4,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Gila River #22
+Graham,333,113,218,2,REP,Corporation Commissioner,,"DUNN, BOYD",Solomon #1
+Graham,443,147,285,11,REP,Corporation Commissioner,,"DUNN, BOYD",Safford #2
+Graham,236,56,180,0,REP,Corporation Commissioner,,"DUNN, BOYD",Safford #3
+Graham,161,46,115,0,REP,Corporation Commissioner,,"DUNN, BOYD",Layton #4
+Graham,459,126,324,9,REP,Corporation Commissioner,,"DUNN, BOYD",Layton #5
+Graham,371,120,246,5,REP,Corporation Commissioner,,"DUNN, BOYD",Thatcher #6
+Graham,709,223,474,12,REP,Corporation Commissioner,,"DUNN, BOYD",Thatcher #7
+Graham,322,118,202,2,REP,Corporation Commissioner,,"DUNN, BOYD",Central #8
+Graham,908,342,556,10,REP,Corporation Commissioner,,"DUNN, BOYD",Pima #9
+Graham,115,48,67,0,REP,Corporation Commissioner,,"DUNN, BOYD",Ft Thomas #10
+Graham,106,82,24,0,REP,Corporation Commissioner,,"DUNN, BOYD",Bylas #11
+Graham,21,1,20,0,REP,Corporation Commissioner,,"DUNN, BOYD",Klondyke #12
+Graham,90,44,43,3,REP,Corporation Commissioner,,"DUNN, BOYD",Bonita #13
+Graham,122,35,86,1,REP,Corporation Commissioner,,"DUNN, BOYD",Thunderbird #14
+Graham,433,104,324,5,REP,Corporation Commissioner,,"DUNN, BOYD",Safford #15
+Graham,62,52,10,0,REP,Corporation Commissioner,,"DUNN, BOYD",Peridot #16
+Graham,84,23,59,2,REP,Corporation Commissioner,,"DUNN, BOYD",Cactus #17
+Graham,522,172,343,7,REP,Corporation Commissioner,,"DUNN, BOYD",Jackson #18
+Graham,435,136,293,6,REP,Corporation Commissioner,,"DUNN, BOYD",Desert Hills #19
+Graham,280,98,178,4,REP,Corporation Commissioner,,"DUNN, BOYD",Artesia #20
+Graham,36,10,26,0,REP,Corporation Commissioner,,"DUNN, BOYD",Quatro Cerros #21
+Graham,8,3,5,0,REP,Corporation Commissioner,,"DUNN, BOYD",Gila River #22
+Graham,357,115,240,2,REP,Corporation Commissioner,,"TOBIN, ANDY",Solomon #1
+Graham,474,159,306,9,REP,Corporation Commissioner,,"TOBIN, ANDY",Safford #2
+Graham,280,67,212,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Safford #3
+Graham,185,47,137,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Layton #4
+Graham,524,151,366,7,REP,Corporation Commissioner,,"TOBIN, ANDY",Layton #5
+Graham,430,144,280,6,REP,Corporation Commissioner,,"TOBIN, ANDY",Thatcher #6
+Graham,747,229,506,12,REP,Corporation Commissioner,,"TOBIN, ANDY",Thatcher #7
+Graham,321,114,205,2,REP,Corporation Commissioner,,"TOBIN, ANDY",Central #8
+Graham,1029,418,597,14,REP,Corporation Commissioner,,"TOBIN, ANDY",Pima #9
+Graham,130,51,79,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Ft Thomas #10
+Graham,153,128,25,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Bylas #11
+Graham,22,1,21,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Klondyke #12
+Graham,86,41,42,3,REP,Corporation Commissioner,,"TOBIN, ANDY",Bonita #13
+Graham,149,44,103,2,REP,Corporation Commissioner,,"TOBIN, ANDY",Thunderbird #14
+Graham,536,144,381,11,REP,Corporation Commissioner,,"TOBIN, ANDY",Safford #15
+Graham,91,77,14,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Peridot #16
+Graham,93,28,64,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Cactus #17
+Graham,575,196,370,9,REP,Corporation Commissioner,,"TOBIN, ANDY",Jackson #18
+Graham,458,137,315,6,REP,Corporation Commissioner,,"TOBIN, ANDY",Desert Hills #19
+Graham,301,106,191,4,REP,Corporation Commissioner,,"TOBIN, ANDY",Artesia #20
+Graham,43,9,34,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Quatro Cerros #21
+Graham,10,3,7,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Gila River #22
+Graham,204,61,142,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Solomon #1
+Graham,289,81,201,7,DEM,Corporation Commissioner,,"CHABIN, TOM",Safford #2
+Graham,117,20,96,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Safford #3
+Graham,135,28,106,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Layton #4
+Graham,257,64,191,2,DEM,Corporation Commissioner,,"CHABIN, TOM",Layton #5
+Graham,79,24,54,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Thatcher #6
+Graham,235,53,179,3,DEM,Corporation Commissioner,,"CHABIN, TOM",Thatcher #7
+Graham,59,20,39,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Central #8
+Graham,294,105,184,5,DEM,Corporation Commissioner,,"CHABIN, TOM",Pima #9
+Graham,29,7,22,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Ft Thomas #10
+Graham,448,352,94,2,DEM,Corporation Commissioner,,"CHABIN, TOM",Bylas #11
+Graham,17,1,16,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Klondyke #12
+Graham,13,7,6,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Bonita #13
+Graham,47,16,31,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Thunderbird #14
+Graham,358,59,297,2,DEM,Corporation Commissioner,,"CHABIN, TOM",Safford #15
+Graham,180,138,42,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Peridot #16
+Graham,33,4,29,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Cactus #17
+Graham,154,47,106,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Jackson #18
+Graham,140,25,112,3,DEM,Corporation Commissioner,,"CHABIN, TOM",Desert Hills #19
+Graham,106,28,77,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Artesia #20
+Graham,8,1,7,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Quatro Cerros #21
+Graham,12,1,11,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Gila River #22
+Graham,183,54,128,1,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Solomon #1
+Graham,301,92,204,5,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Safford #2
+Graham,125,27,98,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Safford #3
+Graham,131,29,101,1,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Layton #4
+Graham,260,64,191,5,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Layton #5
+Graham,80,27,52,1,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Thatcher #6
+Graham,278,61,213,4,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Thatcher #7
+Graham,58,16,42,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Central #8
+Graham,325,118,203,4,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Pima #9
+Graham,41,13,28,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Ft Thomas #10
+Graham,484,378,106,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Bylas #11
+Graham,16,1,15,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Klondyke #12
+Graham,12,5,7,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Bonita #13
+Graham,54,22,32,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Thunderbird #14
+Graham,370,69,298,3,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Safford #15
+Graham,248,199,49,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Peridot #16
+Graham,40,8,32,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Cactus #17
+Graham,152,45,107,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Jackson #18
+Graham,160,26,131,3,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Desert Hills #19
+Graham,108,33,75,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Artesia #20
+Graham,7,1,6,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Quatro Cerros #21
+Graham,12,2,10,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Gila River #22
+Graham,3,0,3,0,NON,Corporation Commissioner,,WRITE-IN,Solomon #1
+Graham,2,1,1,0,NON,Corporation Commissioner,,WRITE-IN,Safford #2
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Safford #3
+Graham,2,1,1,0,NON,Corporation Commissioner,,WRITE-IN,Layton #4
+Graham,1,0,1,0,NON,Corporation Commissioner,,WRITE-IN,Layton #5
+Graham,3,0,3,0,NON,Corporation Commissioner,,WRITE-IN,Thatcher #6
+Graham,3,0,3,0,NON,Corporation Commissioner,,WRITE-IN,Thatcher #7
+Graham,4,0,4,0,NON,Corporation Commissioner,,WRITE-IN,Central #8
+Graham,9,3,6,0,NON,Corporation Commissioner,,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Ft Thomas #10
+Graham,3,3,0,0,NON,Corporation Commissioner,,WRITE-IN,Bylas #11
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Bonita #13
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Thunderbird #14
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Safford #15
+Graham,4,4,0,0,NON,Corporation Commissioner,,WRITE-IN,Peridot #16
+Graham,2,0,2,0,NON,Corporation Commissioner,,WRITE-IN,Cactus #17
+Graham,2,0,2,0,NON,Corporation Commissioner,,WRITE-IN,Jackson #18
+Graham,4,4,0,0,NON,Corporation Commissioner,,WRITE-IN,Desert Hills #19
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Gila River #22
+Graham,3,0,3,0,,Corporation Commissioner,,OVER VOTES,Solomon #1
+Graham,6,3,3,0,,Corporation Commissioner,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Thatcher #6
+Graham,3,0,3,0,,Corporation Commissioner,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Central #8
+Graham,3,0,3,0,,Corporation Commissioner,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Bonita #13
+Graham,3,3,0,0,,Corporation Commissioner,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Cactus #17
+Graham,3,0,3,0,,Corporation Commissioner,,OVER VOTES,Jackson #18
+Graham,3,0,3,0,,Corporation Commissioner,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Gila River #22
+Graham,652,208,437,7,,Corporation Commissioner,,UNDER VOTES,Solomon #1
+Graham,880,328,526,26,,Corporation Commissioner,,UNDER VOTES,Safford #2
+Graham,465,137,320,8,,Corporation Commissioner,,UNDER VOTES,Safford #3
+Graham,365,115,245,5,,Corporation Commissioner,,UNDER VOTES,Layton #4
+Graham,810,273,522,15,,Corporation Commissioner,,UNDER VOTES,Layton #5
+Graham,376,137,234,5,,Corporation Commissioner,,UNDER VOTES,Thatcher #6
+Graham,902,353,522,27,,Corporation Commissioner,,UNDER VOTES,Thatcher #7
+Graham,270,123,147,0,,Corporation Commissioner,,UNDER VOTES,Central #8
+Graham,1270,555,673,42,,Corporation Commissioner,,UNDER VOTES,Pima #9
+Graham,146,51,95,0,,Corporation Commissioner,,UNDER VOTES,Ft Thomas #10
+Graham,809,637,168,4,,Corporation Commissioner,,UNDER VOTES,Bylas #11
+Graham,35,1,34,0,,Corporation Commissioner,,UNDER VOTES,Klondyke #12
+Graham,70,12,58,0,,Corporation Commissioner,,UNDER VOTES,Bonita #13
+Graham,227,84,138,5,,Corporation Commissioner,,UNDER VOTES,Thunderbird #14
+Graham,1029,303,704,22,,Corporation Commissioner,,UNDER VOTES,Safford #15
+Graham,617,528,89,0,,Corporation Commissioner,,UNDER VOTES,Peridot #16
+Graham,130,37,91,2,,Corporation Commissioner,,UNDER VOTES,Cactus #17
+Graham,576,224,344,8,,Corporation Commissioner,,UNDER VOTES,Jackson #18
+Graham,677,241,420,16,,Corporation Commissioner,,UNDER VOTES,Desert Hills #19
+Graham,488,181,295,12,,Corporation Commissioner,,UNDER VOTES,Artesia #20
+Graham,61,13,48,0,,Corporation Commissioner,,UNDER VOTES,Quatro Cerros #21
+Graham,14,0,14,0,,Corporation Commissioner,,UNDER VOTES,Gila River #22
+Graham,283,73,207,3,REP,Board of Supervisors Dist. 1,,"LUNT, JAROM",Safford #3
+Graham,153,42,110,1,REP,Board of Supervisors Dist. 1,,"LUNT, JAROM",Layton #4
+Graham,225,193,31,1,REP,Board of Supervisors Dist. 1,,"LUNT, JAROM",Bylas #11
+Graham,516,136,370,10,REP,Board of Supervisors Dist. 1,,"LUNT, JAROM",Safford #15
+Graham,126,112,14,0,REP,Board of Supervisors Dist. 1,,"LUNT, JAROM",Peridot #16
+Graham,508,166,334,8,REP,Board of Supervisors Dist. 1,,"LUNT, JAROM",Desert Hills #19
+Graham,37,11,26,0,REP,Board of Supervisors Dist. 1,,"LUNT, JAROM",Quatro Cerros #21
+Graham,10,3,7,0,REP,Board of Supervisors Dist. 1,,"LUNT, JAROM",Gila River #22
+Graham,181,43,137,1,DEM,Board of Supervisors Dist. 1,,"DAVID, PAUL ROGER",Safford #3
+Graham,216,54,160,2,DEM,Board of Supervisors Dist. 1,,"DAVID, PAUL ROGER",Layton #4
+Graham,470,352,117,1,DEM,Board of Supervisors Dist. 1,,"DAVID, PAUL ROGER",Bylas #11
+Graham,518,127,386,5,DEM,Board of Supervisors Dist. 1,,"DAVID, PAUL ROGER",Safford #15
+Graham,288,231,57,0,DEM,Board of Supervisors Dist. 1,,"DAVID, PAUL ROGER",Peridot #16
+Graham,238,56,177,5,DEM,Board of Supervisors Dist. 1,,"DAVID, PAUL ROGER",Desert Hills #19
+Graham,23,2,21,0,DEM,Board of Supervisors Dist. 1,,"DAVID, PAUL ROGER",Quatro Cerros #21
+Graham,11,1,10,0,DEM,Board of Supervisors Dist. 1,,"DAVID, PAUL ROGER",Gila River #22
+Graham,1,1,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Safford #3
+Graham,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Layton #4
+Graham,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Bylas #11
+Graham,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Safford #15
+Graham,1,1,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Peridot #16
+Graham,3,1,2,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Desert Hills #19
+Graham,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Gila River #22
+Graham,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Safford #3
+Graham,1,0,1,0,,Board of Supervisors Dist. 1,,OVER VOTES,Layton #4
+Graham,1,1,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Peridot #16
+Graham,2,1,1,0,,Board of Supervisors Dist. 1,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Gila River #22
+Graham,24,5,19,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Safford #3
+Graham,16,7,9,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Layton #4
+Graham,18,16,2,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Bylas #11
+Graham,45,7,37,1,,Board of Supervisors Dist. 1,,UNDER VOTES,Safford #15
+Graham,6,6,0,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Peridot #16
+Graham,32,12,20,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Desert Hills #19
+Graham,5,1,4,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Gila River #22
+Graham,509,187,315,7,REP,Board of Supervisors Dist. 2,,"PALMER, JAMES A. ""JIM""",Thatcher #6
+Graham,1002,320,662,20,REP,Board of Supervisors Dist. 2,,"PALMER, JAMES A. ""JIM""",Thatcher #7
+Graham,360,142,216,2,REP,Board of Supervisors Dist. 2,,"PALMER, JAMES A. ""JIM""",Central #8
+Graham,1285,533,725,27,REP,Board of Supervisors Dist. 2,,"PALMER, JAMES A. ""JIM""",Pima #9
+Graham,140,58,82,0,REP,Board of Supervisors Dist. 2,,"PALMER, JAMES A. ""JIM""",Ft Thomas #10
+Graham,27,2,25,0,REP,Board of Supervisors Dist. 2,,"PALMER, JAMES A. ""JIM""",Klondyke #12
+Graham,120,34,84,2,REP,Board of Supervisors Dist. 2,,"PALMER, JAMES A. ""JIM""",Cactus #17
+Graham,666,239,416,11,REP,Board of Supervisors Dist. 2,,"PALMER, JAMES A. ""JIM""",Jackson #18
+Graham,10,1,9,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,Thatcher #6
+Graham,7,4,3,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,Thatcher #7
+Graham,10,3,7,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,Central #8
+Graham,28,13,15,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,Pima #9
+Graham,8,1,7,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,Ft Thomas #10
+Graham,5,0,5,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,Klondyke #12
+Graham,2,0,2,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,Cactus #17
+Graham,13,4,9,0,NON,Board of Supervisors Dist. 2,,WRITE-IN,Jackson #18
+Graham,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,Thatcher #6
+Graham,1,1,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,Central #8
+Graham,2,0,2,0,,Board of Supervisors Dist. 2,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,Board of Supervisors Dist. 2,,OVER VOTES,Cactus #17
+Graham,4,0,4,0,,Board of Supervisors Dist. 2,,OVER VOTES,Jackson #18
+Graham,65,9,55,1,,Board of Supervisors Dist. 2,,UNDER VOTES,Thatcher #6
+Graham,204,60,141,3,,Board of Supervisors Dist. 2,,UNDER VOTES,Thatcher #7
+Graham,81,22,59,0,,Board of Supervisors Dist. 2,,UNDER VOTES,Central #8
+Graham,300,97,201,2,,Board of Supervisors Dist. 2,,UNDER VOTES,Pima #9
+Graham,47,16,31,0,,Board of Supervisors Dist. 2,,UNDER VOTES,Ft Thomas #10
+Graham,12,0,12,0,,Board of Supervisors Dist. 2,,UNDER VOTES,Klondyke #12
+Graham,34,7,27,0,,Board of Supervisors Dist. 2,,UNDER VOTES,Cactus #17
+Graham,164,49,115,0,,Board of Supervisors Dist. 2,,UNDER VOTES,Jackson #18
+Graham,549,174,373,2,REP,Board of Supervisors Dist. 3,,"SMITH, DANNY",Solomon #1
+Graham,760,268,473,19,REP,Board of Supervisors Dist. 3,,"SMITH, DANNY",Safford #2
+Graham,782,234,534,14,REP,Board of Supervisors Dist. 3,,"SMITH, DANNY",Layton #5
+Graham,106,47,57,2,REP,Board of Supervisors Dist. 3,,"SMITH, DANNY",Bonita #13
+Graham,180,61,117,2,REP,Board of Supervisors Dist. 3,,"SMITH, DANNY",Thunderbird #14
+Graham,430,146,278,6,REP,Board of Supervisors Dist. 3,,"SMITH, DANNY",Artesia #20
+Graham,5,1,4,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Solomon #1
+Graham,7,4,3,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Safford #2
+Graham,10,4,6,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Layton #5
+Graham,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Bonita #13
+Graham,3,2,1,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Thunderbird #14
+Graham,5,2,2,1,NON,Board of Supervisors Dist. 3,,WRITE-IN,Artesia #20
+Graham,3,2,1,0,,Board of Supervisors Dist. 3,,OVER VOTES,Solomon #1
+Graham,1,0,1,0,,Board of Supervisors Dist. 3,,OVER VOTES,Safford #2
+Graham,1,0,1,0,,Board of Supervisors Dist. 3,,OVER VOTES,Layton #5
+Graham,1,0,1,0,,Board of Supervisors Dist. 3,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,Artesia #20
+Graham,147,48,96,3,,Board of Supervisors Dist. 3,,UNDER VOTES,Solomon #1
+Graham,185,49,133,3,,Board of Supervisors Dist. 3,,UNDER VOTES,Safford #2
+Graham,137,29,107,1,,Board of Supervisors Dist. 3,,UNDER VOTES,Layton #5
+Graham,14,4,9,1,,Board of Supervisors Dist. 3,,UNDER VOTES,Bonita #13
+Graham,62,18,43,1,,Board of Supervisors Dist. 3,,UNDER VOTES,Thunderbird #14
+Graham,82,30,51,1,,Board of Supervisors Dist. 3,,UNDER VOTES,Artesia #20
+Graham,518,170,344,4,REP,County Attorney,,"ANGLE, KENNETH A.",Solomon #1
+Graham,721,254,449,18,REP,County Attorney,,"ANGLE, KENNETH A.",Safford #2
+Graham,392,98,291,3,REP,County Attorney,,"ANGLE, KENNETH A.",Safford #3
+Graham,277,75,200,2,REP,County Attorney,,"ANGLE, KENNETH A.",Layton #4
+Graham,733,223,497,13,REP,County Attorney,,"ANGLE, KENNETH A.",Layton #5
+Graham,473,168,298,7,REP,County Attorney,,"ANGLE, KENNETH A.",Thatcher #6
+Graham,974,319,636,19,REP,County Attorney,,"ANGLE, KENNETH A.",Thatcher #7
+Graham,367,144,221,2,REP,County Attorney,,"ANGLE, KENNETH A.",Central #8
+Graham,1252,523,703,26,REP,County Attorney,,"ANGLE, KENNETH A.",Pima #9
+Graham,140,57,83,0,REP,County Attorney,,"ANGLE, KENNETH A.",Ft Thomas #10
+Graham,467,365,100,2,REP,County Attorney,,"ANGLE, KENNETH A.",Bylas #11
+Graham,24,1,23,0,REP,County Attorney,,"ANGLE, KENNETH A.",Klondyke #12
+Graham,104,46,56,2,REP,County Attorney,,"ANGLE, KENNETH A.",Bonita #13
+Graham,173,60,111,2,REP,County Attorney,,"ANGLE, KENNETH A.",Thunderbird #14
+Graham,763,212,538,13,REP,County Attorney,,"ANGLE, KENNETH A.",Safford #15
+Graham,301,258,43,0,REP,County Attorney,,"ANGLE, KENNETH A.",Peridot #16
+Graham,119,36,81,2,REP,County Attorney,,"ANGLE, KENNETH A.",Cactus #17
+Graham,642,225,406,11,REP,County Attorney,,"ANGLE, KENNETH A.",Jackson #18
+Graham,630,192,427,11,REP,County Attorney,,"ANGLE, KENNETH A.",Desert Hills #19
+Graham,427,151,269,7,REP,County Attorney,,"ANGLE, KENNETH A.",Artesia #20
+Graham,56,14,42,0,REP,County Attorney,,"ANGLE, KENNETH A.",Quatro Cerros #21
+Graham,17,4,13,0,REP,County Attorney,,"ANGLE, KENNETH A.",Gila River #22
+Graham,8,5,3,0,NON,County Attorney,,WRITE-IN,Solomon #1
+Graham,12,5,6,1,NON,County Attorney,,WRITE-IN,Safford #2
+Graham,9,4,4,1,NON,County Attorney,,WRITE-IN,Safford #3
+Graham,7,1,6,0,NON,County Attorney,,WRITE-IN,Layton #4
+Graham,20,5,15,0,NON,County Attorney,,WRITE-IN,Layton #5
+Graham,4,1,3,0,NON,County Attorney,,WRITE-IN,Thatcher #6
+Graham,8,2,6,0,NON,County Attorney,,WRITE-IN,Thatcher #7
+Graham,7,1,6,0,NON,County Attorney,,WRITE-IN,Central #8
+Graham,16,3,13,0,NON,County Attorney,,WRITE-IN,Pima #9
+Graham,8,3,5,0,NON,County Attorney,,WRITE-IN,Ft Thomas #10
+Graham,4,3,1,0,NON,County Attorney,,WRITE-IN,Bylas #11
+Graham,1,0,1,0,NON,County Attorney,,WRITE-IN,Klondyke #12
+Graham,1,0,1,0,NON,County Attorney,,WRITE-IN,Bonita #13
+Graham,4,1,3,0,NON,County Attorney,,WRITE-IN,Thunderbird #14
+Graham,23,9,14,0,NON,County Attorney,,WRITE-IN,Safford #15
+Graham,6,4,2,0,NON,County Attorney,,WRITE-IN,Peridot #16
+Graham,3,0,3,0,NON,County Attorney,,WRITE-IN,Cactus #17
+Graham,9,5,4,0,NON,County Attorney,,WRITE-IN,Jackson #18
+Graham,13,6,7,0,NON,County Attorney,,WRITE-IN,Desert Hills #19
+Graham,9,3,6,0,NON,County Attorney,,WRITE-IN,Artesia #20
+Graham,1,0,1,0,NON,County Attorney,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,County Attorney,,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,County Attorney,,OVER VOTES,Solomon #1
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Thatcher #7
+Graham,1,1,0,0,,County Attorney,,OVER VOTES,Central #8
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Thunderbird #14
+Graham,2,0,2,0,,County Attorney,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Cactus #17
+Graham,2,0,2,0,,County Attorney,,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,County Attorney,,OVER VOTES,Gila River #22
+Graham,177,50,126,1,,County Attorney,,UNDER VOTES,Solomon #1
+Graham,220,62,155,3,,County Attorney,,UNDER VOTES,Safford #2
+Graham,88,20,68,0,,County Attorney,,UNDER VOTES,Safford #3
+Graham,102,27,74,1,,County Attorney,,UNDER VOTES,Layton #4
+Graham,177,39,136,2,,County Attorney,,UNDER VOTES,Layton #5
+Graham,107,28,78,1,,County Attorney,,UNDER VOTES,Thatcher #6
+Graham,232,64,164,4,,County Attorney,,UNDER VOTES,Thatcher #7
+Graham,76,21,55,0,,County Attorney,,UNDER VOTES,Central #8
+Graham,347,117,227,3,,County Attorney,,UNDER VOTES,Pima #9
+Graham,47,15,32,0,,County Attorney,,UNDER VOTES,Ft Thomas #10
+Graham,243,194,49,0,,County Attorney,,UNDER VOTES,Bylas #11
+Graham,19,1,18,0,,County Attorney,,UNDER VOTES,Klondyke #12
+Graham,16,5,10,1,,County Attorney,,UNDER VOTES,Bonita #13
+Graham,68,20,47,1,,County Attorney,,UNDER VOTES,Thunderbird #14
+Graham,291,49,239,3,,County Attorney,,UNDER VOTES,Safford #15
+Graham,114,88,26,0,,County Attorney,,UNDER VOTES,Peridot #16
+Graham,34,5,29,0,,County Attorney,,UNDER VOTES,Cactus #17
+Graham,194,62,132,0,,County Attorney,,UNDER VOTES,Jackson #18
+Graham,140,38,100,2,,County Attorney,,UNDER VOTES,Desert Hills #19
+Graham,81,24,56,1,,County Attorney,,UNDER VOTES,Artesia #20
+Graham,8,0,8,0,,County Attorney,,UNDER VOTES,Quatro Cerros #21
+Graham,4,0,4,0,,County Attorney,,UNDER VOTES,Gila River #22
+Graham,589,196,389,4,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Solomon #1
+Graham,793,277,497,19,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Safford #2
+Graham,430,109,317,4,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Safford #3
+Graham,313,85,225,3,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Layton #4
+Graham,811,241,555,15,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Layton #5
+Graham,521,180,334,7,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Thatcher #6
+Graham,1055,342,694,19,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Thatcher #7
+Graham,402,154,246,2,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Central #8
+Graham,1351,555,769,27,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Pima #9
+Graham,161,62,99,0,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Ft Thomas #10
+Graham,552,432,118,2,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Bylas #11
+Graham,32,2,30,0,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Klondyke #12
+Graham,105,44,59,2,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Bonita #13
+Graham,187,66,119,2,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Thunderbird #14
+Graham,874,231,628,15,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Safford #15
+Graham,316,269,47,0,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Peridot #16
+Graham,136,36,98,2,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Cactus #17
+Graham,738,251,476,11,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Jackson #18
+Graham,677,207,458,12,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Desert Hills #19
+Graham,449,155,287,7,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Artesia #20
+Graham,54,10,44,0,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Quatro Cerros #21
+Graham,18,4,14,0,REP,Sheriff,,"ALLRED, PRESTON ""P.J.""",Gila River #22
+Graham,6,0,6,0,NON,Sheriff,,WRITE-IN,Solomon #1
+Graham,11,5,6,0,NON,Sheriff,,WRITE-IN,Safford #2
+Graham,5,2,3,0,NON,Sheriff,,WRITE-IN,Safford #3
+Graham,1,0,1,0,NON,Sheriff,,WRITE-IN,Layton #4
+Graham,6,2,4,0,NON,Sheriff,,WRITE-IN,Layton #5
+Graham,2,1,1,0,NON,Sheriff,,WRITE-IN,Thatcher #6
+Graham,8,1,7,0,NON,Sheriff,,WRITE-IN,Thatcher #7
+Graham,3,0,3,0,NON,Sheriff,,WRITE-IN,Central #8
+Graham,20,5,15,0,NON,Sheriff,,WRITE-IN,Pima #9
+Graham,2,2,0,0,NON,Sheriff,,WRITE-IN,Ft Thomas #10
+Graham,6,4,2,0,NON,Sheriff,,WRITE-IN,Bylas #11
+Graham,1,0,1,0,NON,Sheriff,,WRITE-IN,Klondyke #12
+Graham,2,2,0,0,NON,Sheriff,,WRITE-IN,Bonita #13
+Graham,2,1,1,0,NON,Sheriff,,WRITE-IN,Thunderbird #14
+Graham,8,1,7,0,NON,Sheriff,,WRITE-IN,Safford #15
+Graham,5,3,2,0,NON,Sheriff,,WRITE-IN,Peridot #16
+Graham,0,0,0,0,NON,Sheriff,,WRITE-IN,Cactus #17
+Graham,2,0,2,0,NON,Sheriff,,WRITE-IN,Jackson #18
+Graham,7,4,3,0,NON,Sheriff,,WRITE-IN,Desert Hills #19
+Graham,5,4,1,0,NON,Sheriff,,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,Sheriff,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,Sheriff,,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,Sheriff,,OVER VOTES,Solomon #1
+Graham,1,0,1,0,,Sheriff,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Layton #4
+Graham,1,0,1,0,,Sheriff,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Central #8
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Cactus #17
+Graham,1,0,1,0,,Sheriff,,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,Sheriff,,OVER VOTES,Gila River #22
+Graham,108,29,78,1,,Sheriff,,UNDER VOTES,Solomon #1
+Graham,148,39,106,3,,Sheriff,,UNDER VOTES,Safford #2
+Graham,54,11,43,0,,Sheriff,,UNDER VOTES,Safford #3
+Graham,72,18,54,0,,Sheriff,,UNDER VOTES,Layton #4
+Graham,112,24,88,0,,Sheriff,,UNDER VOTES,Layton #5
+Graham,61,16,44,1,,Sheriff,,UNDER VOTES,Thatcher #6
+Graham,151,42,105,4,,Sheriff,,UNDER VOTES,Thatcher #7
+Graham,46,13,33,0,,Sheriff,,UNDER VOTES,Central #8
+Graham,244,83,159,2,,Sheriff,,UNDER VOTES,Pima #9
+Graham,32,11,21,0,,Sheriff,,UNDER VOTES,Ft Thomas #10
+Graham,156,126,30,0,,Sheriff,,UNDER VOTES,Bylas #11
+Graham,11,0,11,0,,Sheriff,,UNDER VOTES,Klondyke #12
+Graham,14,5,8,1,,Sheriff,,UNDER VOTES,Bonita #13
+Graham,56,14,41,1,,Sheriff,,UNDER VOTES,Thunderbird #14
+Graham,197,38,158,1,,Sheriff,,UNDER VOTES,Safford #15
+Graham,100,78,22,0,,Sheriff,,UNDER VOTES,Peridot #16
+Graham,20,5,15,0,,Sheriff,,UNDER VOTES,Cactus #17
+Graham,106,41,65,0,,Sheriff,,UNDER VOTES,Jackson #18
+Graham,99,25,73,1,,Sheriff,,UNDER VOTES,Desert Hills #19
+Graham,63,19,43,1,,Sheriff,,UNDER VOTES,Artesia #20
+Graham,11,4,7,0,,Sheriff,,UNDER VOTES,Quatro Cerros #21
+Graham,3,0,3,0,,Sheriff,,UNDER VOTES,Gila River #22
+Graham,358,109,246,3,REP,County Treasurer,,"BINGHAM, MARY",Solomon #1
+Graham,504,187,301,16,REP,County Treasurer,,"BINGHAM, MARY",Safford #2
+Graham,291,74,214,3,REP,County Treasurer,,"BINGHAM, MARY",Safford #3
+Graham,200,61,136,3,REP,County Treasurer,,"BINGHAM, MARY",Layton #4
+Graham,503,142,352,9,REP,County Treasurer,,"BINGHAM, MARY",Layton #5
+Graham,429,157,265,7,REP,County Treasurer,,"BINGHAM, MARY",Thatcher #6
+Graham,834,275,541,18,REP,County Treasurer,,"BINGHAM, MARY",Thatcher #7
+Graham,323,121,200,2,REP,County Treasurer,,"BINGHAM, MARY",Central #8
+Graham,979,384,578,17,REP,County Treasurer,,"BINGHAM, MARY",Pima #9
+Graham,123,54,69,0,REP,County Treasurer,,"BINGHAM, MARY",Ft Thomas #10
+Graham,237,202,35,0,REP,County Treasurer,,"BINGHAM, MARY",Bylas #11
+Graham,24,0,24,0,REP,County Treasurer,,"BINGHAM, MARY",Klondyke #12
+Graham,104,46,55,3,REP,County Treasurer,,"BINGHAM, MARY",Bonita #13
+Graham,154,47,106,1,REP,County Treasurer,,"BINGHAM, MARY",Thunderbird #14
+Graham,550,143,396,11,REP,County Treasurer,,"BINGHAM, MARY",Safford #15
+Graham,138,123,15,0,REP,County Treasurer,,"BINGHAM, MARY",Peridot #16
+Graham,97,25,70,2,REP,County Treasurer,,"BINGHAM, MARY",Cactus #17
+Graham,562,203,350,9,REP,County Treasurer,,"BINGHAM, MARY",Jackson #18
+Graham,524,163,351,10,REP,County Treasurer,,"BINGHAM, MARY",Desert Hills #19
+Graham,309,113,189,7,REP,County Treasurer,,"BINGHAM, MARY",Artesia #20
+Graham,44,10,34,0,REP,County Treasurer,,"BINGHAM, MARY",Quatro Cerros #21
+Graham,8,3,5,0,REP,County Treasurer,,"BINGHAM, MARY",Gila River #22
+Graham,317,106,210,1,DEM,County Treasurer,,"BURNETT, DEBBIE",Solomon #1
+Graham,407,122,280,5,DEM,County Treasurer,,"BURNETT, DEBBIE",Safford #2
+Graham,181,46,134,1,DEM,County Treasurer,,"BURNETT, DEBBIE",Safford #3
+Graham,165,33,132,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Layton #4
+Graham,395,113,276,6,DEM,County Treasurer,,"BURNETT, DEBBIE",Layton #5
+Graham,120,30,89,1,DEM,County Treasurer,,"BURNETT, DEBBIE",Thatcher #6
+Graham,339,91,243,5,DEM,County Treasurer,,"BURNETT, DEBBIE",Thatcher #7
+Graham,110,36,74,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Central #8
+Graham,572,234,327,11,DEM,County Treasurer,,"BURNETT, DEBBIE",Pima #9
+Graham,60,18,42,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Ft Thomas #10
+Graham,430,319,109,2,DEM,County Treasurer,,"BURNETT, DEBBIE",Bylas #11
+Graham,18,2,16,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Klondyke #12
+Graham,10,3,7,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Bonita #13
+Graham,78,28,50,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Thunderbird #14
+Graham,482,118,359,5,DEM,County Treasurer,,"BURNETT, DEBBIE",Safford #15
+Graham,263,209,54,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Peridot #16
+Graham,54,15,39,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Cactus #17
+Graham,242,70,170,2,DEM,County Treasurer,,"BURNETT, DEBBIE",Jackson #18
+Graham,228,62,164,2,DEM,County Treasurer,,"BURNETT, DEBBIE",Desert Hills #19
+Graham,182,58,123,1,DEM,County Treasurer,,"BURNETT, DEBBIE",Artesia #20
+Graham,18,3,15,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Quatro Cerros #21
+Graham,13,1,12,0,DEM,County Treasurer,,"BURNETT, DEBBIE",Gila River #22
+Graham,1,0,0,1,NON,County Treasurer,,WRITE-IN,Solomon #1
+Graham,2,0,2,0,NON,County Treasurer,,WRITE-IN,Safford #2
+Graham,1,1,0,0,NON,County Treasurer,,WRITE-IN,Safford #3
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Layton #4
+Graham,1,0,1,0,NON,County Treasurer,,WRITE-IN,Layton #5
+Graham,2,0,2,0,NON,County Treasurer,,WRITE-IN,Thatcher #6
+Graham,1,0,1,0,NON,County Treasurer,,WRITE-IN,Thatcher #7
+Graham,1,0,1,0,NON,County Treasurer,,WRITE-IN,Central #8
+Graham,2,1,1,0,NON,County Treasurer,,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Ft Thomas #10
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Bylas #11
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Bonita #13
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Thunderbird #14
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Safford #15
+Graham,1,1,0,0,NON,County Treasurer,,WRITE-IN,Peridot #16
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Cactus #17
+Graham,3,2,1,0,NON,County Treasurer,,WRITE-IN,Jackson #18
+Graham,1,1,0,0,NON,County Treasurer,,WRITE-IN,Desert Hills #19
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,County Treasurer,,WRITE-IN,Gila River #22
+Graham,3,1,2,0,,County Treasurer,,OVER VOTES,Solomon #1
+Graham,2,0,2,0,,County Treasurer,,OVER VOTES,Safford #2
+Graham,1,0,1,0,,County Treasurer,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Layton #5
+Graham,1,0,1,0,,County Treasurer,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Thatcher #7
+Graham,1,1,0,0,,County Treasurer,,OVER VOTES,Central #8
+Graham,2,0,2,0,,County Treasurer,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Thunderbird #14
+Graham,1,0,1,0,,County Treasurer,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Cactus #17
+Graham,2,0,2,0,,County Treasurer,,OVER VOTES,Jackson #18
+Graham,1,1,0,0,,County Treasurer,,OVER VOTES,Desert Hills #19
+Graham,1,0,1,0,,County Treasurer,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,County Treasurer,,OVER VOTES,Gila River #22
+Graham,25,9,16,0,,County Treasurer,,UNDER VOTES,Solomon #1
+Graham,38,12,25,1,,County Treasurer,,UNDER VOTES,Safford #2
+Graham,15,1,14,0,,County Treasurer,,UNDER VOTES,Safford #3
+Graham,21,9,12,0,,County Treasurer,,UNDER VOTES,Layton #4
+Graham,31,12,19,0,,County Treasurer,,UNDER VOTES,Layton #5
+Graham,32,10,22,0,,County Treasurer,,UNDER VOTES,Thatcher #6
+Graham,40,19,21,0,,County Treasurer,,UNDER VOTES,Thatcher #7
+Graham,16,9,7,0,,County Treasurer,,UNDER VOTES,Central #8
+Graham,60,24,35,1,,County Treasurer,,UNDER VOTES,Pima #9
+Graham,12,3,9,0,,County Treasurer,,UNDER VOTES,Ft Thomas #10
+Graham,47,41,6,0,,County Treasurer,,UNDER VOTES,Bylas #11
+Graham,2,0,2,0,,County Treasurer,,UNDER VOTES,Klondyke #12
+Graham,7,2,5,0,,County Treasurer,,UNDER VOTES,Bonita #13
+Graham,13,6,5,2,,County Treasurer,,UNDER VOTES,Thunderbird #14
+Graham,46,9,37,0,,County Treasurer,,UNDER VOTES,Safford #15
+Graham,19,17,2,0,,County Treasurer,,UNDER VOTES,Peridot #16
+Graham,5,1,4,0,,County Treasurer,,UNDER VOTES,Cactus #17
+Graham,38,17,21,0,,County Treasurer,,UNDER VOTES,Jackson #18
+Graham,29,9,19,1,,County Treasurer,,UNDER VOTES,Desert Hills #19
+Graham,25,7,18,0,,County Treasurer,,UNDER VOTES,Artesia #20
+Graham,3,1,2,0,,County Treasurer,,UNDER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,County Treasurer,,UNDER VOTES,Gila River #22
+Graham,528,172,352,4,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Solomon #1
+Graham,768,253,498,17,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Safford #2
+Graham,376,101,271,4,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Safford #3
+Graham,322,77,243,2,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Layton #4
+Graham,791,226,551,14,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Layton #5
+Graham,449,153,289,7,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Thatcher #6
+Graham,933,290,626,17,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Thatcher #7
+Graham,328,128,199,1,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Central #8
+Graham,1188,475,688,25,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Pima #9
+Graham,139,60,79,0,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Ft Thomas #10
+Graham,606,471,133,2,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Bylas #11
+Graham,34,2,32,0,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Klondyke #12
+Graham,60,30,28,2,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Bonita #13
+Graham,162,61,99,2,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Thunderbird #14
+Graham,899,222,661,16,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Safford #15
+Graham,372,310,62,0,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Peridot #16
+Graham,134,35,98,1,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Cactus #17
+Graham,646,227,409,10,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Jackson #18
+Graham,570,168,394,8,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Desert Hills #19
+Graham,382,140,234,8,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Artesia #20
+Graham,46,9,37,0,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Quatro Cerros #21
+Graham,19,4,15,0,DEM,Co. School Superintendent,,"MCGAUGHEY, DONNA",Gila River #22
+Graham,7,2,4,1,NON,Co. School Superintendent,,WRITE-IN,Solomon #1
+Graham,10,1,9,0,NON,Co. School Superintendent,,WRITE-IN,Safford #2
+Graham,5,2,3,0,NON,Co. School Superintendent,,WRITE-IN,Safford #3
+Graham,3,2,1,0,NON,Co. School Superintendent,,WRITE-IN,Layton #4
+Graham,8,2,6,0,NON,Co. School Superintendent,,WRITE-IN,Layton #5
+Graham,6,3,3,0,NON,Co. School Superintendent,,WRITE-IN,Thatcher #6
+Graham,4,2,1,1,NON,Co. School Superintendent,,WRITE-IN,Thatcher #7
+Graham,3,2,1,0,NON,Co. School Superintendent,,WRITE-IN,Central #8
+Graham,13,8,5,0,NON,Co. School Superintendent,,WRITE-IN,Pima #9
+Graham,2,1,1,0,NON,Co. School Superintendent,,WRITE-IN,Ft Thomas #10
+Graham,1,1,0,0,NON,Co. School Superintendent,,WRITE-IN,Bylas #11
+Graham,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Klondyke #12
+Graham,3,2,1,0,NON,Co. School Superintendent,,WRITE-IN,Bonita #13
+Graham,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Thunderbird #14
+Graham,7,2,5,0,NON,Co. School Superintendent,,WRITE-IN,Safford #15
+Graham,3,2,1,0,NON,Co. School Superintendent,,WRITE-IN,Peridot #16
+Graham,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Cactus #17
+Graham,11,2,9,0,NON,Co. School Superintendent,,WRITE-IN,Jackson #18
+Graham,21,9,11,1,NON,Co. School Superintendent,,WRITE-IN,Desert Hills #19
+Graham,6,3,3,0,NON,Co. School Superintendent,,WRITE-IN,Artesia #20
+Graham,2,1,1,0,NON,Co. School Superintendent,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,Co. School Superintendent,,OVER VOTES,Solomon #1
+Graham,1,0,1,0,,Co. School Superintendent,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Safford #3
+Graham,1,1,0,0,,Co. School Superintendent,,OVER VOTES,Layton #4
+Graham,1,0,1,0,,Co. School Superintendent,,OVER VOTES,Layton #5
+Graham,1,1,0,0,,Co. School Superintendent,,OVER VOTES,Thatcher #6
+Graham,1,0,1,0,,Co. School Superintendent,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Central #8
+Graham,4,0,4,0,,Co. School Superintendent,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Thunderbird #14
+Graham,1,1,0,0,,Co. School Superintendent,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Cactus #17
+Graham,1,0,1,0,,Co. School Superintendent,,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Gila River #22
+Graham,168,51,117,0,,Co. School Superintendent,,UNDER VOTES,Solomon #1
+Graham,174,67,102,5,,Co. School Superintendent,,UNDER VOTES,Safford #2
+Graham,108,19,89,0,,Co. School Superintendent,,UNDER VOTES,Safford #3
+Graham,60,23,36,1,,Co. School Superintendent,,UNDER VOTES,Layton #4
+Graham,130,39,90,1,,Co. School Superintendent,,UNDER VOTES,Layton #5
+Graham,128,40,87,1,,Co. School Superintendent,,UNDER VOTES,Thatcher #6
+Graham,276,93,178,5,,Co. School Superintendent,,UNDER VOTES,Thatcher #7
+Graham,120,37,82,1,,Co. School Superintendent,,UNDER VOTES,Central #8
+Graham,410,160,246,4,,Co. School Superintendent,,UNDER VOTES,Pima #9
+Graham,54,14,40,0,,Co. School Superintendent,,UNDER VOTES,Ft Thomas #10
+Graham,107,90,17,0,,Co. School Superintendent,,UNDER VOTES,Bylas #11
+Graham,10,0,10,0,,Co. School Superintendent,,UNDER VOTES,Klondyke #12
+Graham,58,19,38,1,,Co. School Superintendent,,UNDER VOTES,Bonita #13
+Graham,83,20,62,1,,Co. School Superintendent,,UNDER VOTES,Thunderbird #14
+Graham,172,45,127,0,,Co. School Superintendent,,UNDER VOTES,Safford #15
+Graham,46,38,8,0,,Co. School Superintendent,,UNDER VOTES,Peridot #16
+Graham,22,6,15,1,,Co. School Superintendent,,UNDER VOTES,Cactus #17
+Graham,189,63,125,1,,Co. School Superintendent,,UNDER VOTES,Jackson #18
+Graham,192,59,129,4,,Co. School Superintendent,,UNDER VOTES,Desert Hills #19
+Graham,129,35,94,0,,Co. School Superintendent,,UNDER VOTES,Artesia #20
+Graham,17,4,13,0,,Co. School Superintendent,,UNDER VOTES,Quatro Cerros #21
+Graham,2,0,2,0,,Co. School Superintendent,,UNDER VOTES,Gila River #22
+Graham,554,177,373,4,DEM,County Recorder,,"JOHN, WENDY",Solomon #1
+Graham,791,254,520,17,DEM,County Recorder,,"JOHN, WENDY",Safford #2
+Graham,396,105,287,4,DEM,County Recorder,,"JOHN, WENDY",Safford #3
+Graham,315,75,238,2,DEM,County Recorder,,"JOHN, WENDY",Layton #4
+Graham,783,216,553,14,DEM,County Recorder,,"JOHN, WENDY",Layton #5
+Graham,467,159,300,8,DEM,County Recorder,,"JOHN, WENDY",Thatcher #6
+Graham,959,298,639,22,DEM,County Recorder,,"JOHN, WENDY",Thatcher #7
+Graham,337,130,206,1,DEM,County Recorder,,"JOHN, WENDY",Central #8
+Graham,1233,494,713,26,DEM,County Recorder,,"JOHN, WENDY",Pima #9
+Graham,143,62,81,0,DEM,County Recorder,,"JOHN, WENDY",Ft Thomas #10
+Graham,631,489,140,2,DEM,County Recorder,,"JOHN, WENDY",Bylas #11
+Graham,41,2,39,0,DEM,County Recorder,,"JOHN, WENDY",Klondyke #12
+Graham,66,33,31,2,DEM,County Recorder,,"JOHN, WENDY",Bonita #13
+Graham,168,57,110,1,DEM,County Recorder,,"JOHN, WENDY",Thunderbird #14
+Graham,902,226,660,16,DEM,County Recorder,,"JOHN, WENDY",Safford #15
+Graham,380,315,65,0,DEM,County Recorder,,"JOHN, WENDY",Peridot #16
+Graham,134,33,99,2,DEM,County Recorder,,"JOHN, WENDY",Cactus #17
+Graham,642,219,413,10,DEM,County Recorder,,"JOHN, WENDY",Jackson #18
+Graham,590,169,412,9,DEM,County Recorder,,"JOHN, WENDY",Desert Hills #19
+Graham,400,141,251,8,DEM,County Recorder,,"JOHN, WENDY",Artesia #20
+Graham,47,9,38,0,DEM,County Recorder,,"JOHN, WENDY",Quatro Cerros #21
+Graham,19,4,15,0,DEM,County Recorder,,"JOHN, WENDY",Gila River #22
+Graham,3,0,2,1,NON,County Recorder,,WRITE-IN,Solomon #1
+Graham,8,1,6,1,NON,County Recorder,,WRITE-IN,Safford #2
+Graham,4,1,3,0,NON,County Recorder,,WRITE-IN,Safford #3
+Graham,1,1,0,0,NON,County Recorder,,WRITE-IN,Layton #4
+Graham,6,1,5,0,NON,County Recorder,,WRITE-IN,Layton #5
+Graham,5,2,3,0,NON,County Recorder,,WRITE-IN,Thatcher #6
+Graham,4,3,1,0,NON,County Recorder,,WRITE-IN,Thatcher #7
+Graham,3,1,2,0,NON,County Recorder,,WRITE-IN,Central #8
+Graham,11,7,4,0,NON,County Recorder,,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,County Recorder,,WRITE-IN,Ft Thomas #10
+Graham,1,1,0,0,NON,County Recorder,,WRITE-IN,Bylas #11
+Graham,0,0,0,0,NON,County Recorder,,WRITE-IN,Klondyke #12
+Graham,2,1,1,0,NON,County Recorder,,WRITE-IN,Bonita #13
+Graham,0,0,0,0,NON,County Recorder,,WRITE-IN,Thunderbird #14
+Graham,4,0,4,0,NON,County Recorder,,WRITE-IN,Safford #15
+Graham,1,0,1,0,NON,County Recorder,,WRITE-IN,Peridot #16
+Graham,0,0,0,0,NON,County Recorder,,WRITE-IN,Cactus #17
+Graham,13,3,10,0,NON,County Recorder,,WRITE-IN,Jackson #18
+Graham,18,8,10,0,NON,County Recorder,,WRITE-IN,Desert Hills #19
+Graham,6,3,3,0,NON,County Recorder,,WRITE-IN,Artesia #20
+Graham,1,0,1,0,NON,County Recorder,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,County Recorder,,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,County Recorder,,OVER VOTES,Solomon #1
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Central #8
+Graham,2,2,0,0,,County Recorder,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Cactus #17
+Graham,2,0,2,0,,County Recorder,,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Desert Hills #19
+Graham,1,0,1,0,,County Recorder,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,County Recorder,,OVER VOTES,Gila River #22
+Graham,146,48,98,0,,County Recorder,,UNDER VOTES,Solomon #1
+Graham,154,66,84,4,,County Recorder,,UNDER VOTES,Safford #2
+Graham,89,16,73,0,,County Recorder,,UNDER VOTES,Safford #3
+Graham,70,27,42,1,,County Recorder,,UNDER VOTES,Layton #4
+Graham,141,50,90,1,,County Recorder,,UNDER VOTES,Layton #5
+Graham,112,36,76,0,,County Recorder,,UNDER VOTES,Thatcher #6
+Graham,251,84,166,1,,County Recorder,,UNDER VOTES,Thatcher #7
+Graham,111,36,74,1,,County Recorder,,UNDER VOTES,Central #8
+Graham,369,140,226,3,,County Recorder,,UNDER VOTES,Pima #9
+Graham,52,13,39,0,,County Recorder,,UNDER VOTES,Ft Thomas #10
+Graham,82,72,10,0,,County Recorder,,UNDER VOTES,Bylas #11
+Graham,3,0,3,0,,County Recorder,,UNDER VOTES,Klondyke #12
+Graham,53,17,35,1,,County Recorder,,UNDER VOTES,Bonita #13
+Graham,77,24,51,2,,County Recorder,,UNDER VOTES,Thunderbird #14
+Graham,173,44,129,0,,County Recorder,,UNDER VOTES,Safford #15
+Graham,40,35,5,0,,County Recorder,,UNDER VOTES,Peridot #16
+Graham,22,8,14,0,,County Recorder,,UNDER VOTES,Cactus #17
+Graham,190,70,119,1,,County Recorder,,UNDER VOTES,Jackson #18
+Graham,175,59,112,4,,County Recorder,,UNDER VOTES,Desert Hills #19
+Graham,110,34,76,0,,County Recorder,,UNDER VOTES,Artesia #20
+Graham,17,5,12,0,,County Recorder,,UNDER VOTES,Quatro Cerros #21
+Graham,2,0,2,0,,County Recorder,,UNDER VOTES,Gila River #22
+Graham,568,188,376,4,REP,County Assessor,,"ALDER, DARLENE",Solomon #1
+Graham,775,270,487,18,REP,County Assessor,,"ALDER, DARLENE",Safford #2
+Graham,419,105,311,3,REP,County Assessor,,"ALDER, DARLENE",Safford #3
+Graham,309,84,223,2,REP,County Assessor,,"ALDER, DARLENE",Layton #4
+Graham,786,225,546,15,REP,County Assessor,,"ALDER, DARLENE",Layton #5
+Graham,501,173,321,7,REP,County Assessor,,"ALDER, DARLENE",Thatcher #6
+Graham,1040,333,687,20,REP,County Assessor,,"ALDER, DARLENE",Thatcher #7
+Graham,374,147,225,2,REP,County Assessor,,"ALDER, DARLENE",Central #8
+Graham,1327,543,757,27,REP,County Assessor,,"ALDER, DARLENE",Pima #9
+Graham,154,66,88,0,REP,County Assessor,,"ALDER, DARLENE",Ft Thomas #10
+Graham,454,351,101,2,REP,County Assessor,,"ALDER, DARLENE",Bylas #11
+Graham,34,2,32,0,REP,County Assessor,,"ALDER, DARLENE",Klondyke #12
+Graham,106,46,58,2,REP,County Assessor,,"ALDER, DARLENE",Bonita #13
+Graham,179,63,113,3,REP,County Assessor,,"ALDER, DARLENE",Thunderbird #14
+Graham,856,224,618,14,REP,County Assessor,,"ALDER, DARLENE",Safford #15
+Graham,307,260,47,0,REP,County Assessor,,"ALDER, DARLENE",Peridot #16
+Graham,131,35,94,2,REP,County Assessor,,"ALDER, DARLENE",Cactus #17
+Graham,696,244,441,11,REP,County Assessor,,"ALDER, DARLENE",Jackson #18
+Graham,658,203,444,11,REP,County Assessor,,"ALDER, DARLENE",Desert Hills #19
+Graham,433,152,274,7,REP,County Assessor,,"ALDER, DARLENE",Artesia #20
+Graham,56,12,44,0,REP,County Assessor,,"ALDER, DARLENE",Quatro Cerros #21
+Graham,19,4,15,0,REP,County Assessor,,"ALDER, DARLENE",Gila River #22
+Graham,4,1,3,0,NON,County Assessor,,WRITE-IN,Solomon #1
+Graham,5,1,3,1,NON,County Assessor,,WRITE-IN,Safford #2
+Graham,3,1,2,0,NON,County Assessor,,WRITE-IN,Safford #3
+Graham,1,0,1,0,NON,County Assessor,,WRITE-IN,Layton #4
+Graham,9,5,4,0,NON,County Assessor,,WRITE-IN,Layton #5
+Graham,1,1,0,0,NON,County Assessor,,WRITE-IN,Thatcher #6
+Graham,7,2,5,0,NON,County Assessor,,WRITE-IN,Thatcher #7
+Graham,3,0,3,0,NON,County Assessor,,WRITE-IN,Central #8
+Graham,9,1,8,0,NON,County Assessor,,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,County Assessor,,WRITE-IN,Ft Thomas #10
+Graham,14,10,4,0,NON,County Assessor,,WRITE-IN,Bylas #11
+Graham,1,0,1,0,NON,County Assessor,,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,NON,County Assessor,,WRITE-IN,Bonita #13
+Graham,0,0,0,0,NON,County Assessor,,WRITE-IN,Thunderbird #14
+Graham,2,0,2,0,NON,County Assessor,,WRITE-IN,Safford #15
+Graham,8,6,2,0,NON,County Assessor,,WRITE-IN,Peridot #16
+Graham,2,0,2,0,NON,County Assessor,,WRITE-IN,Cactus #17
+Graham,4,3,1,0,NON,County Assessor,,WRITE-IN,Jackson #18
+Graham,10,5,5,0,NON,County Assessor,,WRITE-IN,Desert Hills #19
+Graham,1,0,1,0,NON,County Assessor,,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,County Assessor,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,County Assessor,,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,County Assessor,,OVER VOTES,Solomon #1
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Layton #4
+Graham,1,1,0,0,,County Assessor,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Central #8
+Graham,1,1,0,0,,County Assessor,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Ft Thomas #10
+Graham,1,1,0,0,,County Assessor,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Cactus #17
+Graham,1,0,1,0,,County Assessor,,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,County Assessor,,OVER VOTES,Gila River #22
+Graham,131,36,94,1,,County Assessor,,UNDER VOTES,Solomon #1
+Graham,173,50,120,3,,County Assessor,,UNDER VOTES,Safford #2
+Graham,67,16,50,1,,County Assessor,,UNDER VOTES,Safford #3
+Graham,76,19,56,1,,County Assessor,,UNDER VOTES,Layton #4
+Graham,134,36,98,0,,County Assessor,,UNDER VOTES,Layton #5
+Graham,82,23,58,1,,County Assessor,,UNDER VOTES,Thatcher #6
+Graham,167,50,114,3,,County Assessor,,UNDER VOTES,Thatcher #7
+Graham,74,20,54,0,,County Assessor,,UNDER VOTES,Central #8
+Graham,278,98,178,2,,County Assessor,,UNDER VOTES,Pima #9
+Graham,41,9,32,0,,County Assessor,,UNDER VOTES,Ft Thomas #10
+Graham,245,200,45,0,,County Assessor,,UNDER VOTES,Bylas #11
+Graham,9,0,9,0,,County Assessor,,UNDER VOTES,Klondyke #12
+Graham,15,5,9,1,,County Assessor,,UNDER VOTES,Bonita #13
+Graham,66,18,48,0,,County Assessor,,UNDER VOTES,Thunderbird #14
+Graham,221,46,173,2,,County Assessor,,UNDER VOTES,Safford #15
+Graham,106,84,22,0,,County Assessor,,UNDER VOTES,Peridot #16
+Graham,23,6,17,0,,County Assessor,,UNDER VOTES,Cactus #17
+Graham,146,45,101,0,,County Assessor,,UNDER VOTES,Jackson #18
+Graham,115,28,85,2,,County Assessor,,UNDER VOTES,Desert Hills #19
+Graham,83,26,56,1,,County Assessor,,UNDER VOTES,Artesia #20
+Graham,9,2,7,0,,County Assessor,,UNDER VOTES,Quatro Cerros #21
+Graham,2,0,2,0,,County Assessor,,UNDER VOTES,Gila River #22
+Graham,351,108,240,3,NON,Justice Supreme Court-TIMMER,,YES,Solomon #1
+Graham,546,181,352,13,NON,Justice Supreme Court-TIMMER,,YES,Safford #2
+Graham,299,79,219,1,NON,Justice Supreme Court-TIMMER,,YES,Safford #3
+Graham,220,49,170,1,NON,Justice Supreme Court-TIMMER,,YES,Layton #4
+Graham,562,160,393,9,NON,Justice Supreme Court-TIMMER,,YES,Layton #5
+Graham,362,116,242,4,NON,Justice Supreme Court-TIMMER,,YES,Thatcher #6
+Graham,735,234,490,11,NON,Justice Supreme Court-TIMMER,,YES,Thatcher #7
+Graham,247,99,147,1,NON,Justice Supreme Court-TIMMER,,YES,Central #8
+Graham,924,378,531,15,NON,Justice Supreme Court-TIMMER,,YES,Pima #9
+Graham,103,40,63,0,NON,Justice Supreme Court-TIMMER,,YES,Ft Thomas #10
+Graham,363,284,79,0,NON,Justice Supreme Court-TIMMER,,YES,Bylas #11
+Graham,22,1,21,0,NON,Justice Supreme Court-TIMMER,,YES,Klondyke #12
+Graham,67,34,31,2,NON,Justice Supreme Court-TIMMER,,YES,Bonita #13
+Graham,123,42,80,1,NON,Justice Supreme Court-TIMMER,,YES,Thunderbird #14
+Graham,631,158,466,7,NON,Justice Supreme Court-TIMMER,,YES,Safford #15
+Graham,266,221,45,0,NON,Justice Supreme Court-TIMMER,,YES,Peridot #16
+Graham,84,23,60,1,NON,Justice Supreme Court-TIMMER,,YES,Cactus #17
+Graham,483,167,309,7,NON,Justice Supreme Court-TIMMER,,YES,Jackson #18
+Graham,419,121,291,7,NON,Justice Supreme Court-TIMMER,,YES,Desert Hills #19
+Graham,294,107,186,1,NON,Justice Supreme Court-TIMMER,,YES,Artesia #20
+Graham,32,7,25,0,NON,Justice Supreme Court-TIMMER,,YES,Quatro Cerros #21
+Graham,16,4,12,0,NON,Justice Supreme Court-TIMMER,,YES,Gila River #22
+Graham,149,50,98,1,NON,Justice Supreme Court-TIMMER,,NO,Solomon #1
+Graham,167,60,103,4,NON,Justice Supreme Court-TIMMER,,NO,Safford #2
+Graham,74,18,56,0,NON,Justice Supreme Court-TIMMER,,NO,Safford #3
+Graham,52,23,29,0,NON,Justice Supreme Court-TIMMER,,NO,Layton #4
+Graham,148,45,102,1,NON,Justice Supreme Court-TIMMER,,NO,Layton #5
+Graham,71,29,41,1,NON,Justice Supreme Court-TIMMER,,NO,Thatcher #6
+Graham,180,65,109,6,NON,Justice Supreme Court-TIMMER,,NO,Thatcher #7
+Graham,70,25,45,0,NON,Justice Supreme Court-TIMMER,,NO,Central #8
+Graham,263,88,169,6,NON,Justice Supreme Court-TIMMER,,NO,Pima #9
+Graham,33,15,18,0,NON,Justice Supreme Court-TIMMER,,NO,Ft Thomas #10
+Graham,170,126,42,2,NON,Justice Supreme Court-TIMMER,,NO,Bylas #11
+Graham,6,0,6,0,NON,Justice Supreme Court-TIMMER,,NO,Klondyke #12
+Graham,18,8,10,0,NON,Justice Supreme Court-TIMMER,,NO,Bonita #13
+Graham,44,16,27,1,NON,Justice Supreme Court-TIMMER,,NO,Thunderbird #14
+Graham,183,52,126,5,NON,Justice Supreme Court-TIMMER,,NO,Safford #15
+Graham,105,86,19,0,NON,Justice Supreme Court-TIMMER,,NO,Peridot #16
+Graham,21,6,14,1,NON,Justice Supreme Court-TIMMER,,NO,Cactus #17
+Graham,155,57,97,1,NON,Justice Supreme Court-TIMMER,,NO,Jackson #18
+Graham,162,54,107,1,NON,Justice Supreme Court-TIMMER,,NO,Desert Hills #19
+Graham,99,30,65,4,NON,Justice Supreme Court-TIMMER,,NO,Artesia #20
+Graham,8,0,8,0,NON,Justice Supreme Court-TIMMER,,NO,Quatro Cerros #21
+Graham,1,0,1,0,NON,Justice Supreme Court-TIMMER,,NO,Gila River #22
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Solomon #1
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Layton #4
+Graham,1,0,1,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Central #8
+Graham,1,0,1,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Cactus #17
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Jackson #18
+Graham,2,0,2,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Gila River #22
+Graham,204,67,136,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Solomon #1
+Graham,240,80,155,5,,Justice Supreme Court-TIMMER,,UNDER VOTES,Safford #2
+Graham,116,25,88,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,Safford #3
+Graham,114,31,81,2,,Justice Supreme Court-TIMMER,,UNDER VOTES,Layton #4
+Graham,219,62,152,5,,Justice Supreme Court-TIMMER,,UNDER VOTES,Layton #5
+Graham,151,52,96,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,Thatcher #6
+Graham,299,86,207,6,,Justice Supreme Court-TIMMER,,UNDER VOTES,Thatcher #7
+Graham,134,43,90,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Central #8
+Graham,427,177,242,8,,Justice Supreme Court-TIMMER,,UNDER VOTES,Pima #9
+Graham,59,20,39,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Ft Thomas #10
+Graham,181,152,29,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Bylas #11
+Graham,16,1,15,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Klondyke #12
+Graham,36,9,26,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Bonita #13
+Graham,78,23,54,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Thunderbird #14
+Graham,265,60,201,4,,Justice Supreme Court-TIMMER,,UNDER VOTES,Safford #15
+Graham,50,43,7,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Peridot #16
+Graham,51,12,39,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Cactus #17
+Graham,209,68,138,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,Jackson #18
+Graham,200,61,134,5,,Justice Supreme Court-TIMMER,,UNDER VOTES,Desert Hills #19
+Graham,124,41,80,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,Artesia #20
+Graham,25,7,18,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Quatro Cerros #21
+Graham,4,0,4,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Gila River #22
+Graham,503,166,332,5,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Solomon #1
+Graham,747,256,471,20,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Safford #2
+Graham,407,102,302,3,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Safford #3
+Graham,298,81,214,3,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Layton #4
+Graham,729,219,497,13,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Layton #5
+Graham,470,160,303,7,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Thatcher #6
+Graham,957,312,625,20,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Thatcher #7
+Graham,354,136,216,2,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Central #8
+Graham,1214,490,696,28,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Pima #9
+Graham,129,54,75,0,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Ft Thomas #10
+Graham,376,287,87,2,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Bylas #11
+Graham,29,2,27,0,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Klondyke #12
+Graham,96,44,50,2,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Bonita #13
+Graham,181,68,110,3,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Thunderbird #14
+Graham,832,221,598,13,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Safford #15
+Graham,257,219,38,0,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Peridot #16
+Graham,121,35,85,1,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Cactus #17
+Graham,673,239,425,9,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Jackson #18
+Graham,626,194,424,8,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Desert Hills #19
+Graham,417,148,262,7,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Artesia #20
+Graham,50,10,40,0,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Quatro Cerros #21
+Graham,19,4,15,0,REP,Judge of Superior Court,,"PETERSON, MICHAEL",Gila River #22
+Graham,10,3,7,0,NON,Judge of Superior Court,,WRITE-IN,Solomon #1
+Graham,13,1,12,0,NON,Judge of Superior Court,,WRITE-IN,Safford #2
+Graham,4,2,2,0,NON,Judge of Superior Court,,WRITE-IN,Safford #3
+Graham,3,0,3,0,NON,Judge of Superior Court,,WRITE-IN,Layton #4
+Graham,23,11,12,0,NON,Judge of Superior Court,,WRITE-IN,Layton #5
+Graham,9,6,3,0,NON,Judge of Superior Court,,WRITE-IN,Thatcher #6
+Graham,9,4,4,1,NON,Judge of Superior Court,,WRITE-IN,Thatcher #7
+Graham,4,2,2,0,NON,Judge of Superior Court,,WRITE-IN,Central #8
+Graham,15,4,11,0,NON,Judge of Superior Court,,WRITE-IN,Pima #9
+Graham,2,2,0,0,NON,Judge of Superior Court,,WRITE-IN,Ft Thomas #10
+Graham,5,3,2,0,NON,Judge of Superior Court,,WRITE-IN,Bylas #11
+Graham,1,0,1,0,NON,Judge of Superior Court,,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,NON,Judge of Superior Court,,WRITE-IN,Bonita #13
+Graham,2,1,1,0,NON,Judge of Superior Court,,WRITE-IN,Thunderbird #14
+Graham,8,3,4,1,NON,Judge of Superior Court,,WRITE-IN,Safford #15
+Graham,6,4,2,0,NON,Judge of Superior Court,,WRITE-IN,Peridot #16
+Graham,5,0,4,1,NON,Judge of Superior Court,,WRITE-IN,Cactus #17
+Graham,9,0,9,0,NON,Judge of Superior Court,,WRITE-IN,Jackson #18
+Graham,8,3,5,0,NON,Judge of Superior Court,,WRITE-IN,Desert Hills #19
+Graham,7,3,4,0,NON,Judge of Superior Court,,WRITE-IN,Artesia #20
+Graham,1,0,1,0,NON,Judge of Superior Court,,WRITE-IN,Quatro Cerros #21
+Graham,0,0,0,0,NON,Judge of Superior Court,,WRITE-IN,Gila River #22
+Graham,1,0,1,0,,Judge of Superior Court,,OVER VOTES,Solomon #1
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Central #8
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Ft Thomas #10
+Graham,1,1,0,0,,Judge of Superior Court,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Cactus #17
+Graham,1,0,1,0,,Judge of Superior Court,,OVER VOTES,Jackson #18
+Graham,1,0,1,0,,Judge of Superior Court,,OVER VOTES,Desert Hills #19
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,Judge of Superior Court,,OVER VOTES,Gila River #22
+Graham,190,56,134,0,,Judge of Superior Court,,UNDER VOTES,Solomon #1
+Graham,193,64,127,2,,Judge of Superior Court,,UNDER VOTES,Safford #2
+Graham,78,18,59,1,,Judge of Superior Court,,UNDER VOTES,Safford #3
+Graham,85,22,63,0,,Judge of Superior Court,,UNDER VOTES,Layton #4
+Graham,178,37,139,2,,Judge of Superior Court,,UNDER VOTES,Layton #5
+Graham,105,31,73,1,,Judge of Superior Court,,UNDER VOTES,Thatcher #6
+Graham,248,69,177,2,,Judge of Superior Court,,UNDER VOTES,Thatcher #7
+Graham,93,29,64,0,,Judge of Superior Court,,UNDER VOTES,Central #8
+Graham,386,149,236,1,,Judge of Superior Court,,UNDER VOTES,Pima #9
+Graham,64,19,45,0,,Judge of Superior Court,,UNDER VOTES,Ft Thomas #10
+Graham,332,271,61,0,,Judge of Superior Court,,UNDER VOTES,Bylas #11
+Graham,14,0,14,0,,Judge of Superior Court,,UNDER VOTES,Klondyke #12
+Graham,25,7,17,1,,Judge of Superior Court,,UNDER VOTES,Bonita #13
+Graham,62,12,50,0,,Judge of Superior Court,,UNDER VOTES,Thunderbird #14
+Graham,239,46,191,2,,Judge of Superior Court,,UNDER VOTES,Safford #15
+Graham,158,127,31,0,,Judge of Superior Court,,UNDER VOTES,Peridot #16
+Graham,30,6,24,0,,Judge of Superior Court,,UNDER VOTES,Cactus #17
+Graham,164,53,109,2,,Judge of Superior Court,,UNDER VOTES,Jackson #18
+Graham,148,39,104,5,,Judge of Superior Court,,UNDER VOTES,Desert Hills #19
+Graham,93,27,65,1,,Judge of Superior Court,,UNDER VOTES,Artesia #20
+Graham,14,4,10,0,,Judge of Superior Court,,UNDER VOTES,Quatro Cerros #21
+Graham,2,0,2,0,,Judge of Superior Court,,UNDER VOTES,Gila River #22
+Graham,352,110,241,1,NON,Bd Member E. AZ Com. College Dist. 1,,"MONTIERTH, BRAD",Solomon #1
+Graham,461,155,295,11,NON,Bd Member E. AZ Com. College Dist. 1,,"MONTIERTH, BRAD",Safford #2
+Graham,128,50,76,2,NON,Bd Member E. AZ Com. College Dist. 1,,"MONTIERTH, BRAD",Thunderbird #14
+Graham,4,1,3,0,NON,Bd Member E. AZ Com. College Dist. 1,,"MONTIERTH, BRAD",Gila River #22
+Graham,237,83,151,3,NON,Bd Member E. AZ Com. College Dist. 1,,"TELLEZ, NICHOLAS ""NICK""",Solomon #1
+Graham,369,125,234,10,NON,Bd Member E. AZ Com. College Dist. 1,,"TELLEZ, NICHOLAS ""NICK""",Safford #2
+Graham,51,17,34,0,NON,Bd Member E. AZ Com. College Dist. 1,,"TELLEZ, NICHOLAS ""NICK""",Thunderbird #14
+Graham,13,3,10,0,NON,Bd Member E. AZ Com. College Dist. 1,,"TELLEZ, NICHOLAS ""NICK""",Gila River #22
+Graham,1,0,0,1,NON,Bd Member E. AZ Com. College Dist. 1,,WRITE-IN,Solomon #1
+Graham,2,1,1,0,NON,Bd Member E. AZ Com. College Dist. 1,,WRITE-IN,Safford #2
+Graham,0,0,0,0,NON,Bd Member E. AZ Com. College Dist. 1,,WRITE-IN,Thunderbird #14
+Graham,0,0,0,0,NON,Bd Member E. AZ Com. College Dist. 1,,WRITE-IN,Gila River #22
+Graham,0,0,0,0,,Bd Member E. AZ Com. College Dist. 1,,OVER VOTES,Solomon #1
+Graham,1,0,1,0,,Bd Member E. AZ Com. College Dist. 1,,OVER VOTES,Safford #2
+Graham,1,0,1,0,,Bd Member E. AZ Com. College Dist. 1,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,Bd Member E. AZ Com. College Dist. 1,,OVER VOTES,Gila River #22
+Graham,114,32,82,0,,Bd Member E. AZ Com. College Dist. 1,,UNDER VOTES,Solomon #1
+Graham,120,40,79,1,,Bd Member E. AZ Com. College Dist. 1,,UNDER VOTES,Safford #2
+Graham,65,14,50,1,,Bd Member E. AZ Com. College Dist. 1,,UNDER VOTES,Thunderbird #14
+Graham,4,0,4,0,,Bd Member E. AZ Com. College Dist. 1,,UNDER VOTES,Gila River #22
+Graham,379,138,238,3,NON,Bd Member Thatcher USD Dist. 4,,"ALDER, PRESTON",Thatcher #6
+Graham,724,211,498,15,NON,Bd Member Thatcher USD Dist. 4,,"ALDER, PRESTON",Thatcher #7
+Graham,266,103,163,0,NON,Bd Member Thatcher USD Dist. 4,,"ALDER, PRESTON",Central #8
+Graham,15,6,9,0,NON,Bd Member Thatcher USD Dist. 4,,"ALDER, PRESTON",Pima #9
+Graham,26,13,12,1,NON,Bd Member Thatcher USD Dist. 4,,"ALDER, PRESTON",Cactus #17
+Graham,473,175,292,6,NON,Bd Member Thatcher USD Dist. 4,,"ALDER, PRESTON",Jackson #18
+Graham,194,59,132,3,NON,Bd Member Thatcher USD Dist. 4,,"BLOOMFIELD, JANALEE",Thatcher #6
+Graham,432,134,288,10,NON,Bd Member Thatcher USD Dist. 4,,"BLOOMFIELD, JANALEE",Thatcher #7
+Graham,136,50,85,1,NON,Bd Member Thatcher USD Dist. 4,,"BLOOMFIELD, JANALEE",Central #8
+Graham,10,0,10,0,NON,Bd Member Thatcher USD Dist. 4,,"BLOOMFIELD, JANALEE",Pima #9
+Graham,10,5,5,0,NON,Bd Member Thatcher USD Dist. 4,,"BLOOMFIELD, JANALEE",Cactus #17
+Graham,301,87,213,1,NON,Bd Member Thatcher USD Dist. 4,,"BLOOMFIELD, JANALEE",Jackson #18
+Graham,331,122,205,4,NON,Bd Member Thatcher USD Dist. 4,,"BRYCE, REX",Thatcher #6
+Graham,606,179,420,7,NON,Bd Member Thatcher USD Dist. 4,,"BRYCE, REX",Thatcher #7
+Graham,216,81,135,0,NON,Bd Member Thatcher USD Dist. 4,,"BRYCE, REX",Central #8
+Graham,12,6,6,0,NON,Bd Member Thatcher USD Dist. 4,,"BRYCE, REX",Pima #9
+Graham,16,8,8,0,NON,Bd Member Thatcher USD Dist. 4,,"BRYCE, REX",Cactus #17
+Graham,382,144,231,7,NON,Bd Member Thatcher USD Dist. 4,,"BRYCE, REX",Jackson #18
+Graham,379,128,245,6,NON,Bd Member Thatcher USD Dist. 4,,"HAYNIE, TODD",Thatcher #6
+Graham,713,231,471,11,NON,Bd Member Thatcher USD Dist. 4,,"HAYNIE, TODD",Thatcher #7
+Graham,258,100,158,0,NON,Bd Member Thatcher USD Dist. 4,,"HAYNIE, TODD",Central #8
+Graham,16,5,11,0,NON,Bd Member Thatcher USD Dist. 4,,"HAYNIE, TODD",Pima #9
+Graham,21,10,10,1,NON,Bd Member Thatcher USD Dist. 4,,"HAYNIE, TODD",Cactus #17
+Graham,455,156,293,6,NON,Bd Member Thatcher USD Dist. 4,,"HAYNIE, TODD",Jackson #18
+Graham,149,46,102,1,NON,Bd Member Thatcher USD Dist. 4,,"MARTIN, JOY",Thatcher #6
+Graham,391,114,272,5,NON,Bd Member Thatcher USD Dist. 4,,"MARTIN, JOY",Thatcher #7
+Graham,145,39,105,1,NON,Bd Member Thatcher USD Dist. 4,,"MARTIN, JOY",Central #8
+Graham,2,1,1,0,NON,Bd Member Thatcher USD Dist. 4,,"MARTIN, JOY",Pima #9
+Graham,23,12,10,1,NON,Bd Member Thatcher USD Dist. 4,,"MARTIN, JOY",Cactus #17
+Graham,285,106,177,2,NON,Bd Member Thatcher USD Dist. 4,,"MARTIN, JOY",Jackson #18
+Graham,0,0,0,0,NON,Bd Member Thatcher USD Dist. 4,,WRITE-IN,Thatcher #6
+Graham,1,0,1,0,NON,Bd Member Thatcher USD Dist. 4,,WRITE-IN,Thatcher #7
+Graham,8,0,8,0,NON,Bd Member Thatcher USD Dist. 4,,WRITE-IN,Central #8
+Graham,0,0,0,0,NON,Bd Member Thatcher USD Dist. 4,,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,Bd Member Thatcher USD Dist. 4,,WRITE-IN,Cactus #17
+Graham,2,2,0,0,NON,Bd Member Thatcher USD Dist. 4,,WRITE-IN,Jackson #18
+Graham,27,15,12,0,,Bd Member Thatcher USD Dist. 4,,OVER VOTES,Thatcher #6
+Graham,18,3,15,0,,Bd Member Thatcher USD Dist. 4,,OVER VOTES,Thatcher #7
+Graham,6,3,3,0,,Bd Member Thatcher USD Dist. 4,,OVER VOTES,Central #8
+Graham,0,0,0,0,,Bd Member Thatcher USD Dist. 4,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,Bd Member Thatcher USD Dist. 4,,OVER VOTES,Cactus #17
+Graham,45,9,36,0,,Bd Member Thatcher USD Dist. 4,,OVER VOTES,Jackson #18
+Graham,293,83,203,7,,Bd Member Thatcher USD Dist. 4,,UNDER VOTES,Thatcher #6
+Graham,757,283,453,21,,Bd Member Thatcher USD Dist. 4,,UNDER VOTES,Thatcher #7
+Graham,285,110,174,1,,Bd Member Thatcher USD Dist. 4,,UNDER VOTES,Central #8
+Graham,8,3,5,0,,Bd Member Thatcher USD Dist. 4,,UNDER VOTES,Pima #9
+Graham,36,12,24,0,,Bd Member Thatcher USD Dist. 4,,UNDER VOTES,Cactus #17
+Graham,598,197,390,11,,Bd Member Thatcher USD Dist. 4,,UNDER VOTES,Jackson #18
+Graham,9,4,4,1,NON,Bd Member Pima USD Dist. 6,,"ALDER, JJ",Central #8
+Graham,624,268,343,13,NON,Bd Member Pima USD Dist. 6,,"ALDER, JJ",Pima #9
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"ALDER, JJ",Ft Thomas #10
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"ALDER, JJ",Klondyke #12
+Graham,3,1,2,0,NON,Bd Member Pima USD Dist. 6,,"BATTY, MELISSA M.",Central #8
+Graham,686,273,405,8,NON,Bd Member Pima USD Dist. 6,,"BATTY, MELISSA M.",Pima #9
+Graham,2,0,2,0,NON,Bd Member Pima USD Dist. 6,,"BATTY, MELISSA M.",Ft Thomas #10
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"BATTY, MELISSA M.",Klondyke #12
+Graham,3,2,1,0,NON,Bd Member Pima USD Dist. 6,,"BRYCE, DERRICK",Central #8
+Graham,436,191,237,8,NON,Bd Member Pima USD Dist. 6,,"BRYCE, DERRICK",Pima #9
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"BRYCE, DERRICK",Ft Thomas #10
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"BRYCE, DERRICK",Klondyke #12
+Graham,5,1,3,1,NON,Bd Member Pima USD Dist. 6,,"COLVIN, CLINT",Central #8
+Graham,582,236,336,10,NON,Bd Member Pima USD Dist. 6,,"COLVIN, CLINT",Pima #9
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"COLVIN, CLINT",Ft Thomas #10
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"COLVIN, CLINT",Klondyke #12
+Graham,1,0,1,0,NON,Bd Member Pima USD Dist. 6,,"GOODMAN, JOE",Central #8
+Graham,518,217,295,6,NON,Bd Member Pima USD Dist. 6,,"GOODMAN, JOE",Pima #9
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"GOODMAN, JOE",Ft Thomas #10
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"GOODMAN, JOE",Klondyke #12
+Graham,2,0,2,0,NON,Bd Member Pima USD Dist. 6,,"LUNT, MELISSA",Central #8
+Graham,566,201,358,7,NON,Bd Member Pima USD Dist. 6,,"LUNT, MELISSA",Pima #9
+Graham,2,0,2,0,NON,Bd Member Pima USD Dist. 6,,"LUNT, MELISSA",Ft Thomas #10
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"LUNT, MELISSA",Klondyke #12
+Graham,5,2,2,1,NON,Bd Member Pima USD Dist. 6,,"WEECH, DARWIN",Central #8
+Graham,482,174,299,9,NON,Bd Member Pima USD Dist. 6,,"WEECH, DARWIN",Pima #9
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"WEECH, DARWIN",Ft Thomas #10
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,"WEECH, DARWIN",Klondyke #12
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,WRITE-IN,Central #8
+Graham,4,0,4,0,NON,Bd Member Pima USD Dist. 6,,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,WRITE-IN,Ft Thomas #10
+Graham,0,0,0,0,NON,Bd Member Pima USD Dist. 6,,WRITE-IN,Klondyke #12
+Graham,0,0,0,0,,Bd Member Pima USD Dist. 6,,OVER VOTES,Central #8
+Graham,48,3,45,0,,Bd Member Pima USD Dist. 6,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,Bd Member Pima USD Dist. 6,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,Bd Member Pima USD Dist. 6,,OVER VOTES,Klondyke #12
+Graham,5,5,0,0,,Bd Member Pima USD Dist. 6,,UNDER VOTES,Central #8
+Graham,803,342,438,23,,Bd Member Pima USD Dist. 6,,UNDER VOTES,Pima #9
+Graham,2,0,2,0,,Bd Member Pima USD Dist. 6,,UNDER VOTES,Ft Thomas #10
+Graham,6,0,6,0,,Bd Member Pima USD Dist. 6,,UNDER VOTES,Klondyke #12
+Graham,34,20,14,0,NON,Bd Member Ft Thomas USD Dist. 7,,"BENALLY, ALEJANDRO",Ft Thomas #10
+Graham,193,153,40,0,NON,Bd Member Ft Thomas USD Dist. 7,,"BENALLY, ALEJANDRO",Bylas #11
+Graham,39,14,25,0,NON,Bd Member Ft Thomas USD Dist. 7,,"DUNCAN, CHRIS",Ft Thomas #10
+Graham,223,183,40,0,NON,Bd Member Ft Thomas USD Dist. 7,,"DUNCAN, CHRIS",Bylas #11
+Graham,175,64,111,0,NON,Bd Member Ft Thomas USD Dist. 7,,"MCEUEN, PAT",Ft Thomas #10
+Graham,311,244,66,1,NON,Bd Member Ft Thomas USD Dist. 7,,"MCEUEN, PAT",Bylas #11
+Graham,56,25,31,0,NON,Bd Member Ft Thomas USD Dist. 7,,"MOSES, MYRON",Ft Thomas #10
+Graham,213,172,41,0,NON,Bd Member Ft Thomas USD Dist. 7,,"MOSES, MYRON",Bylas #11
+Graham,17,5,12,0,NON,Bd Member Ft Thomas USD Dist. 7,,"PONCHO, VERNON",Ft Thomas #10
+Graham,248,183,65,0,NON,Bd Member Ft Thomas USD Dist. 7,,"PONCHO, VERNON",Bylas #11
+Graham,22,7,15,0,NON,Bd Member Ft Thomas USD Dist. 7,,"ROPE, ROSE",Ft Thomas #10
+Graham,228,189,38,1,NON,Bd Member Ft Thomas USD Dist. 7,,"ROPE, ROSE",Bylas #11
+Graham,32,20,12,0,NON,Bd Member Ft Thomas USD Dist. 7,,"TALGO SR., ELLIOT",Ft Thomas #10
+Graham,214,175,39,0,NON,Bd Member Ft Thomas USD Dist. 7,,"TALGO SR., ELLIOT",Bylas #11
+Graham,22,8,14,0,NON,Bd Member Ft Thomas USD Dist. 7,,"VICTOR, BRENDA",Ft Thomas #10
+Graham,232,171,61,0,NON,Bd Member Ft Thomas USD Dist. 7,,"VICTOR, BRENDA",Bylas #11
+Graham,0,0,0,0,NON,Bd Member Ft Thomas USD Dist. 7,,WRITE-IN,Ft Thomas #10
+Graham,1,0,1,0,NON,Bd Member Ft Thomas USD Dist. 7,,WRITE-IN,Bylas #11
+Graham,0,0,0,0,,Bd Member Ft Thomas USD Dist. 7,,OVER VOTES,Ft Thomas #10
+Graham,3,3,0,0,,Bd Member Ft Thomas USD Dist. 7,,OVER VOTES,Bylas #11
+Graham,182,62,120,0,,Bd Member Ft Thomas USD Dist. 7,,UNDER VOTES,Ft Thomas #10
+Graham,276,213,59,4,,Bd Member Ft Thomas USD Dist. 7,,UNDER VOTES,Bylas #11
+Graham,88,71,17,0,NON,Bd Member San Carlos School Dist. 20,,"CASE, MARION",Peridot #16
+Graham,230,189,41,0,NON,Bd Member San Carlos School Dist. 20,,"HARRIS, SHERRIE",Peridot #16
+Graham,129,105,24,0,NON,Bd Member San Carlos School Dist. 20,,"KITCHEYAN, TARA",Peridot #16
+Graham,131,107,24,0,NON,Bd Member San Carlos School Dist. 20,,"THOMPSON, JOANN",Peridot #16
+Graham,1,0,1,0,NON,Bd Member San Carlos School Dist. 20,,WRITE-IN,Peridot #16
+Graham,2,2,0,0,,Bd Member San Carlos School Dist. 20,,OVER VOTES,Peridot #16
+Graham,261,226,35,0,,Bd Member San Carlos School Dist. 20,,UNDER VOTES,Peridot #16
+Graham,26,7,19,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"COSTELLO, JIM",Thatcher #6
+Graham,0,0,0,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"COSTELLO, JIM",Thatcher #7
+Graham,54,15,39,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"COSTELLO, JIM",Central #8
+Graham,1,1,0,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"COSTELLO, JIM",Pima #9
+Graham,101,30,71,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"COSTELLO, JIM",Jackson #18
+Graham,77,27,50,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"FERRIN, CHARLES",Thatcher #6
+Graham,1,0,1,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"FERRIN, CHARLES",Thatcher #7
+Graham,244,93,150,1,NON,Bd Member C. Jackson Hghts Fire Dist,,"FERRIN, CHARLES",Central #8
+Graham,10,1,9,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"FERRIN, CHARLES",Pima #9
+Graham,230,78,152,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"FERRIN, CHARLES",Jackson #18
+Graham,63,19,44,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"LARSON, JASON",Thatcher #6
+Graham,1,0,1,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"LARSON, JASON",Thatcher #7
+Graham,211,80,129,2,NON,Bd Member C. Jackson Hghts Fire Dist,,"LARSON, JASON",Central #8
+Graham,9,1,8,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"LARSON, JASON",Pima #9
+Graham,245,98,146,1,NON,Bd Member C. Jackson Hghts Fire Dist,,"LARSON, JASON",Jackson #18
+Graham,32,9,23,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"MERRIMAN, B.K.",Thatcher #6
+Graham,2,0,2,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"MERRIMAN, B.K.",Thatcher #7
+Graham,199,75,124,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"MERRIMAN, B.K.",Central #8
+Graham,7,3,4,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"MERRIMAN, B.K.",Pima #9
+Graham,263,81,180,2,NON,Bd Member C. Jackson Hghts Fire Dist,,"MERRIMAN, B.K.",Jackson #18
+Graham,50,10,40,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"PRINA, TED",Thatcher #6
+Graham,2,0,2,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"PRINA, TED",Thatcher #7
+Graham,248,98,149,1,NON,Bd Member C. Jackson Hghts Fire Dist,,"PRINA, TED",Central #8
+Graham,10,1,9,0,NON,Bd Member C. Jackson Hghts Fire Dist,,"PRINA, TED",Pima #9
+Graham,206,77,128,1,NON,Bd Member C. Jackson Hghts Fire Dist,,"PRINA, TED",Jackson #18
+Graham,0,0,0,0,NON,Bd Member C. Jackson Hghts Fire Dist,,WRITE-IN,Thatcher #6
+Graham,0,0,0,0,NON,Bd Member C. Jackson Hghts Fire Dist,,WRITE-IN,Thatcher #7
+Graham,7,0,7,0,NON,Bd Member C. Jackson Hghts Fire Dist,,WRITE-IN,Central #8
+Graham,0,0,0,0,NON,Bd Member C. Jackson Hghts Fire Dist,,WRITE-IN,Pima #9
+Graham,0,0,0,0,NON,Bd Member C. Jackson Hghts Fire Dist,,WRITE-IN,Jackson #18
+Graham,0,0,0,0,,Bd Member C. Jackson Hghts Fire Dist,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,Bd Member C. Jackson Hghts Fire Dist,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,Bd Member C. Jackson Hghts Fire Dist,,OVER VOTES,Central #8
+Graham,0,0,0,0,,Bd Member C. Jackson Hghts Fire Dist,,OVER VOTES,Pima #9
+Graham,3,0,3,0,,Bd Member C. Jackson Hghts Fire Dist,,OVER VOTES,Jackson #18
+Graham,94,30,64,0,,Bd Member C. Jackson Hghts Fire Dist,,UNDER VOTES,Thatcher #6
+Graham,3,3,0,0,,Bd Member C. Jackson Hghts Fire Dist,,UNDER VOTES,Thatcher #7
+Graham,390,140,248,2,,Bd Member C. Jackson Hghts Fire Dist,,UNDER VOTES,Central #8
+Graham,26,14,12,0,,Bd Member C. Jackson Hghts Fire Dist,,UNDER VOTES,Pima #9
+Graham,428,164,256,8,,Bd Member C. Jackson Hghts Fire Dist,,UNDER VOTES,Jackson #18
+Graham,1,1,0,0,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Solomon #1
+Graham,308,93,205,10,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Safford #2
+Graham,112,20,92,0,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Safford #3
+Graham,159,34,123,2,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Layton #4
+Graham,367,90,268,9,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Layton #5
+Graham,487,108,376,3,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Safford #15
+Graham,54,9,45,0,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Cactus #17
+Graham,2,0,2,0,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Artesia #20
+Graham,5,1,4,0,NON,Mayor Safford,,"GIBBS, WYN ""CHRIS""",Gila River #22
+Graham,0,0,0,0,NON,Mayor Safford,,"KOUTS, JASON",Solomon #1
+Graham,366,133,227,6,NON,Mayor Safford,,"KOUTS, JASON",Safford #2
+Graham,129,24,103,2,NON,Mayor Safford,,"KOUTS, JASON",Safford #3
+Graham,189,59,130,0,NON,Mayor Safford,,"KOUTS, JASON",Layton #4
+Graham,372,132,234,6,NON,Mayor Safford,,"KOUTS, JASON",Layton #5
+Graham,531,149,370,12,NON,Mayor Safford,,"KOUTS, JASON",Safford #15
+Graham,52,11,40,1,NON,Mayor Safford,,"KOUTS, JASON",Cactus #17
+Graham,0,0,0,0,NON,Mayor Safford,,"KOUTS, JASON",Artesia #20
+Graham,15,3,12,0,NON,Mayor Safford,,"KOUTS, JASON",Gila River #22
+Graham,0,0,0,0,NON,Mayor Safford,,WRITE-IN,Solomon #1
+Graham,1,1,0,0,NON,Mayor Safford,,WRITE-IN,Safford #2
+Graham,0,0,0,0,NON,Mayor Safford,,WRITE-IN,Safford #3
+Graham,7,1,6,0,NON,Mayor Safford,,WRITE-IN,Layton #4
+Graham,1,0,1,0,NON,Mayor Safford,,WRITE-IN,Layton #5
+Graham,3,0,3,0,NON,Mayor Safford,,WRITE-IN,Safford #15
+Graham,0,0,0,0,NON,Mayor Safford,,WRITE-IN,Cactus #17
+Graham,0,0,0,0,NON,Mayor Safford,,WRITE-IN,Artesia #20
+Graham,0,0,0,0,NON,Mayor Safford,,WRITE-IN,Gila River #22
+Graham,0,0,0,0,,Mayor Safford,,OVER VOTES,Solomon #1
+Graham,1,0,1,0,,Mayor Safford,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,Mayor Safford,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,Mayor Safford,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,Mayor Safford,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,Mayor Safford,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,Mayor Safford,,OVER VOTES,Cactus #17
+Graham,0,0,0,0,,Mayor Safford,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,Mayor Safford,,OVER VOTES,Gila River #22
+Graham,0,0,0,0,,Mayor Safford,,UNDER VOTES,Solomon #1
+Graham,40,17,22,1,,Mayor Safford,,UNDER VOTES,Safford #2
+Graham,21,6,15,0,,Mayor Safford,,UNDER VOTES,Safford #3
+Graham,31,9,21,1,,Mayor Safford,,UNDER VOTES,Layton #4
+Graham,43,10,33,0,,Mayor Safford,,UNDER VOTES,Layton #5
+Graham,58,13,44,1,,Mayor Safford,,UNDER VOTES,Safford #15
+Graham,6,1,5,0,,Mayor Safford,,UNDER VOTES,Cactus #17
+Graham,0,0,0,0,,Mayor Safford,,UNDER VOTES,Artesia #20
+Graham,1,0,1,0,,Mayor Safford,,UNDER VOTES,Gila River #22
+Graham,499,199,287,13,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Safford #2
+Graham,251,73,176,2,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Safford #3
+Graham,199,59,139,1,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Layton #4
+Graham,510,168,334,8,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Layton #5
+Graham,108,41,67,0,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Thunderbird #14
+Graham,536,164,364,8,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Safford #15
+Graham,58,12,46,0,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Cactus #17
+Graham,380,131,245,4,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Desert Hills #19
+Graham,227,102,124,1,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Artesia #20
+Graham,35,10,25,0,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Quatro Cerros #21
+Graham,12,3,9,0,NON,QUESTION Safford USD 1,,"BOND APPROVAL, YES",Gila River #22
+Graham,299,97,197,5,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Safford #2
+Graham,166,36,129,1,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Safford #3
+Graham,118,29,88,1,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Layton #4
+Graham,295,71,220,4,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Layton #5
+Graham,76,26,48,2,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Thunderbird #14
+Graham,365,81,278,6,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Safford #15
+Graham,38,5,33,0,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Cactus #17
+Graham,290,80,208,2,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Desert Hills #19
+Graham,209,55,150,4,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Artesia #20
+Graham,25,3,22,0,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Quatro Cerros #21
+Graham,4,1,3,0,NON,QUESTION Safford USD 1,,"BOND APPROVAL, NO",Gila River #22
+Graham,1,1,0,0,,QUESTION Safford USD 1,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,QUESTION Safford USD 1,,OVER VOTES,Safford #3
+Graham,1,0,1,0,,QUESTION Safford USD 1,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,QUESTION Safford USD 1,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,QUESTION Safford USD 1,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,QUESTION Safford USD 1,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,QUESTION Safford USD 1,,OVER VOTES,Cactus #17
+Graham,1,1,0,0,,QUESTION Safford USD 1,,OVER VOTES,Desert Hills #19
+Graham,1,0,1,0,,QUESTION Safford USD 1,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,QUESTION Safford USD 1,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,QUESTION Safford USD 1,,OVER VOTES,Gila River #22
+Graham,154,24,126,4,,QUESTION Safford USD 1,,UNDER VOTES,Safford #2
+Graham,72,13,58,1,,QUESTION Safford USD 1,,UNDER VOTES,Safford #3
+Graham,68,15,52,1,,QUESTION Safford USD 1,,UNDER VOTES,Layton #4
+Graham,125,28,94,3,,QUESTION Safford USD 1,,UNDER VOTES,Layton #5
+Graham,61,14,46,1,,QUESTION Safford USD 1,,UNDER VOTES,Thunderbird #14
+Graham,178,25,151,2,,QUESTION Safford USD 1,,UNDER VOTES,Safford #15
+Graham,16,4,11,1,,QUESTION Safford USD 1,,UNDER VOTES,Cactus #17
+Graham,112,24,81,7,,QUESTION Safford USD 1,,UNDER VOTES,Desert Hills #19
+Graham,80,21,56,3,,QUESTION Safford USD 1,,UNDER VOTES,Artesia #20
+Graham,5,1,4,0,,QUESTION Safford USD 1,,UNDER VOTES,Quatro Cerros #21
+Graham,5,0,5,0,,QUESTION Safford USD 1,,UNDER VOTES,Gila River #22
+Graham,772,317,444,11,NON,PROPOSITION 401 401,,YES,Pima #9
+Graham,175,70,99,6,NON,PROPOSITION 401 401,,NO,Pima #9
+Graham,2,0,2,0,,PROPOSITION 401 401,,OVER VOTES,Pima #9
+Graham,71,25,45,1,,PROPOSITION 401 401,,UNDER VOTES,Pima #9
+Graham,252,99,151,2,NON,PROPOSITION 205,,YES,Solomon #1
+Graham,361,127,222,12,NON,PROPOSITION 205,,YES,Safford #2
+Graham,151,43,107,1,NON,PROPOSITION 205,,YES,Safford #3
+Graham,129,47,81,1,NON,PROPOSITION 205,,YES,Layton #4
+Graham,336,114,215,7,NON,PROPOSITION 205,,YES,Layton #5
+Graham,105,30,74,1,NON,PROPOSITION 205,,YES,Thatcher #6
+Graham,306,112,188,6,NON,PROPOSITION 205,,YES,Thatcher #7
+Graham,84,28,55,1,NON,PROPOSITION 205,,YES,Central #8
+Graham,466,215,237,14,NON,PROPOSITION 205,,YES,Pima #9
+Graham,55,21,34,0,NON,PROPOSITION 205,,YES,Ft Thomas #10
+Graham,309,266,42,1,NON,PROPOSITION 205,,YES,Bylas #11
+Graham,13,1,12,0,NON,PROPOSITION 205,,YES,Klondyke #12
+Graham,25,7,18,0,NON,PROPOSITION 205,,YES,Bonita #13
+Graham,91,39,50,2,NON,PROPOSITION 205,,YES,Thunderbird #14
+Graham,389,110,272,7,NON,PROPOSITION 205,,YES,Safford #15
+Graham,163,144,19,0,NON,PROPOSITION 205,,YES,Peridot #16
+Graham,59,18,41,0,NON,PROPOSITION 205,,YES,Cactus #17
+Graham,212,86,123,3,NON,PROPOSITION 205,,YES,Jackson #18
+Graham,311,98,208,5,NON,PROPOSITION 205,,YES,Desert Hills #19
+Graham,190,71,116,3,NON,PROPOSITION 205,,YES,Artesia #20
+Graham,20,5,15,0,NON,PROPOSITION 205,,YES,Quatro Cerros #21
+Graham,11,2,9,0,NON,PROPOSITION 205,,YES,Gila River #22
+Graham,389,122,265,2,NON,PROPOSITION 205,,NO,Solomon #1
+Graham,491,182,303,6,NON,PROPOSITION 205,,NO,Safford #2
+Graham,297,74,220,3,NON,PROPOSITION 205,,NO,Safford #3
+Graham,222,53,167,2,NON,PROPOSITION 205,,NO,Layton #4
+Graham,515,145,365,5,NON,PROPOSITION 205,,NO,Layton #5
+Graham,426,162,258,6,NON,PROPOSITION 205,,NO,Thatcher #6
+Graham,826,260,551,15,NON,PROPOSITION 205,,NO,Thatcher #7
+Graham,328,133,194,1,NON,PROPOSITION 205,,NO,Central #8
+Graham,1052,409,629,14,NON,PROPOSITION 205,,NO,Pima #9
+Graham,132,52,80,0,NON,PROPOSITION 205,,NO,Ft Thomas #10
+Graham,281,226,54,1,NON,PROPOSITION 205,,NO,Bylas #11
+Graham,31,1,30,0,NON,PROPOSITION 205,,NO,Klondyke #12
+Graham,91,44,44,3,NON,PROPOSITION 205,,NO,Bonita #13
+Graham,132,40,92,0,NON,PROPOSITION 205,,NO,Thunderbird #14
+Graham,585,153,425,7,NON,PROPOSITION 205,,NO,Safford #15
+Graham,189,153,36,0,NON,PROPOSITION 205,,NO,Peridot #16
+Graham,80,21,58,1,NON,PROPOSITION 205,,NO,Cactus #17
+Graham,572,199,367,6,NON,PROPOSITION 205,,NO,Jackson #18
+Graham,404,132,268,4,NON,PROPOSITION 205,,NO,Desert Hills #19
+Graham,286,102,182,2,NON,PROPOSITION 205,,NO,Artesia #20
+Graham,43,9,34,0,NON,PROPOSITION 205,,NO,Quatro Cerros #21
+Graham,6,2,4,0,NON,PROPOSITION 205,,NO,Gila River #22
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Solomon #1
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Safford #3
+Graham,1,0,1,0,,PROPOSITION 205,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Layton #5
+Graham,1,0,1,0,,PROPOSITION 205,,OVER VOTES,Thatcher #6
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Central #8
+Graham,4,1,3,0,,PROPOSITION 205,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Ft Thomas #10
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Bonita #13
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Safford #15
+Graham,2,0,2,0,,PROPOSITION 205,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Cactus #17
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Desert Hills #19
+Graham,1,1,0,0,,PROPOSITION 205,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Gila River #22
+Graham,63,4,58,1,,PROPOSITION 205,,UNDER VOTES,Solomon #1
+Graham,101,12,85,4,,PROPOSITION 205,,UNDER VOTES,Safford #2
+Graham,41,5,36,0,,PROPOSITION 205,,UNDER VOTES,Safford #3
+Graham,34,3,31,0,,PROPOSITION 205,,UNDER VOTES,Layton #4
+Graham,79,8,68,3,,PROPOSITION 205,,UNDER VOTES,Layton #5
+Graham,52,5,46,1,,PROPOSITION 205,,UNDER VOTES,Thatcher #6
+Graham,82,13,67,2,,PROPOSITION 205,,UNDER VOTES,Thatcher #7
+Graham,39,6,33,0,,PROPOSITION 205,,UNDER VOTES,Central #8
+Graham,93,18,74,1,,PROPOSITION 205,,UNDER VOTES,Pima #9
+Graham,8,2,6,0,,PROPOSITION 205,,UNDER VOTES,Ft Thomas #10
+Graham,124,70,54,0,,PROPOSITION 205,,UNDER VOTES,Bylas #11
+Graham,0,0,0,0,,PROPOSITION 205,,UNDER VOTES,Klondyke #12
+Graham,5,0,5,0,,PROPOSITION 205,,UNDER VOTES,Bonita #13
+Graham,22,2,19,1,,PROPOSITION 205,,UNDER VOTES,Thunderbird #14
+Graham,105,7,96,2,,PROPOSITION 205,,UNDER VOTES,Safford #15
+Graham,67,53,14,0,,PROPOSITION 205,,UNDER VOTES,Peridot #16
+Graham,17,2,14,1,,PROPOSITION 205,,UNDER VOTES,Cactus #17
+Graham,63,7,54,2,,PROPOSITION 205,,UNDER VOTES,Jackson #18
+Graham,68,6,58,4,,PROPOSITION 205,,UNDER VOTES,Desert Hills #19
+Graham,40,4,33,3,,PROPOSITION 205,,UNDER VOTES,Artesia #20
+Graham,2,0,2,0,,PROPOSITION 205,,UNDER VOTES,Quatro Cerros #21
+Graham,4,0,4,0,,PROPOSITION 205,,UNDER VOTES,Gila River #22
+Graham,316,99,214,3,NON,PROPOSITION 206,,YES,Solomon #1
+Graham,429,149,270,10,NON,PROPOSITION 206,,YES,Safford #2
+Graham,201,53,146,2,NON,PROPOSITION 206,,YES,Safford #3
+Graham,176,42,134,0,NON,PROPOSITION 206,,YES,Layton #4
+Graham,380,113,260,7,NON,PROPOSITION 206,,YES,Layton #5
+Graham,138,36,101,1,NON,PROPOSITION 206,,YES,Thatcher #6
+Graham,416,132,279,5,NON,PROPOSITION 206,,YES,Thatcher #7
+Graham,96,36,60,0,NON,PROPOSITION 206,,YES,Central #8
+Graham,515,193,311,11,NON,PROPOSITION 206,,YES,Pima #9
+Graham,80,28,52,0,NON,PROPOSITION 206,,YES,Ft Thomas #10
+Graham,463,383,79,1,NON,PROPOSITION 206,,YES,Bylas #11
+Graham,21,0,21,0,NON,PROPOSITION 206,,YES,Klondyke #12
+Graham,31,9,21,1,NON,PROPOSITION 206,,YES,Bonita #13
+Graham,96,37,57,2,NON,PROPOSITION 206,,YES,Thunderbird #14
+Graham,498,130,358,10,NON,PROPOSITION 206,,YES,Safford #15
+Graham,295,243,52,0,NON,PROPOSITION 206,,YES,Peridot #16
+Graham,54,13,41,0,NON,PROPOSITION 206,,YES,Cactus #17
+Graham,257,85,169,3,NON,PROPOSITION 206,,YES,Jackson #18
+Graham,306,79,222,5,NON,PROPOSITION 206,,YES,Desert Hills #19
+Graham,210,73,136,1,NON,PROPOSITION 206,,YES,Artesia #20
+Graham,27,5,22,0,NON,PROPOSITION 206,,YES,Quatro Cerros #21
+Graham,10,0,10,0,NON,PROPOSITION 206,,YES,Gila River #22
+Graham,320,121,198,1,NON,PROPOSITION 206,,NO,Solomon #1
+Graham,424,159,257,8,NON,PROPOSITION 206,,NO,Safford #2
+Graham,240,61,177,2,NON,PROPOSITION 206,,NO,Safford #3
+Graham,171,55,113,3,NON,PROPOSITION 206,,NO,Layton #4
+Graham,470,144,321,5,NON,PROPOSITION 206,,NO,Layton #5
+Graham,390,156,228,6,NON,PROPOSITION 206,,NO,Thatcher #6
+Graham,705,233,456,16,NON,PROPOSITION 206,,NO,Thatcher #7
+Graham,313,124,187,2,NON,PROPOSITION 206,,NO,Central #8
+Graham,1000,425,558,17,NON,PROPOSITION 206,,NO,Pima #9
+Graham,105,45,60,0,NON,PROPOSITION 206,,NO,Ft Thomas #10
+Graham,122,104,17,1,NON,PROPOSITION 206,,NO,Bylas #11
+Graham,23,2,21,0,NON,PROPOSITION 206,,NO,Klondyke #12
+Graham,84,42,40,2,NON,PROPOSITION 206,,NO,Bonita #13
+Graham,106,40,66,0,NON,PROPOSITION 206,,NO,Thunderbird #14
+Graham,469,131,334,4,NON,PROPOSITION 206,,NO,Safford #15
+Graham,60,54,6,0,NON,PROPOSITION 206,,NO,Peridot #16
+Graham,86,26,59,1,NON,PROPOSITION 206,,NO,Cactus #17
+Graham,527,200,321,6,NON,PROPOSITION 206,,NO,Jackson #18
+Graham,403,148,252,3,NON,PROPOSITION 206,,NO,Desert Hills #19
+Graham,261,98,159,4,NON,PROPOSITION 206,,NO,Artesia #20
+Graham,36,9,27,0,NON,PROPOSITION 206,,NO,Quatro Cerros #21
+Graham,7,4,3,0,NON,PROPOSITION 206,,NO,Gila River #22
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Solomon #1
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Safford #2
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Safford #3
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Layton #4
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Layton #5
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Thatcher #6
+Graham,3,2,1,0,,PROPOSITION 206,,OVER VOTES,Thatcher #7
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Central #8
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Pima #9
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Ft Thomas #10
+Graham,1,1,0,0,,PROPOSITION 206,,OVER VOTES,Bylas #11
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Klondyke #12
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Bonita #13
+Graham,2,0,2,0,,PROPOSITION 206,,OVER VOTES,Thunderbird #14
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Safford #15
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Peridot #16
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Cactus #17
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Jackson #18
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Desert Hills #19
+Graham,2,1,1,0,,PROPOSITION 206,,OVER VOTES,Artesia #20
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Quatro Cerros #21
+Graham,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Gila River #22
+Graham,68,5,62,1,,PROPOSITION 206,,UNDER VOTES,Solomon #1
+Graham,100,13,83,4,,PROPOSITION 206,,UNDER VOTES,Safford #2
+Graham,48,8,40,0,,PROPOSITION 206,,UNDER VOTES,Safford #3
+Graham,39,6,33,0,,PROPOSITION 206,,UNDER VOTES,Layton #4
+Graham,80,10,67,3,,PROPOSITION 206,,UNDER VOTES,Layton #5
+Graham,56,5,50,1,,PROPOSITION 206,,UNDER VOTES,Thatcher #6
+Graham,90,18,70,2,,PROPOSITION 206,,UNDER VOTES,Thatcher #7
+Graham,42,7,35,0,,PROPOSITION 206,,UNDER VOTES,Central #8
+Graham,100,25,74,1,,PROPOSITION 206,,UNDER VOTES,Pima #9
+Graham,10,2,8,0,,PROPOSITION 206,,UNDER VOTES,Ft Thomas #10
+Graham,128,74,54,0,,PROPOSITION 206,,UNDER VOTES,Bylas #11
+Graham,0,0,0,0,,PROPOSITION 206,,UNDER VOTES,Klondyke #12
+Graham,6,0,6,0,,PROPOSITION 206,,UNDER VOTES,Bonita #13
+Graham,41,4,36,1,,PROPOSITION 206,,UNDER VOTES,Thunderbird #14
+Graham,112,9,101,2,,PROPOSITION 206,,UNDER VOTES,Safford #15
+Graham,66,53,13,0,,PROPOSITION 206,,UNDER VOTES,Peridot #16
+Graham,16,2,13,1,,PROPOSITION 206,,UNDER VOTES,Cactus #17
+Graham,63,7,54,2,,PROPOSITION 206,,UNDER VOTES,Jackson #18
+Graham,74,9,60,5,,PROPOSITION 206,,UNDER VOTES,Desert Hills #19
+Graham,44,6,35,3,,PROPOSITION 206,,UNDER VOTES,Artesia #20
+Graham,2,0,2,0,,PROPOSITION 206,,UNDER VOTES,Quatro Cerros #21
+Graham,4,0,4,0,,PROPOSITION 206,,UNDER VOTES,Gila River #22

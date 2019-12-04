@@ -1,0 +1,2434 @@
+county,votes,election_day,early_voting,provisional,party,office,district,candidate,precinct
+Santa Cruz,62,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 1
+Santa Cruz,156,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 2
+Santa Cruz,88,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 3
+Santa Cruz,45,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 4
+Santa Cruz,110,0,0,0,,Registered Voters,,REGISTERED VOTERS,Coronado 5
+Santa Cruz,59,0,0,0,,Registered Voters,,REGISTERED VOTERS,Elgin 6
+Santa Cruz,313,0,0,0,,Registered Voters,,REGISTERED VOTERS,Rio Rico 7
+Santa Cruz,214,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 8
+Santa Cruz,34,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 9
+Santa Cruz,106,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 10
+Santa Cruz,161,0,0,0,,Registered Voters,,REGISTERED VOTERS,Tubac 11
+Santa Cruz,64,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 12
+Santa Cruz,39,0,0,0,,Registered Voters,,REGISTERED VOTERS,Santa Cruz 13
+Santa Cruz,86,0,0,0,,Registered Voters,,REGISTERED VOTERS,Patagonia 14
+Santa Cruz,83,0,0,0,,Registered Voters,,REGISTERED VOTERS,Sonoita 15
+Santa Cruz,53,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 16
+Santa Cruz,271,0,0,0,,Registered Voters,,REGISTERED VOTERS,Calabasas 17
+Santa Cruz,61,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 18
+Santa Cruz,234,0,0,0,,Registered Voters,,REGISTERED VOTERS,Baca 19
+Santa Cruz,113,0,0,0,,Registered Voters,,REGISTERED VOTERS,Nogales 20
+Santa Cruz,189,0,0,0,,Registered Voters,,REGISTERED VOTERS,Peck Canyon 21
+Santa Cruz,58,0,0,0,,Registered Voters,,REGISTERED VOTERS,Potrero 22
+Santa Cruz,5,0,0,0,,Registered Voters,,REGISTERED VOTERS,Mountain 23
+Santa Cruz,14,0,0,0,,Registered Voters,,REGISTERED VOTERS,Lake Patagonia 24
+Santa Cruz,32,9,20,2,,Ballots Cast,,BALLOTS CAST,Nogales 1
+Santa Cruz,82,26,48,8,,Ballots Cast,,BALLOTS CAST,Nogales 2
+Santa Cruz,49,14,31,4,,Ballots Cast,,BALLOTS CAST,Nogales 3
+Santa Cruz,26,8,15,1,,Ballots Cast,,BALLOTS CAST,Nogales 4
+Santa Cruz,69,21,44,4,,Ballots Cast,,BALLOTS CAST,Coronado 5
+Santa Cruz,50,11,37,1,,Ballots Cast,,BALLOTS CAST,Elgin 6
+Santa Cruz,216,54,147,13,,Ballots Cast,,BALLOTS CAST,Rio Rico 7
+Santa Cruz,122,40,71,10,,Ballots Cast,,BALLOTS CAST,Nogales 8
+Santa Cruz,22,7,13,1,,Ballots Cast,,BALLOTS CAST,Nogales 9
+Santa Cruz,60,16,37,6,,Ballots Cast,,BALLOTS CAST,Nogales 10
+Santa Cruz,129,29,95,5,,Ballots Cast,,BALLOTS CAST,Tubac 11
+Santa Cruz,34,11,18,4,,Ballots Cast,,BALLOTS CAST,Nogales 12
+Santa Cruz,28,10,15,2,,Ballots Cast,,BALLOTS CAST,Santa Cruz 13
+Santa Cruz,67,21,43,2,,Ballots Cast,,BALLOTS CAST,Patagonia 14
+Santa Cruz,71,21,47,2,,Ballots Cast,,BALLOTS CAST,Sonoita 15
+Santa Cruz,27,9,14,3,,Ballots Cast,,BALLOTS CAST,Nogales 16
+Santa Cruz,176,52,107,16,,Ballots Cast,,BALLOTS CAST,Calabasas 17
+Santa Cruz,44,13,26,4,,Ballots Cast,,BALLOTS CAST,Nogales 18
+Santa Cruz,141,38,88,14,,Ballots Cast,,BALLOTS CAST,Baca 19
+Santa Cruz,64,22,36,6,,Ballots Cast,,BALLOTS CAST,Nogales 20
+Santa Cruz,110,34,62,13,,Ballots Cast,,BALLOTS CAST,Peck Canyon 21
+Santa Cruz,30,8,18,3,,Ballots Cast,,BALLOTS CAST,Potrero 22
+Santa Cruz,4,0,3,0,,Ballots Cast,,BALLOTS CAST,Mountain 23
+Santa Cruz,11,1,10,0,,Ballots Cast,,BALLOTS CAST,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 1
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 2
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 3
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 4
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Coronado 5
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Elgin 6
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Rio Rico 7
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 8
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 9
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 10
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Tubac 11
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 12
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Patagonia 14
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Sonoita 15
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 16
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Calabasas 17
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 18
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Baca 19
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Nogales 20
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Potrero 22
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Mountain 23
+Santa Cruz,0,0,0,0,,Blank Ballots Cast,,BALLOTS CAST - BLANK,Lake Patagonia 24
+Santa Cruz,27,8,16,2,DEM,President,,"CLINTON, KAINE",Nogales 1
+Santa Cruz,66,22,37,6,DEM,President,,"CLINTON, KAINE",Nogales 2
+Santa Cruz,39,11,24,3,DEM,President,,"CLINTON, KAINE",Nogales 3
+Santa Cruz,21,6,12,1,DEM,President,,"CLINTON, KAINE",Nogales 4
+Santa Cruz,55,16,34,3,DEM,President,,"CLINTON, KAINE",Coronado 5
+Santa Cruz,17,2,15,0,DEM,President,,"CLINTON, KAINE",Elgin 6
+Santa Cruz,129,33,87,9,DEM,President,,"CLINTON, KAINE",Rio Rico 7
+Santa Cruz,105,33,61,9,DEM,President,,"CLINTON, KAINE",Nogales 8
+Santa Cruz,15,5,9,1,DEM,President,,"CLINTON, KAINE",Nogales 9
+Santa Cruz,47,13,28,5,DEM,President,,"CLINTON, KAINE",Nogales 10
+Santa Cruz,71,15,53,2,DEM,President,,"CLINTON, KAINE",Tubac 11
+Santa Cruz,28,9,15,3,DEM,President,,"CLINTON, KAINE",Nogales 12
+Santa Cruz,16,5,9,1,DEM,President,,"CLINTON, KAINE",Santa Cruz 13
+Santa Cruz,39,11,27,1,DEM,President,,"CLINTON, KAINE",Patagonia 14
+Santa Cruz,24,4,19,0,DEM,President,,"CLINTON, KAINE",Sonoita 15
+Santa Cruz,21,7,10,3,DEM,President,,"CLINTON, KAINE",Nogales 16
+Santa Cruz,131,39,79,11,DEM,President,,"CLINTON, KAINE",Calabasas 17
+Santa Cruz,32,9,20,3,DEM,President,,"CLINTON, KAINE",Nogales 18
+Santa Cruz,108,28,68,11,DEM,President,,"CLINTON, KAINE",Baca 19
+Santa Cruz,52,17,29,5,DEM,President,,"CLINTON, KAINE",Nogales 20
+Santa Cruz,81,27,44,9,DEM,President,,"CLINTON, KAINE",Peck Canyon 21
+Santa Cruz,26,7,16,2,DEM,President,,"CLINTON, KAINE",Potrero 22
+Santa Cruz,1,0,1,0,DEM,President,,"CLINTON, KAINE",Mountain 23
+Santa Cruz,6,0,5,0,DEM,President,,"CLINTON, KAINE",Lake Patagonia 24
+Santa Cruz,3,0,2,0,REP,President,,"TRUMP, PENCE",Nogales 1
+Santa Cruz,9,2,6,0,REP,President,,"TRUMP, PENCE",Nogales 2
+Santa Cruz,6,1,4,0,REP,President,,"TRUMP, PENCE",Nogales 3
+Santa Cruz,3,1,2,0,REP,President,,"TRUMP, PENCE",Nogales 4
+Santa Cruz,11,3,6,0,REP,President,,"TRUMP, PENCE",Coronado 5
+Santa Cruz,29,8,20,0,REP,President,,"TRUMP, PENCE",Elgin 6
+Santa Cruz,69,17,48,3,REP,President,,"TRUMP, PENCE",Rio Rico 7
+Santa Cruz,9,3,5,0,REP,President,,"TRUMP, PENCE",Nogales 8
+Santa Cruz,5,1,3,0,REP,President,,"TRUMP, PENCE",Nogales 9
+Santa Cruz,8,2,5,0,REP,President,,"TRUMP, PENCE",Nogales 10
+Santa Cruz,50,11,36,2,REP,President,,"TRUMP, PENCE",Tubac 11
+Santa Cruz,3,1,2,0,REP,President,,"TRUMP, PENCE",Nogales 12
+Santa Cruz,8,3,4,0,REP,President,,"TRUMP, PENCE",Santa Cruz 13
+Santa Cruz,21,8,12,0,REP,President,,"TRUMP, PENCE",Patagonia 14
+Santa Cruz,42,14,25,2,REP,President,,"TRUMP, PENCE",Sonoita 15
+Santa Cruz,3,0,2,0,REP,President,,"TRUMP, PENCE",Nogales 16
+Santa Cruz,31,8,20,3,REP,President,,"TRUMP, PENCE",Calabasas 17
+Santa Cruz,9,3,5,0,REP,President,,"TRUMP, PENCE",Nogales 18
+Santa Cruz,23,6,14,2,REP,President,,"TRUMP, PENCE",Baca 19
+Santa Cruz,7,2,4,0,REP,President,,"TRUMP, PENCE",Nogales 20
+Santa Cruz,21,5,13,2,REP,President,,"TRUMP, PENCE",Peck Canyon 21
+Santa Cruz,2,0,1,0,REP,President,,"TRUMP, PENCE",Potrero 22
+Santa Cruz,2,0,2,0,REP,President,,"TRUMP, PENCE",Mountain 23
+Santa Cruz,4,1,3,0,REP,President,,"TRUMP, PENCE",Lake Patagonia 24
+Santa Cruz,1,0,0,0,LBT,President,,"JOHNSON, WELD",Nogales 1
+Santa Cruz,2,0,1,0,LBT,President,,"JOHNSON, WELD",Nogales 2
+Santa Cruz,1,0,1,0,LBT,President,,"JOHNSON, WELD",Nogales 3
+Santa Cruz,0,0,0,0,LBT,President,,"JOHNSON, WELD",Nogales 4
+Santa Cruz,1,0,1,0,LBT,President,,"JOHNSON, WELD",Coronado 5
+Santa Cruz,1,0,1,0,LBT,President,,"JOHNSON, WELD",Elgin 6
+Santa Cruz,6,1,4,0,LBT,President,,"JOHNSON, WELD",Rio Rico 7
+Santa Cruz,2,1,0,0,LBT,President,,"JOHNSON, WELD",Nogales 8
+Santa Cruz,0,0,0,0,LBT,President,,"JOHNSON, WELD",Nogales 9
+Santa Cruz,1,0,1,0,LBT,President,,"JOHNSON, WELD",Nogales 10
+Santa Cruz,3,0,2,0,LBT,President,,"JOHNSON, WELD",Tubac 11
+Santa Cruz,0,0,0,0,LBT,President,,"JOHNSON, WELD",Nogales 12
+Santa Cruz,1,0,0,0,LBT,President,,"JOHNSON, WELD",Santa Cruz 13
+Santa Cruz,2,0,1,0,LBT,President,,"JOHNSON, WELD",Patagonia 14
+Santa Cruz,2,0,1,0,LBT,President,,"JOHNSON, WELD",Sonoita 15
+Santa Cruz,0,0,0,0,LBT,President,,"JOHNSON, WELD",Nogales 16
+Santa Cruz,5,0,3,0,LBT,President,,"JOHNSON, WELD",Calabasas 17
+Santa Cruz,0,0,0,0,LBT,President,,"JOHNSON, WELD",Nogales 18
+Santa Cruz,3,1,2,0,LBT,President,,"JOHNSON, WELD",Baca 19
+Santa Cruz,1,0,1,0,LBT,President,,"JOHNSON, WELD",Nogales 20
+Santa Cruz,3,1,1,0,LBT,President,,"JOHNSON, WELD",Peck Canyon 21
+Santa Cruz,0,0,0,0,LBT,President,,"JOHNSON, WELD",Potrero 22
+Santa Cruz,0,0,0,0,LBT,President,,"JOHNSON, WELD",Mountain 23
+Santa Cruz,0,0,0,0,LBT,President,,"JOHNSON, WELD",Lake Patagonia 24
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 1
+Santa Cruz,1,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 2
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 3
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 4
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Coronado 5
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Elgin 6
+Santa Cruz,4,0,4,0,GRN,President,,"STEIN, BARAKA",Rio Rico 7
+Santa Cruz,1,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 8
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 9
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 10
+Santa Cruz,1,0,1,0,GRN,President,,"STEIN, BARAKA",Tubac 11
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 12
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Santa Cruz 13
+Santa Cruz,1,0,1,0,GRN,President,,"STEIN, BARAKA",Patagonia 14
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Sonoita 15
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 16
+Santa Cruz,2,0,1,0,GRN,President,,"STEIN, BARAKA",Calabasas 17
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 18
+Santa Cruz,1,0,0,0,GRN,President,,"STEIN, BARAKA",Baca 19
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Nogales 20
+Santa Cruz,1,0,0,0,GRN,President,,"STEIN, BARAKA",Peck Canyon 21
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Potrero 22
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Mountain 23
+Santa Cruz,0,0,0,0,GRN,President,,"STEIN, BARAKA",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 1
+Santa Cruz,1,0,0,0,NON,President,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 4
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Coronado 5
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Elgin 6
+Santa Cruz,3,1,1,0,NON,President,,WRITE-IN,Rio Rico 7
+Santa Cruz,1,0,1,0,NON,President,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 10
+Santa Cruz,1,0,0,0,NON,President,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Patagonia 14
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 16
+Santa Cruz,2,0,1,0,NON,President,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 18
+Santa Cruz,1,0,1,0,NON,President,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Nogales 20
+Santa Cruz,1,0,1,0,NON,President,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,President,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Elgin 6
+Santa Cruz,1,0,0,0,,President,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 16
+Santa Cruz,1,0,0,0,,President,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,President,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Nogales 1
+Santa Cruz,1,0,0,0,,President,,UNDER VOTES,Nogales 2
+Santa Cruz,1,0,1,0,,President,,UNDER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Elgin 6
+Santa Cruz,2,0,1,0,,President,,UNDER VOTES,Rio Rico 7
+Santa Cruz,2,0,1,0,,President,,UNDER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Nogales 9
+Santa Cruz,1,0,0,0,,President,,UNDER VOTES,Nogales 10
+Santa Cruz,1,0,1,0,,President,,UNDER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,1,0,0,0,,President,,UNDER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Nogales 16
+Santa Cruz,2,0,1,0,,President,,UNDER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Nogales 18
+Santa Cruz,1,0,1,0,,President,,UNDER VOTES,Baca 19
+Santa Cruz,1,0,0,0,,President,,UNDER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,President,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,22,7,13,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 1
+Santa Cruz,55,17,32,6,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 2
+Santa Cruz,32,9,20,2,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 3
+Santa Cruz,17,5,10,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 4
+Santa Cruz,41,11,27,2,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Coronado 5
+Santa Cruz,16,2,14,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Elgin 6
+Santa Cruz,109,28,75,6,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Rio Rico 7
+Santa Cruz,83,27,48,7,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 8
+Santa Cruz,12,4,7,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 9
+Santa Cruz,39,10,24,4,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 10
+Santa Cruz,64,12,49,2,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Tubac 11
+Santa Cruz,22,7,12,2,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 12
+Santa Cruz,15,6,8,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Santa Cruz 13
+Santa Cruz,38,11,26,1,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Patagonia 14
+Santa Cruz,25,4,20,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Sonoita 15
+Santa Cruz,16,4,9,2,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 16
+Santa Cruz,108,32,67,8,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Calabasas 17
+Santa Cruz,27,7,17,3,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 18
+Santa Cruz,87,22,55,9,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Baca 19
+Santa Cruz,42,14,24,3,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Nogales 20
+Santa Cruz,67,22,37,7,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Peck Canyon 21
+Santa Cruz,19,5,12,2,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Potrero 22
+Santa Cruz,1,0,1,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Mountain 23
+Santa Cruz,5,0,5,0,DEM,U.S. Senate,,"KIRKPATRICK, ANN",Lake Patagonia 24
+Santa Cruz,8,2,5,0,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 1
+Santa Cruz,20,6,12,1,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 2
+Santa Cruz,12,3,7,0,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 3
+Santa Cruz,6,2,4,0,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 4
+Santa Cruz,24,8,14,1,REP,U.S. Senate,,"MCCAIN, JOHN",Coronado 5
+Santa Cruz,28,7,19,1,REP,U.S. Senate,,"MCCAIN, JOHN",Elgin 6
+Santa Cruz,85,22,56,6,REP,U.S. Senate,,"MCCAIN, JOHN",Rio Rico 7
+Santa Cruz,30,9,18,2,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 8
+Santa Cruz,8,2,5,0,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 9
+Santa Cruz,16,4,10,1,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 10
+Santa Cruz,56,13,40,2,REP,U.S. Senate,,"MCCAIN, JOHN",Tubac 11
+Santa Cruz,8,2,5,1,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 12
+Santa Cruz,11,4,6,0,REP,U.S. Senate,,"MCCAIN, JOHN",Santa Cruz 13
+Santa Cruz,22,7,14,0,REP,U.S. Senate,,"MCCAIN, JOHN",Patagonia 14
+Santa Cruz,37,14,21,1,REP,U.S. Senate,,"MCCAIN, JOHN",Sonoita 15
+Santa Cruz,7,2,3,0,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 16
+Santa Cruz,55,15,32,6,REP,U.S. Senate,,"MCCAIN, JOHN",Calabasas 17
+Santa Cruz,14,4,8,1,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 18
+Santa Cruz,44,12,27,4,REP,U.S. Senate,,"MCCAIN, JOHN",Baca 19
+Santa Cruz,16,5,9,1,REP,U.S. Senate,,"MCCAIN, JOHN",Nogales 20
+Santa Cruz,33,9,19,4,REP,U.S. Senate,,"MCCAIN, JOHN",Peck Canyon 21
+Santa Cruz,7,2,4,1,REP,U.S. Senate,,"MCCAIN, JOHN",Potrero 22
+Santa Cruz,2,0,1,0,REP,U.S. Senate,,"MCCAIN, JOHN",Mountain 23
+Santa Cruz,4,1,3,0,REP,U.S. Senate,,"MCCAIN, JOHN",Lake Patagonia 24
+Santa Cruz,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 1
+Santa Cruz,2,1,1,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 2
+Santa Cruz,1,0,1,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 3
+Santa Cruz,1,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 4
+Santa Cruz,1,0,1,0,GRN,U.S. Senate,,"SWING, GARY",Coronado 5
+Santa Cruz,2,0,2,0,GRN,U.S. Senate,,"SWING, GARY",Elgin 6
+Santa Cruz,12,1,10,0,GRN,U.S. Senate,,"SWING, GARY",Rio Rico 7
+Santa Cruz,2,1,1,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 8
+Santa Cruz,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 9
+Santa Cruz,1,0,1,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 10
+Santa Cruz,3,0,2,0,GRN,U.S. Senate,,"SWING, GARY",Tubac 11
+Santa Cruz,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 12
+Santa Cruz,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Santa Cruz 13
+Santa Cruz,3,1,1,0,GRN,U.S. Senate,,"SWING, GARY",Patagonia 14
+Santa Cruz,3,1,2,0,GRN,U.S. Senate,,"SWING, GARY",Sonoita 15
+Santa Cruz,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 16
+Santa Cruz,5,1,3,0,GRN,U.S. Senate,,"SWING, GARY",Calabasas 17
+Santa Cruz,1,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 18
+Santa Cruz,4,0,2,0,GRN,U.S. Senate,,"SWING, GARY",Baca 19
+Santa Cruz,1,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Nogales 20
+Santa Cruz,4,1,2,0,GRN,U.S. Senate,,"SWING, GARY",Peck Canyon 21
+Santa Cruz,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Potrero 22
+Santa Cruz,0,0,0,0,GRN,U.S. Senate,,"SWING, GARY",Mountain 23
+Santa Cruz,1,0,1,0,GRN,U.S. Senate,,"SWING, GARY",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 4
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Coronado 5
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Elgin 6
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Rio Rico 7
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 10
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Patagonia 14
+Santa Cruz,2,0,1,0,NON,U.S. Senate,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 16
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 18
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Nogales 20
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,U.S. Senate,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,U.S. Senate,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,1,0,0,0,,U.S. Senate,,UNDER VOTES,Nogales 1
+Santa Cruz,4,1,2,0,,U.S. Senate,,UNDER VOTES,Nogales 2
+Santa Cruz,2,0,1,0,,U.S. Senate,,UNDER VOTES,Nogales 3
+Santa Cruz,1,0,0,0,,U.S. Senate,,UNDER VOTES,Nogales 4
+Santa Cruz,2,0,1,0,,U.S. Senate,,UNDER VOTES,Coronado 5
+Santa Cruz,1,0,1,0,,U.S. Senate,,UNDER VOTES,Elgin 6
+Santa Cruz,8,2,5,0,,U.S. Senate,,UNDER VOTES,Rio Rico 7
+Santa Cruz,5,2,2,1,,U.S. Senate,,UNDER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,U.S. Senate,,UNDER VOTES,Nogales 9
+Santa Cruz,2,0,1,0,,U.S. Senate,,UNDER VOTES,Nogales 10
+Santa Cruz,4,2,2,0,,U.S. Senate,,UNDER VOTES,Tubac 11
+Santa Cruz,2,0,1,0,,U.S. Senate,,UNDER VOTES,Nogales 12
+Santa Cruz,1,0,0,0,,U.S. Senate,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,2,0,1,0,,U.S. Senate,,UNDER VOTES,Patagonia 14
+Santa Cruz,3,1,2,0,,U.S. Senate,,UNDER VOTES,Sonoita 15
+Santa Cruz,1,0,0,0,,U.S. Senate,,UNDER VOTES,Nogales 16
+Santa Cruz,6,1,3,0,,U.S. Senate,,UNDER VOTES,Calabasas 17
+Santa Cruz,1,0,0,0,,U.S. Senate,,UNDER VOTES,Nogales 18
+Santa Cruz,5,2,2,0,,U.S. Senate,,UNDER VOTES,Baca 19
+Santa Cruz,3,1,1,0,,U.S. Senate,,UNDER VOTES,Nogales 20
+Santa Cruz,5,1,2,0,,U.S. Senate,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,2,0,1,0,,U.S. Senate,,UNDER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,U.S. Senate,,UNDER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,U.S. Senate,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,27,8,16,2,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 1
+Santa Cruz,70,23,40,7,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 2
+Santa Cruz,41,12,26,3,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 3
+Santa Cruz,22,7,13,1,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 4
+Santa Cruz,58,17,36,3,DEM,U.S. House,3,"GRIJALVA, RAUL",Coronado 5
+Santa Cruz,21,3,16,0,DEM,U.S. House,3,"GRIJALVA, RAUL",Elgin 6
+Santa Cruz,150,40,99,10,DEM,U.S. House,3,"GRIJALVA, RAUL",Rio Rico 7
+Santa Cruz,108,36,62,10,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 8
+Santa Cruz,17,5,10,1,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 9
+Santa Cruz,51,14,31,5,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 10
+Santa Cruz,76,17,56,2,DEM,U.S. House,3,"GRIJALVA, RAUL",Tubac 11
+Santa Cruz,28,9,15,3,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 12
+Santa Cruz,19,6,10,2,DEM,U.S. House,3,"GRIJALVA, RAUL",Santa Cruz 13
+Santa Cruz,47,14,31,1,DEM,U.S. House,3,"GRIJALVA, RAUL",Patagonia 14
+Santa Cruz,30,7,22,1,DEM,U.S. House,3,"GRIJALVA, RAUL",Sonoita 15
+Santa Cruz,23,8,12,3,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 16
+Santa Cruz,144,44,86,14,DEM,U.S. House,3,"GRIJALVA, RAUL",Calabasas 17
+Santa Cruz,34,9,20,3,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 18
+Santa Cruz,121,31,75,14,DEM,U.S. House,3,"GRIJALVA, RAUL",Baca 19
+Santa Cruz,56,18,31,5,DEM,U.S. House,3,"GRIJALVA, RAUL",Nogales 20
+Santa Cruz,89,29,48,11,DEM,U.S. House,3,"GRIJALVA, RAUL",Peck Canyon 21
+Santa Cruz,28,8,17,3,DEM,U.S. House,3,"GRIJALVA, RAUL",Potrero 22
+Santa Cruz,2,0,1,0,DEM,U.S. House,3,"GRIJALVA, RAUL",Mountain 23
+Santa Cruz,7,0,6,0,DEM,U.S. House,3,"GRIJALVA, RAUL",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 1
+Santa Cruz,1,0,1,0,NON,U.S. House,3,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 4
+Santa Cruz,1,0,0,0,NON,U.S. House,3,WRITE-IN,Coronado 5
+Santa Cruz,8,3,4,0,NON,U.S. House,3,WRITE-IN,Elgin 6
+Santa Cruz,12,4,7,0,NON,U.S. House,3,WRITE-IN,Rio Rico 7
+Santa Cruz,2,0,1,0,NON,U.S. House,3,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 10
+Santa Cruz,6,2,3,0,NON,U.S. House,3,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 12
+Santa Cruz,1,0,0,0,NON,U.S. House,3,WRITE-IN,Santa Cruz 13
+Santa Cruz,3,1,1,0,NON,U.S. House,3,WRITE-IN,Patagonia 14
+Santa Cruz,11,4,7,0,NON,U.S. House,3,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 16
+Santa Cruz,6,2,3,0,NON,U.S. House,3,WRITE-IN,Calabasas 17
+Santa Cruz,1,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 18
+Santa Cruz,3,1,1,0,NON,U.S. House,3,WRITE-IN,Baca 19
+Santa Cruz,1,0,0,0,NON,U.S. House,3,WRITE-IN,Nogales 20
+Santa Cruz,3,1,2,0,NON,U.S. House,3,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,U.S. House,3,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,U.S. House,3,OVER VOTES,Lake Patagonia 24
+Santa Cruz,4,0,3,0,,U.S. House,3,UNDER VOTES,Nogales 1
+Santa Cruz,10,2,7,0,,U.S. House,3,UNDER VOTES,Nogales 2
+Santa Cruz,6,1,4,0,,U.S. House,3,UNDER VOTES,Nogales 3
+Santa Cruz,3,1,2,0,,U.S. House,3,UNDER VOTES,Nogales 4
+Santa Cruz,10,2,6,0,,U.S. House,3,UNDER VOTES,Coronado 5
+Santa Cruz,21,4,16,0,,U.S. House,3,UNDER VOTES,Elgin 6
+Santa Cruz,54,10,41,2,,U.S. House,3,UNDER VOTES,Rio Rico 7
+Santa Cruz,11,3,7,0,,U.S. House,3,UNDER VOTES,Nogales 8
+Santa Cruz,5,1,3,0,,U.S. House,3,UNDER VOTES,Nogales 9
+Santa Cruz,7,1,4,1,,U.S. House,3,UNDER VOTES,Nogales 10
+Santa Cruz,46,9,34,2,,U.S. House,3,UNDER VOTES,Tubac 11
+Santa Cruz,5,1,3,0,,U.S. House,3,UNDER VOTES,Nogales 12
+Santa Cruz,7,3,4,0,,U.S. House,3,UNDER VOTES,Santa Cruz 13
+Santa Cruz,17,5,10,0,,U.S. House,3,UNDER VOTES,Patagonia 14
+Santa Cruz,29,9,18,1,,U.S. House,3,UNDER VOTES,Sonoita 15
+Santa Cruz,2,1,1,0,,U.S. House,3,UNDER VOTES,Nogales 16
+Santa Cruz,24,5,17,1,,U.S. House,3,UNDER VOTES,Calabasas 17
+Santa Cruz,8,3,5,0,,U.S. House,3,UNDER VOTES,Nogales 18
+Santa Cruz,17,5,11,0,,U.S. House,3,UNDER VOTES,Baca 19
+Santa Cruz,7,3,4,0,,U.S. House,3,UNDER VOTES,Nogales 20
+Santa Cruz,17,4,11,2,,U.S. House,3,UNDER VOTES,Peck Canyon 21
+Santa Cruz,2,0,1,0,,U.S. House,3,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,U.S. House,3,UNDER VOTES,Mountain 23
+Santa Cruz,4,0,3,0,,U.S. House,3,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,26,7,16,2,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 1
+Santa Cruz,64,21,35,6,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 2
+Santa Cruz,38,10,24,2,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 3
+Santa Cruz,19,7,11,1,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 4
+Santa Cruz,49,14,32,2,DEM,State Senate,2,"DALESSANDRO, ANDREA",Coronado 5
+Santa Cruz,16,2,14,0,DEM,State Senate,2,"DALESSANDRO, ANDREA",Elgin 6
+Santa Cruz,126,30,88,7,DEM,State Senate,2,"DALESSANDRO, ANDREA",Rio Rico 7
+Santa Cruz,98,31,58,8,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 8
+Santa Cruz,14,4,8,1,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 9
+Santa Cruz,45,11,28,5,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 10
+Santa Cruz,67,14,50,2,DEM,State Senate,2,"DALESSANDRO, ANDREA",Tubac 11
+Santa Cruz,26,9,14,3,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 12
+Santa Cruz,17,5,9,1,DEM,State Senate,2,"DALESSANDRO, ANDREA",Santa Cruz 13
+Santa Cruz,42,12,27,1,DEM,State Senate,2,"DALESSANDRO, ANDREA",Patagonia 14
+Santa Cruz,25,5,19,0,DEM,State Senate,2,"DALESSANDRO, ANDREA",Sonoita 15
+Santa Cruz,20,7,10,2,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 16
+Santa Cruz,127,37,78,11,DEM,State Senate,2,"DALESSANDRO, ANDREA",Calabasas 17
+Santa Cruz,29,7,19,3,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 18
+Santa Cruz,104,26,66,10,DEM,State Senate,2,"DALESSANDRO, ANDREA",Baca 19
+Santa Cruz,51,17,29,4,DEM,State Senate,2,"DALESSANDRO, ANDREA",Nogales 20
+Santa Cruz,77,26,42,8,DEM,State Senate,2,"DALESSANDRO, ANDREA",Peck Canyon 21
+Santa Cruz,26,7,16,2,DEM,State Senate,2,"DALESSANDRO, ANDREA",Potrero 22
+Santa Cruz,1,0,1,0,DEM,State Senate,2,"DALESSANDRO, ANDREA",Mountain 23
+Santa Cruz,5,0,5,0,DEM,State Senate,2,"DALESSANDRO, ANDREA",Lake Patagonia 24
+Santa Cruz,5,1,3,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 1
+Santa Cruz,12,2,8,1,REP,State Senate,2,"KAIS, SHELLEY",Nogales 2
+Santa Cruz,7,2,4,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 3
+Santa Cruz,4,1,3,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 4
+Santa Cruz,15,5,8,1,REP,State Senate,2,"KAIS, SHELLEY",Coronado 5
+Santa Cruz,30,8,20,1,REP,State Senate,2,"KAIS, SHELLEY",Elgin 6
+Santa Cruz,76,20,51,4,REP,State Senate,2,"KAIS, SHELLEY",Rio Rico 7
+Santa Cruz,15,5,8,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 8
+Santa Cruz,6,2,3,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 9
+Santa Cruz,9,3,5,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 10
+Santa Cruz,53,12,38,2,REP,State Senate,2,"KAIS, SHELLEY",Tubac 11
+Santa Cruz,5,1,3,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 12
+Santa Cruz,8,3,4,0,REP,State Senate,2,"KAIS, SHELLEY",Santa Cruz 13
+Santa Cruz,19,6,12,0,REP,State Senate,2,"KAIS, SHELLEY",Patagonia 14
+Santa Cruz,42,14,25,1,REP,State Senate,2,"KAIS, SHELLEY",Sonoita 15
+Santa Cruz,3,0,2,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 16
+Santa Cruz,38,11,23,3,REP,State Senate,2,"KAIS, SHELLEY",Calabasas 17
+Santa Cruz,11,4,6,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 18
+Santa Cruz,29,9,17,3,REP,State Senate,2,"KAIS, SHELLEY",Baca 19
+Santa Cruz,9,3,4,0,REP,State Senate,2,"KAIS, SHELLEY",Nogales 20
+Santa Cruz,24,5,15,3,REP,State Senate,2,"KAIS, SHELLEY",Peck Canyon 21
+Santa Cruz,2,0,1,0,REP,State Senate,2,"KAIS, SHELLEY",Potrero 22
+Santa Cruz,2,0,1,0,REP,State Senate,2,"KAIS, SHELLEY",Mountain 23
+Santa Cruz,5,1,4,0,REP,State Senate,2,"KAIS, SHELLEY",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 4
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Coronado 5
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Elgin 6
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Rio Rico 7
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 10
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Patagonia 14
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 16
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 18
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Nogales 20
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,State Senate,2,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,State Senate,2,OVER VOTES,Lake Patagonia 24
+Santa Cruz,1,0,1,0,,State Senate,2,UNDER VOTES,Nogales 1
+Santa Cruz,6,1,4,0,,State Senate,2,UNDER VOTES,Nogales 2
+Santa Cruz,3,1,1,0,,State Senate,2,UNDER VOTES,Nogales 3
+Santa Cruz,1,0,1,0,,State Senate,2,UNDER VOTES,Nogales 4
+Santa Cruz,4,1,2,0,,State Senate,2,UNDER VOTES,Coronado 5
+Santa Cruz,3,0,2,0,,State Senate,2,UNDER VOTES,Elgin 6
+Santa Cruz,12,2,8,1,,State Senate,2,UNDER VOTES,Rio Rico 7
+Santa Cruz,7,2,3,1,,State Senate,2,UNDER VOTES,Nogales 8
+Santa Cruz,1,0,1,0,,State Senate,2,UNDER VOTES,Nogales 9
+Santa Cruz,4,1,2,0,,State Senate,2,UNDER VOTES,Nogales 10
+Santa Cruz,7,1,5,0,,State Senate,2,UNDER VOTES,Tubac 11
+Santa Cruz,2,0,1,0,,State Senate,2,UNDER VOTES,Nogales 12
+Santa Cruz,2,0,1,0,,State Senate,2,UNDER VOTES,Santa Cruz 13
+Santa Cruz,5,2,3,0,,State Senate,2,UNDER VOTES,Patagonia 14
+Santa Cruz,4,1,2,0,,State Senate,2,UNDER VOTES,Sonoita 15
+Santa Cruz,2,1,0,0,,State Senate,2,UNDER VOTES,Nogales 16
+Santa Cruz,9,3,4,1,,State Senate,2,UNDER VOTES,Calabasas 17
+Santa Cruz,3,1,1,0,,State Senate,2,UNDER VOTES,Nogales 18
+Santa Cruz,7,2,4,1,,State Senate,2,UNDER VOTES,Baca 19
+Santa Cruz,4,1,2,1,,State Senate,2,UNDER VOTES,Nogales 20
+Santa Cruz,7,2,4,1,,State Senate,2,UNDER VOTES,Peck Canyon 21
+Santa Cruz,2,0,1,0,,State Senate,2,UNDER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,State Senate,2,UNDER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,State Senate,2,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,21,5,13,1,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 1
+Santa Cruz,46,13,29,3,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 2
+Santa Cruz,30,8,20,2,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 3
+Santa Cruz,18,5,12,1,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 4
+Santa Cruz,42,11,28,1,DEM,State Representative,2,"GABALDON, ROSANNA",Coronado 5
+Santa Cruz,18,2,15,0,DEM,State Representative,2,"GABALDON, ROSANNA",Elgin 6
+Santa Cruz,104,24,75,4,DEM,State Representative,2,"GABALDON, ROSANNA",Rio Rico 7
+Santa Cruz,75,21,47,6,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 8
+Santa Cruz,12,3,7,0,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 9
+Santa Cruz,32,8,21,3,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 10
+Santa Cruz,64,14,49,1,DEM,State Representative,2,"GABALDON, ROSANNA",Tubac 11
+Santa Cruz,21,6,12,2,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 12
+Santa Cruz,14,5,8,0,DEM,State Representative,2,"GABALDON, ROSANNA",Santa Cruz 13
+Santa Cruz,37,9,26,1,DEM,State Representative,2,"GABALDON, ROSANNA",Patagonia 14
+Santa Cruz,25,5,19,0,DEM,State Representative,2,"GABALDON, ROSANNA",Sonoita 15
+Santa Cruz,12,4,7,1,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 16
+Santa Cruz,98,27,64,7,DEM,State Representative,2,"GABALDON, ROSANNA",Calabasas 17
+Santa Cruz,25,6,17,2,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 18
+Santa Cruz,79,18,53,6,DEM,State Representative,2,"GABALDON, ROSANNA",Baca 19
+Santa Cruz,38,11,24,2,DEM,State Representative,2,"GABALDON, ROSANNA",Nogales 20
+Santa Cruz,59,18,35,5,DEM,State Representative,2,"GABALDON, ROSANNA",Peck Canyon 21
+Santa Cruz,17,4,10,2,DEM,State Representative,2,"GABALDON, ROSANNA",Potrero 22
+Santa Cruz,1,0,1,0,DEM,State Representative,2,"GABALDON, ROSANNA",Mountain 23
+Santa Cruz,5,0,5,0,DEM,State Representative,2,"GABALDON, ROSANNA",Lake Patagonia 24
+Santa Cruz,22,6,13,1,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 1
+Santa Cruz,53,18,30,5,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 2
+Santa Cruz,30,9,18,1,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 3
+Santa Cruz,16,5,10,1,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 4
+Santa Cruz,40,11,26,2,DEM,State Representative,2,"HERNANDEZ, DANIEL",Coronado 5
+Santa Cruz,16,3,13,0,DEM,State Representative,2,"HERNANDEZ, DANIEL",Elgin 6
+Santa Cruz,100,23,70,6,DEM,State Representative,2,"HERNANDEZ, DANIEL",Rio Rico 7
+Santa Cruz,80,25,48,6,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 8
+Santa Cruz,11,4,6,0,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 9
+Santa Cruz,37,10,23,4,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 10
+Santa Cruz,53,11,40,1,DEM,State Representative,2,"HERNANDEZ, DANIEL",Tubac 11
+Santa Cruz,22,6,13,2,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 12
+Santa Cruz,12,4,7,1,DEM,State Representative,2,"HERNANDEZ, DANIEL",Santa Cruz 13
+Santa Cruz,32,9,22,0,DEM,State Representative,2,"HERNANDEZ, DANIEL",Patagonia 14
+Santa Cruz,23,4,18,0,DEM,State Representative,2,"HERNANDEZ, DANIEL",Sonoita 15
+Santa Cruz,16,5,8,2,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 16
+Santa Cruz,103,31,62,9,DEM,State Representative,2,"HERNANDEZ, DANIEL",Calabasas 17
+Santa Cruz,24,5,16,2,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 18
+Santa Cruz,82,20,52,8,DEM,State Representative,2,"HERNANDEZ, DANIEL",Baca 19
+Santa Cruz,41,14,23,4,DEM,State Representative,2,"HERNANDEZ, DANIEL",Nogales 20
+Santa Cruz,64,22,33,8,DEM,State Representative,2,"HERNANDEZ, DANIEL",Peck Canyon 21
+Santa Cruz,19,5,13,1,DEM,State Representative,2,"HERNANDEZ, DANIEL",Potrero 22
+Santa Cruz,1,0,0,0,DEM,State Representative,2,"HERNANDEZ, DANIEL",Mountain 23
+Santa Cruz,3,0,3,0,DEM,State Representative,2,"HERNANDEZ, DANIEL",Lake Patagonia 24
+Santa Cruz,5,1,3,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 1
+Santa Cruz,11,3,7,1,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 2
+Santa Cruz,9,2,6,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 3
+Santa Cruz,4,1,3,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 4
+Santa Cruz,17,5,10,1,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Coronado 5
+Santa Cruz,31,8,22,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Elgin 6
+Santa Cruz,82,21,57,4,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Rio Rico 7
+Santa Cruz,15,6,8,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 8
+Santa Cruz,6,2,4,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 9
+Santa Cruz,11,3,6,1,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 10
+Santa Cruz,59,13,43,2,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Tubac 11
+Santa Cruz,4,1,2,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 12
+Santa Cruz,10,4,5,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Santa Cruz 13
+Santa Cruz,24,7,15,1,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Patagonia 14
+Santa Cruz,44,15,27,1,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Sonoita 15
+Santa Cruz,4,1,3,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 16
+Santa Cruz,42,12,26,3,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Calabasas 17
+Santa Cruz,12,4,7,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 18
+Santa Cruz,29,9,17,2,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Baca 19
+Santa Cruz,9,3,5,1,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Nogales 20
+Santa Cruz,25,7,15,2,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Peck Canyon 21
+Santa Cruz,3,0,1,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Potrero 22
+Santa Cruz,2,0,2,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Mountain 23
+Santa Cruz,6,1,4,0,REP,State Representative,2,"ACKERLEY, JOHN CHRISTOPHER",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 4
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Coronado 5
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Elgin 6
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Rio Rico 7
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 10
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Patagonia 14
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 16
+Santa Cruz,1,0,0,0,NON,State Representative,2,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 18
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Nogales 20
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,State Representative,2,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,State Representative,2,OVER VOTES,Lake Patagonia 24
+Santa Cruz,17,6,8,2,,State Representative,2,UNDER VOTES,Nogales 1
+Santa Cruz,52,17,29,6,,State Representative,2,UNDER VOTES,Nogales 2
+Santa Cruz,27,9,15,2,,State Representative,2,UNDER VOTES,Nogales 3
+Santa Cruz,12,5,5,1,,State Representative,2,UNDER VOTES,Nogales 4
+Santa Cruz,39,13,23,3,,State Representative,2,UNDER VOTES,Coronado 5
+Santa Cruz,33,8,24,1,,State Representative,2,UNDER VOTES,Elgin 6
+Santa Cruz,143,39,92,11,,State Representative,2,UNDER VOTES,Rio Rico 7
+Santa Cruz,73,26,38,8,,State Representative,2,UNDER VOTES,Nogales 8
+Santa Cruz,14,4,8,1,,State Representative,2,UNDER VOTES,Nogales 9
+Santa Cruz,38,11,22,4,,State Representative,2,UNDER VOTES,Nogales 10
+Santa Cruz,79,18,56,4,,State Representative,2,UNDER VOTES,Tubac 11
+Santa Cruz,19,7,8,3,,State Representative,2,UNDER VOTES,Nogales 12
+Santa Cruz,20,7,10,2,,State Representative,2,UNDER VOTES,Santa Cruz 13
+Santa Cruz,40,16,22,2,,State Representative,2,UNDER VOTES,Patagonia 14
+Santa Cruz,49,17,29,2,,State Representative,2,UNDER VOTES,Sonoita 15
+Santa Cruz,19,6,9,3,,State Representative,2,UNDER VOTES,Nogales 16
+Santa Cruz,106,33,60,12,,State Representative,2,UNDER VOTES,Calabasas 17
+Santa Cruz,26,10,12,3,,State Representative,2,UNDER VOTES,Nogales 18
+Santa Cruz,91,27,52,11,,State Representative,2,UNDER VOTES,Baca 19
+Santa Cruz,39,14,19,5,,State Representative,2,UNDER VOTES,Nogales 20
+Santa Cruz,69,21,39,9,,State Representative,2,UNDER VOTES,Peck Canyon 21
+Santa Cruz,20,6,11,3,,State Representative,2,UNDER VOTES,Potrero 22
+Santa Cruz,3,0,2,0,,State Representative,2,UNDER VOTES,Mountain 23
+Santa Cruz,8,1,6,0,,State Representative,2,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,20,5,13,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 1
+Santa Cruz,43,13,26,4,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 2
+Santa Cruz,28,7,19,2,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 3
+Santa Cruz,15,4,10,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 4
+Santa Cruz,39,10,26,2,DEM,Corporation Commissioner,,"CHABIN, TOM",Coronado 5
+Santa Cruz,16,2,13,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Elgin 6
+Santa Cruz,89,19,66,3,DEM,Corporation Commissioner,,"CHABIN, TOM",Rio Rico 7
+Santa Cruz,71,21,44,5,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 8
+Santa Cruz,10,3,7,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 9
+Santa Cruz,34,7,22,3,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 10
+Santa Cruz,59,11,46,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Tubac 11
+Santa Cruz,20,6,11,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 12
+Santa Cruz,13,4,7,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Santa Cruz 13
+Santa Cruz,35,9,24,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Patagonia 14
+Santa Cruz,24,4,19,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Sonoita 15
+Santa Cruz,10,3,6,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 16
+Santa Cruz,96,26,63,6,DEM,Corporation Commissioner,,"CHABIN, TOM",Calabasas 17
+Santa Cruz,24,4,16,2,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 18
+Santa Cruz,67,16,44,5,DEM,Corporation Commissioner,,"CHABIN, TOM",Baca 19
+Santa Cruz,37,12,21,2,DEM,Corporation Commissioner,,"CHABIN, TOM",Nogales 20
+Santa Cruz,56,18,32,6,DEM,Corporation Commissioner,,"CHABIN, TOM",Peck Canyon 21
+Santa Cruz,16,4,10,1,DEM,Corporation Commissioner,,"CHABIN, TOM",Potrero 22
+Santa Cruz,1,0,1,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Mountain 23
+Santa Cruz,5,0,5,0,DEM,Corporation Commissioner,,"CHABIN, TOM",Lake Patagonia 24
+Santa Cruz,21,6,13,1,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 1
+Santa Cruz,53,17,31,5,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 2
+Santa Cruz,33,8,22,2,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 3
+Santa Cruz,17,5,11,1,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 4
+Santa Cruz,37,9,26,1,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Coronado 5
+Santa Cruz,17,2,14,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Elgin 6
+Santa Cruz,107,27,75,5,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Rio Rico 7
+Santa Cruz,75,23,46,5,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 8
+Santa Cruz,10,3,6,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 9
+Santa Cruz,33,8,21,3,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 10
+Santa Cruz,61,13,46,1,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Tubac 11
+Santa Cruz,22,7,12,2,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 12
+Santa Cruz,13,5,8,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Santa Cruz 13
+Santa Cruz,37,9,26,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Patagonia 14
+Santa Cruz,26,4,20,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Sonoita 15
+Santa Cruz,17,5,9,2,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 16
+Santa Cruz,99,28,63,7,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Calabasas 17
+Santa Cruz,24,6,16,2,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 18
+Santa Cruz,82,20,54,8,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Baca 19
+Santa Cruz,41,13,23,3,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Nogales 20
+Santa Cruz,61,21,34,6,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Peck Canyon 21
+Santa Cruz,16,4,10,1,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Potrero 22
+Santa Cruz,1,0,1,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Mountain 23
+Santa Cruz,5,0,5,0,DEM,Corporation Commissioner,,"MUNDELL, WILLIAM ""BILL""",Lake Patagonia 24
+Santa Cruz,7,2,5,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 1
+Santa Cruz,16,5,10,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 2
+Santa Cruz,11,3,7,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 3
+Santa Cruz,6,1,4,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 4
+Santa Cruz,19,7,10,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Coronado 5
+Santa Cruz,29,7,20,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Elgin 6
+Santa Cruz,79,20,54,4,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Rio Rico 7
+Santa Cruz,23,8,13,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 8
+Santa Cruz,7,2,4,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 9
+Santa Cruz,12,4,7,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 10
+Santa Cruz,53,13,38,2,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Tubac 11
+Santa Cruz,5,2,2,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 12
+Santa Cruz,9,3,5,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Santa Cruz 13
+Santa Cruz,21,6,14,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Patagonia 14
+Santa Cruz,40,14,24,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Sonoita 15
+Santa Cruz,5,1,3,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 16
+Santa Cruz,46,13,29,3,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Calabasas 17
+Santa Cruz,13,4,8,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 18
+Santa Cruz,36,9,23,2,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Baca 19
+Santa Cruz,13,4,8,1,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Nogales 20
+Santa Cruz,26,8,15,2,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Peck Canyon 21
+Santa Cruz,5,1,2,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Potrero 22
+Santa Cruz,2,0,1,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Mountain 23
+Santa Cruz,5,1,4,0,REP,Corporation Commissioner,,"BURNS, ROBERT ""BOB""",Lake Patagonia 24
+Santa Cruz,3,1,2,0,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 1
+Santa Cruz,11,3,7,1,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 2
+Santa Cruz,7,1,5,0,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 3
+Santa Cruz,3,0,2,0,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 4
+Santa Cruz,13,5,7,0,REP,Corporation Commissioner,,"DUNN, BOYD",Coronado 5
+Santa Cruz,25,7,17,0,REP,Corporation Commissioner,,"DUNN, BOYD",Elgin 6
+Santa Cruz,60,15,41,3,REP,Corporation Commissioner,,"DUNN, BOYD",Rio Rico 7
+Santa Cruz,15,4,9,1,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 8
+Santa Cruz,5,2,3,0,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 9
+Santa Cruz,8,3,4,1,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 10
+Santa Cruz,45,10,32,2,REP,Corporation Commissioner,,"DUNN, BOYD",Tubac 11
+Santa Cruz,4,1,2,0,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 12
+Santa Cruz,7,3,3,0,REP,Corporation Commissioner,,"DUNN, BOYD",Santa Cruz 13
+Santa Cruz,16,5,10,0,REP,Corporation Commissioner,,"DUNN, BOYD",Patagonia 14
+Santa Cruz,35,12,21,1,REP,Corporation Commissioner,,"DUNN, BOYD",Sonoita 15
+Santa Cruz,4,1,3,0,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 16
+Santa Cruz,34,10,20,3,REP,Corporation Commissioner,,"DUNN, BOYD",Calabasas 17
+Santa Cruz,9,3,4,0,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 18
+Santa Cruz,21,6,13,1,REP,Corporation Commissioner,,"DUNN, BOYD",Baca 19
+Santa Cruz,8,2,5,0,REP,Corporation Commissioner,,"DUNN, BOYD",Nogales 20
+Santa Cruz,19,5,11,2,REP,Corporation Commissioner,,"DUNN, BOYD",Peck Canyon 21
+Santa Cruz,3,0,1,0,REP,Corporation Commissioner,,"DUNN, BOYD",Potrero 22
+Santa Cruz,2,0,1,0,REP,Corporation Commissioner,,"DUNN, BOYD",Mountain 23
+Santa Cruz,4,1,3,0,REP,Corporation Commissioner,,"DUNN, BOYD",Lake Patagonia 24
+Santa Cruz,5,1,3,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 1
+Santa Cruz,11,2,7,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 2
+Santa Cruz,7,2,4,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 3
+Santa Cruz,4,1,3,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 4
+Santa Cruz,15,4,9,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Coronado 5
+Santa Cruz,27,7,18,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Elgin 6
+Santa Cruz,69,16,50,3,REP,Corporation Commissioner,,"TOBIN, ANDY",Rio Rico 7
+Santa Cruz,15,4,10,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 8
+Santa Cruz,7,2,3,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 9
+Santa Cruz,8,3,3,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 10
+Santa Cruz,49,10,36,2,REP,Corporation Commissioner,,"TOBIN, ANDY",Tubac 11
+Santa Cruz,6,2,3,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 12
+Santa Cruz,8,3,5,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Santa Cruz 13
+Santa Cruz,18,6,11,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Patagonia 14
+Santa Cruz,36,12,22,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Sonoita 15
+Santa Cruz,4,1,2,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 16
+Santa Cruz,35,11,21,3,REP,Corporation Commissioner,,"TOBIN, ANDY",Calabasas 17
+Santa Cruz,12,4,7,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 18
+Santa Cruz,25,8,15,1,REP,Corporation Commissioner,,"TOBIN, ANDY",Baca 19
+Santa Cruz,9,3,4,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Nogales 20
+Santa Cruz,23,7,13,2,REP,Corporation Commissioner,,"TOBIN, ANDY",Peck Canyon 21
+Santa Cruz,3,0,2,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Potrero 22
+Santa Cruz,1,0,1,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Mountain 23
+Santa Cruz,3,0,3,0,REP,Corporation Commissioner,,"TOBIN, ANDY",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 4
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Coronado 5
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Elgin 6
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Rio Rico 7
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 10
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Patagonia 14
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 16
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 18
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Nogales 20
+Santa Cruz,1,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,Corporation Commissioner,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,Corporation Commissioner,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,40,13,22,4,,Corporation Commissioner,,UNDER VOTES,Nogales 1
+Santa Cruz,110,36,61,12,,Corporation Commissioner,,UNDER VOTES,Nogales 2
+Santa Cruz,61,20,34,5,,Corporation Commissioner,,UNDER VOTES,Nogales 3
+Santa Cruz,30,11,15,2,,Corporation Commissioner,,UNDER VOTES,Nogales 4
+Santa Cruz,83,25,51,6,,Corporation Commissioner,,UNDER VOTES,Coronado 5
+Santa Cruz,35,6,28,1,,Corporation Commissioner,,UNDER VOTES,Elgin 6
+Santa Cruz,240,64,156,20,,Corporation Commissioner,,UNDER VOTES,Rio Rico 7
+Santa Cruz,166,57,89,18,,Corporation Commissioner,,UNDER VOTES,Nogales 8
+Santa Cruz,25,8,14,2,,Corporation Commissioner,,UNDER VOTES,Nogales 9
+Santa Cruz,82,21,50,10,,Corporation Commissioner,,UNDER VOTES,Nogales 10
+Santa Cruz,118,28,84,5,,Corporation Commissioner,,UNDER VOTES,Tubac 11
+Santa Cruz,43,14,22,7,,Corporation Commissioner,,UNDER VOTES,Nogales 12
+Santa Cruz,31,11,16,3,,Corporation Commissioner,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,72,25,42,3,,Corporation Commissioner,,UNDER VOTES,Patagonia 14
+Santa Cruz,52,15,33,3,,Corporation Commissioner,,UNDER VOTES,Sonoita 15
+Santa Cruz,37,14,17,5,,Corporation Commissioner,,UNDER VOTES,Nogales 16
+Santa Cruz,213,65,122,24,,Corporation Commissioner,,UNDER VOTES,Calabasas 17
+Santa Cruz,51,17,27,5,,Corporation Commissioner,,UNDER VOTES,Nogales 18
+Santa Cruz,190,54,111,24,,Corporation Commissioner,,UNDER VOTES,Baca 19
+Santa Cruz,83,28,44,10,,Corporation Commissioner,,UNDER VOTES,Nogales 20
+Santa Cruz,141,44,77,19,,Corporation Commissioner,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,47,13,27,6,,Corporation Commissioner,,UNDER VOTES,Potrero 22
+Santa Cruz,4,1,3,0,,Corporation Commissioner,,UNDER VOTES,Mountain 23
+Santa Cruz,11,1,9,0,,Corporation Commissioner,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,24,7,14,2,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 1
+Santa Cruz,59,19,33,6,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 2
+Santa Cruz,34,10,21,2,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 3
+Santa Cruz,19,6,12,1,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 4
+Santa Cruz,90,28,53,7,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 8
+Santa Cruz,15,5,9,1,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 9
+Santa Cruz,25,8,14,3,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 12
+Santa Cruz,19,7,11,1,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Santa Cruz 13
+Santa Cruz,28,8,17,3,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 18
+Santa Cruz,48,16,27,4,DEM,Board of Supervisors Dist. 1,,"RUIZ, MANUEL ""MANNY""",Nogales 20
+Santa Cruz,6,1,3,0,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 1
+Santa Cruz,17,4,10,1,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 2
+Santa Cruz,11,3,7,0,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 3
+Santa Cruz,4,1,2,0,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 4
+Santa Cruz,25,8,14,2,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 8
+Santa Cruz,4,1,2,0,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 9
+Santa Cruz,5,2,2,0,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 12
+Santa Cruz,7,2,3,0,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Santa Cruz 13
+Santa Cruz,13,4,7,0,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 18
+Santa Cruz,12,4,6,1,REP,Board of Supervisors Dist. 1,,"MELENDEZ, MIKE",Nogales 20
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 4
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 18
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 1,,WRITE-IN,Nogales 20
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 1,,OVER VOTES,Nogales 20
+Santa Cruz,2,0,2,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 1
+Santa Cruz,4,1,3,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 2
+Santa Cruz,2,0,1,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 3
+Santa Cruz,2,1,0,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 4
+Santa Cruz,5,2,2,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 8
+Santa Cruz,1,0,0,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 9
+Santa Cruz,3,1,1,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 12
+Santa Cruz,1,0,1,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,2,0,1,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 18
+Santa Cruz,3,1,1,0,,Board of Supervisors Dist. 1,,UNDER VOTES,Nogales 20
+Santa Cruz,56,17,35,3,DEM,Board of Supervisors,,"MOLERA, RUDY ""BUGS""",Coronado 5
+Santa Cruz,49,13,30,5,DEM,Board of Supervisors,,"MOLERA, RUDY ""BUGS""",Nogales 10
+Santa Cruz,20,6,11,2,DEM,Board of Supervisors,,"MOLERA, RUDY ""BUGS""",Nogales 16
+Santa Cruz,141,42,86,12,DEM,Board of Supervisors,,"MOLERA, RUDY ""BUGS""",Calabasas 17
+Santa Cruz,83,26,47,10,DEM,Board of Supervisors,,"MOLERA, RUDY ""BUGS""",Peck Canyon 21
+Santa Cruz,25,7,15,3,DEM,Board of Supervisors,,"MOLERA, RUDY ""BUGS""",Potrero 22
+Santa Cruz,2,0,1,0,NON,Board of Supervisors,,WRITE-IN,Coronado 5
+Santa Cruz,1,0,0,0,NON,Board of Supervisors,,WRITE-IN,Nogales 10
+Santa Cruz,1,0,0,0,NON,Board of Supervisors,,WRITE-IN,Nogales 16
+Santa Cruz,5,1,3,0,NON,Board of Supervisors,,WRITE-IN,Calabasas 17
+Santa Cruz,2,1,1,0,NON,Board of Supervisors,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Board of Supervisors,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,,Board of Supervisors,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Board of Supervisors,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Board of Supervisors,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Board of Supervisors,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Board of Supervisors,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Board of Supervisors,,OVER VOTES,Potrero 22
+Santa Cruz,10,3,7,0,,Board of Supervisors,,UNDER VOTES,Coronado 5
+Santa Cruz,9,2,6,1,,Board of Supervisors,,UNDER VOTES,Nogales 10
+Santa Cruz,5,2,2,0,,Board of Supervisors,,UNDER VOTES,Nogales 16
+Santa Cruz,28,7,17,3,,Board of Supervisors,,UNDER VOTES,Calabasas 17
+Santa Cruz,23,7,13,2,,Board of Supervisors,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,4,1,2,0,,Board of Supervisors,,UNDER VOTES,Potrero 22
+Santa Cruz,12,1,10,0,DEM,Board of Supervisors Dist. 3,,"BRACKER, BRUCE",Elgin 6
+Santa Cruz,120,31,81,7,DEM,Board of Supervisors Dist. 3,,"BRACKER, BRUCE",Rio Rico 7
+Santa Cruz,76,16,57,3,DEM,Board of Supervisors Dist. 3,,"BRACKER, BRUCE",Tubac 11
+Santa Cruz,27,6,19,1,DEM,Board of Supervisors Dist. 3,,"BRACKER, BRUCE",Patagonia 14
+Santa Cruz,23,4,17,0,DEM,Board of Supervisors Dist. 3,,"BRACKER, BRUCE",Sonoita 15
+Santa Cruz,96,24,62,10,DEM,Board of Supervisors Dist. 3,,"BRACKER, BRUCE",Baca 19
+Santa Cruz,1,0,1,0,DEM,Board of Supervisors Dist. 3,,"BRACKER, BRUCE",Mountain 23
+Santa Cruz,4,0,3,0,DEM,Board of Supervisors Dist. 3,,"BRACKER, BRUCE",Lake Patagonia 24
+Santa Cruz,17,3,13,0,REP,Board of Supervisors Dist. 3,,"MARTINEZ, JOSE ""MUCHO""",Elgin 6
+Santa Cruz,42,10,28,3,REP,Board of Supervisors Dist. 3,,"MARTINEZ, JOSE ""MUCHO""",Rio Rico 7
+Santa Cruz,26,6,19,1,REP,Board of Supervisors Dist. 3,,"MARTINEZ, JOSE ""MUCHO""",Tubac 11
+Santa Cruz,5,1,3,0,REP,Board of Supervisors Dist. 3,,"MARTINEZ, JOSE ""MUCHO""",Patagonia 14
+Santa Cruz,20,6,13,1,REP,Board of Supervisors Dist. 3,,"MARTINEZ, JOSE ""MUCHO""",Sonoita 15
+Santa Cruz,21,7,12,1,REP,Board of Supervisors Dist. 3,,"MARTINEZ, JOSE ""MUCHO""",Baca 19
+Santa Cruz,1,0,0,0,REP,Board of Supervisors Dist. 3,,"MARTINEZ, JOSE ""MUCHO""",Mountain 23
+Santa Cruz,1,0,1,0,REP,Board of Supervisors Dist. 3,,"MARTINEZ, JOSE ""MUCHO""",Lake Patagonia 24
+Santa Cruz,3,0,2,0,IND,Board of Supervisors Dist. 3,,"DAVIS, DEAN",Elgin 6
+Santa Cruz,27,7,19,0,IND,Board of Supervisors Dist. 3,,"DAVIS, DEAN",Rio Rico 7
+Santa Cruz,10,2,7,0,IND,Board of Supervisors Dist. 3,,"DAVIS, DEAN",Tubac 11
+Santa Cruz,3,1,2,0,IND,Board of Supervisors Dist. 3,,"DAVIS, DEAN",Patagonia 14
+Santa Cruz,3,1,1,0,IND,Board of Supervisors Dist. 3,,"DAVIS, DEAN",Sonoita 15
+Santa Cruz,8,2,4,0,IND,Board of Supervisors Dist. 3,,"DAVIS, DEAN",Baca 19
+Santa Cruz,0,0,0,0,IND,Board of Supervisors Dist. 3,,"DAVIS, DEAN",Mountain 23
+Santa Cruz,0,0,0,0,IND,Board of Supervisors Dist. 3,,"DAVIS, DEAN",Lake Patagonia 24
+Santa Cruz,12,4,8,0,IND,Board of Supervisors Dist. 3,,"MONTOY, CHARLIE",Elgin 6
+Santa Cruz,14,3,9,1,IND,Board of Supervisors Dist. 3,,"MONTOY, CHARLIE",Rio Rico 7
+Santa Cruz,9,2,5,0,IND,Board of Supervisors Dist. 3,,"MONTOY, CHARLIE",Tubac 11
+Santa Cruz,28,11,15,1,IND,Board of Supervisors Dist. 3,,"MONTOY, CHARLIE",Patagonia 14
+Santa Cruz,18,7,11,0,IND,Board of Supervisors Dist. 3,,"MONTOY, CHARLIE",Sonoita 15
+Santa Cruz,9,3,5,1,IND,Board of Supervisors Dist. 3,,"MONTOY, CHARLIE",Baca 19
+Santa Cruz,1,0,1,0,IND,Board of Supervisors Dist. 3,,"MONTOY, CHARLIE",Mountain 23
+Santa Cruz,5,1,3,0,IND,Board of Supervisors Dist. 3,,"MONTOY, CHARLIE",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Elgin 6
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Rio Rico 7
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Patagonia 14
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,Board of Supervisors Dist. 3,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,Elgin 6
+Santa Cruz,2,0,1,0,,Board of Supervisors Dist. 3,,OVER VOTES,Rio Rico 7
+Santa Cruz,1,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,Tubac 11
+Santa Cruz,1,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,Patagonia 14
+Santa Cruz,1,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,Sonoita 15
+Santa Cruz,2,0,1,0,,Board of Supervisors Dist. 3,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 3,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,3,0,2,0,,Board of Supervisors Dist. 3,,UNDER VOTES,Elgin 6
+Santa Cruz,9,1,6,0,,Board of Supervisors Dist. 3,,UNDER VOTES,Rio Rico 7
+Santa Cruz,6,1,4,0,,Board of Supervisors Dist. 3,,UNDER VOTES,Tubac 11
+Santa Cruz,1,0,0,0,,Board of Supervisors Dist. 3,,UNDER VOTES,Patagonia 14
+Santa Cruz,4,1,3,0,,Board of Supervisors Dist. 3,,UNDER VOTES,Sonoita 15
+Santa Cruz,3,0,2,0,,Board of Supervisors Dist. 3,,UNDER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 3,,UNDER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,Board of Supervisors Dist. 3,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,27,8,16,2,DEM,County Attorney,,"SILVA, GEORGE",Nogales 1
+Santa Cruz,68,21,38,7,DEM,County Attorney,,"SILVA, GEORGE",Nogales 2
+Santa Cruz,41,12,25,3,DEM,County Attorney,,"SILVA, GEORGE",Nogales 3
+Santa Cruz,21,6,13,1,DEM,County Attorney,,"SILVA, GEORGE",Nogales 4
+Santa Cruz,53,16,33,3,DEM,County Attorney,,"SILVA, GEORGE",Coronado 5
+Santa Cruz,25,5,19,0,DEM,County Attorney,,"SILVA, GEORGE",Elgin 6
+Santa Cruz,155,41,104,9,DEM,County Attorney,,"SILVA, GEORGE",Rio Rico 7
+Santa Cruz,102,33,60,9,DEM,County Attorney,,"SILVA, GEORGE",Nogales 8
+Santa Cruz,17,5,11,1,DEM,County Attorney,,"SILVA, GEORGE",Nogales 9
+Santa Cruz,49,13,30,5,DEM,County Attorney,,"SILVA, GEORGE",Nogales 10
+Santa Cruz,78,18,57,2,DEM,County Attorney,,"SILVA, GEORGE",Tubac 11
+Santa Cruz,25,8,13,3,DEM,County Attorney,,"SILVA, GEORGE",Nogales 12
+Santa Cruz,21,7,11,2,DEM,County Attorney,,"SILVA, GEORGE",Santa Cruz 13
+Santa Cruz,47,14,31,1,DEM,County Attorney,,"SILVA, GEORGE",Patagonia 14
+Santa Cruz,35,10,24,1,DEM,County Attorney,,"SILVA, GEORGE",Sonoita 15
+Santa Cruz,20,7,11,2,DEM,County Attorney,,"SILVA, GEORGE",Nogales 16
+Santa Cruz,141,43,85,12,DEM,County Attorney,,"SILVA, GEORGE",Calabasas 17
+Santa Cruz,32,8,20,3,DEM,County Attorney,,"SILVA, GEORGE",Nogales 18
+Santa Cruz,117,32,72,12,DEM,County Attorney,,"SILVA, GEORGE",Baca 19
+Santa Cruz,52,17,29,5,DEM,County Attorney,,"SILVA, GEORGE",Nogales 20
+Santa Cruz,83,27,46,9,DEM,County Attorney,,"SILVA, GEORGE",Peck Canyon 21
+Santa Cruz,25,6,15,3,DEM,County Attorney,,"SILVA, GEORGE",Potrero 22
+Santa Cruz,2,0,1,0,DEM,County Attorney,,"SILVA, GEORGE",Mountain 23
+Santa Cruz,7,1,6,0,DEM,County Attorney,,"SILVA, GEORGE",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 1
+Santa Cruz,1,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 2
+Santa Cruz,1,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 4
+Santa Cruz,1,0,1,0,NON,County Attorney,,WRITE-IN,Coronado 5
+Santa Cruz,1,0,0,0,NON,County Attorney,,WRITE-IN,Elgin 6
+Santa Cruz,4,1,2,0,NON,County Attorney,,WRITE-IN,Rio Rico 7
+Santa Cruz,2,0,1,0,NON,County Attorney,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 10
+Santa Cruz,1,0,1,0,NON,County Attorney,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Patagonia 14
+Santa Cruz,2,0,1,0,NON,County Attorney,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 16
+Santa Cruz,4,1,2,0,NON,County Attorney,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 18
+Santa Cruz,3,1,1,0,NON,County Attorney,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Nogales 20
+Santa Cruz,2,0,1,0,NON,County Attorney,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,County Attorney,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,County Attorney,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,5,1,3,0,,County Attorney,,UNDER VOTES,Nogales 1
+Santa Cruz,13,3,8,0,,County Attorney,,UNDER VOTES,Nogales 2
+Santa Cruz,7,2,4,0,,County Attorney,,UNDER VOTES,Nogales 3
+Santa Cruz,4,2,2,0,,County Attorney,,UNDER VOTES,Nogales 4
+Santa Cruz,15,4,9,1,,County Attorney,,UNDER VOTES,Coronado 5
+Santa Cruz,23,5,17,0,,County Attorney,,UNDER VOTES,Elgin 6
+Santa Cruz,56,11,40,3,,County Attorney,,UNDER VOTES,Rio Rico 7
+Santa Cruz,17,6,10,1,,County Attorney,,UNDER VOTES,Nogales 8
+Santa Cruz,4,1,2,0,,County Attorney,,UNDER VOTES,Nogales 9
+Santa Cruz,10,2,6,1,,County Attorney,,UNDER VOTES,Nogales 10
+Santa Cruz,49,10,36,2,,County Attorney,,UNDER VOTES,Tubac 11
+Santa Cruz,8,2,4,1,,County Attorney,,UNDER VOTES,Nogales 12
+Santa Cruz,7,2,3,0,,County Attorney,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,18,6,11,0,,County Attorney,,UNDER VOTES,Patagonia 14
+Santa Cruz,33,10,21,1,,County Attorney,,UNDER VOTES,Sonoita 15
+Santa Cruz,5,1,2,1,,County Attorney,,UNDER VOTES,Nogales 16
+Santa Cruz,30,7,19,3,,County Attorney,,UNDER VOTES,Calabasas 17
+Santa Cruz,11,4,6,0,,County Attorney,,UNDER VOTES,Nogales 18
+Santa Cruz,21,5,14,1,,County Attorney,,UNDER VOTES,Baca 19
+Santa Cruz,11,4,5,1,,County Attorney,,UNDER VOTES,Nogales 20
+Santa Cruz,24,7,14,2,,County Attorney,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,5,1,2,0,,County Attorney,,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,County Attorney,,UNDER VOTES,Mountain 23
+Santa Cruz,4,0,3,0,,County Attorney,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,28,9,16,2,DEM,Sheriff,,"ESTRADA, TONY",Nogales 1
+Santa Cruz,66,21,37,7,DEM,Sheriff,,"ESTRADA, TONY",Nogales 2
+Santa Cruz,40,11,25,3,DEM,Sheriff,,"ESTRADA, TONY",Nogales 3
+Santa Cruz,21,7,12,1,DEM,Sheriff,,"ESTRADA, TONY",Nogales 4
+Santa Cruz,54,16,34,3,DEM,Sheriff,,"ESTRADA, TONY",Coronado 5
+Santa Cruz,28,6,21,0,DEM,Sheriff,,"ESTRADA, TONY",Elgin 6
+Santa Cruz,148,40,98,10,DEM,Sheriff,,"ESTRADA, TONY",Rio Rico 7
+Santa Cruz,99,32,57,9,DEM,Sheriff,,"ESTRADA, TONY",Nogales 8
+Santa Cruz,17,5,11,1,DEM,Sheriff,,"ESTRADA, TONY",Nogales 9
+Santa Cruz,50,14,30,5,DEM,Sheriff,,"ESTRADA, TONY",Nogales 10
+Santa Cruz,85,20,62,2,DEM,Sheriff,,"ESTRADA, TONY",Tubac 11
+Santa Cruz,27,8,14,3,DEM,Sheriff,,"ESTRADA, TONY",Nogales 12
+Santa Cruz,19,7,10,2,DEM,Sheriff,,"ESTRADA, TONY",Santa Cruz 13
+Santa Cruz,48,14,31,2,DEM,Sheriff,,"ESTRADA, TONY",Patagonia 14
+Santa Cruz,38,11,25,1,DEM,Sheriff,,"ESTRADA, TONY",Sonoita 15
+Santa Cruz,22,7,11,2,DEM,Sheriff,,"ESTRADA, TONY",Nogales 16
+Santa Cruz,137,43,81,12,DEM,Sheriff,,"ESTRADA, TONY",Calabasas 17
+Santa Cruz,34,9,21,3,DEM,Sheriff,,"ESTRADA, TONY",Nogales 18
+Santa Cruz,111,31,68,11,DEM,Sheriff,,"ESTRADA, TONY",Baca 19
+Santa Cruz,55,19,30,5,DEM,Sheriff,,"ESTRADA, TONY",Nogales 20
+Santa Cruz,86,27,47,11,DEM,Sheriff,,"ESTRADA, TONY",Peck Canyon 21
+Santa Cruz,26,7,15,3,DEM,Sheriff,,"ESTRADA, TONY",Potrero 22
+Santa Cruz,2,0,2,0,DEM,Sheriff,,"ESTRADA, TONY",Mountain 23
+Santa Cruz,7,1,6,0,DEM,Sheriff,,"ESTRADA, TONY",Lake Patagonia 24
+Santa Cruz,1,0,0,0,NON,Sheriff,,WRITE-IN,Nogales 1
+Santa Cruz,4,1,2,0,NON,Sheriff,,WRITE-IN,Nogales 2
+Santa Cruz,1,0,0,0,NON,Sheriff,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,Sheriff,,WRITE-IN,Nogales 4
+Santa Cruz,4,1,2,0,NON,Sheriff,,WRITE-IN,Coronado 5
+Santa Cruz,1,0,1,0,NON,Sheriff,,WRITE-IN,Elgin 6
+Santa Cruz,15,3,10,0,NON,Sheriff,,WRITE-IN,Rio Rico 7
+Santa Cruz,6,2,4,0,NON,Sheriff,,WRITE-IN,Nogales 8
+Santa Cruz,1,0,0,0,NON,Sheriff,,WRITE-IN,Nogales 9
+Santa Cruz,2,0,1,0,NON,Sheriff,,WRITE-IN,Nogales 10
+Santa Cruz,2,0,2,0,NON,Sheriff,,WRITE-IN,Tubac 11
+Santa Cruz,1,0,0,0,NON,Sheriff,,WRITE-IN,Nogales 12
+Santa Cruz,2,0,1,0,NON,Sheriff,,WRITE-IN,Santa Cruz 13
+Santa Cruz,1,0,0,0,NON,Sheriff,,WRITE-IN,Patagonia 14
+Santa Cruz,3,1,2,0,NON,Sheriff,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,Sheriff,,WRITE-IN,Nogales 16
+Santa Cruz,10,2,6,0,NON,Sheriff,,WRITE-IN,Calabasas 17
+Santa Cruz,1,0,1,0,NON,Sheriff,,WRITE-IN,Nogales 18
+Santa Cruz,10,2,6,1,NON,Sheriff,,WRITE-IN,Baca 19
+Santa Cruz,2,0,1,0,NON,Sheriff,,WRITE-IN,Nogales 20
+Santa Cruz,5,1,3,0,NON,Sheriff,,WRITE-IN,Peck Canyon 21
+Santa Cruz,1,0,1,0,NON,Sheriff,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,Sheriff,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,Sheriff,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,Sheriff,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,3,0,3,0,,Sheriff,,UNDER VOTES,Nogales 1
+Santa Cruz,11,3,7,0,,Sheriff,,UNDER VOTES,Nogales 2
+Santa Cruz,6,2,4,0,,Sheriff,,UNDER VOTES,Nogales 3
+Santa Cruz,4,1,2,0,,Sheriff,,UNDER VOTES,Nogales 4
+Santa Cruz,11,3,7,0,,Sheriff,,UNDER VOTES,Coronado 5
+Santa Cruz,19,4,14,0,,Sheriff,,UNDER VOTES,Elgin 6
+Santa Cruz,52,10,38,2,,Sheriff,,UNDER VOTES,Rio Rico 7
+Santa Cruz,16,5,9,1,,Sheriff,,UNDER VOTES,Nogales 8
+Santa Cruz,3,1,1,0,,Sheriff,,UNDER VOTES,Nogales 9
+Santa Cruz,7,1,5,0,,Sheriff,,UNDER VOTES,Nogales 10
+Santa Cruz,40,8,30,2,,Sheriff,,UNDER VOTES,Tubac 11
+Santa Cruz,5,2,2,0,,Sheriff,,UNDER VOTES,Nogales 12
+Santa Cruz,6,2,3,0,,Sheriff,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,17,6,10,0,,Sheriff,,UNDER VOTES,Patagonia 14
+Santa Cruz,30,9,19,1,,Sheriff,,UNDER VOTES,Sonoita 15
+Santa Cruz,4,1,1,0,,Sheriff,,UNDER VOTES,Nogales 16
+Santa Cruz,28,6,19,2,,Sheriff,,UNDER VOTES,Calabasas 17
+Santa Cruz,9,3,4,0,,Sheriff,,UNDER VOTES,Nogales 18
+Santa Cruz,19,5,12,1,,Sheriff,,UNDER VOTES,Baca 19
+Santa Cruz,6,2,4,0,,Sheriff,,UNDER VOTES,Nogales 20
+Santa Cruz,17,5,11,1,,Sheriff,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,3,1,1,0,,Sheriff,,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,Sheriff,,UNDER VOTES,Mountain 23
+Santa Cruz,3,0,3,0,,Sheriff,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,27,8,17,2,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 1
+Santa Cruz,67,21,38,7,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 2
+Santa Cruz,39,10,25,3,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 3
+Santa Cruz,22,7,13,1,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 4
+Santa Cruz,56,17,36,3,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Coronado 5
+Santa Cruz,24,4,19,0,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Elgin 6
+Santa Cruz,159,41,108,9,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Rio Rico 7
+Santa Cruz,102,33,60,8,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 8
+Santa Cruz,17,5,11,0,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 9
+Santa Cruz,47,13,29,5,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 10
+Santa Cruz,81,18,59,2,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Tubac 11
+Santa Cruz,27,9,15,3,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 12
+Santa Cruz,22,8,11,2,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Santa Cruz 13
+Santa Cruz,48,14,32,1,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Patagonia 14
+Santa Cruz,36,9,25,1,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Sonoita 15
+Santa Cruz,21,7,11,2,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 16
+Santa Cruz,144,43,88,12,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Calabasas 17
+Santa Cruz,33,9,20,3,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 18
+Santa Cruz,116,31,73,12,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Baca 19
+Santa Cruz,53,18,30,4,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Nogales 20
+Santa Cruz,85,27,47,10,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Peck Canyon 21
+Santa Cruz,25,7,15,3,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Potrero 22
+Santa Cruz,2,0,1,0,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Mountain 23
+Santa Cruz,7,1,6,0,DEM,County Treasurer,,"GARDNER GUTFAHR, LIZ",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 1
+Santa Cruz,1,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 4
+Santa Cruz,1,0,0,0,NON,County Treasurer,,WRITE-IN,Coronado 5
+Santa Cruz,1,0,0,0,NON,County Treasurer,,WRITE-IN,Elgin 6
+Santa Cruz,3,1,2,0,NON,County Treasurer,,WRITE-IN,Rio Rico 7
+Santa Cruz,1,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 10
+Santa Cruz,1,0,0,0,NON,County Treasurer,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Patagonia 14
+Santa Cruz,1,0,1,0,NON,County Treasurer,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 16
+Santa Cruz,3,0,2,0,NON,County Treasurer,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 18
+Santa Cruz,2,1,1,0,NON,County Treasurer,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Nogales 20
+Santa Cruz,1,0,0,0,NON,County Treasurer,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,County Treasurer,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,County Treasurer,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,5,1,3,0,,County Treasurer,,UNDER VOTES,Nogales 1
+Santa Cruz,14,3,9,1,,County Treasurer,,UNDER VOTES,Nogales 2
+Santa Cruz,9,3,4,0,,County Treasurer,,UNDER VOTES,Nogales 3
+Santa Cruz,3,1,1,0,,County Treasurer,,UNDER VOTES,Nogales 4
+Santa Cruz,11,3,6,1,,County Treasurer,,UNDER VOTES,Coronado 5
+Santa Cruz,24,6,17,0,,County Treasurer,,UNDER VOTES,Elgin 6
+Santa Cruz,53,11,37,3,,County Treasurer,,UNDER VOTES,Rio Rico 7
+Santa Cruz,19,6,10,2,,County Treasurer,,UNDER VOTES,Nogales 8
+Santa Cruz,4,1,1,0,,County Treasurer,,UNDER VOTES,Nogales 9
+Santa Cruz,12,3,7,1,,County Treasurer,,UNDER VOTES,Nogales 10
+Santa Cruz,47,10,34,2,,County Treasurer,,UNDER VOTES,Tubac 11
+Santa Cruz,6,2,3,1,,County Treasurer,,UNDER VOTES,Nogales 12
+Santa Cruz,6,1,3,0,,County Treasurer,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,18,6,11,0,,County Treasurer,,UNDER VOTES,Patagonia 14
+Santa Cruz,33,10,21,1,,County Treasurer,,UNDER VOTES,Sonoita 15
+Santa Cruz,4,1,2,0,,County Treasurer,,UNDER VOTES,Nogales 16
+Santa Cruz,27,7,17,3,,County Treasurer,,UNDER VOTES,Calabasas 17
+Santa Cruz,10,4,5,0,,County Treasurer,,UNDER VOTES,Nogales 18
+Santa Cruz,22,5,14,2,,County Treasurer,,UNDER VOTES,Baca 19
+Santa Cruz,11,3,5,1,,County Treasurer,,UNDER VOTES,Nogales 20
+Santa Cruz,22,7,13,2,,County Treasurer,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,5,1,2,0,,County Treasurer,,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,County Treasurer,,UNDER VOTES,Mountain 23
+Santa Cruz,3,0,3,0,,County Treasurer,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,28,9,17,2,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 1
+Santa Cruz,69,22,40,7,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 2
+Santa Cruz,41,11,26,3,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 3
+Santa Cruz,23,7,14,1,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 4
+Santa Cruz,60,18,38,3,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Coronado 5
+Santa Cruz,23,5,18,0,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Elgin 6
+Santa Cruz,160,42,106,10,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Rio Rico 7
+Santa Cruz,108,34,64,9,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 8
+Santa Cruz,20,6,12,1,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 9
+Santa Cruz,50,14,30,5,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 10
+Santa Cruz,77,18,56,2,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Tubac 11
+Santa Cruz,28,9,15,3,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 12
+Santa Cruz,22,8,12,2,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Santa Cruz 13
+Santa Cruz,47,14,30,1,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Patagonia 14
+Santa Cruz,35,10,23,1,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Sonoita 15
+Santa Cruz,22,7,12,2,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 16
+Santa Cruz,145,44,87,13,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Calabasas 17
+Santa Cruz,37,11,22,3,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 18
+Santa Cruz,119,32,73,13,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Baca 19
+Santa Cruz,57,19,31,5,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Nogales 20
+Santa Cruz,86,28,48,10,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Peck Canyon 21
+Santa Cruz,27,7,16,3,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Potrero 22
+Santa Cruz,2,0,1,0,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Mountain 23
+Santa Cruz,7,1,6,0,DEM,Co. School Superintendent,,"VELASQUEZ, ALFREDO I.",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 4
+Santa Cruz,1,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Coronado 5
+Santa Cruz,1,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Elgin 6
+Santa Cruz,2,0,1,0,NON,Co. School Superintendent,,WRITE-IN,Rio Rico 7
+Santa Cruz,1,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 10
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Patagonia 14
+Santa Cruz,1,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 16
+Santa Cruz,3,1,1,0,NON,Co. School Superintendent,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 18
+Santa Cruz,1,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Nogales 20
+Santa Cruz,1,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,Co. School Superintendent,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,Co. School Superintendent,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,4,0,2,0,,Co. School Superintendent,,UNDER VOTES,Nogales 1
+Santa Cruz,11,3,7,1,,Co. School Superintendent,,UNDER VOTES,Nogales 2
+Santa Cruz,7,2,4,0,,Co. School Superintendent,,UNDER VOTES,Nogales 3
+Santa Cruz,2,1,0,0,,Co. School Superintendent,,UNDER VOTES,Nogales 4
+Santa Cruz,7,2,4,0,,Co. School Superintendent,,UNDER VOTES,Coronado 5
+Santa Cruz,25,5,18,0,,Co. School Superintendent,,UNDER VOTES,Elgin 6
+Santa Cruz,53,11,39,2,,Co. School Superintendent,,UNDER VOTES,Rio Rico 7
+Santa Cruz,12,4,6,1,,Co. School Superintendent,,UNDER VOTES,Nogales 8
+Santa Cruz,2,1,1,0,,Co. School Superintendent,,UNDER VOTES,Nogales 9
+Santa Cruz,9,2,6,1,,Co. School Superintendent,,UNDER VOTES,Nogales 10
+Santa Cruz,50,10,37,2,,Co. School Superintendent,,UNDER VOTES,Tubac 11
+Santa Cruz,5,1,3,0,,Co. School Superintendent,,UNDER VOTES,Nogales 12
+Santa Cruz,5,1,3,0,,Co. School Superintendent,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,20,6,12,0,,Co. School Superintendent,,UNDER VOTES,Patagonia 14
+Santa Cruz,35,10,23,1,,Co. School Superintendent,,UNDER VOTES,Sonoita 15
+Santa Cruz,4,1,1,0,,Co. School Superintendent,,UNDER VOTES,Nogales 16
+Santa Cruz,27,6,17,2,,Co. School Superintendent,,UNDER VOTES,Calabasas 17
+Santa Cruz,7,2,4,0,,Co. School Superintendent,,UNDER VOTES,Nogales 18
+Santa Cruz,20,4,13,1,,Co. School Superintendent,,UNDER VOTES,Baca 19
+Santa Cruz,7,2,4,1,,Co. School Superintendent,,UNDER VOTES,Nogales 20
+Santa Cruz,21,6,12,2,,Co. School Superintendent,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,3,1,2,0,,Co. School Superintendent,,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,Co. School Superintendent,,UNDER VOTES,Mountain 23
+Santa Cruz,4,0,3,0,,Co. School Superintendent,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,29,8,17,2,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 1
+Santa Cruz,71,22,41,7,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 2
+Santa Cruz,42,11,27,3,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 3
+Santa Cruz,23,7,14,1,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 4
+Santa Cruz,60,18,38,4,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Coronado 5
+Santa Cruz,27,5,20,0,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Elgin 6
+Santa Cruz,165,42,112,10,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Rio Rico 7
+Santa Cruz,107,35,63,9,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 8
+Santa Cruz,19,6,11,1,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 9
+Santa Cruz,51,14,31,6,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 10
+Santa Cruz,83,19,61,2,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Tubac 11
+Santa Cruz,29,9,15,4,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 12
+Santa Cruz,22,8,12,1,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Santa Cruz 13
+Santa Cruz,49,15,32,2,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Patagonia 14
+Santa Cruz,37,10,25,1,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Sonoita 15
+Santa Cruz,22,7,12,2,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 16
+Santa Cruz,147,44,90,13,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Calabasas 17
+Santa Cruz,36,10,22,3,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 18
+Santa Cruz,121,33,75,12,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Baca 19
+Santa Cruz,57,19,32,5,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Nogales 20
+Santa Cruz,88,27,49,11,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Peck Canyon 21
+Santa Cruz,27,7,16,3,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Potrero 22
+Santa Cruz,2,0,1,0,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Mountain 23
+Santa Cruz,8,1,7,0,DEM,County Recorder,,"SAINZ, SUZANNE ""SUZIE""",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 4
+Santa Cruz,1,0,0,0,NON,County Recorder,,WRITE-IN,Coronado 5
+Santa Cruz,1,0,0,0,NON,County Recorder,,WRITE-IN,Elgin 6
+Santa Cruz,4,1,2,0,NON,County Recorder,,WRITE-IN,Rio Rico 7
+Santa Cruz,1,0,1,0,NON,County Recorder,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 10
+Santa Cruz,1,0,1,0,NON,County Recorder,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Patagonia 14
+Santa Cruz,1,0,1,0,NON,County Recorder,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 16
+Santa Cruz,2,1,1,0,NON,County Recorder,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 18
+Santa Cruz,2,0,1,0,NON,County Recorder,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Nogales 20
+Santa Cruz,2,0,1,0,NON,County Recorder,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,County Recorder,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,County Recorder,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,3,1,2,0,,County Recorder,,UNDER VOTES,Nogales 1
+Santa Cruz,10,3,6,1,,County Recorder,,UNDER VOTES,Nogales 2
+Santa Cruz,6,3,3,0,,County Recorder,,UNDER VOTES,Nogales 3
+Santa Cruz,2,1,1,0,,County Recorder,,UNDER VOTES,Nogales 4
+Santa Cruz,7,2,4,0,,County Recorder,,UNDER VOTES,Coronado 5
+Santa Cruz,21,5,16,0,,County Recorder,,UNDER VOTES,Elgin 6
+Santa Cruz,45,10,32,2,,County Recorder,,UNDER VOTES,Rio Rico 7
+Santa Cruz,13,4,7,1,,County Recorder,,UNDER VOTES,Nogales 8
+Santa Cruz,2,1,1,0,,County Recorder,,UNDER VOTES,Nogales 9
+Santa Cruz,8,2,5,0,,County Recorder,,UNDER VOTES,Nogales 10
+Santa Cruz,44,9,32,2,,County Recorder,,UNDER VOTES,Tubac 11
+Santa Cruz,5,1,3,0,,County Recorder,,UNDER VOTES,Nogales 12
+Santa Cruz,5,2,2,0,,County Recorder,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,17,5,11,0,,County Recorder,,UNDER VOTES,Patagonia 14
+Santa Cruz,32,10,20,1,,County Recorder,,UNDER VOTES,Sonoita 15
+Santa Cruz,4,1,1,0,,County Recorder,,UNDER VOTES,Nogales 16
+Santa Cruz,25,6,15,3,,County Recorder,,UNDER VOTES,Calabasas 17
+Santa Cruz,8,3,4,0,,County Recorder,,UNDER VOTES,Nogales 18
+Santa Cruz,17,4,11,1,,County Recorder,,UNDER VOTES,Baca 19
+Santa Cruz,6,1,3,1,,County Recorder,,UNDER VOTES,Nogales 20
+Santa Cruz,19,6,11,1,,County Recorder,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,3,1,1,0,,County Recorder,,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,County Recorder,,UNDER VOTES,Mountain 23
+Santa Cruz,3,0,3,0,,County Recorder,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,28,8,16,2,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 1
+Santa Cruz,66,21,37,7,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 2
+Santa Cruz,39,11,25,3,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 3
+Santa Cruz,22,7,13,1,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 4
+Santa Cruz,55,17,34,3,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Coronado 5
+Santa Cruz,25,5,19,0,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Elgin 6
+Santa Cruz,159,42,106,10,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Rio Rico 7
+Santa Cruz,104,34,60,9,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 8
+Santa Cruz,17,5,11,1,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 9
+Santa Cruz,49,13,30,5,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 10
+Santa Cruz,80,18,58,2,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Tubac 11
+Santa Cruz,26,9,14,3,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 12
+Santa Cruz,21,8,11,2,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Santa Cruz 13
+Santa Cruz,48,15,31,1,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Patagonia 14
+Santa Cruz,35,9,23,1,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Sonoita 15
+Santa Cruz,22,7,12,2,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 16
+Santa Cruz,146,43,89,13,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Calabasas 17
+Santa Cruz,34,10,20,3,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 18
+Santa Cruz,118,32,73,13,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Baca 19
+Santa Cruz,54,18,31,5,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Nogales 20
+Santa Cruz,88,29,48,10,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Peck Canyon 21
+Santa Cruz,27,7,16,3,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Potrero 22
+Santa Cruz,1,0,1,0,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Mountain 23
+Santa Cruz,7,1,6,0,DEM,County Assessor,,"FUENTES JR., FELIPE A.",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 4
+Santa Cruz,1,0,1,0,NON,County Assessor,,WRITE-IN,Coronado 5
+Santa Cruz,1,0,0,0,NON,County Assessor,,WRITE-IN,Elgin 6
+Santa Cruz,3,0,2,0,NON,County Assessor,,WRITE-IN,Rio Rico 7
+Santa Cruz,1,0,1,0,NON,County Assessor,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 10
+Santa Cruz,1,0,0,0,NON,County Assessor,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Patagonia 14
+Santa Cruz,1,0,1,0,NON,County Assessor,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 16
+Santa Cruz,3,1,1,0,NON,County Assessor,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 18
+Santa Cruz,2,1,0,0,NON,County Assessor,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Nogales 20
+Santa Cruz,1,0,1,0,NON,County Assessor,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,County Assessor,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,County Assessor,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,4,1,3,0,,County Assessor,,UNDER VOTES,Nogales 1
+Santa Cruz,15,3,10,1,,County Assessor,,UNDER VOTES,Nogales 2
+Santa Cruz,8,2,5,0,,County Assessor,,UNDER VOTES,Nogales 3
+Santa Cruz,3,1,1,0,,County Assessor,,UNDER VOTES,Nogales 4
+Santa Cruz,12,3,8,0,,County Assessor,,UNDER VOTES,Coronado 5
+Santa Cruz,23,5,17,0,,County Assessor,,UNDER VOTES,Elgin 6
+Santa Cruz,53,11,39,2,,County Assessor,,UNDER VOTES,Rio Rico 7
+Santa Cruz,16,4,9,1,,County Assessor,,UNDER VOTES,Nogales 8
+Santa Cruz,4,2,2,0,,County Assessor,,UNDER VOTES,Nogales 9
+Santa Cruz,10,2,6,1,,County Assessor,,UNDER VOTES,Nogales 10
+Santa Cruz,48,9,35,2,,County Assessor,,UNDER VOTES,Tubac 11
+Santa Cruz,7,2,4,1,,County Assessor,,UNDER VOTES,Nogales 12
+Santa Cruz,7,2,4,0,,County Assessor,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,18,5,11,0,,County Assessor,,UNDER VOTES,Patagonia 14
+Santa Cruz,35,10,22,1,,County Assessor,,UNDER VOTES,Sonoita 15
+Santa Cruz,3,0,1,0,,County Assessor,,UNDER VOTES,Nogales 16
+Santa Cruz,26,6,16,2,,County Assessor,,UNDER VOTES,Calabasas 17
+Santa Cruz,9,2,6,0,,County Assessor,,UNDER VOTES,Nogales 18
+Santa Cruz,20,5,13,1,,County Assessor,,UNDER VOTES,Baca 19
+Santa Cruz,9,2,4,1,,County Assessor,,UNDER VOTES,Nogales 20
+Santa Cruz,19,5,12,2,,County Assessor,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,2,0,1,0,,County Assessor,,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,County Assessor,,UNDER VOTES,Mountain 23
+Santa Cruz,4,0,3,0,,County Assessor,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,17,5,10,1,NON,Justice Supreme Court-TIMMER,,YES,Nogales 1
+Santa Cruz,47,15,27,4,NON,Justice Supreme Court-TIMMER,,YES,Nogales 2
+Santa Cruz,28,7,17,2,NON,Justice Supreme Court-TIMMER,,YES,Nogales 3
+Santa Cruz,15,4,9,1,NON,Justice Supreme Court-TIMMER,,YES,Nogales 4
+Santa Cruz,39,12,23,2,NON,Justice Supreme Court-TIMMER,,YES,Coronado 5
+Santa Cruz,27,6,20,0,NON,Justice Supreme Court-TIMMER,,YES,Elgin 6
+Santa Cruz,128,31,89,7,NON,Justice Supreme Court-TIMMER,,YES,Rio Rico 7
+Santa Cruz,71,21,43,5,NON,Justice Supreme Court-TIMMER,,YES,Nogales 8
+Santa Cruz,12,4,7,0,NON,Justice Supreme Court-TIMMER,,YES,Nogales 9
+Santa Cruz,32,9,19,4,NON,Justice Supreme Court-TIMMER,,YES,Nogales 10
+Santa Cruz,71,17,52,2,NON,Justice Supreme Court-TIMMER,,YES,Tubac 11
+Santa Cruz,17,5,10,2,NON,Justice Supreme Court-TIMMER,,YES,Nogales 12
+Santa Cruz,14,5,7,1,NON,Justice Supreme Court-TIMMER,,YES,Santa Cruz 13
+Santa Cruz,34,9,23,1,NON,Justice Supreme Court-TIMMER,,YES,Patagonia 14
+Santa Cruz,36,11,23,0,NON,Justice Supreme Court-TIMMER,,YES,Sonoita 15
+Santa Cruz,13,3,8,1,NON,Justice Supreme Court-TIMMER,,YES,Nogales 16
+Santa Cruz,110,33,67,10,NON,Justice Supreme Court-TIMMER,,YES,Calabasas 17
+Santa Cruz,24,6,14,3,NON,Justice Supreme Court-TIMMER,,YES,Nogales 18
+Santa Cruz,83,21,52,9,NON,Justice Supreme Court-TIMMER,,YES,Baca 19
+Santa Cruz,37,12,21,3,NON,Justice Supreme Court-TIMMER,,YES,Nogales 20
+Santa Cruz,63,20,36,6,NON,Justice Supreme Court-TIMMER,,YES,Peck Canyon 21
+Santa Cruz,15,3,10,2,NON,Justice Supreme Court-TIMMER,,YES,Potrero 22
+Santa Cruz,2,0,1,0,NON,Justice Supreme Court-TIMMER,,YES,Mountain 23
+Santa Cruz,6,0,5,0,NON,Justice Supreme Court-TIMMER,,YES,Lake Patagonia 24
+Santa Cruz,7,2,4,0,NON,Justice Supreme Court-TIMMER,,NO,Nogales 1
+Santa Cruz,14,4,8,2,NON,Justice Supreme Court-TIMMER,,NO,Nogales 2
+Santa Cruz,11,3,6,0,NON,Justice Supreme Court-TIMMER,,NO,Nogales 3
+Santa Cruz,4,1,2,0,NON,Justice Supreme Court-TIMMER,,NO,Nogales 4
+Santa Cruz,15,4,10,0,NON,Justice Supreme Court-TIMMER,,NO,Coronado 5
+Santa Cruz,6,1,4,0,NON,Justice Supreme Court-TIMMER,,NO,Elgin 6
+Santa Cruz,39,12,23,3,NON,Justice Supreme Court-TIMMER,,NO,Rio Rico 7
+Santa Cruz,23,9,13,1,NON,Justice Supreme Court-TIMMER,,NO,Nogales 8
+Santa Cruz,4,1,2,0,NON,Justice Supreme Court-TIMMER,,NO,Nogales 9
+Santa Cruz,12,3,7,1,NON,Justice Supreme Court-TIMMER,,NO,Nogales 10
+Santa Cruz,17,3,13,0,NON,Justice Supreme Court-TIMMER,,NO,Tubac 11
+Santa Cruz,7,2,3,1,NON,Justice Supreme Court-TIMMER,,NO,Nogales 12
+Santa Cruz,6,2,3,0,NON,Justice Supreme Court-TIMMER,,NO,Santa Cruz 13
+Santa Cruz,8,2,5,0,NON,Justice Supreme Court-TIMMER,,NO,Patagonia 14
+Santa Cruz,10,3,6,0,NON,Justice Supreme Court-TIMMER,,NO,Sonoita 15
+Santa Cruz,5,2,2,0,NON,Justice Supreme Court-TIMMER,,NO,Nogales 16
+Santa Cruz,33,10,20,2,NON,Justice Supreme Court-TIMMER,,NO,Calabasas 17
+Santa Cruz,9,3,5,0,NON,Justice Supreme Court-TIMMER,,NO,Nogales 18
+Santa Cruz,28,9,16,2,NON,Justice Supreme Court-TIMMER,,NO,Baca 19
+Santa Cruz,12,5,6,1,NON,Justice Supreme Court-TIMMER,,NO,Nogales 20
+Santa Cruz,21,6,12,2,NON,Justice Supreme Court-TIMMER,,NO,Peck Canyon 21
+Santa Cruz,5,1,3,0,NON,Justice Supreme Court-TIMMER,,NO,Potrero 22
+Santa Cruz,0,0,0,0,NON,Justice Supreme Court-TIMMER,,NO,Mountain 23
+Santa Cruz,2,0,1,0,NON,Justice Supreme Court-TIMMER,,NO,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,Justice Supreme Court-TIMMER,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,7,2,4,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 1
+Santa Cruz,20,6,11,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 2
+Santa Cruz,10,3,6,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 3
+Santa Cruz,6,2,4,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 4
+Santa Cruz,14,4,9,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Coronado 5
+Santa Cruz,16,3,12,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Elgin 6
+Santa Cruz,48,10,34,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,Rio Rico 7
+Santa Cruz,27,9,15,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 8
+Santa Cruz,5,1,3,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 9
+Santa Cruz,15,3,10,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 10
+Santa Cruz,39,8,29,2,,Justice Supreme Court-TIMMER,,UNDER VOTES,Tubac 11
+Santa Cruz,9,3,4,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 12
+Santa Cruz,8,2,4,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,23,8,14,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Patagonia 14
+Santa Cruz,25,6,17,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Sonoita 15
+Santa Cruz,7,3,3,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 16
+Santa Cruz,31,8,19,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,Calabasas 17
+Santa Cruz,10,3,6,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 18
+Santa Cruz,29,7,19,2,,Justice Supreme Court-TIMMER,,UNDER VOTES,Baca 19
+Santa Cruz,14,4,8,1,,Justice Supreme Court-TIMMER,,UNDER VOTES,Nogales 20
+Santa Cruz,25,7,13,3,,Justice Supreme Court-TIMMER,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,9,2,5,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Mountain 23
+Santa Cruz,3,0,3,0,,Justice Supreme Court-TIMMER,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,25,7,16,1,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 1
+Santa Cruz,60,18,35,6,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 2
+Santa Cruz,39,10,25,2,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 3
+Santa Cruz,20,6,12,1,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 4
+Santa Cruz,54,16,34,3,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Coronado 5
+Santa Cruz,26,5,19,0,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Elgin 6
+Santa Cruz,150,39,101,9,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Rio Rico 7
+Santa Cruz,97,30,59,8,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 8
+Santa Cruz,17,5,11,1,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 9
+Santa Cruz,43,11,27,5,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 10
+Santa Cruz,73,16,54,2,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Tubac 11
+Santa Cruz,25,8,13,3,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 12
+Santa Cruz,18,6,10,1,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Santa Cruz 13
+Santa Cruz,41,11,27,1,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Patagonia 14
+Santa Cruz,36,10,25,1,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Sonoita 15
+Santa Cruz,19,6,10,2,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 16
+Santa Cruz,135,41,81,12,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Calabasas 17
+Santa Cruz,31,9,19,3,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 18
+Santa Cruz,109,29,67,12,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Baca 19
+Santa Cruz,51,17,30,4,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Nogales 20
+Santa Cruz,84,26,48,9,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Peck Canyon 21
+Santa Cruz,25,7,14,3,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Potrero 22
+Santa Cruz,2,0,1,0,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Mountain 23
+Santa Cruz,7,1,6,0,NON,Judge Superior Court Div. 2,,"MONTOYA-PAEZ, ANNA",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 1
+Santa Cruz,1,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 4
+Santa Cruz,1,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Coronado 5
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Elgin 6
+Santa Cruz,3,1,2,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Rio Rico 7
+Santa Cruz,1,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 10
+Santa Cruz,1,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Patagonia 14
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 16
+Santa Cruz,2,0,1,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 18
+Santa Cruz,2,1,1,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Baca 19
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Nogales 20
+Santa Cruz,1,0,1,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Mountain 23
+Santa Cruz,0,0,0,0,NON,Judge Superior Court Div. 2,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,Judge Superior Court Div. 2,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,7,2,3,0,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 1
+Santa Cruz,20,6,11,1,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 2
+Santa Cruz,9,3,4,1,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 3
+Santa Cruz,5,2,2,0,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 4
+Santa Cruz,13,4,8,1,,Judge Superior Court Div. 2,,UNDER VOTES,Coronado 5
+Santa Cruz,23,5,17,0,,Judge Superior Court Div. 2,,UNDER VOTES,Elgin 6
+Santa Cruz,62,14,44,4,,Judge Superior Court Div. 2,,UNDER VOTES,Rio Rico 7
+Santa Cruz,23,8,11,2,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 8
+Santa Cruz,4,2,2,0,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 9
+Santa Cruz,15,5,9,1,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 10
+Santa Cruz,54,12,39,3,,Judge Superior Court Div. 2,,UNDER VOTES,Tubac 11
+Santa Cruz,8,2,4,0,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 12
+Santa Cruz,9,3,4,0,,Judge Superior Court Div. 2,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,25,8,15,1,,Judge Superior Court Div. 2,,UNDER VOTES,Patagonia 14
+Santa Cruz,35,11,22,1,,Judge Superior Court Div. 2,,UNDER VOTES,Sonoita 15
+Santa Cruz,6,2,3,1,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 16
+Santa Cruz,38,10,24,3,,Judge Superior Court Div. 2,,UNDER VOTES,Calabasas 17
+Santa Cruz,12,3,7,1,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 18
+Santa Cruz,29,7,18,2,,Judge Superior Court Div. 2,,UNDER VOTES,Baca 19
+Santa Cruz,12,4,5,2,,Judge Superior Court Div. 2,,UNDER VOTES,Nogales 20
+Santa Cruz,24,8,12,3,,Judge Superior Court Div. 2,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,5,1,3,0,,Judge Superior Court Div. 2,,UNDER VOTES,Potrero 22
+Santa Cruz,2,0,1,0,,Judge Superior Court Div. 2,,UNDER VOTES,Mountain 23
+Santa Cruz,4,0,3,0,,Judge Superior Court Div. 2,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,14,3,10,0,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 1
+Santa Cruz,33,8,21,3,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 2
+Santa Cruz,21,5,14,1,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 3
+Santa Cruz,14,4,9,0,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 4
+Santa Cruz,35,10,23,1,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Coronado 5
+Santa Cruz,49,13,32,3,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 8
+Santa Cruz,11,3,6,0,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 9
+Santa Cruz,20,5,12,2,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 10
+Santa Cruz,13,3,8,1,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 12
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Santa Cruz 13
+Santa Cruz,12,3,7,1,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 16
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Calabasas 17
+Santa Cruz,22,6,15,1,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 18
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Baca 19
+Santa Cruz,26,8,16,2,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Nogales 20
+Santa Cruz,9,2,5,1,NON,Bd Member Nogales USD 1,,"LUCERO, GREG",Potrero 22
+Santa Cruz,24,7,15,2,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 1
+Santa Cruz,56,18,32,5,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 2
+Santa Cruz,32,9,20,2,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 3
+Santa Cruz,16,4,10,1,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 4
+Santa Cruz,46,14,28,3,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Coronado 5
+Santa Cruz,88,28,52,7,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 8
+Santa Cruz,15,5,9,1,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 9
+Santa Cruz,43,11,27,4,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 10
+Santa Cruz,24,8,13,3,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 12
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Santa Cruz 13
+Santa Cruz,16,5,8,2,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 16
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Calabasas 17
+Santa Cruz,27,8,16,2,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 18
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Baca 19
+Santa Cruz,46,15,26,4,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Nogales 20
+Santa Cruz,22,6,13,2,NON,Bd Member Nogales USD 1,,"RUIZ, MANUEL ""MANNY""",Potrero 22
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 1
+Santa Cruz,3,1,2,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 2
+Santa Cruz,2,0,1,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 3
+Santa Cruz,2,0,1,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 4
+Santa Cruz,3,1,2,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Coronado 5
+Santa Cruz,4,1,2,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 8
+Santa Cruz,1,0,1,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 9
+Santa Cruz,2,0,1,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 10
+Santa Cruz,1,1,0,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Santa Cruz 13
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 16
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Calabasas 17
+Santa Cruz,2,1,1,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 18
+Santa Cruz,0,0,0,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Baca 19
+Santa Cruz,3,0,2,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Nogales 20
+Santa Cruz,1,0,1,0,NON,Bd Member Nogales USD 1,,WRITE-IN,Potrero 22
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,OVER VOTES,Potrero 22
+Santa Cruz,58,19,33,5,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 1
+Santa Cruz,154,49,88,16,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 2
+Santa Cruz,92,28,56,7,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 3
+Santa Cruz,46,16,26,3,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 4
+Santa Cruz,123,37,78,8,,Bd Member Nogales USD 1,,UNDER VOTES,Coronado 5
+Santa Cruz,226,77,127,21,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 8
+Santa Cruz,39,13,22,2,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 9
+Santa Cruz,114,30,70,13,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 10
+Santa Cruz,64,22,32,8,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,50,18,25,6,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Bd Member Nogales USD 1,,UNDER VOTES,Calabasas 17
+Santa Cruz,81,24,47,9,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 18
+Santa Cruz,1,0,1,0,,Bd Member Nogales USD 1,,UNDER VOTES,Baca 19
+Santa Cruz,118,41,63,13,,Bd Member Nogales USD 1,,UNDER VOTES,Nogales 20
+Santa Cruz,59,17,35,7,,Bd Member Nogales USD 1,,UNDER VOTES,Potrero 22
+Santa Cruz,14,3,9,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 1
+Santa Cruz,32,10,19,2,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 2
+Santa Cruz,19,5,13,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 3
+Santa Cruz,11,2,7,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 4
+Santa Cruz,27,8,16,2,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Coronado 5
+Santa Cruz,48,14,29,4,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 8
+Santa Cruz,8,2,5,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 9
+Santa Cruz,24,6,14,3,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 10
+Santa Cruz,14,4,8,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 12
+Santa Cruz,0,0,0,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Santa Cruz 13
+Santa Cruz,9,2,6,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 16
+Santa Cruz,0,0,0,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Calabasas 17
+Santa Cruz,19,5,12,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 18
+Santa Cruz,0,0,0,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Baca 19
+Santa Cruz,26,7,15,2,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Nogales 20
+Santa Cruz,12,2,8,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) YES,Potrero 22
+Santa Cruz,7,1,5,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 1
+Santa Cruz,19,4,13,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 2
+Santa Cruz,11,3,6,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 3
+Santa Cruz,5,2,3,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 4
+Santa Cruz,24,7,16,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Coronado 5
+Santa Cruz,32,10,20,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 8
+Santa Cruz,7,2,3,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 9
+Santa Cruz,15,3,10,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 10
+Santa Cruz,7,2,4,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 12
+Santa Cruz,0,0,0,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Santa Cruz 13
+Santa Cruz,7,2,4,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 16
+Santa Cruz,0,0,0,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Calabasas 17
+Santa Cruz,10,3,6,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 18
+Santa Cruz,0,0,0,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Baca 19
+Santa Cruz,16,6,8,1,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Nogales 20
+Santa Cruz,7,2,4,0,NON,Nogales Unified School Dist. 1 Nogales USD 1,,(JOIN) NO,Potrero 22
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,OVER VOTES,Potrero 22
+Santa Cruz,10,4,5,0,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 1
+Santa Cruz,30,11,15,3,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 2
+Santa Cruz,18,5,10,1,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 3
+Santa Cruz,9,3,4,1,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 4
+Santa Cruz,18,5,11,1,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Coronado 5
+Santa Cruz,41,14,21,4,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 8
+Santa Cruz,7,2,3,0,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 9
+Santa Cruz,20,6,11,2,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 10
+Santa Cruz,12,4,5,2,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,9,4,3,1,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Calabasas 17
+Santa Cruz,14,5,7,1,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Baca 19
+Santa Cruz,22,7,11,2,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Nogales 20
+Santa Cruz,10,3,5,1,,Nogales Unified School Dist. 1 Nogales USD 1,,UNDER VOTES,Potrero 22
+Santa Cruz,24,5,18,0,NON,Bd Member Sonoita ESD 25,,"BOSTOCK, KELLY",Elgin 6
+Santa Cruz,32,9,22,0,NON,Bd Member Sonoita ESD 25,,"BOSTOCK, KELLY",Sonoita 15
+Santa Cruz,20,5,15,0,NON,Bd Member Sonoita ESD 25,,"COSBEY, GINNY",Elgin 6
+Santa Cruz,29,9,19,0,NON,Bd Member Sonoita ESD 25,,"COSBEY, GINNY",Sonoita 15
+Santa Cruz,16,4,12,0,NON,Bd Member Sonoita ESD 25,,"PARRILLI, MATT",Elgin 6
+Santa Cruz,18,6,10,0,NON,Bd Member Sonoita ESD 25,,"PARRILLI, MATT",Sonoita 15
+Santa Cruz,14,3,11,0,NON,Bd Member Sonoita ESD 25,,"PATTERSON, JONCIE LEGENDRE",Elgin 6
+Santa Cruz,22,6,15,0,NON,Bd Member Sonoita ESD 25,,"PATTERSON, JONCIE LEGENDRE",Sonoita 15
+Santa Cruz,24,6,18,0,NON,Bd Member Sonoita ESD 25,,"TOMLINSON, IAN",Elgin 6
+Santa Cruz,34,9,23,0,NON,Bd Member Sonoita ESD 25,,"TOMLINSON, IAN",Sonoita 15
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita ESD 25,,WRITE-IN,Elgin 6
+Santa Cruz,1,0,0,0,NON,Bd Member Sonoita ESD 25,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,,Bd Member Sonoita ESD 25,,OVER VOTES,Elgin 6
+Santa Cruz,1,0,0,0,,Bd Member Sonoita ESD 25,,OVER VOTES,Sonoita 15
+Santa Cruz,47,9,36,2,,Bd Member Sonoita ESD 25,,UNDER VOTES,Elgin 6
+Santa Cruz,73,20,48,4,,Bd Member Sonoita ESD 25,,UNDER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,"BAXTER, KENNETH",Coronado 5
+Santa Cruz,66,17,44,3,NON,Bd Member Santa Cruz Valley USD 35,,"BAXTER, KENNETH",Rio Rico 7
+Santa Cruz,41,8,32,1,NON,Bd Member Santa Cruz Valley USD 35,,"BAXTER, KENNETH",Tubac 11
+Santa Cruz,54,15,34,4,NON,Bd Member Santa Cruz Valley USD 35,,"BAXTER, KENNETH",Calabasas 17
+Santa Cruz,30,7,19,3,NON,Bd Member Santa Cruz Valley USD 35,,"BAXTER, KENNETH",Baca 19
+Santa Cruz,31,10,17,3,NON,Bd Member Santa Cruz Valley USD 35,,"BAXTER, KENNETH",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,"BAXTER, KENNETH",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,"KRAMER, JOEL",Coronado 5
+Santa Cruz,95,26,62,6,NON,Bd Member Santa Cruz Valley USD 35,,"KRAMER, JOEL",Rio Rico 7
+Santa Cruz,37,9,27,1,NON,Bd Member Santa Cruz Valley USD 35,,"KRAMER, JOEL",Tubac 11
+Santa Cruz,78,23,47,7,NON,Bd Member Santa Cruz Valley USD 35,,"KRAMER, JOEL",Calabasas 17
+Santa Cruz,51,14,31,5,NON,Bd Member Santa Cruz Valley USD 35,,"KRAMER, JOEL",Baca 19
+Santa Cruz,38,13,21,4,NON,Bd Member Santa Cruz Valley USD 35,,"KRAMER, JOEL",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,"KRAMER, JOEL",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,"NEUMAN, MARIA",Coronado 5
+Santa Cruz,102,23,75,3,NON,Bd Member Santa Cruz Valley USD 35,,"NEUMAN, MARIA",Rio Rico 7
+Santa Cruz,55,11,42,1,NON,Bd Member Santa Cruz Valley USD 35,,"NEUMAN, MARIA",Tubac 11
+Santa Cruz,89,25,56,6,NON,Bd Member Santa Cruz Valley USD 35,,"NEUMAN, MARIA",Calabasas 17
+Santa Cruz,52,12,36,3,NON,Bd Member Santa Cruz Valley USD 35,,"NEUMAN, MARIA",Baca 19
+Santa Cruz,60,18,36,5,NON,Bd Member Santa Cruz Valley USD 35,,"NEUMAN, MARIA",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,"NEUMAN, MARIA",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,WRITE-IN,Coronado 5
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,WRITE-IN,Rio Rico 7
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,WRITE-IN,Tubac 11
+Santa Cruz,1,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,WRITE-IN,Baca 19
+Santa Cruz,1,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Santa Cruz Valley USD 35,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,UNDER VOTES,Coronado 5
+Santa Cruz,164,41,109,13,,Bd Member Santa Cruz Valley USD 35,,UNDER VOTES,Rio Rico 7
+Santa Cruz,121,28,86,6,,Bd Member Santa Cruz Valley USD 35,,UNDER VOTES,Tubac 11
+Santa Cruz,129,40,74,14,,Bd Member Santa Cruz Valley USD 35,,UNDER VOTES,Calabasas 17
+Santa Cruz,86,22,53,10,,Bd Member Santa Cruz Valley USD 35,,UNDER VOTES,Baca 19
+Santa Cruz,89,28,48,12,,Bd Member Santa Cruz Valley USD 35,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Bd Member Santa Cruz Valley USD 35,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, YES",Coronado 5
+Santa Cruz,115,30,78,7,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, YES",Rio Rico 7
+Santa Cruz,61,12,46,2,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, YES",Tubac 11
+Santa Cruz,90,27,55,7,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, YES",Calabasas 17
+Santa Cruz,60,17,36,6,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, YES",Baca 19
+Santa Cruz,59,18,34,7,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, YES",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, YES",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, NO",Coronado 5
+Santa Cruz,70,16,50,3,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, NO",Rio Rico 7
+Santa Cruz,46,11,34,1,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, NO",Tubac 11
+Santa Cruz,62,17,40,5,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, NO",Calabasas 17
+Santa Cruz,35,7,25,2,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, NO",Baca 19
+Santa Cruz,33,10,20,3,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, NO",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Santa Cruz Valley Unified School Dist. 35,,"BUDGET INCREASE, NO",Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,UNDER VOTES,Coronado 5
+Santa Cruz,29,8,18,2,,Santa Cruz Valley Unified School Dist. 35,,UNDER VOTES,Rio Rico 7
+Santa Cruz,19,4,14,1,,Santa Cruz Valley Unified School Dist. 35,,UNDER VOTES,Tubac 11
+Santa Cruz,23,7,11,4,,Santa Cruz Valley Unified School Dist. 35,,UNDER VOTES,Calabasas 17
+Santa Cruz,15,4,8,2,,Santa Cruz Valley Unified School Dist. 35,,UNDER VOTES,Baca 19
+Santa Cruz,16,6,7,2,,Santa Cruz Valley Unified School Dist. 35,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Santa Cruz Valley Unified School Dist. 35,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,12,3,8,0,NON,Bd Member Sonoita/Elgin,,"AHO, DAVID",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"AHO, DAVID",Patagonia 14
+Santa Cruz,17,5,10,0,NON,Bd Member Sonoita/Elgin,,"AHO, DAVID",Sonoita 15
+Santa Cruz,20,3,15,0,NON,Bd Member Sonoita/Elgin,,"ARCHIBALD, SUSAN",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"ARCHIBALD, SUSAN",Patagonia 14
+Santa Cruz,32,7,24,0,NON,Bd Member Sonoita/Elgin,,"ARCHIBALD, SUSAN",Sonoita 15
+Santa Cruz,22,5,16,0,NON,Bd Member Sonoita/Elgin,,"BAHTI, KURT",Elgin 6
+Santa Cruz,1,0,0,0,NON,Bd Member Sonoita/Elgin,,"BAHTI, KURT",Patagonia 14
+Santa Cruz,40,11,28,0,NON,Bd Member Sonoita/Elgin,,"BAHTI, KURT",Sonoita 15
+Santa Cruz,17,4,13,0,NON,Bd Member Sonoita/Elgin,,"CAFARELLI, KARLA",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"CAFARELLI, KARLA",Patagonia 14
+Santa Cruz,22,7,14,0,NON,Bd Member Sonoita/Elgin,,"CAFARELLI, KARLA",Sonoita 15
+Santa Cruz,19,5,14,0,NON,Bd Member Sonoita/Elgin,,"JENKINS, SUZANNE",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"JENKINS, SUZANNE",Patagonia 14
+Santa Cruz,24,8,14,0,NON,Bd Member Sonoita/Elgin,,"JENKINS, SUZANNE",Sonoita 15
+Santa Cruz,6,1,4,0,NON,Bd Member Sonoita/Elgin,,"POTOTSKY, PETER",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"POTOTSKY, PETER",Patagonia 14
+Santa Cruz,8,3,5,0,NON,Bd Member Sonoita/Elgin,,"POTOTSKY, PETER",Sonoita 15
+Santa Cruz,13,2,10,0,NON,Bd Member Sonoita/Elgin,,"REHUREK, YVETTE",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"REHUREK, YVETTE",Patagonia 14
+Santa Cruz,25,6,19,0,NON,Bd Member Sonoita/Elgin,,"REHUREK, YVETTE",Sonoita 15
+Santa Cruz,11,3,8,0,NON,Bd Member Sonoita/Elgin,,"ROREX, BARRY W.",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"ROREX, BARRY W.",Patagonia 14
+Santa Cruz,16,5,10,0,NON,Bd Member Sonoita/Elgin,,"ROREX, BARRY W.",Sonoita 15
+Santa Cruz,14,3,11,0,NON,Bd Member Sonoita/Elgin,,"VENOS, KEVIN",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"VENOS, KEVIN",Patagonia 14
+Santa Cruz,29,7,21,1,NON,Bd Member Sonoita/Elgin,,"VENOS, KEVIN",Sonoita 15
+Santa Cruz,17,2,14,0,NON,Bd Member Sonoita/Elgin,,"WEBBER, REBA",Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,"WEBBER, REBA",Patagonia 14
+Santa Cruz,26,5,20,0,NON,Bd Member Sonoita/Elgin,,"WEBBER, REBA",Sonoita 15
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,WRITE-IN,Elgin 6
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,WRITE-IN,Patagonia 14
+Santa Cruz,0,0,0,0,NON,Bd Member Sonoita/Elgin,,WRITE-IN,Sonoita 15
+Santa Cruz,0,0,0,0,,Bd Member Sonoita/Elgin,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,Bd Member Sonoita/Elgin,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,Bd Member Sonoita/Elgin,,OVER VOTES,Sonoita 15
+Santa Cruz,91,21,68,2,,Bd Member Sonoita/Elgin,,UNDER VOTES,Elgin 6
+Santa Cruz,1,0,1,0,,Bd Member Sonoita/Elgin,,UNDER VOTES,Patagonia 14
+Santa Cruz,115,38,69,8,,Bd Member Sonoita/Elgin,,UNDER VOTES,Sonoita 15
+Santa Cruz,46,9,34,2,NON,Bd Member Tubac,,"CLANCY, CANDY",Rio Rico 7
+Santa Cruz,51,10,39,1,NON,Bd Member Tubac,,"CLANCY, CANDY",Tubac 11
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"CLANCY, CANDY",Calabasas 17
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"CLANCY, CANDY",Baca 19
+Santa Cruz,28,8,17,2,NON,Bd Member Tubac,,"CLANCY, CANDY",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"CLANCY, CANDY",Lake Patagonia 24
+Santa Cruz,58,11,44,2,NON,Bd Member Tubac,,"DAHL, MARY",Rio Rico 7
+Santa Cruz,73,15,55,2,NON,Bd Member Tubac,,"DAHL, MARY",Tubac 11
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"DAHL, MARY",Calabasas 17
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"DAHL, MARY",Baca 19
+Santa Cruz,28,7,18,1,NON,Bd Member Tubac,,"DAHL, MARY",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"DAHL, MARY",Lake Patagonia 24
+Santa Cruz,30,5,23,1,NON,Bd Member Tubac,,"ESHLEMAN, DENNIS",Rio Rico 7
+Santa Cruz,53,10,42,1,NON,Bd Member Tubac,,"ESHLEMAN, DENNIS",Tubac 11
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"ESHLEMAN, DENNIS",Calabasas 17
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"ESHLEMAN, DENNIS",Baca 19
+Santa Cruz,12,3,7,1,NON,Bd Member Tubac,,"ESHLEMAN, DENNIS",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"ESHLEMAN, DENNIS",Lake Patagonia 24
+Santa Cruz,60,17,40,3,NON,Bd Member Tubac,,"KIRKPATRICK, WILLIAM",Rio Rico 7
+Santa Cruz,36,9,25,1,NON,Bd Member Tubac,,"KIRKPATRICK, WILLIAM",Tubac 11
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"KIRKPATRICK, WILLIAM",Calabasas 17
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"KIRKPATRICK, WILLIAM",Baca 19
+Santa Cruz,37,11,21,4,NON,Bd Member Tubac,,"KIRKPATRICK, WILLIAM",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"KIRKPATRICK, WILLIAM",Lake Patagonia 24
+Santa Cruz,39,10,26,2,NON,Bd Member Tubac,,"SCHAFER, GENE",Rio Rico 7
+Santa Cruz,21,5,15,0,NON,Bd Member Tubac,,"SCHAFER, GENE",Tubac 11
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"SCHAFER, GENE",Calabasas 17
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"SCHAFER, GENE",Baca 19
+Santa Cruz,32,10,19,2,NON,Bd Member Tubac,,"SCHAFER, GENE",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"SCHAFER, GENE",Lake Patagonia 24
+Santa Cruz,47,11,33,2,NON,Bd Member Tubac,,"WILLIAMS, RANDY",Rio Rico 7
+Santa Cruz,26,6,18,1,NON,Bd Member Tubac,,"WILLIAMS, RANDY",Tubac 11
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"WILLIAMS, RANDY",Calabasas 17
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"WILLIAMS, RANDY",Baca 19
+Santa Cruz,31,9,17,3,NON,Bd Member Tubac,,"WILLIAMS, RANDY",Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,"WILLIAMS, RANDY",Lake Patagonia 24
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,WRITE-IN,Rio Rico 7
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,WRITE-IN,Tubac 11
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,WRITE-IN,Calabasas 17
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,WRITE-IN,Baca 19
+Santa Cruz,1,0,1,0,NON,Bd Member Tubac,,WRITE-IN,Peck Canyon 21
+Santa Cruz,0,0,0,0,NON,Bd Member Tubac,,WRITE-IN,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,157,40,104,12,,Bd Member Tubac,,UNDER VOTES,Rio Rico 7
+Santa Cruz,116,28,81,6,,Bd Member Tubac,,UNDER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,UNDER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,UNDER VOTES,Baca 19
+Santa Cruz,132,42,69,20,,Bd Member Tubac,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,Bd Member Tubac,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,16,4,10,1,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 1
+Santa Cruz,25,7,15,2,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 2
+Santa Cruz,16,4,10,1,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 3
+Santa Cruz,10,3,6,0,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 4
+Santa Cruz,23,7,14,1,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Coronado 5
+Santa Cruz,39,12,23,2,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 8
+Santa Cruz,10,3,7,0,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 9
+Santa Cruz,21,5,13,2,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 10
+Santa Cruz,13,3,7,2,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 12
+Santa Cruz,8,2,4,1,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 16
+Santa Cruz,17,6,10,1,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 18
+Santa Cruz,26,7,16,2,NON,Council Member Nogales,,"HANESSIAN, NUBAR",Nogales 20
+Santa Cruz,9,2,6,0,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 1
+Santa Cruz,27,8,15,3,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 2
+Santa Cruz,16,3,11,0,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 3
+Santa Cruz,7,2,5,0,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 4
+Santa Cruz,16,4,10,1,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Coronado 5
+Santa Cruz,45,13,28,3,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 8
+Santa Cruz,5,1,2,0,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 9
+Santa Cruz,14,3,9,1,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 10
+Santa Cruz,9,2,6,0,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 12
+Santa Cruz,8,2,4,1,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 16
+Santa Cruz,12,4,7,0,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 18
+Santa Cruz,18,6,10,1,NON,Council Member Nogales,,"OLGUIN, J. HENRY",Nogales 20
+Santa Cruz,10,1,7,1,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 1
+Santa Cruz,28,7,18,2,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 2
+Santa Cruz,19,6,10,1,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 3
+Santa Cruz,9,2,6,0,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 4
+Santa Cruz,21,6,14,1,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Coronado 5
+Santa Cruz,44,12,29,2,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 8
+Santa Cruz,9,3,6,0,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 9
+Santa Cruz,19,5,11,1,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 10
+Santa Cruz,12,3,7,1,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 12
+Santa Cruz,9,2,5,1,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 16
+Santa Cruz,19,4,12,1,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 18
+Santa Cruz,21,6,12,1,NON,Council Member Nogales,,"RUSHTON, LINDA J.",Nogales 20
+Santa Cruz,15,5,8,1,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 1
+Santa Cruz,35,12,19,2,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 2
+Santa Cruz,21,5,13,1,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 3
+Santa Cruz,12,3,8,0,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 4
+Santa Cruz,26,8,16,1,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Coronado 5
+Santa Cruz,51,16,30,4,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 8
+Santa Cruz,9,3,5,0,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 9
+Santa Cruz,30,7,18,3,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 10
+Santa Cruz,15,5,8,1,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 12
+Santa Cruz,9,3,5,0,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 16
+Santa Cruz,16,4,10,1,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 18
+Santa Cruz,32,11,18,2,NON,Council Member Nogales,,"VARONA JR., MARCELINO",Nogales 20
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 1
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 2
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 3
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 4
+Santa Cruz,1,0,0,0,NON,Council Member Nogales,,WRITE-IN,Coronado 5
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 8
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 9
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 10
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 12
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 16
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 18
+Santa Cruz,0,0,0,0,NON,Council Member Nogales,,WRITE-IN,Nogales 20
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 1
+Santa Cruz,1,0,1,0,,Council Member Nogales,,OVER VOTES,Nogales 2
+Santa Cruz,1,0,1,0,,Council Member Nogales,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 18
+Santa Cruz,1,0,0,0,,Council Member Nogales,,OVER VOTES,Nogales 20
+Santa Cruz,14,5,6,2,,Council Member Nogales,,UNDER VOTES,Nogales 1
+Santa Cruz,46,15,25,6,,Council Member Nogales,,UNDER VOTES,Nogales 2
+Santa Cruz,23,6,14,2,,Council Member Nogales,,UNDER VOTES,Nogales 3
+Santa Cruz,11,5,4,1,,Council Member Nogales,,UNDER VOTES,Nogales 4
+Santa Cruz,29,9,17,2,,Council Member Nogales,,UNDER VOTES,Coronado 5
+Santa Cruz,64,25,30,8,,Council Member Nogales,,UNDER VOTES,Nogales 8
+Santa Cruz,10,3,5,1,,Council Member Nogales,,UNDER VOTES,Nogales 9
+Santa Cruz,34,10,19,4,,Council Member Nogales,,UNDER VOTES,Nogales 10
+Santa Cruz,17,7,6,3,,Council Member Nogales,,UNDER VOTES,Nogales 12
+Santa Cruz,18,6,8,2,,Council Member Nogales,,UNDER VOTES,Nogales 16
+Santa Cruz,22,6,12,3,,Council Member Nogales,,UNDER VOTES,Nogales 18
+Santa Cruz,30,11,14,5,,Council Member Nogales,,UNDER VOTES,Nogales 20
+Santa Cruz,13,2,9,1,NON,PROPOSITION 205,,YES,Nogales 1
+Santa Cruz,29,10,16,3,NON,PROPOSITION 205,,YES,Nogales 2
+Santa Cruz,17,4,11,0,NON,PROPOSITION 205,,YES,Nogales 3
+Santa Cruz,10,3,5,0,NON,PROPOSITION 205,,YES,Nogales 4
+Santa Cruz,25,7,15,1,NON,PROPOSITION 205,,YES,Coronado 5
+Santa Cruz,24,4,19,0,NON,PROPOSITION 205,,YES,Elgin 6
+Santa Cruz,95,21,67,6,NON,PROPOSITION 205,,YES,Rio Rico 7
+Santa Cruz,38,13,21,3,NON,PROPOSITION 205,,YES,Nogales 8
+Santa Cruz,8,3,4,0,NON,PROPOSITION 205,,YES,Nogales 9
+Santa Cruz,20,5,12,2,NON,PROPOSITION 205,,YES,Nogales 10
+Santa Cruz,64,13,49,2,NON,PROPOSITION 205,,YES,Tubac 11
+Santa Cruz,10,3,5,1,NON,PROPOSITION 205,,YES,Nogales 12
+Santa Cruz,13,4,7,1,NON,PROPOSITION 205,,YES,Santa Cruz 13
+Santa Cruz,39,12,25,1,NON,PROPOSITION 205,,YES,Patagonia 14
+Santa Cruz,29,8,19,1,NON,PROPOSITION 205,,YES,Sonoita 15
+Santa Cruz,9,3,4,1,NON,PROPOSITION 205,,YES,Nogales 16
+Santa Cruz,64,18,40,5,NON,PROPOSITION 205,,YES,Calabasas 17
+Santa Cruz,16,5,9,2,NON,PROPOSITION 205,,YES,Nogales 18
+Santa Cruz,51,12,32,5,NON,PROPOSITION 205,,YES,Baca 19
+Santa Cruz,21,7,12,2,NON,PROPOSITION 205,,YES,Nogales 20
+Santa Cruz,47,14,26,6,NON,PROPOSITION 205,,YES,Peck Canyon 21
+Santa Cruz,10,2,6,1,NON,PROPOSITION 205,,YES,Potrero 22
+Santa Cruz,1,0,1,0,NON,PROPOSITION 205,,YES,Mountain 23
+Santa Cruz,6,0,5,0,NON,PROPOSITION 205,,YES,Lake Patagonia 24
+Santa Cruz,15,5,9,1,NON,PROPOSITION 205,,NO,Nogales 1
+Santa Cruz,39,10,25,3,NON,PROPOSITION 205,,NO,Nogales 2
+Santa Cruz,24,7,15,1,NON,PROPOSITION 205,,NO,Nogales 3
+Santa Cruz,12,3,8,0,NON,PROPOSITION 205,,NO,Nogales 4
+Santa Cruz,35,10,23,2,NON,PROPOSITION 205,,NO,Coronado 5
+Santa Cruz,21,5,15,0,NON,PROPOSITION 205,,NO,Elgin 6
+Santa Cruz,101,27,68,5,NON,PROPOSITION 205,,NO,Rio Rico 7
+Santa Cruz,63,18,41,3,NON,PROPOSITION 205,,NO,Nogales 8
+Santa Cruz,11,3,7,0,NON,PROPOSITION 205,,NO,Nogales 9
+Santa Cruz,28,7,18,3,NON,PROPOSITION 205,,NO,Nogales 10
+Santa Cruz,54,14,38,1,NON,PROPOSITION 205,,NO,Tubac 11
+Santa Cruz,18,5,11,1,NON,PROPOSITION 205,,NO,Nogales 12
+Santa Cruz,11,4,6,0,NON,PROPOSITION 205,,NO,Santa Cruz 13
+Santa Cruz,20,6,13,0,NON,PROPOSITION 205,,NO,Patagonia 14
+Santa Cruz,36,13,22,1,NON,PROPOSITION 205,,NO,Sonoita 15
+Santa Cruz,12,3,7,1,NON,PROPOSITION 205,,NO,Nogales 16
+Santa Cruz,93,27,59,7,NON,PROPOSITION 205,,NO,Calabasas 17
+Santa Cruz,23,6,15,1,NON,PROPOSITION 205,,NO,Nogales 18
+Santa Cruz,70,20,44,5,NON,PROPOSITION 205,,NO,Baca 19
+Santa Cruz,30,11,17,2,NON,PROPOSITION 205,,NO,Nogales 20
+Santa Cruz,51,16,30,5,NON,PROPOSITION 205,,NO,Peck Canyon 21
+Santa Cruz,14,4,8,1,NON,PROPOSITION 205,,NO,Potrero 22
+Santa Cruz,2,0,1,0,NON,PROPOSITION 205,,NO,Mountain 23
+Santa Cruz,4,1,3,0,NON,PROPOSITION 205,,NO,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,3,1,1,0,,PROPOSITION 205,,UNDER VOTES,Nogales 1
+Santa Cruz,13,4,6,2,,PROPOSITION 205,,UNDER VOTES,Nogales 2
+Santa Cruz,7,2,3,1,,PROPOSITION 205,,UNDER VOTES,Nogales 3
+Santa Cruz,3,1,1,0,,PROPOSITION 205,,UNDER VOTES,Nogales 4
+Santa Cruz,8,2,5,1,,PROPOSITION 205,,UNDER VOTES,Coronado 5
+Santa Cruz,4,1,3,0,,PROPOSITION 205,,UNDER VOTES,Elgin 6
+Santa Cruz,19,5,11,2,,PROPOSITION 205,,UNDER VOTES,Rio Rico 7
+Santa Cruz,19,7,8,3,,PROPOSITION 205,,UNDER VOTES,Nogales 8
+Santa Cruz,2,0,1,0,,PROPOSITION 205,,UNDER VOTES,Nogales 9
+Santa Cruz,10,3,6,1,,PROPOSITION 205,,UNDER VOTES,Nogales 10
+Santa Cruz,10,1,8,0,,PROPOSITION 205,,UNDER VOTES,Tubac 11
+Santa Cruz,6,2,2,1,,PROPOSITION 205,,UNDER VOTES,Nogales 12
+Santa Cruz,3,1,2,0,,PROPOSITION 205,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,7,1,5,0,,PROPOSITION 205,,UNDER VOTES,Patagonia 14
+Santa Cruz,6,0,6,0,,PROPOSITION 205,,UNDER VOTES,Sonoita 15
+Santa Cruz,4,1,2,0,,PROPOSITION 205,,UNDER VOTES,Nogales 16
+Santa Cruz,17,6,7,3,,PROPOSITION 205,,UNDER VOTES,Calabasas 17
+Santa Cruz,4,1,2,0,,PROPOSITION 205,,UNDER VOTES,Nogales 18
+Santa Cruz,19,5,10,3,,PROPOSITION 205,,UNDER VOTES,Baca 19
+Santa Cruz,12,3,7,1,,PROPOSITION 205,,UNDER VOTES,Nogales 20
+Santa Cruz,11,3,5,2,,PROPOSITION 205,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,5,1,3,1,,PROPOSITION 205,,UNDER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,UNDER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,PROPOSITION 205,,UNDER VOTES,Lake Patagonia 24
+Santa Cruz,24,7,15,1,NON,PROPOSITION 206,,YES,Nogales 1
+Santa Cruz,56,17,34,5,NON,PROPOSITION 206,,YES,Nogales 2
+Santa Cruz,32,9,21,1,NON,PROPOSITION 206,,YES,Nogales 3
+Santa Cruz,18,5,11,1,NON,PROPOSITION 206,,YES,Nogales 4
+Santa Cruz,41,13,25,2,NON,PROPOSITION 206,,YES,Coronado 5
+Santa Cruz,22,4,18,0,NON,PROPOSITION 206,,YES,Elgin 6
+Santa Cruz,131,31,91,8,NON,PROPOSITION 206,,YES,Rio Rico 7
+Santa Cruz,81,26,50,5,NON,PROPOSITION 206,,YES,Nogales 8
+Santa Cruz,12,4,6,1,NON,PROPOSITION 206,,YES,Nogales 9
+Santa Cruz,38,10,24,3,NON,PROPOSITION 206,,YES,Nogales 10
+Santa Cruz,74,16,55,2,NON,PROPOSITION 206,,YES,Tubac 11
+Santa Cruz,22,7,12,2,NON,PROPOSITION 206,,YES,Nogales 12
+Santa Cruz,15,5,8,1,NON,PROPOSITION 206,,YES,Santa Cruz 13
+Santa Cruz,43,13,27,1,NON,PROPOSITION 206,,YES,Patagonia 14
+Santa Cruz,29,7,21,1,NON,PROPOSITION 206,,YES,Sonoita 15
+Santa Cruz,16,5,9,2,NON,PROPOSITION 206,,YES,Nogales 16
+Santa Cruz,116,34,72,10,NON,PROPOSITION 206,,YES,Calabasas 17
+Santa Cruz,27,7,17,2,NON,PROPOSITION 206,,YES,Nogales 18
+Santa Cruz,94,25,59,9,NON,PROPOSITION 206,,YES,Baca 19
+Santa Cruz,41,14,22,4,NON,PROPOSITION 206,,YES,Nogales 20
+Santa Cruz,78,25,44,8,NON,PROPOSITION 206,,YES,Peck Canyon 21
+Santa Cruz,20,5,12,2,NON,PROPOSITION 206,,YES,Potrero 22
+Santa Cruz,1,0,0,0,NON,PROPOSITION 206,,YES,Mountain 23
+Santa Cruz,7,0,6,0,NON,PROPOSITION 206,,YES,Lake Patagonia 24
+Santa Cruz,4,1,2,0,NON,PROPOSITION 206,,NO,Nogales 1
+Santa Cruz,11,3,7,1,NON,PROPOSITION 206,,NO,Nogales 2
+Santa Cruz,8,2,5,0,NON,PROPOSITION 206,,NO,Nogales 3
+Santa Cruz,4,1,2,0,NON,PROPOSITION 206,,NO,Nogales 4
+Santa Cruz,19,5,13,0,NON,PROPOSITION 206,,NO,Coronado 5
+Santa Cruz,22,6,15,0,NON,PROPOSITION 206,,NO,Elgin 6
+Santa Cruz,65,17,44,2,NON,PROPOSITION 206,,NO,Rio Rico 7
+Santa Cruz,20,6,12,1,NON,PROPOSITION 206,,NO,Nogales 8
+Santa Cruz,8,2,5,0,NON,PROPOSITION 206,,NO,Nogales 9
+Santa Cruz,11,2,6,1,NON,PROPOSITION 206,,NO,Nogales 10
+Santa Cruz,45,11,32,2,NON,PROPOSITION 206,,NO,Tubac 11
+Santa Cruz,5,1,3,0,NON,PROPOSITION 206,,NO,Nogales 12
+Santa Cruz,9,3,5,0,NON,PROPOSITION 206,,NO,Santa Cruz 13
+Santa Cruz,16,5,10,0,NON,PROPOSITION 206,,NO,Patagonia 14
+Santa Cruz,35,13,19,1,NON,PROPOSITION 206,,NO,Sonoita 15
+Santa Cruz,4,1,2,0,NON,PROPOSITION 206,,NO,Nogales 16
+Santa Cruz,41,11,26,2,NON,PROPOSITION 206,,NO,Calabasas 17
+Santa Cruz,11,4,6,0,NON,PROPOSITION 206,,NO,Nogales 18
+Santa Cruz,27,7,18,2,NON,PROPOSITION 206,,NO,Baca 19
+Santa Cruz,11,4,6,0,NON,PROPOSITION 206,,NO,Nogales 20
+Santa Cruz,20,5,12,2,NON,PROPOSITION 206,,NO,Peck Canyon 21
+Santa Cruz,4,1,2,0,NON,PROPOSITION 206,,NO,Potrero 22
+Santa Cruz,2,0,2,0,NON,PROPOSITION 206,,NO,Mountain 23
+Santa Cruz,3,1,2,0,NON,PROPOSITION 206,,NO,Lake Patagonia 24
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 1
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 2
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 3
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 4
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Coronado 5
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Elgin 6
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Rio Rico 7
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 8
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 9
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 10
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Tubac 11
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 12
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Santa Cruz 13
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Patagonia 14
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Sonoita 15
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 16
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Calabasas 17
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 18
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Baca 19
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Nogales 20
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Peck Canyon 21
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,OVER VOTES,Lake Patagonia 24
+Santa Cruz,3,1,1,0,,PROPOSITION 206,,UNDER VOTES,Nogales 1
+Santa Cruz,13,5,6,2,,PROPOSITION 206,,UNDER VOTES,Nogales 2
+Santa Cruz,8,2,4,1,,PROPOSITION 206,,UNDER VOTES,Nogales 3
+Santa Cruz,3,1,1,0,,PROPOSITION 206,,UNDER VOTES,Nogales 4
+Santa Cruz,8,2,5,1,,PROPOSITION 206,,UNDER VOTES,Coronado 5
+Santa Cruz,5,1,4,0,,PROPOSITION 206,,UNDER VOTES,Elgin 6
+Santa Cruz,19,5,11,2,,PROPOSITION 206,,UNDER VOTES,Rio Rico 7
+Santa Cruz,20,7,9,3,,PROPOSITION 206,,UNDER VOTES,Nogales 8
+Santa Cruz,2,0,1,0,,PROPOSITION 206,,UNDER VOTES,Nogales 9
+Santa Cruz,11,3,6,1,,PROPOSITION 206,,UNDER VOTES,Nogales 10
+Santa Cruz,9,1,7,0,,PROPOSITION 206,,UNDER VOTES,Tubac 11
+Santa Cruz,6,2,2,1,,PROPOSITION 206,,UNDER VOTES,Nogales 12
+Santa Cruz,3,1,2,0,,PROPOSITION 206,,UNDER VOTES,Santa Cruz 13
+Santa Cruz,7,1,5,0,,PROPOSITION 206,,UNDER VOTES,Patagonia 14
+Santa Cruz,6,0,6,0,,PROPOSITION 206,,UNDER VOTES,Sonoita 15
+Santa Cruz,5,2,2,0,,PROPOSITION 206,,UNDER VOTES,Nogales 16
+Santa Cruz,17,6,7,3,,PROPOSITION 206,,UNDER VOTES,Calabasas 17
+Santa Cruz,5,1,2,0,,PROPOSITION 206,,UNDER VOTES,Nogales 18
+Santa Cruz,19,5,10,3,,PROPOSITION 206,,UNDER VOTES,Baca 19
+Santa Cruz,12,3,7,1,,PROPOSITION 206,,UNDER VOTES,Nogales 20
+Santa Cruz,11,3,5,2,,PROPOSITION 206,,UNDER VOTES,Peck Canyon 21
+Santa Cruz,5,1,3,1,,PROPOSITION 206,,UNDER VOTES,Potrero 22
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,UNDER VOTES,Mountain 23
+Santa Cruz,0,0,0,0,,PROPOSITION 206,,UNDER VOTES,Lake Patagonia 24
