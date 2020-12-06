@@ -1,0 +1,2437 @@
+county,precinct,office,district,party,candidate,votes,early_voting,provisional,election_day,late_early
+Yuma,P01,Presidential Electors,,REP,TRUMP / PENCE,260,205,10,43,2
+Yuma,P02,Presidential Electors,,REP,TRUMP / PENCE,388,300,7,73,8
+Yuma,P03,Presidential Electors,,REP,TRUMP / PENCE,386,310,10,60,6
+Yuma,P04,Presidential Electors,,REP,TRUMP / PENCE,1208,984,23,185,16
+Yuma,P05,Presidential Electors,,REP,TRUMP / PENCE,1234,1048,13,154,19
+Yuma,P06,Presidential Electors,,REP,TRUMP / PENCE,580,426,16,119,19
+Yuma,P07,Presidential Electors,,REP,TRUMP / PENCE,556,386,20,133,17
+Yuma,P08,Presidential Electors,,REP,TRUMP / PENCE,635,568,10,53,4
+Yuma,P09,Presidential Electors,,REP,TRUMP / PENCE,1443,1164,26,231,22
+Yuma,P10,Presidential Electors,,REP,TRUMP / PENCE,2516,2041,52,379,44
+Yuma,P11,Presidential Electors,,REP,TRUMP / PENCE,1234,959,22,214,39
+Yuma,P12,Presidential Electors,,REP,TRUMP / PENCE,1142,972,13,138,19
+Yuma,P13,Presidential Electors,,REP,TRUMP / PENCE,531,447,15,64,5
+Yuma,P14,Presidential Electors,,REP,TRUMP / PENCE,219,167,7,42,3
+Yuma,P15,Presidential Electors,,REP,TRUMP / PENCE,1127,921,20,174,12
+Yuma,P16,Presidential Electors,,REP,TRUMP / PENCE,761,616,9,123,13
+Yuma,P17,Presidential Electors,,REP,TRUMP / PENCE,1838,1482,31,272,53
+Yuma,P18,Presidential Electors,,REP,TRUMP / PENCE,213,166,5,41,1
+Yuma,P19,Presidential Electors,,REP,TRUMP / PENCE,62,44,3,14,1
+Yuma,P20,Presidential Electors,,REP,TRUMP / PENCE,1449,972,35,368,74
+Yuma,P21,Presidential Electors,,REP,TRUMP / PENCE,0,0,0,0,0
+Yuma,P22,Presidential Electors,,REP,TRUMP / PENCE,1512,1171,28,268,45
+Yuma,P23,Presidential Electors,,REP,TRUMP / PENCE,1301,1111,14,162,14
+Yuma,P24,Presidential Electors,,REP,TRUMP / PENCE,3633,3120,31,414,68
+Yuma,P25,Presidential Electors,,REP,TRUMP / PENCE,1975,1651,25,267,32
+Yuma,P26,Presidential Electors,,REP,TRUMP / PENCE,218,175,5,32,6
+Yuma,P27,Presidential Electors,,REP,TRUMP / PENCE,355,295,7,51,2
+Yuma,P28,Presidential Electors,,REP,TRUMP / PENCE,178,147,2,24,5
+Yuma,P29,Presidential Electors,,REP,TRUMP / PENCE,470,302,16,133,19
+Yuma,P30,Presidential Electors,,REP,TRUMP / PENCE,482,349,14,106,13
+Yuma,P31,Presidential Electors,,REP,TRUMP / PENCE,865,586,28,221,30
+Yuma,P32,Presidential Electors,,REP,TRUMP / PENCE,347,280,6,56,5
+Yuma,P33,Presidential Electors,,REP,TRUMP / PENCE,286,232,3,49,2
+Yuma,P34,Presidential Electors,,REP,TRUMP / PENCE,482,404,2,72,4
+Yuma,P35,Presidential Electors,,REP,TRUMP / PENCE,801,699,14,81,7
+Yuma,P36,Presidential Electors,,REP,TRUMP / PENCE,869,746,12,99,12
+Yuma,P37,Presidential Electors,,REP,TRUMP / PENCE,565,461,15,82,7
+Yuma,P38,Presidential Electors,,REP,TRUMP / PENCE,731,599,13,110,9
+Yuma,P39,Presidential Electors,,REP,TRUMP / PENCE,828,687,13,124,4
+Yuma,P40,Presidential Electors,,REP,TRUMP / PENCE,827,686,14,117,10
+Yuma,P41,Presidential Electors,,REP,TRUMP / PENCE,998,834,17,126,21
+Yuma,P42,Presidential Electors,,REP,TRUMP / PENCE,1011,778,31,174,28
+Yuma,P43,Presidential Electors,,REP,TRUMP / PENCE,18,13,0,3,2
+Yuma,P44,Presidential Electors,,REP,TRUMP / PENCE,0,0,0,0,0
+Yuma,P01,Presidential Electors,,DEM,BIDEN / HARRIS,510,418,4,71,17
+Yuma,P02,Presidential Electors,,DEM,BIDEN / HARRIS,533,435,12,73,13
+Yuma,P03,Presidential Electors,,DEM,BIDEN / HARRIS,546,445,11,75,15
+Yuma,P04,Presidential Electors,,DEM,BIDEN / HARRIS,1515,1302,26,155,32
+Yuma,P05,Presidential Electors,,DEM,BIDEN / HARRIS,754,681,11,53,9
+Yuma,P06,Presidential Electors,,DEM,BIDEN / HARRIS,1060,841,20,174,25
+Yuma,P07,Presidential Electors,,DEM,BIDEN / HARRIS,1554,1201,35,265,53
+Yuma,P08,Presidential Electors,,DEM,BIDEN / HARRIS,427,394,4,17,12
+Yuma,P09,Presidential Electors,,DEM,BIDEN / HARRIS,450,399,5,41,5
+Yuma,P10,Presidential Electors,,DEM,BIDEN / HARRIS,1543,1358,22,143,20
+Yuma,P11,Presidential Electors,,DEM,BIDEN / HARRIS,728,629,9,69,21
+Yuma,P12,Presidential Electors,,DEM,BIDEN / HARRIS,599,523,7,59,10
+Yuma,P13,Presidential Electors,,DEM,BIDEN / HARRIS,735,630,12,85,8
+Yuma,P14,Presidential Electors,,DEM,BIDEN / HARRIS,207,179,2,23,3
+Yuma,P15,Presidential Electors,,DEM,BIDEN / HARRIS,854,748,16,74,16
+Yuma,P16,Presidential Electors,,DEM,BIDEN / HARRIS,698,611,9,63,15
+Yuma,P17,Presidential Electors,,DEM,BIDEN / HARRIS,893,776,10,79,28
+Yuma,P18,Presidential Electors,,DEM,BIDEN / HARRIS,53,43,0,9,1
+Yuma,P19,Presidential Electors,,DEM,BIDEN / HARRIS,55,46,2,7,0
+Yuma,P20,Presidential Electors,,DEM,BIDEN / HARRIS,541,454,6,64,17
+Yuma,P21,Presidential Electors,,DEM,BIDEN / HARRIS,0,0,0,0,0
+Yuma,P22,Presidential Electors,,DEM,BIDEN / HARRIS,864,755,11,81,17
+Yuma,P23,Presidential Electors,,DEM,BIDEN / HARRIS,611,576,4,26,5
+Yuma,P24,Presidential Electors,,DEM,BIDEN / HARRIS,1396,1298,7,84,7
+Yuma,P25,Presidential Electors,,DEM,BIDEN / HARRIS,780,744,7,28,1
+Yuma,P26,Presidential Electors,,DEM,BIDEN / HARRIS,353,305,4,33,11
+Yuma,P27,Presidential Electors,,DEM,BIDEN / HARRIS,394,343,7,37,7
+Yuma,P28,Presidential Electors,,DEM,BIDEN / HARRIS,309,250,10,43,6
+Yuma,P29,Presidential Electors,,DEM,BIDEN / HARRIS,1784,1421,33,273,57
+Yuma,P30,Presidential Electors,,DEM,BIDEN / HARRIS,1498,1228,28,214,28
+Yuma,P31,Presidential Electors,,DEM,BIDEN / HARRIS,2421,1894,60,409,58
+Yuma,P32,Presidential Electors,,DEM,BIDEN / HARRIS,567,450,13,92,12
+Yuma,P33,Presidential Electors,,DEM,BIDEN / HARRIS,192,174,2,11,5
+Yuma,P34,Presidential Electors,,DEM,BIDEN / HARRIS,182,162,0,13,7
+Yuma,P35,Presidential Electors,,DEM,BIDEN / HARRIS,620,551,12,52,5
+Yuma,P36,Presidential Electors,,DEM,BIDEN / HARRIS,850,716,14,96,24
+Yuma,P37,Presidential Electors,,DEM,BIDEN / HARRIS,850,736,19,74,21
+Yuma,P38,Presidential Electors,,DEM,BIDEN / HARRIS,797,685,10,88,14
+Yuma,P39,Presidential Electors,,DEM,BIDEN / HARRIS,754,668,14,63,9
+Yuma,P40,Presidential Electors,,DEM,BIDEN / HARRIS,714,637,11,57,9
+Yuma,P41,Presidential Electors,,DEM,BIDEN / HARRIS,888,800,7,74,7
+Yuma,P42,Presidential Electors,,DEM,BIDEN / HARRIS,1120,952,10,123,35
+Yuma,P43,Presidential Electors,,DEM,BIDEN / HARRIS,11,11,0,0,0
+Yuma,P44,Presidential Electors,,DEM,BIDEN / HARRIS,0,0,0,0,0
+Yuma,P01,Presidential Electors,,LBT,JORGENSEN / COHEN,13,10,0,3,0
+Yuma,P02,Presidential Electors,,LBT,JORGENSEN / COHEN,15,12,2,1,0
+Yuma,P03,Presidential Electors,,LBT,JORGENSEN / COHEN,12,10,0,2,0
+Yuma,P04,Presidential Electors,,LBT,JORGENSEN / COHEN,50,44,1,5,0
+Yuma,P05,Presidential Electors,,LBT,JORGENSEN / COHEN,23,22,0,1,0
+Yuma,P06,Presidential Electors,,LBT,JORGENSEN / COHEN,22,14,0,6,2
+Yuma,P07,Presidential Electors,,LBT,JORGENSEN / COHEN,25,17,0,6,2
+Yuma,P08,Presidential Electors,,LBT,JORGENSEN / COHEN,15,12,1,2,0
+Yuma,P09,Presidential Electors,,LBT,JORGENSEN / COHEN,46,30,2,13,1
+Yuma,P10,Presidential Electors,,LBT,JORGENSEN / COHEN,74,63,1,8,2
+Yuma,P11,Presidential Electors,,LBT,JORGENSEN / COHEN,49,36,2,11,0
+Yuma,P12,Presidential Electors,,LBT,JORGENSEN / COHEN,31,27,1,3,0
+Yuma,P13,Presidential Electors,,LBT,JORGENSEN / COHEN,28,21,1,6,0
+Yuma,P14,Presidential Electors,,LBT,JORGENSEN / COHEN,5,3,0,2,0
+Yuma,P15,Presidential Electors,,LBT,JORGENSEN / COHEN,48,36,1,10,1
+Yuma,P16,Presidential Electors,,LBT,JORGENSEN / COHEN,45,38,0,7,0
+Yuma,P17,Presidential Electors,,LBT,JORGENSEN / COHEN,45,32,2,5,6
+Yuma,P18,Presidential Electors,,LBT,JORGENSEN / COHEN,5,5,0,0,0
+Yuma,P19,Presidential Electors,,LBT,JORGENSEN / COHEN,0,0,0,0,0
+Yuma,P20,Presidential Electors,,LBT,JORGENSEN / COHEN,24,18,1,3,2
+Yuma,P21,Presidential Electors,,LBT,JORGENSEN / COHEN,0,0,0,0,0
+Yuma,P22,Presidential Electors,,LBT,JORGENSEN / COHEN,47,38,1,6,2
+Yuma,P23,Presidential Electors,,LBT,JORGENSEN / COHEN,20,17,0,3,0
+Yuma,P24,Presidential Electors,,LBT,JORGENSEN / COHEN,56,51,0,5,0
+Yuma,P25,Presidential Electors,,LBT,JORGENSEN / COHEN,33,26,1,5,1
+Yuma,P26,Presidential Electors,,LBT,JORGENSEN / COHEN,9,8,0,1,0
+Yuma,P27,Presidential Electors,,LBT,JORGENSEN / COHEN,10,4,0,4,2
+Yuma,P28,Presidential Electors,,LBT,JORGENSEN / COHEN,7,6,0,1,0
+Yuma,P29,Presidential Electors,,LBT,JORGENSEN / COHEN,40,32,1,6,1
+Yuma,P30,Presidential Electors,,LBT,JORGENSEN / COHEN,22,15,1,5,1
+Yuma,P31,Presidential Electors,,LBT,JORGENSEN / COHEN,36,29,3,4,0
+Yuma,P32,Presidential Electors,,LBT,JORGENSEN / COHEN,9,7,0,1,1
+Yuma,P33,Presidential Electors,,LBT,JORGENSEN / COHEN,4,2,0,2,0
+Yuma,P34,Presidential Electors,,LBT,JORGENSEN / COHEN,8,8,0,0,0
+Yuma,P35,Presidential Electors,,LBT,JORGENSEN / COHEN,35,24,0,11,0
+Yuma,P36,Presidential Electors,,LBT,JORGENSEN / COHEN,31,26,1,4,0
+Yuma,P37,Presidential Electors,,LBT,JORGENSEN / COHEN,25,16,3,6,0
+Yuma,P38,Presidential Electors,,LBT,JORGENSEN / COHEN,32,22,2,7,1
+Yuma,P39,Presidential Electors,,LBT,JORGENSEN / COHEN,32,26,1,5,0
+Yuma,P40,Presidential Electors,,LBT,JORGENSEN / COHEN,39,33,1,5,0
+Yuma,P41,Presidential Electors,,LBT,JORGENSEN / COHEN,31,25,0,6,0
+Yuma,P42,Presidential Electors,,LBT,JORGENSEN / COHEN,36,24,3,8,1
+Yuma,P43,Presidential Electors,,LBT,JORGENSEN / COHEN,0,0,0,0,0
+Yuma,P44,Presidential Electors,,LBT,JORGENSEN / COHEN,0,0,0,0,0
+Yuma,P01,U.S. Senator,,REP,"McSALLY, MARTHA",216,175,6,33,2
+Yuma,P02,U.S. Senator,,REP,"McSALLY, MARTHA",356,279,7,65,5
+Yuma,P03,U.S. Senator,,REP,"McSALLY, MARTHA",364,298,5,56,5
+Yuma,P04,U.S. Senator,,REP,"McSALLY, MARTHA",1138,928,24,167,19
+Yuma,P05,U.S. Senator,,REP,"McSALLY, MARTHA",1232,1044,14,155,19
+Yuma,P06,U.S. Senator,,REP,"McSALLY, MARTHA",518,374,15,112,17
+Yuma,P07,U.S. Senator,,REP,"McSALLY, MARTHA",476,332,18,117,9
+Yuma,P08,U.S. Senator,,REP,"McSALLY, MARTHA",634,569,10,52,3
+Yuma,P09,U.S. Senator,,REP,"McSALLY, MARTHA",1440,1166,24,230,20
+Yuma,P10,U.S. Senator,,REP,"McSALLY, MARTHA",2482,2019,48,368,47
+Yuma,P11,U.S. Senator,,REP,"McSALLY, MARTHA",1205,933,22,213,37
+Yuma,P12,U.S. Senator,,REP,"McSALLY, MARTHA",1149,979,12,139,19
+Yuma,P13,U.S. Senator,,REP,"McSALLY, MARTHA",503,416,15,66,6
+Yuma,P14,U.S. Senator,,REP,"McSALLY, MARTHA",210,161,7,40,2
+Yuma,P15,U.S. Senator,,REP,"McSALLY, MARTHA",1092,896,18,168,10
+Yuma,P16,U.S. Senator,,REP,"McSALLY, MARTHA",742,602,7,122,11
+Yuma,P17,U.S. Senator,,REP,"McSALLY, MARTHA",1805,1454,28,269,54
+Yuma,P18,U.S. Senator,,REP,"McSALLY, MARTHA",207,162,5,39,1
+Yuma,P19,U.S. Senator,,REP,"McSALLY, MARTHA",56,38,3,14,1
+Yuma,P20,U.S. Senator,,REP,"McSALLY, MARTHA",1388,927,33,359,69
+Yuma,P21,U.S. Senator,,REP,"McSALLY, MARTHA",0,0,0,0,0
+Yuma,P22,U.S. Senator,,REP,"McSALLY, MARTHA",1479,1155,27,260,37
+Yuma,P23,U.S. Senator,,REP,"McSALLY, MARTHA",1279,1101,14,151,13
+Yuma,P24,U.S. Senator,,REP,"McSALLY, MARTHA",3545,3045,26,406,68
+Yuma,P25,U.S. Senator,,REP,"McSALLY, MARTHA",1954,1631,28,264,31
+Yuma,P26,U.S. Senator,,REP,"McSALLY, MARTHA",197,159,4,32,2
+Yuma,P27,U.S. Senator,,REP,"McSALLY, MARTHA",348,289,5,50,4
+Yuma,P28,U.S. Senator,,REP,"McSALLY, MARTHA",158,130,2,21,5
+Yuma,P29,U.S. Senator,,REP,"McSALLY, MARTHA",400,257,13,115,15
+Yuma,P30,U.S. Senator,,REP,"McSALLY, MARTHA",391,268,16,95,12
+Yuma,P31,U.S. Senator,,REP,"McSALLY, MARTHA",711,478,27,185,21
+Yuma,P32,U.S. Senator,,REP,"McSALLY, MARTHA",321,262,4,49,6
+Yuma,P33,U.S. Senator,,REP,"McSALLY, MARTHA",278,226,3,46,3
+Yuma,P34,U.S. Senator,,REP,"McSALLY, MARTHA",479,401,2,72,4
+Yuma,P35,U.S. Senator,,REP,"McSALLY, MARTHA",781,683,13,79,6
+Yuma,P36,U.S. Senator,,REP,"McSALLY, MARTHA",834,712,12,100,10
+Yuma,P37,U.S. Senator,,REP,"McSALLY, MARTHA",519,428,14,71,6
+Yuma,P38,U.S. Senator,,REP,"McSALLY, MARTHA",709,580,10,112,7
+Yuma,P39,U.S. Senator,,REP,"McSALLY, MARTHA",813,687,11,110,5
+Yuma,P40,U.S. Senator,,REP,"McSALLY, MARTHA",816,677,13,118,8
+Yuma,P41,U.S. Senator,,REP,"McSALLY, MARTHA",953,803,13,119,18
+Yuma,P42,U.S. Senator,,REP,"McSALLY, MARTHA",948,730,29,167,22
+Yuma,P43,U.S. Senator,,REP,"McSALLY, MARTHA",18,13,0,3,2
+Yuma,P44,U.S. Senator,,REP,"McSALLY, MARTHA",0,0,0,0,0
+Yuma,P01,U.S. Senator,,DEM,"KELLY, MARK",554,449,7,81,17
+Yuma,P02,U.S. Senator,,DEM,"KELLY, MARK",568,456,13,83,16
+Yuma,P03,U.S. Senator,,DEM,"KELLY, MARK",566,462,13,75,16
+Yuma,P04,U.S. Senator,,DEM,"KELLY, MARK",1616,1384,25,177,30
+Yuma,P05,U.S. Senator,,DEM,"KELLY, MARK",774,705,10,51,8
+Yuma,P06,U.S. Senator,,DEM,"KELLY, MARK",1134,899,19,186,30
+Yuma,P07,U.S. Senator,,DEM,"KELLY, MARK",1620,1255,34,270,61
+Yuma,P08,U.S. Senator,,DEM,"KELLY, MARK",438,402,4,19,13
+Yuma,P09,U.S. Senator,,DEM,"KELLY, MARK",485,417,7,52,9
+Yuma,P10,U.S. Senator,,DEM,"KELLY, MARK",1605,1410,26,151,18
+Yuma,P11,U.S. Senator,,DEM,"KELLY, MARK",782,669,11,78,24
+Yuma,P12,U.S. Senator,,DEM,"KELLY, MARK",609,532,7,59,11
+Yuma,P13,U.S. Senator,,DEM,"KELLY, MARK",770,667,11,85,7
+Yuma,P14,U.S. Senator,,DEM,"KELLY, MARK",213,180,3,27,3
+Yuma,P15,U.S. Senator,,DEM,"KELLY, MARK",913,793,17,87,16
+Yuma,P16,U.S. Senator,,DEM,"KELLY, MARK",746,645,12,73,16
+Yuma,P17,U.S. Senator,,DEM,"KELLY, MARK",943,814,13,86,30
+Yuma,P18,U.S. Senator,,DEM,"KELLY, MARK",57,46,0,10,1
+Yuma,P19,U.S. Senator,,DEM,"KELLY, MARK",57,48,2,7,0
+Yuma,P20,U.S. Senator,,DEM,"KELLY, MARK",602,501,8,71,22
+Yuma,P21,U.S. Senator,,DEM,"KELLY, MARK",0,0,0,0,0
+Yuma,P22,U.S. Senator,,DEM,"KELLY, MARK",925,796,13,92,24
+Yuma,P23,U.S. Senator,,DEM,"KELLY, MARK",643,595,4,37,7
+Yuma,P24,U.S. Senator,,DEM,"KELLY, MARK",1486,1383,11,87,5
+Yuma,P25,U.S. Senator,,DEM,"KELLY, MARK",814,774,5,32,3
+Yuma,P26,U.S. Senator,,DEM,"KELLY, MARK",373,320,5,33,15
+Yuma,P27,U.S. Senator,,DEM,"KELLY, MARK",407,352,9,38,8
+Yuma,P28,U.S. Senator,,DEM,"KELLY, MARK",332,269,10,47,6
+Yuma,P29,U.S. Senator,,DEM,"KELLY, MARK",1859,1474,35,290,60
+Yuma,P30,U.S. Senator,,DEM,"KELLY, MARK",1589,1316,25,219,29
+Yuma,P31,U.S. Senator,,DEM,"KELLY, MARK",2558,1984,65,444,65
+Yuma,P32,U.S. Senator,,DEM,"KELLY, MARK",586,465,15,95,11
+Yuma,P33,U.S. Senator,,DEM,"KELLY, MARK",200,180,3,13,4
+Yuma,P34,U.S. Senator,,DEM,"KELLY, MARK",187,168,0,13,6
+Yuma,P35,U.S. Senator,,DEM,"KELLY, MARK",657,575,15,61,6
+Yuma,P36,U.S. Senator,,DEM,"KELLY, MARK",897,765,12,94,26
+Yuma,P37,U.S. Senator,,DEM,"KELLY, MARK",892,764,21,86,21
+Yuma,P38,U.S. Senator,,DEM,"KELLY, MARK",829,708,14,91,16
+Yuma,P39,U.S. Senator,,DEM,"KELLY, MARK",789,681,17,82,9
+Yuma,P40,U.S. Senator,,DEM,"KELLY, MARK",750,670,11,58,11
+Yuma,P41,U.S. Senator,,DEM,"KELLY, MARK",940,839,10,82,9
+Yuma,P42,U.S. Senator,,DEM,"KELLY, MARK",1185,996,10,137,42
+Yuma,P43,U.S. Senator,,DEM,"KELLY, MARK",11,11,0,0,0
+Yuma,P44,U.S. Senator,,DEM,"KELLY, MARK",0,0,0,0,0
+Yuma,P01,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",229,182,7,39,1
+Yuma,P02,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",348,267,5,68,8
+Yuma,P03,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",356,295,5,51,5
+Yuma,P04,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",1117,921,21,161,14
+Yuma,P05,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",1218,1040,12,146,20
+Yuma,P06,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",491,362,12,103,14
+Yuma,P07,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",402,275,13,104,10
+Yuma,P13,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",507,430,12,60,5
+Yuma,P14,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",211,164,7,38,2
+Yuma,P16,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",745,611,7,118,9
+Yuma,P21,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",0,0,0,0,0
+Yuma,P26,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",193,154,3,33,3
+Yuma,P27,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",345,289,6,46,4
+Yuma,P28,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",158,131,4,19,4
+Yuma,P29,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",314,199,12,92,11
+Yuma,P30,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",320,223,11,75,11
+Yuma,P31,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",580,382,19,158,21
+Yuma,P32,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",320,263,4,47,6
+Yuma,P33,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",277,225,3,47,2
+Yuma,P35,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",783,691,11,74,7
+Yuma,P36,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",842,729,8,95,10
+Yuma,P37,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",504,415,16,69,4
+Yuma,P38,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",690,566,10,107,7
+Yuma,P39,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",821,692,12,114,3
+Yuma,P40,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",816,688,14,108,6
+Yuma,P41,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",975,820,13,125,17
+Yuma,P42,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",947,739,28,157,23
+Yuma,P43,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",17,12,0,3,2
+Yuma,P44,U.S. Representative in Congress Dist. 3,,REP,"WOOD, DANIEL",0,0,0,0,0
+Yuma,P01,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",541,440,6,77,18
+Yuma,P02,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",563,462,15,72,14
+Yuma,P03,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",559,453,12,78,16
+Yuma,P04,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",1598,1365,23,175,35
+Yuma,P05,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",769,692,10,61,6
+Yuma,P06,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",1150,903,23,191,33
+Yuma,P07,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",1698,1317,39,280,62
+Yuma,P13,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",746,637,13,89,7
+Yuma,P14,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",208,175,2,28,3
+Yuma,P16,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",731,628,11,74,18
+Yuma,P21,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",0,0,0,0,0
+Yuma,P26,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",367,318,5,31,13
+Yuma,P27,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",401,344,8,41,8
+Yuma,P28,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",330,267,8,48,7
+Yuma,P29,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",1944,1532,36,312,64
+Yuma,P30,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",1654,1350,30,243,31
+Yuma,P31,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",2674,2075,68,467,64
+Yuma,P32,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",584,459,15,99,11
+Yuma,P33,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",194,174,2,13,5
+Yuma,P35,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",637,556,16,60,5
+Yuma,P36,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",878,741,17,97,23
+Yuma,P37,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",890,760,19,88,23
+Yuma,P38,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",827,707,13,90,17
+Yuma,P39,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",752,655,14,74,9
+Yuma,P40,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",731,642,13,63,13
+Yuma,P41,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",905,807,10,78,10
+Yuma,P42,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",1162,970,9,140,43
+Yuma,P43,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",11,11,0,0,0
+Yuma,P44,U.S. Representative in Congress Dist. 3,,DEM,"ALVA, RAÚL",0,0,0,0,0
+Yuma,P08,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",664,598,8,54,4
+Yuma,P09,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1456,1174,24,236,22
+Yuma,P10,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",2499,2053,40,362,44
+Yuma,P11,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1239,967,23,212,37
+Yuma,P12,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1181,1012,12,137,20
+Yuma,P15,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1126,914,21,179,12
+Yuma,P17,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1810,1472,24,264,50
+Yuma,P18,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",210,165,4,40,1
+Yuma,P19,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",63,45,3,14,1
+Yuma,P20,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1416,958,29,358,71
+Yuma,P22,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1515,1179,27,264,45
+Yuma,P23,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1313,1121,14,164,14
+Yuma,P24,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",3631,3122,28,417,64
+Yuma,P25,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",1988,1662,26,266,34
+Yuma,P34,U.S. Representative in Congress Dist. 4,,REP,"GOSAR, PAUL",478,403,2,70,3
+Yuma,P08,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",389,358,5,15,11
+Yuma,P09,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",426,371,4,44,7
+Yuma,P10,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",1479,1294,24,143,18
+Yuma,P11,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",699,599,9,70,21
+Yuma,P12,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",556,483,5,59,9
+Yuma,P15,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",823,727,13,69,14
+Yuma,P17,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",864,740,10,85,29
+Yuma,P18,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",49,40,0,9,0
+Yuma,P19,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",47,40,1,6,0
+Yuma,P20,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",535,442,7,67,19
+Yuma,P22,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",852,745,9,82,16
+Yuma,P23,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",582,545,4,27,6
+Yuma,P24,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",1303,1221,5,72,5
+Yuma,P25,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",736,704,5,26,1
+Yuma,P34,U.S. Representative in Congress Dist. 4,,DEM,"DiSANTO, DELINA",172,153,0,12,7
+Yuma,P01,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",243,189,9,43,2
+Yuma,P02,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",347,262,7,71,7
+Yuma,P03,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",375,305,5,57,8
+Yuma,P04,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",1102,896,19,170,17
+Yuma,P06,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",526,390,10,112,14
+Yuma,P07,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",472,327,17,118,10
+Yuma,P13,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",496,413,13,65,5
+Yuma,P21,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",0,0,0,0,0
+Yuma,P26,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",206,163,3,34,6
+Yuma,P27,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",339,283,5,47,4
+Yuma,P28,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",159,136,1,18,4
+Yuma,P29,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",405,266,14,110,15
+Yuma,P30,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",392,269,13,96,14
+Yuma,P31,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",714,484,23,183,24
+Yuma,P32,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",309,252,4,48,5
+Yuma,P35,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",764,666,12,79,7
+Yuma,P36,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",796,677,7,100,12
+Yuma,P37,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",504,407,15,77,5
+Yuma,P38,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",685,561,11,107,6
+Yuma,P39,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",783,654,11,116,2
+Yuma,P40,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",798,662,14,113,9
+Yuma,P41,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",937,782,13,126,16
+Yuma,P44,State Senator Dist. 4,,REP,"ANGRY, TRAVIS",0,0,0,0,0
+Yuma,P01,State Senator Dist. 4,,DEM,"OTONDO, LISA",512,419,4,73,16
+Yuma,P02,State Senator Dist. 4,,DEM,"OTONDO, LISA",556,461,13,68,14
+Yuma,P03,State Senator Dist. 4,,DEM,"OTONDO, LISA",525,429,10,73,13
+Yuma,P04,State Senator Dist. 4,,DEM,"OTONDO, LISA",1574,1356,22,163,33
+Yuma,P06,State Senator Dist. 4,,DEM,"OTONDO, LISA",1090,859,20,178,33
+Yuma,P07,State Senator Dist. 4,,DEM,"OTONDO, LISA",1582,1224,32,264,62
+Yuma,P13,State Senator Dist. 4,,DEM,"OTONDO, LISA",737,634,11,85,7
+Yuma,P21,State Senator Dist. 4,,DEM,"OTONDO, LISA",0,0,0,0,0
+Yuma,P26,State Senator Dist. 4,,DEM,"OTONDO, LISA",350,307,4,28,11
+Yuma,P27,State Senator Dist. 4,,DEM,"OTONDO, LISA",398,342,9,39,8
+Yuma,P28,State Senator Dist. 4,,DEM,"OTONDO, LISA",321,255,9,50,7
+Yuma,P29,State Senator Dist. 4,,DEM,"OTONDO, LISA",1808,1430,34,285,59
+Yuma,P30,State Senator Dist. 4,,DEM,"OTONDO, LISA",1544,1274,27,216,27
+Yuma,P31,State Senator Dist. 4,,DEM,"OTONDO, LISA",2488,1930,62,434,62
+Yuma,P32,State Senator Dist. 4,,DEM,"OTONDO, LISA",587,466,14,96,11
+Yuma,P35,State Senator Dist. 4,,DEM,"OTONDO, LISA",638,562,15,56,5
+Yuma,P36,State Senator Dist. 4,,DEM,"OTONDO, LISA",878,745,17,94,22
+Yuma,P37,State Senator Dist. 4,,DEM,"OTONDO, LISA",882,761,20,80,21
+Yuma,P38,State Senator Dist. 4,,DEM,"OTONDO, LISA",827,706,12,91,18
+Yuma,P39,State Senator Dist. 4,,DEM,"OTONDO, LISA",766,672,14,69,11
+Yuma,P40,State Senator Dist. 4,,DEM,"OTONDO, LISA",735,658,12,56,9
+Yuma,P41,State Senator Dist. 4,,DEM,"OTONDO, LISA",917,823,10,76,8
+Yuma,P44,State Senator Dist. 4,,DEM,"OTONDO, LISA",0,0,0,0,0
+Yuma,P05,State Senator Dist. 13,,REP,"KERR, SINE",1540,1321,16,183,20
+Yuma,P08,State Senator Dist. 13,,REP,"KERR, SINE",797,724,9,56,8
+Yuma,P09,State Senator Dist. 13,,REP,"KERR, SINE",1636,1321,25,264,26
+Yuma,P10,State Senator Dist. 13,,REP,"KERR, SINE",3124,2566,50,455,53
+Yuma,P11,State Senator Dist. 13,,REP,"KERR, SINE",1532,1212,22,252,46
+Yuma,P12,State Senator Dist. 13,,REP,"KERR, SINE",1409,1198,13,175,23
+Yuma,P14,State Senator Dist. 13,,REP,"KERR, SINE",317,253,8,54,2
+Yuma,P15,State Senator Dist. 13,,REP,"KERR, SINE",1502,1242,26,216,18
+Yuma,P16,State Senator Dist. 13,,REP,"KERR, SINE",1071,871,12,169,19
+Yuma,P17,State Senator Dist. 13,,REP,"KERR, SINE",2172,1757,25,320,70
+Yuma,P18,State Senator Dist. 13,,REP,"KERR, SINE",229,176,5,47,1
+Yuma,P19,State Senator Dist. 13,,REP,"KERR, SINE",80,56,3,20,1
+Yuma,P20,State Senator Dist. 13,,REP,"KERR, SINE",1609,1110,33,390,76
+Yuma,P22,State Senator Dist. 13,,REP,"KERR, SINE",1869,1481,30,313,45
+Yuma,P23,State Senator Dist. 13,,REP,"KERR, SINE",1506,1297,16,178,15
+Yuma,P24,State Senator Dist. 13,,REP,"KERR, SINE",4105,3556,28,455,66
+Yuma,P25,State Senator Dist. 13,,REP,"KERR, SINE",2219,1882,26,279,32
+Yuma,P33,State Senator Dist. 13,,REP,"KERR, SINE",353,293,2,54,4
+Yuma,P34,State Senator Dist. 13,,REP,"KERR, SINE",548,463,2,76,7
+Yuma,P42,State Senator Dist. 13,,REP,"KERR, SINE",1554,1234,34,237,49
+Yuma,P43,State Senator Dist. 13,,REP,"KERR, SINE",24,19,0,3,2
+Yuma,P01,State Representative Dist 4,,REP,"JOHN, JOEL",251,200,7,42,2
+Yuma,P02,State Representative Dist 4,,REP,"JOHN, JOEL",376,290,9,68,9
+Yuma,P03,State Representative Dist 4,,REP,"JOHN, JOEL",373,310,5,52,6
+Yuma,P04,State Representative Dist 4,,REP,"JOHN, JOEL",1162,953,17,175,17
+Yuma,P06,State Representative Dist 4,,REP,"JOHN, JOEL",548,405,11,114,18
+Yuma,P07,State Representative Dist 4,,REP,"JOHN, JOEL",466,312,19,124,11
+Yuma,P13,State Representative Dist 4,,REP,"JOHN, JOEL",544,451,15,73,5
+Yuma,P21,State Representative Dist 4,,REP,"JOHN, JOEL",0,0,0,0,0
+Yuma,P26,State Representative Dist 4,,REP,"JOHN, JOEL",201,159,4,33,5
+Yuma,P27,State Representative Dist 4,,REP,"JOHN, JOEL",357,295,5,53,4
+Yuma,P28,State Representative Dist 4,,REP,"JOHN, JOEL",163,133,3,23,4
+Yuma,P29,State Representative Dist 4,,REP,"JOHN, JOEL",458,288,15,138,17
+Yuma,P30,State Representative Dist 4,,REP,"JOHN, JOEL",436,306,11,107,12
+Yuma,P31,State Representative Dist 4,,REP,"JOHN, JOEL",816,565,24,203,24
+Yuma,P32,State Representative Dist 4,,REP,"JOHN, JOEL",341,273,6,55,7
+Yuma,P35,State Representative Dist 4,,REP,"JOHN, JOEL",796,694,13,83,6
+Yuma,P36,State Representative Dist 4,,REP,"JOHN, JOEL",879,752,9,107,11
+Yuma,P37,State Representative Dist 4,,REP,"JOHN, JOEL",533,431,14,83,5
+Yuma,P38,State Representative Dist 4,,REP,"JOHN, JOEL",716,583,10,115,8
+Yuma,P39,State Representative Dist 4,,REP,"JOHN, JOEL",825,693,12,117,3
+Yuma,P40,State Representative Dist 4,,REP,"JOHN, JOEL",833,696,12,117,8
+Yuma,P41,State Representative Dist 4,,REP,"JOHN, JOEL",998,839,13,128,18
+Yuma,P44,State Representative Dist 4,,REP,"JOHN, JOEL",0,0,0,0,0
+Yuma,P01,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",500,406,4,75,15
+Yuma,P02,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",560,461,8,80,11
+Yuma,P03,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",510,413,10,74,13
+Yuma,P04,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",1652,1390,23,204,35
+Yuma,P06,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",1092,853,20,191,28
+Yuma,P07,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",1532,1194,27,258,53
+Yuma,P13,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",715,622,7,82,4
+Yuma,P21,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",0,0,0,0,0
+Yuma,P26,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",376,320,2,41,13
+Yuma,P27,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",401,350,6,38,7
+Yuma,P28,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",316,262,7,40,7
+Yuma,P29,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",1743,1389,35,269,50
+Yuma,P30,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",1518,1239,25,219,35
+Yuma,P31,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",2367,1831,58,415,63
+Yuma,P32,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",569,459,11,88,11
+Yuma,P35,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",692,600,13,74,5
+Yuma,P36,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",908,765,13,108,22
+Yuma,P37,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",863,754,17,75,17
+Yuma,P38,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",846,715,13,104,14
+Yuma,P39,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",817,704,14,91,8
+Yuma,P40,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",762,668,11,73,10
+Yuma,P41,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",1003,876,9,102,16
+Yuma,P44,State Representative Dist 4,,DEM,"FERNANDEZ, CHARLENE",0,0,0,0,0
+Yuma,P01,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",328,269,1,49,9
+Yuma,P02,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",339,269,6,57,7
+Yuma,P03,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",340,277,3,53,7
+Yuma,P04,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",967,822,8,113,24
+Yuma,P06,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",662,515,8,120,19
+Yuma,P07,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",956,739,10,177,30
+Yuma,P13,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",463,396,6,57,4
+Yuma,P21,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",0,0,0,0,0
+Yuma,P26,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",207,173,3,26,5
+Yuma,P27,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",259,218,4,29,8
+Yuma,P28,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",217,170,5,36,6
+Yuma,P29,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",1163,925,12,192,34
+Yuma,P30,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",1045,866,11,154,14
+Yuma,P31,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",1676,1274,36,332,34
+Yuma,P32,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",352,277,5,65,5
+Yuma,P35,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",406,363,4,37,2
+Yuma,P36,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",565,485,5,59,16
+Yuma,P37,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",556,469,11,65,11
+Yuma,P38,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",546,464,4,68,10
+Yuma,P39,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",509,443,4,58,4
+Yuma,P40,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",524,462,4,51,7
+Yuma,P41,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",630,558,3,62,7
+Yuma,P44,State Representative Dist 4,,DEM,"PETEN, GERALDINE ""GERAE""",0,0,0,0,0
+Yuma,P05,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1248,1069,12,150,17
+Yuma,P08,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",642,588,6,46,2
+Yuma,P09,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1383,1114,19,228,22
+Yuma,P10,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",2298,1875,32,349,42
+Yuma,P11,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1211,953,19,205,34
+Yuma,P12,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1169,1010,7,131,21
+Yuma,P14,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",212,166,8,36,2
+Yuma,P15,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1141,942,18,169,12
+Yuma,P16,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",721,585,6,119,11
+Yuma,P17,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1710,1373,21,263,53
+Yuma,P18,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",196,154,3,38,1
+Yuma,P19,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",53,35,3,14,1
+Yuma,P20,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1319,893,27,336,63
+Yuma,P22,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1438,1127,21,250,40
+Yuma,P23,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1221,1051,11,147,12
+Yuma,P24,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",3296,2840,23,372,61
+Yuma,P25,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",1916,1612,23,252,29
+Yuma,P33,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",252,205,1,43,3
+Yuma,P34,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",472,393,2,72,5
+Yuma,P42,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",931,739,15,152,25
+Yuma,P43,State Representative Dist 13,,REP,"DUNN, TIMOTHY ""TIM""",18,13,0,3,2
+Yuma,P05,State Representative Dist 13,,REP,"OSBORNE, JOANNE",1057,903,6,129,19
+Yuma,P08,State Representative Dist 13,,REP,"OSBORNE, JOANNE",567,516,2,47,2
+Yuma,P09,State Representative Dist 13,,REP,"OSBORNE, JOANNE",1208,980,9,203,16
+Yuma,P10,State Representative Dist 13,,REP,"OSBORNE, JOANNE",2022,1661,20,316,25
+Yuma,P11,State Representative Dist 13,,REP,"OSBORNE, JOANNE",996,790,12,164,30
+Yuma,P12,State Representative Dist 13,,REP,"OSBORNE, JOANNE",986,848,5,119,14
+Yuma,P14,State Representative Dist 13,,REP,"OSBORNE, JOANNE",182,143,2,34,3
+Yuma,P15,State Representative Dist 13,,REP,"OSBORNE, JOANNE",984,817,9,151,7
+Yuma,P16,State Representative Dist 13,,REP,"OSBORNE, JOANNE",651,526,3,115,7
+Yuma,P17,State Representative Dist 13,,REP,"OSBORNE, JOANNE",1428,1166,11,211,40
+Yuma,P18,State Representative Dist 13,,REP,"OSBORNE, JOANNE",168,127,4,37,0
+Yuma,P19,State Representative Dist 13,,REP,"OSBORNE, JOANNE",41,26,2,13,0
+Yuma,P20,State Representative Dist 13,,REP,"OSBORNE, JOANNE",1118,749,18,293,58
+Yuma,P22,State Representative Dist 13,,REP,"OSBORNE, JOANNE",1159,899,15,219,26
+Yuma,P23,State Representative Dist 13,,REP,"OSBORNE, JOANNE",1094,947,8,134,5
+Yuma,P24,State Representative Dist 13,,REP,"OSBORNE, JOANNE",2905,2504,16,334,51
+Yuma,P25,State Representative Dist 13,,REP,"OSBORNE, JOANNE",1520,1279,10,209,22
+Yuma,P33,State Representative Dist 13,,REP,"OSBORNE, JOANNE",241,197,2,39,3
+Yuma,P34,State Representative Dist 13,,REP,"OSBORNE, JOANNE",418,344,1,69,4
+Yuma,P42,State Representative Dist 13,,REP,"OSBORNE, JOANNE",865,684,11,149,21
+Yuma,P43,State Representative Dist 13,,REP,"OSBORNE, JOANNE",15,11,0,3,1
+Yuma,P05,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",730,657,8,59,6
+Yuma,P08,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",397,365,5,16,11
+Yuma,P09,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",419,359,4,50,6
+Yuma,P10,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",1474,1280,21,156,17
+Yuma,P11,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",722,616,8,76,22
+Yuma,P12,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",574,490,7,65,12
+Yuma,P14,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",196,166,2,26,2
+Yuma,P15,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",813,710,13,74,16
+Yuma,P16,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",700,606,9,69,16
+Yuma,P17,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",846,721,8,87,30
+Yuma,P18,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",50,39,0,11,0
+Yuma,P19,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",51,43,1,7,0
+Yuma,P20,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",538,440,4,73,21
+Yuma,P22,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",867,749,8,89,21
+Yuma,P23,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",566,525,4,30,7
+Yuma,P24,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",1313,1228,5,75,5
+Yuma,P25,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",722,686,5,30,1
+Yuma,P33,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",195,174,2,15,4
+Yuma,P34,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",166,146,0,14,6
+Yuma,P42,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",1120,932,11,137,40
+Yuma,P43,State Representative Dist 13,,DEM,"SANDOVAL, MARIANA",11,11,0,0,0
+Yuma,P01,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",202,166,2,32,2
+Yuma,P02,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",302,237,4,56,5
+Yuma,P03,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",288,240,2,44,2
+Yuma,P04,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1000,818,15,152,15
+Yuma,P05,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1051,892,10,130,19
+Yuma,P06,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",472,350,7,99,16
+Yuma,P07,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",442,299,14,117,12
+Yuma,P08,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",543,493,4,44,2
+Yuma,P09,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1206,991,7,191,17
+Yuma,P10,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",2064,1705,24,310,25
+Yuma,P11,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",992,795,10,158,29
+Yuma,P12,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",999,869,6,106,18
+Yuma,P13,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",461,392,8,57,4
+Yuma,P14,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",163,124,3,33,3
+Yuma,P15,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",901,738,8,145,10
+Yuma,P16,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",644,526,6,104,8
+Yuma,P17,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1454,1185,16,212,41
+Yuma,P18,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",168,132,2,33,1
+Yuma,P19,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",46,31,3,12,0
+Yuma,P20,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1121,751,15,287,68
+Yuma,P21,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",0,0,0,0,0
+Yuma,P22,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1223,968,14,213,28
+Yuma,P23,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1033,902,3,121,7
+Yuma,P24,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",2856,2462,17,323,54
+Yuma,P25,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1596,1337,14,219,26
+Yuma,P26,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",152,123,1,22,6
+Yuma,P27,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",295,246,4,41,4
+Yuma,P28,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",150,123,2,22,3
+Yuma,P29,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",395,272,5,110,8
+Yuma,P30,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",392,282,10,89,11
+Yuma,P31,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",724,477,23,203,21
+Yuma,P32,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",293,237,2,50,4
+Yuma,P33,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",241,198,2,38,3
+Yuma,P34,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",418,348,1,67,2
+Yuma,P35,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",620,541,8,68,3
+Yuma,P36,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",714,610,6,87,11
+Yuma,P37,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",444,374,4,64,2
+Yuma,P38,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",546,456,5,78,7
+Yuma,P39,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",689,578,14,95,2
+Yuma,P40,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",680,565,10,101,4
+Yuma,P41,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",813,696,8,96,13
+Yuma,P42,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",839,662,11,140,26
+Yuma,P43,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",14,10,0,2,2
+Yuma,P44,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",0,0,0,0,0
+Yuma,P01,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",173,136,5,32,0
+Yuma,P02,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",282,221,6,50,5
+Yuma,P03,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",273,233,3,33,4
+Yuma,P04,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",893,730,13,141,9
+Yuma,P05,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1063,906,3,137,17
+Yuma,P06,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",387,302,2,75,8
+Yuma,P07,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",309,215,7,79,8
+Yuma,P08,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",583,530,5,46,2
+Yuma,P09,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1230,1004,11,200,15
+Yuma,P10,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",2031,1681,23,293,34
+Yuma,P11,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1019,794,14,181,30
+Yuma,P12,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",986,855,4,116,11
+Yuma,P13,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",431,359,8,60,4
+Yuma,P14,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",171,134,3,31,3
+Yuma,P15,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",925,762,11,144,8
+Yuma,P16,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",629,509,4,109,7
+Yuma,P17,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1545,1256,12,234,43
+Yuma,P18,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",171,137,4,29,1
+Yuma,P19,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",49,34,2,12,1
+Yuma,P20,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1257,850,21,322,64
+Yuma,P21,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",0,0,0,0,0
+Yuma,P22,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1246,978,17,226,25
+Yuma,P23,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1168,1007,9,142,10
+Yuma,P24,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",3074,2650,24,345,55
+Yuma,P25,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1715,1432,20,236,27
+Yuma,P26,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",149,116,1,28,4
+Yuma,P27,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",287,241,3,40,3
+Yuma,P28,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",125,102,2,18,3
+Yuma,P29,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",309,192,6,97,14
+Yuma,P30,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",257,166,10,69,12
+Yuma,P31,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",496,321,13,141,21
+Yuma,P32,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",273,226,3,42,2
+Yuma,P33,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",241,198,2,38,3
+Yuma,P34,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",413,345,1,63,4
+Yuma,P35,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",623,555,3,63,2
+Yuma,P36,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",670,573,5,84,8
+Yuma,P37,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",394,321,8,62,3
+Yuma,P38,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",566,467,5,91,3
+Yuma,P39,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",681,577,7,96,1
+Yuma,P40,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",677,572,9,91,5
+Yuma,P41,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",798,672,12,105,9
+Yuma,P42,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",739,581,14,124,20
+Yuma,P43,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",13,10,0,3,0
+Yuma,P44,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",0,0,0,0,0
+Yuma,P01,Corporation Commissioner,,REP,"SLOAN, ERIC",165,133,6,26,0
+Yuma,P02,Corporation Commissioner,,REP,"SLOAN, ERIC",250,187,4,54,5
+Yuma,P03,Corporation Commissioner,,REP,"SLOAN, ERIC",284,241,2,39,2
+Yuma,P04,Corporation Commissioner,,REP,"SLOAN, ERIC",807,666,10,121,10
+Yuma,P05,Corporation Commissioner,,REP,"SLOAN, ERIC",987,852,3,114,18
+Yuma,P06,Corporation Commissioner,,REP,"SLOAN, ERIC",404,298,11,84,11
+Yuma,P07,Corporation Commissioner,,REP,"SLOAN, ERIC",271,187,7,70,7
+Yuma,P08,Corporation Commissioner,,REP,"SLOAN, ERIC",536,488,2,45,1
+Yuma,P09,Corporation Commissioner,,REP,"SLOAN, ERIC",1179,960,14,189,16
+Yuma,P10,Corporation Commissioner,,REP,"SLOAN, ERIC",1865,1542,17,278,28
+Yuma,P11,Corporation Commissioner,,REP,"SLOAN, ERIC",935,742,14,152,27
+Yuma,P12,Corporation Commissioner,,REP,"SLOAN, ERIC",983,846,6,117,14
+Yuma,P13,Corporation Commissioner,,REP,"SLOAN, ERIC",385,331,5,45,4
+Yuma,P14,Corporation Commissioner,,REP,"SLOAN, ERIC",158,122,5,27,4
+Yuma,P15,Corporation Commissioner,,REP,"SLOAN, ERIC",915,751,8,146,10
+Yuma,P16,Corporation Commissioner,,REP,"SLOAN, ERIC",566,469,5,85,7
+Yuma,P17,Corporation Commissioner,,REP,"SLOAN, ERIC",1413,1158,12,204,39
+Yuma,P18,Corporation Commissioner,,REP,"SLOAN, ERIC",172,134,3,34,1
+Yuma,P19,Corporation Commissioner,,REP,"SLOAN, ERIC",40,25,2,13,0
+Yuma,P20,Corporation Commissioner,,REP,"SLOAN, ERIC",1140,760,21,301,58
+Yuma,P21,Corporation Commissioner,,REP,"SLOAN, ERIC",0,0,0,0,0
+Yuma,P22,Corporation Commissioner,,REP,"SLOAN, ERIC",1129,896,12,195,26
+Yuma,P23,Corporation Commissioner,,REP,"SLOAN, ERIC",1070,928,6,127,9
+Yuma,P24,Corporation Commissioner,,REP,"SLOAN, ERIC",3009,2607,19,326,57
+Yuma,P25,Corporation Commissioner,,REP,"SLOAN, ERIC",1559,1318,12,207,22
+Yuma,P26,Corporation Commissioner,,REP,"SLOAN, ERIC",131,105,2,21,3
+Yuma,P27,Corporation Commissioner,,REP,"SLOAN, ERIC",275,233,2,39,1
+Yuma,P28,Corporation Commissioner,,REP,"SLOAN, ERIC",114,97,1,13,3
+Yuma,P29,Corporation Commissioner,,REP,"SLOAN, ERIC",231,147,3,73,8
+Yuma,P30,Corporation Commissioner,,REP,"SLOAN, ERIC",274,191,5,66,12
+Yuma,P31,Corporation Commissioner,,REP,"SLOAN, ERIC",444,295,10,125,14
+Yuma,P32,Corporation Commissioner,,REP,"SLOAN, ERIC",253,208,2,40,3
+Yuma,P33,Corporation Commissioner,,REP,"SLOAN, ERIC",237,194,1,40,2
+Yuma,P34,Corporation Commissioner,,REP,"SLOAN, ERIC",389,324,2,61,2
+Yuma,P35,Corporation Commissioner,,REP,"SLOAN, ERIC",616,547,5,62,2
+Yuma,P36,Corporation Commissioner,,REP,"SLOAN, ERIC",648,559,2,81,6
+Yuma,P37,Corporation Commissioner,,REP,"SLOAN, ERIC",362,300,4,55,3
+Yuma,P38,Corporation Commissioner,,REP,"SLOAN, ERIC",514,427,5,79,3
+Yuma,P39,Corporation Commissioner,,REP,"SLOAN, ERIC",679,575,7,96,1
+Yuma,P40,Corporation Commissioner,,REP,"SLOAN, ERIC",631,534,5,87,5
+Yuma,P41,Corporation Commissioner,,REP,"SLOAN, ERIC",752,640,9,93,10
+Yuma,P42,Corporation Commissioner,,REP,"SLOAN, ERIC",769,607,16,127,19
+Yuma,P43,Corporation Commissioner,,REP,"SLOAN, ERIC",12,9,0,2,1
+Yuma,P44,Corporation Commissioner,,REP,"SLOAN, ERIC",0,0,0,0,0
+Yuma,P01,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",333,272,2,49,10
+Yuma,P02,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",349,291,6,44,8
+Yuma,P03,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",323,263,3,50,7
+Yuma,P04,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",1054,903,13,111,27
+Yuma,P05,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",533,485,4,39,5
+Yuma,P06,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",703,552,11,125,15
+Yuma,P07,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",972,768,6,171,27
+Yuma,P08,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",329,307,3,12,7
+Yuma,P09,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",321,271,4,42,4
+Yuma,P10,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",1076,943,9,117,7
+Yuma,P11,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",497,433,2,48,14
+Yuma,P12,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",431,378,3,42,8
+Yuma,P13,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",470,412,4,52,2
+Yuma,P14,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",133,115,1,15,2
+Yuma,P15,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",621,557,7,47,10
+Yuma,P16,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",472,412,4,50,6
+Yuma,P17,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",587,511,5,49,22
+Yuma,P18,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",38,30,0,8,0
+Yuma,P19,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",41,37,0,4,0
+Yuma,P20,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",377,321,3,44,9
+Yuma,P21,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",0,0,0,0,0
+Yuma,P22,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",632,552,3,64,13
+Yuma,P23,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",445,416,3,22,4
+Yuma,P24,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",1078,1015,1,58,4
+Yuma,P25,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",588,568,5,15,0
+Yuma,P26,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",212,180,2,25,5
+Yuma,P27,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",261,226,4,23,8
+Yuma,P28,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",211,167,4,34,6
+Yuma,P29,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",1155,927,18,181,29
+Yuma,P30,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",1062,885,16,142,19
+Yuma,P31,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",1637,1248,35,317,37
+Yuma,P32,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",355,298,5,47,5
+Yuma,P33,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",125,112,2,7,4
+Yuma,P34,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",135,121,0,10,4
+Yuma,P35,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",416,375,6,33,2
+Yuma,P36,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",578,499,4,65,10
+Yuma,P37,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",570,500,9,49,12
+Yuma,P38,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",534,455,6,63,10
+Yuma,P39,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",503,450,2,47,4
+Yuma,P40,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",529,486,4,34,5
+Yuma,P41,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",608,544,4,56,4
+Yuma,P42,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",740,627,5,87,21
+Yuma,P43,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",9,9,0,0,0
+Yuma,P44,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",0,0,0,0,0
+Yuma,P01,Corporation Commissioner,,DEM,"STANFIELD, SHEA",332,276,0,47,9
+Yuma,P02,Corporation Commissioner,,DEM,"STANFIELD, SHEA",324,269,7,41,7
+Yuma,P03,Corporation Commissioner,,DEM,"STANFIELD, SHEA",310,253,3,47,7
+Yuma,P04,Corporation Commissioner,,DEM,"STANFIELD, SHEA",964,829,7,105,23
+Yuma,P05,Corporation Commissioner,,DEM,"STANFIELD, SHEA",509,462,5,38,4
+Yuma,P06,Corporation Commissioner,,DEM,"STANFIELD, SHEA",669,526,10,111,22
+Yuma,P07,Corporation Commissioner,,DEM,"STANFIELD, SHEA",925,729,12,156,28
+Yuma,P08,Corporation Commissioner,,DEM,"STANFIELD, SHEA",314,296,4,9,5
+Yuma,P09,Corporation Commissioner,,DEM,"STANFIELD, SHEA",284,241,2,40,1
+Yuma,P10,Corporation Commissioner,,DEM,"STANFIELD, SHEA",1022,908,10,96,8
+Yuma,P11,Corporation Commissioner,,DEM,"STANFIELD, SHEA",461,387,4,52,18
+Yuma,P12,Corporation Commissioner,,DEM,"STANFIELD, SHEA",396,348,5,37,6
+Yuma,P13,Corporation Commissioner,,DEM,"STANFIELD, SHEA",441,377,6,53,5
+Yuma,P14,Corporation Commissioner,,DEM,"STANFIELD, SHEA",140,118,1,19,2
+Yuma,P15,Corporation Commissioner,,DEM,"STANFIELD, SHEA",586,520,8,46,12
+Yuma,P16,Corporation Commissioner,,DEM,"STANFIELD, SHEA",463,399,3,51,10
+Yuma,P17,Corporation Commissioner,,DEM,"STANFIELD, SHEA",589,508,5,57,19
+Yuma,P18,Corporation Commissioner,,DEM,"STANFIELD, SHEA",33,26,0,7,0
+Yuma,P19,Corporation Commissioner,,DEM,"STANFIELD, SHEA",34,28,1,5,0
+Yuma,P20,Corporation Commissioner,,DEM,"STANFIELD, SHEA",369,312,2,48,7
+Yuma,P21,Corporation Commissioner,,DEM,"STANFIELD, SHEA",0,0,0,0,0
+Yuma,P22,Corporation Commissioner,,DEM,"STANFIELD, SHEA",603,530,4,58,11
+Yuma,P23,Corporation Commissioner,,DEM,"STANFIELD, SHEA",434,405,2,23,4
+Yuma,P24,Corporation Commissioner,,DEM,"STANFIELD, SHEA",1030,970,3,53,4
+Yuma,P25,Corporation Commissioner,,DEM,"STANFIELD, SHEA",537,517,4,16,0
+Yuma,P26,Corporation Commissioner,,DEM,"STANFIELD, SHEA",216,186,2,23,5
+Yuma,P27,Corporation Commissioner,,DEM,"STANFIELD, SHEA",236,207,2,21,6
+Yuma,P28,Corporation Commissioner,,DEM,"STANFIELD, SHEA",192,152,5,30,5
+Yuma,P29,Corporation Commissioner,,DEM,"STANFIELD, SHEA",1166,931,23,179,33
+Yuma,P30,Corporation Commissioner,,DEM,"STANFIELD, SHEA",1033,873,10,133,17
+Yuma,P31,Corporation Commissioner,,DEM,"STANFIELD, SHEA",1597,1238,33,297,29
+Yuma,P32,Corporation Commissioner,,DEM,"STANFIELD, SHEA",350,285,5,53,7
+Yuma,P33,Corporation Commissioner,,DEM,"STANFIELD, SHEA",134,121,2,7,4
+Yuma,P34,Corporation Commissioner,,DEM,"STANFIELD, SHEA",130,114,0,11,5
+Yuma,P35,Corporation Commissioner,,DEM,"STANFIELD, SHEA",421,373,5,41,2
+Yuma,P36,Corporation Commissioner,,DEM,"STANFIELD, SHEA",551,477,4,59,11
+Yuma,P37,Corporation Commissioner,,DEM,"STANFIELD, SHEA",551,474,10,53,14
+Yuma,P38,Corporation Commissioner,,DEM,"STANFIELD, SHEA",529,443,6,70,10
+Yuma,P39,Corporation Commissioner,,DEM,"STANFIELD, SHEA",483,428,5,46,4
+Yuma,P40,Corporation Commissioner,,DEM,"STANFIELD, SHEA",489,445,3,35,6
+Yuma,P41,Corporation Commissioner,,DEM,"STANFIELD, SHEA",593,524,6,57,6
+Yuma,P42,Corporation Commissioner,,DEM,"STANFIELD, SHEA",721,608,6,84,23
+Yuma,P43,Corporation Commissioner,,DEM,"STANFIELD, SHEA",9,9,0,0,0
+Yuma,P44,Corporation Commissioner,,DEM,"STANFIELD, SHEA",0,0,0,0,0
+Yuma,P01,Corporation Commissioner,,DEM,"TOVAR, ANNA",473,389,3,67,14
+Yuma,P02,Corporation Commissioner,,DEM,"TOVAR, ANNA",484,401,7,62,14
+Yuma,P03,Corporation Commissioner,,DEM,"TOVAR, ANNA",485,401,9,64,11
+Yuma,P04,Corporation Commissioner,,DEM,"TOVAR, ANNA",1387,1201,14,141,31
+Yuma,P05,Corporation Commissioner,,DEM,"TOVAR, ANNA",687,619,9,52,7
+Yuma,P06,Corporation Commissioner,,DEM,"TOVAR, ANNA",1020,817,15,160,28
+Yuma,P07,Corporation Commissioner,,DEM,"TOVAR, ANNA",1465,1156,24,225,60
+Yuma,P08,Corporation Commissioner,,DEM,"TOVAR, ANNA",370,345,2,15,8
+Yuma,P09,Corporation Commissioner,,DEM,"TOVAR, ANNA",385,326,5,49,5
+Yuma,P10,Corporation Commissioner,,DEM,"TOVAR, ANNA",1346,1180,14,133,19
+Yuma,P11,Corporation Commissioner,,DEM,"TOVAR, ANNA",677,584,7,64,22
+Yuma,P12,Corporation Commissioner,,DEM,"TOVAR, ANNA",544,474,6,53,11
+Yuma,P13,Corporation Commissioner,,DEM,"TOVAR, ANNA",637,556,8,68,5
+Yuma,P14,Corporation Commissioner,,DEM,"TOVAR, ANNA",188,160,3,23,2
+Yuma,P15,Corporation Commissioner,,DEM,"TOVAR, ANNA",781,681,14,70,16
+Yuma,P16,Corporation Commissioner,,DEM,"TOVAR, ANNA",642,550,8,69,15
+Yuma,P17,Corporation Commissioner,,DEM,"TOVAR, ANNA",778,669,7,75,27
+Yuma,P18,Corporation Commissioner,,DEM,"TOVAR, ANNA",50,38,0,12,0
+Yuma,P19,Corporation Commissioner,,DEM,"TOVAR, ANNA",45,41,0,4,0
+Yuma,P20,Corporation Commissioner,,DEM,"TOVAR, ANNA",498,411,7,60,20
+Yuma,P21,Corporation Commissioner,,DEM,"TOVAR, ANNA",0,0,0,0,0
+Yuma,P22,Corporation Commissioner,,DEM,"TOVAR, ANNA",778,673,11,77,17
+Yuma,P23,Corporation Commissioner,,DEM,"TOVAR, ANNA",517,481,3,27,6
+Yuma,P24,Corporation Commissioner,,DEM,"TOVAR, ANNA",1209,1128,2,73,6
+Yuma,P25,Corporation Commissioner,,DEM,"TOVAR, ANNA",692,663,6,22,1
+Yuma,P26,Corporation Commissioner,,DEM,"TOVAR, ANNA",318,272,5,32,9
+Yuma,P27,Corporation Commissioner,,DEM,"TOVAR, ANNA",357,306,5,38,8
+Yuma,P28,Corporation Commissioner,,DEM,"TOVAR, ANNA",298,241,7,43,7
+Yuma,P29,Corporation Commissioner,,DEM,"TOVAR, ANNA",1704,1361,29,262,52
+Yuma,P30,Corporation Commissioner,,DEM,"TOVAR, ANNA",1482,1224,18,212,28
+Yuma,P31,Corporation Commissioner,,DEM,"TOVAR, ANNA",2379,1887,50,384,58
+Yuma,P32,Corporation Commissioner,,DEM,"TOVAR, ANNA",515,420,11,75,9
+Yuma,P33,Corporation Commissioner,,DEM,"TOVAR, ANNA",187,170,2,10,5
+Yuma,P34,Corporation Commissioner,,DEM,"TOVAR, ANNA",167,144,0,17,6
+Yuma,P35,Corporation Commissioner,,DEM,"TOVAR, ANNA",567,496,11,54,6
+Yuma,P36,Corporation Commissioner,,DEM,"TOVAR, ANNA",777,669,10,79,19
+Yuma,P37,Corporation Commissioner,,DEM,"TOVAR, ANNA",753,655,17,65,16
+Yuma,P38,Corporation Commissioner,,DEM,"TOVAR, ANNA",745,646,8,77,14
+Yuma,P39,Corporation Commissioner,,DEM,"TOVAR, ANNA",669,588,10,64,7
+Yuma,P40,Corporation Commissioner,,DEM,"TOVAR, ANNA",666,595,9,52,10
+Yuma,P41,Corporation Commissioner,,DEM,"TOVAR, ANNA",841,747,9,77,8
+Yuma,P42,Corporation Commissioner,,DEM,"TOVAR, ANNA",1061,891,11,119,40
+Yuma,P43,Corporation Commissioner,,DEM,"TOVAR, ANNA",12,11,0,0,1
+Yuma,P44,Corporation Commissioner,,DEM,"TOVAR, ANNA",0,0,0,0,0
+Yuma,P01,Board of Supervisors Dist 1,,DEM,"PORCHAS, MARTIN",611,498,8,89,16
+Yuma,P02,Board of Supervisors Dist 1,,DEM,"PORCHAS, MARTIN",706,566,17,107,16
+Yuma,P03,Board of Supervisors Dist 1,,DEM,"PORCHAS, MARTIN",692,558,12,105,17
+Yuma,P04,Board of Supervisors Dist 1,,DEM,"PORCHAS, MARTIN",2098,1753,32,275,38
+Yuma,P05,Board of Supervisors Dist 1,,DEM,"PORCHAS, MARTIN",1213,1054,18,133,8
+Yuma,P06,Board of Supervisors Dist 1,,DEM,"PORCHAS, MARTIN",1350,1038,28,239,45
+Yuma,P07,Board of Supervisors Dist 1,,DEM,"PORCHAS, MARTIN",1875,1421,41,346,67
+Yuma,P08,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",804,729,9,57,9
+Yuma,P09,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",1624,1314,22,263,25
+Yuma,P10,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",3142,2588,47,455,52
+Yuma,P11,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",1544,1215,24,258,47
+Yuma,P12,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",1411,1198,14,176,23
+Yuma,P13,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",918,767,21,122,8
+Yuma,P14,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",320,259,6,52,3
+Yuma,P15,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",1507,1256,25,208,18
+Yuma,P16,Board of Supervisors Dist 2,,REP,"LINES, JONATHAN W.",1093,891,12,168,22
+Yuma,P17,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",2185,1772,28,317,68
+Yuma,P18,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",224,173,5,45,1
+Yuma,P19,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",90,66,3,20,1
+Yuma,P20,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",1686,1165,33,401,87
+Yuma,P21,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",0,0,0,0,0
+Yuma,P22,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",1871,1493,28,306,44
+Yuma,P23,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",1542,1339,14,175,14
+Yuma,P24,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",4142,3598,25,451,68
+Yuma,P25,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",2233,1903,27,274,29
+Yuma,P44,Board of Supervisors Dist 3,,REP,"SIMMONS, DARREN",0,0,0,0,0
+Yuma,P26,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",441,369,7,49,16
+Yuma,P27,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",544,467,7,58,12
+Yuma,P28,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",382,311,10,52,9
+Yuma,P29,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",1966,1512,42,346,66
+Yuma,P30,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",1715,1382,34,266,33
+Yuma,P31,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",2822,2143,77,527,75
+Yuma,P32,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",707,564,14,118,11
+Yuma,P33,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",304,262,2,35,5
+Yuma,P34,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",357,295,0,54,8
+Yuma,P43,Board of Supervisors Dist 4,,DEM,"REYES, MARCO A. (TONY)",14,11,0,1,2
+Yuma,P35,Board of Supervisors Dist 5,,REP,"MISENHIMER, PAGE",690,605,12,68,5
+Yuma,P36,Board of Supervisors Dist 5,,REP,"MISENHIMER, PAGE",735,637,9,80,9
+Yuma,P37,Board of Supervisors Dist 5,,REP,"MISENHIMER, PAGE",443,360,9,69,5
+Yuma,P38,Board of Supervisors Dist 5,,REP,"MISENHIMER, PAGE",580,471,10,91,8
+Yuma,P39,Board of Supervisors Dist 5,,REP,"MISENHIMER, PAGE",734,616,12,102,4
+Yuma,P40,Board of Supervisors Dist 5,,REP,"MISENHIMER, PAGE",710,596,10,97,7
+Yuma,P41,Board of Supervisors Dist 5,,REP,"MISENHIMER, PAGE",849,717,13,106,13
+Yuma,P42,Board of Supervisors Dist 5,,REP,"MISENHIMER, PAGE",854,653,24,150,27
+Yuma,P35,Board of Supervisors Dist 5,,DEM,"PANCRAZI, LYNNE",704,621,12,64,7
+Yuma,P36,Board of Supervisors Dist 5,,DEM,"PANCRAZI, LYNNE",967,821,14,108,24
+Yuma,P37,Board of Supervisors Dist 5,,DEM,"PANCRAZI, LYNNE",937,806,22,88,21
+Yuma,P38,Board of Supervisors Dist 5,,DEM,"PANCRAZI, LYNNE",940,811,11,103,15
+Yuma,P39,Board of Supervisors Dist 5,,DEM,"PANCRAZI, LYNNE",825,723,11,82,9
+Yuma,P40,Board of Supervisors Dist 5,,DEM,"PANCRAZI, LYNNE",828,730,14,73,11
+Yuma,P41,Board of Supervisors Dist 5,,DEM,"PANCRAZI, LYNNE",1009,895,9,92,13
+Yuma,P42,Board of Supervisors Dist 5,,DEM,"PANCRAZI, LYNNE",1226,1039,12,136,39
+Yuma,P01,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",256,207,5,42,2
+Yuma,P02,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",390,305,6,71,8
+Yuma,P03,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",367,299,8,56,4
+Yuma,P04,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1187,981,18,171,17
+Yuma,P05,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1238,1054,12,151,21
+Yuma,P06,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",554,411,12,111,20
+Yuma,P07,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",506,350,16,126,14
+Yuma,P08,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",645,588,7,47,3
+Yuma,P09,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1436,1161,26,228,21
+Yuma,P10,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",2476,2035,43,357,41
+Yuma,P11,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1242,981,22,204,35
+Yuma,P12,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1152,989,9,136,18
+Yuma,P13,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",546,466,14,62,4
+Yuma,P14,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",204,158,7,36,3
+Yuma,P15,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1130,931,19,168,12
+Yuma,P16,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",751,617,8,116,10
+Yuma,P17,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1793,1453,27,262,51
+Yuma,P18,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",202,160,4,37,1
+Yuma,P19,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",57,39,3,14,1
+Yuma,P20,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1405,950,29,352,74
+Yuma,P21,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",0,0,0,0,0
+Yuma,P22,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1498,1167,30,264,37
+Yuma,P23,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1282,1097,13,159,13
+Yuma,P24,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",3557,3052,30,411,64
+Yuma,P25,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1963,1647,27,256,33
+Yuma,P26,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",205,167,4,29,5
+Yuma,P27,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",370,310,7,49,4
+Yuma,P28,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",182,151,4,22,5
+Yuma,P29,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",403,256,9,123,15
+Yuma,P30,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",394,288,12,83,11
+Yuma,P31,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",746,508,21,192,25
+Yuma,P32,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",342,274,4,57,7
+Yuma,P33,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",287,234,3,48,2
+Yuma,P34,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",484,406,2,71,5
+Yuma,P35,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",806,705,15,80,6
+Yuma,P36,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",852,742,9,89,12
+Yuma,P37,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",535,444,12,73,6
+Yuma,P38,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",706,584,9,106,7
+Yuma,P39,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",832,705,11,114,2
+Yuma,P40,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",840,705,13,111,11
+Yuma,P41,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",1014,858,15,122,19
+Yuma,P42,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",976,764,27,157,28
+Yuma,P43,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",16,12,0,3,1
+Yuma,P44,County Assessor,,REP,"MORRIS CLARKSON, VICTORIA",0,0,0,0,0
+Yuma,P01,County Assessor,,DEM,"ALEXANDRE, DAVID",496,402,7,71,16
+Yuma,P02,County Assessor,,DEM,"ALEXANDRE, DAVID",491,401,14,63,13
+Yuma,P03,County Assessor,,DEM,"ALEXANDRE, DAVID",520,424,10,73,13
+Yuma,P04,County Assessor,,DEM,"ALEXANDRE, DAVID",1453,1252,22,150,29
+Yuma,P05,County Assessor,,DEM,"ALEXANDRE, DAVID",656,588,9,54,5
+Yuma,P06,County Assessor,,DEM,"ALEXANDRE, DAVID",1032,816,20,172,24
+Yuma,P07,County Assessor,,DEM,"ALEXANDRE, DAVID",1527,1195,29,246,57
+Yuma,P08,County Assessor,,DEM,"ALEXANDRE, DAVID",394,361,5,17,11
+Yuma,P09,County Assessor,,DEM,"ALEXANDRE, DAVID",382,323,6,46,7
+Yuma,P10,County Assessor,,DEM,"ALEXANDRE, DAVID",1379,1204,23,136,16
+Yuma,P11,County Assessor,,DEM,"ALEXANDRE, DAVID",658,551,8,78,21
+Yuma,P12,County Assessor,,DEM,"ALEXANDRE, DAVID",526,454,5,57,10
+Yuma,P13,County Assessor,,DEM,"ALEXANDRE, DAVID",691,590,10,84,7
+Yuma,P14,County Assessor,,DEM,"ALEXANDRE, DAVID",201,169,3,26,3
+Yuma,P15,County Assessor,,DEM,"ALEXANDRE, DAVID",782,680,13,75,14
+Yuma,P16,County Assessor,,DEM,"ALEXANDRE, DAVID",670,580,8,68,14
+Yuma,P17,County Assessor,,DEM,"ALEXANDRE, DAVID",806,692,8,77,29
+Yuma,P18,County Assessor,,DEM,"ALEXANDRE, DAVID",48,38,1,9,0
+Yuma,P19,County Assessor,,DEM,"ALEXANDRE, DAVID",51,44,1,6,0
+Yuma,P20,County Assessor,,DEM,"ALEXANDRE, DAVID",494,414,6,63,11
+Yuma,P21,County Assessor,,DEM,"ALEXANDRE, DAVID",0,0,0,0,0
+Yuma,P22,County Assessor,,DEM,"ALEXANDRE, DAVID",798,696,8,75,19
+Yuma,P23,County Assessor,,DEM,"ALEXANDRE, DAVID",552,517,4,26,5
+Yuma,P24,County Assessor,,DEM,"ALEXANDRE, DAVID",1252,1175,4,70,3
+Yuma,P25,County Assessor,,DEM,"ALEXANDRE, DAVID",671,639,4,27,1
+Yuma,P26,County Assessor,,DEM,"ALEXANDRE, DAVID",339,292,4,31,12
+Yuma,P27,County Assessor,,DEM,"ALEXANDRE, DAVID",362,314,5,35,8
+Yuma,P28,County Assessor,,DEM,"ALEXANDRE, DAVID",301,243,7,45,6
+Yuma,P29,County Assessor,,DEM,"ALEXANDRE, DAVID",1787,1425,38,266,58
+Yuma,P30,County Assessor,,DEM,"ALEXANDRE, DAVID",1513,1242,27,215,29
+Yuma,P31,County Assessor,,DEM,"ALEXANDRE, DAVID",2423,1892,63,414,54
+Yuma,P32,County Assessor,,DEM,"ALEXANDRE, DAVID",536,435,12,83,6
+Yuma,P33,County Assessor,,DEM,"ALEXANDRE, DAVID",172,155,2,10,5
+Yuma,P34,County Assessor,,DEM,"ALEXANDRE, DAVID",154,136,0,13,5
+Yuma,P35,County Assessor,,DEM,"ALEXANDRE, DAVID",555,490,10,50,5
+Yuma,P36,County Assessor,,DEM,"ALEXANDRE, DAVID",828,693,15,99,21
+Yuma,P37,County Assessor,,DEM,"ALEXANDRE, DAVID",830,708,20,82,20
+Yuma,P38,County Assessor,,DEM,"ALEXANDRE, DAVID",788,672,13,87,16
+Yuma,P39,County Assessor,,DEM,"ALEXANDRE, DAVID",681,592,15,68,6
+Yuma,P40,County Assessor,,DEM,"ALEXANDRE, DAVID",675,601,12,55,7
+Yuma,P41,County Assessor,,DEM,"ALEXANDRE, DAVID",806,714,8,76,8
+Yuma,P42,County Assessor,,DEM,"ALEXANDRE, DAVID",1074,903,10,126,35
+Yuma,P43,County Assessor,,DEM,"ALEXANDRE, DAVID",11,11,0,0,0
+Yuma,P44,County Assessor,,DEM,"ALEXANDRE, DAVID",0,0,0,0,0
+Yuma,P01,County Attorney,,DEM,"SMITH, JON R.",623,503,9,94,17
+Yuma,P02,County Attorney,,DEM,"SMITH, JON R.",725,583,16,110,16
+Yuma,P03,County Attorney,,DEM,"SMITH, JON R.",700,563,13,107,17
+Yuma,P04,County Attorney,,DEM,"SMITH, JON R.",2145,1809,32,266,38
+Yuma,P05,County Attorney,,DEM,"SMITH, JON R.",1287,1127,18,131,11
+Yuma,P06,County Attorney,,DEM,"SMITH, JON R.",1326,1021,25,240,40
+Yuma,P07,County Attorney,,DEM,"SMITH, JON R.",1848,1407,40,337,64
+Yuma,P08,County Attorney,,DEM,"SMITH, JON R.",740,674,6,47,13
+Yuma,P09,County Attorney,,DEM,"SMITH, JON R.",1116,899,15,185,17
+Yuma,P10,County Attorney,,DEM,"SMITH, JON R.",2622,2191,47,350,34
+Yuma,P11,County Attorney,,DEM,"SMITH, JON R.",1350,1108,17,188,37
+Yuma,P12,County Attorney,,DEM,"SMITH, JON R.",1138,993,9,121,15
+Yuma,P13,County Attorney,,DEM,"SMITH, JON R.",1002,862,17,114,9
+Yuma,P14,County Attorney,,DEM,"SMITH, JON R.",315,265,6,39,5
+Yuma,P15,County Attorney,,DEM,"SMITH, JON R.",1415,1202,24,170,19
+Yuma,P16,County Attorney,,DEM,"SMITH, JON R.",1118,951,12,138,17
+Yuma,P17,County Attorney,,DEM,"SMITH, JON R.",1670,1378,21,217,54
+Yuma,P18,County Attorney,,DEM,"SMITH, JON R.",140,106,4,30,0
+Yuma,P19,County Attorney,,DEM,"SMITH, JON R.",68,56,2,9,1
+Yuma,P20,County Attorney,,DEM,"SMITH, JON R.",1157,865,22,222,48
+Yuma,P21,County Attorney,,DEM,"SMITH, JON R.",0,0,0,0,0
+Yuma,P22,County Attorney,,DEM,"SMITH, JON R.",1544,1272,23,218,31
+Yuma,P23,County Attorney,,DEM,"SMITH, JON R.",1130,1003,9,109,9
+Yuma,P24,County Attorney,,DEM,"SMITH, JON R.",2735,2437,17,257,24
+Yuma,P25,County Attorney,,DEM,"SMITH, JON R.",1619,1421,16,161,21
+Yuma,P26,County Attorney,,DEM,"SMITH, JON R.",462,388,7,50,17
+Yuma,P27,County Attorney,,DEM,"SMITH, JON R.",550,470,7,61,12
+Yuma,P28,County Attorney,,DEM,"SMITH, JON R.",414,336,10,58,10
+Yuma,P29,County Attorney,,DEM,"SMITH, JON R.",2050,1589,42,355,64
+Yuma,P30,County Attorney,,DEM,"SMITH, JON R.",1736,1402,34,269,31
+Yuma,P31,County Attorney,,DEM,"SMITH, JON R.",2924,2230,78,537,79
+Yuma,P32,County Attorney,,DEM,"SMITH, JON R.",710,570,14,115,11
+Yuma,P33,County Attorney,,DEM,"SMITH, JON R.",324,279,4,36,5
+Yuma,P34,County Attorney,,DEM,"SMITH, JON R.",398,330,0,60,8
+Yuma,P35,County Attorney,,DEM,"SMITH, JON R.",959,835,20,95,9
+Yuma,P36,County Attorney,,DEM,"SMITH, JON R.",1270,1084,19,139,28
+Yuma,P37,County Attorney,,DEM,"SMITH, JON R.",1123,952,28,120,23
+Yuma,P38,County Attorney,,DEM,"SMITH, JON R.",1145,962,18,149,16
+Yuma,P39,County Attorney,,DEM,"SMITH, JON R.",1160,989,21,142,8
+Yuma,P40,County Attorney,,DEM,"SMITH, JON R.",1142,987,19,122,14
+Yuma,P41,County Attorney,,DEM,"SMITH, JON R.",1390,1207,17,146,20
+Yuma,P42,County Attorney,,DEM,"SMITH, JON R.",1585,1295,20,216,54
+Yuma,P43,County Attorney,,DEM,"SMITH, JON R.",17,14,0,1,2
+Yuma,P44,County Attorney,,DEM,"SMITH, JON R.",0,0,0,0,0
+Yuma,P01,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",568,454,9,95,10
+Yuma,P02,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",713,567,16,114,16
+Yuma,P03,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",695,572,12,96,15
+Yuma,P04,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",2075,1723,32,278,42
+Yuma,P05,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1642,1422,17,185,18
+Yuma,P06,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1163,897,18,213,35
+Yuma,P07,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1393,1028,37,276,52
+Yuma,P08,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",873,798,9,57,9
+Yuma,P09,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1695,1381,25,264,25
+Yuma,P10,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",3265,2703,57,456,49
+Yuma,P11,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1591,1261,25,256,49
+Yuma,P12,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1498,1280,13,179,26
+Yuma,P13,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",975,821,21,123,10
+Yuma,P14,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",337,274,8,51,4
+Yuma,P15,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1587,1328,27,211,21
+Yuma,P16,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1163,963,12,168,20
+Yuma,P17,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",2228,1809,29,319,71
+Yuma,P18,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",224,174,5,44,1
+Yuma,P19,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",85,60,4,20,1
+Yuma,P20,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1662,1164,32,389,77
+Yuma,P21,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",0,0,0,0,0
+Yuma,P22,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1922,1536,33,308,45
+Yuma,P23,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1572,1366,16,173,17
+Yuma,P24,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",4232,3680,32,452,68
+Yuma,P25,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",2299,1963,29,275,32
+Yuma,P26,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",433,366,5,52,10
+Yuma,P27,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",603,516,7,74,6
+Yuma,P28,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",348,293,7,42,6
+Yuma,P29,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1377,1027,29,280,41
+Yuma,P30,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1231,959,26,221,25
+Yuma,P31,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",2157,1618,55,429,55
+Yuma,P32,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",648,519,8,108,13
+Yuma,P33,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",378,314,4,56,4
+Yuma,P34,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",575,487,2,78,8
+Yuma,P35,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1160,1012,24,113,11
+Yuma,P36,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1389,1182,18,164,25
+Yuma,P37,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1089,923,28,125,13
+Yuma,P38,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1187,990,18,160,19
+Yuma,P39,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1283,1095,20,160,8
+Yuma,P40,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1269,1088,21,145,15
+Yuma,P41,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1552,1336,18,174,24
+Yuma,P42,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",1636,1315,33,236,52
+Yuma,P43,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",26,21,0,3,2
+Yuma,P44,County Recorder,,REP,"STALLWORTH POUQUETTE, ROBYN",0,0,0,0,0
+Yuma,P01,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",550,437,10,93,10
+Yuma,P02,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",689,548,16,112,13
+Yuma,P03,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",690,564,10,100,16
+Yuma,P04,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",2059,1703,31,282,43
+Yuma,P05,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1597,1376,15,185,21
+Yuma,P06,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1136,866,18,217,35
+Yuma,P07,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1388,1020,36,280,52
+Yuma,P08,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",839,765,9,56,9
+Yuma,P09,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1664,1346,25,268,25
+Yuma,P10,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",3202,2640,56,456,50
+Yuma,P11,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1561,1234,25,254,48
+Yuma,P12,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1455,1235,14,179,27
+Yuma,P13,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",972,815,21,128,8
+Yuma,P14,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",333,269,8,52,4
+Yuma,P15,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1549,1287,26,216,20
+Yuma,P16,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1122,923,11,168,20
+Yuma,P17,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",2166,1747,30,320,69
+Yuma,P18,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",217,168,5,43,1
+Yuma,P19,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",86,62,4,19,1
+Yuma,P20,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1627,1130,31,388,78
+Yuma,P21,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",0,0,0,0,0
+Yuma,P22,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1877,1493,31,309,44
+Yuma,P23,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1517,1314,15,172,16
+Yuma,P24,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",4099,3552,31,451,65
+Yuma,P25,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",2249,1912,26,279,32
+Yuma,P26,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",428,361,6,52,9
+Yuma,P27,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",592,503,9,74,6
+Yuma,P28,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",343,292,7,39,5
+Yuma,P29,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1383,1033,29,281,40
+Yuma,P30,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1209,936,25,221,27
+Yuma,P31,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",2138,1588,56,440,54
+Yuma,P32,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",649,519,7,110,13
+Yuma,P33,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",380,315,4,57,4
+Yuma,P34,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",551,463,2,78,8
+Yuma,P35,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1121,974,23,114,10
+Yuma,P36,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1337,1139,17,157,24
+Yuma,P37,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1050,884,28,126,12
+Yuma,P38,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1150,955,17,161,17
+Yuma,P39,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1261,1069,20,162,10
+Yuma,P40,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1226,1042,20,149,15
+Yuma,P41,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1504,1289,16,174,25
+Yuma,P42,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",1601,1281,34,239,47
+Yuma,P43,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",24,19,0,3,2
+Yuma,P44,County School Superintendent,,REP,"TYREE, THOMAS (TOM)",0,0,0,0,0
+Yuma,P01,County Sheriff,,REP,"WILMOT, LEON",245,201,5,38,1
+Yuma,P02,County Sheriff,,REP,"WILMOT, LEON",355,284,6,58,7
+Yuma,P03,County Sheriff,,REP,"WILMOT, LEON",363,309,4,47,3
+Yuma,P04,County Sheriff,,REP,"WILMOT, LEON",1092,913,17,145,17
+Yuma,P05,County Sheriff,,REP,"WILMOT, LEON",1193,1026,11,137,19
+Yuma,P06,County Sheriff,,REP,"WILMOT, LEON",510,386,12,103,9
+Yuma,P07,County Sheriff,,REP,"WILMOT, LEON",447,318,10,103,16
+Yuma,P08,County Sheriff,,REP,"WILMOT, LEON",660,602,7,47,4
+Yuma,P09,County Sheriff,,REP,"WILMOT, LEON",1440,1170,27,222,21
+Yuma,P10,County Sheriff,,REP,"WILMOT, LEON",2395,1985,36,331,43
+Yuma,P11,County Sheriff,,REP,"WILMOT, LEON",1184,933,24,190,37
+Yuma,P12,County Sheriff,,REP,"WILMOT, LEON",1130,978,8,131,13
+Yuma,P13,County Sheriff,,REP,"WILMOT, LEON",529,448,15,62,4
+Yuma,P14,County Sheriff,,REP,"WILMOT, LEON",201,160,4,33,4
+Yuma,P15,County Sheriff,,REP,"WILMOT, LEON",1113,924,16,163,10
+Yuma,P16,County Sheriff,,REP,"WILMOT, LEON",716,600,7,101,8
+Yuma,P17,County Sheriff,,REP,"WILMOT, LEON",1766,1444,25,244,53
+Yuma,P18,County Sheriff,,REP,"WILMOT, LEON",206,165,4,36,1
+Yuma,P19,County Sheriff,,REP,"WILMOT, LEON",64,46,3,14,1
+Yuma,P20,County Sheriff,,REP,"WILMOT, LEON",1398,965,29,340,64
+Yuma,P21,County Sheriff,,REP,"WILMOT, LEON",0,0,0,0,0
+Yuma,P22,County Sheriff,,REP,"WILMOT, LEON",1465,1165,27,238,35
+Yuma,P23,County Sheriff,,REP,"WILMOT, LEON",1310,1136,14,149,11
+Yuma,P24,County Sheriff,,REP,"WILMOT, LEON",3680,3179,32,404,65
+Yuma,P25,County Sheriff,,REP,"WILMOT, LEON",1998,1693,23,250,32
+Yuma,P26,County Sheriff,,REP,"WILMOT, LEON",179,144,2,31,2
+Yuma,P27,County Sheriff,,REP,"WILMOT, LEON",353,300,6,43,4
+Yuma,P28,County Sheriff,,REP,"WILMOT, LEON",170,149,1,17,3
+Yuma,P29,County Sheriff,,REP,"WILMOT, LEON",330,223,6,89,12
+Yuma,P30,County Sheriff,,REP,"WILMOT, LEON",319,233,9,66,11
+Yuma,P31,County Sheriff,,REP,"WILMOT, LEON",590,385,23,161,21
+Yuma,P32,County Sheriff,,REP,"WILMOT, LEON",325,269,3,47,6
+Yuma,P33,County Sheriff,,REP,"WILMOT, LEON",278,229,2,44,3
+Yuma,P34,County Sheriff,,REP,"WILMOT, LEON",483,406,2,71,4
+Yuma,P35,County Sheriff,,REP,"WILMOT, LEON",769,680,13,70,6
+Yuma,P36,County Sheriff,,REP,"WILMOT, LEON",822,715,6,90,11
+Yuma,P37,County Sheriff,,REP,"WILMOT, LEON",516,436,11,63,6
+Yuma,P38,County Sheriff,,REP,"WILMOT, LEON",691,576,9,99,7
+Yuma,P39,County Sheriff,,REP,"WILMOT, LEON",831,710,11,106,4
+Yuma,P40,County Sheriff,,REP,"WILMOT, LEON",810,687,12,102,9
+Yuma,P41,County Sheriff,,REP,"WILMOT, LEON",939,812,9,102,16
+Yuma,P42,County Sheriff,,REP,"WILMOT, LEON",932,734,27,146,25
+Yuma,P43,County Sheriff,,REP,"WILMOT, LEON",18,13,0,3,2
+Yuma,P44,County Sheriff,,REP,"WILMOT, LEON",0,0,0,0,0
+Yuma,P01,County Sheriff,,DEM,"MARTINEZ, MARK",516,414,8,77,17
+Yuma,P02,County Sheriff,,DEM,"MARTINEZ, MARK",555,447,14,81,13
+Yuma,P03,County Sheriff,,DEM,"MARTINEZ, MARK",543,434,12,82,15
+Yuma,P04,County Sheriff,,DEM,"MARTINEZ, MARK",1613,1371,26,185,31
+Yuma,P05,County Sheriff,,DEM,"MARTINEZ, MARK",766,680,10,68,8
+Yuma,P06,County Sheriff,,DEM,"MARTINEZ, MARK",1126,880,19,189,38
+Yuma,P07,County Sheriff,,DEM,"MARTINEZ, MARK",1634,1262,36,281,55
+Yuma,P08,County Sheriff,,DEM,"MARTINEZ, MARK",398,361,5,22,10
+Yuma,P09,County Sheriff,,DEM,"MARTINEZ, MARK",433,362,5,58,8
+Yuma,P10,County Sheriff,,DEM,"MARTINEZ, MARK",1561,1336,32,176,17
+Yuma,P11,County Sheriff,,DEM,"MARTINEZ, MARK",772,645,8,99,20
+Yuma,P12,County Sheriff,,DEM,"MARTINEZ, MARK",590,505,7,63,15
+Yuma,P13,County Sheriff,,DEM,"MARTINEZ, MARK",740,636,10,87,7
+Yuma,P14,County Sheriff,,DEM,"MARTINEZ, MARK",217,179,5,31,2
+Yuma,P15,County Sheriff,,DEM,"MARTINEZ, MARK",846,727,17,85,17
+Yuma,P16,County Sheriff,,DEM,"MARTINEZ, MARK",726,615,9,83,19
+Yuma,P17,County Sheriff,,DEM,"MARTINEZ, MARK",899,754,13,101,31
+Yuma,P18,County Sheriff,,DEM,"MARTINEZ, MARK",51,39,1,11,0
+Yuma,P19,County Sheriff,,DEM,"MARTINEZ, MARK",46,39,1,6,0
+Yuma,P20,County Sheriff,,DEM,"MARTINEZ, MARK",560,447,9,79,25
+Yuma,P21,County Sheriff,,DEM,"MARTINEZ, MARK",0,0,0,0,0
+Yuma,P22,County Sheriff,,DEM,"MARTINEZ, MARK",883,742,13,106,22
+Yuma,P23,County Sheriff,,DEM,"MARTINEZ, MARK",568,518,4,39,7
+Yuma,P24,County Sheriff,,DEM,"MARTINEZ, MARK",1272,1179,3,85,5
+Yuma,P25,County Sheriff,,DEM,"MARTINEZ, MARK",716,666,9,39,2
+Yuma,P26,County Sheriff,,DEM,"MARTINEZ, MARK",380,326,6,33,15
+Yuma,P27,County Sheriff,,DEM,"MARTINEZ, MARK",393,337,7,41,8
+Yuma,P28,County Sheriff,,DEM,"MARTINEZ, MARK",316,251,10,47,8
+Yuma,P29,County Sheriff,,DEM,"MARTINEZ, MARK",1910,1495,41,311,63
+Yuma,P30,County Sheriff,,DEM,"MARTINEZ, MARK",1617,1319,28,240,30
+Yuma,P31,County Sheriff,,DEM,"MARTINEZ, MARK",2654,2067,67,456,64
+Yuma,P32,County Sheriff,,DEM,"MARTINEZ, MARK",579,457,15,97,10
+Yuma,P33,County Sheriff,,DEM,"MARTINEZ, MARK",191,169,3,15,4
+Yuma,P34,County Sheriff,,DEM,"MARTINEZ, MARK",174,153,0,14,7
+Yuma,P35,County Sheriff,,DEM,"MARTINEZ, MARK",634,549,15,64,6
+Yuma,P36,County Sheriff,,DEM,"MARTINEZ, MARK",877,739,15,100,23
+Yuma,P37,County Sheriff,,DEM,"MARTINEZ, MARK",877,743,22,91,21
+Yuma,P38,County Sheriff,,DEM,"MARTINEZ, MARK",825,696,12,100,17
+Yuma,P39,County Sheriff,,DEM,"MARTINEZ, MARK",725,617,17,81,10
+Yuma,P40,County Sheriff,,DEM,"MARTINEZ, MARK",738,641,13,74,10
+Yuma,P41,County Sheriff,,DEM,"MARTINEZ, MARK",920,802,11,97,10
+Yuma,P42,County Sheriff,,DEM,"MARTINEZ, MARK",1176,974,13,149,40
+Yuma,P43,County Sheriff,,DEM,"MARTINEZ, MARK",9,9,0,0,0
+Yuma,P44,County Sheriff,,DEM,"MARTINEZ, MARK",0,0,0,0,0
+Yuma,P01,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",643,524,10,92,17
+Yuma,P02,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",724,581,16,111,16
+Yuma,P03,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",712,577,13,105,17
+Yuma,P04,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",2188,1843,33,271,41
+Yuma,P05,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1319,1151,18,137,13
+Yuma,P06,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1377,1067,28,240,42
+Yuma,P07,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1873,1432,38,337,66
+Yuma,P08,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",752,686,6,48,12
+Yuma,P09,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1147,923,15,190,19
+Yuma,P10,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",2666,2228,47,351,40
+Yuma,P11,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1350,1091,20,204,35
+Yuma,P12,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1179,1021,9,132,17
+Yuma,P13,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1043,902,18,113,10
+Yuma,P14,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",331,277,6,44,4
+Yuma,P15,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1415,1195,27,174,19
+Yuma,P16,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1127,955,13,139,20
+Yuma,P17,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1705,1406,20,226,53
+Yuma,P18,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",152,115,3,34,0
+Yuma,P19,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",74,61,2,11,0
+Yuma,P20,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1246,928,21,244,53
+Yuma,P21,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",0,0,0,0,0
+Yuma,P22,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1594,1309,26,224,35
+Yuma,P23,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1151,1015,12,112,12
+Yuma,P24,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",2875,2553,19,271,32
+Yuma,P25,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1665,1470,17,161,17
+Yuma,P26,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",472,397,7,51,17
+Yuma,P27,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",568,486,8,63,11
+Yuma,P28,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",410,335,9,57,9
+Yuma,P29,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",2096,1623,42,359,72
+Yuma,P30,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1764,1430,34,268,32
+Yuma,P31,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",2977,2269,81,546,81
+Yuma,P32,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",725,575,15,123,12
+Yuma,P33,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",323,276,4,38,5
+Yuma,P34,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",416,345,0,64,7
+Yuma,P35,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",981,851,21,101,8
+Yuma,P36,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1282,1094,19,142,27
+Yuma,P37,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1174,1001,29,119,25
+Yuma,P38,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1182,995,17,153,17
+Yuma,P39,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1161,993,18,141,9
+Yuma,P40,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1158,1009,19,114,16
+Yuma,P41,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1404,1217,17,148,22
+Yuma,P42,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",1631,1327,23,231,50
+Yuma,P43,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",17,14,0,1,2
+Yuma,P44,County Treasurer,,DEM,"PANCRAZI MORENO, ANGELA",0,0,0,0,0
+Yuma,P01,Retain Justice BRUTINEL,,,,498,396,9,82,11
+Yuma,P02,Retain Justice BRUTINEL,,,,628,501,14,103,10
+Yuma,P03,Retain Justice BRUTINEL,,,,615,501,10,92,12
+Yuma,P04,Retain Justice BRUTINEL,,,,1860,1574,27,225,34
+Yuma,P05,Retain Justice BRUTINEL,,,,1317,1132,15,153,17
+Yuma,P06,Retain Justice BRUTINEL,,,,1043,798,17,192,36
+Yuma,P07,Retain Justice BRUTINEL,,,,1384,1042,37,259,46
+Yuma,P08,Retain Justice BRUTINEL,,,,767,697,9,50,11
+Yuma,P09,Retain Justice BRUTINEL,,,,1367,1108,21,214,24
+Yuma,P10,Retain Justice BRUTINEL,,,,2783,2296,44,400,43
+Yuma,P11,Retain Justice BRUTINEL,,,,1388,1119,21,207,41
+Yuma,P12,Retain Justice BRUTINEL,,,,1247,1073,9,145,20
+Yuma,P13,Retain Justice BRUTINEL,,,,876,745,16,106,9
+Yuma,P14,Retain Justice BRUTINEL,,,,299,243,7,44,5
+Yuma,P15,Retain Justice BRUTINEL,,,,1391,1167,21,185,18
+Yuma,P16,Retain Justice BRUTINEL,,,,995,836,11,135,13
+Yuma,P17,Retain Justice BRUTINEL,,,,1896,1548,22,267,59
+Yuma,P18,Retain Justice BRUTINEL,,,,190,145,4,40,1
+Yuma,P19,Retain Justice BRUTINEL,,,,74,54,4,15,1
+Yuma,P20,Retain Justice BRUTINEL,,,,1400,1000,25,316,59
+Yuma,P21,Retain Justice BRUTINEL,,,,0,0,0,0,0
+Yuma,P22,Retain Justice BRUTINEL,,,,1656,1345,28,247,36
+Yuma,P23,Retain Justice BRUTINEL,,,,1365,1192,15,143,15
+Yuma,P24,Retain Justice BRUTINEL,,,,3507,3067,23,364,53
+Yuma,P25,Retain Justice BRUTINEL,,,,1898,1636,20,221,21
+Yuma,P26,Retain Justice BRUTINEL,,,,392,328,7,47,10
+Yuma,P27,Retain Justice BRUTINEL,,,,485,417,8,54,6
+Yuma,P28,Retain Justice BRUTINEL,,,,324,264,8,43,9
+Yuma,P29,Retain Justice BRUTINEL,,,,1435,1075,31,287,42
+Yuma,P30,Retain Justice BRUTINEL,,,,1296,1024,30,218,24
+Yuma,P31,Retain Justice BRUTINEL,,,,2121,1541,67,459,54
+Yuma,P32,Retain Justice BRUTINEL,,,,606,473,13,109,11
+Yuma,P33,Retain Justice BRUTINEL,,,,337,286,4,42,5
+Yuma,P34,Retain Justice BRUTINEL,,,,482,401,2,71,8
+Yuma,P35,Retain Justice BRUTINEL,,,,955,838,20,87,10
+Yuma,P36,Retain Justice BRUTINEL,,,,1170,1007,12,128,23
+Yuma,P37,Retain Justice BRUTINEL,,,,952,817,22,100,13
+Yuma,P38,Retain Justice BRUTINEL,,,,1024,867,14,133,10
+Yuma,P39,Retain Justice BRUTINEL,,,,1091,927,18,138,8
+Yuma,P40,Retain Justice BRUTINEL,,,,1086,932,18,125,11
+Yuma,P41,Retain Justice BRUTINEL,,,,1309,1126,14,146,23
+Yuma,P42,Retain Justice BRUTINEL,,,,1435,1177,22,194,42
+Yuma,P43,Retain Justice BRUTINEL,,,,22,17,0,3,2
+Yuma,P44,Retain Justice BRUTINEL,,,,0,0,0,0,0
+Yuma,P01,Retain Justice BRUTINEL,,,,163,139,1,21,2
+Yuma,P02,Retain Justice BRUTINEL,,,,184,146,3,26,9
+Yuma,P03,Retain Justice BRUTINEL,,,,185,150,4,25,6
+Yuma,P04,Retain Justice BRUTINEL,,,,553,460,10,75,8
+Yuma,P05,Retain Justice BRUTINEL,,,,311,275,3,28,5
+Yuma,P06,Retain Justice BRUTINEL,,,,386,308,9,62,7
+Yuma,P07,Retain Justice BRUTINEL,,,,464,353,5,89,17
+Yuma,P08,Retain Justice BRUTINEL,,,,142,132,1,7,2
+Yuma,P09,Retain Justice BRUTINEL,,,,179,140,3,33,3
+Yuma,P10,Retain Justice BRUTINEL,,,,585,503,8,63,11
+Yuma,P11,Retain Justice BRUTINEL,,,,317,259,4,45,9
+Yuma,P12,Retain Justice BRUTINEL,,,,234,197,5,29,3
+Yuma,P13,Retain Justice BRUTINEL,,,,234,199,4,29,2
+Yuma,P14,Retain Justice BRUTINEL,,,,73,61,2,9,1
+Yuma,P15,Retain Justice BRUTINEL,,,,301,251,5,38,7
+Yuma,P16,Retain Justice BRUTINEL,,,,298,247,4,38,9
+Yuma,P17,Retain Justice BRUTINEL,,,,367,300,6,50,11
+Yuma,P18,Retain Justice BRUTINEL,,,,30,24,0,5,1
+Yuma,P19,Retain Justice BRUTINEL,,,,19,17,0,2,0
+Yuma,P20,Retain Justice BRUTINEL,,,,240,178,4,39,19
+Yuma,P21,Retain Justice BRUTINEL,,,,0,0,0,0,0
+Yuma,P22,Retain Justice BRUTINEL,,,,385,312,6,57,10
+Yuma,P23,Retain Justice BRUTINEL,,,,226,201,0,23,2
+Yuma,P24,Retain Justice BRUTINEL,,,,569,502,4,58,5
+Yuma,P25,Retain Justice BRUTINEL,,,,309,281,5,20,3
+Yuma,P26,Retain Justice BRUTINEL,,,,115,100,1,12,2
+Yuma,P27,Retain Justice BRUTINEL,,,,163,135,0,24,4
+Yuma,P28,Retain Justice BRUTINEL,,,,100,81,2,16,1
+Yuma,P29,Retain Justice BRUTINEL,,,,589,470,11,87,21
+Yuma,P30,Retain Justice BRUTINEL,,,,453,366,5,72,10
+Yuma,P31,Retain Justice BRUTINEL,,,,851,679,19,131,22
+Yuma,P32,Retain Justice BRUTINEL,,,,190,165,2,20,3
+Yuma,P33,Retain Justice BRUTINEL,,,,69,52,1,14,2
+Yuma,P34,Retain Justice BRUTINEL,,,,64,55,0,7,2
+Yuma,P35,Retain Justice BRUTINEL,,,,250,211,5,32,2
+Yuma,P36,Retain Justice BRUTINEL,,,,327,269,8,43,7
+Yuma,P37,Retain Justice BRUTINEL,,,,295,237,9,39,10
+Yuma,P38,Retain Justice BRUTINEL,,,,293,242,4,42,5
+Yuma,P39,Retain Justice BRUTINEL,,,,264,232,6,25,1
+Yuma,P40,Retain Justice BRUTINEL,,,,252,219,3,24,6
+Yuma,P41,Retain Justice BRUTINEL,,,,317,285,4,28,0
+Yuma,P42,Retain Justice BRUTINEL,,,,414,330,8,62,14
+Yuma,P43,Retain Justice BRUTINEL,,,,4,4,0,0,0
+Yuma,P44,Retain Justice BRUTINEL,,,,0,0,0,0,0
+Yuma,P01,Retain Justice GOULD,,,,524,420,9,84,11
+Yuma,P02,Retain Justice GOULD,,,,640,508,14,107,11
+Yuma,P03,Retain Justice GOULD,,,,606,501,9,86,10
+Yuma,P04,Retain Justice GOULD,,,,1887,1595,27,227,38
+Yuma,P05,Retain Justice GOULD,,,,1388,1202,15,154,17
+Yuma,P06,Retain Justice GOULD,,,,1038,788,18,192,40
+Yuma,P07,Retain Justice GOULD,,,,1357,1025,27,264,41
+Yuma,P08,Retain Justice GOULD,,,,779,710,7,53,9
+Yuma,P09,Retain Justice GOULD,,,,1404,1142,21,218,23
+Yuma,P10,Retain Justice GOULD,,,,2803,2326,46,384,47
+Yuma,P11,Retain Justice GOULD,,,,1422,1148,21,213,40
+Yuma,P12,Retain Justice GOULD,,,,1279,1108,9,143,19
+Yuma,P13,Retain Justice GOULD,,,,907,773,18,107,9
+Yuma,P14,Retain Justice GOULD,,,,310,252,8,45,5
+Yuma,P15,Retain Justice GOULD,,,,1440,1221,20,182,17
+Yuma,P16,Retain Justice GOULD,,,,1017,859,12,132,14
+Yuma,P17,Retain Justice GOULD,,,,1888,1532,25,271,60
+Yuma,P18,Retain Justice GOULD,,,,187,141,4,41,1
+Yuma,P19,Retain Justice GOULD,,,,75,55,4,15,1
+Yuma,P20,Retain Justice GOULD,,,,1399,1003,25,311,60
+Yuma,P21,Retain Justice GOULD,,,,0,0,0,0,0
+Yuma,P22,Retain Justice GOULD,,,,1659,1343,27,251,38
+Yuma,P23,Retain Justice GOULD,,,,1350,1181,13,143,13
+Yuma,P24,Retain Justice GOULD,,,,3495,3066,24,359,46
+Yuma,P25,Retain Justice GOULD,,,,1912,1655,20,218,19
+Yuma,P26,Retain Justice GOULD,,,,381,315,6,50,10
+Yuma,P27,Retain Justice GOULD,,,,489,418,7,59,5
+Yuma,P28,Retain Justice GOULD,,,,331,273,8,41,9
+Yuma,P29,Retain Justice GOULD,,,,1428,1073,28,280,47
+Yuma,P30,Retain Justice GOULD,,,,1260,985,30,224,21
+Yuma,P31,Retain Justice GOULD,,,,2090,1530,60,447,53
+Yuma,P32,Retain Justice GOULD,,,,593,467,12,103,11
+Yuma,P33,Retain Justice GOULD,,,,335,281,4,45,5
+Yuma,P34,Retain Justice GOULD,,,,494,414,2,70,8
+Yuma,P35,Retain Justice GOULD,,,,975,859,17,89,10
+Yuma,P36,Retain Justice GOULD,,,,1214,1038,13,138,25
+Yuma,P37,Retain Justice GOULD,,,,963,824,23,103,13
+Yuma,P38,Retain Justice GOULD,,,,1045,890,13,130,12
+Yuma,P39,Retain Justice GOULD,,,,1108,944,21,136,7
+Yuma,P40,Retain Justice GOULD,,,,1134,981,15,129,9
+Yuma,P41,Retain Justice GOULD,,,,1336,1147,15,153,21
+Yuma,P42,Retain Justice GOULD,,,,1446,1188,22,195,41
+Yuma,P43,Retain Justice GOULD,,,,21,16,0,3,2
+Yuma,P44,Retain Justice GOULD,,,,0,0,0,0,0
+Yuma,P01,Retain Justice GOULD,,,,156,127,2,24,3
+Yuma,P02,Retain Justice GOULD,,,,186,151,4,23,8
+Yuma,P03,Retain Justice GOULD,,,,189,150,4,28,7
+Yuma,P04,Retain Justice GOULD,,,,570,481,10,74,5
+Yuma,P05,Retain Justice GOULD,,,,304,267,4,28,5
+Yuma,P06,Retain Justice GOULD,,,,399,326,8,62,3
+Yuma,P07,Retain Justice GOULD,,,,488,379,12,76,21
+Yuma,P08,Retain Justice GOULD,,,,150,137,3,6,4
+Yuma,P09,Retain Justice GOULD,,,,181,144,3,30,4
+Yuma,P10,Retain Justice GOULD,,,,599,505,8,77,9
+Yuma,P11,Retain Justice GOULD,,,,314,261,4,40,9
+Yuma,P12,Retain Justice GOULD,,,,238,199,5,30,4
+Yuma,P13,Retain Justice GOULD,,,,236,205,3,27,1
+Yuma,P14,Retain Justice GOULD,,,,64,54,1,8,1
+Yuma,P15,Retain Justice GOULD,,,,320,267,6,40,7
+Yuma,P16,Retain Justice GOULD,,,,297,245,4,40,8
+Yuma,P17,Retain Justice GOULD,,,,377,325,3,40,9
+Yuma,P18,Retain Justice GOULD,,,,32,27,0,4,1
+Yuma,P19,Retain Justice GOULD,,,,18,16,0,2,0
+Yuma,P20,Retain Justice GOULD,,,,255,188,4,45,18
+Yuma,P21,Retain Justice GOULD,,,,0,0,0,0,0
+Yuma,P22,Retain Justice GOULD,,,,387,320,4,55,8
+Yuma,P23,Retain Justice GOULD,,,,251,222,1,23,5
+Yuma,P24,Retain Justice GOULD,,,,600,524,4,60,12
+Yuma,P25,Retain Justice GOULD,,,,333,294,6,27,6
+Yuma,P26,Retain Justice GOULD,,,,130,114,2,9,5
+Yuma,P27,Retain Justice GOULD,,,,163,138,1,19,5
+Yuma,P28,Retain Justice GOULD,,,,96,77,2,16,1
+Yuma,P29,Retain Justice GOULD,,,,577,462,14,86,15
+Yuma,P30,Retain Justice GOULD,,,,489,403,4,68,14
+Yuma,P31,Retain Justice GOULD,,,,873,693,24,134,22
+Yuma,P32,Retain Justice GOULD,,,,202,171,2,25,4
+Yuma,P33,Retain Justice GOULD,,,,77,64,1,10,2
+Yuma,P34,Retain Justice GOULD,,,,65,56,0,7,2
+Yuma,P35,Retain Justice GOULD,,,,259,222,7,30,0
+Yuma,P36,Retain Justice GOULD,,,,318,267,8,37,6
+Yuma,P37,Retain Justice GOULD,,,,298,246,8,34,10
+Yuma,P38,Retain Justice GOULD,,,,301,248,5,45,3
+Yuma,P39,Retain Justice GOULD,,,,282,243,5,32,2
+Yuma,P40,Retain Justice GOULD,,,,237,202,5,22,8
+Yuma,P41,Retain Justice GOULD,,,,330,301,3,24,2
+Yuma,P42,Retain Justice GOULD,,,,424,338,7,63,16
+Yuma,P43,Retain Justice GOULD,,,,5,5,0,0,0
+Yuma,P44,Retain Justice GOULD,,,,0,0,0,0,0
+Yuma,P01,Retain Justice LOPEZ IV,,,,552,438,10,91,13
+Yuma,P02,Retain Justice LOPEZ IV,,,,662,529,17,103,13
+Yuma,P03,Retain Justice LOPEZ IV,,,,647,533,11,91,12
+Yuma,P04,Retain Justice LOPEZ IV,,,,1976,1667,33,239,37
+Yuma,P05,Retain Justice LOPEZ IV,,,,1344,1157,18,152,17
+Yuma,P06,Retain Justice LOPEZ IV,,,,1122,856,23,205,38
+Yuma,P07,Retain Justice LOPEZ IV,,,,1491,1135,32,275,49
+Yuma,P08,Retain Justice LOPEZ IV,,,,744,675,8,50,11
+Yuma,P09,Retain Justice LOPEZ IV,,,,1340,1086,20,210,24
+Yuma,P10,Retain Justice LOPEZ IV,,,,2801,2306,45,405,45
+Yuma,P11,Retain Justice LOPEZ IV,,,,1388,1116,20,210,42
+Yuma,P12,Retain Justice LOPEZ IV,,,,1240,1076,9,135,20
+Yuma,P13,Retain Justice LOPEZ IV,,,,933,791,19,115,8
+Yuma,P14,Retain Justice LOPEZ IV,,,,305,250,8,41,6
+Yuma,P15,Retain Justice LOPEZ IV,,,,1410,1183,22,185,20
+Yuma,P16,Retain Justice LOPEZ IV,,,,1045,874,13,139,19
+Yuma,P17,Retain Justice LOPEZ IV,,,,1866,1522,27,259,58
+Yuma,P18,Retain Justice LOPEZ IV,,,,184,139,3,41,1
+Yuma,P19,Retain Justice LOPEZ IV,,,,77,55,4,17,1
+Yuma,P20,Retain Justice LOPEZ IV,,,,1339,965,24,291,59
+Yuma,P21,Retain Justice LOPEZ IV,,,,0,0,0,0,0
+Yuma,P22,Retain Justice LOPEZ IV,,,,1635,1330,25,249,31
+Yuma,P23,Retain Justice LOPEZ IV,,,,1322,1156,12,138,16
+Yuma,P24,Retain Justice LOPEZ IV,,,,3449,3029,21,349,50
+Yuma,P25,Retain Justice LOPEZ IV,,,,1839,1582,22,216,19
+Yuma,P26,Retain Justice LOPEZ IV,,,,387,321,6,49,11
+Yuma,P27,Retain Justice LOPEZ IV,,,,507,436,7,59,5
+Yuma,P28,Retain Justice LOPEZ IV,,,,337,275,9,44,9
+Yuma,P29,Retain Justice LOPEZ IV,,,,1594,1202,34,308,50
+Yuma,P30,Retain Justice LOPEZ IV,,,,1391,1102,30,229,30
+Yuma,P31,Retain Justice LOPEZ IV,,,,2346,1736,62,488,60
+Yuma,P32,Retain Justice LOPEZ IV,,,,649,524,12,102,11
+Yuma,P33,Retain Justice LOPEZ IV,,,,349,294,4,44,7
+Yuma,P34,Retain Justice LOPEZ IV,,,,455,384,1,62,8
+Yuma,P35,Retain Justice LOPEZ IV,,,,986,859,23,94,10
+Yuma,P36,Retain Justice LOPEZ IV,,,,1194,1024,14,136,20
+Yuma,P37,Retain Justice LOPEZ IV,,,,1008,864,24,109,11
+Yuma,P38,Retain Justice LOPEZ IV,,,,1064,898,15,138,13
+Yuma,P39,Retain Justice LOPEZ IV,,,,1086,919,19,140,8
+Yuma,P40,Retain Justice LOPEZ IV,,,,1125,964,19,129,13
+Yuma,P41,Retain Justice LOPEZ IV,,,,1343,1153,14,153,23
+Yuma,P42,Retain Justice LOPEZ IV,,,,1524,1249,23,207,45
+Yuma,P43,Retain Justice LOPEZ IV,,,,18,14,0,2,2
+Yuma,P44,Retain Justice LOPEZ IV,,,,0,0,0,0,0
+Yuma,P01,Retain Justice LOPEZ IV,,,,122,107,1,13,1
+Yuma,P02,Retain Justice LOPEZ IV,,,,152,120,1,26,5
+Yuma,P03,Retain Justice LOPEZ IV,,,,156,128,2,22,4
+Yuma,P04,Retain Justice LOPEZ IV,,,,442,371,6,60,5
+Yuma,P05,Retain Justice LOPEZ IV,,,,278,242,1,30,5
+Yuma,P06,Retain Justice LOPEZ IV,,,,300,244,5,49,2
+Yuma,P07,Retain Justice LOPEZ IV,,,,360,272,7,66,15
+Yuma,P08,Retain Justice LOPEZ IV,,,,151,140,2,7,2
+Yuma,P09,Retain Justice LOPEZ IV,,,,197,157,3,33,4
+Yuma,P10,Retain Justice LOPEZ IV,,,,534,464,7,54,9
+Yuma,P11,Retain Justice LOPEZ IV,,,,301,250,4,41,6
+Yuma,P12,Retain Justice LOPEZ IV,,,,223,181,5,34,3
+Yuma,P13,Retain Justice LOPEZ IV,,,,188,164,1,21,2
+Yuma,P14,Retain Justice LOPEZ IV,,,,61,50,1,10,0
+Yuma,P15,Retain Justice LOPEZ IV,,,,274,234,4,32,4
+Yuma,P16,Retain Justice LOPEZ IV,,,,236,204,1,28,3
+Yuma,P17,Retain Justice LOPEZ IV,,,,377,316,3,47,11
+Yuma,P18,Retain Justice LOPEZ IV,,,,32,26,1,4,1
+Yuma,P19,Retain Justice LOPEZ IV,,,,15,15,0,0,0
+Yuma,P20,Retain Justice LOPEZ IV,,,,273,195,6,54,18
+Yuma,P21,Retain Justice LOPEZ IV,,,,0,0,0,0,0
+Yuma,P22,Retain Justice LOPEZ IV,,,,387,315,6,53,13
+Yuma,P23,Retain Justice LOPEZ IV,,,,240,209,3,25,3
+Yuma,P24,Retain Justice LOPEZ IV,,,,571,497,5,62,7
+Yuma,P25,Retain Justice LOPEZ IV,,,,343,311,3,24,5
+Yuma,P26,Retain Justice LOPEZ IV,,,,111,99,1,9,2
+Yuma,P27,Retain Justice LOPEZ IV,,,,140,116,0,19,5
+Yuma,P28,Retain Justice LOPEZ IV,,,,87,71,1,14,1
+Yuma,P29,Retain Justice LOPEZ IV,,,,438,358,8,59,13
+Yuma,P30,Retain Justice LOPEZ IV,,,,360,292,4,59,5
+Yuma,P31,Retain Justice LOPEZ IV,,,,638,510,21,91,16
+Yuma,P32,Retain Justice LOPEZ IV,,,,155,124,2,27,2
+Yuma,P33,Retain Justice LOPEZ IV,,,,61,49,1,11,0
+Yuma,P34,Retain Justice LOPEZ IV,,,,84,67,1,14,2
+Yuma,P35,Retain Justice LOPEZ IV,,,,221,191,2,26,2
+Yuma,P36,Retain Justice LOPEZ IV,,,,295,247,6,33,9
+Yuma,P37,Retain Justice LOPEZ IV,,,,245,196,6,29,14
+Yuma,P38,Retain Justice LOPEZ IV,,,,244,207,3,33,1
+Yuma,P39,Retain Justice LOPEZ IV,,,,267,237,6,23,1
+Yuma,P40,Retain Justice LOPEZ IV,,,,210,185,2,19,4
+Yuma,P41,Retain Justice LOPEZ IV,,,,274,246,3,25,0
+Yuma,P42,Retain Justice LOPEZ IV,,,,321,255,5,49,12
+Yuma,P43,Retain Justice LOPEZ IV,,,,6,5,0,1,0
+Yuma,P44,Retain Justice LOPEZ IV,,,,0,0,0,0,0
+Yuma,P01,Retain Judge CAMPBELL,,,,543,442,8,81,12
+Yuma,P02,Retain Judge CAMPBELL,,,,637,512,13,99,13
+Yuma,P03,Retain Judge CAMPBELL,,,,621,510,9,91,11
+Yuma,P04,Retain Judge CAMPBELL,,,,1875,1573,27,239,36
+Yuma,P05,Retain Judge CAMPBELL,,,,1321,1136,15,153,17
+Yuma,P06,Retain Judge CAMPBELL,,,,1075,826,17,195,37
+Yuma,P07,Retain Judge CAMPBELL,,,,1448,1093,33,269,53
+Yuma,P08,Retain Judge CAMPBELL,,,,746,680,9,46,11
+Yuma,P09,Retain Judge CAMPBELL,,,,1305,1052,18,212,23
+Yuma,P10,Retain Judge CAMPBELL,,,,2782,2305,47,386,44
+Yuma,P11,Retain Judge CAMPBELL,,,,1387,1123,23,199,42
+Yuma,P12,Retain Judge CAMPBELL,,,,1234,1067,10,143,14
+Yuma,P13,Retain Judge CAMPBELL,,,,877,745,20,102,10
+Yuma,P14,Retain Judge CAMPBELL,,,,308,257,6,39,6
+Yuma,P15,Retain Judge CAMPBELL,,,,1423,1200,25,180,18
+Yuma,P16,Retain Judge CAMPBELL,,,,1021,861,12,130,18
+Yuma,P17,Retain Judge CAMPBELL,,,,1892,1537,25,268,62
+Yuma,P18,Retain Judge CAMPBELL,,,,174,131,3,39,1
+Yuma,P19,Retain Judge CAMPBELL,,,,76,55,4,17,0
+Yuma,P20,Retain Judge CAMPBELL,,,,1336,963,25,293,55
+Yuma,P21,Retain Judge CAMPBELL,,,,0,0,0,0,0
+Yuma,P22,Retain Judge CAMPBELL,,,,1657,1344,22,253,38
+Yuma,P23,Retain Judge CAMPBELL,,,,1311,1146,13,142,10
+Yuma,P24,Retain Judge CAMPBELL,,,,3387,2972,19,349,47
+Yuma,P25,Retain Judge CAMPBELL,,,,1843,1597,19,210,17
+Yuma,P26,Retain Judge CAMPBELL,,,,403,340,4,49,10
+Yuma,P27,Retain Judge CAMPBELL,,,,487,424,8,52,3
+Yuma,P28,Retain Judge CAMPBELL,,,,331,271,9,43,8
+Yuma,P29,Retain Judge CAMPBELL,,,,1498,1132,31,286,49
+Yuma,P30,Retain Judge CAMPBELL,,,,1346,1068,32,223,23
+Yuma,P31,Retain Judge CAMPBELL,,,,2298,1701,65,471,61
+Yuma,P32,Retain Judge CAMPBELL,,,,633,503,12,105,13
+Yuma,P33,Retain Judge CAMPBELL,,,,326,277,4,40,5
+Yuma,P34,Retain Judge CAMPBELL,,,,461,384,2,66,9
+Yuma,P35,Retain Judge CAMPBELL,,,,995,865,20,101,9
+Yuma,P36,Retain Judge CAMPBELL,,,,1234,1054,17,137,26
+Yuma,P37,Retain Judge CAMPBELL,,,,985,845,25,101,14
+Yuma,P38,Retain Judge CAMPBELL,,,,1064,897,14,140,13
+Yuma,P39,Retain Judge CAMPBELL,,,,1135,976,19,133,7
+Yuma,P40,Retain Judge CAMPBELL,,,,1134,985,19,118,12
+Yuma,P41,Retain Judge CAMPBELL,,,,1320,1142,13,143,22
+Yuma,P42,Retain Judge CAMPBELL,,,,1484,1220,24,200,40
+Yuma,P43,Retain Judge CAMPBELL,,,,22,17,0,3,2
+Yuma,P44,Retain Judge CAMPBELL,,,,0,0,0,0,0
+Yuma,P01,Retain Judge CAMPBELL,,,,117,91,1,23,2
+Yuma,P02,Retain Judge CAMPBELL,,,,161,121,4,31,5
+Yuma,P03,Retain Judge CAMPBELL,,,,166,135,3,22,6
+Yuma,P04,Retain Judge CAMPBELL,,,,497,422,9,59,7
+Yuma,P05,Retain Judge CAMPBELL,,,,297,264,3,27,3
+Yuma,P06,Retain Judge CAMPBELL,,,,329,262,8,54,5
+Yuma,P07,Retain Judge CAMPBELL,,,,378,288,6,73,11
+Yuma,P08,Retain Judge CAMPBELL,,,,151,137,1,11,2
+Yuma,P09,Retain Judge CAMPBELL,,,,216,175,4,33,4
+Yuma,P10,Retain Judge CAMPBELL,,,,553,467,6,69,11
+Yuma,P11,Retain Judge CAMPBELL,,,,289,233,3,46,7
+Yuma,P12,Retain Judge CAMPBELL,,,,233,190,4,31,8
+Yuma,P13,Retain Judge CAMPBELL,,,,220,188,1,31,0
+Yuma,P14,Retain Judge CAMPBELL,,,,58,45,2,11,0
+Yuma,P15,Retain Judge CAMPBELL,,,,263,217,2,38,6
+Yuma,P16,Retain Judge CAMPBELL,,,,249,208,2,36,3
+Yuma,P17,Retain Judge CAMPBELL,,,,339,291,3,37,8
+Yuma,P18,Retain Judge CAMPBELL,,,,40,32,1,6,1
+Yuma,P19,Retain Judge CAMPBELL,,,,17,16,0,0,1
+Yuma,P20,Retain Judge CAMPBELL,,,,260,179,5,52,24
+Yuma,P21,Retain Judge CAMPBELL,,,,0,0,0,0,0
+Yuma,P22,Retain Judge CAMPBELL,,,,369,308,8,46,7
+Yuma,P23,Retain Judge CAMPBELL,,,,244,213,2,23,6
+Yuma,P24,Retain Judge CAMPBELL,,,,637,554,6,66,11
+Yuma,P25,Retain Judge CAMPBELL,,,,359,316,6,30,7
+Yuma,P26,Retain Judge CAMPBELL,,,,93,79,3,8,3
+Yuma,P27,Retain Judge CAMPBELL,,,,143,112,0,25,6
+Yuma,P28,Retain Judge CAMPBELL,,,,85,71,1,12,1
+Yuma,P29,Retain Judge CAMPBELL,,,,486,383,11,77,15
+Yuma,P30,Retain Judge CAMPBELL,,,,382,300,4,68,10
+Yuma,P31,Retain Judge CAMPBELL,,,,651,504,21,110,16
+Yuma,P32,Retain Judge CAMPBELL,,,,161,135,2,23,1
+Yuma,P33,Retain Judge CAMPBELL,,,,73,59,1,12,1
+Yuma,P34,Retain Judge CAMPBELL,,,,72,61,0,10,1
+Yuma,P35,Retain Judge CAMPBELL,,,,192,167,4,19,2
+Yuma,P36,Retain Judge CAMPBELL,,,,260,221,4,31,4
+Yuma,P37,Retain Judge CAMPBELL,,,,261,210,6,34,11
+Yuma,P38,Retain Judge CAMPBELL,,,,247,203,4,36,4
+Yuma,P39,Retain Judge CAMPBELL,,,,219,184,6,27,2
+Yuma,P40,Retain Judge CAMPBELL,,,,215,178,2,30,5
+Yuma,P41,Retain Judge CAMPBELL,,,,291,255,4,31,1
+Yuma,P42,Retain Judge CAMPBELL,,,,354,280,7,51,16
+Yuma,P43,Retain Judge CAMPBELL,,,,4,4,0,0,0
+Yuma,P44,Retain Judge CAMPBELL,,,,0,0,0,0,0
+Yuma,P01,Retain Judge CRUZ,,,,620,504,10,93,13
+Yuma,P02,Retain Judge CRUZ,,,,723,584,14,106,19
+Yuma,P03,Retain Judge CRUZ,,,,703,582,10,98,13
+Yuma,P04,Retain Judge CRUZ,,,,2107,1780,32,257,38
+Yuma,P05,Retain Judge CRUZ,,,,1409,1234,17,143,15
+Yuma,P06,Retain Judge CRUZ,,,,1303,1012,27,225,39
+Yuma,P07,Retain Judge CRUZ,,,,1715,1308,35,313,59
+Yuma,P08,Retain Judge CRUZ,,,,782,708,9,54,11
+Yuma,P09,Retain Judge CRUZ,,,,1282,1039,17,203,23
+Yuma,P10,Retain Judge CRUZ,,,,2842,2355,47,401,39
+Yuma,P11,Retain Judge CRUZ,,,,1441,1168,23,211,39
+Yuma,P12,Retain Judge CRUZ,,,,1259,1089,12,141,17
+Yuma,P13,Retain Judge CRUZ,,,,1016,870,21,116,9
+Yuma,P14,Retain Judge CRUZ,,,,324,271,8,41,4
+Yuma,P15,Retain Judge CRUZ,,,,1468,1243,25,177,23
+Yuma,P16,Retain Judge CRUZ,,,,1096,928,13,136,19
+Yuma,P17,Retain Judge CRUZ,,,,1913,1577,27,253,56
+Yuma,P18,Retain Judge CRUZ,,,,171,128,3,39,1
+Yuma,P19,Retain Judge CRUZ,,,,84,62,4,17,1
+Yuma,P20,Retain Judge CRUZ,,,,1348,989,22,280,57
+Yuma,P21,Retain Judge CRUZ,,,,0,0,0,0,0
+Yuma,P22,Retain Judge CRUZ,,,,1701,1380,26,256,39
+Yuma,P23,Retain Judge CRUZ,,,,1328,1165,12,136,15
+Yuma,P24,Retain Judge CRUZ,,,,3370,2950,23,352,45
+Yuma,P25,Retain Judge CRUZ,,,,1798,1554,22,204,18
+Yuma,P26,Retain Judge CRUZ,,,,435,371,5,46,13
+Yuma,P27,Retain Judge CRUZ,,,,534,458,8,59,9
+Yuma,P28,Retain Judge CRUZ,,,,383,319,8,47,9
+Yuma,P29,Retain Judge CRUZ,,,,1841,1418,36,327,60
+Yuma,P30,Retain Judge CRUZ,,,,1600,1279,31,258,32
+Yuma,P31,Retain Judge CRUZ,,,,2696,2035,69,523,69
+Yuma,P32,Retain Judge CRUZ,,,,716,571,14,117,14
+Yuma,P33,Retain Judge CRUZ,,,,346,290,4,46,6
+Yuma,P34,Retain Judge CRUZ,,,,455,379,1,65,10
+Yuma,P35,Retain Judge CRUZ,,,,1062,933,22,96,11
+Yuma,P36,Retain Judge CRUZ,,,,1297,1104,20,148,25
+Yuma,P37,Retain Judge CRUZ,,,,1104,951,27,108,18
+Yuma,P38,Retain Judge CRUZ,,,,1158,989,14,135,20
+Yuma,P39,Retain Judge CRUZ,,,,1176,1009,20,138,9
+Yuma,P40,Retain Judge CRUZ,,,,1197,1039,17,129,12
+Yuma,P41,Retain Judge CRUZ,,,,1434,1246,14,151,23
+Yuma,P42,Retain Judge CRUZ,,,,1643,1354,25,218,46
+Yuma,P43,Retain Judge CRUZ,,,,22,17,0,3,2
+Yuma,P44,Retain Judge CRUZ,,,,0,0,0,0,0
+Yuma,P01,Retain Judge CRUZ,,,,81,63,2,15,1
+Yuma,P02,Retain Judge CRUZ,,,,111,85,3,23,0
+Yuma,P03,Retain Judge CRUZ,,,,111,85,3,19,4
+Yuma,P04,Retain Judge CRUZ,,,,366,308,7,46,5
+Yuma,P05,Retain Judge CRUZ,,,,277,231,1,40,5
+Yuma,P06,Retain Judge CRUZ,,,,190,144,1,41,4
+Yuma,P07,Retain Judge CRUZ,,,,202,149,7,41,5
+Yuma,P08,Retain Judge CRUZ,,,,133,123,1,7,2
+Yuma,P09,Retain Judge CRUZ,,,,280,226,5,43,6
+Yuma,P10,Retain Judge CRUZ,,,,526,449,5,58,14
+Yuma,P11,Retain Judge CRUZ,,,,304,245,4,43,12
+Yuma,P12,Retain Judge CRUZ,,,,231,191,3,32,5
+Yuma,P13,Retain Judge CRUZ,,,,148,128,0,19,1
+Yuma,P14,Retain Judge CRUZ,,,,50,38,0,10,2
+Yuma,P15,Retain Judge CRUZ,,,,274,227,5,41,1
+Yuma,P16,Retain Judge CRUZ,,,,208,168,3,34,3
+Yuma,P17,Retain Judge CRUZ,,,,357,286,4,53,14
+Yuma,P18,Retain Judge CRUZ,,,,43,36,1,5,1
+Yuma,P19,Retain Judge CRUZ,,,,10,10,0,0,0
+Yuma,P20,Retain Judge CRUZ,,,,302,200,8,71,23
+Yuma,P21,Retain Judge CRUZ,,,,0,0,0,0,0
+Yuma,P22,Retain Judge CRUZ,,,,351,292,5,45,9
+Yuma,P23,Retain Judge CRUZ,,,,247,213,1,30,3
+Yuma,P24,Retain Judge CRUZ,,,,670,585,4,68,13
+Yuma,P25,Retain Judge CRUZ,,,,419,370,3,40,6
+Yuma,P26,Retain Judge CRUZ,,,,79,64,2,11,2
+Yuma,P27,Retain Judge CRUZ,,,,115,96,0,18,1
+Yuma,P28,Retain Judge CRUZ,,,,60,46,2,11,1
+Yuma,P29,Retain Judge CRUZ,,,,244,181,7,52,4
+Yuma,P30,Retain Judge CRUZ,,,,218,168,5,39,6
+Yuma,P31,Retain Judge CRUZ,,,,372,278,16,67,11
+Yuma,P32,Retain Judge CRUZ,,,,103,89,1,13,0
+Yuma,P33,Retain Judge CRUZ,,,,69,60,1,8,0
+Yuma,P34,Retain Judge CRUZ,,,,92,80,1,11,0
+Yuma,P35,Retain Judge CRUZ,,,,172,148,1,23,0
+Yuma,P36,Retain Judge CRUZ,,,,217,189,2,22,4
+Yuma,P37,Retain Judge CRUZ,,,,184,145,5,28,6
+Yuma,P38,Retain Judge CRUZ,,,,220,171,6,42,1
+Yuma,P39,Retain Judge CRUZ,,,,199,168,5,26,0
+Yuma,P40,Retain Judge CRUZ,,,,179,149,2,24,4
+Yuma,P41,Retain Judge CRUZ,,,,237,202,4,30,1
+Yuma,P42,Retain Judge CRUZ,,,,251,191,6,41,13
+Yuma,P43,Retain Judge CRUZ,,,,1,1,0,0,0
+Yuma,P44,Retain Judge CRUZ,,,,0,0,0,0,0
+Yuma,P01,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",245,193,5,40,7
+Yuma,P02,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",302,240,5,50,7
+Yuma,P03,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",323,266,4,50,3
+Yuma,P04,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",917,768,12,123,14
+Yuma,P05,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",843,728,10,91,14
+Yuma,P06,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",468,359,13,83,13
+Yuma,P07,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",600,454,13,107,26
+Yuma,P08,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",343,316,2,21,4
+Yuma,P09,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",834,675,10,134,15
+Yuma,P10,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",1317,1102,26,167,22
+Yuma,P11,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",815,666,12,109,28
+Yuma,P12,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",556,459,5,81,11
+Yuma,P13,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",417,353,10,51,3
+Yuma,P14,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",154,129,2,21,2
+Yuma,P15,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",681,555,15,97,14
+Yuma,P16,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",457,391,4,54,8
+Yuma,P17,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",1094,900,13,137,44
+Yuma,P18,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",77,62,2,13,0
+Yuma,P19,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",37,24,3,10,0
+Yuma,P20,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",597,416,7,138,36
+Yuma,P21,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",0,0,0,0,0
+Yuma,P22,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",713,590,12,95,16
+Yuma,P23,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",776,675,5,86,10
+Yuma,P24,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",1424,1266,6,120,32
+Yuma,P25,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",1100,948,13,123,16
+Yuma,P26,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",209,183,2,19,5
+Yuma,P27,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",247,209,4,32,2
+Yuma,P28,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",173,140,2,26,5
+Yuma,P29,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",676,509,14,128,25
+Yuma,P30,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",599,474,11,106,8
+Yuma,P31,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",1009,747,27,209,26
+Yuma,P32,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",302,238,3,56,5
+Yuma,P33,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",206,170,1,32,3
+Yuma,P34,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",202,168,1,30,3
+Yuma,P35,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",550,477,6,59,8
+Yuma,P36,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",588,506,8,61,13
+Yuma,P37,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",480,406,10,54,10
+Yuma,P38,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",452,375,4,66,7
+Yuma,P39,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",587,498,5,81,3
+Yuma,P40,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",514,450,3,55,6
+Yuma,P41,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",680,584,7,71,18
+Yuma,P42,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",689,556,10,104,19
+Yuma,P43,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",10,7,0,2,1
+Yuma,P44,Judge of the Superior Court Div. 1,,,"NSON, NATHANIEL",0,0,0,0,0
+Yuma,P01,Judge of the Superior Court Div. 1,,,"ES, MARK",410,340,8,54,8
+Yuma,P02,Judge of the Superior Court Div. 1,,,"ES, MARK",492,396,12,74,10
+Yuma,P03,Judge of the Superior Court Div. 1,,,"ES, MARK",457,373,7,62,15
+Yuma,P04,Judge of the Superior Court Div. 1,,,"ES, MARK",1414,1193,20,170,31
+Yuma,P05,Judge of the Superior Court Div. 1,,,"ES, MARK",818,726,8,81,3
+Yuma,P06,Judge of the Superior Court Div. 1,,,"ES, MARK",920,717,14,162,27
+Yuma,P07,Judge of the Superior Court Div. 1,,,"ES, MARK",1160,883,25,216,36
+Yuma,P08,Judge of the Superior Court Div. 1,,,"ES, MARK",555,499,7,38,11
+Yuma,P09,Judge of the Superior Court Div. 1,,,"ES, MARK",686,554,13,108,11
+Yuma,P10,Judge of the Superior Court Div. 1,,,"ES, MARK",1973,1631,32,280,30
+Yuma,P11,Judge of the Superior Court Div. 1,,,"ES, MARK",831,665,12,135,19
+Yuma,P12,Judge of the Superior Court Div. 1,,,"ES, MARK",924,814,10,91,9
+Yuma,P13,Judge of the Superior Court Div. 1,,,"ES, MARK",658,563,9,78,8
+Yuma,P14,Judge of the Superior Court Div. 1,,,"ES, MARK",201,163,4,31,3
+Yuma,P15,Judge of the Superior Court Div. 1,,,"ES, MARK",1010,869,16,117,8
+Yuma,P16,Judge of the Superior Court Div. 1,,,"ES, MARK",823,688,10,112,13
+Yuma,P17,Judge of the Superior Court Div. 1,,,"ES, MARK",1069,865,19,159,26
+Yuma,P18,Judge of the Superior Court Div. 1,,,"ES, MARK",129,95,3,30,1
+Yuma,P19,Judge of the Superior Court Div. 1,,,"ES, MARK",44,36,0,7,1
+Yuma,P20,Judge of the Superior Court Div. 1,,,"ES, MARK",911,651,21,199,40
+Yuma,P21,Judge of the Superior Court Div. 1,,,"ES, MARK",0,0,0,0,0
+Yuma,P22,Judge of the Superior Court Div. 1,,,"ES, MARK",1266,1026,19,191,30
+Yuma,P23,Judge of the Superior Court Div. 1,,,"ES, MARK",734,642,9,75,8
+Yuma,P24,Judge of the Superior Court Div. 1,,,"ES, MARK",2479,2149,20,284,26
+Yuma,P25,Judge of the Superior Court Div. 1,,,"ES, MARK",1054,919,13,114,8
+Yuma,P26,Judge of the Superior Court Div. 1,,,"ES, MARK",282,231,5,37,9
+Yuma,P27,Judge of the Superior Court Div. 1,,,"ES, MARK",345,290,4,43,8
+Yuma,P28,Judge of the Superior Court Div. 1,,,"ES, MARK",247,204,7,31,5
+Yuma,P29,Judge of the Superior Court Div. 1,,,"ES, MARK",1278,987,23,230,38
+Yuma,P30,Judge of the Superior Court Div. 1,,,"ES, MARK",1100,880,22,173,25
+Yuma,P31,Judge of the Superior Court Div. 1,,,"ES, MARK",1823,1373,48,358,44
+Yuma,P32,Judge of the Superior Court Div. 1,,,"ES, MARK",452,364,7,73,8
+Yuma,P33,Judge of the Superior Court Div. 1,,,"ES, MARK",197,169,3,21,4
+Yuma,P34,Judge of the Superior Court Div. 1,,,"ES, MARK",341,291,0,45,5
+Yuma,P35,Judge of the Superior Court Div. 1,,,"ES, MARK",641,569,15,53,4
+Yuma,P36,Judge of the Superior Court Div. 1,,,"ES, MARK",871,743,11,102,15
+Yuma,P37,Judge of the Superior Court Div. 1,,,"ES, MARK",738,621,20,85,12
+Yuma,P38,Judge of the Superior Court Div. 1,,,"ES, MARK",858,728,13,105,12
+Yuma,P39,Judge of the Superior Court Div. 1,,,"ES, MARK",751,647,18,81,5
+Yuma,P40,Judge of the Superior Court Div. 1,,,"ES, MARK",848,725,17,96,10
+Yuma,P41,Judge of the Superior Court Div. 1,,,"ES, MARK",948,829,9,102,8
+Yuma,P42,Judge of the Superior Court Div. 1,,,"ES, MARK",1157,951,24,147,35
+Yuma,P43,Judge of the Superior Court Div. 1,,,"ES, MARK",12,11,0,0,1
+Yuma,P44,Judge of the Superior Court Div. 1,,,"ES, MARK",0,0,0,0,0
+Yuma,P01,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",604,488,10,92,14
+Yuma,P02,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",690,549,16,110,15
+Yuma,P03,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",731,592,12,110,17
+Yuma,P04,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",2156,1809,31,272,44
+Yuma,P05,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1471,1272,18,164,17
+Yuma,P06,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1257,970,22,224,41
+Yuma,P07,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1609,1209,35,305,60
+Yuma,P08,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",814,737,8,58,11
+Yuma,P09,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1443,1163,19,235,26
+Yuma,P10,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",3013,2479,58,429,47
+Yuma,P11,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1491,1188,20,232,51
+Yuma,P12,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1327,1136,12,160,19
+Yuma,P13,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1005,854,18,125,8
+Yuma,P14,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",333,274,6,49,4
+Yuma,P15,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1513,1268,25,199,21
+Yuma,P16,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1149,956,12,161,20
+Yuma,P17,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",2006,1624,26,291,65
+Yuma,P18,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",179,132,4,43,0
+Yuma,P19,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",74,56,2,16,0
+Yuma,P20,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1405,998,26,321,60
+Yuma,P21,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",0,0,0,0,0
+Yuma,P22,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1806,1458,29,278,41
+Yuma,P23,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1384,1206,14,150,14
+Yuma,P24,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",3588,3132,24,375,57
+Yuma,P25,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1976,1697,26,226,27
+Yuma,P26,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",459,386,6,54,13
+Yuma,P27,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",549,469,6,68,6
+Yuma,P28,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",375,312,6,50,7
+Yuma,P29,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1729,1325,33,315,56
+Yuma,P30,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1456,1161,28,239,28
+Yuma,P31,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",2522,1912,67,475,68
+Yuma,P32,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",695,556,11,115,13
+Yuma,P33,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",351,296,4,47,4
+Yuma,P34,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",504,420,1,75,8
+Yuma,P35,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1068,928,21,108,11
+Yuma,P36,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1330,1131,15,158,26
+Yuma,P37,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1141,972,27,127,15
+Yuma,P38,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1169,980,16,158,15
+Yuma,P39,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1213,1033,21,152,7
+Yuma,P40,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1204,1035,18,136,15
+Yuma,P41,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1455,1262,15,154,24
+Yuma,P42,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",1638,1336,25,225,52
+Yuma,P43,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",22,18,0,2,2
+Yuma,P44,Judge of the Superior Court Div. 2,,,"AR, R. ERIN",0,0,0,0,0
+Yuma,P01,Judge of the Superior Court Div. 4,,,", DAVID",595,478,11,91,15
+Yuma,P02,Judge of the Superior Court Div. 4,,,", DAVID",707,558,16,116,17
+Yuma,P03,Judge of the Superior Court Div. 4,,,", DAVID",725,589,11,108,17
+Yuma,P04,Judge of the Superior Court Div. 4,,,", DAVID",2149,1806,29,272,42
+Yuma,P05,Judge of the Superior Court Div. 4,,,", DAVID",1481,1281,18,168,14
+Yuma,P06,Judge of the Superior Court Div. 4,,,", DAVID",1251,967,21,226,37
+Yuma,P07,Judge of the Superior Court Div. 4,,,", DAVID",1609,1208,36,306,59
+Yuma,P08,Judge of the Superior Court Div. 4,,,", DAVID",832,754,9,57,12
+Yuma,P09,Judge of the Superior Court Div. 4,,,", DAVID",1471,1195,16,236,24
+Yuma,P10,Judge of the Superior Court Div. 4,,,", DAVID",3008,2476,58,426,48
+Yuma,P11,Judge of the Superior Court Div. 4,,,", DAVID",1505,1203,21,231,50
+Yuma,P12,Judge of the Superior Court Div. 4,,,", DAVID",1359,1162,13,160,24
+Yuma,P13,Judge of the Superior Court Div. 4,,,", DAVID",1010,859,18,125,8
+Yuma,P14,Judge of the Superior Court Div. 4,,,", DAVID",339,281,5,49,4
+Yuma,P15,Judge of the Superior Court Div. 4,,,", DAVID",1545,1297,26,201,21
+Yuma,P16,Judge of the Superior Court Div. 4,,,", DAVID",1142,955,11,157,19
+Yuma,P17,Judge of the Superior Court Div. 4,,,", DAVID",2019,1636,25,292,66
+Yuma,P18,Judge of the Superior Court Div. 4,,,", DAVID",180,132,4,44,0
+Yuma,P19,Judge of the Superior Court Div. 4,,,", DAVID",72,53,2,17,0
+Yuma,P20,Judge of the Superior Court Div. 4,,,", DAVID",1438,1020,27,327,64
+Yuma,P21,Judge of the Superior Court Div. 4,,,", DAVID",0,0,0,0,0
+Yuma,P22,Judge of the Superior Court Div. 4,,,", DAVID",1806,1459,28,280,39
+Yuma,P23,Judge of the Superior Court Div. 4,,,", DAVID",1420,1240,14,150,16
+Yuma,P24,Judge of the Superior Court Div. 4,,,", DAVID",3630,3165,24,384,57
+Yuma,P25,Judge of the Superior Court Div. 4,,,", DAVID",2031,1746,26,231,28
+Yuma,P26,Judge of the Superior Court Div. 4,,,", DAVID",455,385,6,53,11
+Yuma,P27,Judge of the Superior Court Div. 4,,,", DAVID",557,473,7,71,6
+Yuma,P28,Judge of the Superior Court Div. 4,,,", DAVID",378,319,7,45,7
+Yuma,P29,Judge of the Superior Court Div. 4,,,", DAVID",1723,1313,34,322,54
+Yuma,P30,Judge of the Superior Court Div. 4,,,", DAVID",1461,1159,30,245,27
+Yuma,P31,Judge of the Superior Court Div. 4,,,", DAVID",2540,1910,67,494,69
+Yuma,P32,Judge of the Superior Court Div. 4,,,", DAVID",697,554,11,119,13
+Yuma,P33,Judge of the Superior Court Div. 4,,,", DAVID",358,304,4,46,4
+Yuma,P34,Judge of the Superior Court Div. 4,,,", DAVID",517,434,1,74,8
+Yuma,P35,Judge of the Superior Court Div. 4,,,", DAVID",1106,966,21,110,9
+Yuma,P36,Judge of the Superior Court Div. 4,,,", DAVID",1353,1154,14,159,26
+Yuma,P37,Judge of the Superior Court Div. 4,,,", DAVID",1137,970,25,127,15
+Yuma,P38,Judge of the Superior Court Div. 4,,,", DAVID",1176,978,17,163,18
+Yuma,P39,Judge of the Superior Court Div. 4,,,", DAVID",1241,1061,21,153,6
+Yuma,P40,Judge of the Superior Court Div. 4,,,", DAVID",1226,1051,18,143,14
+Yuma,P41,Judge of the Superior Court Div. 4,,,", DAVID",1487,1289,16,157,25
+Yuma,P42,Judge of the Superior Court Div. 4,,,", DAVID",1645,1340,27,227,51
+Yuma,P43,Judge of the Superior Court Div. 4,,,", DAVID",24,20,0,2,2
+Yuma,P44,Judge of the Superior Court Div. 4,,,", DAVID",0,0,0,0,0
+Yuma,P01,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",576,465,9,88,14
+Yuma,P02,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",682,541,15,112,14
+Yuma,P03,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",713,578,12,106,17
+Yuma,P04,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",2098,1761,29,265,43
+Yuma,P05,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1416,1220,18,163,15
+Yuma,P06,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1214,935,20,220,39
+Yuma,P07,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1578,1185,35,299,59
+Yuma,P08,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",779,709,8,52,10
+Yuma,P09,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1413,1143,15,232,23
+Yuma,P10,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",2936,2414,57,421,44
+Yuma,P11,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1457,1162,19,231,45
+Yuma,P12,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1301,1109,13,158,21
+Yuma,P13,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",980,827,19,126,8
+Yuma,P14,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",318,265,5,44,4
+Yuma,P15,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1439,1206,25,189,19
+Yuma,P16,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1117,929,13,156,19
+Yuma,P17,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1967,1591,25,285,66
+Yuma,P18,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",179,131,4,44,0
+Yuma,P19,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",72,53,2,17,0
+Yuma,P20,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1386,992,25,312,57
+Yuma,P21,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",0,0,0,0,0
+Yuma,P22,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1745,1412,26,268,39
+Yuma,P23,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1353,1179,14,147,13
+Yuma,P24,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",3499,3046,23,375,55
+Yuma,P25,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1940,1664,24,225,27
+Yuma,P26,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",442,374,4,53,11
+Yuma,P27,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",541,462,6,67,6
+Yuma,P28,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",365,305,7,47,6
+Yuma,P29,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1697,1298,34,309,56
+Yuma,P30,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1420,1129,30,235,26
+Yuma,P31,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",2475,1872,63,472,68
+Yuma,P32,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",673,534,11,115,13
+Yuma,P33,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",339,285,4,46,4
+Yuma,P34,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",506,423,1,74,8
+Yuma,P35,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1058,923,20,106,9
+Yuma,P36,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1282,1087,12,157,26
+Yuma,P37,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1100,936,24,126,14
+Yuma,P38,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1130,943,16,156,15
+Yuma,P39,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1193,1014,21,152,6
+Yuma,P40,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1187,1019,18,136,14
+Yuma,P41,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1433,1240,16,153,24
+Yuma,P42,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",1593,1295,25,221,52
+Yuma,P43,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",21,17,0,2,2
+Yuma,P44,Judge of the Superior Court Div. 6,,,"EY, BRANDON S.",0,0,0,0,0
+Yuma,P07,Board Member Gadsden ESD 32,,,"A HOYA, TADEO AZAEL",0,0,0,0,0
+Yuma,P28,Board Member Gadsden ESD 32,,,"A HOYA, TADEO AZAEL",81,64,3,13,1
+Yuma,P29,Board Member Gadsden ESD 32,,,"A HOYA, TADEO AZAEL",1199,929,17,215,38
+Yuma,P30,Board Member Gadsden ESD 32,,,"A HOYA, TADEO AZAEL",1141,904,23,189,25
+Yuma,P31,Board Member Gadsden ESD 32,,,"A HOYA, TADEO AZAEL",1397,1053,27,287,30
+Yuma,P07,Board Member Gadsden ESD 32,,,"ER, GARY",0,0,0,0,0
+Yuma,P28,Board Member Gadsden ESD 32,,,"ER, GARY",48,35,4,7,2
+Yuma,P29,Board Member Gadsden ESD 32,,,"ER, GARY",585,421,11,133,20
+Yuma,P30,Board Member Gadsden ESD 32,,,"ER, GARY",566,439,11,100,16
+Yuma,P31,Board Member Gadsden ESD 32,,,"ER, GARY",809,610,15,164,20
+Yuma,P07,Board Member Gadsden ESD 32,,,"LA, ROSA",0,0,0,0,0
+Yuma,P28,Board Member Gadsden ESD 32,,,"LA, ROSA",90,72,3,14,1
+Yuma,P29,Board Member Gadsden ESD 32,,,"LA, ROSA",1322,1035,23,225,39
+Yuma,P30,Board Member Gadsden ESD 32,,,"LA, ROSA",1139,928,15,175,21
+Yuma,P31,Board Member Gadsden ESD 32,,,"LA, ROSA",1467,1107,24,298,38
+Yuma,P01,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",216,176,3,29,8
+Yuma,P02,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",272,230,1,36,5
+Yuma,P03,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",208,180,0,25,3
+Yuma,P04,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",678,614,4,50,10
+Yuma,P05,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",572,526,1,38,7
+Yuma,P06,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",347,282,4,53,8
+Yuma,P07,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",448,351,9,73,15
+Yuma,P08,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",380,354,2,19,5
+Yuma,P09,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",531,461,4,60,6
+Yuma,P10,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",867,740,11,110,6
+Yuma,P11,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",523,434,7,66,16
+Yuma,P12,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",666,598,1,57,10
+Yuma,P13,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",410,360,4,42,4
+Yuma,P14,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",136,118,1,15,2
+Yuma,P15,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",606,546,5,51,4
+Yuma,P16,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",449,390,1,50,8
+Yuma,P17,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",675,573,10,74,18
+Yuma,P18,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",72,50,1,20,1
+Yuma,P19,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",2,1,0,1,0
+Yuma,P20,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",569,434,8,97,30
+Yuma,P21,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",0,0,0,0,0
+Yuma,P22,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",576,495,3,66,12
+Yuma,P23,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",508,451,1,49,7
+Yuma,P24,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",1428,1257,9,143,19
+Yuma,P25,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",995,867,11,108,9
+Yuma,P26,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",103,89,2,11,1
+Yuma,P27,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",182,165,1,12,4
+Yuma,P28,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",127,115,3,9,0
+Yuma,P29,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",359,253,6,87,13
+Yuma,P30,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",366,279,9,73,5
+Yuma,P31,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",615,417,22,160,16
+Yuma,P32,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",206,174,0,29,3
+Yuma,P33,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",126,104,1,20,1
+Yuma,P34,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",185,166,0,19,0
+Yuma,P35,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",452,422,4,22,4
+Yuma,P36,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",546,488,4,47,7
+Yuma,P37,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",440,402,4,26,8
+Yuma,P38,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",484,434,4,43,3
+Yuma,P39,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",515,464,3,45,3
+Yuma,P40,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",468,419,4,41,4
+Yuma,P41,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",590,527,5,52,6
+Yuma,P42,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",571,493,2,61,15
+Yuma,P43,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",13,10,0,2,1
+Yuma,P44,Board Member Hospital Dist Brd 1,,,"ELL, ROBERT",0,0,0,0,0
+Yuma,P01,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",78,64,0,13,1
+Yuma,P02,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",112,89,1,20,2
+Yuma,P03,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",94,77,2,13,2
+Yuma,P04,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",322,272,3,43,4
+Yuma,P05,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",302,256,3,39,4
+Yuma,P06,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",170,136,0,32,2
+Yuma,P07,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",208,137,5,55,11
+Yuma,P08,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",222,197,3,21,1
+Yuma,P09,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",288,229,1,55,3
+Yuma,P10,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",508,405,6,90,7
+Yuma,P11,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",271,220,3,37,11
+Yuma,P12,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",234,203,5,25,1
+Yuma,P13,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",133,111,1,21,0
+Yuma,P14,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",63,53,0,10,0
+Yuma,P15,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",263,221,3,38,1
+Yuma,P16,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",181,151,1,26,3
+Yuma,P17,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",401,320,4,66,11
+Yuma,P18,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",53,36,1,16,0
+Yuma,P19,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",0,0,0,0,0
+Yuma,P20,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",459,295,6,141,17
+Yuma,P21,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",0,0,0,0,0
+Yuma,P22,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",355,291,7,49,8
+Yuma,P23,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",280,226,5,47,2
+Yuma,P24,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",721,610,5,91,15
+Yuma,P25,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",454,378,5,66,5
+Yuma,P26,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",64,46,0,18,0
+Yuma,P27,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",71,61,1,9,0
+Yuma,P28,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",56,45,0,10,1
+Yuma,P29,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",163,115,3,42,3
+Yuma,P30,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",137,96,4,32,5
+Yuma,P31,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",287,214,3,67,3
+Yuma,P32,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",146,117,2,26,1
+Yuma,P33,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",57,52,1,4,0
+Yuma,P34,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",102,85,0,16,1
+Yuma,P35,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",196,177,2,17,0
+Yuma,P36,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",244,215,3,21,5
+Yuma,P37,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",174,143,1,29,1
+Yuma,P38,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",227,180,3,43,1
+Yuma,P39,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",204,173,3,27,1
+Yuma,P40,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",203,176,0,26,1
+Yuma,P41,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",246,216,2,25,3
+Yuma,P42,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",286,227,3,45,11
+Yuma,P43,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",4,4,0,0,0
+Yuma,P44,Board Member Hospital Dist Brd 1,,,"IDGE, JEREMY",0,0,0,0,0
+Yuma,P01,Board Member Hospital Dist Brd 1,,,"H, LOUIS",68,59,1,6,2
+Yuma,P02,Board Member Hospital Dist Brd 1,,,"H, LOUIS",84,63,2,17,2
+Yuma,P03,Board Member Hospital Dist Brd 1,,,"H, LOUIS",83,66,0,14,3
+Yuma,P04,Board Member Hospital Dist Brd 1,,,"H, LOUIS",194,159,1,28,6
+Yuma,P05,Board Member Hospital Dist Brd 1,,,"H, LOUIS",211,184,2,18,7
+Yuma,P06,Board Member Hospital Dist Brd 1,,,"H, LOUIS",79,55,3,21,0
+Yuma,P07,Board Member Hospital Dist Brd 1,,,"H, LOUIS",83,56,3,23,1
+Yuma,P08,Board Member Hospital Dist Brd 1,,,"H, LOUIS",136,121,0,15,0
+Yuma,P09,Board Member Hospital Dist Brd 1,,,"H, LOUIS",279,211,4,59,5
+Yuma,P10,Board Member Hospital Dist Brd 1,,,"H, LOUIS",300,259,6,31,4
+Yuma,P11,Board Member Hospital Dist Brd 1,,,"H, LOUIS",184,149,3,29,3
+Yuma,P12,Board Member Hospital Dist Brd 1,,,"H, LOUIS",199,177,1,21,0
+Yuma,P13,Board Member Hospital Dist Brd 1,,,"H, LOUIS",112,96,2,13,1
+Yuma,P14,Board Member Hospital Dist Brd 1,,,"H, LOUIS",32,23,2,7,0
+Yuma,P15,Board Member Hospital Dist Brd 1,,,"H, LOUIS",260,211,5,42,2
+Yuma,P16,Board Member Hospital Dist Brd 1,,,"H, LOUIS",132,102,2,28,0
+Yuma,P17,Board Member Hospital Dist Brd 1,,,"H, LOUIS",215,177,2,33,3
+Yuma,P18,Board Member Hospital Dist Brd 1,,,"H, LOUIS",26,21,0,5,0
+Yuma,P19,Board Member Hospital Dist Brd 1,,,"H, LOUIS",0,0,0,0,0
+Yuma,P20,Board Member Hospital Dist Brd 1,,,"H, LOUIS",200,136,5,51,8
+Yuma,P21,Board Member Hospital Dist Brd 1,,,"H, LOUIS",0,0,0,0,0
+Yuma,P22,Board Member Hospital Dist Brd 1,,,"H, LOUIS",178,146,1,25,6
+Yuma,P23,Board Member Hospital Dist Brd 1,,,"H, LOUIS",152,140,1,11,0
+Yuma,P24,Board Member Hospital Dist Brd 1,,,"H, LOUIS",391,346,1,40,4
+Yuma,P25,Board Member Hospital Dist Brd 1,,,"H, LOUIS",278,242,2,32,2
+Yuma,P26,Board Member Hospital Dist Brd 1,,,"H, LOUIS",46,38,1,7,0
+Yuma,P27,Board Member Hospital Dist Brd 1,,,"H, LOUIS",73,64,0,9,0
+Yuma,P28,Board Member Hospital Dist Brd 1,,,"H, LOUIS",30,24,2,3,1
+Yuma,P29,Board Member Hospital Dist Brd 1,,,"H, LOUIS",91,67,0,20,4
+Yuma,P30,Board Member Hospital Dist Brd 1,,,"H, LOUIS",81,64,2,12,3
+Yuma,P31,Board Member Hospital Dist Brd 1,,,"H, LOUIS",122,87,4,27,4
+Yuma,P32,Board Member Hospital Dist Brd 1,,,"H, LOUIS",64,50,1,13,0
+Yuma,P33,Board Member Hospital Dist Brd 1,,,"H, LOUIS",45,39,0,6,0
+Yuma,P34,Board Member Hospital Dist Brd 1,,,"H, LOUIS",73,60,0,12,1
+Yuma,P35,Board Member Hospital Dist Brd 1,,,"H, LOUIS",128,106,1,20,1
+Yuma,P36,Board Member Hospital Dist Brd 1,,,"H, LOUIS",149,133,1,14,1
+Yuma,P37,Board Member Hospital Dist Brd 1,,,"H, LOUIS",114,100,1,12,1
+Yuma,P38,Board Member Hospital Dist Brd 1,,,"H, LOUIS",165,144,1,18,2
+Yuma,P39,Board Member Hospital Dist Brd 1,,,"H, LOUIS",184,156,1,27,0
+Yuma,P40,Board Member Hospital Dist Brd 1,,,"H, LOUIS",130,105,1,24,0
+Yuma,P41,Board Member Hospital Dist Brd 1,,,"H, LOUIS",163,140,1,20,2
+Yuma,P42,Board Member Hospital Dist Brd 1,,,"H, LOUIS",127,98,5,20,4
+Yuma,P43,Board Member Hospital Dist Brd 1,,,"H, LOUIS",3,3,0,0,0
+Yuma,P44,Board Member Hospital Dist Brd 1,,,"H, LOUIS",0,0,0,0,0
+Yuma,P01,Board Member Hospital Dist Brd 1,,,"ELL, MARK",81,69,1,11,0
+Yuma,P02,Board Member Hospital Dist Brd 1,,,"ELL, MARK",88,61,1,24,2
+Yuma,P03,Board Member Hospital Dist Brd 1,,,"ELL, MARK",125,101,2,19,3
+Yuma,P04,Board Member Hospital Dist Brd 1,,,"ELL, MARK",437,356,2,73,6
+Yuma,P05,Board Member Hospital Dist Brd 1,,,"ELL, MARK",263,227,2,31,3
+Yuma,P06,Board Member Hospital Dist Brd 1,,,"ELL, MARK",128,98,1,26,3
+Yuma,P07,Board Member Hospital Dist Brd 1,,,"ELL, MARK",170,117,4,42,7
+Yuma,P08,Board Member Hospital Dist Brd 1,,,"ELL, MARK",134,124,2,8,0
+Yuma,P09,Board Member Hospital Dist Brd 1,,,"ELL, MARK",295,215,6,73,1
+Yuma,P10,Board Member Hospital Dist Brd 1,,,"ELL, MARK",867,721,7,130,9
+Yuma,P11,Board Member Hospital Dist Brd 1,,,"ELL, MARK",299,229,6,62,2
+Yuma,P12,Board Member Hospital Dist Brd 1,,,"ELL, MARK",207,168,3,30,6
+Yuma,P13,Board Member Hospital Dist Brd 1,,,"ELL, MARK",104,86,2,15,1
+Yuma,P14,Board Member Hospital Dist Brd 1,,,"ELL, MARK",43,37,0,5,1
+Yuma,P15,Board Member Hospital Dist Brd 1,,,"ELL, MARK",310,244,3,59,4
+Yuma,P16,Board Member Hospital Dist Brd 1,,,"ELL, MARK",216,176,4,34,2
+Yuma,P17,Board Member Hospital Dist Brd 1,,,"ELL, MARK",418,340,7,65,6
+Yuma,P18,Board Member Hospital Dist Brd 1,,,"ELL, MARK",42,36,1,5,0
+Yuma,P19,Board Member Hospital Dist Brd 1,,,"ELL, MARK",0,0,0,0,0
+Yuma,P20,Board Member Hospital Dist Brd 1,,,"ELL, MARK",273,194,4,65,10
+Yuma,P21,Board Member Hospital Dist Brd 1,,,"ELL, MARK",0,0,0,0,0
+Yuma,P22,Board Member Hospital Dist Brd 1,,,"ELL, MARK",554,433,6,101,14
+Yuma,P23,Board Member Hospital Dist Brd 1,,,"ELL, MARK",352,308,6,34,4
+Yuma,P24,Board Member Hospital Dist Brd 1,,,"ELL, MARK",829,717,4,97,11
+Yuma,P25,Board Member Hospital Dist Brd 1,,,"ELL, MARK",356,297,6,51,2
+Yuma,P26,Board Member Hospital Dist Brd 1,,,"ELL, MARK",45,40,0,5,0
+Yuma,P27,Board Member Hospital Dist Brd 1,,,"ELL, MARK",99,83,0,15,1
+Yuma,P28,Board Member Hospital Dist Brd 1,,,"ELL, MARK",45,29,5,7,4
+Yuma,P29,Board Member Hospital Dist Brd 1,,,"ELL, MARK",136,101,5,24,6
+Yuma,P30,Board Member Hospital Dist Brd 1,,,"ELL, MARK",111,79,3,26,3
+Yuma,P31,Board Member Hospital Dist Brd 1,,,"ELL, MARK",217,146,6,65,0
+Yuma,P32,Board Member Hospital Dist Brd 1,,,"ELL, MARK",86,72,0,12,2
+Yuma,P33,Board Member Hospital Dist Brd 1,,,"ELL, MARK",57,44,0,13,0
+Yuma,P34,Board Member Hospital Dist Brd 1,,,"ELL, MARK",123,92,0,30,1
+Yuma,P35,Board Member Hospital Dist Brd 1,,,"ELL, MARK",163,141,0,22,0
+Yuma,P36,Board Member Hospital Dist Brd 1,,,"ELL, MARK",159,136,2,20,1
+Yuma,P37,Board Member Hospital Dist Brd 1,,,"ELL, MARK",114,90,4,17,3
+Yuma,P38,Board Member Hospital Dist Brd 1,,,"ELL, MARK",142,110,2,26,4
+Yuma,P39,Board Member Hospital Dist Brd 1,,,"ELL, MARK",250,203,5,41,1
+Yuma,P40,Board Member Hospital Dist Brd 1,,,"ELL, MARK",243,202,3,36,2
+Yuma,P41,Board Member Hospital Dist Brd 1,,,"ELL, MARK",220,179,2,35,4
+Yuma,P42,Board Member Hospital Dist Brd 1,,,"ELL, MARK",232,187,3,36,6
+Yuma,P43,Board Member Hospital Dist Brd 1,,,"ELL, MARK",1,0,0,0,1
+Yuma,P44,Board Member Hospital Dist Brd 1,,,"ELL, MARK",0,0,0,0,0
+Yuma,P01,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",247,198,1,38,10
+Yuma,P02,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",272,219,8,40,5
+Yuma,P03,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",295,233,3,50,9
+Yuma,P04,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",868,724,10,120,14
+Yuma,P05,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",463,383,7,68,5
+Yuma,P06,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",725,561,12,125,27
+Yuma,P07,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",941,736,18,156,31
+Yuma,P08,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",150,138,1,11,0
+Yuma,P09,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",261,213,4,41,3
+Yuma,P10,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",842,660,20,142,20
+Yuma,P11,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",508,392,6,95,15
+Yuma,P12,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",303,245,3,46,9
+Yuma,P13,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",367,319,3,40,5
+Yuma,P14,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",108,91,0,15,2
+Yuma,P15,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",361,285,9,55,12
+Yuma,P16,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",347,281,4,56,6
+Yuma,P17,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",514,397,4,92,21
+Yuma,P18,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",20,15,1,4,0
+Yuma,P19,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",4,4,0,0,0
+Yuma,P20,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",258,179,5,58,16
+Yuma,P21,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",0,0,0,0,0
+Yuma,P22,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",454,340,4,97,13
+Yuma,P23,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",274,225,2,43,4
+Yuma,P24,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",518,447,2,64,5
+Yuma,P25,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",286,245,6,33,2
+Yuma,P26,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",219,183,3,25,8
+Yuma,P27,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",162,131,4,27,0
+Yuma,P28,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",189,154,3,30,2
+Yuma,P29,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",1413,1099,25,245,44
+Yuma,P30,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",1208,970,21,192,25
+Yuma,P31,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",1838,1393,37,353,55
+Yuma,P32,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",361,275,9,67,10
+Yuma,P33,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",124,102,1,17,4
+Yuma,P34,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",123,95,1,22,5
+Yuma,P35,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",373,314,10,44,5
+Yuma,P36,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",451,370,7,60,14
+Yuma,P37,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",443,365,15,55,8
+Yuma,P38,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",376,304,4,58,10
+Yuma,P39,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",323,258,7,56,2
+Yuma,P40,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",344,277,8,48,11
+Yuma,P41,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",519,439,8,63,9
+Yuma,P42,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",623,498,8,96,21
+Yuma,P43,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",12,11,0,1,0
+Yuma,P44,Board Member Hospital Dist Brd 1,,,"EGUI, MARIO",0,0,0,0,0
+Yuma,P01,Board Member Hospital Dist Brd 1,,,"E, CONNIE",380,307,5,59,9
+Yuma,P02,Board Member Hospital Dist Brd 1,,,"E, CONNIE",464,376,11,70,7
+Yuma,P03,Board Member Hospital Dist Brd 1,,,"E, CONNIE",438,369,6,54,9
+Yuma,P04,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1366,1144,20,173,29
+Yuma,P05,Board Member Hospital Dist Brd 1,,,"E, CONNIE",915,793,7,105,10
+Yuma,P06,Board Member Hospital Dist Brd 1,,,"E, CONNIE",857,664,15,155,23
+Yuma,P07,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1024,803,9,180,32
+Yuma,P08,Board Member Hospital Dist Brd 1,,,"E, CONNIE",527,486,4,29,8
+Yuma,P09,Board Member Hospital Dist Brd 1,,,"E, CONNIE",771,638,4,114,15
+Yuma,P10,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1721,1443,28,225,25
+Yuma,P11,Board Member Hospital Dist Brd 1,,,"E, CONNIE",905,741,7,130,27
+Yuma,P12,Board Member Hospital Dist Brd 1,,,"E, CONNIE",867,749,7,97,14
+Yuma,P13,Board Member Hospital Dist Brd 1,,,"E, CONNIE",651,565,12,67,7
+Yuma,P14,Board Member Hospital Dist Brd 1,,,"E, CONNIE",221,192,2,22,5
+Yuma,P15,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1019,866,13,126,14
+Yuma,P16,Board Member Hospital Dist Brd 1,,,"E, CONNIE",701,595,5,88,13
+Yuma,P17,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1183,956,15,160,52
+Yuma,P18,Board Member Hospital Dist Brd 1,,,"E, CONNIE",102,75,1,25,1
+Yuma,P19,Board Member Hospital Dist Brd 1,,,"E, CONNIE",4,3,0,1,0
+Yuma,P20,Board Member Hospital Dist Brd 1,,,"E, CONNIE",738,550,13,144,31
+Yuma,P21,Board Member Hospital Dist Brd 1,,,"E, CONNIE",0,0,0,0,0
+Yuma,P22,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1049,875,17,135,22
+Yuma,P23,Board Member Hospital Dist Brd 1,,,"E, CONNIE",837,743,5,79,10
+Yuma,P24,Board Member Hospital Dist Brd 1,,,"E, CONNIE",2152,1891,17,210,34
+Yuma,P25,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1104,985,12,91,16
+Yuma,P26,Board Member Hospital Dist Brd 1,,,"E, CONNIE",276,243,2,28,3
+Yuma,P27,Board Member Hospital Dist Brd 1,,,"E, CONNIE",370,314,3,50,3
+Yuma,P28,Board Member Hospital Dist Brd 1,,,"E, CONNIE",226,190,2,28,6
+Yuma,P29,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1041,829,12,170,30
+Yuma,P30,Board Member Hospital Dist Brd 1,,,"E, CONNIE",917,764,11,121,21
+Yuma,P31,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1509,1168,29,269,43
+Yuma,P32,Board Member Hospital Dist Brd 1,,,"E, CONNIE",443,372,6,58,7
+Yuma,P33,Board Member Hospital Dist Brd 1,,,"E, CONNIE",241,209,1,28,3
+Yuma,P34,Board Member Hospital Dist Brd 1,,,"E, CONNIE",299,264,1,30,4
+Yuma,P35,Board Member Hospital Dist Brd 1,,,"E, CONNIE",701,613,13,68,7
+Yuma,P36,Board Member Hospital Dist Brd 1,,,"E, CONNIE",885,763,8,101,13
+Yuma,P37,Board Member Hospital Dist Brd 1,,,"E, CONNIE",686,592,17,66,11
+Yuma,P38,Board Member Hospital Dist Brd 1,,,"E, CONNIE",766,656,9,89,12
+Yuma,P39,Board Member Hospital Dist Brd 1,,,"E, CONNIE",780,675,15,84,6
+Yuma,P40,Board Member Hospital Dist Brd 1,,,"E, CONNIE",788,703,8,68,9
+Yuma,P41,Board Member Hospital Dist Brd 1,,,"E, CONNIE",932,813,7,98,14
+Yuma,P42,Board Member Hospital Dist Brd 1,,,"E, CONNIE",1097,899,18,150,30
+Yuma,P43,Board Member Hospital Dist Brd 1,,,"E, CONNIE",15,13,0,1,1
+Yuma,P44,Board Member Hospital Dist Brd 1,,,"E, CONNIE",0,0,0,0,0
+Yuma,P01,PROPOSITION 207,,,,477,386,7,72,12
+Yuma,P02,PROPOSITION 207,,,,500,392,9,88,11
+Yuma,P03,PROPOSITION 207,,,,484,391,6,76,11
+Yuma,P04,PROPOSITION 207,,,,1530,1266,27,206,31
+Yuma,P05,PROPOSITION 207,,,,1022,883,16,109,14
+Yuma,P06,PROPOSITION 207,,,,860,666,15,156,23
+Yuma,P07,PROPOSITION 207,,,,1077,813,23,204,37
+Yuma,P08,PROPOSITION 207,,,,498,440,7,42,9
+Yuma,P09,PROPOSITION 207,,,,868,683,17,150,18
+Yuma,P10,PROPOSITION 207,,,,2197,1822,37,303,35
+Yuma,P11,PROPOSITION 207,,,,1050,820,22,172,36
+Yuma,P12,PROPOSITION 207,,,,869,734,11,114,10
+Yuma,P13,PROPOSITION 207,,,,713,594,17,95,7
+Yuma,P14,PROPOSITION 207,,,,246,203,4,33,6
+Yuma,P15,PROPOSITION 207,,,,1079,884,22,158,15
+Yuma,P16,PROPOSITION 207,,,,817,660,10,129,18
+Yuma,P17,PROPOSITION 207,,,,1476,1209,23,188,56
+Yuma,P18,PROPOSITION 207,,,,158,119,2,35,2
+Yuma,P19,PROPOSITION 207,,,,58,48,2,7,1
+Yuma,P20,PROPOSITION 207,,,,986,705,25,199,57
+Yuma,P21,PROPOSITION 207,,,,0,0,0,0,0
+Yuma,P22,PROPOSITION 207,,,,1264,1023,22,188,31
+Yuma,P23,PROPOSITION 207,,,,894,772,10,101,11
+Yuma,P24,PROPOSITION 207,,,,2567,2253,21,255,38
+Yuma,P25,PROPOSITION 207,,,,1442,1244,17,155,26
+Yuma,P26,PROPOSITION 207,,,,325,273,2,41,9
+Yuma,P27,PROPOSITION 207,,,,411,342,7,53,9
+Yuma,P28,PROPOSITION 207,,,,218,179,3,33,3
+Yuma,P29,PROPOSITION 207,,,,1069,796,17,219,37
+Yuma,P30,PROPOSITION 207,,,,961,775,23,145,18
+Yuma,P31,PROPOSITION 207,,,,1610,1203,46,319,42
+Yuma,P32,PROPOSITION 207,,,,463,372,11,71,9
+Yuma,P33,PROPOSITION 207,,,,234,191,2,36,5
+Yuma,P34,PROPOSITION 207,,,,316,268,0,43,5
+Yuma,P35,PROPOSITION 207,,,,772,670,14,84,4
+Yuma,P36,PROPOSITION 207,,,,928,785,17,108,18
+Yuma,P37,PROPOSITION 207,,,,845,697,24,109,15
+Yuma,P38,PROPOSITION 207,,,,959,792,13,134,20
+Yuma,P39,PROPOSITION 207,,,,936,788,25,113,10
+Yuma,P40,PROPOSITION 207,,,,844,714,14,107,9
+Yuma,P41,PROPOSITION 207,,,,999,852,9,129,9
+Yuma,P42,PROPOSITION 207,,,,1142,905,19,187,31
+Yuma,P43,PROPOSITION 207,,,,16,14,0,0,2
+Yuma,P44,PROPOSITION 207,,,,0,0,0,0,0
+Yuma,P01,PROPOSITION 207,,,,276,231,5,35,5
+Yuma,P02,PROPOSITION 207,,,,399,328,10,52,9
+Yuma,P03,PROPOSITION 207,,,,410,340,6,54,10
+Yuma,P04,PROPOSITION 207,,,,1170,1012,16,123,19
+Yuma,P05,PROPOSITION 207,,,,948,840,6,90,12
+Yuma,P06,PROPOSITION 207,,,,749,583,16,126,24
+Yuma,P07,PROPOSITION 207,,,,964,739,21,168,36
+Yuma,P08,PROPOSITION 207,,,,531,495,2,28,6
+Yuma,P09,PROPOSITION 207,,,,977,830,10,127,10
+Yuma,P10,PROPOSITION 207,,,,1789,1527,32,202,28
+Yuma,P11,PROPOSITION 207,,,,921,771,7,118,25
+Yuma,P12,PROPOSITION 207,,,,864,762,8,76,18
+Yuma,P13,PROPOSITION 207,,,,537,476,6,51,4
+Yuma,P14,PROPOSITION 207,,,,179,140,3,34,2
+Yuma,P15,PROPOSITION 207,,,,874,756,10,94,14
+Yuma,P16,PROPOSITION 207,,,,627,553,4,59,11
+Yuma,P17,PROPOSITION 207,,,,1187,984,14,159,30
+Yuma,P18,PROPOSITION 207,,,,92,76,3,13,0
+Yuma,P19,PROPOSITION 207,,,,47,33,1,13,0
+Yuma,P20,PROPOSITION 207,,,,950,689,15,210,36
+Yuma,P21,PROPOSITION 207,,,,0,0,0,0,0
+Yuma,P22,PROPOSITION 207,,,,1077,887,13,149,28
+Yuma,P23,PROPOSITION 207,,,,959,857,8,85,9
+Yuma,P24,PROPOSITION 207,,,,2288,2023,13,217,35
+Yuma,P25,PROPOSITION 207,,,,1259,1099,16,135,9
+Yuma,P26,PROPOSITION 207,,,,230,195,6,21,8
+Yuma,P27,PROPOSITION 207,,,,317,279,3,32,3
+Yuma,P28,PROPOSITION 207,,,,261,215,8,32,6
+Yuma,P29,PROPOSITION 207,,,,1091,871,25,159,36
+Yuma,P30,PROPOSITION 207,,,,960,769,14,155,22
+Yuma,P31,PROPOSITION 207,,,,1564,1204,34,282,44
+Yuma,P32,PROPOSITION 207,,,,433,350,6,70,7
+Yuma,P33,PROPOSITION 207,,,,235,205,3,25,2
+Yuma,P34,PROPOSITION 207,,,,336,286,2,42,6
+Yuma,P35,PROPOSITION 207,,,,633,562,12,51,8
+Yuma,P36,PROPOSITION 207,,,,757,653,8,79,17
+Yuma,P37,PROPOSITION 207,,,,534,464,11,46,13
+Yuma,P38,PROPOSITION 207,,,,555,481,9,62,3
+Yuma,P39,PROPOSITION 207,,,,616,531,3,79,3
+Yuma,P40,PROPOSITION 207,,,,700,612,9,69,10
+Yuma,P41,PROPOSITION 207,,,,871,768,13,71,19
+Yuma,P42,PROPOSITION 207,,,,946,792,16,103,35
+Yuma,P43,PROPOSITION 207,,,,13,10,0,3,0
+Yuma,P44,PROPOSITION 207,,,,0,0,0,0,0
+Yuma,P01,PROPOSITION 208,,,,464,386,4,62,12
+Yuma,P02,PROPOSITION 208,,,,509,415,13,72,9
+Yuma,P03,PROPOSITION 208,,,,547,450,7,77,13
+Yuma,P04,PROPOSITION 208,,,,1659,1430,19,177,33
+Yuma,P05,PROPOSITION 208,,,,901,802,10,77,12
+Yuma,P06,PROPOSITION 208,,,,1020,800,15,181,24
+Yuma,P07,PROPOSITION 208,,,,1382,1041,29,256,56
+Yuma,P08,PROPOSITION 208,,,,508,468,3,29,8
+Yuma,P09,PROPOSITION 208,,,,716,603,10,94,9
+Yuma,P10,PROPOSITION 208,,,,1953,1661,34,229,29
+Yuma,P11,PROPOSITION 208,,,,933,770,9,126,28
+Yuma,P12,PROPOSITION 208,,,,739,647,10,74,8
+Yuma,P13,PROPOSITION 208,,,,722,622,15,79,6
+Yuma,P14,PROPOSITION 208,,,,220,185,4,26,5
+Yuma,P15,PROPOSITION 208,,,,991,829,24,120,18
+Yuma,P16,PROPOSITION 208,,,,764,638,11,94,21
+Yuma,P17,PROPOSITION 208,,,,1244,1051,16,132,45
+Yuma,P18,PROPOSITION 208,,,,103,78,2,22,1
+Yuma,P19,PROPOSITION 208,,,,63,55,1,7,0
+Yuma,P20,PROPOSITION 208,,,,775,608,9,132,26
+Yuma,P21,PROPOSITION 208,,,,0,0,0,0,0
+Yuma,P22,PROPOSITION 208,,,,1086,910,20,128,28
+Yuma,P23,PROPOSITION 208,,,,797,712,6,70,9
+Yuma,P24,PROPOSITION 208,,,,1948,1764,13,146,25
+Yuma,P25,PROPOSITION 208,,,,1115,1009,10,84,12
+Yuma,P26,PROPOSITION 208,,,,356,313,4,31,8
+Yuma,P27,PROPOSITION 208,,,,399,348,5,41,5
+Yuma,P28,PROPOSITION 208,,,,280,230,7,39,4
+Yuma,P29,PROPOSITION 208,,,,1393,1097,24,224,48
+Yuma,P30,PROPOSITION 208,,,,1323,1086,19,193,25
+Yuma,P31,PROPOSITION 208,,,,2175,1666,56,396,57
+Yuma,P32,PROPOSITION 208,,,,514,401,13,89,11
+Yuma,P33,PROPOSITION 208,,,,229,202,2,22,3
+Yuma,P34,PROPOSITION 208,,,,254,226,0,21,7
+Yuma,P35,PROPOSITION 208,,,,751,663,17,65,6
+Yuma,P36,PROPOSITION 208,,,,923,792,16,97,18
+Yuma,P37,PROPOSITION 208,,,,856,723,21,92,20
+Yuma,P38,PROPOSITION 208,,,,864,735,13,101,15
+Yuma,P39,PROPOSITION 208,,,,876,748,18,102,8
+Yuma,P40,PROPOSITION 208,,,,832,704,13,99,16
+Yuma,P41,PROPOSITION 208,,,,1039,921,14,90,14
+Yuma,P42,PROPOSITION 208,,,,1213,1011,14,159,29
+Yuma,P43,PROPOSITION 208,,,,12,11,0,0,1
+Yuma,P44,PROPOSITION 208,,,,0,0,0,0,0
+Yuma,P01,PROPOSITION 208,,,,280,223,7,45,5
+Yuma,P02,PROPOSITION 208,,,,387,304,6,66,11
+Yuma,P03,PROPOSITION 208,,,,348,284,5,53,6
+Yuma,P04,PROPOSITION 208,,,,1027,843,23,144,17
+Yuma,P05,PROPOSITION 208,,,,1058,914,10,120,14
+Yuma,P06,PROPOSITION 208,,,,584,443,15,102,24
+Yuma,P07,PROPOSITION 208,,,,650,504,14,116,16
+Yuma,P08,PROPOSITION 208,,,,516,465,6,38,7
+Yuma,P09,PROPOSITION 208,,,,1123,908,16,180,19
+Yuma,P10,PROPOSITION 208,,,,2019,1676,35,275,33
+Yuma,P11,PROPOSITION 208,,,,1020,808,19,160,33
+Yuma,P12,PROPOSITION 208,,,,982,838,8,116,20
+Yuma,P13,PROPOSITION 208,,,,514,434,8,66,6
+Yuma,P14,PROPOSITION 208,,,,193,150,2,38,3
+Yuma,P15,PROPOSITION 208,,,,934,788,7,130,9
+Yuma,P16,PROPOSITION 208,,,,670,565,3,94,8
+Yuma,P17,PROPOSITION 208,,,,1407,1131,22,214,40
+Yuma,P18,PROPOSITION 208,,,,144,114,3,26,1
+Yuma,P19,PROPOSITION 208,,,,44,28,2,13,1
+Yuma,P20,PROPOSITION 208,,,,1161,786,29,280,66
+Yuma,P21,PROPOSITION 208,,,,0,0,0,0,0
+Yuma,P22,PROPOSITION 208,,,,1239,984,16,206,33
+Yuma,P23,PROPOSITION 208,,,,1052,914,12,115,11
+Yuma,P24,PROPOSITION 208,,,,2894,2501,20,325,48
+Yuma,P25,PROPOSITION 208,,,,1565,1322,23,197,23
+Yuma,P26,PROPOSITION 208,,,,196,154,4,30,8
+Yuma,P27,PROPOSITION 208,,,,327,271,5,44,7
+Yuma,P28,PROPOSITION 208,,,,199,168,3,23,5
+Yuma,P29,PROPOSITION 208,,,,764,566,18,155,25
+Yuma,P30,PROPOSITION 208,,,,587,452,16,104,15
+Yuma,P31,PROPOSITION 208,,,,1003,742,24,210,27
+Yuma,P32,PROPOSITION 208,,,,377,317,5,49,6
+Yuma,P33,PROPOSITION 208,,,,235,189,3,39,4
+Yuma,P34,PROPOSITION 208,,,,398,329,2,64,3
+Yuma,P35,PROPOSITION 208,,,,639,557,8,68,6
+Yuma,P36,PROPOSITION 208,,,,749,637,7,90,15
+Yuma,P37,PROPOSITION 208,,,,522,440,12,62,8
+Yuma,P38,PROPOSITION 208,,,,638,532,9,89,8
+Yuma,P39,PROPOSITION 208,,,,656,556,10,85,5
+Yuma,P40,PROPOSITION 208,,,,712,625,10,74,3
+Yuma,P41,PROPOSITION 208,,,,825,696,8,107,14
+Yuma,P42,PROPOSITION 208,,,,866,682,20,128,36
+Yuma,P43,PROPOSITION 208,,,,17,13,0,3,1
+Yuma,P44,PROPOSITION 208,,,,0,0,0,0,0
+Yuma,P06,PROPOSITION 414,,,,1025,791,14,182,38
+Yuma,P07,PROPOSITION 414,,,,1466,1095,30,282,59
+Yuma,P32,PROPOSITION 414,,,,4,3,0,1,0
+Yuma,P06,PROPOSITION 414,,,,293,222,8,54,9
+Yuma,P07,PROPOSITION 414,,,,512,410,9,81,12
+Yuma,P32,PROPOSITION 414,,,,2,2,0,0,0
+Yuma,P06,PROPOSITION 415,,,,1113,850,16,209,38
+Yuma,P07,PROPOSITION 415,,,,1682,1276,31,314,61
+Yuma,P32,PROPOSITION 415,,,,5,4,0,1,0
+Yuma,P06,PROPOSITION 415,,,,204,160,6,32,6
+Yuma,P07,PROPOSITION 415,,,,285,227,6,46,6
+Yuma,P32,PROPOSITION 415,,,,1,1,0,0,0
+Yuma,P01,PROPOSITION 412,,,,488,402,7,72,7
+Yuma,P02,PROPOSITION 412,,,,585,477,13,85,10
+Yuma,P03,PROPOSITION 412,,,,83,66,1,15,1
+Yuma,P04,PROPOSITION 412,,,,1337,1157,13,138,29
+Yuma,P05,PROPOSITION 412,,,,1181,1052,11,108,10
+Yuma,P08,PROPOSITION 412,,,,727,669,6,44,8
+Yuma,P09,PROPOSITION 412,,,,545,443,9,83,10
+Yuma,P10,PROPOSITION 412,,,,2577,2183,33,324,37
+Yuma,P11,PROPOSITION 412,,,,1343,1099,17,182,45
+Yuma,P12,PROPOSITION 412,,,,934,837,4,77,16
+Yuma,P13,PROPOSITION 412,,,,786,673,16,87,10
+Yuma,P14,PROPOSITION 412,,,,275,235,3,33,4
+Yuma,P15,PROPOSITION 412,,,,1312,1111,20,159,22
+Yuma,P16,PROPOSITION 412,,,,971,822,10,123,16
+Yuma,P17,PROPOSITION 412,,,,243,220,0,18,5
+Yuma,P21,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P22,PROPOSITION 412,,,,303,269,4,27,3
+Yuma,P26,PROPOSITION 412,,,,291,247,5,33,6
+Yuma,P27,PROPOSITION 412,,,,48,38,3,5,2
+Yuma,P31,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P32,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P33,PROPOSITION 412,,,,4,4,0,0,0
+Yuma,P35,PROPOSITION 412,,,,870,776,13,75,6
+Yuma,P36,PROPOSITION 412,,,,891,759,10,108,14
+Yuma,P37,PROPOSITION 412,,,,901,778,16,95,12
+Yuma,P38,PROPOSITION 412,,,,972,830,13,118,11
+Yuma,P39,PROPOSITION 412,,,,1063,912,17,124,10
+Yuma,P40,PROPOSITION 412,,,,1039,905,13,108,13
+Yuma,P41,PROPOSITION 412,,,,1234,1073,12,130,19
+Yuma,P42,PROPOSITION 412,,,,1406,1168,21,181,36
+Yuma,P43,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P44,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P01,PROPOSITION 412,,,,205,165,3,30,7
+Yuma,P02,PROPOSITION 412,,,,255,197,5,45,8
+Yuma,P03,PROPOSITION 412,,,,27,18,2,7,0
+Yuma,P04,PROPOSITION 412,,,,485,405,9,65,6
+Yuma,P05,PROPOSITION 412,,,,375,313,6,47,9
+Yuma,P08,PROPOSITION 412,,,,251,226,3,17,5
+Yuma,P09,PROPOSITION 412,,,,193,147,3,41,2
+Yuma,P10,PROPOSITION 412,,,,975,795,21,140,19
+Yuma,P11,PROPOSITION 412,,,,475,374,8,81,12
+Yuma,P12,PROPOSITION 412,,,,265,223,3,37,2
+Yuma,P13,PROPOSITION 412,,,,382,324,5,52,1
+Yuma,P14,PROPOSITION 412,,,,116,86,2,26,2
+Yuma,P15,PROPOSITION 412,,,,497,410,9,74,4
+Yuma,P16,PROPOSITION 412,,,,379,315,4,54,6
+Yuma,P17,PROPOSITION 412,,,,85,73,3,9,0
+Yuma,P21,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P22,PROPOSITION 412,,,,97,80,0,14,3
+Yuma,P26,PROPOSITION 412,,,,142,113,1,22,6
+Yuma,P27,PROPOSITION 412,,,,23,17,1,5,0
+Yuma,P31,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P32,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P33,PROPOSITION 412,,,,1,0,0,1,0
+Yuma,P35,PROPOSITION 412,,,,304,256,5,37,6
+Yuma,P36,PROPOSITION 412,,,,386,329,6,43,8
+Yuma,P37,PROPOSITION 412,,,,381,311,11,47,12
+Yuma,P38,PROPOSITION 412,,,,436,365,7,57,7
+Yuma,P39,PROPOSITION 412,,,,372,316,8,47,1
+Yuma,P40,PROPOSITION 412,,,,394,332,7,52,3
+Yuma,P41,PROPOSITION 412,,,,487,417,6,57,7
+Yuma,P42,PROPOSITION 412,,,,541,431,11,73,26
+Yuma,P43,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P44,PROPOSITION 412,,,,0,0,0,0,0
+Yuma,P01,PROPOSITION 413,,,,502,419,6,69,8
+Yuma,P02,PROPOSITION 413,,,,585,472,11,91,11
+Yuma,P03,PROPOSITION 413,,,,94,72,1,20,1
+Yuma,P04,PROPOSITION 413,,,,1316,1149,12,131,24
+Yuma,P05,PROPOSITION 413,,,,1175,1046,12,108,9
+Yuma,P08,PROPOSITION 413,,,,722,665,8,44,5
+Yuma,P09,PROPOSITION 413,,,,542,446,7,80,9
+Yuma,P10,PROPOSITION 413,,,,2563,2174,32,320,37
+Yuma,P11,PROPOSITION 413,,,,1352,1106,17,184,45
+Yuma,P12,PROPOSITION 413,,,,922,828,4,75,15
+Yuma,P13,PROPOSITION 413,,,,797,680,15,93,9
+Yuma,P14,PROPOSITION 413,,,,261,223,3,30,5
+Yuma,P15,PROPOSITION 413,,,,1313,1113,16,165,19
+Yuma,P16,PROPOSITION 413,,,,969,820,10,123,16
+Yuma,P17,PROPOSITION 413,,,,247,221,1,20,5
+Yuma,P21,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P22,PROPOSITION 413,,,,299,266,3,29,1
+Yuma,P26,PROPOSITION 413,,,,309,260,5,37,7
+Yuma,P27,PROPOSITION 413,,,,50,39,1,8,2
+Yuma,P31,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P32,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P33,PROPOSITION 413,,,,4,4,0,0,0
+Yuma,P35,PROPOSITION 413,,,,861,765,12,78,6
+Yuma,P36,PROPOSITION 413,,,,859,724,10,109,16
+Yuma,P37,PROPOSITION 413,,,,909,783,18,96,12
+Yuma,P38,PROPOSITION 413,,,,985,840,14,118,13
+Yuma,P39,PROPOSITION 413,,,,1084,933,14,129,8
+Yuma,P40,PROPOSITION 413,,,,1060,919,15,114,12
+Yuma,P41,PROPOSITION 413,,,,1248,1082,9,136,21
+Yuma,P42,PROPOSITION 413,,,,1405,1160,19,187,39
+Yuma,P43,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P44,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P01,PROPOSITION 413,,,,197,153,4,34,6
+Yuma,P02,PROPOSITION 413,,,,251,197,7,39,8
+Yuma,P03,PROPOSITION 413,,,,16,12,2,2,0
+Yuma,P04,PROPOSITION 413,,,,495,407,10,69,9
+Yuma,P05,PROPOSITION 413,,,,375,315,4,46,10
+Yuma,P08,PROPOSITION 413,,,,256,227,1,20,8
+Yuma,P09,PROPOSITION 413,,,,191,143,5,40,3
+Yuma,P10,PROPOSITION 413,,,,961,783,20,139,19
+Yuma,P11,PROPOSITION 413,,,,462,364,7,78,13
+Yuma,P12,PROPOSITION 413,,,,268,225,3,37,3
+Yuma,P13,PROPOSITION 413,,,,369,316,6,45,2
+Yuma,P14,PROPOSITION 413,,,,127,96,2,28,1
+Yuma,P15,PROPOSITION 413,,,,483,399,11,65,8
+Yuma,P16,PROPOSITION 413,,,,379,312,4,58,5
+Yuma,P17,PROPOSITION 413,,,,81,73,2,6,0
+Yuma,P21,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P22,PROPOSITION 413,,,,103,84,1,13,5
+Yuma,P26,PROPOSITION 413,,,,122,96,1,19,6
+Yuma,P27,PROPOSITION 413,,,,21,16,3,2,0
+Yuma,P31,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P32,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P33,PROPOSITION 413,,,,1,0,0,1,0
+Yuma,P35,PROPOSITION 413,,,,305,257,6,36,6
+Yuma,P36,PROPOSITION 413,,,,420,365,6,43,6
+Yuma,P37,PROPOSITION 413,,,,380,311,9,47,13
+Yuma,P38,PROPOSITION 413,,,,428,355,6,61,6
+Yuma,P39,PROPOSITION 413,,,,350,297,11,39,3
+Yuma,P40,PROPOSITION 413,,,,362,307,5,46,4
+Yuma,P41,PROPOSITION 413,,,,463,401,7,50,5
+Yuma,P42,PROPOSITION 413,,,,531,426,12,70,23
+Yuma,P43,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P44,PROPOSITION 413,,,,0,0,0,0,0
+Yuma,P29,QUESTION 1,,,,1714,1320,34,301,59
+Yuma,P30,QUESTION 1,,,,1445,1162,27,232,24
+Yuma,P31,QUESTION 1,,,,2478,1875,58,481,64
+Yuma,P29,QUESTION 1,,,,396,308,6,68,14
+Yuma,P30,QUESTION 1,,,,406,326,9,60,11
+Yuma,P31,QUESTION 1,,,,585,440,17,111,17
