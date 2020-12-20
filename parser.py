@@ -3,10 +3,10 @@ import unicodecsv
 headers = ['county', 'office', 'district', 'party', 'candidate', 'votes', 'winner', 'write-in', 'notes']
 counties = ['Apache','Cochise','Coconino','Gila','Graham','Greenlee','La Paz','Maricopa','Mohave','Navajo','Pima','Pinal','Santa Cruz','Yavapai','Yuma','']
 cds = ['U.S. House 1', 'U.S. House 2', 'U.S. House 3', 'U.S. House 4', 'U.S. House 5', 'U.S. House 6', 'U.S. House 7', 'U.S. House 8', '']
-offices = ['PRESIDENT OF THE UNITED STATES', 'U.S. SENATOR', 'U.S. REPRESENTATIVE IN CONGRESS', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER', 'SUPERINTENDENT OF PUBLIC INSTRUCTION', 'STATE MINE INSPECTOR', 'CORPORATION COMMISSIONER', 'CORPORATION COMMISSION', 'PRESIDENTIAL ELECTORS']
+offices = ['PRESIDENT OF THE UNITED STATES', 'U.S. Senate', 'U.S. REPRESENTATIVE IN CONGRESS', 'GOVERNOR', 'STATE SENATOR', 'STATE REPRESENTATIVE', 'SECRETARY OF STATE', 'ATTORNEY GENERAL', 'STATE TREASURER', 'SUPERINTENDENT OF PUBLIC INSTRUCTION', 'STATE MINE INSPECTOR', 'CORPORATION COMMISSIONER', 'CORPORATION COMMISSION', 'PRESIDENTIAL ELECTORS']
 office_lookup = {
-    'U.S. SENATOR' : 'U.S. Senate', 'U.S. REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
-    'STATE REPRESENTATIVE' : 'State House', 'SECRETARY OF STATE' : 'Secretary of State', 'ATTORNEY GENERAL' : 'Attorney General',
+    'U.S. Senate' : 'U.S. Senate', 'U.S. REPRESENTATIVE IN CONGRESS' : 'U.S. House', 'GOVERNOR' : 'Governor', 'STATE SENATOR' : 'State Senate',
+    'STATE REPRESENTATIVE' : 'State Representative', 'SECRETARY OF STATE' : 'Secretary of State', 'ATTORNEY GENERAL' : 'Attorney General',
     'STATE TREASURER' : 'State Treasurer', 'SUPERINTENDENT OF PUBLIC INSTRUCTION' : 'Superintendent of Public Instruction',
     'STATE MINE INSPECTOR' : 'State Mine Inspector', 'CORPORATION COMMISSIONER' : 'Corporation Commissioner', 'PRESIDENT OF THE UNITED STATES' : 'President',
     'CORPORATION COMMISSION' : 'Corporation Commissioner', 'PRESIDENTIAL ELECTORS' : 'President'
