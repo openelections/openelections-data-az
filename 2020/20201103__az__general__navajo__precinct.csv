@@ -1,0 +1,1743 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,late_early_voting,provisional
+Navajo,01 RED BUTTE,Registered Voters,,,,12793,,,,
+Navajo,01 RED BUTTE,Ballots Cast,,,,7858,2145,5017,679,17
+Navajo,01 RED BUTTE,Ballots Cast - Blank,,,,1,1,0,0,0
+Navajo,01 RED BUTTE,President,,REP,"TRUMP, PENCE",1044,406,542,93,3
+Navajo,01 RED BUTTE,President,,DEM,"BIDEN, HARRIS",6500,1665,4264,558,13
+Navajo,01 RED BUTTE,President,,LBT,"JORGENSEN, COHEN",116,28,73,15,0
+Navajo,01 RED BUTTE,President,,,Write-In Totals,26,11,14,1,0
+Navajo,01 RED BUTTE,President,,,Overvotes,137,26,101,9,1
+Navajo,01 RED BUTTE,President,,,Undervotes,35,9,23,3,0
+Navajo,01 RED BUTTE,U.S. Senate,,REP,"MCSALLY, MARTHA",1084,404,587,91,2
+Navajo,01 RED BUTTE,U.S. Senate,,DEM,"KELLY, MARK",6602,1694,4316,577,15
+Navajo,01 RED BUTTE,U.S. Senate,,,Write-In Totals,31,4,26,1,0
+Navajo,01 RED BUTTE,U.S. Senate,,,Overvotes,9,3,5,1,0
+Navajo,01 RED BUTTE,U.S. Senate,,,Undervotes,132,40,83,9,0
+Navajo,01 RED BUTTE,U.S. House,1,REP,"SHEDD, TIFFANY",1160,494,563,100,3
+Navajo,01 RED BUTTE,U.S. House,1,DEM,"O'HALLERAN, TOM",6465,1582,4304,565,14
+Navajo,01 RED BUTTE,U.S. House,1,,Write-In Totals,29,3,26,0,0
+Navajo,01 RED BUTTE,U.S. House,1,,Overvotes,7,2,4,1,0
+Navajo,01 RED BUTTE,U.S. House,1,,Undervotes,197,64,120,13,0
+Navajo,01 RED BUTTE,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",7117,1883,4599,618,17
+Navajo,01 RED BUTTE,State Senate,7,,Write-In Totals,93,39,48,6,0
+Navajo,01 RED BUTTE,State Senate,7,,Overvotes,2,1,1,0,0
+Navajo,01 RED BUTTE,State Senate,7,,Undervotes,646,222,369,55,0
+Navajo,01 RED BUTTE,State House,7,REP,"PARKS, JAMES ""JIM""	687",279,356,51,1,
+Navajo,01 RED BUTTE,State House,7,REP,"PEELMAN, DAVID",569,236,288,42,3
+Navajo,01 RED BUTTE,State House,7,DEM,"TELLER, ARLANDO",4527,1108,3041,373,5
+Navajo,01 RED BUTTE,State House,7,DEM,"TSOSIE, MYRON",5578,1444,3626,496,12
+Navajo,01 RED BUTTE,State House,7,,Write-In Totals,26,3,19,4,0
+Navajo,01 RED BUTTE,State House,7,,Overvotes,12,4,8,0,0
+Navajo,01 RED BUTTE,State House,7,,Undervotes,4317,1216,2696,392,13
+Navajo,01 RED BUTTE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",676,261,365,50,0
+Navajo,01 RED BUTTE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",787,335,396,55,1
+Navajo,01 RED BUTTE,Corporation Commissioner,,REP,"SLOAN, ERIC",873,321,488,64,0
+Navajo,01 RED BUTTE,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",4245,1068,2813,361,3
+Navajo,01 RED BUTTE,Corporation Commissioner,,DEM,"STANFIELD, SHEA",4335,1047,2898,380,10
+Navajo,01 RED BUTTE,Corporation Commissioner,,DEM,"TOVAR, ANNA",4368,1063,2914,383,8
+Navajo,01 RED BUTTE,Corporation Commissioner,,,Write-In Totals,27,8,19,0,0
+Navajo,01 RED BUTTE,Corporation Commissioner,,,Overvotes,15,9,3,3,0
+Navajo,01 RED BUTTE,Corporation Commissioner,,,Undervotes,8248,2323,5155,741,29
+Navajo,01 RED BUTTE,Board of Supervisors Dist. 1,,DEM,"BENALLY, FERN",7131,1925,4583,606,17
+Navajo,01 RED BUTTE,Board of Supervisors Dist. 1,,,Write-In Totals,138,42,85,11,0
+Navajo,01 RED BUTTE,Board of Supervisors Dist. 1,,,Overvotes,1,0,1,0,0
+Navajo,01 RED BUTTE,Board of Supervisors Dist. 1,,,Undervotes,588,178,348,62,0
+Navajo,01 RED BUTTE,County Attorney,,DEM,"CARLYON, BRAD",7095,1874,4590,614,17
+Navajo,01 RED BUTTE,County Attorney,,,Write-In Totals,64,26,32,6,0
+Navajo,01 RED BUTTE,County Attorney,,,Overvotes,0,0,0,0,0
+Navajo,01 RED BUTTE,County Attorney,,,Undervotes,699,245,395,59,0
+Navajo,01 RED BUTTE,Sheriff,,DEM,"CLOUSE, DAVID",7154,1894,4627,616,17
+Navajo,01 RED BUTTE,Sheriff,,,Write-In Totals,77,27,44,6,0
+Navajo,01 RED BUTTE,Sheriff,,,Overvotes,1,0,0,1,0
+Navajo,01 RED BUTTE,Sheriff,,,Undervotes,626,224,346,56,0
+Navajo,01 RED BUTTE,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",7140,1884,4617,622,17
+Navajo,01 RED BUTTE,County Treasurer,,,Write-In Totals,65,24,35,6,0
+Navajo,01 RED BUTTE,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,01 RED BUTTE,County Treasurer,,,Undervotes,653,237,365,51,0
+Navajo,01 RED BUTTE,County School Superintendent,,DEM,"GERLICH, JALYN",7118,1870,4620,611,17
+Navajo,01 RED BUTTE,County School Superintendent,,,Write-In Totals,63,27,31,5,0
+Navajo,01 RED BUTTE,County School Superintendent,,,Overvotes,0,0,0,0,0
+Navajo,01 RED BUTTE,County School Superintendent,,,Undervotes,677,248,366,63,0
+Navajo,01 RED BUTTE,County Recorder,,DEM,"SAMPLE, MICHAEL",7057,1871,4559,610,17
+Navajo,01 RED BUTTE,County Recorder,,,Write-In Totals,57,24,29,4,0
+Navajo,01 RED BUTTE,County Recorder,,,Overvotes,2,0,2,0,0
+Navajo,01 RED BUTTE,County Recorder,,,Undervotes,742,250,427,65,0
+Navajo,01 RED BUTTE,County Assessor,,DEM,"DARRIS, CAMMY",7113,1880,4596,620,17
+Navajo,01 RED BUTTE,County Assessor,,,Write-In Totals,65,26,35,4,0
+Navajo,01 RED BUTTE,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,01 RED BUTTE,County Assessor,,,Undervotes,680,239,386,55,0
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,,2,,,,
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,"HARDY, MELINDA",6779,1795,4386,584,14
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Write-In Totals,53,21,28,4,0
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Overvotes,3,1,1,1,0
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Undervotes,1023,328,602,90,3
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,,3,,,,
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,"NIELSON, DALE",6906,1865,4440,586,15
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Write-In Totals,56,18,34,4,0
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Overvotes,1,1,0,0,0
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Undervotes,895,261,543,89,2
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,,4,,,,
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",6724,1806,4338,565,15
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Write-In Totals,68,21,39,8,0
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Overvotes,1,0,1,0,0
+Navajo,01 RED BUTTE,Judge of Superior Court Div.,,,Undervotes,1065,318,639,106,2
+Navajo,01 RED BUTTE,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,4987,1373,3172,428,14
+Navajo,01 RED BUTTE,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,2080,576,1327,175,2
+Navajo,01 RED BUTTE,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,5,3,2,0,0
+Navajo,01 RED BUTTE,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,786,193,516,76,1
+Navajo,01 RED BUTTE,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,5059,1423,3204,420,12
+Navajo,01 RED BUTTE,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,2021,534,1301,182,4
+Navajo,01 RED BUTTE,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,2,1,1,0,0
+Navajo,01 RED BUTTE,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,776,187,511,77,1
+Navajo,01 RED BUTTE,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,5175,1414,3307,442,12
+Navajo,01 RED BUTTE,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,1891,528,1197,163,3
+Navajo,01 RED BUTTE,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,3,2,1,0,0
+Navajo,01 RED BUTTE,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,789,201,512,74,2
+Navajo,01 RED BUTTE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,5379,1476,3427,464,12
+Navajo,01 RED BUTTE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,1703,466,1088,146,3
+Navajo,01 RED BUTTE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,2,1,1,0,0
+Navajo,01 RED BUTTE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,774,202,501,69,2
+Navajo,01 RED BUTTE,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,5381,1444,3453,471,13
+Navajo,01 RED BUTTE,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,1661,489,1038,132,2
+Navajo,01 RED BUTTE,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,2,2,0,0,0
+Navajo,01 RED BUTTE,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,814,210,526,76,2
+Navajo,01 RED BUTTE,Board Member Pinon,,,"ALLEN, BESSIE S.",1286,399,775,109,3
+Navajo,01 RED BUTTE,Board Member Pinon,,,"BITSUI, MARANDA",1323,419,774,128,2
+Navajo,01 RED BUTTE,Board Member Pinon,,,"MCCABE III, TOMMY",1307,383,797,126,1
+Navajo,01 RED BUTTE,Board Member Pinon,,,"TACHINE, PHYLLIS",749,283,407,58,1
+Navajo,01 RED BUTTE,Board Member Pinon,,,"YAZZIE, DOROTHY R.",1420,401,877,141,1
+Navajo,01 RED BUTTE,Board Member Pinon,,,Write-In Totals,26,6,13,7,0
+Navajo,01 RED BUTTE,Board Member Pinon,,,Overvotes,36,9,21,6,0
+Navajo,01 RED BUTTE,Board Member Pinon,,,Undervotes,2763,1022,1472,259,10
+Navajo,01 RED BUTTE,Board Member Kayenta,,,"BIA, JOE JR.",2499,639,1671,186,3
+Navajo,01 RED BUTTE,Board Member Kayenta,,,"LEE, ROYD R.",2590,622,1759,203,6
+Navajo,01 RED BUTTE,Board Member Kayenta,,,"NEZ, JAMES",2831,650,1950,226,5
+Navajo,01 RED BUTTE,Board Member Kayenta,,,Write-In Totals,106,31,63,12,0
+Navajo,01 RED BUTTE,Board Member Kayenta,,,Overvotes,3,0,0,3,0
+Navajo,01 RED BUTTE,Board Member Kayenta,,,Undervotes,6635,1571,4472,573,19
+Navajo,01 RED BUTTE,Board Member Northland Pioneer College Dist. 1,,,"GRAY, JOAN ANN",2339,672,1477,187,3
+Navajo,01 RED BUTTE,Board Member Northland Pioneer College Dist. 1,,,"LAUGHTER, KRISTINE",4999,1325,3210,450,14
+Navajo,01 RED BUTTE,Board Member Northland Pioneer College Dist. 1,,,Write-In Totals,35,8,23,4,0
+Navajo,01 RED BUTTE,Board Member Northland Pioneer College Dist. 1,,,Overvotes,27,7,20,0,0
+Navajo,01 RED BUTTE,Board Member Northland Pioneer College Dist. 1,,,Undervotes,458,133,287,38,0
+Navajo,01 RED BUTTE,PROPOSITION 207,,,YES,3172,911,1949,304,8
+Navajo,01 RED BUTTE,PROPOSITION 207,,,NO,3969,1019,2641,303,6
+Navajo,01 RED BUTTE,PROPOSITION 207,,,Overvotes,3,2,1,0,0
+Navajo,01 RED BUTTE,PROPOSITION 207,,,Undervotes,714,213,426,72,3
+Navajo,01 RED BUTTE,PROPOSITION 208,,,YES,4259,1068,2799,384,8
+Navajo,01 RED BUTTE,PROPOSITION 208,,,NO,2897,861,1807,223,6
+Navajo,01 RED BUTTE,PROPOSITION 208,,,Overvotes,4,3,1,0,0
+Navajo,01 RED BUTTE,PROPOSITION 208,,,Undervotes,698,213,410,72,3
+Navajo,02 PAINTED DESERT,Registered Voters,,,,1494,,,,
+Navajo,02 PAINTED DESERT,Ballots Cast,,,,1051,477,455,117,2
+Navajo,02 PAINTED DESERT,Ballots Cast - Blank,,,,1,0,0,1,0
+Navajo,02 PAINTED DESERT,President,,REP,"TRUMP, PENCE",225,114,80,31,0
+Navajo,02 PAINTED DESERT,President,,DEM,"BIDEN, HARRIS",801,351,368,80,2
+Navajo,02 PAINTED DESERT,President,,LBT,"JORGENSEN, COHEN",11,6,3,2,0
+Navajo,02 PAINTED DESERT,President,,,Write-In Totals,2,0,0,2,0
+Navajo,02 PAINTED DESERT,President,,,Overvotes,10,5,4,1,0
+Navajo,02 PAINTED DESERT,President,,,Undervotes,2,1,0,1,0
+Navajo,02 PAINTED DESERT,U.S. Senate,,REP,"MCSALLY, MARTHA",199,98,74,27,0
+Navajo,02 PAINTED DESERT,U.S. Senate,,DEM,"KELLY, MARK",834,369,377,86,2
+Navajo,02 PAINTED DESERT,U.S. Senate,,,Write-In Totals,1,0,0,1,0
+Navajo,02 PAINTED DESERT,U.S. Senate,,,Overvotes,1,1,0,0,0
+Navajo,02 PAINTED DESERT,U.S. Senate,,,Undervotes,16,9,4,3,0
+Navajo,02 PAINTED DESERT,U.S. House,1,REP,"SHEDD, TIFFANY",209,107,74,28,0
+Navajo,02 PAINTED DESERT,U.S. House,1,DEM,"O'HALLERAN, TOM",804,350,374,78,2
+Navajo,02 PAINTED DESERT,U.S. House,1,,Write-In Totals,3,1,0,2,0
+Navajo,02 PAINTED DESERT,U.S. House,1,,Overvotes,3,2,1,0,0
+Navajo,02 PAINTED DESERT,U.S. House,1,,Undervotes,32,17,6,9,0
+Navajo,02 PAINTED DESERT,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",897,410,394,92,1
+Navajo,02 PAINTED DESERT,State Senate,7,,Write-In Totals,12,7,1,4,0
+Navajo,02 PAINTED DESERT,State Senate,7,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,State Senate,7,,Undervotes,142,60,60,21,1
+Navajo,02 PAINTED DESERT,State House,7,REP,"PARKS, JAMES ""JIM""	162",79,65,18,0,
+Navajo,02 PAINTED DESERT,State House,7,REP,"PEELMAN, DAVID",127,59,50,18,0
+Navajo,02 PAINTED DESERT,State House,7,DEM,"TELLER, ARLANDO",526,226,241,58,1
+Navajo,02 PAINTED DESERT,State House,7,DEM,"TSOSIE, MYRON",685,302,315,66,2
+Navajo,02 PAINTED DESERT,State House,7,,Write-In Totals,2,1,0,1,0
+Navajo,02 PAINTED DESERT,State House,7,,Overvotes,2,2,0,0,0
+Navajo,02 PAINTED DESERT,State House,7,,Undervotes,598,285,239,73,1
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",123,59,49,15,0
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",171,86,65,20,0
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,REP,"SLOAN, ERIC",149,72,58,19,0
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",506,214,242,49,1
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,DEM,"STANFIELD, SHEA",468,204,212,51,1
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,DEM,"TOVAR, ANNA",540,218,258,63,1
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,,Write-In Totals,2,1,0,1,0
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,Corporation Commissioner,,,Undervotes,1194,577,481,133,3
+Navajo,02 PAINTED DESERT,Board of Supervisors Dist. 1,,DEM,"BENALLY, FERN",920,419,404,95,2
+Navajo,02 PAINTED DESERT,Board of Supervisors Dist. 1,,,Write-In Totals,16,8,4,4,0
+Navajo,02 PAINTED DESERT,Board of Supervisors Dist. 1,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,Board of Supervisors Dist. 1,,,Undervotes,115,50,47,18,0
+Navajo,02 PAINTED DESERT,County Attorney,,DEM,"CARLYON, BRAD",892,403,398,90,1
+Navajo,02 PAINTED DESERT,County Attorney,,,Write-In Totals,20,10,5,5,0
+Navajo,02 PAINTED DESERT,County Attorney,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,County Attorney,,,Undervotes,139,64,52,22,1
+Navajo,02 PAINTED DESERT,Sheriff,,DEM,"CLOUSE, DAVID",906,405,409,91,1
+Navajo,02 PAINTED DESERT,Sheriff,,,Write-In Totals,20,11,4,5,0
+Navajo,02 PAINTED DESERT,Sheriff,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,Sheriff,,,Undervotes,125,61,42,21,1
+Navajo,02 PAINTED DESERT,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",896,405,401,89,1
+Navajo,02 PAINTED DESERT,County Treasurer,,,Write-In Totals,17,9,4,4,0
+Navajo,02 PAINTED DESERT,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,County Treasurer,,,Undervotes,138,63,50,24,1
+Navajo,02 PAINTED DESERT,County School Superintendent,,DEM,"GERLICH, JALYN",899,403,403,93,0
+Navajo,02 PAINTED DESERT,County School Superintendent,,,Write-In Totals,17,7,5,4,1
+Navajo,02 PAINTED DESERT,County School Superintendent,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,County School Superintendent,,,Undervotes,135,67,47,20,1
+Navajo,02 PAINTED DESERT,County Recorder,,DEM,"SAMPLE, MICHAEL",909,409,405,95,0
+Navajo,02 PAINTED DESERT,County Recorder,,,Write-In Totals,17,8,4,4,1
+Navajo,02 PAINTED DESERT,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,County Recorder,,,Undervotes,125,60,46,18,1
+Navajo,02 PAINTED DESERT,County Assessor,,DEM,"DARRIS, CAMMY",907,408,407,92,0
+Navajo,02 PAINTED DESERT,County Assessor,,,Write-In Totals,16,6,5,4,1
+Navajo,02 PAINTED DESERT,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,County Assessor,,,Undervotes,128,63,43,21,1
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,,2,,,,
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,"HARDY, MELINDA",862,382,391,88,1
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Write-In Totals,14,6,6,2,0
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Undervotes,175,89,58,27,1
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,,3,,,,
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,"NIELSON, DALE",906,411,402,92,1
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Write-In Totals,14,4,7,3,0
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Undervotes,131,62,46,22,1
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,,4,,,,
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",875,390,393,91,1
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Write-In Totals,16,4,9,3,0
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,Judge of Superior Court Div.,,,Undervotes,160,83,53,23,1
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,668,303,301,63,1
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,270,127,111,32,0
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,113,47,43,22,1
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,647,299,285,63,0
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,284,129,124,31,0
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,1,0,1,0,0
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,119,49,45,23,2
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,689,315,308,66,0
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,243,113,101,29,0
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,119,49,46,22,2
+Navajo,02 PAINTED DESERT,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,699,320,311,68,0
+Navajo,02 PAINTED DESERT,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,234,108,99,27,0
+Navajo,02 PAINTED DESERT,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,118,49,45,22,2
+Navajo,02 PAINTED DESERT,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,717,325,325,67,0
+Navajo,02 PAINTED DESERT,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,216,107,82,27,0
+Navajo,02 PAINTED DESERT,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,118,45,48,23,2
+Navajo,02 PAINTED DESERT,Board Member Northland Pioneer College Dist. 1,,,"GRAY, JOAN ANN",262,139,90,33,0
+Navajo,02 PAINTED DESERT,Board Member Northland Pioneer College Dist. 1,,,"LAUGHTER, KRISTINE",665,284,314,67,0
+Navajo,02 PAINTED DESERT,Board Member Northland Pioneer College Dist. 1,,,Write-In Totals,8,3,5,0,0
+Navajo,02 PAINTED DESERT,Board Member Northland Pioneer College Dist. 1,,,Overvotes,3,1,2,0,0
+Navajo,02 PAINTED DESERT,Board Member Northland Pioneer College Dist. 1,,,Undervotes,113,50,44,17,2
+Navajo,02 PAINTED DESERT,PROPOSITION 207,,,YES,428,198,167,61,2
+Navajo,02 PAINTED DESERT,PROPOSITION 207,,,NO,530,220,259,51,0
+Navajo,02 PAINTED DESERT,PROPOSITION 207,,,Overvotes,1,1,0,0,0
+Navajo,02 PAINTED DESERT,PROPOSITION 207,,,Undervotes,92,58,29,5,0
+Navajo,02 PAINTED DESERT,PROPOSITION 208,,,YES,552,232,253,67,0
+Navajo,02 PAINTED DESERT,PROPOSITION 208,,,NO,408,190,173,44,1
+Navajo,02 PAINTED DESERT,PROPOSITION 208,,,Overvotes,0,0,0,0,0
+Navajo,02 PAINTED DESERT,PROPOSITION 208,,,Undervotes,91,55,29,6,1
+Navajo,03 HUBBELL,Registered Voters,,,,255,,,,
+Navajo,03 HUBBELL,Ballots Cast,,,,201,48,130,20,3
+Navajo,03 HUBBELL,Ballots Cast - Blank,,,,0,0,0,0,0
+Navajo,03 HUBBELL,President,,REP,"TRUMP, PENCE",135,42,75,18,0
+Navajo,03 HUBBELL,President,,DEM,"BIDEN, HARRIS",58,4,50,1,3
+Navajo,03 HUBBELL,President,,LBT,"JORGENSEN, COHEN",4,1,2,1,0
+Navajo,03 HUBBELL,President,,,Write-In Totals,1,1,0,0,0
+Navajo,03 HUBBELL,President,,,Overvotes,1,0,1,0,0
+Navajo,03 HUBBELL,President,,,Undervotes,2,0,2,0,0
+Navajo,03 HUBBELL,U.S. Senate,,REP,"MCSALLY, MARTHA",120,40,65,15,0
+Navajo,03 HUBBELL,U.S. Senate,,DEM,"KELLY, MARK",75,6,63,3,3
+Navajo,03 HUBBELL,U.S. Senate,,,Write-In Totals,1,1,0,0,0
+Navajo,03 HUBBELL,U.S. Senate,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,U.S. Senate,,,Undervotes,5,1,2,2,0
+Navajo,03 HUBBELL,U.S. House,1,REP,"SHEDD, TIFFANY",112,39,60,12,1
+Navajo,03 HUBBELL,U.S. House,1,DEM,"O'HALLERAN, TOM",81,7,66,6,2
+Navajo,03 HUBBELL,U.S. House,1,,Write-In Totals,1,1,0,0,0
+Navajo,03 HUBBELL,U.S. House,1,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,U.S. House,1,,Undervotes,7,1,4,2,0
+Navajo,03 HUBBELL,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",101,16,74,8,3
+Navajo,03 HUBBELL,State Senate,7,,Write-In Totals,5,2,2,1,0
+Navajo,03 HUBBELL,State Senate,7,,Overvotes,1,1,0,0,0
+Navajo,03 HUBBELL,State Senate,7,,Undervotes,94,29,54,11,0
+Navajo,03 HUBBELL,State House,7,REP,"PARKS, JAMES ""JIM""	114",38,64,10,2,
+Navajo,03 HUBBELL,State House,7,REP,"PEELMAN, DAVID",106,31,63,12,0
+Navajo,03 HUBBELL,State House,7,DEM,"TELLER, ARLANDO",59,4,52,2,1
+Navajo,03 HUBBELL,State House,7,DEM,"TSOSIE, MYRON",55,6,45,4,0
+Navajo,03 HUBBELL,State House,7,,Write-In Totals,0,0,0,0,0
+Navajo,03 HUBBELL,State House,7,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,State House,7,,Undervotes,68,17,36,12,3
+Navajo,03 HUBBELL,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",102,30,62,10,0
+Navajo,03 HUBBELL,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",104,33,61,9,1
+Navajo,03 HUBBELL,Corporation Commissioner,,REP,"SLOAN, ERIC",99,29,60,10,0
+Navajo,03 HUBBELL,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",64,6,55,3,0
+Navajo,03 HUBBELL,Corporation Commissioner,,DEM,"STANFIELD, SHEA",50,6,41,3,0
+Navajo,03 HUBBELL,Corporation Commissioner,,DEM,"TOVAR, ANNA",54,4,45,3,2
+Navajo,03 HUBBELL,Corporation Commissioner,,,Write-In Totals,1,1,0,0,0
+Navajo,03 HUBBELL,Corporation Commissioner,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,Corporation Commissioner,,,Undervotes,129,35,66,22,6
+Navajo,03 HUBBELL,Board of Supervisors Dist. 1,,DEM,"BENALLY, FERN",118,21,85,9,3
+Navajo,03 HUBBELL,Board of Supervisors Dist. 1,,,Write-In Totals,3,1,2,0,0
+Navajo,03 HUBBELL,Board of Supervisors Dist. 1,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,Board of Supervisors Dist. 1,,,Undervotes,80,26,43,11,0
+Navajo,03 HUBBELL,County Attorney,,DEM,"CARLYON, BRAD",126,21,92,10,3
+Navajo,03 HUBBELL,County Attorney,,,Write-In Totals,1,1,0,0,0
+Navajo,03 HUBBELL,County Attorney,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,County Attorney,,,Undervotes,74,26,38,10,0
+Navajo,03 HUBBELL,Sheriff,,DEM,"CLOUSE, DAVID",129,24,91,11,3
+Navajo,03 HUBBELL,Sheriff,,,Write-In Totals,0,0,0,0,0
+Navajo,03 HUBBELL,Sheriff,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,Sheriff,,,Undervotes,72,24,39,9,0
+Navajo,03 HUBBELL,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",127,23,89,12,3
+Navajo,03 HUBBELL,County Treasurer,,,Write-In Totals,2,1,1,0,0
+Navajo,03 HUBBELL,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,County Treasurer,,,Undervotes,72,24,40,8,0
+Navajo,03 HUBBELL,County School Superintendent,,DEM,"GERLICH, JALYN",118,23,83,9,3
+Navajo,03 HUBBELL,County School Superintendent,,,Write-In Totals,1,0,1,0,0
+Navajo,03 HUBBELL,County School Superintendent,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,County School Superintendent,,,Undervotes,82,25,46,11,0
+Navajo,03 HUBBELL,County Recorder,,DEM,"SAMPLE, MICHAEL",125,21,90,11,3
+Navajo,03 HUBBELL,County Recorder,,,Write-In Totals,1,1,0,0,0
+Navajo,03 HUBBELL,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,County Recorder,,,Undervotes,75,26,40,9,0
+Navajo,03 HUBBELL,County Assessor,,DEM,"DARRIS, CAMMY",127,23,90,11,3
+Navajo,03 HUBBELL,County Assessor,,,Write-In Totals,0,0,0,0,0
+Navajo,03 HUBBELL,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,County Assessor,,,Undervotes,74,25,40,9,0
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,,2,,,,
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,"HARDY, MELINDA",143,34,95,11,3
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Write-In Totals,0,0,0,0,0
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Undervotes,58,14,35,9,0
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,,3,,,,
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,"NIELSON, DALE",140,28,96,14,2
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Write-In Totals,0,0,0,0,0
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Undervotes,61,20,34,6,1
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,,4,,,,
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",140,28,97,13,2
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Write-In Totals,1,1,0,0,0
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,Judge of Superior Court Div.,,,Undervotes,60,19,33,7,1
+Navajo,03 HUBBELL,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,121,22,85,11,3
+Navajo,03 HUBBELL,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,32,14,18,0,0
+Navajo,03 HUBBELL,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,48,12,27,9,0
+Navajo,03 HUBBELL,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,119,26,79,11,3
+Navajo,03 HUBBELL,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,32,11,21,0,0
+Navajo,03 HUBBELL,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,50,11,30,9,0
+Navajo,03 HUBBELL,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,124,25,88,8,3
+Navajo,03 HUBBELL,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,29,12,15,2,0
+Navajo,03 HUBBELL,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,48,11,27,10,0
+Navajo,03 HUBBELL,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,127,28,86,10,3
+Navajo,03 HUBBELL,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,24,7,16,1,0
+Navajo,03 HUBBELL,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,50,13,28,9,0
+Navajo,03 HUBBELL,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,122,26,86,7,3
+Navajo,03 HUBBELL,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,25,9,15,1,0
+Navajo,03 HUBBELL,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,54,13,29,12,0
+Navajo,03 HUBBELL,Board Member Winslow,,,"GREENWOOD, SHARON B.",111,28,70,13,0
+Navajo,03 HUBBELL,Board Member Winslow,,,"HARTNETT, JOSEPH",122,25,82,15,0
+Navajo,03 HUBBELL,Board Member Winslow,,,"LEONARD, ALLEN",112,24,73,15,0
+Navajo,03 HUBBELL,Board Member Winslow,,,"MARTINEZ, DEBBIE",99,21,69,6,3
+Navajo,03 HUBBELL,Board Member Winslow,,,Write-In Totals,5,1,4,0,0
+Navajo,03 HUBBELL,Board Member Winslow,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,Board Member Winslow,,,Undervotes,154,45,92,11,6
+Navajo,03 HUBBELL,Board Member Northland Pioneer College Dist. 1,,,"GRAY, JOAN ANN",80,20,55,5,0
+Navajo,03 HUBBELL,Board Member Northland Pioneer College Dist. 1,,,"LAUGHTER, KRISTINE",64,13,44,4,3
+Navajo,03 HUBBELL,Board Member Northland Pioneer College Dist. 1,,,Write-In Totals,0,0,0,0,0
+Navajo,03 HUBBELL,Board Member Northland Pioneer College Dist. 1,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,Board Member Northland Pioneer College Dist. 1,,,Undervotes,57,15,31,11,0
+Navajo,03 HUBBELL,PROPOSITION 207,,,YES,96,16,71,6,3
+Navajo,03 HUBBELL,PROPOSITION 207,,,NO,98,30,55,13,0
+Navajo,03 HUBBELL,PROPOSITION 207,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,PROPOSITION 207,,,Undervotes,7,2,4,1,0
+Navajo,03 HUBBELL,PROPOSITION 208,,,YES,88,15,63,8,2
+Navajo,03 HUBBELL,PROPOSITION 208,,,NO,104,30,63,11,0
+Navajo,03 HUBBELL,PROPOSITION 208,,,Overvotes,0,0,0,0,0
+Navajo,03 HUBBELL,PROPOSITION 208,,,Undervotes,9,3,4,1,1
+Navajo,04 BLACK BUTTES,Registered Voters,,,,10102,,,,
+Navajo,04 BLACK BUTTES,Ballots Cast,,,,7147,2100,4312,689,46
+Navajo,04 BLACK BUTTES,Ballots Cast - Blank,,,,1,0,0,1,0
+Navajo,04 BLACK BUTTES,President,,REP,"TRUMP, PENCE",1836,626,1010,188,12
+Navajo,04 BLACK BUTTES,President,,DEM,"BIDEN, HARRIS",5059,1411,3139,480,29
+Navajo,04 BLACK BUTTES,President,,LBT,"JORGENSEN, COHEN",136,37,83,12,4
+Navajo,04 BLACK BUTTES,President,,,Write-In Totals,22,3,15,3,1
+Navajo,04 BLACK BUTTES,President,,,Overvotes,65,10,52,3,0
+Navajo,04 BLACK BUTTES,President,,,Undervotes,29,13,13,3,0
+Navajo,04 BLACK BUTTES,U.S. Senate,,REP,"MCSALLY, MARTHA",1840,651,982,191,16
+Navajo,04 BLACK BUTTES,U.S. Senate,,DEM,"KELLY, MARK",5149,1387,3247,487,28
+Navajo,04 BLACK BUTTES,U.S. Senate,,,Write-In Totals,40,16,22,2,0
+Navajo,04 BLACK BUTTES,U.S. Senate,,,Overvotes,6,4,2,0,0
+Navajo,04 BLACK BUTTES,U.S. Senate,,,Undervotes,112,42,59,9,2
+Navajo,04 BLACK BUTTES,U.S. House,1,REP,"SHEDD, TIFFANY",1791,668,914,190,19
+Navajo,04 BLACK BUTTES,U.S. House,1,DEM,"O'HALLERAN, TOM",5105,1348,3264,469,24
+Navajo,04 BLACK BUTTES,U.S. House,1,,Write-In Totals,20,7,10,3,0
+Navajo,04 BLACK BUTTES,U.S. House,1,,Overvotes,2,2,0,0,0
+Navajo,04 BLACK BUTTES,U.S. House,1,,Undervotes,229,75,124,27,3
+Navajo,04 BLACK BUTTES,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",5801,1668,3541,559,33
+Navajo,04 BLACK BUTTES,State Senate,7,,Write-In Totals,141,60,66,14,1
+Navajo,04 BLACK BUTTES,State Senate,7,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,State Senate,7,,Undervotes,1202,372,705,116,9
+Navajo,04 BLACK BUTTES,State House,7,REP,"PARKS, JAMES ""JIM""	1720",569,974,171,6,
+Navajo,04 BLACK BUTTES,State House,7,REP,"PEELMAN, DAVID",1380,458,772,141,9
+Navajo,04 BLACK BUTTES,State House,7,DEM,"TELLER, ARLANDO",3636,896,2394,326,20
+Navajo,04 BLACK BUTTES,State House,7,DEM,"TSOSIE, MYRON",4501,1186,2860,430,25
+Navajo,04 BLACK BUTTES,State House,7,,Write-In Totals,17,5,11,1,0
+Navajo,04 BLACK BUTTES,State House,7,,Overvotes,6,6,0,0,0
+Navajo,04 BLACK BUTTES,State House,7,,Undervotes,3028,1080,1613,309,26
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1480,478,850,146,6
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1593,561,871,153,8
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,REP,"SLOAN, ERIC",1412,446,821,142,3
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",3751,885,2496,346,24
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,DEM,"STANFIELD, SHEA",3621,882,2387,332,20
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,DEM,"TOVAR, ANNA",4014,990,2618,385,21
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,,Write-In Totals,14,5,9,0,0
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,,Overvotes,6,3,3,0,0
+Navajo,04 BLACK BUTTES,Corporation Commissioner,,,Undervotes,5541,2050,2881,563,47
+Navajo,04 BLACK BUTTES,Board of Supervisors Dist. 2,,DEM,"PESHLAKAI, ALBERTO L.",5921,1692,3636,561,32
+Navajo,04 BLACK BUTTES,Board of Supervisors Dist. 2,,,Write-In Totals,118,50,49,18,1
+Navajo,04 BLACK BUTTES,Board of Supervisors Dist. 2,,,Overvotes,4,1,3,0,0
+Navajo,04 BLACK BUTTES,Board of Supervisors Dist. 2,,,Undervotes,1101,357,624,110,10
+Navajo,04 BLACK BUTTES,County Attorney,,DEM,"CARLYON, BRAD",5894,1656,3639,568,31
+Navajo,04 BLACK BUTTES,County Attorney,,,Write-In Totals,114,50,49,14,1
+Navajo,04 BLACK BUTTES,County Attorney,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,County Attorney,,,Undervotes,1136,394,624,107,11
+Navajo,04 BLACK BUTTES,Sheriff,,DEM,"CLOUSE, DAVID",5959,1680,3669,580,30
+Navajo,04 BLACK BUTTES,Sheriff,,,Write-In Totals,127,55,60,10,2
+Navajo,04 BLACK BUTTES,Sheriff,,,Overvotes,1,1,0,0,0
+Navajo,04 BLACK BUTTES,Sheriff,,,Undervotes,1057,364,583,99,11
+Navajo,04 BLACK BUTTES,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",5988,1697,3683,576,32
+Navajo,04 BLACK BUTTES,County Treasurer,,,Write-In Totals,93,41,42,9,1
+Navajo,04 BLACK BUTTES,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,County Treasurer,,,Undervotes,1063,362,587,104,10
+Navajo,04 BLACK BUTTES,County School Superintendent,,DEM,"GERLICH, JALYN",5868,1667,3607,563,31
+Navajo,04 BLACK BUTTES,County School Superintendent,,,Write-In Totals,104,47,46,10,1
+Navajo,04 BLACK BUTTES,County School Superintendent,,,Overvotes,1,0,0,1,0
+Navajo,04 BLACK BUTTES,County School Superintendent,,,Undervotes,1171,386,659,115,11
+Navajo,04 BLACK BUTTES,County Recorder,,DEM,"SAMPLE, MICHAEL",5892,1666,3630,567,29
+Navajo,04 BLACK BUTTES,County Recorder,,,Write-In Totals,89,39,39,9,2
+Navajo,04 BLACK BUTTES,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,County Recorder,,,Undervotes,1163,395,643,113,12
+Navajo,04 BLACK BUTTES,County Assessor,,DEM,"DARRIS, CAMMY",5925,1660,3664,571,30
+Navajo,04 BLACK BUTTES,County Assessor,,,Write-In Totals,89,42,36,10,1
+Navajo,04 BLACK BUTTES,County Assessor,,,Overvotes,1,1,0,0,0
+Navajo,04 BLACK BUTTES,County Assessor,,,Undervotes,1129,397,612,108,12
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,,2,,,,
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,"HARDY, MELINDA",5745,1621,3535,558,31
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Write-In Totals,62,25,30,6,1
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Overvotes,1,0,1,0,0
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Undervotes,1336,454,746,125,11
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,,3,,,,
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,"NIELSON, DALE",5830,1676,3570,555,29
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Write-In Totals,72,27,34,8,3
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Undervotes,1242,397,708,126,11
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,,4,,,,
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",5777,1652,3534,561,30
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Write-In Totals,75,28,37,9,1
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Overvotes,2,1,0,1,0
+Navajo,04 BLACK BUTTES,Judge of Superior Court Div.,,,Undervotes,1290,419,741,118,12
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,4324,1244,2651,401,28
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,1806,564,1058,175,9
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,2,2,0,0,0
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,1012,290,603,113,6
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,4383,1304,2653,397,29
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,1727,490,1053,177,7
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,1,1,0,0,0
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,1033,305,606,115,7
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,4616,1369,2796,422,29
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,1488,433,903,146,6
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,1,0,1,0,0
+Navajo,04 BLACK BUTTES,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,1039,298,612,121,8
+Navajo,04 BLACK BUTTES,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,4665,1376,2824,438,27
+Navajo,04 BLACK BUTTES,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,1451,427,878,138,8
+Navajo,04 BLACK BUTTES,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,1,1,0,0,0
+Navajo,04 BLACK BUTTES,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,1027,296,610,113,8
+Navajo,04 BLACK BUTTES,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,4976,1418,3066,463,29
+Navajo,04 BLACK BUTTES,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,1159,381,652,119,7
+Navajo,04 BLACK BUTTES,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,1,1,0,0,0
+Navajo,04 BLACK BUTTES,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,1008,300,594,107,7
+Navajo,04 BLACK BUTTES,Board Member Winslow,,,"GREENWOOD, SHARON B.",1921,435,1305,173,8
+Navajo,04 BLACK BUTTES,Board Member Winslow,,,"HARTNETT, JOSEPH",2013,424,1391,193,5
+Navajo,04 BLACK BUTTES,Board Member Winslow,,,"LEONARD, ALLEN",2060,491,1376,186,7
+Navajo,04 BLACK BUTTES,Board Member Winslow,,,"MARTINEZ, DEBBIE",2556,550,1756,240,10
+Navajo,04 BLACK BUTTES,Board Member Winslow,,,Write-In Totals,220,36,163,20,1
+Navajo,04 BLACK BUTTES,Board Member Winslow,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,Board Member Winslow,,,Undervotes,3866,1097,2358,376,35
+Navajo,04 BLACK BUTTES,Board Member Pinon,,,"ALLEN, BESSIE S.",1,0,1,0,0
+Navajo,04 BLACK BUTTES,Board Member Pinon,,,"BITSUI, MARANDA",2,0,1,1,0
+Navajo,04 BLACK BUTTES,Board Member Pinon,,,"MCCABE III, TOMMY",2,0,2,0,0
+Navajo,04 BLACK BUTTES,Board Member Pinon,,,"TACHINE, PHYLLIS",0,0,0,0,0
+Navajo,04 BLACK BUTTES,Board Member Pinon,,,"YAZZIE, DOROTHY R.",0,0,0,0,0
+Navajo,04 BLACK BUTTES,Board Member Pinon,,,Write-In Totals,0,0,0,0,0
+Navajo,04 BLACK BUTTES,Board Member Pinon,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,Board Member Pinon,,,Undervotes,10,0,5,5,0
+Navajo,04 BLACK BUTTES,Mayor City of Winslow,,,"LOSEY, MARSHALL",1400,307,954,136,3
+Navajo,04 BLACK BUTTES,Mayor City of Winslow,,,"WILCOX CANO, ROBERTA ""BIRDIE""",1495,317,1014,149,15
+Navajo,04 BLACK BUTTES,Mayor City of Winslow,,,Write-In Totals,20,2,14,3,1
+Navajo,04 BLACK BUTTES,Mayor City of Winslow,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,Mayor City of Winslow,,,Undervotes,143,46,81,15,1
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,"BUTLER-NELSON, MELISSA",1151,193,840,112,6
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,"CAKE, PETER",1486,309,1031,135,11
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,"HOWELL, JUDY",872,150,624,94,4
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,"LAWRENCE, KERWIN A.",850,136,639,74,1
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,"MACLEAN, JAMES ""JIM""",1605,376,1055,165,9
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,"SHUMWAY, MICHAEL",1054,186,773,92,3
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,Write-In Totals,15,3,9,2,1
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,Overvotes,9,0,3,3,3
+Navajo,04 BLACK BUTTES,Council Member City of Winslow,,,Undervotes,2132,663,1215,232,22
+Navajo,04 BLACK BUTTES,PROPOSITION 207,,,YES,3699,1059,2219,392,29
+Navajo,04 BLACK BUTTES,PROPOSITION 207,,,NO,3081,873,1922,275,11
+Navajo,04 BLACK BUTTES,PROPOSITION 207,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,PROPOSITION 207,,,Undervotes,364,168,171,22,3
+Navajo,04 BLACK BUTTES,PROPOSITION 208,,,YES,3974,966,2584,402,22
+Navajo,04 BLACK BUTTES,PROPOSITION 208,,,NO,2797,958,1556,263,20
+Navajo,04 BLACK BUTTES,PROPOSITION 208,,,Overvotes,0,0,0,0,0
+Navajo,04 BLACK BUTTES,PROPOSITION 208,,,Undervotes,373,176,172,24,1
+Navajo,04 BLACK BUTTES,PROPOSITION 426,,,YES,1723,326,1214,172,11
+Navajo,04 BLACK BUTTES,PROPOSITION 426,,,NO,1198,290,780,120,8
+Navajo,04 BLACK BUTTES,PROPOSITION 426,,,Overvotes,1,1,0,0,0
+Navajo,04 BLACK BUTTES,PROPOSITION 426,,,Undervotes,136,55,69,11,1
+Navajo,04 BLACK BUTTES,PROPOSITION 427,,,YES,1839,336,1309,179,15
+Navajo,04 BLACK BUTTES,PROPOSITION 427,,,NO,1092,285,687,116,4
+Navajo,04 BLACK BUTTES,PROPOSITION 427,,,Overvotes,1,0,1,0,0
+Navajo,04 BLACK BUTTES,PROPOSITION 427,,,Undervotes,126,51,66,8,1
+Navajo,05 CEDAR VALLEY,Registered Voters,,,,1954,,,,
+Navajo,05 CEDAR VALLEY,Ballots Cast,,,,1265,542,598,122,3
+Navajo,05 CEDAR VALLEY,Ballots Cast - Blank,,,,1,1,0,0,0
+Navajo,05 CEDAR VALLEY,President,,REP,"TRUMP, PENCE",210,110,79,20,1
+Navajo,05 CEDAR VALLEY,President,,DEM,"BIDEN, HARRIS",1008,411,496,99,2
+Navajo,05 CEDAR VALLEY,President,,LBT,"JORGENSEN, COHEN",12,5,5,2,0
+Navajo,05 CEDAR VALLEY,President,,,Write-In Totals,5,3,2,0,0
+Navajo,05 CEDAR VALLEY,President,,,Overvotes,24,9,15,0,0
+Navajo,05 CEDAR VALLEY,President,,,Undervotes,6,4,1,1,0
+Navajo,05 CEDAR VALLEY,U.S. Senate,,REP,"MCSALLY, MARTHA",181,100,61,19,1
+Navajo,05 CEDAR VALLEY,U.S. Senate,,DEM,"KELLY, MARK",1055,425,525,103,2
+Navajo,05 CEDAR VALLEY,U.S. Senate,,,Write-In Totals,10,3,7,0,0
+Navajo,05 CEDAR VALLEY,U.S. Senate,,,Overvotes,1,1,0,0,0
+Navajo,05 CEDAR VALLEY,U.S. Senate,,,Undervotes,18,13,5,0,0
+Navajo,05 CEDAR VALLEY,U.S. House,1,REP,"SHEDD, TIFFANY",183,105,59,18,1
+Navajo,05 CEDAR VALLEY,U.S. House,1,DEM,"O'HALLERAN, TOM",1051,414,531,104,2
+Navajo,05 CEDAR VALLEY,U.S. House,1,,Write-In Totals,5,3,2,0,0
+Navajo,05 CEDAR VALLEY,U.S. House,1,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,U.S. House,1,,Undervotes,26,20,6,0,0
+Navajo,05 CEDAR VALLEY,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",1167,482,569,114,2
+Navajo,05 CEDAR VALLEY,State Senate,7,,Write-In Totals,11,4,5,2,0
+Navajo,05 CEDAR VALLEY,State Senate,7,,Overvotes,1,1,0,0,0
+Navajo,05 CEDAR VALLEY,State Senate,7,,Undervotes,86,55,24,6,1
+Navajo,05 CEDAR VALLEY,State House,7,REP,"PARKS, JAMES ""JIM""	125",70,43,12,0,
+Navajo,05 CEDAR VALLEY,State House,7,REP,"PEELMAN, DAVID",79,45,28,5,1
+Navajo,05 CEDAR VALLEY,State House,7,DEM,"TELLER, ARLANDO",633,259,312,61,1
+Navajo,05 CEDAR VALLEY,State House,7,DEM,"TSOSIE, MYRON",936,374,467,94,1
+Navajo,05 CEDAR VALLEY,State House,7,,Write-In Totals,6,3,3,0,0
+Navajo,05 CEDAR VALLEY,State House,7,,Overvotes,2,2,0,0,0
+Navajo,05 CEDAR VALLEY,State House,7,,Undervotes,749,331,343,72,3
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",100,57,36,6,1
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",138,78,49,9,2
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,REP,"SLOAN, ERIC",113,63,40,9,1
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",661,260,337,63,1
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,DEM,"STANFIELD, SHEA",613,255,300,57,1
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,DEM,"TOVAR, ANNA",718,287,359,71,1
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,,Write-In Totals,9,6,2,1,0
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,,Overvotes,3,0,3,0,0
+Navajo,05 CEDAR VALLEY,Corporation Commissioner,,,Undervotes,1440,620,668,150,2
+Navajo,05 CEDAR VALLEY,Board of Supervisors Dist. 2,,DEM,"PESHLAKAI, ALBERTO L.",1180,496,568,113,3
+Navajo,05 CEDAR VALLEY,Board of Supervisors Dist. 2,,,Write-In Totals,13,5,7,1,0
+Navajo,05 CEDAR VALLEY,Board of Supervisors Dist. 2,,,Overvotes,1,1,0,0,0
+Navajo,05 CEDAR VALLEY,Board of Supervisors Dist. 2,,,Undervotes,71,40,23,8,0
+Navajo,05 CEDAR VALLEY,County Attorney,,DEM,"CARLYON, BRAD",1162,481,567,112,2
+Navajo,05 CEDAR VALLEY,County Attorney,,,Write-In Totals,12,7,5,0,0
+Navajo,05 CEDAR VALLEY,County Attorney,,,Overvotes,2,2,0,0,0
+Navajo,05 CEDAR VALLEY,County Attorney,,,Undervotes,89,52,26,10,1
+Navajo,05 CEDAR VALLEY,Sheriff,,DEM,"CLOUSE, DAVID",1160,485,563,109,3
+Navajo,05 CEDAR VALLEY,Sheriff,,,Write-In Totals,16,6,8,2,0
+Navajo,05 CEDAR VALLEY,Sheriff,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,Sheriff,,,Undervotes,89,51,27,11,0
+Navajo,05 CEDAR VALLEY,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",1143,468,560,112,3
+Navajo,05 CEDAR VALLEY,County Treasurer,,,Write-In Totals,20,10,10,0,0
+Navajo,05 CEDAR VALLEY,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,County Treasurer,,,Undervotes,102,64,28,10,0
+Navajo,05 CEDAR VALLEY,County School Superintendent,,DEM,"GERLICH, JALYN",1154,481,559,111,3
+Navajo,05 CEDAR VALLEY,County School Superintendent,,,Write-In Totals,16,7,8,1,0
+Navajo,05 CEDAR VALLEY,County School Superintendent,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,County School Superintendent,,,Undervotes,95,54,31,10,0
+Navajo,05 CEDAR VALLEY,County Recorder,,DEM,"SAMPLE, MICHAEL",1150,475,560,112,3
+Navajo,05 CEDAR VALLEY,County Recorder,,,Write-In Totals,14,6,7,1,0
+Navajo,05 CEDAR VALLEY,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,County Recorder,,,Undervotes,101,61,31,9,0
+Navajo,05 CEDAR VALLEY,County Assessor,,DEM,"DARRIS, CAMMY",1145,474,557,111,3
+Navajo,05 CEDAR VALLEY,County Assessor,,,Write-In Totals,17,5,12,0,0
+Navajo,05 CEDAR VALLEY,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,County Assessor,,,Undervotes,103,63,29,11,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,,2,,,,
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,"HARDY, MELINDA",1119,458,549,109,3
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Write-In Totals,12,4,8,0,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Undervotes,134,80,41,13,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,,3,,,,
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,"NIELSON, DALE",1139,479,552,105,3
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Write-In Totals,16,6,9,1,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Undervotes,110,57,37,16,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,,4,,,,
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",1093,456,532,102,3
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Write-In Totals,20,5,13,2,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,Judge of Superior Court Div.,,,Undervotes,152,81,53,18,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,812,356,379,74,3
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,345,140,173,32,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,108,46,46,16,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,790,338,378,71,3
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,366,155,175,36,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,109,49,45,15,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,840,358,402,77,3
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,316,137,148,31,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,109,47,48,14,0
+Navajo,05 CEDAR VALLEY,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,874,370,422,79,3
+Navajo,05 CEDAR VALLEY,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,281,125,128,28,0
+Navajo,05 CEDAR VALLEY,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,110,47,48,15,0
+Navajo,05 CEDAR VALLEY,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,927,391,445,88,3
+Navajo,05 CEDAR VALLEY,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,238,111,107,20,0
+Navajo,05 CEDAR VALLEY,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,100,40,46,14,0
+Navajo,05 CEDAR VALLEY,PROPOSITION 207,,,YES,550,241,252,56,1
+Navajo,05 CEDAR VALLEY,PROPOSITION 207,,,NO,638,263,313,61,1
+Navajo,05 CEDAR VALLEY,PROPOSITION 207,,,Overvotes,1,1,0,0,0
+Navajo,05 CEDAR VALLEY,PROPOSITION 207,,,Undervotes,76,37,33,5,1
+Navajo,05 CEDAR VALLEY,PROPOSITION 208,,,YES,666,285,306,73,2
+Navajo,05 CEDAR VALLEY,PROPOSITION 208,,,NO,532,225,262,45,0
+Navajo,05 CEDAR VALLEY,PROPOSITION 208,,,Overvotes,0,0,0,0,0
+Navajo,05 CEDAR VALLEY,PROPOSITION 208,,,Undervotes,67,32,30,4,1
+Navajo,06 STONE BUTTE,Registered Voters,,,,669,,,,
+Navajo,06 STONE BUTTE,Ballots Cast,,,,464,237,171,56,0
+Navajo,06 STONE BUTTE,Ballots Cast - Blank,,,,0,0,0,0,0
+Navajo,06 STONE BUTTE,President,,REP,"TRUMP, PENCE",57,32,20,5,0
+Navajo,06 STONE BUTTE,President,,DEM,"BIDEN, HARRIS",380,189,142,49,0
+Navajo,06 STONE BUTTE,President,,LBT,"JORGENSEN, COHEN",7,4,3,0,0
+Navajo,06 STONE BUTTE,President,,,Write-In Totals,0,0,0,0,0
+Navajo,06 STONE BUTTE,President,,,Overvotes,14,7,5,2,0
+Navajo,06 STONE BUTTE,President,,,Undervotes,6,5,1,0,0
+Navajo,06 STONE BUTTE,U.S. Senate,,REP,"MCSALLY, MARTHA",55,31,19,5,0
+Navajo,06 STONE BUTTE,U.S. Senate,,DEM,"KELLY, MARK",405,204,151,50,0
+Navajo,06 STONE BUTTE,U.S. Senate,,,Write-In Totals,1,1,0,0,0
+Navajo,06 STONE BUTTE,U.S. Senate,,,Overvotes,1,0,1,0,0
+Navajo,06 STONE BUTTE,U.S. Senate,,,Undervotes,2,1,0,1,0
+Navajo,06 STONE BUTTE,U.S. House,1,REP,"SHEDD, TIFFANY",62,36,21,5,0
+Navajo,06 STONE BUTTE,U.S. House,1,DEM,"O'HALLERAN, TOM",397,196,150,51,0
+Navajo,06 STONE BUTTE,U.S. House,1,,Write-In Totals,0,0,0,0,0
+Navajo,06 STONE BUTTE,U.S. House,1,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,U.S. House,1,,Undervotes,5,5,0,0,0
+Navajo,06 STONE BUTTE,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",435,220,164,51,0
+Navajo,06 STONE BUTTE,State Senate,7,,Write-In Totals,5,4,0,1,0
+Navajo,06 STONE BUTTE,State Senate,7,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,State Senate,7,,Undervotes,24,13,7,4,0
+Navajo,06 STONE BUTTE,State House,7,REP,"PARKS, JAMES ""JIM""	35",18,11,6,0,
+Navajo,06 STONE BUTTE,State House,7,REP,"PEELMAN, DAVID",30,14,13,3,0
+Navajo,06 STONE BUTTE,State House,7,DEM,"TELLER, ARLANDO",294,150,116,28,0
+Navajo,06 STONE BUTTE,State House,7,DEM,"TSOSIE, MYRON",365,184,140,41,0
+Navajo,06 STONE BUTTE,State House,7,,Write-In Totals,0,0,0,0,0
+Navajo,06 STONE BUTTE,State House,7,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,State House,7,,Undervotes,204,108,62,34,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",36,22,11,3,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",39,23,11,5,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,REP,"SLOAN, ERIC",53,28,19,6,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",295,148,119,28,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,DEM,"STANFIELD, SHEA",295,145,120,30,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,DEM,"TOVAR, ANNA",295,145,114,36,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,,Write-In Totals,2,1,0,1,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,Corporation Commissioner,,,Undervotes,377,199,119,59,0
+Navajo,06 STONE BUTTE,Board of Supervisors Dist. 2,,DEM,"PESHLAKAI, ALBERTO L.",436,218,164,54,0
+Navajo,06 STONE BUTTE,Board of Supervisors Dist. 2,,,Write-In Totals,5,3,1,1,0
+Navajo,06 STONE BUTTE,Board of Supervisors Dist. 2,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,Board of Supervisors Dist. 2,,,Undervotes,23,16,6,1,0
+Navajo,06 STONE BUTTE,County Attorney,,DEM,"CARLYON, BRAD",433,217,163,53,0
+Navajo,06 STONE BUTTE,County Attorney,,,Write-In Totals,6,4,1,1,0
+Navajo,06 STONE BUTTE,County Attorney,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,County Attorney,,,Undervotes,25,16,7,2,0
+Navajo,06 STONE BUTTE,Sheriff,,DEM,"CLOUSE, DAVID",432,216,163,53,0
+Navajo,06 STONE BUTTE,Sheriff,,,Write-In Totals,6,4,1,1,0
+Navajo,06 STONE BUTTE,Sheriff,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,Sheriff,,,Undervotes,26,17,7,2,0
+Navajo,06 STONE BUTTE,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",442,227,162,53,0
+Navajo,06 STONE BUTTE,County Treasurer,,,Write-In Totals,4,1,2,1,0
+Navajo,06 STONE BUTTE,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,County Treasurer,,,Undervotes,18,9,7,2,0
+Navajo,06 STONE BUTTE,County School Superintendent,,DEM,"GERLICH, JALYN",441,224,164,53,0
+Navajo,06 STONE BUTTE,County School Superintendent,,,Write-In Totals,1,0,0,1,0
+Navajo,06 STONE BUTTE,County School Superintendent,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,County School Superintendent,,,Undervotes,22,13,7,2,0
+Navajo,06 STONE BUTTE,County Recorder,,DEM,"SAMPLE, MICHAEL",434,220,161,53,0
+Navajo,06 STONE BUTTE,County Recorder,,,Write-In Totals,3,1,1,1,0
+Navajo,06 STONE BUTTE,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,County Recorder,,,Undervotes,27,16,9,2,0
+Navajo,06 STONE BUTTE,County Assessor,,DEM,"DARRIS, CAMMY",438,220,165,53,0
+Navajo,06 STONE BUTTE,County Assessor,,,Write-In Totals,5,3,1,1,0
+Navajo,06 STONE BUTTE,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,County Assessor,,,Undervotes,21,14,5,2,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,,2,,,,
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,"HARDY, MELINDA",415,210,156,49,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Write-In Totals,4,2,1,1,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Undervotes,45,25,14,6,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,,3,,,,
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,"NIELSON, DALE",415,210,153,52,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Write-In Totals,6,2,3,1,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Undervotes,43,25,15,3,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,,4,,,,
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",406,206,149,51,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Write-In Totals,5,3,1,1,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,Judge of Superior Court Div.,,,Undervotes,53,28,21,4,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,324,163,123,38,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,104,56,37,11,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,36,18,11,7,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,315,153,121,41,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,110,64,36,10,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,39,20,14,5,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,335,167,126,42,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,88,47,32,9,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,41,23,13,5,0
+Navajo,06 STONE BUTTE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,330,164,125,41,0
+Navajo,06 STONE BUTTE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,94,54,30,10,0
+Navajo,06 STONE BUTTE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,40,19,16,5,0
+Navajo,06 STONE BUTTE,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,354,174,138,42,0
+Navajo,06 STONE BUTTE,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,72,44,20,8,0
+Navajo,06 STONE BUTTE,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,1,1,0,0,0
+Navajo,06 STONE BUTTE,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,37,18,13,6,0
+Navajo,06 STONE BUTTE,Board Member Pinon,,,"ALLEN, BESSIE S.",185,97,64,24,0
+Navajo,06 STONE BUTTE,Board Member Pinon,,,"BITSUI, MARANDA",230,107,96,27,0
+Navajo,06 STONE BUTTE,Board Member Pinon,,,"MCCABE III, TOMMY",198,114,72,12,0
+Navajo,06 STONE BUTTE,Board Member Pinon,,,"TACHINE, PHYLLIS",165,76,68,21,0
+Navajo,06 STONE BUTTE,Board Member Pinon,,,"YAZZIE, DOROTHY R.",190,97,73,20,0
+Navajo,06 STONE BUTTE,Board Member Pinon,,,Write-In Totals,8,1,7,0,0
+Navajo,06 STONE BUTTE,Board Member Pinon,,,Overvotes,15,0,12,3,0
+Navajo,06 STONE BUTTE,Board Member Pinon,,,Undervotes,392,219,115,58,0
+Navajo,06 STONE BUTTE,Board Member Kayenta,,,"BIA, JOE JR.",1,0,1,0,0
+Navajo,06 STONE BUTTE,Board Member Kayenta,,,"LEE, ROYD R.",2,0,2,0,0
+Navajo,06 STONE BUTTE,Board Member Kayenta,,,"NEZ, JAMES",2,0,1,1,0
+Navajo,06 STONE BUTTE,Board Member Kayenta,,,Write-In Totals,0,0,0,0,0
+Navajo,06 STONE BUTTE,Board Member Kayenta,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,Board Member Kayenta,,,Undervotes,4,0,2,2,0
+Navajo,06 STONE BUTTE,PROPOSITION 207,,,YES,211,112,72,27,0
+Navajo,06 STONE BUTTE,PROPOSITION 207,,,NO,219,106,88,25,0
+Navajo,06 STONE BUTTE,PROPOSITION 207,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,PROPOSITION 207,,,Undervotes,34,19,11,4,0
+Navajo,06 STONE BUTTE,PROPOSITION 208,,,YES,252,122,95,35,0
+Navajo,06 STONE BUTTE,PROPOSITION 208,,,NO,177,93,66,18,0
+Navajo,06 STONE BUTTE,PROPOSITION 208,,,Overvotes,0,0,0,0,0
+Navajo,06 STONE BUTTE,PROPOSITION 208,,,Undervotes,35,22,10,3,0
+Navajo,07 PIONEER,Registered Voters,,,,8241,,,,
+Navajo,07 PIONEER,Ballots Cast,,,,6984,2336,3722,875,51
+Navajo,07 PIONEER,Ballots Cast - Blank,,,,2,1,1,0,0
+Navajo,07 PIONEER,President,,REP,"TRUMP, PENCE",5988,2135,3028,782,43
+Navajo,07 PIONEER,President,,DEM,"BIDEN, HARRIS",840,150,618,64,8
+Navajo,07 PIONEER,President,,LBT,"JORGENSEN, COHEN",98,26,52,20,0
+Navajo,07 PIONEER,President,,,Write-In Totals,25,12,7,6,0
+Navajo,07 PIONEER,President,,,Overvotes,9,6,2,1,0
+Navajo,07 PIONEER,President,,,Undervotes,24,7,15,2,0
+Navajo,07 PIONEER,U.S. Senate,,REP,"MCSALLY, MARTHA",5876,2085,2977,775,39
+Navajo,07 PIONEER,U.S. Senate,,DEM,"KELLY, MARK",958,190,674,83,11
+Navajo,07 PIONEER,U.S. Senate,,,Write-In Totals,24,16,6,2,0
+Navajo,07 PIONEER,U.S. Senate,,,Overvotes,3,3,0,0,0
+Navajo,07 PIONEER,U.S. Senate,,,Undervotes,123,42,65,15,1
+Navajo,07 PIONEER,U.S. House,1,REP,"SHEDD, TIFFANY",5751,2058,2901,754,38
+Navajo,07 PIONEER,U.S. House,1,DEM,"O'HALLERAN, TOM",967,180,682,96,9
+Navajo,07 PIONEER,U.S. House,1,,Write-In Totals,10,5,2,2,1
+Navajo,07 PIONEER,U.S. House,1,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,U.S. House,1,,Undervotes,256,93,137,23,3
+Navajo,07 PIONEER,State Senate,6,REP,"ROGERS, WENDY",5789,2064,2942,744,39
+Navajo,07 PIONEER,State Senate,6,DEM,"FRENCH, FELICIA",951,190,659,92,10
+Navajo,07 PIONEER,State Senate,6,,Write-In Totals,25,11,10,3,1
+Navajo,07 PIONEER,State Senate,6,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,State Senate,6,,Undervotes,217,70,111,35,1
+Navajo,07 PIONEER,State House,6,REP,"BARTON, BRENDA",4557,1467,2453,616,21
+Navajo,07 PIONEER,State House,6,REP,"BLACKMAN, WALTER ""WALT""",5745,2011,2925,772,37
+Navajo,07 PIONEER,State House,6,DEM,"EVANS, CORAL J",764,134,573,55,2
+Navajo,07 PIONEER,State House,6,IND,"BABBOTT, ART",599,120,415,61,3
+Navajo,07 PIONEER,State House,6,,Write-In Totals,9,4,4,0,1
+Navajo,07 PIONEER,State House,6,,Overvotes,2,2,0,0,0
+Navajo,07 PIONEER,State House,6,,Undervotes,2288,932,1074,244,38
+Navajo,07 PIONEER,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",4868,1594,2576,675,23
+Navajo,07 PIONEER,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",5107,1727,2677,680,23
+Navajo,07 PIONEER,Corporation Commissioner,,REP,"SLOAN, ERIC",4861,1584,2590,664,23
+Navajo,07 PIONEER,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",773,140,567,62,4
+Navajo,07 PIONEER,Corporation Commissioner,,DEM,"STANFIELD, SHEA",692,119,515,54,4
+Navajo,07 PIONEER,Corporation Commissioner,,DEM,"TOVAR, ANNA",783,133,581,63,6
+Navajo,07 PIONEER,Corporation Commissioner,,,Write-In Totals,21,10,9,1,1
+Navajo,07 PIONEER,Corporation Commissioner,,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,Corporation Commissioner,,,Undervotes,3841,1698,1651,423,69
+Navajo,07 PIONEER,Board of Supervisors Dist. 3,,REP,"WHITING, JASON E.",6026,2084,3118,778,46
+Navajo,07 PIONEER,Board of Supervisors Dist. 3,,,Write-In Totals,48,13,23,11,1
+Navajo,07 PIONEER,Board of Supervisors Dist. 3,,,Overvotes,4,3,1,0,0
+Navajo,07 PIONEER,Board of Supervisors Dist. 3,,,Undervotes,904,235,580,85,4
+Navajo,07 PIONEER,County Attorney,,DEM,"CARLYON, BRAD",3524,1122,1947,428,27
+Navajo,07 PIONEER,County Attorney,,,Write-In Totals,275,126,114,32,3
+Navajo,07 PIONEER,County Attorney,,,Overvotes,2,1,1,0,0
+Navajo,07 PIONEER,County Attorney,,,Undervotes,3181,1086,1660,414,21
+Navajo,07 PIONEER,Sheriff,,DEM,"CLOUSE, DAVID",3808,1221,2068,490,29
+Navajo,07 PIONEER,Sheriff,,,Write-In Totals,572,209,272,88,3
+Navajo,07 PIONEER,Sheriff,,,Overvotes,1,0,0,1,0
+Navajo,07 PIONEER,Sheriff,,,Undervotes,2601,905,1382,295,19
+Navajo,07 PIONEER,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",3483,1118,1921,418,26
+Navajo,07 PIONEER,County Treasurer,,,Write-In Totals,253,114,113,24,2
+Navajo,07 PIONEER,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,County Treasurer,,,Undervotes,3246,1103,1688,432,23
+Navajo,07 PIONEER,County School Superintendent,,DEM,"GERLICH, JALYN",3376,1085,1858,409,24
+Navajo,07 PIONEER,County School Superintendent,,,Write-In Totals,253,117,106,28,2
+Navajo,07 PIONEER,County School Superintendent,,,Overvotes,2,1,1,0,0
+Navajo,07 PIONEER,County School Superintendent,,,Undervotes,3351,1132,1757,437,25
+Navajo,07 PIONEER,County Recorder,,DEM,"SAMPLE, MICHAEL",3483,1102,1938,420,23
+Navajo,07 PIONEER,County Recorder,,,Write-In Totals,229,105,98,24,2
+Navajo,07 PIONEER,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,County Recorder,,,Undervotes,3270,1128,1686,430,26
+Navajo,07 PIONEER,County Assessor,,DEM,"DARRIS, CAMMY",3569,1130,1987,429,23
+Navajo,07 PIONEER,County Assessor,,,Write-In Totals,229,104,101,22,2
+Navajo,07 PIONEER,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,County Assessor,,,Undervotes,3184,1101,1634,423,26
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,,2,,,,
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,"HARDY, MELINDA",4040,1346,2176,487,31
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Write-In Totals,124,41,63,20,0
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Overvotes,2,1,1,0,0
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Undervotes,2816,947,1482,367,20
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,,3,,,,
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,"NIELSON, DALE",4788,1607,2548,600,33
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Write-In Totals,93,36,45,11,1
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Overvotes,2,0,2,0,0
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Undervotes,2099,692,1127,263,17
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,,4,,,,
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",4224,1417,2278,501,28
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Write-In Totals,105,35,54,15,1
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,Judge of Superior Court Div.,,,Undervotes,2653,883,1390,358,22
+Navajo,07 PIONEER,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,4107,1365,2209,504,29
+Navajo,07 PIONEER,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,862,305,455,98,4
+Navajo,07 PIONEER,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,2,1,1,0,0
+Navajo,07 PIONEER,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,2011,664,1057,272,18
+Navajo,07 PIONEER,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,3986,1331,2147,483,25
+Navajo,07 PIONEER,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,941,322,499,113,7
+Navajo,07 PIONEER,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,1,1,0,0,0
+Navajo,07 PIONEER,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,2054,681,1076,278,19
+Navajo,07 PIONEER,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,3945,1291,2135,492,27
+Navajo,07 PIONEER,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,961,356,499,101,5
+Navajo,07 PIONEER,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,3,0,2,1,0
+Navajo,07 PIONEER,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,2073,688,1086,280,19
+Navajo,07 PIONEER,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,3947,1308,2131,483,25
+Navajo,07 PIONEER,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,952,339,501,106,6
+Navajo,07 PIONEER,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,2083,688,1090,285,20
+Navajo,07 PIONEER,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,3764,1256,2031,451,26
+Navajo,07 PIONEER,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,1128,396,590,137,5
+Navajo,07 PIONEER,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,1,0,1,0,0
+Navajo,07 PIONEER,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,2089,683,1100,286,20
+Navajo,07 PIONEER,Board Member Winslow,,,"GREENWOOD, SHARON B.",16,2,12,2,0
+Navajo,07 PIONEER,Board Member Winslow,,,"HARTNETT, JOSEPH",11,2,9,0,0
+Navajo,07 PIONEER,Board Member Winslow,,,"LEONARD, ALLEN",12,2,8,2,0
+Navajo,07 PIONEER,Board Member Winslow,,,"MARTINEZ, DEBBIE",9,1,7,1,0
+Navajo,07 PIONEER,Board Member Winslow,,,Write-In Totals,1,0,1,0,0
+Navajo,07 PIONEER,Board Member Winslow,,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,Board Member Winslow,,,Undervotes,89,14,62,13,0
+Navajo,07 PIONEER,Board Member Timber Mesa FRD,,,"ADAMS, JAMIE",45,6,34,5,0
+Navajo,07 PIONEER,Board Member Timber Mesa FRD,,,"WYATT, PAUL",35,6,26,3,0
+Navajo,07 PIONEER,Board Member Timber Mesa FRD,,,Write-In Totals,10,3,7,0,0
+Navajo,07 PIONEER,Board Member Timber Mesa FRD,,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,Board Member Timber Mesa FRD,,,Undervotes,177,18,131,28,0
+Navajo,07 PIONEER,Council Member Town of Snowflake,,,"PERKINS, ALLISON",2068,637,1148,263,20
+Navajo,07 PIONEER,Council Member Town of Snowflake,,,Write-In Totals,275,149,87,32,7
+Navajo,07 PIONEER,Council Member Town of Snowflake,,,Overvotes,8,6,2,0,0
+Navajo,07 PIONEER,Council Member Town of Snowflake,,,Undervotes,770,236,424,102,8
+Navajo,07 PIONEER,PROPOSITION 207,,,YES,2347,798,1268,259,22
+Navajo,07 PIONEER,PROPOSITION 207,,,NO,4442,1456,2368,595,23
+Navajo,07 PIONEER,PROPOSITION 207,,,Overvotes,1,1,0,0,0
+Navajo,07 PIONEER,PROPOSITION 207,,,Undervotes,192,80,86,20,6
+Navajo,07 PIONEER,PROPOSITION 208,,,YES,1626,371,1059,182,14
+Navajo,07 PIONEER,PROPOSITION 208,,,NO,5142,1872,2576,663,31
+Navajo,07 PIONEER,PROPOSITION 208,,,Overvotes,2,2,0,0,0
+Navajo,07 PIONEER,PROPOSITION 208,,,Undervotes,212,90,87,29,6
+Navajo,07 PIONEER,FOR THE BONDS,,,,35,3,25,7,0
+Navajo,07 PIONEER,FOR THE BONDS,,,AGAINST THE BONDS,49,7,38,4,0
+Navajo,07 PIONEER,FOR THE BONDS,,,Overvotes,0,0,0,0,0
+Navajo,07 PIONEER,FOR THE BONDS,,,Undervotes,5,1,3,1,0
+Navajo,08 ANTELOPE,Registered Voters,,,,3785,,,,
+Navajo,08 ANTELOPE,Ballots Cast,,,,2827,892,1579,345,11
+Navajo,08 ANTELOPE,Ballots Cast - Blank,,,,1,0,1,0,0
+Navajo,08 ANTELOPE,President,,REP,"TRUMP, PENCE",1821,678,901,235,7
+Navajo,08 ANTELOPE,President,,DEM,"BIDEN, HARRIS",924,193,629,98,4
+Navajo,08 ANTELOPE,President,,LBT,"JORGENSEN, COHEN",51,15,29,7,0
+Navajo,08 ANTELOPE,President,,,Write-In Totals,12,1,8,3,0
+Navajo,08 ANTELOPE,President,,,Overvotes,6,1,4,1,0
+Navajo,08 ANTELOPE,President,,,Undervotes,12,4,7,1,0
+Navajo,08 ANTELOPE,U.S. Senate,,REP,"MCSALLY, MARTHA",1742,653,853,230,6
+Navajo,08 ANTELOPE,U.S. Senate,,DEM,"KELLY, MARK",1020,219,689,109,3
+Navajo,08 ANTELOPE,U.S. Senate,,,Write-In Totals,8,3,3,2,0
+Navajo,08 ANTELOPE,U.S. Senate,,,Overvotes,1,1,0,0,0
+Navajo,08 ANTELOPE,U.S. Senate,,,Undervotes,55,16,33,4,2
+Navajo,08 ANTELOPE,U.S. House,1,REP,"SHEDD, TIFFANY",1669,627,812,223,7
+Navajo,08 ANTELOPE,U.S. House,1,DEM,"O'HALLERAN, TOM",1045,227,706,111,1
+Navajo,08 ANTELOPE,U.S. House,1,,Write-In Totals,6,0,6,0,0
+Navajo,08 ANTELOPE,U.S. House,1,,Overvotes,1,1,0,0,0
+Navajo,08 ANTELOPE,U.S. House,1,,Undervotes,105,37,54,11,3
+Navajo,08 ANTELOPE,State Senate,6,REP,"ROGERS, WENDY",1761,662,864,229,6
+Navajo,08 ANTELOPE,State Senate,6,DEM,"FRENCH, FELICIA",962,208,647,104,3
+Navajo,08 ANTELOPE,State Senate,6,,Write-In Totals,11,0,10,1,0
+Navajo,08 ANTELOPE,State Senate,6,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,State Senate,6,,Undervotes,91,22,56,11,2
+Navajo,08 ANTELOPE,State House,6,REP,"BARTON, BRENDA",1394,496,707,187,4
+Navajo,08 ANTELOPE,State House,6,REP,"BLACKMAN, WALTER ""WALT""",1634,642,782,207,3
+Navajo,08 ANTELOPE,State House,6,DEM,"EVANS, CORAL J",900,182,617,99,2
+Navajo,08 ANTELOPE,State House,6,IND,"BABBOTT, ART",511,122,320,67,2
+Navajo,08 ANTELOPE,State House,6,,Write-In Totals,4,0,4,0,0
+Navajo,08 ANTELOPE,State House,6,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,State House,6,,Undervotes,1207,342,724,130,11
+Navajo,08 ANTELOPE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1443,524,733,183,3
+Navajo,08 ANTELOPE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1531,578,752,197,4
+Navajo,08 ANTELOPE,Corporation Commissioner,,REP,"SLOAN, ERIC",1425,522,716,184,3
+Navajo,08 ANTELOPE,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",731,145,505,80,1
+Navajo,08 ANTELOPE,Corporation Commissioner,,DEM,"STANFIELD, SHEA",701,147,481,71,2
+Navajo,08 ANTELOPE,Corporation Commissioner,,DEM,"TOVAR, ANNA",799,155,550,92,2
+Navajo,08 ANTELOPE,Corporation Commissioner,,,Write-In Totals,8,1,7,0,0
+Navajo,08 ANTELOPE,Corporation Commissioner,,,Overvotes,6,3,3,0,0
+Navajo,08 ANTELOPE,Corporation Commissioner,,,Undervotes,1831,601,984,228,18
+Navajo,08 ANTELOPE,Board of Supervisors Dist. 3,,REP,"WHITING, JASON E.",2233,753,1189,285,6
+Navajo,08 ANTELOPE,Board of Supervisors Dist. 3,,,Write-In Totals,46,10,29,7,0
+Navajo,08 ANTELOPE,Board of Supervisors Dist. 3,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,Board of Supervisors Dist. 3,,,Undervotes,546,129,359,53,5
+Navajo,08 ANTELOPE,County Attorney,,DEM,"CARLYON, BRAD",1988,603,1141,237,7
+Navajo,08 ANTELOPE,County Attorney,,,Write-In Totals,86,28,48,10,0
+Navajo,08 ANTELOPE,County Attorney,,,Overvotes,1,0,1,0,0
+Navajo,08 ANTELOPE,County Attorney,,,Undervotes,750,261,387,98,4
+Navajo,08 ANTELOPE,Sheriff,,DEM,"CLOUSE, DAVID",2003,613,1147,236,7
+Navajo,08 ANTELOPE,Sheriff,,,Write-In Totals,120,43,62,15,0
+Navajo,08 ANTELOPE,Sheriff,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,Sheriff,,,Undervotes,702,236,368,94,4
+Navajo,08 ANTELOPE,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",2018,615,1163,233,7
+Navajo,08 ANTELOPE,County Treasurer,,,Write-In Totals,74,19,45,10,0
+Navajo,08 ANTELOPE,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,County Treasurer,,,Undervotes,733,258,369,102,4
+Navajo,08 ANTELOPE,County School Superintendent,,DEM,"GERLICH, JALYN",1941,593,1120,221,7
+Navajo,08 ANTELOPE,County School Superintendent,,,Write-In Totals,76,24,42,10,0
+Navajo,08 ANTELOPE,County School Superintendent,,,Overvotes,2,0,1,1,0
+Navajo,08 ANTELOPE,County School Superintendent,,,Undervotes,806,275,414,113,4
+Navajo,08 ANTELOPE,County Recorder,,DEM,"SAMPLE, MICHAEL",2104,646,1203,248,7
+Navajo,08 ANTELOPE,County Recorder,,,Write-In Totals,64,19,37,8,0
+Navajo,08 ANTELOPE,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,County Recorder,,,Undervotes,657,227,337,89,4
+Navajo,08 ANTELOPE,County Assessor,,DEM,"DARRIS, CAMMY",2069,635,1186,241,7
+Navajo,08 ANTELOPE,County Assessor,,,Write-In Totals,70,18,42,10,0
+Navajo,08 ANTELOPE,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,County Assessor,,,Undervotes,686,239,349,94,4
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,,2,,,,
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,"HARDY, MELINDA",1983,633,1104,239,7
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Write-In Totals,64,16,41,7,0
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Undervotes,778,243,432,99,4
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,,3,,,,
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,"NIELSON, DALE",2258,720,1264,267,7
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Write-In Totals,34,10,21,3,0
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Overvotes,1,1,0,0,0
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Undervotes,532,161,292,75,4
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,,4,,,,
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",2195,694,1231,262,8
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Write-In Totals,36,7,26,3,0
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Overvotes,1,0,1,0,0
+Navajo,08 ANTELOPE,Judge of Superior Court Div.,,,Undervotes,593,191,319,80,3
+Navajo,08 ANTELOPE,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,1779,584,987,204,4
+Navajo,08 ANTELOPE,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,463,140,269,51,3
+Navajo,08 ANTELOPE,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,583,168,321,90,4
+Navajo,08 ANTELOPE,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,1768,581,981,202,4
+Navajo,08 ANTELOPE,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,474,141,275,55,3
+Navajo,08 ANTELOPE,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,583,170,321,88,4
+Navajo,08 ANTELOPE,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,1785,575,999,206,5
+Navajo,08 ANTELOPE,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,445,138,254,51,2
+Navajo,08 ANTELOPE,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,595,179,324,88,4
+Navajo,08 ANTELOPE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,1771,575,989,203,4
+Navajo,08 ANTELOPE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,443,137,250,53,3
+Navajo,08 ANTELOPE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,1,1,0,0,0
+Navajo,08 ANTELOPE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,610,179,338,89,4
+Navajo,08 ANTELOPE,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,1773,560,1010,199,4
+Navajo,08 ANTELOPE,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,458,153,245,57,3
+Navajo,08 ANTELOPE,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,594,179,322,89,4
+Navajo,08 ANTELOPE,Board Member Joseph City DWID,,,"PETERSON, TOM",315,124,147,43,1
+Navajo,08 ANTELOPE,Board Member Joseph City DWID,,,"RICE, GARY",375,163,143,67,2
+Navajo,08 ANTELOPE,Board Member Joseph City DWID,,,"ROBERSON, RHONDA",361,138,162,61,0
+Navajo,08 ANTELOPE,Board Member Joseph City DWID,,,Write-In Totals,5,2,3,0,0
+Navajo,08 ANTELOPE,Board Member Joseph City DWID,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,Board Member Joseph City DWID,,,Undervotes,222,93,87,37,5
+Navajo,08 ANTELOPE,Board Member Joseph City Sanitary,,,"PETERSON, TOM",294,115,136,42,1
+Navajo,08 ANTELOPE,Board Member Joseph City Sanitary,,,"RICE, GARY",358,150,141,65,2
+Navajo,08 ANTELOPE,Board Member Joseph City Sanitary,,,"ROBERSON, RHONDA",345,134,150,61,0
+Navajo,08 ANTELOPE,Board Member Joseph City Sanitary,,,Write-In Totals,5,2,3,0,0
+Navajo,08 ANTELOPE,Board Member Joseph City Sanitary,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,Board Member Joseph City Sanitary,,,Undervotes,230,95,96,34,5
+Navajo,08 ANTELOPE,PROPOSITION 207,,,YES,1302,371,774,151,6
+Navajo,08 ANTELOPE,PROPOSITION 207,,,NO,1445,495,763,184,3
+Navajo,08 ANTELOPE,PROPOSITION 207,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,PROPOSITION 207,,,Undervotes,78,26,40,10,2
+Navajo,08 ANTELOPE,PROPOSITION 208,,,YES,1081,261,691,128,1
+Navajo,08 ANTELOPE,PROPOSITION 208,,,NO,1657,597,847,205,8
+Navajo,08 ANTELOPE,PROPOSITION 208,,,Overvotes,0,0,0,0,0
+Navajo,08 ANTELOPE,PROPOSITION 208,,,Undervotes,87,34,39,12,2
+Navajo,09 JUNIPER,Registered Voters,,,,1834,,,,
+Navajo,09 JUNIPER,Ballots Cast,,,,1522,446,922,143,11
+Navajo,09 JUNIPER,Ballots Cast - Blank,,,,0,0,0,0,0
+Navajo,09 JUNIPER,President,,REP,"TRUMP, PENCE",1175,405,645,115,10
+Navajo,09 JUNIPER,President,,DEM,"BIDEN, HARRIS",319,33,258,27,1
+Navajo,09 JUNIPER,President,,LBT,"JORGENSEN, COHEN",19,6,12,1,0
+Navajo,09 JUNIPER,President,,,Write-In Totals,5,1,4,0,0
+Navajo,09 JUNIPER,President,,,Overvotes,1,1,0,0,0
+Navajo,09 JUNIPER,President,,,Undervotes,3,0,3,0,0
+Navajo,09 JUNIPER,U.S. Senate,,REP,"MCSALLY, MARTHA",1123,384,620,111,8
+Navajo,09 JUNIPER,U.S. Senate,,DEM,"KELLY, MARK",360,47,282,28,3
+Navajo,09 JUNIPER,U.S. Senate,,,Write-In Totals,9,2,5,2,0
+Navajo,09 JUNIPER,U.S. Senate,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,U.S. Senate,,,Undervotes,30,13,15,2,0
+Navajo,09 JUNIPER,U.S. House,1,REP,"SHEDD, TIFFANY",1111,383,607,111,10
+Navajo,09 JUNIPER,U.S. House,1,DEM,"O'HALLERAN, TOM",340,41,275,23,1
+Navajo,09 JUNIPER,U.S. House,1,,Write-In Totals,6,1,4,1,0
+Navajo,09 JUNIPER,U.S. House,1,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,U.S. House,1,,Undervotes,65,21,36,8,0
+Navajo,09 JUNIPER,State Senate,6,REP,"ROGERS, WENDY",1137,392,628,108,9
+Navajo,09 JUNIPER,State Senate,6,DEM,"FRENCH, FELICIA",325,40,256,27,2
+Navajo,09 JUNIPER,State Senate,6,,Write-In Totals,7,2,4,1,0
+Navajo,09 JUNIPER,State Senate,6,,Overvotes,1,1,0,0,0
+Navajo,09 JUNIPER,State Senate,6,,Undervotes,52,11,34,7,0
+Navajo,09 JUNIPER,State House,6,REP,"BARTON, BRENDA",818,242,492,81,3
+Navajo,09 JUNIPER,State House,6,REP,"BLACKMAN, WALTER ""WALT""",1024,355,554,105,10
+Navajo,09 JUNIPER,State House,6,DEM,"EVANS, CORAL J",306,35,250,20,1
+Navajo,09 JUNIPER,State House,6,IND,"BABBOTT, ART",214,31,167,16,0
+Navajo,09 JUNIPER,State House,6,,Write-In Totals,3,2,0,1,0
+Navajo,09 JUNIPER,State House,6,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,State House,6,,Undervotes,679,227,381,63,8
+Navajo,09 JUNIPER,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",845,257,493,89,6
+Navajo,09 JUNIPER,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",894,271,533,85,5
+Navajo,09 JUNIPER,Corporation Commissioner,,REP,"SLOAN, ERIC",911,293,521,92,5
+Navajo,09 JUNIPER,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",280,31,228,20,1
+Navajo,09 JUNIPER,Corporation Commissioner,,DEM,"STANFIELD, SHEA",272,27,222,23,0
+Navajo,09 JUNIPER,Corporation Commissioner,,DEM,"TOVAR, ANNA",304,42,234,27,1
+Navajo,09 JUNIPER,Corporation Commissioner,,,Write-In Totals,4,3,0,1,0
+Navajo,09 JUNIPER,Corporation Commissioner,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,Corporation Commissioner,,,Undervotes,1056,414,535,92,15
+Navajo,09 JUNIPER,Board of Supervisors Dist. 3,,REP,"WHITING, JASON E.",1182,378,681,114,9
+Navajo,09 JUNIPER,Board of Supervisors Dist. 3,,,Write-In Totals,24,6,15,2,1
+Navajo,09 JUNIPER,Board of Supervisors Dist. 3,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,Board of Supervisors Dist. 3,,,Undervotes,316,62,226,27,1
+Navajo,09 JUNIPER,County Attorney,,DEM,"CARLYON, BRAD",730,188,477,59,6
+Navajo,09 JUNIPER,County Attorney,,,Write-In Totals,74,24,34,15,1
+Navajo,09 JUNIPER,County Attorney,,,Overvotes,1,1,0,0,0
+Navajo,09 JUNIPER,County Attorney,,,Undervotes,717,233,411,69,4
+Navajo,09 JUNIPER,Sheriff,,DEM,"CLOUSE, DAVID",777,207,495,69,6
+Navajo,09 JUNIPER,Sheriff,,,Write-In Totals,97,25,48,24,0
+Navajo,09 JUNIPER,Sheriff,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,Sheriff,,,Undervotes,648,214,379,50,5
+Navajo,09 JUNIPER,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",724,183,479,59,3
+Navajo,09 JUNIPER,County Treasurer,,,Write-In Totals,80,26,34,19,1
+Navajo,09 JUNIPER,County Treasurer,,,Overvotes,1,0,1,0,0
+Navajo,09 JUNIPER,County Treasurer,,,Undervotes,717,237,408,65,7
+Navajo,09 JUNIPER,County School Superintendent,,DEM,"GERLICH, JALYN",702,170,469,60,3
+Navajo,09 JUNIPER,County School Superintendent,,,Write-In Totals,81,29,32,19,1
+Navajo,09 JUNIPER,County School Superintendent,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,County School Superintendent,,,Undervotes,739,247,421,64,7
+Navajo,09 JUNIPER,County Recorder,,DEM,"SAMPLE, MICHAEL",730,179,482,66,3
+Navajo,09 JUNIPER,County Recorder,,,Write-In Totals,70,23,32,14,1
+Navajo,09 JUNIPER,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,County Recorder,,,Undervotes,722,244,408,63,7
+Navajo,09 JUNIPER,County Assessor,,DEM,"DARRIS, CAMMY",750,190,493,64,3
+Navajo,09 JUNIPER,County Assessor,,,Write-In Totals,78,26,32,19,1
+Navajo,09 JUNIPER,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,County Assessor,,,Undervotes,694,230,397,60,7
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,,2,,,,
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,"HARDY, MELINDA",834,228,530,71,5
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Write-In Totals,36,9,14,13,0
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Overvotes,1,0,1,0,0
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Undervotes,651,209,377,59,6
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,,3,,,,
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,"NIELSON, DALE",916,265,566,77,8
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Write-In Totals,24,8,10,6,0
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Undervotes,582,173,346,60,3
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,,4,,,,
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",880,248,549,75,8
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Write-In Totals,29,9,13,7,0
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,Judge of Superior Court Div.,,,Undervotes,613,189,360,61,3
+Navajo,09 JUNIPER,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,833,240,505,83,5
+Navajo,09 JUNIPER,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,234,67,147,18,2
+Navajo,09 JUNIPER,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,455,139,270,42,4
+Navajo,09 JUNIPER,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,820,232,500,81,7
+Navajo,09 JUNIPER,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,237,68,149,19,1
+Navajo,09 JUNIPER,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,465,146,273,43,3
+Navajo,09 JUNIPER,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,814,229,503,77,5
+Navajo,09 JUNIPER,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,246,72,150,21,3
+Navajo,09 JUNIPER,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,462,145,269,45,3
+Navajo,09 JUNIPER,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,807,234,496,70,7
+Navajo,09 JUNIPER,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,245,66,151,27,1
+Navajo,09 JUNIPER,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,470,146,275,46,3
+Navajo,09 JUNIPER,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,764,205,482,71,6
+Navajo,09 JUNIPER,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,274,83,164,25,2
+Navajo,09 JUNIPER,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,484,158,276,47,3
+Navajo,09 JUNIPER,Board Member Show Low,,,"LARSEN, JOHN",776,219,496,57,4
+Navajo,09 JUNIPER,Board Member Show Low,,,"SCHULTZ, LAMISTA",593,144,385,60,4
+Navajo,09 JUNIPER,Board Member Show Low,,,Write-In Totals,156,67,57,29,3
+Navajo,09 JUNIPER,Board Member Show Low,,,Overvotes,3,3,0,0,0
+Navajo,09 JUNIPER,Board Member Show Low,,,Undervotes,2957,884,1792,259,22
+Navajo,09 JUNIPER,Board Member Timber Mesa FRD,,,"ADAMS, JAMIE",528,141,327,57,3
+Navajo,09 JUNIPER,Board Member Timber Mesa FRD,,,"WYATT, PAUL",555,152,352,49,2
+Navajo,09 JUNIPER,Board Member Timber Mesa FRD,,,Write-In Totals,122,67,37,17,1
+Navajo,09 JUNIPER,Board Member Timber Mesa FRD,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,Board Member Timber Mesa FRD,,,Undervotes,2323,708,1414,192,9
+Navajo,09 JUNIPER,PROPOSITION 207,,,YES,864,268,503,87,6
+Navajo,09 JUNIPER,PROPOSITION 207,,,NO,600,159,387,50,4
+Navajo,09 JUNIPER,PROPOSITION 207,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,PROPOSITION 207,,,Undervotes,58,19,32,6,1
+Navajo,09 JUNIPER,PROPOSITION 208,,,YES,466,96,312,53,5
+Navajo,09 JUNIPER,PROPOSITION 208,,,NO,984,319,574,86,5
+Navajo,09 JUNIPER,PROPOSITION 208,,,Overvotes,1,1,0,0,0
+Navajo,09 JUNIPER,PROPOSITION 208,,,Undervotes,71,30,36,4,1
+Navajo,09 JUNIPER,FOR THE BONDS,,,,421,106,277,37,1
+Navajo,09 JUNIPER,FOR THE BONDS,,,AGAINST THE BONDS,670,214,395,58,3
+Navajo,09 JUNIPER,FOR THE BONDS,,,Overvotes,0,0,0,0,0
+Navajo,09 JUNIPER,FOR THE BONDS,,,Undervotes,85,36,38,10,1
+Navajo,10 BISON,Registered Voters,,,,1141,,,,
+Navajo,10 BISON,Ballots Cast,,,,1020,363,522,129,6
+Navajo,10 BISON,Ballots Cast - Blank,,,,0,0,0,0,0
+Navajo,10 BISON,President,,REP,"TRUMP, PENCE",856,336,399,115,6
+Navajo,10 BISON,President,,DEM,"BIDEN, HARRIS",143,19,118,6,0
+Navajo,10 BISON,President,,LBT,"JORGENSEN, COHEN",11,4,5,2,0
+Navajo,10 BISON,President,,,Write-In Totals,4,1,0,3,0
+Navajo,10 BISON,President,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,President,,,Undervotes,6,3,0,3,0
+Navajo,10 BISON,U.S. Senate,,REP,"MCSALLY, MARTHA",837,322,392,117,6
+Navajo,10 BISON,U.S. Senate,,DEM,"KELLY, MARK",162,32,122,8,0
+Navajo,10 BISON,U.S. Senate,,,Write-In Totals,3,0,2,1,0
+Navajo,10 BISON,U.S. Senate,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,U.S. Senate,,,Undervotes,18,9,6,3,0
+Navajo,10 BISON,U.S. House,1,REP,"SHEDD, TIFFANY",817,319,380,112,6
+Navajo,10 BISON,U.S. House,1,DEM,"O'HALLERAN, TOM",163,26,127,10,0
+Navajo,10 BISON,U.S. House,1,,Write-In Totals,1,1,0,0,0
+Navajo,10 BISON,U.S. House,1,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,U.S. House,1,,Undervotes,39,17,15,7,0
+Navajo,10 BISON,State Senate,6,REP,"ROGERS, WENDY",856,330,405,115,6
+Navajo,10 BISON,State Senate,6,DEM,"FRENCH, FELICIA",133,19,104,10,0
+Navajo,10 BISON,State Senate,6,,Write-In Totals,1,0,1,0,0
+Navajo,10 BISON,State Senate,6,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,State Senate,6,,Undervotes,30,14,12,4,0
+Navajo,10 BISON,State House,6,REP,"BARTON, BRENDA",700,262,341,95,2
+Navajo,10 BISON,State House,6,REP,"BLACKMAN, WALTER ""WALT""",773,293,368,106,6
+Navajo,10 BISON,State House,6,DEM,"EVANS, CORAL J",117,17,95,5,0
+Navajo,10 BISON,State House,6,IND,"BABBOTT, ART",108,21,75,12,0
+Navajo,10 BISON,State House,6,,Write-In Totals,0,0,0,0,0
+Navajo,10 BISON,State House,6,,Overvotes,2,2,0,0,0
+Navajo,10 BISON,State House,6,,Undervotes,340,131,165,40,4
+Navajo,10 BISON,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",705,256,346,100,3
+Navajo,10 BISON,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",735,270,357,103,5
+Navajo,10 BISON,Corporation Commissioner,,REP,"SLOAN, ERIC",689,254,331,100,4
+Navajo,10 BISON,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",131,26,99,6,0
+Navajo,10 BISON,Corporation Commissioner,,DEM,"STANFIELD, SHEA",117,17,96,4,0
+Navajo,10 BISON,Corporation Commissioner,,DEM,"TOVAR, ANNA",131,20,103,8,0
+Navajo,10 BISON,Corporation Commissioner,,,Write-In Totals,3,2,1,0,0
+Navajo,10 BISON,Corporation Commissioner,,,Overvotes,3,0,3,0,0
+Navajo,10 BISON,Corporation Commissioner,,,Undervotes,546,244,230,66,6
+Navajo,10 BISON,Board of Supervisors Dist. 4,,REP,"SEYMORE, DARYL",857,317,419,115,6
+Navajo,10 BISON,Board of Supervisors Dist. 4,,,Write-In Totals,17,1,14,2,0
+Navajo,10 BISON,Board of Supervisors Dist. 4,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,Board of Supervisors Dist. 4,,,Undervotes,146,45,89,12,0
+Navajo,10 BISON,County Attorney,,DEM,"CARLYON, BRAD",445,146,244,52,3
+Navajo,10 BISON,County Attorney,,,Write-In Totals,31,11,16,4,0
+Navajo,10 BISON,County Attorney,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,County Attorney,,,Undervotes,544,206,262,73,3
+Navajo,10 BISON,Sheriff,,DEM,"CLOUSE, DAVID",473,155,256,59,3
+Navajo,10 BISON,Sheriff,,,Write-In Totals,48,17,25,6,0
+Navajo,10 BISON,Sheriff,,,Overvotes,1,0,1,0,0
+Navajo,10 BISON,Sheriff,,,Undervotes,498,191,240,64,3
+Navajo,10 BISON,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",425,140,231,51,3
+Navajo,10 BISON,County Treasurer,,,Write-In Totals,33,12,19,2,0
+Navajo,10 BISON,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,County Treasurer,,,Undervotes,562,211,272,76,3
+Navajo,10 BISON,County School Superintendent,,DEM,"GERLICH, JALYN",416,140,224,50,2
+Navajo,10 BISON,County School Superintendent,,,Write-In Totals,31,10,16,4,1
+Navajo,10 BISON,County School Superintendent,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,County School Superintendent,,,Undervotes,573,213,282,75,3
+Navajo,10 BISON,County Recorder,,DEM,"SAMPLE, MICHAEL",427,141,234,49,3
+Navajo,10 BISON,County Recorder,,,Write-In Totals,27,9,16,2,0
+Navajo,10 BISON,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,County Recorder,,,Undervotes,566,213,272,78,3
+Navajo,10 BISON,County Assessor,,DEM,"DARRIS, CAMMY",445,146,247,49,3
+Navajo,10 BISON,County Assessor,,,Write-In Totals,25,8,15,2,0
+Navajo,10 BISON,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,County Assessor,,,Undervotes,550,209,260,78,3
+Navajo,10 BISON,Judge of Superior Court Div.,,,,2,,,,
+Navajo,10 BISON,Judge of Superior Court Div.,,,"HARDY, MELINDA",514,182,261,68,3
+Navajo,10 BISON,Judge of Superior Court Div.,,,Write-In Totals,10,3,5,2,0
+Navajo,10 BISON,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,Judge of Superior Court Div.,,,Undervotes,496,178,256,59,3
+Navajo,10 BISON,Judge of Superior Court Div.,,,,3,,,,
+Navajo,10 BISON,Judge of Superior Court Div.,,,"NIELSON, DALE",565,204,279,78,4
+Navajo,10 BISON,Judge of Superior Court Div.,,,Write-In Totals,5,1,4,0,0
+Navajo,10 BISON,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,Judge of Superior Court Div.,,,Undervotes,450,158,239,51,2
+Navajo,10 BISON,Judge of Superior Court Div.,,,,4,,,,
+Navajo,10 BISON,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",529,190,261,74,4
+Navajo,10 BISON,Judge of Superior Court Div.,,,Write-In Totals,10,1,9,0,0
+Navajo,10 BISON,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,Judge of Superior Court Div.,,,Undervotes,481,172,252,55,2
+Navajo,10 BISON,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,535,192,278,63,2
+Navajo,10 BISON,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,130,40,73,16,1
+Navajo,10 BISON,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,355,131,171,50,3
+Navajo,10 BISON,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,520,190,264,64,2
+Navajo,10 BISON,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,148,41,89,17,1
+Navajo,10 BISON,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,352,132,169,48,3
+Navajo,10 BISON,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,510,179,263,66,2
+Navajo,10 BISON,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,149,49,84,15,1
+Navajo,10 BISON,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,361,135,175,48,3
+Navajo,10 BISON,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,499,180,257,60,2
+Navajo,10 BISON,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,154,43,92,18,1
+Navajo,10 BISON,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,367,140,173,51,3
+Navajo,10 BISON,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,465,172,238,53,2
+Navajo,10 BISON,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,183,52,104,26,1
+Navajo,10 BISON,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,372,139,180,50,3
+Navajo,10 BISON,Board Member Show Low,,,"LARSEN, JOHN",554,205,268,79,2
+Navajo,10 BISON,Board Member Show Low,,,"SCHULTZ, LAMISTA",358,132,184,42,0
+Navajo,10 BISON,Board Member Show Low,,,Write-In Totals,191,77,82,29,3
+Navajo,10 BISON,Board Member Show Low,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,Board Member Show Low,,,Undervotes,1957,675,1032,237,13
+Navajo,10 BISON,Board Member Timber Mesa FRD,,,"ADAMS, JAMIE",99,26,60,13,0
+Navajo,10 BISON,Board Member Timber Mesa FRD,,,"WYATT, PAUL",145,42,84,18,1
+Navajo,10 BISON,Board Member Timber Mesa FRD,,,Write-In Totals,25,10,15,0,0
+Navajo,10 BISON,Board Member Timber Mesa FRD,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,Board Member Timber Mesa FRD,,,Undervotes,472,123,291,53,5
+Navajo,10 BISON,PROPOSITION 207,,,YES,370,118,206,44,2
+Navajo,10 BISON,PROPOSITION 207,,,NO,616,227,303,82,4
+Navajo,10 BISON,PROPOSITION 207,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,PROPOSITION 207,,,Undervotes,34,18,13,3,0
+Navajo,10 BISON,PROPOSITION 208,,,YES,246,61,156,29,0
+Navajo,10 BISON,PROPOSITION 208,,,NO,740,284,354,97,5
+Navajo,10 BISON,PROPOSITION 208,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,PROPOSITION 208,,,Undervotes,34,18,12,3,1
+Navajo,10 BISON,FOR THE BONDS,,,,74,14,52,8,0
+Navajo,10 BISON,FOR THE BONDS,,,AGAINST THE BONDS,150,48,83,18,1
+Navajo,10 BISON,FOR THE BONDS,,,Overvotes,0,0,0,0,0
+Navajo,10 BISON,FOR THE BONDS,,,Undervotes,23,5,15,2,1
+Navajo,11 MOGOLLON,Registered Voters,,,,3278,,,,
+Navajo,11 MOGOLLON,Ballots Cast,,,,2795,572,2024,196,3
+Navajo,11 MOGOLLON,Ballots Cast - Blank,,,,0,0,0,0,0
+Navajo,11 MOGOLLON,President,,REP,"TRUMP, PENCE",2173,531,1472,167,3
+Navajo,11 MOGOLLON,President,,DEM,"BIDEN, HARRIS",587,36,524,27,0
+Navajo,11 MOGOLLON,President,,LBT,"JORGENSEN, COHEN",17,3,13,1,0
+Navajo,11 MOGOLLON,President,,,Write-In Totals,9,0,8,1,0
+Navajo,11 MOGOLLON,President,,,Overvotes,3,1,2,0,0
+Navajo,11 MOGOLLON,President,,,Undervotes,6,1,5,0,0
+Navajo,11 MOGOLLON,U.S. Senate,,REP,"MCSALLY, MARTHA",2112,509,1437,164,2
+Navajo,11 MOGOLLON,U.S. Senate,,DEM,"KELLY, MARK",634,44,562,27,1
+Navajo,11 MOGOLLON,U.S. Senate,,,Write-In Totals,3,1,1,1,0
+Navajo,11 MOGOLLON,U.S. Senate,,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,U.S. Senate,,,Undervotes,46,18,24,4,0
+Navajo,11 MOGOLLON,U.S. House,1,REP,"SHEDD, TIFFANY",2066,504,1391,168,3
+Navajo,11 MOGOLLON,U.S. House,1,DEM,"O'HALLERAN, TOM",636,46,570,20,0
+Navajo,11 MOGOLLON,U.S. House,1,,Write-In Totals,2,0,2,0,0
+Navajo,11 MOGOLLON,U.S. House,1,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,U.S. House,1,,Undervotes,91,22,61,8,0
+Navajo,11 MOGOLLON,State Senate,6,REP,"ROGERS, WENDY",2116,508,1447,159,2
+Navajo,11 MOGOLLON,State Senate,6,DEM,"FRENCH, FELICIA",582,43,509,29,1
+Navajo,11 MOGOLLON,State Senate,6,,Write-In Totals,9,0,8,1,0
+Navajo,11 MOGOLLON,State Senate,6,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,State Senate,6,,Undervotes,88,21,60,7,0
+Navajo,11 MOGOLLON,State House,6,REP,"BARTON, BRENDA",1771,416,1215,138,2
+Navajo,11 MOGOLLON,State House,6,REP,"BLACKMAN, WALTER ""WALT""",1983,478,1348,155,2
+Navajo,11 MOGOLLON,State House,6,DEM,"EVANS, CORAL J",526,33,472,21,0
+Navajo,11 MOGOLLON,State House,6,IND,"BABBOTT, ART",387,31,334,22,0
+Navajo,11 MOGOLLON,State House,6,,Write-In Totals,3,1,2,0,0
+Navajo,11 MOGOLLON,State House,6,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,State House,6,,Undervotes,920,185,677,56,2
+Navajo,11 MOGOLLON,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1746,393,1212,138,3
+Navajo,11 MOGOLLON,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1907,460,1300,145,2
+Navajo,11 MOGOLLON,Corporation Commissioner,,REP,"SLOAN, ERIC",1778,404,1237,135,2
+Navajo,11 MOGOLLON,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",535,32,480,23,0
+Navajo,11 MOGOLLON,Corporation Commissioner,,DEM,"STANFIELD, SHEA",484,29,433,22,0
+Navajo,11 MOGOLLON,Corporation Commissioner,,DEM,"TOVAR, ANNA",566,37,505,24,0
+Navajo,11 MOGOLLON,Corporation Commissioner,,,Write-In Totals,3,3,0,0,0
+Navajo,11 MOGOLLON,Corporation Commissioner,,,Overvotes,3,0,3,0,0
+Navajo,11 MOGOLLON,Corporation Commissioner,,,Undervotes,1363,358,902,101,2
+Navajo,11 MOGOLLON,Board of Supervisors Dist. 4,,REP,"SEYMORE, DARYL",2280,513,1606,158,3
+Navajo,11 MOGOLLON,Board of Supervisors Dist. 4,,,Write-In Totals,20,2,16,2,0
+Navajo,11 MOGOLLON,Board of Supervisors Dist. 4,,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,Board of Supervisors Dist. 4,,,Undervotes,495,57,402,36,0
+Navajo,11 MOGOLLON,County Attorney,,DEM,"CARLYON, BRAD",1376,223,1072,81,0
+Navajo,11 MOGOLLON,County Attorney,,,Write-In Totals,83,21,57,5,0
+Navajo,11 MOGOLLON,County Attorney,,,Overvotes,1,1,0,0,0
+Navajo,11 MOGOLLON,County Attorney,,,Undervotes,1335,327,895,110,3
+Navajo,11 MOGOLLON,Sheriff,,DEM,"CLOUSE, DAVID",1490,267,1138,85,0
+Navajo,11 MOGOLLON,Sheriff,,,Write-In Totals,122,25,90,7,0
+Navajo,11 MOGOLLON,Sheriff,,,Overvotes,1,1,0,0,0
+Navajo,11 MOGOLLON,Sheriff,,,Undervotes,1182,279,796,104,3
+Navajo,11 MOGOLLON,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",1345,215,1049,80,1
+Navajo,11 MOGOLLON,County Treasurer,,,Write-In Totals,91,23,63,5,0
+Navajo,11 MOGOLLON,County Treasurer,,,Overvotes,1,1,0,0,0
+Navajo,11 MOGOLLON,County Treasurer,,,Undervotes,1358,333,912,111,2
+Navajo,11 MOGOLLON,County School Superintendent,,DEM,"GERLICH, JALYN",1319,208,1037,74,0
+Navajo,11 MOGOLLON,County School Superintendent,,,Write-In Totals,90,25,61,4,0
+Navajo,11 MOGOLLON,County School Superintendent,,,Overvotes,1,0,1,0,0
+Navajo,11 MOGOLLON,County School Superintendent,,,Undervotes,1385,339,925,118,3
+Navajo,11 MOGOLLON,County Recorder,,DEM,"SAMPLE, MICHAEL",1331,211,1041,79,0
+Navajo,11 MOGOLLON,County Recorder,,,Write-In Totals,82,23,55,4,0
+Navajo,11 MOGOLLON,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,County Recorder,,,Undervotes,1382,338,928,113,3
+Navajo,11 MOGOLLON,County Assessor,,DEM,"DARRIS, CAMMY",1370,227,1060,83,0
+Navajo,11 MOGOLLON,County Assessor,,,Write-In Totals,77,19,54,4,0
+Navajo,11 MOGOLLON,County Assessor,,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,County Assessor,,,Undervotes,1348,326,910,109,3
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,,2,,,,
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,"HARDY, MELINDA",1558,301,1162,92,3
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Write-In Totals,30,8,17,5,0
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Overvotes,1,1,0,0,0
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Undervotes,1206,262,845,99,0
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,,3,,,,
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,"NIELSON, DALE",1659,334,1218,105,2
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Write-In Totals,23,7,13,3,0
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Undervotes,1113,231,793,88,1
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,,4,,,,
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",1604,310,1196,96,2
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Write-In Totals,26,6,15,5,0
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,Judge of Superior Court Div.,,,Undervotes,1165,256,813,95,1
+Navajo,11 MOGOLLON,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,1608,304,1190,111,3
+Navajo,11 MOGOLLON,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,367,83,260,24,0
+Navajo,11 MOGOLLON,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,820,185,574,61,0
+Navajo,11 MOGOLLON,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,1521,299,1112,108,2
+Navajo,11 MOGOLLON,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,440,82,331,27,0
+Navajo,11 MOGOLLON,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,834,191,581,61,1
+Navajo,11 MOGOLLON,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,1515,276,1135,102,2
+Navajo,11 MOGOLLON,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,427,96,299,32,0
+Navajo,11 MOGOLLON,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,1,0,1,0,0
+Navajo,11 MOGOLLON,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,852,200,589,62,1
+Navajo,11 MOGOLLON,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,1520,300,1112,106,2
+Navajo,11 MOGOLLON,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,433,76,327,29,1
+Navajo,11 MOGOLLON,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,842,196,585,61,0
+Navajo,11 MOGOLLON,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,1450,269,1080,98,3
+Navajo,11 MOGOLLON,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,499,105,358,36,0
+Navajo,11 MOGOLLON,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,846,198,586,62,0
+Navajo,11 MOGOLLON,Board Member Winslow,,,"GREENWOOD, SHARON B.",2,0,1,1,0
+Navajo,11 MOGOLLON,Board Member Winslow,,,"HARTNETT, JOSEPH",1,0,0,1,0
+Navajo,11 MOGOLLON,Board Member Winslow,,,"LEONARD, ALLEN",0,0,0,0,0
+Navajo,11 MOGOLLON,Board Member Winslow,,,"MARTINEZ, DEBBIE",2,0,1,1,0
+Navajo,11 MOGOLLON,Board Member Winslow,,,Write-In Totals,0,0,0,0,0
+Navajo,11 MOGOLLON,Board Member Winslow,,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,Board Member Winslow,,,Undervotes,1,0,1,0,0
+Navajo,11 MOGOLLON,Board Member Show Low,,,"LARSEN, JOHN",4,1,0,3,0
+Navajo,11 MOGOLLON,Board Member Show Low,,,"SCHULTZ, LAMISTA",1,0,0,1,0
+Navajo,11 MOGOLLON,Board Member Show Low,,,Write-In Totals,0,0,0,0,0
+Navajo,11 MOGOLLON,Board Member Show Low,,,Overvotes,0,0,0,0,0
+Navajo,11 MOGOLLON,Board Member Show Low,,,Undervotes,7,2,0,5,0
+Navajo,11 MOGOLLON,PROPOSITION 207,,,YES,1247,210,954,81,2
+Navajo,11 MOGOLLON,PROPOSITION 207,,,NO,1466,332,1025,109,0
+Navajo,11 MOGOLLON,PROPOSITION 207,,,Overvotes,1,1,0,0,0
+Navajo,11 MOGOLLON,PROPOSITION 207,,,Undervotes,81,29,45,6,1
+Navajo,11 MOGOLLON,PROPOSITION 208,,,YES,841,85,708,47,1
+Navajo,11 MOGOLLON,PROPOSITION 208,,,NO,1870,449,1274,145,2
+Navajo,11 MOGOLLON,PROPOSITION 208,,,Overvotes,1,1,0,0,0
+Navajo,11 MOGOLLON,PROPOSITION 208,,,Undervotes,83,37,42,4,0
+Navajo,12 WOODLAND,Registered Voters,,,,1408,,,,
+Navajo,12 WOODLAND,Ballots Cast,,,,1148,293,729,124,2
+Navajo,12 WOODLAND,Ballots Cast - Blank,,,,0,0,0,0,0
+Navajo,12 WOODLAND,President,,REP,"TRUMP, PENCE",867,259,501,106,1
+Navajo,12 WOODLAND,President,,DEM,"BIDEN, HARRIS",253,26,211,15,1
+Navajo,12 WOODLAND,President,,LBT,"JORGENSEN, COHEN",17,5,9,3,0
+Navajo,12 WOODLAND,President,,,Write-In Totals,2,1,1,0,0
+Navajo,12 WOODLAND,President,,,Overvotes,2,0,2,0,0
+Navajo,12 WOODLAND,President,,,Undervotes,7,2,5,0,0
+Navajo,12 WOODLAND,U.S. Senate,,REP,"MCSALLY, MARTHA",835,249,480,105,1
+Navajo,12 WOODLAND,U.S. Senate,,DEM,"KELLY, MARK",282,36,230,15,1
+Navajo,12 WOODLAND,U.S. Senate,,,Write-In Totals,7,0,5,2,0
+Navajo,12 WOODLAND,U.S. Senate,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,U.S. Senate,,,Undervotes,24,8,14,2,0
+Navajo,12 WOODLAND,U.S. House,1,REP,"SHEDD, TIFFANY",805,246,456,103,0
+Navajo,12 WOODLAND,U.S. House,1,DEM,"O'HALLERAN, TOM",298,33,247,16,2
+Navajo,12 WOODLAND,U.S. House,1,,Write-In Totals,2,0,2,0,0
+Navajo,12 WOODLAND,U.S. House,1,,Overvotes,3,3,0,0,0
+Navajo,12 WOODLAND,U.S. House,1,,Undervotes,40,11,24,5,0
+Navajo,12 WOODLAND,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",418,81,295,40,2
+Navajo,12 WOODLAND,State Senate,7,,Write-In Totals,78,43,24,11,0
+Navajo,12 WOODLAND,State Senate,7,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,State Senate,7,,Undervotes,652,169,410,73,0
+Navajo,12 WOODLAND,State House,7,REP,"PARKS, JAMES ""JIM""	705",188,426,91,0,
+Navajo,12 WOODLAND,State House,7,REP,"PEELMAN, DAVID",735,220,425,89,1
+Navajo,12 WOODLAND,State House,7,DEM,"TELLER, ARLANDO",211,21,177,12,1
+Navajo,12 WOODLAND,State House,7,DEM,"TSOSIE, MYRON",235,32,188,14,1
+Navajo,12 WOODLAND,State House,7,,Write-In Totals,7,1,4,2,0
+Navajo,12 WOODLAND,State House,7,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,State House,7,,Undervotes,403,124,238,40,1
+Navajo,12 WOODLAND,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",672,185,405,81,1
+Navajo,12 WOODLAND,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",673,190,397,86,0
+Navajo,12 WOODLAND,Corporation Commissioner,,REP,"SLOAN, ERIC",679,190,408,81,0
+Navajo,12 WOODLAND,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",213,23,176,13,1
+Navajo,12 WOODLAND,Corporation Commissioner,,DEM,"STANFIELD, SHEA",218,26,177,15,0
+Navajo,12 WOODLAND,Corporation Commissioner,,DEM,"TOVAR, ANNA",245,28,198,17,2
+Navajo,12 WOODLAND,Corporation Commissioner,,,Write-In Totals,5,2,3,0,0
+Navajo,12 WOODLAND,Corporation Commissioner,,,Overvotes,3,0,3,0,0
+Navajo,12 WOODLAND,Corporation Commissioner,,,Undervotes,736,235,420,79,2
+Navajo,12 WOODLAND,Board of Supervisors Dist. 4,,REP,"SEYMORE, DARYL",905,244,552,108,1
+Navajo,12 WOODLAND,Board of Supervisors Dist. 4,,,Write-In Totals,16,3,12,1,0
+Navajo,12 WOODLAND,Board of Supervisors Dist. 4,,,Overvotes,1,1,0,0,0
+Navajo,12 WOODLAND,Board of Supervisors Dist. 4,,,Undervotes,226,45,165,15,1
+Navajo,12 WOODLAND,County Attorney,,DEM,"CARLYON, BRAD",533,119,355,57,2
+Navajo,12 WOODLAND,County Attorney,,,Write-In Totals,45,16,21,8,0
+Navajo,12 WOODLAND,County Attorney,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,County Attorney,,,Undervotes,570,158,353,59,0
+Navajo,12 WOODLAND,Sheriff,,DEM,"CLOUSE, DAVID",551,129,363,57,2
+Navajo,12 WOODLAND,Sheriff,,,Write-In Totals,64,24,30,10,0
+Navajo,12 WOODLAND,Sheriff,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,Sheriff,,,Undervotes,533,140,336,57,0
+Navajo,12 WOODLAND,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",524,122,345,55,2
+Navajo,12 WOODLAND,County Treasurer,,,Write-In Totals,31,10,17,4,0
+Navajo,12 WOODLAND,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,County Treasurer,,,Undervotes,593,161,367,65,0
+Navajo,12 WOODLAND,County School Superintendent,,DEM,"GERLICH, JALYN",506,116,337,51,2
+Navajo,12 WOODLAND,County School Superintendent,,,Write-In Totals,36,13,18,5,0
+Navajo,12 WOODLAND,County School Superintendent,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,County School Superintendent,,,Undervotes,606,164,374,68,0
+Navajo,12 WOODLAND,County Recorder,,DEM,"SAMPLE, MICHAEL",516,121,339,54,2
+Navajo,12 WOODLAND,County Recorder,,,Write-In Totals,36,12,20,4,0
+Navajo,12 WOODLAND,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,County Recorder,,,Undervotes,596,160,370,66,0
+Navajo,12 WOODLAND,County Assessor,,DEM,"DARRIS, CAMMY",537,123,355,57,2
+Navajo,12 WOODLAND,County Assessor,,,Write-In Totals,32,10,17,5,0
+Navajo,12 WOODLAND,County Assessor,,,Overvotes,1,0,0,1,0
+Navajo,12 WOODLAND,County Assessor,,,Undervotes,578,160,357,61,0
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,,2,,,,
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,"HARDY, MELINDA",608,150,393,63,2
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Write-In Totals,18,5,9,4,0
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Overvotes,1,0,1,0,0
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Undervotes,521,138,326,57,0
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,,3,,,,
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,"NIELSON, DALE",651,174,407,69,1
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Write-In Totals,15,1,12,2,0
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Undervotes,482,118,310,53,1
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,,4,,,,
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",617,154,400,62,1
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Write-In Totals,14,4,8,2,0
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,Judge of Superior Court Div.,,,Undervotes,517,135,321,60,1
+Navajo,12 WOODLAND,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,634,157,404,73,0
+Navajo,12 WOODLAND,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,154,35,103,15,1
+Navajo,12 WOODLAND,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,360,101,222,36,1
+Navajo,12 WOODLAND,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,608,160,376,72,0
+Navajo,12 WOODLAND,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,173,34,124,14,1
+Navajo,12 WOODLAND,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,367,99,229,38,1
+Navajo,12 WOODLAND,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,597,150,376,71,0
+Navajo,12 WOODLAND,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,179,39,123,16,1
+Navajo,12 WOODLAND,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,372,104,230,37,1
+Navajo,12 WOODLAND,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,611,164,379,68,0
+Navajo,12 WOODLAND,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,163,26,120,16,1
+Navajo,12 WOODLAND,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,374,103,230,40,1
+Navajo,12 WOODLAND,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,580,151,370,59,0
+Navajo,12 WOODLAND,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,192,39,125,27,1
+Navajo,12 WOODLAND,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,376,103,234,38,1
+Navajo,12 WOODLAND,Board Member Timber Mesa FRD,,,"ADAMS, JAMIE",477,117,305,54,1
+Navajo,12 WOODLAND,Board Member Timber Mesa FRD,,,"WYATT, PAUL",525,139,331,54,1
+Navajo,12 WOODLAND,Board Member Timber Mesa FRD,,,Write-In Totals,132,71,45,15,1
+Navajo,12 WOODLAND,Board Member Timber Mesa FRD,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,Board Member Timber Mesa FRD,,,Undervotes,2001,495,1284,219,3
+Navajo,12 WOODLAND,Board Member Pinetop-Lakeside San,,,Write-In Totals,359,137,165,57,0
+Navajo,12 WOODLAND,Board Member Pinetop-Lakeside San,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,Board Member Pinetop-Lakeside San,,,Undervotes,2353,586,1524,240,3
+Navajo,12 WOODLAND,PROPOSITION 207,,,YES,608,160,388,59,1
+Navajo,12 WOODLAND,PROPOSITION 207,,,NO,512,122,326,63,1
+Navajo,12 WOODLAND,PROPOSITION 207,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,PROPOSITION 207,,,Undervotes,28,11,15,2,0
+Navajo,12 WOODLAND,PROPOSITION 208,,,YES,362,60,267,33,2
+Navajo,12 WOODLAND,PROPOSITION 208,,,NO,757,220,449,88,0
+Navajo,12 WOODLAND,PROPOSITION 208,,,Overvotes,0,0,0,0,0
+Navajo,12 WOODLAND,PROPOSITION 208,,,Undervotes,29,13,13,3,0
+Navajo,12 WOODLAND,FOR THE BONDS,,,,386,84,270,30,2
+Navajo,12 WOODLAND,FOR THE BONDS,,,AGAINST THE BONDS,607,169,357,81,0
+Navajo,12 WOODLAND,FOR THE BONDS,,,Overvotes,1,1,0,0,0
+Navajo,12 WOODLAND,FOR THE BONDS,,,Undervotes,51,20,28,3,0
+Navajo,13 SITGREAVES,Registered Voters,,,,10113,,,,
+Navajo,13 SITGREAVES,Ballots Cast,,,,8550,1875,5810,819,46
+Navajo,13 SITGREAVES,Ballots Cast - Blank,,,,1,0,1,0,0
+Navajo,13 SITGREAVES,President,,REP,"TRUMP, PENCE",6458,1667,4071,680,40
+Navajo,13 SITGREAVES,President,,DEM,"BIDEN, HARRIS",1926,172,1639,112,3
+Navajo,13 SITGREAVES,President,,LBT,"JORGENSEN, COHEN",97,20,54,22,1
+Navajo,13 SITGREAVES,President,,,Write-In Totals,23,3,14,5,1
+Navajo,13 SITGREAVES,President,,,Overvotes,12,1,10,0,1
+Navajo,13 SITGREAVES,President,,,Undervotes,34,12,22,0,0
+Navajo,13 SITGREAVES,U.S. Senate,,REP,"MCSALLY, MARTHA",6260,1599,3967,653,41
+Navajo,13 SITGREAVES,U.S. Senate,,DEM,"KELLY, MARK",2093,216,1736,137,4
+Navajo,13 SITGREAVES,U.S. Senate,,,Write-In Totals,22,12,7,3,0
+Navajo,13 SITGREAVES,U.S. Senate,,,Overvotes,0,0,0,0,0
+Navajo,13 SITGREAVES,U.S. Senate,,,Undervotes,175,48,100,26,1
+Navajo,13 SITGREAVES,U.S. House,1,REP,"SHEDD, TIFFANY",6119,1566,3860,655,38
+Navajo,13 SITGREAVES,U.S. House,1,DEM,"O'HALLERAN, TOM",2093,215,1753,122,3
+Navajo,13 SITGREAVES,U.S. House,1,,Write-In Totals,18,6,11,1,0
+Navajo,13 SITGREAVES,U.S. House,1,,Overvotes,2,0,1,0,1
+Navajo,13 SITGREAVES,U.S. House,1,,Undervotes,318,88,185,41,4
+Navajo,13 SITGREAVES,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",3152,518,2378,248,8
+Navajo,13 SITGREAVES,State Senate,7,,Write-In Totals,460,202,212,40,6
+Navajo,13 SITGREAVES,State Senate,7,,Overvotes,2,2,0,0,0
+Navajo,13 SITGREAVES,State Senate,7,,Undervotes,4936,1153,3220,531,32
+Navajo,13 SITGREAVES,State House,7,REP,"PARKS, JAMES ""JIM""	5362",1225,3552,553,32,
+Navajo,13 SITGREAVES,State House,7,REP,"PEELMAN, DAVID",5397,1285,3515,565,32
+Navajo,13 SITGREAVES,State House,7,DEM,"TELLER, ARLANDO",1555,124,1353,77,1
+Navajo,13 SITGREAVES,State House,7,DEM,"TSOSIE, MYRON",1598,136,1363,96,3
+Navajo,13 SITGREAVES,State House,7,,Write-In Totals,20,13,3,4,0
+Navajo,13 SITGREAVES,State House,7,,Overvotes,8,2,6,0,0
+Navajo,13 SITGREAVES,State House,7,,Undervotes,3160,965,1828,343,24
+Navajo,13 SITGREAVES,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",5016,1100,3348,542,26
+Navajo,13 SITGREAVES,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",5332,1259,3501,540,32
+Navajo,13 SITGREAVES,Corporation Commissioner,,REP,"SLOAN, ERIC",4914,1070,3302,519,23
+Navajo,13 SITGREAVES,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",1654,136,1428,89,1
+Navajo,13 SITGREAVES,Corporation Commissioner,,DEM,"STANFIELD, SHEA",1527,124,1321,80,2
+Navajo,13 SITGREAVES,Corporation Commissioner,,DEM,"TOVAR, ANNA",1712,151,1459,101,1
+Navajo,13 SITGREAVES,Corporation Commissioner,,,Write-In Totals,36,21,10,5,0
+Navajo,13 SITGREAVES,Corporation Commissioner,,,Overvotes,15,6,3,3,3
+Navajo,13 SITGREAVES,Corporation Commissioner,,,Undervotes,5444,1758,3058,578,50
+Navajo,13 SITGREAVES,Board of Supervisors Dist. 4,,REP,"SEYMORE, DARYL",6858,1609,4532,677,40
+Navajo,13 SITGREAVES,Board of Supervisors Dist. 4,,,Write-In Totals,126,25,91,10,0
+Navajo,13 SITGREAVES,Board of Supervisors Dist. 4,,,Overvotes,3,1,1,1,0
+Navajo,13 SITGREAVES,Board of Supervisors Dist. 4,,,Undervotes,1563,240,1186,131,6
+Navajo,13 SITGREAVES,County Attorney,,DEM,"CARLYON, BRAD",4065,797,2895,357,16
+Navajo,13 SITGREAVES,County Attorney,,,Write-In Totals,329,130,164,31,4
+Navajo,13 SITGREAVES,County Attorney,,,Overvotes,2,2,0,0,0
+Navajo,13 SITGREAVES,County Attorney,,,Undervotes,4154,946,2751,431,26
+Navajo,13 SITGREAVES,Sheriff,,DEM,"CLOUSE, DAVID",4180,829,2969,368,14
+Navajo,13 SITGREAVES,Sheriff,,,Write-In Totals,430,149,241,36,4
+Navajo,13 SITGREAVES,Sheriff,,,Overvotes,3,3,0,0,0
+Navajo,13 SITGREAVES,Sheriff,,,Undervotes,3937,894,2600,415,28
+Navajo,13 SITGREAVES,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",3897,774,2789,322,12
+Navajo,13 SITGREAVES,County Treasurer,,,Write-In Totals,293,113,148,28,4
+Navajo,13 SITGREAVES,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,13 SITGREAVES,County Treasurer,,,Undervotes,4360,988,2873,469,30
+Navajo,13 SITGREAVES,County School Superintendent,,DEM,"GERLICH, JALYN",3815,748,2736,319,12
+Navajo,13 SITGREAVES,County School Superintendent,,,Write-In Totals,305,125,153,24,3
+Navajo,13 SITGREAVES,County School Superintendent,,,Overvotes,1,0,1,0,0
+Navajo,13 SITGREAVES,County School Superintendent,,,Undervotes,4429,1002,2920,476,31
+Navajo,13 SITGREAVES,County Recorder,,DEM,"SAMPLE, MICHAEL",3876,752,2784,328,12
+Navajo,13 SITGREAVES,County Recorder,,,Write-In Totals,274,110,141,20,3
+Navajo,13 SITGREAVES,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,13 SITGREAVES,County Recorder,,,Undervotes,4400,1013,2885,471,31
+Navajo,13 SITGREAVES,County Assessor,,DEM,"DARRIS, CAMMY",3973,778,2853,330,12
+Navajo,13 SITGREAVES,County Assessor,,,Write-In Totals,271,106,140,22,3
+Navajo,13 SITGREAVES,County Assessor,,,Overvotes,1,0,1,0,0
+Navajo,13 SITGREAVES,County Assessor,,,Undervotes,4305,991,2816,467,31
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,,2,,,,
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,"HARDY, MELINDA",4465,960,3127,364,14
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Write-In Totals,170,46,97,25,2
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Undervotes,3915,869,2586,430,30
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,,3,,,,
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,"NIELSON, DALE",4942,1093,3401,427,21
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Write-In Totals,88,30,50,7,1
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Overvotes,2,1,1,0,0
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Undervotes,3518,751,2358,385,24
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,,4,,,,
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",4661,1023,3222,399,17
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Write-In Totals,121,35,72,13,1
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,13 SITGREAVES,Judge of Superior Court Div.,,,Undervotes,3768,817,2516,407,28
+Navajo,13 SITGREAVES,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,4690,1001,3244,429,16
+Navajo,13 SITGREAVES,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,1174,293,792,81,8
+Navajo,13 SITGREAVES,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,1,1,0,0,0
+Navajo,13 SITGREAVES,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,2685,580,1774,309,22
+Navajo,13 SITGREAVES,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,4552,996,3125,414,17
+Navajo,13 SITGREAVES,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,1273,285,879,101,8
+Navajo,13 SITGREAVES,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,0,0,0,0,0
+Navajo,13 SITGREAVES,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,2725,594,1806,304,21
+Navajo,13 SITGREAVES,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,4511,963,3114,418,16
+Navajo,13 SITGREAVES,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,1284,317,866,93,8
+Navajo,13 SITGREAVES,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,0,0,0,0,0
+Navajo,13 SITGREAVES,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,2755,595,1830,308,22
+Navajo,13 SITGREAVES,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,4512,989,3120,388,15
+Navajo,13 SITGREAVES,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,1250,279,845,118,8
+Navajo,13 SITGREAVES,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,2,1,1,0,0
+Navajo,13 SITGREAVES,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,2786,606,1844,313,23
+Navajo,13 SITGREAVES,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,4324,893,3050,367,14
+Navajo,13 SITGREAVES,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,1376,354,885,127,10
+Navajo,13 SITGREAVES,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,2,0,1,1,0
+Navajo,13 SITGREAVES,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,2848,628,1874,324,22
+Navajo,13 SITGREAVES,Board Member Show Low,,,"LARSEN, JOHN",4015,865,2757,380,13
+Navajo,13 SITGREAVES,Board Member Show Low,,,"SCHULTZ, LAMISTA",3160,566,2297,288,9
+Navajo,13 SITGREAVES,Board Member Show Low,,,Write-In Totals,1695,566,881,240,8
+Navajo,13 SITGREAVES,Board Member Show Low,,,Overvotes,0,0,0,0,0
+Navajo,13 SITGREAVES,Board Member Show Low,,,Undervotes,14314,3142,9788,1291,93
+Navajo,13 SITGREAVES,Board Member Timber Mesa FRD,,,"ADAMS, JAMIE",4192,827,2962,384,19
+Navajo,13 SITGREAVES,Board Member Timber Mesa FRD,,,"WYATT, PAUL",4129,820,2927,368,14
+Navajo,13 SITGREAVES,Board Member Timber Mesa FRD,,,Write-In Totals,1261,545,553,154,9
+Navajo,13 SITGREAVES,Board Member Timber Mesa FRD,,,Overvotes,6,3,3,0,0
+Navajo,13 SITGREAVES,Board Member Timber Mesa FRD,,,Undervotes,16053,3430,10982,1548,93
+Navajo,13 SITGREAVES,PROPOSITION 207,,,YES,4059,923,2738,371,27
+Navajo,13 SITGREAVES,PROPOSITION 207,,,NO,4231,886,2902,425,18
+Navajo,13 SITGREAVES,PROPOSITION 207,,,Overvotes,3,2,1,0,0
+Navajo,13 SITGREAVES,PROPOSITION 207,,,Undervotes,257,64,169,23,1
+Navajo,13 SITGREAVES,PROPOSITION 208,,,YES,2799,449,2074,262,14
+Navajo,13 SITGREAVES,PROPOSITION 208,,,NO,5465,1342,3566,527,30
+Navajo,13 SITGREAVES,PROPOSITION 208,,,Overvotes,1,0,1,0,0
+Navajo,13 SITGREAVES,PROPOSITION 208,,,Undervotes,285,84,169,30,2
+Navajo,13 SITGREAVES,FOR THE BONDS,,,,3265,646,2353,251,15
+Navajo,13 SITGREAVES,FOR THE BONDS,,,AGAINST THE BONDS,4832,1115,3169,521,27
+Navajo,13 SITGREAVES,FOR THE BONDS,,,Overvotes,1,0,1,0,0
+Navajo,13 SITGREAVES,FOR THE BONDS,,,Undervotes,449,114,286,46,3
+Navajo,14 SUNRISE,Registered Voters,,,,13583,,,,
+Navajo,14 SUNRISE,Ballots Cast,,,,9658,3265,5499,847,47
+Navajo,14 SUNRISE,Ballots Cast - Blank,,,,8,7,1,0,0
+Navajo,14 SUNRISE,President,,REP,"TRUMP, PENCE",4812,1381,2900,509,22
+Navajo,14 SUNRISE,President,,DEM,"BIDEN, HARRIS",4585,1765,2493,302,25
+Navajo,14 SUNRISE,President,,LBT,"JORGENSEN, COHEN",131,53,53,25,0
+Navajo,14 SUNRISE,President,,,Write-In Totals,27,6,17,4,0
+Navajo,14 SUNRISE,President,,,Overvotes,47,31,14,2,0
+Navajo,14 SUNRISE,President,,,Undervotes,56,29,22,5,0
+Navajo,14 SUNRISE,U.S. Senate,,REP,"MCSALLY, MARTHA",4688,1343,2828,497,20
+Navajo,14 SUNRISE,U.S. Senate,,DEM,"KELLY, MARK",4767,1826,2588,327,26
+Navajo,14 SUNRISE,U.S. Senate,,,Write-In Totals,25,8,12,5,0
+Navajo,14 SUNRISE,U.S. Senate,,,Overvotes,3,3,0,0,0
+Navajo,14 SUNRISE,U.S. Senate,,,Undervotes,175,85,71,18,1
+Navajo,14 SUNRISE,U.S. House,1,REP,"SHEDD, TIFFANY",4516,1271,2743,484,18
+Navajo,14 SUNRISE,U.S. House,1,DEM,"O'HALLERAN, TOM",4760,1828,2582,324,26
+Navajo,14 SUNRISE,U.S. House,1,,Write-In Totals,20,9,9,2,0
+Navajo,14 SUNRISE,U.S. House,1,,Overvotes,3,2,1,0,0
+Navajo,14 SUNRISE,U.S. House,1,,Undervotes,359,155,164,37,3
+Navajo,14 SUNRISE,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",5490,2079,2952,428,31
+Navajo,14 SUNRISE,State Senate,7,,Write-In Totals,344,171,136,34,3
+Navajo,14 SUNRISE,State Senate,7,,Overvotes,2,1,1,0,0
+Navajo,14 SUNRISE,State Senate,7,,Undervotes,3822,1014,2410,385,13
+Navajo,14 SUNRISE,State House,7,REP,"PARKS, JAMES ""JIM""	4011",1028,2542,429,12,
+Navajo,14 SUNRISE,State House,7,REP,"PEELMAN, DAVID",3966,1034,2487,431,14
+Navajo,14 SUNRISE,State House,7,DEM,"TELLER, ARLANDO",3593,1287,2042,248,16
+Navajo,14 SUNRISE,State House,7,DEM,"TSOSIE, MYRON",4120,1623,2201,271,25
+Navajo,14 SUNRISE,State House,7,,Write-In Totals,22,15,2,5,0
+Navajo,14 SUNRISE,State House,7,,Overvotes,12,6,6,0,0
+Navajo,14 SUNRISE,State House,7,,Undervotes,3592,1537,1718,310,27
+Navajo,14 SUNRISE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",3695,903,2367,412,13
+Navajo,14 SUNRISE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",4121,1114,2549,443,15
+Navajo,14 SUNRISE,Corporation Commissioner,,REP,"SLOAN, ERIC",3687,907,2357,411,12
+Navajo,14 SUNRISE,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",3659,1299,2103,245,12
+Navajo,14 SUNRISE,Corporation Commissioner,,DEM,"STANFIELD, SHEA",3677,1350,2067,242,18
+Navajo,14 SUNRISE,Corporation Commissioner,,DEM,"TOVAR, ANNA",3896,1368,2238,272,18
+Navajo,14 SUNRISE,Corporation Commissioner,,,Write-In Totals,35,23,12,0,0
+Navajo,14 SUNRISE,Corporation Commissioner,,,Overvotes,27,15,12,0,0
+Navajo,14 SUNRISE,Corporation Commissioner,,,Undervotes,6177,2816,2792,516,53
+Navajo,14 SUNRISE,Board of Supervisors Dist. 5,,DEM,"WHITESINGER, DAWNAFE",6035,2327,3199,476,33
+Navajo,14 SUNRISE,Board of Supervisors Dist. 5,,,Write-In Totals,274,114,126,33,1
+Navajo,14 SUNRISE,Board of Supervisors Dist. 5,,,Overvotes,1,0,0,0,1
+Navajo,14 SUNRISE,Board of Supervisors Dist. 5,,,Undervotes,3348,824,2174,338,12
+Navajo,14 SUNRISE,County Attorney,,DEM,"CARLYON, BRAD",5916,2215,3205,466,30
+Navajo,14 SUNRISE,County Attorney,,,Write-In Totals,256,103,117,35,1
+Navajo,14 SUNRISE,County Attorney,,,Overvotes,2,1,0,0,1
+Navajo,14 SUNRISE,County Attorney,,,Undervotes,3484,946,2177,346,15
+Navajo,14 SUNRISE,Sheriff,,DEM,"CLOUSE, DAVID",6016,2247,3264,477,28
+Navajo,14 SUNRISE,Sheriff,,,Write-In Totals,324,116,165,40,3
+Navajo,14 SUNRISE,Sheriff,,,Overvotes,0,0,0,0,0
+Navajo,14 SUNRISE,Sheriff,,,Undervotes,3318,902,2070,330,16
+Navajo,14 SUNRISE,County Treasurer,,DEM,"HERNANDEZ-LOPEZ, KARI",5885,2216,3177,462,30
+Navajo,14 SUNRISE,County Treasurer,,,Write-In Totals,229,93,107,27,2
+Navajo,14 SUNRISE,County Treasurer,,,Overvotes,0,0,0,0,0
+Navajo,14 SUNRISE,County Treasurer,,,Undervotes,3544,956,2215,358,15
+Navajo,14 SUNRISE,County School Superintendent,,DEM,"GERLICH, JALYN",5858,2189,3177,462,30
+Navajo,14 SUNRISE,County School Superintendent,,,Write-In Totals,235,97,106,30,2
+Navajo,14 SUNRISE,County School Superintendent,,,Overvotes,2,2,0,0,0
+Navajo,14 SUNRISE,County School Superintendent,,,Undervotes,3563,977,2216,355,15
+Navajo,14 SUNRISE,County Recorder,,DEM,"SAMPLE, MICHAEL",5852,2191,3178,453,30
+Navajo,14 SUNRISE,County Recorder,,,Write-In Totals,215,87,98,28,2
+Navajo,14 SUNRISE,County Recorder,,,Overvotes,0,0,0,0,0
+Navajo,14 SUNRISE,County Recorder,,,Undervotes,3591,987,2223,366,15
+Navajo,14 SUNRISE,County Assessor,,DEM,"DARRIS, CAMMY",5907,2183,3231,461,32
+Navajo,14 SUNRISE,County Assessor,,,Write-In Totals,222,95,97,29,1
+Navajo,14 SUNRISE,County Assessor,,,Overvotes,1,1,0,0,0
+Navajo,14 SUNRISE,County Assessor,,,Undervotes,3528,986,2171,357,14
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,,2,,,,
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,"HARDY, MELINDA",5870,2141,3228,471,30
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Write-In Totals,190,59,97,32,2
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Overvotes,2,0,2,0,0
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Undervotes,3596,1065,2172,344,15
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,,3,,,,
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,"NIELSON, DALE",6386,2304,3532,518,32
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Write-In Totals,104,44,55,5,0
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Undervotes,3168,917,1912,324,15
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,,4,,,,
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,"RUECHEL, MICHALA",6132,2206,3399,498,29
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Write-In Totals,122,41,65,16,0
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Overvotes,0,0,0,0,0
+Navajo,14 SUNRISE,Judge of Superior Court Div.,,,Undervotes,3404,1018,2035,333,18
+Navajo,14 SUNRISE,"Supr Ct Retn/BRUTINEL,ROBERT",,,YES,5726,1984,3229,487,26
+Navajo,14 SUNRISE,"Supr Ct Retn/BRUTINEL,ROBERT",,,NO,1469,534,831,98,6
+Navajo,14 SUNRISE,"Supr Ct Retn/BRUTINEL,ROBERT",,,Overvotes,0,0,0,0,0
+Navajo,14 SUNRISE,"Supr Ct Retn/BRUTINEL,ROBERT",,,Undervotes,2463,747,1439,262,15
+Navajo,14 SUNRISE,"Supr Ct Retn/GOULD, ANDREW W.",,,YES,5518,1962,3063,464,29
+Navajo,14 SUNRISE,"Supr Ct Retn/GOULD, ANDREW W.",,,NO,1642,536,978,123,5
+Navajo,14 SUNRISE,"Supr Ct Retn/GOULD, ANDREW W.",,,Overvotes,1,1,0,0,0
+Navajo,14 SUNRISE,"Supr Ct Retn/GOULD, ANDREW W.",,,Undervotes,2497,766,1458,260,13
+Navajo,14 SUNRISE,"Supr Ct Retn/LOPEZ IV, JOHN",,,YES,5627,1994,3137,469,27
+Navajo,14 SUNRISE,"Supr Ct Retn/LOPEZ IV, JOHN",,,NO,1528,516,892,114,6
+Navajo,14 SUNRISE,"Supr Ct Retn/LOPEZ IV, JOHN",,,Overvotes,1,1,0,0,0
+Navajo,14 SUNRISE,"Supr Ct Retn/LOPEZ IV, JOHN",,,Undervotes,2502,754,1470,264,14
+Navajo,14 SUNRISE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,YES,5729,2051,3192,462,24
+Navajo,14 SUNRISE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,NO,1417,451,844,113,9
+Navajo,14 SUNRISE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Overvotes,3,3,0,0,0
+Navajo,14 SUNRISE,"Ct App Div1/CAMPBELL, JENNIFER B.",,,Undervotes,2509,760,1463,272,14
+Navajo,14 SUNRISE,"Ct App Div1/CRUZ, MARIA ELENA",,,YES,5685,2025,3189,447,24
+Navajo,14 SUNRISE,"Ct App Div1/CRUZ, MARIA ELENA",,,NO,1422,478,806,130,8
+Navajo,14 SUNRISE,"Ct App Div1/CRUZ, MARIA ELENA",,,Overvotes,0,0,0,0,0
+Navajo,14 SUNRISE,"Ct App Div1/CRUZ, MARIA ELENA",,,Undervotes,2551,762,1504,270,15
+Navajo,14 SUNRISE,Board Member Timber Mesa FRD,,,"ADAMS, JAMIE",1744,354,1219,166,5
+Navajo,14 SUNRISE,Board Member Timber Mesa FRD,,,"WYATT, PAUL",1868,388,1275,199,6
+Navajo,14 SUNRISE,Board Member Timber Mesa FRD,,,Write-In Totals,452,149,211,91,1
+Navajo,14 SUNRISE,Board Member Timber Mesa FRD,,,Overvotes,6,0,6,0,0
+Navajo,14 SUNRISE,Board Member Timber Mesa FRD,,,Undervotes,7210,1725,4672,798,15
+Navajo,14 SUNRISE,Board Member Pinetop-Lakeside San,,,Write-In Totals,1904,503,1126,274,1
+Navajo,14 SUNRISE,Board Member Pinetop-Lakeside San,,,Overvotes,0,0,0,0,0
+Navajo,14 SUNRISE,Board Member Pinetop-Lakeside San,,,Undervotes,13570,2827,9368,1340,35
+Navajo,14 SUNRISE,PROPOSITION 207,,,YES,4874,1640,2811,405,18
+Navajo,14 SUNRISE,PROPOSITION 207,,,NO,4332,1403,2498,410,21
+Navajo,14 SUNRISE,PROPOSITION 207,,,Overvotes,3,3,0,0,0
+Navajo,14 SUNRISE,PROPOSITION 207,,,Undervotes,449,219,190,32,8
+Navajo,14 SUNRISE,PROPOSITION 208,,,YES,4348,1450,2497,379,22
+Navajo,14 SUNRISE,PROPOSITION 208,,,NO,4829,1564,2809,437,19
+Navajo,14 SUNRISE,PROPOSITION 208,,,Overvotes,6,6,0,0,0
+Navajo,14 SUNRISE,PROPOSITION 208,,,Undervotes,475,245,193,31,6
+Navajo,14 SUNRISE,FOR THE BONDS,,,,1493,303,1000,186,4
+Navajo,14 SUNRISE,FOR THE BONDS,,,AGAINST THE BONDS,2026,472,1351,200,3
+Navajo,14 SUNRISE,FOR THE BONDS,,,Overvotes,1,1,0,0,0
+Navajo,14 SUNRISE,FOR THE BONDS,,,Undervotes,240,96,110,32,2
