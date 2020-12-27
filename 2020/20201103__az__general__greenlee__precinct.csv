@@ -1,365 +1,365 @@
-county,precinct,office,district,party,candidate,votes,early,provisional,election_day
-Greenlee,001 EAGLE,Presidential Elector,,REP,"TRUMP, PENCE",14,14,0,0
-Greenlee,002 BLUE,Presidential Elector,,REP,"TRUMP, PENCE",23,16,0,7
-Greenlee,003 CLIFTON 1,Presidential Elector,,REP,"TRUMP, PENCE",400,254,3,143
-Greenlee,004 CLIFTON 2,Presidential Elector,,REP,"TRUMP, PENCE",227,171,1,55
-Greenlee,005 MORENCI,Presidential Elector,,REP,"TRUMP, PENCE",594,328,9,257
-Greenlee,006 EAST PLANTSITE,Presidential Elector,,REP,"TRUMP, PENCE",152,71,0,81
-Greenlee,007 YORK/SHELDON,Presidential Elector,,REP,"TRUMP, PENCE",433,311,1,121
-Greenlee,008 DUNCAN,Presidential Elector,,REP,"TRUMP, PENCE",590,406,8,176
-Greenlee,001 EAGLE,Presidential Elector,,DEM,"BIDEN, HARRIS",1,0,0,1
-Greenlee,002 BLUE,Presidential Elector,,DEM,"BIDEN, HARRIS",2,1,0,1
-Greenlee,003 CLIFTON 1,Presidential Elector,,DEM,"BIDEN, HARRIS",329,274,0,55
-Greenlee,004 CLIFTON 2,Presidential Elector,,DEM,"BIDEN, HARRIS",226,210,0,16
-Greenlee,005 MORENCI,Presidential Elector,,DEM,"BIDEN, HARRIS",278,213,1,64
-Greenlee,006 EAST PLANTSITE,Presidential Elector,,DEM,"BIDEN, HARRIS",46,40,0,6
-Greenlee,007 YORK/SHELDON,Presidential Elector,,DEM,"BIDEN, HARRIS",157,137,0,20
-Greenlee,008 DUNCAN,Presidential Elector,,DEM,"BIDEN, HARRIS",143,121,1,21
-Greenlee,001 EAGLE,Presidential Elector,,LBT,"JORGENSEN, COHEN",0,0,0,0
-Greenlee,002 BLUE,Presidential Elector,,LBT,"JORGENSEN, COHEN",0,0,0,0
-Greenlee,003 CLIFTON 1,Presidential Elector,,LBT,"JORGENSEN, COHEN",16,12,0,4
-Greenlee,004 CLIFTON 2,Presidential Elector,,LBT,"JORGENSEN, COHEN",6,5,0,1
-Greenlee,005 MORENCI,Presidential Elector,,LBT,"JORGENSEN, COHEN",17,12,1,4
-Greenlee,006 EAST PLANTSITE,Presidential Elector,,LBT,"JORGENSEN, COHEN",6,3,0,3
-Greenlee,007 YORK/SHELDON,Presidential Elector,,LBT,"JORGENSEN, COHEN",10,7,0,3
-Greenlee,008 DUNCAN,Presidential Elector,,LBT,"JORGENSEN, COHEN",15,12,2,1
-Greenlee,001 EAGLE,U.S. Senator,,REP,"MCSALLY, MARTHA",14,14,0,0
-Greenlee,002 BLUE,U.S. Senator,,REP,"MCSALLY, MARTHA",24,16,0,8
-Greenlee,003 CLIFTON 1,U.S. Senator,,REP,"MCSALLY, MARTHA",347,215,3,129
-Greenlee,004 CLIFTON 2,U.S. Senator,,REP,"MCSALLY, MARTHA",208,160,1,47
-Greenlee,005 MORENCI,U.S. Senator,,REP,"MCSALLY, MARTHA",555,302,9,244
-Greenlee,006 EAST PLANTSITE,U.S. Senator,,REP,"MCSALLY, MARTHA",143,66,0,77
-Greenlee,007 YORK/SHELDON,U.S. Senator,,REP,"MCSALLY, MARTHA",400,281,1,118
-Greenlee,008 DUNCAN,U.S. Senator,,REP,"MCSALLY, MARTHA",534,368,7,159
-Greenlee,001 EAGLE,U.S. Senator,,DEM,"KELLY, MARK",1,0,0,1
-Greenlee,002 BLUE,U.S. Senator,,DEM,"KELLY, MARK",1,1,0,0
-Greenlee,003 CLIFTON 1,U.S. Senator,,DEM,"KELLY, MARK",389,315,0,74
-Greenlee,004 CLIFTON 2,U.S. Senator,,DEM,"KELLY, MARK",238,213,0,25
-Greenlee,005 MORENCI,U.S. Senator,,DEM,"KELLY, MARK",324,242,2,80
-Greenlee,006 EAST PLANTSITE,U.S. Senator,,DEM,"KELLY, MARK",57,45,0,12
-Greenlee,007 YORK/SHELDON,U.S. Senator,,DEM,"KELLY, MARK",189,165,0,24
-Greenlee,008 DUNCAN,U.S. Senator,,DEM,"KELLY, MARK",204,169,4,31
-Greenlee,001 EAGLE,U.S. Representative in Congress Dist 1,,REP,"SHEDD, TIFFANY",15,14,0,1
-Greenlee,002 BLUE,U.S. Representative in Congress Dist 1,,REP,"SHEDD, TIFFANY",23,16,0,7
-Greenlee,003 CLIFTON 1,U.S. Representative in Congress Dist 1,,REP,"SHEDD, TIFFANY",356,219,3,134
-Greenlee,004 CLIFTON 2,U.S. Representative in Congress Dist 1,,REP,"SHEDD, TIFFANY",211,160,1,50
-Greenlee,005 MORENCI,U.S. Representative in Congress Dist 1,,REP,"SHEDD, TIFFANY",561,308,8,245
-Greenlee,006 EAST PLANTSITE,U.S. Representative in Congress Dist 1,,REP,"SHEDD, TIFFANY",142,64,0,78
-Greenlee,007 YORK/SHELDON,U.S. Representative in Congress Dist 1,,REP,"SHEDD, TIFFANY",382,263,1,118
-Greenlee,008 DUNCAN,U.S. Representative in Congress Dist 1,,REP,"SHEDD, TIFFANY",536,365,8,163
-Greenlee,001 EAGLE,U.S. Representative in Congress Dist 1,,DEM,"O'HALLERAN, TOM",0,0,0,0
-Greenlee,002 BLUE,U.S. Representative in Congress Dist 1,,DEM,"O'HALLERAN, TOM",2,1,0,1
-Greenlee,003 CLIFTON 1,U.S. Representative in Congress Dist 1,,DEM,"O'HALLERAN, TOM",381,312,0,69
-Greenlee,004 CLIFTON 2,U.S. Representative in Congress Dist 1,,DEM,"O'HALLERAN, TOM",236,215,0,21
-Greenlee,005 MORENCI,U.S. Representative in Congress Dist 1,,DEM,"O'HALLERAN, TOM",302,226,3,73
-Greenlee,006 EAST PLANTSITE,U.S. Representative in Congress Dist 1,,DEM,"O'HALLERAN, TOM",59,49,0,10
-Greenlee,007 YORK/SHELDON,U.S. Representative in Congress Dist 1,,DEM,"O'HALLERAN, TOM",204,179,0,25
-Greenlee,008 DUNCAN,U.S. Representative in Congress Dist 1,,DEM,"O'HALLERAN, TOM",196,162,3,31
-Greenlee,001 EAGLE,State Senator Dist. 14,,REP,"GOWAN, DAVID",15,14,0,1
-Greenlee,002 BLUE,State Senator Dist. 14,,REP,"GOWAN, DAVID",22,16,0,6
-Greenlee,003 CLIFTON 1,State Senator Dist. 14,,REP,"GOWAN, DAVID",371,229,3,139
-Greenlee,004 CLIFTON 2,State Senator Dist. 14,,REP,"GOWAN, DAVID",221,168,1,52
-Greenlee,005 MORENCI,State Senator Dist. 14,,REP,"GOWAN, DAVID",575,310,10,255
-Greenlee,006 EAST PLANTSITE,State Senator Dist. 14,,REP,"GOWAN, DAVID",149,71,0,78
-Greenlee,007 YORK/SHELDON,State Senator Dist. 14,,REP,"GOWAN, DAVID",416,297,1,118
-Greenlee,008 DUNCAN,State Senator Dist. 14,,REP,"GOWAN, DAVID",556,381,9,166
-Greenlee,001 EAGLE,State Senator Dist. 14,,DEM,"KARP, BOB",0,0,0,0
-Greenlee,002 BLUE,State Senator Dist. 14,,DEM,"KARP, BOB",2,1,0,1
-Greenlee,003 CLIFTON 1,State Senator Dist. 14,,DEM,"KARP, BOB",353,292,0,61
-Greenlee,004 CLIFTON 2,State Senator Dist. 14,,DEM,"KARP, BOB",223,204,0,19
-Greenlee,005 MORENCI,State Senator Dist. 14,,DEM,"KARP, BOB",280,213,1,66
-Greenlee,006 EAST PLANTSITE,State Senator Dist. 14,,DEM,"KARP, BOB",55,43,0,12
-Greenlee,007 YORK/SHELDON,State Senator Dist. 14,,DEM,"KARP, BOB",171,147,0,24
-Greenlee,008 DUNCAN,State Senator Dist. 14,,DEM,"KARP, BOB",165,137,2,26
-Greenlee,001 EAGLE,State Representative Dist. 14,,REP,"GRIFFIN, GAIL",15,14,0,1
-Greenlee,002 BLUE,State Representative Dist. 14,,REP,"GRIFFIN, GAIL",23,17,0,6
-Greenlee,003 CLIFTON 1,State Representative Dist. 14,,REP,"GRIFFIN, GAIL",310,174,3,133
-Greenlee,004 CLIFTON 2,State Representative Dist. 14,,REP,"GRIFFIN, GAIL",205,161,1,43
-Greenlee,005 MORENCI,State Representative Dist. 14,,REP,"GRIFFIN, GAIL",513,275,8,230
-Greenlee,006 EAST PLANTSITE,State Representative Dist. 14,,REP,"GRIFFIN, GAIL",133,61,0,72
-Greenlee,007 YORK/SHELDON,State Representative Dist. 14,,REP,"GRIFFIN, GAIL",364,251,1,112
-Greenlee,008 DUNCAN,State Representative Dist. 14,,REP,"GRIFFIN, GAIL",514,348,7,159
-Greenlee,001 EAGLE,State Representative Dist. 14,,REP,"NUTT, BECKY",14,13,0,1
-Greenlee,002 BLUE,State Representative Dist. 14,,REP,"NUTT, BECKY",21,14,0,7
-Greenlee,003 CLIFTON 1,State Representative Dist. 14,,REP,"NUTT, BECKY",361,223,3,135
-Greenlee,004 CLIFTON 2,State Representative Dist. 14,,REP,"NUTT, BECKY",233,181,1,51
-Greenlee,005 MORENCI,State Representative Dist. 14,,REP,"NUTT, BECKY",522,273,10,239
-Greenlee,006 EAST PLANTSITE,State Representative Dist. 14,,REP,"NUTT, BECKY",134,60,0,74
-Greenlee,007 YORK/SHELDON,State Representative Dist. 14,,REP,"NUTT, BECKY",399,277,1,121
-Greenlee,008 DUNCAN,State Representative Dist. 14,,REP,"NUTT, BECKY",523,353,9,161
-Greenlee,001 EAGLE,State Representative Dist. 14,,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",0,0,0,0
-Greenlee,002 BLUE,State Representative Dist. 14,,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",0,0,0,0
-Greenlee,003 CLIFTON 1,State Representative Dist. 14,,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",267,219,0,48
-Greenlee,004 CLIFTON 2,State Representative Dist. 14,,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",168,149,0,19
-Greenlee,005 MORENCI,State Representative Dist. 14,,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",253,177,2,74
-Greenlee,006 EAST PLANTSITE,State Representative Dist. 14,,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",45,32,0,13
-Greenlee,007 YORK/SHELDON,State Representative Dist. 14,,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",141,123,0,18
-Greenlee,008 DUNCAN,State Representative Dist. 14,,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",148,119,3,26
-Greenlee,001 EAGLE,State Representative Dist. 14,,DEM,"MAESTAS-CONDOS, RONNIE",0,0,0,0
-Greenlee,002 BLUE,State Representative Dist. 14,,DEM,"MAESTAS-CONDOS, RONNIE",2,1,0,1
-Greenlee,003 CLIFTON 1,State Representative Dist. 14,,DEM,"MAESTAS-CONDOS, RONNIE",328,267,0,61
-Greenlee,004 CLIFTON 2,State Representative Dist. 14,,DEM,"MAESTAS-CONDOS, RONNIE",184,165,0,19
-Greenlee,005 MORENCI,State Representative Dist. 14,,DEM,"MAESTAS-CONDOS, RONNIE",230,167,1,62
-Greenlee,006 EAST PLANTSITE,State Representative Dist. 14,,DEM,"MAESTAS-CONDOS, RONNIE",49,35,0,14
-Greenlee,007 YORK/SHELDON,State Representative Dist. 14,,DEM,"MAESTAS-CONDOS, RONNIE",147,129,0,18
-Greenlee,008 DUNCAN,State Representative Dist. 14,,DEM,"MAESTAS-CONDOS, RONNIE",134,110,1,23
-Greenlee,001 EAGLE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",13,13,0,0
-Greenlee,002 BLUE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",22,16,0,6
-Greenlee,003 CLIFTON 1,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",323,186,3,134
-Greenlee,004 CLIFTON 2,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",204,156,1,47
-Greenlee,005 MORENCI,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",482,246,8,228
-Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",125,52,0,73
-Greenlee,007 YORK/SHELDON,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",341,230,1,110
-Greenlee,008 DUNCAN,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",475,315,8,152
-Greenlee,001 EAGLE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",14,13,0,1
-Greenlee,002 BLUE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",20,15,0,5
-Greenlee,003 CLIFTON 1,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",296,166,3,127
-Greenlee,004 CLIFTON 2,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",181,137,1,43
-Greenlee,005 MORENCI,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",501,253,9,239
-Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",135,63,0,72
-Greenlee,007 YORK/SHELDON,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",346,237,1,108
-Greenlee,008 DUNCAN,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",500,339,8,153
-Greenlee,001 EAGLE,Corporation Commissioner,,REP,"SLOAN, ERIC",14,13,0,1
-Greenlee,002 BLUE,Corporation Commissioner,,REP,"SLOAN, ERIC",17,13,0,4
-Greenlee,003 CLIFTON 1,Corporation Commissioner,,REP,"SLOAN, ERIC",283,161,3,119
-Greenlee,004 CLIFTON 2,Corporation Commissioner,,REP,"SLOAN, ERIC",178,136,1,41
-Greenlee,005 MORENCI,Corporation Commissioner,,REP,"SLOAN, ERIC",493,251,7,235
-Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,REP,"SLOAN, ERIC",131,56,0,75
-Greenlee,007 YORK/SHELDON,Corporation Commissioner,,REP,"SLOAN, ERIC",333,232,1,100
-Greenlee,008 DUNCAN,Corporation Commissioner,,REP,"SLOAN, ERIC",475,322,6,147
+county,precinct,office,district,party,candidate,votes,election_day,provisional,early
+Greenlee,001 EAGLE,President,,REP,"TRUMP, PENCE",14,0,0,14
+Greenlee,002 BLUE,President,,REP,"TRUMP, PENCE",23,7,0,16
+Greenlee,003 CLIFTON 1,President,,REP,"TRUMP, PENCE",400,143,3,254
+Greenlee,004 CLIFTON 2,President,,REP,"TRUMP, PENCE",227,55,1,171
+Greenlee,005 MORENCI,President,,REP,"TRUMP, PENCE",594,257,9,328
+Greenlee,006 EAST PLANTSITE,President,,REP,"TRUMP, PENCE",152,81,0,71
+Greenlee,007 YORK/SHELDON,President,,REP,"TRUMP, PENCE",433,121,1,311
+Greenlee,008 DUNCAN,President,,REP,"TRUMP, PENCE",590,176,8,406
+Greenlee,001 EAGLE,President,,DEM,"BIDEN, HARRIS",1,1,0,0
+Greenlee,002 BLUE,President,,DEM,"BIDEN, HARRIS",2,1,0,1
+Greenlee,003 CLIFTON 1,President,,DEM,"BIDEN, HARRIS",329,55,0,274
+Greenlee,004 CLIFTON 2,President,,DEM,"BIDEN, HARRIS",226,16,0,210
+Greenlee,005 MORENCI,President,,DEM,"BIDEN, HARRIS",278,64,1,213
+Greenlee,006 EAST PLANTSITE,President,,DEM,"BIDEN, HARRIS",46,6,0,40
+Greenlee,007 YORK/SHELDON,President,,DEM,"BIDEN, HARRIS",157,20,0,137
+Greenlee,008 DUNCAN,President,,DEM,"BIDEN, HARRIS",143,21,1,121
+Greenlee,001 EAGLE,President,,LBT,"JORGENSEN, COHEN",0,0,0,0
+Greenlee,002 BLUE,President,,LBT,"JORGENSEN, COHEN",0,0,0,0
+Greenlee,003 CLIFTON 1,President,,LBT,"JORGENSEN, COHEN",16,4,0,12
+Greenlee,004 CLIFTON 2,President,,LBT,"JORGENSEN, COHEN",6,1,0,5
+Greenlee,005 MORENCI,President,,LBT,"JORGENSEN, COHEN",17,4,1,12
+Greenlee,006 EAST PLANTSITE,President,,LBT,"JORGENSEN, COHEN",6,3,0,3
+Greenlee,007 YORK/SHELDON,President,,LBT,"JORGENSEN, COHEN",10,3,0,7
+Greenlee,008 DUNCAN,President,,LBT,"JORGENSEN, COHEN",15,1,2,12
+Greenlee,001 EAGLE,U.S. Senate,,REP,"MCSALLY, MARTHA",14,0,0,14
+Greenlee,002 BLUE,U.S. Senate,,REP,"MCSALLY, MARTHA",24,8,0,16
+Greenlee,003 CLIFTON 1,U.S. Senate,,REP,"MCSALLY, MARTHA",347,129,3,215
+Greenlee,004 CLIFTON 2,U.S. Senate,,REP,"MCSALLY, MARTHA",208,47,1,160
+Greenlee,005 MORENCI,U.S. Senate,,REP,"MCSALLY, MARTHA",555,244,9,302
+Greenlee,006 EAST PLANTSITE,U.S. Senate,,REP,"MCSALLY, MARTHA",143,77,0,66
+Greenlee,007 YORK/SHELDON,U.S. Senate,,REP,"MCSALLY, MARTHA",400,118,1,281
+Greenlee,008 DUNCAN,U.S. Senate,,REP,"MCSALLY, MARTHA",534,159,7,368
+Greenlee,001 EAGLE,U.S. Senate,,DEM,"KELLY, MARK",1,1,0,0
+Greenlee,002 BLUE,U.S. Senate,,DEM,"KELLY, MARK",1,0,0,1
+Greenlee,003 CLIFTON 1,U.S. Senate,,DEM,"KELLY, MARK",389,74,0,315
+Greenlee,004 CLIFTON 2,U.S. Senate,,DEM,"KELLY, MARK",238,25,0,213
+Greenlee,005 MORENCI,U.S. Senate,,DEM,"KELLY, MARK",324,80,2,242
+Greenlee,006 EAST PLANTSITE,U.S. Senate,,DEM,"KELLY, MARK",57,12,0,45
+Greenlee,007 YORK/SHELDON,U.S. Senate,,DEM,"KELLY, MARK",189,24,0,165
+Greenlee,008 DUNCAN,U.S. Senate,,DEM,"KELLY, MARK",204,31,4,169
+Greenlee,001 EAGLE,U.S. House,1,REP,"SHEDD, TIFFANY",15,1,0,14
+Greenlee,002 BLUE,U.S. House,1,REP,"SHEDD, TIFFANY",23,7,0,16
+Greenlee,003 CLIFTON 1,U.S. House,1,REP,"SHEDD, TIFFANY",356,134,3,219
+Greenlee,004 CLIFTON 2,U.S. House,1,REP,"SHEDD, TIFFANY",211,50,1,160
+Greenlee,005 MORENCI,U.S. House,1,REP,"SHEDD, TIFFANY",561,245,8,308
+Greenlee,006 EAST PLANTSITE,U.S. House,1,REP,"SHEDD, TIFFANY",142,78,0,64
+Greenlee,007 YORK/SHELDON,U.S. House,1,REP,"SHEDD, TIFFANY",382,118,1,263
+Greenlee,008 DUNCAN,U.S. House,1,REP,"SHEDD, TIFFANY",536,163,8,365
+Greenlee,001 EAGLE,U.S. House,1,DEM,"O'HALLERAN, TOM",0,0,0,0
+Greenlee,002 BLUE,U.S. House,1,DEM,"O'HALLERAN, TOM",2,1,0,1
+Greenlee,003 CLIFTON 1,U.S. House,1,DEM,"O'HALLERAN, TOM",381,69,0,312
+Greenlee,004 CLIFTON 2,U.S. House,1,DEM,"O'HALLERAN, TOM",236,21,0,215
+Greenlee,005 MORENCI,U.S. House,1,DEM,"O'HALLERAN, TOM",302,73,3,226
+Greenlee,006 EAST PLANTSITE,U.S. House,1,DEM,"O'HALLERAN, TOM",59,10,0,49
+Greenlee,007 YORK/SHELDON,U.S. House,1,DEM,"O'HALLERAN, TOM",204,25,0,179
+Greenlee,008 DUNCAN,U.S. House,1,DEM,"O'HALLERAN, TOM",196,31,3,162
+Greenlee,001 EAGLE,State Senate,14,REP,"GOWAN, DAVID",15,1,0,14
+Greenlee,002 BLUE,State Senate,14,REP,"GOWAN, DAVID",22,6,0,16
+Greenlee,003 CLIFTON 1,State Senate,14,REP,"GOWAN, DAVID",371,139,3,229
+Greenlee,004 CLIFTON 2,State Senate,14,REP,"GOWAN, DAVID",221,52,1,168
+Greenlee,005 MORENCI,State Senate,14,REP,"GOWAN, DAVID",575,255,10,310
+Greenlee,006 EAST PLANTSITE,State Senate,14,REP,"GOWAN, DAVID",149,78,0,71
+Greenlee,007 YORK/SHELDON,State Senate,14,REP,"GOWAN, DAVID",416,118,1,297
+Greenlee,008 DUNCAN,State Senate,14,REP,"GOWAN, DAVID",556,166,9,381
+Greenlee,001 EAGLE,State Senate,14,DEM,"KARP, BOB",0,0,0,0
+Greenlee,002 BLUE,State Senate,14,DEM,"KARP, BOB",2,1,0,1
+Greenlee,003 CLIFTON 1,State Senate,14,DEM,"KARP, BOB",353,61,0,292
+Greenlee,004 CLIFTON 2,State Senate,14,DEM,"KARP, BOB",223,19,0,204
+Greenlee,005 MORENCI,State Senate,14,DEM,"KARP, BOB",280,66,1,213
+Greenlee,006 EAST PLANTSITE,State Senate,14,DEM,"KARP, BOB",55,12,0,43
+Greenlee,007 YORK/SHELDON,State Senate,14,DEM,"KARP, BOB",171,24,0,147
+Greenlee,008 DUNCAN,State Senate,14,DEM,"KARP, BOB",165,26,2,137
+Greenlee,001 EAGLE,State House,14,REP,"GRIFFIN, GAIL",15,1,0,14
+Greenlee,002 BLUE,State House,14,REP,"GRIFFIN, GAIL",23,6,0,17
+Greenlee,003 CLIFTON 1,State House,14,REP,"GRIFFIN, GAIL",310,133,3,174
+Greenlee,004 CLIFTON 2,State House,14,REP,"GRIFFIN, GAIL",205,43,1,161
+Greenlee,005 MORENCI,State House,14,REP,"GRIFFIN, GAIL",513,230,8,275
+Greenlee,006 EAST PLANTSITE,State House,14,REP,"GRIFFIN, GAIL",133,72,0,61
+Greenlee,007 YORK/SHELDON,State House,14,REP,"GRIFFIN, GAIL",364,112,1,251
+Greenlee,008 DUNCAN,State House,14,REP,"GRIFFIN, GAIL",514,159,7,348
+Greenlee,001 EAGLE,State House,14,REP,"NUTT, BECKY",14,1,0,13
+Greenlee,002 BLUE,State House,14,REP,"NUTT, BECKY",21,7,0,14
+Greenlee,003 CLIFTON 1,State House,14,REP,"NUTT, BECKY",361,135,3,223
+Greenlee,004 CLIFTON 2,State House,14,REP,"NUTT, BECKY",233,51,1,181
+Greenlee,005 MORENCI,State House,14,REP,"NUTT, BECKY",522,239,10,273
+Greenlee,006 EAST PLANTSITE,State House,14,REP,"NUTT, BECKY",134,74,0,60
+Greenlee,007 YORK/SHELDON,State House,14,REP,"NUTT, BECKY",399,121,1,277
+Greenlee,008 DUNCAN,State House,14,REP,"NUTT, BECKY",523,161,9,353
+Greenlee,001 EAGLE,State House,14,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",0,0,0,0
+Greenlee,002 BLUE,State House,14,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",0,0,0,0
+Greenlee,003 CLIFTON 1,State House,14,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",267,48,0,219
+Greenlee,004 CLIFTON 2,State House,14,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",168,19,0,149
+Greenlee,005 MORENCI,State House,14,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",253,74,2,177
+Greenlee,006 EAST PLANTSITE,State House,14,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",45,13,0,32
+Greenlee,007 YORK/SHELDON,State House,14,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",141,18,0,123
+Greenlee,008 DUNCAN,State House,14,DEM,"BEACH - MOSCHETTI, KIMBERLY ""KIM""",148,26,3,119
+Greenlee,001 EAGLE,State House,14,DEM,"MAESTAS-CONDOS, RONNIE",0,0,0,0
+Greenlee,002 BLUE,State House,14,DEM,"MAESTAS-CONDOS, RONNIE",2,1,0,1
+Greenlee,003 CLIFTON 1,State House,14,DEM,"MAESTAS-CONDOS, RONNIE",328,61,0,267
+Greenlee,004 CLIFTON 2,State House,14,DEM,"MAESTAS-CONDOS, RONNIE",184,19,0,165
+Greenlee,005 MORENCI,State House,14,DEM,"MAESTAS-CONDOS, RONNIE",230,62,1,167
+Greenlee,006 EAST PLANTSITE,State House,14,DEM,"MAESTAS-CONDOS, RONNIE",49,14,0,35
+Greenlee,007 YORK/SHELDON,State House,14,DEM,"MAESTAS-CONDOS, RONNIE",147,18,0,129
+Greenlee,008 DUNCAN,State House,14,DEM,"MAESTAS-CONDOS, RONNIE",134,23,1,110
+Greenlee,001 EAGLE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",13,0,0,13
+Greenlee,002 BLUE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",22,6,0,16
+Greenlee,003 CLIFTON 1,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",323,134,3,186
+Greenlee,004 CLIFTON 2,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",204,47,1,156
+Greenlee,005 MORENCI,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",482,228,8,246
+Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",125,73,0,52
+Greenlee,007 YORK/SHELDON,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",341,110,1,230
+Greenlee,008 DUNCAN,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",475,152,8,315
+Greenlee,001 EAGLE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",14,1,0,13
+Greenlee,002 BLUE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",20,5,0,15
+Greenlee,003 CLIFTON 1,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",296,127,3,166
+Greenlee,004 CLIFTON 2,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",181,43,1,137
+Greenlee,005 MORENCI,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",501,239,9,253
+Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",135,72,0,63
+Greenlee,007 YORK/SHELDON,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",346,108,1,237
+Greenlee,008 DUNCAN,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",500,153,8,339
+Greenlee,001 EAGLE,Corporation Commissioner,,REP,"SLOAN, ERIC",14,1,0,13
+Greenlee,002 BLUE,Corporation Commissioner,,REP,"SLOAN, ERIC",17,4,0,13
+Greenlee,003 CLIFTON 1,Corporation Commissioner,,REP,"SLOAN, ERIC",283,119,3,161
+Greenlee,004 CLIFTON 2,Corporation Commissioner,,REP,"SLOAN, ERIC",178,41,1,136
+Greenlee,005 MORENCI,Corporation Commissioner,,REP,"SLOAN, ERIC",493,235,7,251
+Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,REP,"SLOAN, ERIC",131,75,0,56
+Greenlee,007 YORK/SHELDON,Corporation Commissioner,,REP,"SLOAN, ERIC",333,100,1,232
+Greenlee,008 DUNCAN,Corporation Commissioner,,REP,"SLOAN, ERIC",475,147,6,322
 Greenlee,001 EAGLE,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",0,0,0,0
 Greenlee,002 BLUE,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",2,1,0,1
-Greenlee,003 CLIFTON 1,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",308,254,0,54
-Greenlee,004 CLIFTON 2,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",178,156,0,22
-Greenlee,005 MORENCI,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",227,158,2,67
-Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",47,33,0,14
-Greenlee,007 YORK/SHELDON,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",161,138,0,23
-Greenlee,008 DUNCAN,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",135,108,2,25
+Greenlee,003 CLIFTON 1,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",308,54,0,254
+Greenlee,004 CLIFTON 2,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",178,22,0,156
+Greenlee,005 MORENCI,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",227,67,2,158
+Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",47,14,0,33
+Greenlee,007 YORK/SHELDON,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",161,23,0,138
+Greenlee,008 DUNCAN,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",135,25,2,108
 Greenlee,001 EAGLE,Corporation Commissioner,,DEM,"STANFIELD, SHEA",0,0,0,0
 Greenlee,002 BLUE,Corporation Commissioner,,DEM,"STANFIELD, SHEA",2,1,0,1
-Greenlee,003 CLIFTON 1,Corporation Commissioner,,DEM,"STANFIELD, SHEA",279,226,0,53
-Greenlee,004 CLIFTON 2,Corporation Commissioner,,DEM,"STANFIELD, SHEA",166,147,0,19
-Greenlee,005 MORENCI,Corporation Commissioner,,DEM,"STANFIELD, SHEA",221,153,2,66
-Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,DEM,"STANFIELD, SHEA",41,29,0,12
-Greenlee,007 YORK/SHELDON,Corporation Commissioner,,DEM,"STANFIELD, SHEA",136,119,0,17
-Greenlee,008 DUNCAN,Corporation Commissioner,,DEM,"STANFIELD, SHEA",134,109,3,22
-Greenlee,001 EAGLE,Corporation Commissioner,,DEM,"TOVAR, ANNA",1,0,0,1
+Greenlee,003 CLIFTON 1,Corporation Commissioner,,DEM,"STANFIELD, SHEA",279,53,0,226
+Greenlee,004 CLIFTON 2,Corporation Commissioner,,DEM,"STANFIELD, SHEA",166,19,0,147
+Greenlee,005 MORENCI,Corporation Commissioner,,DEM,"STANFIELD, SHEA",221,66,2,153
+Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,DEM,"STANFIELD, SHEA",41,12,0,29
+Greenlee,007 YORK/SHELDON,Corporation Commissioner,,DEM,"STANFIELD, SHEA",136,17,0,119
+Greenlee,008 DUNCAN,Corporation Commissioner,,DEM,"STANFIELD, SHEA",134,22,3,109
+Greenlee,001 EAGLE,Corporation Commissioner,,DEM,"TOVAR, ANNA",1,1,0,0
 Greenlee,002 BLUE,Corporation Commissioner,,DEM,"TOVAR, ANNA",6,3,0,3
-Greenlee,003 CLIFTON 1,Corporation Commissioner,,DEM,"TOVAR, ANNA",336,276,0,60
-Greenlee,004 CLIFTON 2,Corporation Commissioner,,DEM,"TOVAR, ANNA",204,181,0,23
-Greenlee,005 MORENCI,Corporation Commissioner,,DEM,"TOVAR, ANNA",285,206,3,76
-Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,DEM,"TOVAR, ANNA",49,37,0,12
-Greenlee,007 YORK/SHELDON,Corporation Commissioner,,DEM,"TOVAR, ANNA",163,139,0,24
-Greenlee,008 DUNCAN,Corporation Commissioner,,DEM,"TOVAR, ANNA",167,132,2,33
-Greenlee,003 CLIFTON 1,Board of Supervisors Dist. 1,,DEM,"GOMEZ, DAVID",236,195,1,40
-Greenlee,004 CLIFTON 2,Board of Supervisors Dist. 1,,DEM,"GOMEZ, DAVID",181,164,0,17
-Greenlee,003 CLIFTON 1,Board of Supervisors Dist. 1,,IND,"BRINKLEY, JACOB",110,62,1,47
-Greenlee,004 CLIFTON 2,Board of Supervisors Dist. 1,,IND,"BRINKLEY, JACOB",75,56,1,18
-Greenlee,003 CLIFTON 1,Board of Supervisors Dist. 1,,IND,"HORN, NICOLE",204,134,1,69
-Greenlee,004 CLIFTON 2,Board of Supervisors Dist. 1,,IND,"HORN, NICOLE",107,89,0,18
-Greenlee,001 EAGLE,Board of Supervisors Dist. 2,,IND,"CAMPBELL, RON",9,8,0,1
-Greenlee,002 BLUE,Board of Supervisors Dist. 2,,IND,"CAMPBELL, RON",24,16,0,8
-Greenlee,005 MORENCI,Board of Supervisors Dist. 2,,IND,"CAMPBELL, RON",775,465,11,299
-Greenlee,006 EAST PLANTSITE,Board of Supervisors Dist. 2,,IND,"CAMPBELL, RON",173,94,0,79
-Greenlee,007 YORK/SHELDON,Board of Supervisors Dist. 3,,REP,"MENGES, SUZANNE",268,194,0,74
-Greenlee,008 DUNCAN,Board of Supervisors Dist. 3,,REP,"MENGES, SUZANNE",283,197,4,82
-Greenlee,007 YORK/SHELDON,Board of Supervisors Dist. 3,,IND,"LUNT, RICHARD",311,245,1,65
-Greenlee,008 DUNCAN,Board of Supervisors Dist. 3,,IND,"LUNT, RICHARD",453,331,7,115
-Greenlee,001 EAGLE,County Attorney,,IND,"FORD, JEREMY",8,7,0,1
-Greenlee,002 BLUE,County Attorney,,IND,"FORD, JEREMY",23,15,0,8
-Greenlee,003 CLIFTON 1,County Attorney,,IND,"FORD, JEREMY",625,427,3,195
-Greenlee,004 CLIFTON 2,County Attorney,,IND,"FORD, JEREMY",362,294,1,67
-Greenlee,005 MORENCI,County Attorney,,IND,"FORD, JEREMY",779,463,11,305
-Greenlee,006 EAST PLANTSITE,County Attorney,,IND,"FORD, JEREMY",184,98,0,86
-Greenlee,007 YORK/SHELDON,County Attorney,,IND,"FORD, JEREMY",470,342,1,127
-Greenlee,008 DUNCAN,County Attorney,,IND,"FORD, JEREMY",639,453,11,175
-Greenlee,001 EAGLE,County Sheriff,,REP,"SUMNER, TIM",10,9,0,1
-Greenlee,002 BLUE,County Sheriff,,REP,"SUMNER, TIM",24,16,0,8
-Greenlee,003 CLIFTON 1,County Sheriff,,REP,"SUMNER, TIM",214,144,1,69
-Greenlee,004 CLIFTON 2,County Sheriff,,REP,"SUMNER, TIM",107,90,0,17
-Greenlee,005 MORENCI,County Sheriff,,REP,"SUMNER, TIM",361,207,6,148
-Greenlee,006 EAST PLANTSITE,County Sheriff,,REP,"SUMNER, TIM",92,47,0,45
-Greenlee,007 YORK/SHELDON,County Sheriff,,REP,"SUMNER, TIM",204,152,1,51
-Greenlee,008 DUNCAN,County Sheriff,,REP,"SUMNER, TIM",321,224,6,91
-Greenlee,001 EAGLE,County Sheriff,,DEM,"AVILA, LARRY",3,3,0,0
+Greenlee,003 CLIFTON 1,Corporation Commissioner,,DEM,"TOVAR, ANNA",336,60,0,276
+Greenlee,004 CLIFTON 2,Corporation Commissioner,,DEM,"TOVAR, ANNA",204,23,0,181
+Greenlee,005 MORENCI,Corporation Commissioner,,DEM,"TOVAR, ANNA",285,76,3,206
+Greenlee,006 EAST PLANTSITE,Corporation Commissioner,,DEM,"TOVAR, ANNA",49,12,0,37
+Greenlee,007 YORK/SHELDON,Corporation Commissioner,,DEM,"TOVAR, ANNA",163,24,0,139
+Greenlee,008 DUNCAN,Corporation Commissioner,,DEM,"TOVAR, ANNA",167,33,2,132
+Greenlee,003 CLIFTON 1,Board of Supervisors Dist. 1,,DEM,"GOMEZ, DAVID",236,40,1,195
+Greenlee,004 CLIFTON 2,Board of Supervisors Dist. 1,,DEM,"GOMEZ, DAVID",181,17,0,164
+Greenlee,003 CLIFTON 1,Board of Supervisors Dist. 1,,IND,"BRINKLEY, JACOB",110,47,1,62
+Greenlee,004 CLIFTON 2,Board of Supervisors Dist. 1,,IND,"BRINKLEY, JACOB",75,18,1,56
+Greenlee,003 CLIFTON 1,Board of Supervisors Dist. 1,,IND,"HORN, NICOLE",204,69,1,134
+Greenlee,004 CLIFTON 2,Board of Supervisors Dist. 1,,IND,"HORN, NICOLE",107,18,0,89
+Greenlee,001 EAGLE,Board of Supervisors Dist. 2,,IND,"CAMPBELL, RON",9,1,0,8
+Greenlee,002 BLUE,Board of Supervisors Dist. 2,,IND,"CAMPBELL, RON",24,8,0,16
+Greenlee,005 MORENCI,Board of Supervisors Dist. 2,,IND,"CAMPBELL, RON",775,299,11,465
+Greenlee,006 EAST PLANTSITE,Board of Supervisors Dist. 2,,IND,"CAMPBELL, RON",173,79,0,94
+Greenlee,007 YORK/SHELDON,Board of Supervisors Dist. 3,,REP,"MENGES, SUZANNE",268,74,0,194
+Greenlee,008 DUNCAN,Board of Supervisors Dist. 3,,REP,"MENGES, SUZANNE",283,82,4,197
+Greenlee,007 YORK/SHELDON,Board of Supervisors Dist. 3,,IND,"LUNT, RICHARD",311,65,1,245
+Greenlee,008 DUNCAN,Board of Supervisors Dist. 3,,IND,"LUNT, RICHARD",453,115,7,331
+Greenlee,001 EAGLE,County Attorney,,IND,"FORD, JEREMY",8,1,0,7
+Greenlee,002 BLUE,County Attorney,,IND,"FORD, JEREMY",23,8,0,15
+Greenlee,003 CLIFTON 1,County Attorney,,IND,"FORD, JEREMY",625,195,3,427
+Greenlee,004 CLIFTON 2,County Attorney,,IND,"FORD, JEREMY",362,67,1,294
+Greenlee,005 MORENCI,County Attorney,,IND,"FORD, JEREMY",779,305,11,463
+Greenlee,006 EAST PLANTSITE,County Attorney,,IND,"FORD, JEREMY",184,86,0,98
+Greenlee,007 YORK/SHELDON,County Attorney,,IND,"FORD, JEREMY",470,127,1,342
+Greenlee,008 DUNCAN,County Attorney,,IND,"FORD, JEREMY",639,175,11,453
+Greenlee,001 EAGLE,County Sheriff,,REP,"SUMNER, TIM",10,1,0,9
+Greenlee,002 BLUE,County Sheriff,,REP,"SUMNER, TIM",24,8,0,16
+Greenlee,003 CLIFTON 1,County Sheriff,,REP,"SUMNER, TIM",214,69,1,144
+Greenlee,004 CLIFTON 2,County Sheriff,,REP,"SUMNER, TIM",107,17,0,90
+Greenlee,005 MORENCI,County Sheriff,,REP,"SUMNER, TIM",361,148,6,207
+Greenlee,006 EAST PLANTSITE,County Sheriff,,REP,"SUMNER, TIM",92,45,0,47
+Greenlee,007 YORK/SHELDON,County Sheriff,,REP,"SUMNER, TIM",204,51,1,152
+Greenlee,008 DUNCAN,County Sheriff,,REP,"SUMNER, TIM",321,91,6,224
+Greenlee,001 EAGLE,County Sheriff,,DEM,"AVILA, LARRY",3,0,0,3
 Greenlee,002 BLUE,County Sheriff,,DEM,"AVILA, LARRY",0,0,0,0
-Greenlee,003 CLIFTON 1,County Sheriff,,DEM,"AVILA, LARRY",232,189,0,43
-Greenlee,004 CLIFTON 2,County Sheriff,,DEM,"AVILA, LARRY",158,143,0,15
-Greenlee,005 MORENCI,County Sheriff,,DEM,"AVILA, LARRY",175,125,1,49
-Greenlee,006 EAST PLANTSITE,County Sheriff,,DEM,"AVILA, LARRY",39,28,0,11
-Greenlee,007 YORK/SHELDON,County Sheriff,,DEM,"AVILA, LARRY",129,99,0,30
-Greenlee,008 DUNCAN,County Sheriff,,DEM,"AVILA, LARRY",91,73,3,15
+Greenlee,003 CLIFTON 1,County Sheriff,,DEM,"AVILA, LARRY",232,43,0,189
+Greenlee,004 CLIFTON 2,County Sheriff,,DEM,"AVILA, LARRY",158,15,0,143
+Greenlee,005 MORENCI,County Sheriff,,DEM,"AVILA, LARRY",175,49,1,125
+Greenlee,006 EAST PLANTSITE,County Sheriff,,DEM,"AVILA, LARRY",39,11,0,28
+Greenlee,007 YORK/SHELDON,County Sheriff,,DEM,"AVILA, LARRY",129,30,0,99
+Greenlee,008 DUNCAN,County Sheriff,,DEM,"AVILA, LARRY",91,15,3,73
 Greenlee,001 EAGLE,County Sheriff,,IND,"AGUILAR, JAIME",0,0,0,0
 Greenlee,002 BLUE,County Sheriff,,IND,"AGUILAR, JAIME",0,0,0,0
-Greenlee,003 CLIFTON 1,County Sheriff,,IND,"AGUILAR, JAIME",79,52,0,27
-Greenlee,004 CLIFTON 2,County Sheriff,,IND,"AGUILAR, JAIME",61,55,0,6
-Greenlee,005 MORENCI,County Sheriff,,IND,"AGUILAR, JAIME",68,41,1,26
-Greenlee,006 EAST PLANTSITE,County Sheriff,,IND,"AGUILAR, JAIME",13,7,0,6
-Greenlee,007 YORK/SHELDON,County Sheriff,,IND,"AGUILAR, JAIME",40,38,0,2
-Greenlee,008 DUNCAN,County Sheriff,,IND,"AGUILAR, JAIME",48,39,0,9
-Greenlee,001 EAGLE,County Sheriff,,IND,"ELLISON, ERIC",2,2,0,0
-Greenlee,002 BLUE,County Sheriff,,IND,"ELLISON, ERIC",1,1,0,0
-Greenlee,003 CLIFTON 1,County Sheriff,,IND,"ELLISON, ERIC",222,155,2,65
-Greenlee,004 CLIFTON 2,County Sheriff,,IND,"ELLISON, ERIC",132,97,1,34
-Greenlee,005 MORENCI,County Sheriff,,IND,"ELLISON, ERIC",277,172,3,102
-Greenlee,006 EAST PLANTSITE,County Sheriff,,IND,"ELLISON, ERIC",60,32,0,28
-Greenlee,007 YORK/SHELDON,County Sheriff,,IND,"ELLISON, ERIC",222,165,0,57
-Greenlee,008 DUNCAN,County Sheriff,,IND,"ELLISON, ERIC",287,202,2,83
-Greenlee,001 EAGLE,County Treasurer,,IND,"BERUBE, DIANE",11,10,0,1
-Greenlee,002 BLUE,County Treasurer,,IND,"BERUBE, DIANE",21,14,0,7
-Greenlee,003 CLIFTON 1,County Treasurer,,IND,"BERUBE, DIANE",652,452,3,197
-Greenlee,004 CLIFTON 2,County Treasurer,,IND,"BERUBE, DIANE",403,331,1,71
-Greenlee,005 MORENCI,County Treasurer,,IND,"BERUBE, DIANE",799,478,11,310
-Greenlee,006 EAST PLANTSITE,County Treasurer,,IND,"BERUBE, DIANE",185,100,0,85
-Greenlee,007 YORK/SHELDON,County Treasurer,,IND,"BERUBE, DIANE",542,407,1,134
-Greenlee,008 DUNCAN,County Treasurer,,IND,"BERUBE, DIANE",672,475,11,186
-Greenlee,001 EAGLE,County School Superintendent,,DEM,"BOLING, BRYAN",5,4,0,1
-Greenlee,002 BLUE,County School Superintendent,,DEM,"BOLING, BRYAN",22,14,0,8
-Greenlee,003 CLIFTON 1,County School Superintendent,,DEM,"BOLING, BRYAN",474,337,1,136
-Greenlee,004 CLIFTON 2,County School Superintendent,,DEM,"BOLING, BRYAN",290,247,0,43
-Greenlee,005 MORENCI,County School Superintendent,,DEM,"BOLING, BRYAN",590,352,10,228
+Greenlee,003 CLIFTON 1,County Sheriff,,IND,"AGUILAR, JAIME",79,27,0,52
+Greenlee,004 CLIFTON 2,County Sheriff,,IND,"AGUILAR, JAIME",61,6,0,55
+Greenlee,005 MORENCI,County Sheriff,,IND,"AGUILAR, JAIME",68,26,1,41
+Greenlee,006 EAST PLANTSITE,County Sheriff,,IND,"AGUILAR, JAIME",13,6,0,7
+Greenlee,007 YORK/SHELDON,County Sheriff,,IND,"AGUILAR, JAIME",40,2,0,38
+Greenlee,008 DUNCAN,County Sheriff,,IND,"AGUILAR, JAIME",48,9,0,39
+Greenlee,001 EAGLE,County Sheriff,,IND,"ELLISON, ERIC",2,0,0,2
+Greenlee,002 BLUE,County Sheriff,,IND,"ELLISON, ERIC",1,0,0,1
+Greenlee,003 CLIFTON 1,County Sheriff,,IND,"ELLISON, ERIC",222,65,2,155
+Greenlee,004 CLIFTON 2,County Sheriff,,IND,"ELLISON, ERIC",132,34,1,97
+Greenlee,005 MORENCI,County Sheriff,,IND,"ELLISON, ERIC",277,102,3,172
+Greenlee,006 EAST PLANTSITE,County Sheriff,,IND,"ELLISON, ERIC",60,28,0,32
+Greenlee,007 YORK/SHELDON,County Sheriff,,IND,"ELLISON, ERIC",222,57,0,165
+Greenlee,008 DUNCAN,County Sheriff,,IND,"ELLISON, ERIC",287,83,2,202
+Greenlee,001 EAGLE,County Treasurer,,IND,"BERUBE, DIANE",11,1,0,10
+Greenlee,002 BLUE,County Treasurer,,IND,"BERUBE, DIANE",21,7,0,14
+Greenlee,003 CLIFTON 1,County Treasurer,,IND,"BERUBE, DIANE",652,197,3,452
+Greenlee,004 CLIFTON 2,County Treasurer,,IND,"BERUBE, DIANE",403,71,1,331
+Greenlee,005 MORENCI,County Treasurer,,IND,"BERUBE, DIANE",799,310,11,478
+Greenlee,006 EAST PLANTSITE,County Treasurer,,IND,"BERUBE, DIANE",185,85,0,100
+Greenlee,007 YORK/SHELDON,County Treasurer,,IND,"BERUBE, DIANE",542,134,1,407
+Greenlee,008 DUNCAN,County Treasurer,,IND,"BERUBE, DIANE",672,186,11,475
+Greenlee,001 EAGLE,County School Superintendent,,DEM,"BOLING, BRYAN",5,1,0,4
+Greenlee,002 BLUE,County School Superintendent,,DEM,"BOLING, BRYAN",22,8,0,14
+Greenlee,003 CLIFTON 1,County School Superintendent,,DEM,"BOLING, BRYAN",474,136,1,337
+Greenlee,004 CLIFTON 2,County School Superintendent,,DEM,"BOLING, BRYAN",290,43,0,247
+Greenlee,005 MORENCI,County School Superintendent,,DEM,"BOLING, BRYAN",590,228,10,352
 Greenlee,006 EAST PLANTSITE,County School Superintendent,,DEM,"BOLING, BRYAN",138,69,0,69
-Greenlee,007 YORK/SHELDON,County School Superintendent,,DEM,"BOLING, BRYAN",320,241,0,79
-Greenlee,008 DUNCAN,County School Superintendent,,DEM,"BOLING, BRYAN",419,296,10,113
-Greenlee,001 EAGLE,County Recorder,,IND,"MILHEIRO, SHARIE",9,8,0,1
-Greenlee,002 BLUE,County Recorder,,IND,"MILHEIRO, SHARIE",23,15,0,8
-Greenlee,003 CLIFTON 1,County Recorder,,IND,"MILHEIRO, SHARIE",667,468,3,196
-Greenlee,004 CLIFTON 2,County Recorder,,IND,"MILHEIRO, SHARIE",404,332,1,71
-Greenlee,005 MORENCI,County Recorder,,IND,"MILHEIRO, SHARIE",805,485,11,309
-Greenlee,006 EAST PLANTSITE,County Recorder,,IND,"MILHEIRO, SHARIE",187,100,0,87
-Greenlee,007 YORK/SHELDON,County Recorder,,IND,"MILHEIRO, SHARIE",515,387,1,127
-Greenlee,008 DUNCAN,County Recorder,,IND,"MILHEIRO, SHARIE",634,444,11,179
-Greenlee,001 EAGLE,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",14,13,0,1
-Greenlee,002 BLUE,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",17,13,0,4
-Greenlee,003 CLIFTON 1,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",462,334,2,126
-Greenlee,004 CLIFTON 2,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",308,262,0,46
-Greenlee,005 MORENCI,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",545,323,9,213
-Greenlee,006 EAST PLANTSITE,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",101,64,0,37
-Greenlee,007 YORK/SHELDON,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",350,264,0,86
-Greenlee,008 DUNCAN,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",519,386,7,126
-Greenlee,001 EAGLE,County Assessor,,IND,"REED, DOUG",1,1,0,0
-Greenlee,002 BLUE,County Assessor,,IND,"REED, DOUG",6,2,0,4
-Greenlee,003 CLIFTON 1,County Assessor,,IND,"REED, DOUG",228,153,1,74
-Greenlee,004 CLIFTON 2,County Assessor,,IND,"REED, DOUG",131,106,1,24
-Greenlee,005 MORENCI,County Assessor,,IND,"REED, DOUG",273,173,2,98
-Greenlee,006 EAST PLANTSITE,County Assessor,,IND,"REED, DOUG",88,37,0,51
-Greenlee,007 YORK/SHELDON,County Assessor,,IND,"REED, DOUG",222,170,1,51
-Greenlee,008 DUNCAN,County Assessor,,IND,"REED, DOUG",194,128,3,63
-Greenlee,001 EAGLE,Supr Ct Retn/BRUTINEL,ROBERT,,,10,9,0,1
-Greenlee,002 BLUE,Supr Ct Retn/BRUTINEL,ROBERT,,,20,14,0,6
-Greenlee,003 CLIFTON 1,Supr Ct Retn/BRUTINEL,ROBERT,,,528,365,3,160
-Greenlee,004 CLIFTON 2,Supr Ct Retn/BRUTINEL,ROBERT,,,307,248,1,58
-Greenlee,005 MORENCI,Supr Ct Retn/BRUTINEL,ROBERT,,,649,379,9,261
-Greenlee,006 EAST PLANTSITE,Supr Ct Retn/BRUTINEL,ROBERT,,,153,77,0,76
-Greenlee,007 YORK/SHELDON,Supr Ct Retn/BRUTINEL,ROBERT,,,424,306,1,117
-Greenlee,008 DUNCAN,Supr Ct Retn/BRUTINEL,ROBERT,,,529,371,7,151
-Greenlee,001 EAGLE,Supr Ct Retn/BRUTINEL,ROBERT,,,1,1,0,0
-Greenlee,002 BLUE,Supr Ct Retn/BRUTINEL,ROBERT,,,0,0,0,0
-Greenlee,003 CLIFTON 1,Supr Ct Retn/BRUTINEL,ROBERT,,,137,98,0,39
-Greenlee,004 CLIFTON 2,Supr Ct Retn/BRUTINEL,ROBERT,,,84,74,0,10
-Greenlee,005 MORENCI,Supr Ct Retn/BRUTINEL,ROBERT,,,164,112,2,50
-Greenlee,006 EAST PLANTSITE,Supr Ct Retn/BRUTINEL,ROBERT,,,35,25,0,10
-Greenlee,007 YORK/SHELDON,Supr Ct Retn/BRUTINEL,ROBERT,,,88,71,0,17
-Greenlee,008 DUNCAN,Supr Ct Retn/BRUTINEL,ROBERT,,,123,82,2,39
-Greenlee,001 EAGLE,Supr Ct Retn/GOULD, ANDREW W.,,,9,8,0,1
-Greenlee,002 BLUE,Supr Ct Retn/GOULD, ANDREW W.,,,19,13,0,6
-Greenlee,003 CLIFTON 1,Supr Ct Retn/GOULD, ANDREW W.,,,515,352,3,160
-Greenlee,004 CLIFTON 2,Supr Ct Retn/GOULD, ANDREW W.,,,290,232,1,57
-Greenlee,005 MORENCI,Supr Ct Retn/GOULD, ANDREW W.,,,638,372,9,257
-Greenlee,006 EAST PLANTSITE,Supr Ct Retn/GOULD, ANDREW W.,,,150,75,0,75
-Greenlee,007 YORK/SHELDON,Supr Ct Retn/GOULD, ANDREW W.,,,409,295,1,113
-Greenlee,008 DUNCAN,Supr Ct Retn/GOULD, ANDREW W.,,,520,362,6,152
-Greenlee,001 EAGLE,Supr Ct Retn/GOULD, ANDREW W.,,,1,1,0,0
-Greenlee,002 BLUE,Supr Ct Retn/GOULD, ANDREW W.,,,1,1,0,0
-Greenlee,003 CLIFTON 1,Supr Ct Retn/GOULD, ANDREW W.,,,139,100,0,39
-Greenlee,004 CLIFTON 2,Supr Ct Retn/GOULD, ANDREW W.,,,96,86,0,10
-Greenlee,005 MORENCI,Supr Ct Retn/GOULD, ANDREW W.,,,175,120,2,53
-Greenlee,006 EAST PLANTSITE,Supr Ct Retn/GOULD, ANDREW W.,,,38,27,0,11
-Greenlee,007 YORK/SHELDON,Supr Ct Retn/GOULD, ANDREW W.,,,98,74,0,24
-Greenlee,008 DUNCAN,Supr Ct Retn/GOULD, ANDREW W.,,,132,94,3,35
-Greenlee,001 EAGLE,Supr Ct Retn/LOPEZ IV, JOHN,,,7,6,0,1
-Greenlee,002 BLUE,Supr Ct Retn/LOPEZ IV, JOHN,,,19,13,0,6
-Greenlee,003 CLIFTON 1,Supr Ct Retn/LOPEZ IV, JOHN,,,554,393,3,158
-Greenlee,004 CLIFTON 2,Supr Ct Retn/LOPEZ IV, JOHN,,,330,268,1,61
-Greenlee,005 MORENCI,Supr Ct Retn/LOPEZ IV, JOHN,,,664,395,8,261
-Greenlee,006 EAST PLANTSITE,Supr Ct Retn/LOPEZ IV, JOHN,,,155,80,0,75
-Greenlee,007 YORK/SHELDON,Supr Ct Retn/LOPEZ IV, JOHN,,,427,316,1,110
-Greenlee,008 DUNCAN,Supr Ct Retn/LOPEZ IV, JOHN,,,538,380,6,152
-Greenlee,001 EAGLE,Supr Ct Retn/LOPEZ IV, JOHN,,,1,1,0,0
-Greenlee,002 BLUE,Supr Ct Retn/LOPEZ IV, JOHN,,,1,1,0,0
-Greenlee,003 CLIFTON 1,Supr Ct Retn/LOPEZ IV, JOHN,,,113,73,0,40
-Greenlee,004 CLIFTON 2,Supr Ct Retn/LOPEZ IV, JOHN,,,70,63,0,7
-Greenlee,005 MORENCI,Supr Ct Retn/LOPEZ IV, JOHN,,,149,97,3,49
-Greenlee,006 EAST PLANTSITE,Supr Ct Retn/LOPEZ IV, JOHN,,,34,23,0,11
-Greenlee,007 YORK/SHELDON,Supr Ct Retn/LOPEZ IV, JOHN,,,87,63,0,24
-Greenlee,008 DUNCAN,Supr Ct Retn/LOPEZ IV, JOHN,,,121,80,3,38
-Greenlee,001 EAGLE,Ct App Div2/EPPICH, KARL,,,6,5,0,1
-Greenlee,002 BLUE,Ct App Div2/EPPICH, KARL,,,19,13,0,6
-Greenlee,003 CLIFTON 1,Ct App Div2/EPPICH, KARL,,,528,368,3,157
-Greenlee,004 CLIFTON 2,Ct App Div2/EPPICH, KARL,,,297,237,1,59
-Greenlee,005 MORENCI,Ct App Div2/EPPICH, KARL,,,639,384,7,248
-Greenlee,006 EAST PLANTSITE,Ct App Div2/EPPICH, KARL,,,152,80,0,72
-Greenlee,007 YORK/SHELDON,Ct App Div2/EPPICH, KARL,,,403,292,1,110
-Greenlee,008 DUNCAN,Ct App Div2/EPPICH, KARL,,,507,355,5,147
-Greenlee,001 EAGLE,Ct App Div2/EPPICH, KARL,,,1,1,0,0
-Greenlee,002 BLUE,Ct App Div2/EPPICH, KARL,,,1,1,0,0
-Greenlee,003 CLIFTON 1,Ct App Div2/EPPICH, KARL,,,128,88,0,40
-Greenlee,004 CLIFTON 2,Ct App Div2/EPPICH, KARL,,,92,84,0,8
-Greenlee,005 MORENCI,Ct App Div2/EPPICH, KARL,,,170,104,4,62
-Greenlee,006 EAST PLANTSITE,Ct App Div2/EPPICH, KARL,,,35,22,0,13
-Greenlee,007 YORK/SHELDON,Ct App Div2/EPPICH, KARL,,,101,78,0,23
-Greenlee,008 DUNCAN,Ct App Div2/EPPICH, KARL,,,146,99,4,43
-Greenlee,001 EAGLE,Ct App Div2/VASQUEZ,GARYE,,,8,7,0,1
-Greenlee,002 BLUE,Ct App Div2/VASQUEZ,GARYE,,,11,7,0,4
-Greenlee,003 CLIFTON 1,Ct App Div2/VASQUEZ,GARYE,,,498,330,3,165
-Greenlee,004 CLIFTON 2,Ct App Div2/VASQUEZ,GARYE,,,290,231,1,58
-Greenlee,005 MORENCI,Ct App Div2/VASQUEZ,GARYE,,,620,358,8,254
-Greenlee,006 EAST PLANTSITE,Ct App Div2/VASQUEZ,GARYE,,,146,69,0,77
-Greenlee,007 YORK/SHELDON,Ct App Div2/VASQUEZ,GARYE,,,368,262,1,105
-Greenlee,008 DUNCAN,Ct App Div2/VASQUEZ,GARYE,,,468,309,5,154
-Greenlee,001 EAGLE,Ct App Div2/VASQUEZ,GARYE,,,1,1,0,0
-Greenlee,002 BLUE,Ct App Div2/VASQUEZ,GARYE,,,4,3,0,1
-Greenlee,003 CLIFTON 1,Ct App Div2/VASQUEZ,GARYE,,,105,72,0,33
-Greenlee,004 CLIFTON 2,Ct App Div2/VASQUEZ,GARYE,,,60,51,0,9
-Greenlee,005 MORENCI,Ct App Div2/VASQUEZ,GARYE,,,138,83,3,52
-Greenlee,006 EAST PLANTSITE,Ct App Div2/VASQUEZ,GARYE,,,33,24,0,9
-Greenlee,007 YORK/SHELDON,Ct App Div2/VASQUEZ,GARYE,,,98,72,0,26
-Greenlee,008 DUNCAN,Ct App Div2/VASQUEZ,GARYE,,,135,96,4,35
-Greenlee,001 EAGLE,PROPOSITION 207,,,,4,4,0,0
-Greenlee,002 BLUE,PROPOSITION 207,,,,8,6,0,2
-Greenlee,003 CLIFTON 1,PROPOSITION 207,,,,464,332,2,130
-Greenlee,004 CLIFTON 2,PROPOSITION 207,,,,252,207,1,44
-Greenlee,005 MORENCI,PROPOSITION 207,,,,573,348,10,215
-Greenlee,006 EAST PLANTSITE,PROPOSITION 207,,,,116,60,0,56
-Greenlee,007 YORK/SHELDON,PROPOSITION 207,,,,280,210,0,70
-Greenlee,008 DUNCAN,PROPOSITION 207,,,,325,228,8,89
-Greenlee,001 EAGLE,PROPOSITION 207,,,,10,9,0,1
-Greenlee,002 BLUE,PROPOSITION 207,,,,13,9,0,4
-Greenlee,003 CLIFTON 1,PROPOSITION 207,,,,260,183,1,76
-Greenlee,004 CLIFTON 2,PROPOSITION 207,,,,191,162,0,29
-Greenlee,005 MORENCI,PROPOSITION 207,,,,303,193,1,109
-Greenlee,006 EAST PLANTSITE,PROPOSITION 207,,,,84,51,0,33
-Greenlee,007 YORK/SHELDON,PROPOSITION 207,,,,296,223,1,72
-Greenlee,008 DUNCAN,PROPOSITION 207,,,,399,286,3,110
-Greenlee,001 EAGLE,PROPOSITION 208,,,,0,0,0,0
-Greenlee,002 BLUE,PROPOSITION 208,,,,6,5,0,1
-Greenlee,003 CLIFTON 1,PROPOSITION 208,,,,374,285,3,86
-Greenlee,004 CLIFTON 2,PROPOSITION 208,,,,211,184,1,26
-Greenlee,005 MORENCI,PROPOSITION 208,,,,435,272,5,158
-Greenlee,006 EAST PLANTSITE,PROPOSITION 208,,,,82,52,0,30
-Greenlee,007 YORK/SHELDON,PROPOSITION 208,,,,219,165,1,53
-Greenlee,008 DUNCAN,PROPOSITION 208,,,,244,186,5,53
-Greenlee,001 EAGLE,PROPOSITION 208,,,,15,14,0,1
-Greenlee,002 BLUE,PROPOSITION 208,,,,16,10,0,6
-Greenlee,003 CLIFTON 1,PROPOSITION 208,,,,358,238,0,120
-Greenlee,004 CLIFTON 2,PROPOSITION 208,,,,239,193,0,46
-Greenlee,005 MORENCI,PROPOSITION 208,,,,443,271,6,166
-Greenlee,006 EAST PLANTSITE,PROPOSITION 208,,,,121,62,0,59
-Greenlee,007 YORK/SHELDON,PROPOSITION 208,,,,365,276,0,89
-Greenlee,008 DUNCAN,PROPOSITION 208,,,,492,341,6,145
-Greenlee,003 CLIFTON 1,PROPOSITION 400,,,,509,363,2,144
-Greenlee,005 MORENCI,PROPOSITION 400,,,,223,125,7,91
-Greenlee,006 EAST PLANTSITE,PROPOSITION 400,,,,147,79,0,68
-Greenlee,003 CLIFTON 1,PROPOSITION 400,,,,180,131,1,48
-Greenlee,005 MORENCI,PROPOSITION 400,,,,77,47,0,30
-Greenlee,006 EAST PLANTSITE,PROPOSITION 400,,,,50,30,0,20
+Greenlee,007 YORK/SHELDON,County School Superintendent,,DEM,"BOLING, BRYAN",320,79,0,241
+Greenlee,008 DUNCAN,County School Superintendent,,DEM,"BOLING, BRYAN",419,113,10,296
+Greenlee,001 EAGLE,County Recorder,,IND,"MILHEIRO, SHARIE",9,1,0,8
+Greenlee,002 BLUE,County Recorder,,IND,"MILHEIRO, SHARIE",23,8,0,15
+Greenlee,003 CLIFTON 1,County Recorder,,IND,"MILHEIRO, SHARIE",667,196,3,468
+Greenlee,004 CLIFTON 2,County Recorder,,IND,"MILHEIRO, SHARIE",404,71,1,332
+Greenlee,005 MORENCI,County Recorder,,IND,"MILHEIRO, SHARIE",805,309,11,485
+Greenlee,006 EAST PLANTSITE,County Recorder,,IND,"MILHEIRO, SHARIE",187,87,0,100
+Greenlee,007 YORK/SHELDON,County Recorder,,IND,"MILHEIRO, SHARIE",515,127,1,387
+Greenlee,008 DUNCAN,County Recorder,,IND,"MILHEIRO, SHARIE",634,179,11,444
+Greenlee,001 EAGLE,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",14,1,0,13
+Greenlee,002 BLUE,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",17,4,0,13
+Greenlee,003 CLIFTON 1,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",462,126,2,334
+Greenlee,004 CLIFTON 2,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",308,46,0,262
+Greenlee,005 MORENCI,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",545,213,9,323
+Greenlee,006 EAST PLANTSITE,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",101,37,0,64
+Greenlee,007 YORK/SHELDON,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",350,86,0,264
+Greenlee,008 DUNCAN,County Assessor,,IND,"CATHCART, JOANN ""JOJO""",519,126,7,386
+Greenlee,001 EAGLE,County Assessor,,IND,"REED, DOUG",1,0,0,1
+Greenlee,002 BLUE,County Assessor,,IND,"REED, DOUG",6,4,0,2
+Greenlee,003 CLIFTON 1,County Assessor,,IND,"REED, DOUG",228,74,1,153
+Greenlee,004 CLIFTON 2,County Assessor,,IND,"REED, DOUG",131,24,1,106
+Greenlee,005 MORENCI,County Assessor,,IND,"REED, DOUG",273,98,2,173
+Greenlee,006 EAST PLANTSITE,County Assessor,,IND,"REED, DOUG",88,51,0,37
+Greenlee,007 YORK/SHELDON,County Assessor,,IND,"REED, DOUG",222,51,1,170
+Greenlee,008 DUNCAN,County Assessor,,IND,"REED, DOUG",194,63,3,128
+Greenlee,001 EAGLE,Supr Ct Retn/BRUTINEL,ROBERT,,YES,10,1,0,9
+Greenlee,002 BLUE,Supr Ct Retn/BRUTINEL,ROBERT,,YES,20,6,0,14
+Greenlee,003 CLIFTON 1,Supr Ct Retn/BRUTINEL,ROBERT,,YES,528,160,3,365
+Greenlee,004 CLIFTON 2,Supr Ct Retn/BRUTINEL,ROBERT,,YES,307,58,1,248
+Greenlee,005 MORENCI,Supr Ct Retn/BRUTINEL,ROBERT,,YES,649,261,9,379
+Greenlee,006 EAST PLANTSITE,Supr Ct Retn/BRUTINEL,ROBERT,,YES,153,76,0,77
+Greenlee,007 YORK/SHELDON,Supr Ct Retn/BRUTINEL,ROBERT,,YES,424,117,1,306
+Greenlee,008 DUNCAN,Supr Ct Retn/BRUTINEL,ROBERT,,YES,529,151,7,371
+Greenlee,001 EAGLE,Supr Ct Retn/BRUTINEL,ROBERT,,NO,1,0,0,1
+Greenlee,002 BLUE,Supr Ct Retn/BRUTINEL,ROBERT,,NO,0,0,0,0
+Greenlee,003 CLIFTON 1,Supr Ct Retn/BRUTINEL,ROBERT,,NO,137,39,0,98
+Greenlee,004 CLIFTON 2,Supr Ct Retn/BRUTINEL,ROBERT,,NO,84,10,0,74
+Greenlee,005 MORENCI,Supr Ct Retn/BRUTINEL,ROBERT,,NO,164,50,2,112
+Greenlee,006 EAST PLANTSITE,Supr Ct Retn/BRUTINEL,ROBERT,,NO,35,10,0,25
+Greenlee,007 YORK/SHELDON,Supr Ct Retn/BRUTINEL,ROBERT,,NO,88,17,0,71
+Greenlee,008 DUNCAN,Supr Ct Retn/BRUTINEL,ROBERT,,NO,123,39,2,82
+Greenlee,001 EAGLE,Supr Ct Retn/GOULD, ANDREW W.,,YES,9,1,0,8
+Greenlee,002 BLUE,Supr Ct Retn/GOULD, ANDREW W.,,YES,19,6,0,13
+Greenlee,003 CLIFTON 1,Supr Ct Retn/GOULD, ANDREW W.,,YES,515,160,3,352
+Greenlee,004 CLIFTON 2,Supr Ct Retn/GOULD, ANDREW W.,,YES,290,57,1,232
+Greenlee,005 MORENCI,Supr Ct Retn/GOULD, ANDREW W.,,YES,638,257,9,372
+Greenlee,006 EAST PLANTSITE,Supr Ct Retn/GOULD, ANDREW W.,,YES,150,75,0,75
+Greenlee,007 YORK/SHELDON,Supr Ct Retn/GOULD, ANDREW W.,,YES,409,113,1,295
+Greenlee,008 DUNCAN,Supr Ct Retn/GOULD, ANDREW W.,,YES,520,152,6,362
+Greenlee,001 EAGLE,Supr Ct Retn/GOULD, ANDREW W.,,NO,1,0,0,1
+Greenlee,002 BLUE,Supr Ct Retn/GOULD, ANDREW W.,,NO,1,0,0,1
+Greenlee,003 CLIFTON 1,Supr Ct Retn/GOULD, ANDREW W.,,NO,139,39,0,100
+Greenlee,004 CLIFTON 2,Supr Ct Retn/GOULD, ANDREW W.,,NO,96,10,0,86
+Greenlee,005 MORENCI,Supr Ct Retn/GOULD, ANDREW W.,,NO,175,53,2,120
+Greenlee,006 EAST PLANTSITE,Supr Ct Retn/GOULD, ANDREW W.,,NO,38,11,0,27
+Greenlee,007 YORK/SHELDON,Supr Ct Retn/GOULD, ANDREW W.,,NO,98,24,0,74
+Greenlee,008 DUNCAN,Supr Ct Retn/GOULD, ANDREW W.,,NO,132,35,3,94
+Greenlee,001 EAGLE,Supr Ct Retn/LOPEZ IV, JOHN,,YES,7,1,0,6
+Greenlee,002 BLUE,Supr Ct Retn/LOPEZ IV, JOHN,,YES,19,6,0,13
+Greenlee,003 CLIFTON 1,Supr Ct Retn/LOPEZ IV, JOHN,,YES,554,158,3,393
+Greenlee,004 CLIFTON 2,Supr Ct Retn/LOPEZ IV, JOHN,,YES,330,61,1,268
+Greenlee,005 MORENCI,Supr Ct Retn/LOPEZ IV, JOHN,,YES,664,261,8,395
+Greenlee,006 EAST PLANTSITE,Supr Ct Retn/LOPEZ IV, JOHN,,YES,155,75,0,80
+Greenlee,007 YORK/SHELDON,Supr Ct Retn/LOPEZ IV, JOHN,,YES,427,110,1,316
+Greenlee,008 DUNCAN,Supr Ct Retn/LOPEZ IV, JOHN,,YES,538,152,6,380
+Greenlee,001 EAGLE,Supr Ct Retn/LOPEZ IV, JOHN,,NO,1,0,0,1
+Greenlee,002 BLUE,Supr Ct Retn/LOPEZ IV, JOHN,,NO,1,0,0,1
+Greenlee,003 CLIFTON 1,Supr Ct Retn/LOPEZ IV, JOHN,,NO,113,40,0,73
+Greenlee,004 CLIFTON 2,Supr Ct Retn/LOPEZ IV, JOHN,,NO,70,7,0,63
+Greenlee,005 MORENCI,Supr Ct Retn/LOPEZ IV, JOHN,,NO,149,49,3,97
+Greenlee,006 EAST PLANTSITE,Supr Ct Retn/LOPEZ IV, JOHN,,NO,34,11,0,23
+Greenlee,007 YORK/SHELDON,Supr Ct Retn/LOPEZ IV, JOHN,,NO,87,24,0,63
+Greenlee,008 DUNCAN,Supr Ct Retn/LOPEZ IV, JOHN,,NO,121,38,3,80
+Greenlee,001 EAGLE,Ct App Div2/EPPICH, KARL,,YES,6,1,0,5
+Greenlee,002 BLUE,Ct App Div2/EPPICH, KARL,,YES,19,6,0,13
+Greenlee,003 CLIFTON 1,Ct App Div2/EPPICH, KARL,,YES,528,157,3,368
+Greenlee,004 CLIFTON 2,Ct App Div2/EPPICH, KARL,,YES,297,59,1,237
+Greenlee,005 MORENCI,Ct App Div2/EPPICH, KARL,,YES,639,248,7,384
+Greenlee,006 EAST PLANTSITE,Ct App Div2/EPPICH, KARL,,YES,152,72,0,80
+Greenlee,007 YORK/SHELDON,Ct App Div2/EPPICH, KARL,,YES,403,110,1,292
+Greenlee,008 DUNCAN,Ct App Div2/EPPICH, KARL,,YES,507,147,5,355
+Greenlee,001 EAGLE,Ct App Div2/EPPICH, KARL,,NO,1,0,0,1
+Greenlee,002 BLUE,Ct App Div2/EPPICH, KARL,,NO,1,0,0,1
+Greenlee,003 CLIFTON 1,Ct App Div2/EPPICH, KARL,,NO,128,40,0,88
+Greenlee,004 CLIFTON 2,Ct App Div2/EPPICH, KARL,,NO,92,8,0,84
+Greenlee,005 MORENCI,Ct App Div2/EPPICH, KARL,,NO,170,62,4,104
+Greenlee,006 EAST PLANTSITE,Ct App Div2/EPPICH, KARL,,NO,35,13,0,22
+Greenlee,007 YORK/SHELDON,Ct App Div2/EPPICH, KARL,,NO,101,23,0,78
+Greenlee,008 DUNCAN,Ct App Div2/EPPICH, KARL,,NO,146,43,4,99
+Greenlee,001 EAGLE,Ct App Div2/VASQUEZ,GARYE,,YES,8,1,0,7
+Greenlee,002 BLUE,Ct App Div2/VASQUEZ,GARYE,,YES,11,4,0,7
+Greenlee,003 CLIFTON 1,Ct App Div2/VASQUEZ,GARYE,,YES,498,165,3,330
+Greenlee,004 CLIFTON 2,Ct App Div2/VASQUEZ,GARYE,,YES,290,58,1,231
+Greenlee,005 MORENCI,Ct App Div2/VASQUEZ,GARYE,,YES,620,254,8,358
+Greenlee,006 EAST PLANTSITE,Ct App Div2/VASQUEZ,GARYE,,YES,146,77,0,69
+Greenlee,007 YORK/SHELDON,Ct App Div2/VASQUEZ,GARYE,,YES,368,105,1,262
+Greenlee,008 DUNCAN,Ct App Div2/VASQUEZ,GARYE,,YES,468,154,5,309
+Greenlee,001 EAGLE,Ct App Div2/VASQUEZ,GARYE,,NO,1,0,0,1
+Greenlee,002 BLUE,Ct App Div2/VASQUEZ,GARYE,,NO,4,1,0,3
+Greenlee,003 CLIFTON 1,Ct App Div2/VASQUEZ,GARYE,,NO,105,33,0,72
+Greenlee,004 CLIFTON 2,Ct App Div2/VASQUEZ,GARYE,,NO,60,9,0,51
+Greenlee,005 MORENCI,Ct App Div2/VASQUEZ,GARYE,,NO,138,52,3,83
+Greenlee,006 EAST PLANTSITE,Ct App Div2/VASQUEZ,GARYE,,NO,33,9,0,24
+Greenlee,007 YORK/SHELDON,Ct App Div2/VASQUEZ,GARYE,,NO,98,26,0,72
+Greenlee,008 DUNCAN,Ct App Div2/VASQUEZ,GARYE,,NO,135,35,4,96
+Greenlee,001 EAGLE,PROPOSITION 207,,,YES,4,0,0,4
+Greenlee,002 BLUE,PROPOSITION 207,,,YES,8,2,0,6
+Greenlee,003 CLIFTON 1,PROPOSITION 207,,,YES,464,130,2,332
+Greenlee,004 CLIFTON 2,PROPOSITION 207,,,YES,252,44,1,207
+Greenlee,005 MORENCI,PROPOSITION 207,,,YES,573,215,10,348
+Greenlee,006 EAST PLANTSITE,PROPOSITION 207,,,YES,116,56,0,60
+Greenlee,007 YORK/SHELDON,PROPOSITION 207,,,YES,280,70,0,210
+Greenlee,008 DUNCAN,PROPOSITION 207,,,YES,325,89,8,228
+Greenlee,001 EAGLE,PROPOSITION 207,,,NO,10,1,0,9
+Greenlee,002 BLUE,PROPOSITION 207,,,NO,13,4,0,9
+Greenlee,003 CLIFTON 1,PROPOSITION 207,,,NO,260,76,1,183
+Greenlee,004 CLIFTON 2,PROPOSITION 207,,,NO,191,29,0,162
+Greenlee,005 MORENCI,PROPOSITION 207,,,NO,303,109,1,193
+Greenlee,006 EAST PLANTSITE,PROPOSITION 207,,,NO,84,33,0,51
+Greenlee,007 YORK/SHELDON,PROPOSITION 207,,,NO,296,72,1,223
+Greenlee,008 DUNCAN,PROPOSITION 207,,,NO,399,110,3,286
+Greenlee,001 EAGLE,PROPOSITION 208,,,YES,0,0,0,0
+Greenlee,002 BLUE,PROPOSITION 208,,,YES,6,1,0,5
+Greenlee,003 CLIFTON 1,PROPOSITION 208,,,YES,374,86,3,285
+Greenlee,004 CLIFTON 2,PROPOSITION 208,,,YES,211,26,1,184
+Greenlee,005 MORENCI,PROPOSITION 208,,,YES,435,158,5,272
+Greenlee,006 EAST PLANTSITE,PROPOSITION 208,,,YES,82,30,0,52
+Greenlee,007 YORK/SHELDON,PROPOSITION 208,,,YES,219,53,1,165
+Greenlee,008 DUNCAN,PROPOSITION 208,,,YES,244,53,5,186
+Greenlee,001 EAGLE,PROPOSITION 208,,,NO,15,1,0,14
+Greenlee,002 BLUE,PROPOSITION 208,,,NO,16,6,0,10
+Greenlee,003 CLIFTON 1,PROPOSITION 208,,,NO,358,120,0,238
+Greenlee,004 CLIFTON 2,PROPOSITION 208,,,NO,239,46,0,193
+Greenlee,005 MORENCI,PROPOSITION 208,,,NO,443,166,6,271
+Greenlee,006 EAST PLANTSITE,PROPOSITION 208,,,NO,121,59,0,62
+Greenlee,007 YORK/SHELDON,PROPOSITION 208,,,NO,365,89,0,276
+Greenlee,008 DUNCAN,PROPOSITION 208,,,NO,492,145,6,341
+Greenlee,003 CLIFTON 1,PROPOSITION 400,,,YES,509,144,2,363
+Greenlee,005 MORENCI,PROPOSITION 400,,,YES,223,91,7,125
+Greenlee,006 EAST PLANTSITE,PROPOSITION 400,,,YES,147,68,0,79
+Greenlee,003 CLIFTON 1,PROPOSITION 400,,,NO,180,48,1,131
+Greenlee,005 MORENCI,PROPOSITION 400,,,NO,77,30,0,47
+Greenlee,006 EAST PLANTSITE,PROPOSITION 400,,,NO,50,20,0,30
