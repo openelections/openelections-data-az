@@ -1,0 +1,2451 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Yavapai,EAGLE (201),Registered Voters,,,,8836,,,
+Yavapai,COURT (202),Registered Voters,,,,7050,,,
+Yavapai,FAIR (203),Registered Voters,,,,5071,,,
+Yavapai,GOLF (204),Registered Voters,,,,7181,,,
+Yavapai,MINE (205),Registered Voters,,,,999,,,
+Yavapai,HILL (206),Registered Voters,,,,87,,,
+Yavapai,MESQUITE (207),Registered Voters,,,,1518,,,
+Yavapai,YARN (208),Registered Voters,,,,890,,,
+Yavapai,WICK (209),Registered Voters,,,,1066,,,
+Yavapai,WALNUT (210),Registered Voters,,,,67,,,
+Yavapai,SPRINGS (211),Registered Voters,,,,36,,,
+Yavapai,PLEASANT (212),Registered Voters,,,,0,,,
+Yavapai,SKULL (213),Registered Voters,,,,403,,,
+Yavapai,KIRK (214),Registered Voters,,,,797,,,
+Yavapai,BUCK (215),Registered Voters,,,,4754,,,
+Yavapai,CREEK (216),Registered Voters,,,,2812,,,
+Yavapai,WIND (217),Registered Voters,,,,139,,,
+Yavapai,WELL (218),Registered Voters,,,,3102,,,
+Yavapai,FORT (219),Registered Voters,,,,7416,,,
+Yavapai,RIM (220),Registered Voters,,,,35,,,
+Yavapai,SALT (221),Registered Voters,,,,428,,,
+Yavapai,BUG (222),Registered Voters,,,,3906,,,
+Yavapai,SUNSET (223),Registered Voters,,,,2092,,,
+Yavapai,TOWERS (224),Registered Voters,,,,108,,,
+Yavapai,IRON (225),Registered Voters,,,,7195,,,
+Yavapai,SPIRIT (226),Registered Voters,,,,73,,,
+Yavapai,RUBY (227),Registered Voters,,,,6363,,,
+Yavapai,SCARLET (228),Registered Voters,,,,5350,,,
+Yavapai,ONYX (229),Registered Voters,,,,8601,,,
+Yavapai,AZURE (230),Registered Voters,,,,7639,,,
+Yavapai,QUAIL (231),Registered Voters,,,,411,,,
+Yavapai,GHOST (232),Registered Voters,,,,2859,,,
+Yavapai,BRIDGE (233),Registered Voters,,,,81,,,
+Yavapai,WATSON (234),Registered Voters,,,,9498,,,
+Yavapai,RANCH (235),Registered Voters,,,,4808,,,
+Yavapai,CAMP (236),Registered Voters,,,,654,,,
+Yavapai,BASIN (237),Registered Voters,,,,6997,,,
+Yavapai,GRAZE (238),Registered Voters,,,,8595,,,
+Yavapai,COYOTE (239),Registered Voters,,,,3496,,,
+Yavapai,CARS (240),Registered Voters,,,,1012,,,
+Yavapai,STONE (241),Registered Voters,,,,691,,,
+Yavapai,WATER (242),Registered Voters,,,,6308,,,
+Yavapai,BURRO (243),Registered Voters,,,,8621,,,
+Yavapai,BISON (244),Registered Voters,,,,11175,,,
+Yavapai,BIGHORN (245),Registered Voters,,,,6141,,,
+Yavapai,EAGLE (201),Ballots Cast,,,,8132,535,7586,11
+Yavapai,COURT (202),Ballots Cast,,,,6130,578,5527,25
+Yavapai,FAIR (203),Ballots Cast,,,,4537,311,4219,7
+Yavapai,GOLF (204),Ballots Cast,,,,6633,469,6154,10
+Yavapai,MINE (205),Ballots Cast,,,,828,442,383,3
+Yavapai,HILL (206),Ballots Cast,,,,80,22,58,0
+Yavapai,MESQUITE (207),Ballots Cast,,,,1348,278,1062,8
+Yavapai,YARN (208),Ballots Cast,,,,770,156,610,4
+Yavapai,WICK (209),Ballots Cast,,,,1015,121,894,0
+Yavapai,WALNUT (210),Ballots Cast,,,,55,3,52,0
+Yavapai,SPRINGS (211),Ballots Cast,,,,34,1,33,0
+Yavapai,PLEASANT (212),Ballots Cast,,,,0,0,0,0
+Yavapai,SKULL (213),Ballots Cast,,,,364,28,335,1
+Yavapai,KIRK (214),Ballots Cast,,,,653,89,563,1
+Yavapai,BUCK (215),Ballots Cast,,,,4361,341,4012,8
+Yavapai,CREEK (216),Ballots Cast,,,,2443,357,2077,9
+Yavapai,WIND (217),Ballots Cast,,,,112,18,94,0
+Yavapai,WELL (218),Ballots Cast,,,,2651,525,2111,15
+Yavapai,FORT (219),Ballots Cast,,,,6072,1092,4949,31
+Yavapai,RIM (220),Ballots Cast,,,,31,7,24,0
+Yavapai,SALT (221),Ballots Cast,,,,381,49,332,0
+Yavapai,BUG (222),Ballots Cast,,,,3211,701,2502,8
+Yavapai,SUNSET (223),Ballots Cast,,,,1692,503,1181,8
+Yavapai,TOWERS (224),Ballots Cast,,,,92,5,87,0
+Yavapai,IRON (225),Ballots Cast,,,,6377,973,5392,12
+Yavapai,SPIRIT (226),Ballots Cast,,,,64,13,50,1
+Yavapai,RUBY (227),Ballots Cast,,,,5672,557,5109,6
+Yavapai,SCARLET (228),Ballots Cast,,,,4919,531,4386,2
+Yavapai,ONYX (229),Ballots Cast,,,,7441,808,6612,21
+Yavapai,AZURE (230),Ballots Cast,,,,6377,885,5463,29
+Yavapai,QUAIL (231),Ballots Cast,,,,389,44,345,0
+Yavapai,GHOST (232),Ballots Cast,,,,2505,364,2132,9
+Yavapai,BRIDGE (233),Ballots Cast,,,,66,4,62,0
+Yavapai,WATSON (234),Ballots Cast,,,,8707,526,8167,14
+Yavapai,RANCH (235),Ballots Cast,,,,4507,422,4085,0
+Yavapai,CAMP (236),Ballots Cast,,,,587,70,516,1
+Yavapai,BASIN (237),Ballots Cast,,,,5947,1069,4867,11
+Yavapai,GRAZE (238),Ballots Cast,,,,7478,1342,6116,20
+Yavapai,COYOTE (239),Ballots Cast,,,,3154,368,2777,9
+Yavapai,CARS (240),Ballots Cast,,,,814,211,600,3
+Yavapai,STONE (241),Ballots Cast,,,,579,170,406,3
+Yavapai,WATER (242),Ballots Cast,,,,5772,410,5352,10
+Yavapai,BURRO (243),Ballots Cast,,,,7538,853,6667,18
+Yavapai,BISON (244),Ballots Cast,,,,9469,1131,8326,12
+Yavapai,BIGHORN (245),Ballots Cast,,,,4924,635,4270,19
+Yavapai,EAGLE (201),President,,REP,Donald J. Trump,4909,432,4471,6
+Yavapai,COURT (202),President,,REP,Donald J. Trump,3166,408,2744,14
+Yavapai,FAIR (203),President,,REP,Donald J. Trump,2512,231,2276,5
+Yavapai,GOLF (204),President,,REP,Donald J. Trump,3538,343,3187,8
+Yavapai,MINE (205),President,,REP,Donald J. Trump,655,381,272,2
+Yavapai,HILL (206),President,,REP,Donald J. Trump,76,21,55,0
+Yavapai,MESQUITE (207),President,,REP,Donald J. Trump,1044,250,787,7
+Yavapai,YARN (208),President,,REP,Donald J. Trump,554,129,421,4
+Yavapai,WICK (209),President,,REP,Donald J. Trump,729,104,625,0
+Yavapai,WALNUT (210),President,,REP,Donald J. Trump,38,3,35,0
+Yavapai,SPRINGS (211),President,,REP,Donald J. Trump,19,0,19,0
+Yavapai,PLEASANT (212),President,,REP,Donald J. Trump,0,0,0,0
+Yavapai,SKULL (213),President,,REP,Donald J. Trump,267,24,242,1
+Yavapai,KIRK (214),President,,REP,Donald J. Trump,487,83,404,0
+Yavapai,BUCK (215),President,,REP,Donald J. Trump,2974,294,2673,7
+Yavapai,CREEK (216),President,,REP,Donald J. Trump,1374,291,1074,9
+Yavapai,WIND (217),President,,REP,Donald J. Trump,67,13,54,0
+Yavapai,WELL (218),President,,REP,Donald J. Trump,1652,432,1211,9
+Yavapai,FORT (219),President,,REP,Donald J. Trump,4184,893,3266,25
+Yavapai,RIM (220),President,,REP,Donald J. Trump,23,7,16,0
+Yavapai,SALT (221),President,,REP,Donald J. Trump,266,41,225,0
+Yavapai,BUG (222),President,,REP,Donald J. Trump,2316,587,1722,7
+Yavapai,SUNSET (223),President,,REP,Donald J. Trump,1287,445,835,7
+Yavapai,TOWERS (224),President,,REP,Donald J. Trump,75,5,70,0
+Yavapai,IRON (225),President,,REP,Donald J. Trump,4626,879,3738,9
+Yavapai,SPIRIT (226),President,,REP,Donald J. Trump,42,12,29,1
+Yavapai,RUBY (227),President,,REP,Donald J. Trump,2118,369,1747,2
+Yavapai,SCARLET (228),President,,REP,Donald J. Trump,2010,379,1630,1
+Yavapai,ONYX (229),President,,REP,Donald J. Trump,4113,611,3483,19
+Yavapai,AZURE (230),President,,REP,Donald J. Trump,3516,668,2826,22
+Yavapai,QUAIL (231),President,,REP,Donald J. Trump,266,38,228,0
+Yavapai,GHOST (232),President,,REP,Donald J. Trump,1152,239,906,7
+Yavapai,BRIDGE (233),President,,REP,Donald J. Trump,29,3,26,0
+Yavapai,WATSON (234),President,,REP,Donald J. Trump,5512,423,5081,8
+Yavapai,RANCH (235),President,,REP,Donald J. Trump,3266,390,2876,0
+Yavapai,CAMP (236),President,,REP,Donald J. Trump,446,60,386,0
+Yavapai,BASIN (237),President,,REP,Donald J. Trump,4547,955,3583,9
+Yavapai,GRAZE (238),President,,REP,Donald J. Trump,5725,1217,4490,18
+Yavapai,COYOTE (239),President,,REP,Donald J. Trump,2545,345,2193,7
+Yavapai,CARS (240),President,,REP,Donald J. Trump,638,182,453,3
+Yavapai,STONE (241),President,,REP,Donald J. Trump,429,143,283,3
+Yavapai,WATER (242),President,,REP,Donald J. Trump,3790,346,3437,7
+Yavapai,BURRO (243),President,,REP,Donald J. Trump,5132,705,4413,14
+Yavapai,BISON (244),President,,REP,Donald J. Trump,6217,951,5257,9
+Yavapai,BIGHORN (245),President,,REP,Donald J. Trump,3196,513,2667,16
+Yavapai,EAGLE (201),President,,DEM,Joseph R. Biden,2985,86,2895,4
+Yavapai,COURT (202),President,,DEM,Joseph R. Biden,2764,144,2609,11
+Yavapai,FAIR (203),President,,DEM,Joseph R. Biden,1888,68,1819,1
+Yavapai,GOLF (204),President,,DEM,Joseph R. Biden,2916,104,2811,1
+Yavapai,MINE (205),President,,DEM,Joseph R. Biden,140,48,91,1
+Yavapai,HILL (206),President,,DEM,Joseph R. Biden,2,1,1,0
+Yavapai,MESQUITE (207),President,,DEM,Joseph R. Biden,280,23,256,1
+Yavapai,YARN (208),President,,DEM,Joseph R. Biden,194,22,172,0
+Yavapai,WICK (209),President,,DEM,Joseph R. Biden,270,13,257,0
+Yavapai,WALNUT (210),President,,DEM,Joseph R. Biden,16,0,16,0
+Yavapai,SPRINGS (211),President,,DEM,Joseph R. Biden,13,0,13,0
+Yavapai,PLEASANT (212),President,,DEM,Joseph R. Biden,0,0,0,0
+Yavapai,SKULL (213),President,,DEM,Joseph R. Biden,86,3,83,0
+Yavapai,KIRK (214),President,,DEM,Joseph R. Biden,150,5,144,1
+Yavapai,BUCK (215),President,,DEM,Joseph R. Biden,1286,45,1240,1
+Yavapai,CREEK (216),President,,DEM,Joseph R. Biden,997,56,941,0
+Yavapai,WIND (217),President,,DEM,Joseph R. Biden,41,5,36,0
+Yavapai,WELL (218),President,,DEM,Joseph R. Biden,924,76,843,5
+Yavapai,FORT (219),President,,DEM,Joseph R. Biden,1726,177,1543,6
+Yavapai,RIM (220),President,,DEM,Joseph R. Biden,7,0,7,0
+Yavapai,SALT (221),President,,DEM,Joseph R. Biden,109,8,101,0
+Yavapai,BUG (222),President,,DEM,Joseph R. Biden,811,86,724,1
+Yavapai,SUNSET (223),President,,DEM,Joseph R. Biden,360,42,317,1
+Yavapai,TOWERS (224),President,,DEM,Joseph R. Biden,15,0,15,0
+Yavapai,IRON (225),President,,DEM,Joseph R. Biden,1620,81,1536,3
+Yavapai,SPIRIT (226),President,,DEM,Joseph R. Biden,21,1,20,0
+Yavapai,RUBY (227),President,,DEM,Joseph R. Biden,3423,163,3257,3
+Yavapai,SCARLET (228),President,,DEM,Joseph R. Biden,2789,135,2653,1
+Yavapai,ONYX (229),President,,DEM,Joseph R. Biden,3131,162,2967,2
+Yavapai,AZURE (230),President,,DEM,Joseph R. Biden,2668,190,2471,7
+Yavapai,QUAIL (231),President,,DEM,Joseph R. Biden,114,5,109,0
+Yavapai,GHOST (232),President,,DEM,Joseph R. Biden,1271,112,1157,2
+Yavapai,BRIDGE (233),President,,DEM,Joseph R. Biden,35,1,34,0
+Yavapai,WATSON (234),President,,DEM,Joseph R. Biden,2957,76,2876,5
+Yavapai,RANCH (235),President,,DEM,Joseph R. Biden,1141,27,1114,0
+Yavapai,CAMP (236),President,,DEM,Joseph R. Biden,129,9,119,1
+Yavapai,BASIN (237),President,,DEM,Joseph R. Biden,1243,89,1153,1
+Yavapai,GRAZE (238),President,,DEM,Joseph R. Biden,1592,98,1492,2
+Yavapai,COYOTE (239),President,,DEM,Joseph R. Biden,555,16,538,1
+Yavapai,CARS (240),President,,DEM,Joseph R. Biden,153,23,130,0
+Yavapai,STONE (241),President,,DEM,Joseph R. Biden,125,22,103,0
+Yavapai,WATER (242),President,,DEM,Joseph R. Biden,1839,53,1784,2
+Yavapai,BURRO (243),President,,DEM,Joseph R. Biden,2250,131,2115,4
+Yavapai,BISON (244),President,,DEM,Joseph R. Biden,2994,153,2839,2
+Yavapai,BIGHORN (245),President,,DEM,Joseph R. Biden,1572,106,1464,2
+Yavapai,EAGLE (201),President,,LBT,Jo Jorgensen,121,12,109,0
+Yavapai,COURT (202),President,,LBT,Jo Jorgensen,133,22,111,0
+Yavapai,FAIR (203),President,,LBT,Jo Jorgensen,76,8,67,1
+Yavapai,GOLF (204),President,,LBT,Jo Jorgensen,85,14,71,0
+Yavapai,MINE (205),President,,LBT,Jo Jorgensen,21,6,15,0
+Yavapai,HILL (206),President,,LBT,Jo Jorgensen,0,0,0,0
+Yavapai,MESQUITE (207),President,,LBT,Jo Jorgensen,7,3,4,0
+Yavapai,YARN (208),President,,LBT,Jo Jorgensen,6,1,5,0
+Yavapai,WICK (209),President,,LBT,Jo Jorgensen,9,2,7,0
+Yavapai,WALNUT (210),President,,LBT,Jo Jorgensen,0,0,0,0
+Yavapai,SPRINGS (211),President,,LBT,Jo Jorgensen,1,1,0,0
+Yavapai,PLEASANT (212),President,,LBT,Jo Jorgensen,0,0,0,0
+Yavapai,SKULL (213),President,,LBT,Jo Jorgensen,8,1,7,0
+Yavapai,KIRK (214),President,,LBT,Jo Jorgensen,10,0,10,0
+Yavapai,BUCK (215),President,,LBT,Jo Jorgensen,53,2,51,0
+Yavapai,CREEK (216),President,,LBT,Jo Jorgensen,39,7,32,0
+Yavapai,WIND (217),President,,LBT,Jo Jorgensen,2,0,2,0
+Yavapai,WELL (218),President,,LBT,Jo Jorgensen,43,8,34,1
+Yavapai,FORT (219),President,,LBT,Jo Jorgensen,88,15,73,0
+Yavapai,RIM (220),President,,LBT,Jo Jorgensen,1,0,1,0
+Yavapai,SALT (221),President,,LBT,Jo Jorgensen,2,0,2,0
+Yavapai,BUG (222),President,,LBT,Jo Jorgensen,41,11,30,0
+Yavapai,SUNSET (223),President,,LBT,Jo Jorgensen,26,10,16,0
+Yavapai,TOWERS (224),President,,LBT,Jo Jorgensen,2,0,2,0
+Yavapai,IRON (225),President,,LBT,Jo Jorgensen,67,10,57,0
+Yavapai,SPIRIT (226),President,,LBT,Jo Jorgensen,0,0,0,0
+Yavapai,RUBY (227),President,,LBT,Jo Jorgensen,64,12,51,1
+Yavapai,SCARLET (228),President,,LBT,Jo Jorgensen,58,9,49,0
+Yavapai,ONYX (229),President,,LBT,Jo Jorgensen,111,28,83,0
+Yavapai,AZURE (230),President,,LBT,Jo Jorgensen,111,21,90,0
+Yavapai,QUAIL (231),President,,LBT,Jo Jorgensen,7,0,7,0
+Yavapai,GHOST (232),President,,LBT,Jo Jorgensen,42,6,36,0
+Yavapai,BRIDGE (233),President,,LBT,Jo Jorgensen,1,0,1,0
+Yavapai,WATSON (234),President,,LBT,Jo Jorgensen,136,20,115,1
+Yavapai,RANCH (235),President,,LBT,Jo Jorgensen,53,3,50,0
+Yavapai,CAMP (236),President,,LBT,Jo Jorgensen,5,0,5,0
+Yavapai,BASIN (237),President,,LBT,Jo Jorgensen,102,17,85,0
+Yavapai,GRAZE (238),President,,LBT,Jo Jorgensen,84,17,67,0
+Yavapai,COYOTE (239),President,,LBT,Jo Jorgensen,32,4,28,0
+Yavapai,CARS (240),President,,LBT,Jo Jorgensen,8,1,7,0
+Yavapai,STONE (241),President,,LBT,Jo Jorgensen,11,3,8,0
+Yavapai,WATER (242),President,,LBT,Jo Jorgensen,69,6,62,1
+Yavapai,BURRO (243),President,,LBT,Jo Jorgensen,91,10,81,0
+Yavapai,BISON (244),President,,LBT,Jo Jorgensen,159,19,139,1
+Yavapai,BIGHORN (245),President,,LBT,Jo Jorgensen,107,15,92,0
+Yavapai,EAGLE (201),President,,,Daniel Cummings,0,0,0,0
+Yavapai,COURT (202),President,,,Daniel Cummings,0,0,0,0
+Yavapai,FAIR (203),President,,,Daniel Cummings,0,0,0,0
+Yavapai,GOLF (204),President,,,Daniel Cummings,0,0,0,0
+Yavapai,MINE (205),President,,,Daniel Cummings,0,0,0,0
+Yavapai,HILL (206),President,,,Daniel Cummings,0,0,0,0
+Yavapai,MESQUITE (207),President,,,Daniel Cummings,0,0,0,0
+Yavapai,YARN (208),President,,,Daniel Cummings,0,0,0,0
+Yavapai,WICK (209),President,,,Daniel Cummings,0,0,0,0
+Yavapai,WALNUT (210),President,,,Daniel Cummings,0,0,0,0
+Yavapai,SPRINGS (211),President,,,Daniel Cummings,0,0,0,0
+Yavapai,PLEASANT (212),President,,,Daniel Cummings,0,0,0,0
+Yavapai,SKULL (213),President,,,Daniel Cummings,0,0,0,0
+Yavapai,KIRK (214),President,,,Daniel Cummings,0,0,0,0
+Yavapai,BUCK (215),President,,,Daniel Cummings,0,0,0,0
+Yavapai,CREEK (216),President,,,Daniel Cummings,0,0,0,0
+Yavapai,WIND (217),President,,,Daniel Cummings,0,0,0,0
+Yavapai,WELL (218),President,,,Daniel Cummings,0,0,0,0
+Yavapai,FORT (219),President,,,Daniel Cummings,0,0,0,0
+Yavapai,RIM (220),President,,,Daniel Cummings,0,0,0,0
+Yavapai,SALT (221),President,,,Daniel Cummings,0,0,0,0
+Yavapai,BUG (222),President,,,Daniel Cummings,0,0,0,0
+Yavapai,SUNSET (223),President,,,Daniel Cummings,0,0,0,0
+Yavapai,TOWERS (224),President,,,Daniel Cummings,0,0,0,0
+Yavapai,IRON (225),President,,,Daniel Cummings,0,0,0,0
+Yavapai,SPIRIT (226),President,,,Daniel Cummings,0,0,0,0
+Yavapai,RUBY (227),President,,,Daniel Cummings,0,0,0,0
+Yavapai,SCARLET (228),President,,,Daniel Cummings,0,0,0,0
+Yavapai,ONYX (229),President,,,Daniel Cummings,0,0,0,0
+Yavapai,AZURE (230),President,,,Daniel Cummings,0,0,0,0
+Yavapai,QUAIL (231),President,,,Daniel Cummings,0,0,0,0
+Yavapai,GHOST (232),President,,,Daniel Cummings,0,0,0,0
+Yavapai,BRIDGE (233),President,,,Daniel Cummings,0,0,0,0
+Yavapai,WATSON (234),President,,,Daniel Cummings,0,0,0,0
+Yavapai,RANCH (235),President,,,Daniel Cummings,0,0,0,0
+Yavapai,CAMP (236),President,,,Daniel Cummings,0,0,0,0
+Yavapai,BASIN (237),President,,,Daniel Cummings,0,0,0,0
+Yavapai,GRAZE (238),President,,,Daniel Cummings,0,0,0,0
+Yavapai,COYOTE (239),President,,,Daniel Cummings,0,0,0,0
+Yavapai,CARS (240),President,,,Daniel Cummings,0,0,0,0
+Yavapai,STONE (241),President,,,Daniel Cummings,0,0,0,0
+Yavapai,WATER (242),President,,,Daniel Cummings,0,0,0,0
+Yavapai,BURRO (243),President,,,Daniel Cummings,0,0,0,0
+Yavapai,BISON (244),President,,,Daniel Cummings,0,0,0,0
+Yavapai,BIGHORN (245),President,,,Daniel Cummings,0,0,0,0
+Yavapai,EAGLE (201),President,,,Howie Hawkins,4,0,4,0
+Yavapai,COURT (202),President,,,Howie Hawkins,3,0,3,0
+Yavapai,FAIR (203),President,,,Howie Hawkins,3,0,3,0
+Yavapai,GOLF (204),President,,,Howie Hawkins,3,1,2,0
+Yavapai,MINE (205),President,,,Howie Hawkins,0,0,0,0
+Yavapai,HILL (206),President,,,Howie Hawkins,0,0,0,0
+Yavapai,MESQUITE (207),President,,,Howie Hawkins,0,0,0,0
+Yavapai,YARN (208),President,,,Howie Hawkins,0,0,0,0
+Yavapai,WICK (209),President,,,Howie Hawkins,0,0,0,0
+Yavapai,WALNUT (210),President,,,Howie Hawkins,0,0,0,0
+Yavapai,SPRINGS (211),President,,,Howie Hawkins,0,0,0,0
+Yavapai,PLEASANT (212),President,,,Howie Hawkins,0,0,0,0
+Yavapai,SKULL (213),President,,,Howie Hawkins,0,0,0,0
+Yavapai,KIRK (214),President,,,Howie Hawkins,2,1,1,0
+Yavapai,BUCK (215),President,,,Howie Hawkins,3,0,3,0
+Yavapai,CREEK (216),President,,,Howie Hawkins,0,0,0,0
+Yavapai,WIND (217),President,,,Howie Hawkins,0,0,0,0
+Yavapai,WELL (218),President,,,Howie Hawkins,1,0,1,0
+Yavapai,FORT (219),President,,,Howie Hawkins,0,0,0,0
+Yavapai,RIM (220),President,,,Howie Hawkins,0,0,0,0
+Yavapai,SALT (221),President,,,Howie Hawkins,0,0,0,0
+Yavapai,BUG (222),President,,,Howie Hawkins,0,0,0,0
+Yavapai,SUNSET (223),President,,,Howie Hawkins,0,0,0,0
+Yavapai,TOWERS (224),President,,,Howie Hawkins,0,0,0,0
+Yavapai,IRON (225),President,,,Howie Hawkins,1,0,1,0
+Yavapai,SPIRIT (226),President,,,Howie Hawkins,0,0,0,0
+Yavapai,RUBY (227),President,,,Howie Hawkins,3,0,3,0
+Yavapai,SCARLET (228),President,,,Howie Hawkins,4,0,4,0
+Yavapai,ONYX (229),President,,,Howie Hawkins,2,0,2,0
+Yavapai,AZURE (230),President,,,Howie Hawkins,5,0,5,0
+Yavapai,QUAIL (231),President,,,Howie Hawkins,0,0,0,0
+Yavapai,GHOST (232),President,,,Howie Hawkins,0,0,0,0
+Yavapai,BRIDGE (233),President,,,Howie Hawkins,0,0,0,0
+Yavapai,WATSON (234),President,,,Howie Hawkins,0,0,0,0
+Yavapai,RANCH (235),President,,,Howie Hawkins,1,0,1,0
+Yavapai,CAMP (236),President,,,Howie Hawkins,0,0,0,0
+Yavapai,BASIN (237),President,,,Howie Hawkins,0,0,0,0
+Yavapai,GRAZE (238),President,,,Howie Hawkins,2,0,2,0
+Yavapai,COYOTE (239),President,,,Howie Hawkins,0,0,0,0
+Yavapai,CARS (240),President,,,Howie Hawkins,1,0,1,0
+Yavapai,STONE (241),President,,,Howie Hawkins,0,0,0,0
+Yavapai,WATER (242),President,,,Howie Hawkins,1,0,1,0
+Yavapai,BURRO (243),President,,,Howie Hawkins,0,0,0,0
+Yavapai,BISON (244),President,,,Howie Hawkins,3,0,3,0
+Yavapai,BIGHORN (245),President,,,Howie Hawkins,3,0,3,0
+Yavapai,EAGLE (201),President,,,Gloria La Riva,0,0,0,0
+Yavapai,COURT (202),President,,,Gloria La Riva,0,0,0,0
+Yavapai,FAIR (203),President,,,Gloria La Riva,0,0,0,0
+Yavapai,GOLF (204),President,,,Gloria La Riva,1,1,0,0
+Yavapai,MINE (205),President,,,Gloria La Riva,0,0,0,0
+Yavapai,HILL (206),President,,,Gloria La Riva,0,0,0,0
+Yavapai,MESQUITE (207),President,,,Gloria La Riva,0,0,0,0
+Yavapai,YARN (208),President,,,Gloria La Riva,0,0,0,0
+Yavapai,WICK (209),President,,,Gloria La Riva,0,0,0,0
+Yavapai,WALNUT (210),President,,,Gloria La Riva,0,0,0,0
+Yavapai,SPRINGS (211),President,,,Gloria La Riva,0,0,0,0
+Yavapai,PLEASANT (212),President,,,Gloria La Riva,0,0,0,0
+Yavapai,SKULL (213),President,,,Gloria La Riva,0,0,0,0
+Yavapai,KIRK (214),President,,,Gloria La Riva,0,0,0,0
+Yavapai,BUCK (215),President,,,Gloria La Riva,0,0,0,0
+Yavapai,CREEK (216),President,,,Gloria La Riva,0,0,0,0
+Yavapai,WIND (217),President,,,Gloria La Riva,0,0,0,0
+Yavapai,WELL (218),President,,,Gloria La Riva,0,0,0,0
+Yavapai,FORT (219),President,,,Gloria La Riva,0,0,0,0
+Yavapai,RIM (220),President,,,Gloria La Riva,0,0,0,0
+Yavapai,SALT (221),President,,,Gloria La Riva,0,0,0,0
+Yavapai,BUG (222),President,,,Gloria La Riva,0,0,0,0
+Yavapai,SUNSET (223),President,,,Gloria La Riva,0,0,0,0
+Yavapai,TOWERS (224),President,,,Gloria La Riva,0,0,0,0
+Yavapai,IRON (225),President,,,Gloria La Riva,0,0,0,0
+Yavapai,SPIRIT (226),President,,,Gloria La Riva,0,0,0,0
+Yavapai,RUBY (227),President,,,Gloria La Riva,0,0,0,0
+Yavapai,SCARLET (228),President,,,Gloria La Riva,0,0,0,0
+Yavapai,ONYX (229),President,,,Gloria La Riva,0,0,0,0
+Yavapai,AZURE (230),President,,,Gloria La Riva,0,0,0,0
+Yavapai,QUAIL (231),President,,,Gloria La Riva,0,0,0,0
+Yavapai,GHOST (232),President,,,Gloria La Riva,0,0,0,0
+Yavapai,BRIDGE (233),President,,,Gloria La Riva,0,0,0,0
+Yavapai,WATSON (234),President,,,Gloria La Riva,0,0,0,0
+Yavapai,RANCH (235),President,,,Gloria La Riva,0,0,0,0
+Yavapai,CAMP (236),President,,,Gloria La Riva,0,0,0,0
+Yavapai,BASIN (237),President,,,Gloria La Riva,0,0,0,0
+Yavapai,GRAZE (238),President,,,Gloria La Riva,0,0,0,0
+Yavapai,COYOTE (239),President,,,Gloria La Riva,0,0,0,0
+Yavapai,CARS (240),President,,,Gloria La Riva,0,0,0,0
+Yavapai,STONE (241),President,,,Gloria La Riva,0,0,0,0
+Yavapai,WATER (242),President,,,Gloria La Riva,0,0,0,0
+Yavapai,BURRO (243),President,,,Gloria La Riva,0,0,0,0
+Yavapai,BISON (244),President,,,Gloria La Riva,0,0,0,0
+Yavapai,BIGHORN (245),President,,,Gloria La Riva,0,0,0,0
+Yavapai,EAGLE (201),President,,,President R. Boddie,0,0,0,0
+Yavapai,COURT (202),President,,,President R. Boddie,0,0,0,0
+Yavapai,FAIR (203),President,,,President R. Boddie,0,0,0,0
+Yavapai,GOLF (204),President,,,President R. Boddie,0,0,0,0
+Yavapai,MINE (205),President,,,President R. Boddie,0,0,0,0
+Yavapai,HILL (206),President,,,President R. Boddie,0,0,0,0
+Yavapai,MESQUITE (207),President,,,President R. Boddie,0,0,0,0
+Yavapai,YARN (208),President,,,President R. Boddie,0,0,0,0
+Yavapai,WICK (209),President,,,President R. Boddie,0,0,0,0
+Yavapai,WALNUT (210),President,,,President R. Boddie,0,0,0,0
+Yavapai,SPRINGS (211),President,,,President R. Boddie,0,0,0,0
+Yavapai,PLEASANT (212),President,,,President R. Boddie,0,0,0,0
+Yavapai,SKULL (213),President,,,President R. Boddie,0,0,0,0
+Yavapai,KIRK (214),President,,,President R. Boddie,0,0,0,0
+Yavapai,BUCK (215),President,,,President R. Boddie,0,0,0,0
+Yavapai,CREEK (216),President,,,President R. Boddie,0,0,0,0
+Yavapai,WIND (217),President,,,President R. Boddie,0,0,0,0
+Yavapai,WELL (218),President,,,President R. Boddie,0,0,0,0
+Yavapai,FORT (219),President,,,President R. Boddie,0,0,0,0
+Yavapai,RIM (220),President,,,President R. Boddie,0,0,0,0
+Yavapai,SALT (221),President,,,President R. Boddie,0,0,0,0
+Yavapai,BUG (222),President,,,President R. Boddie,0,0,0,0
+Yavapai,SUNSET (223),President,,,President R. Boddie,0,0,0,0
+Yavapai,TOWERS (224),President,,,President R. Boddie,0,0,0,0
+Yavapai,IRON (225),President,,,President R. Boddie,0,0,0,0
+Yavapai,SPIRIT (226),President,,,President R. Boddie,0,0,0,0
+Yavapai,RUBY (227),President,,,President R. Boddie,0,0,0,0
+Yavapai,SCARLET (228),President,,,President R. Boddie,0,0,0,0
+Yavapai,ONYX (229),President,,,President R. Boddie,0,0,0,0
+Yavapai,AZURE (230),President,,,President R. Boddie,0,0,0,0
+Yavapai,QUAIL (231),President,,,President R. Boddie,0,0,0,0
+Yavapai,GHOST (232),President,,,President R. Boddie,0,0,0,0
+Yavapai,BRIDGE (233),President,,,President R. Boddie,0,0,0,0
+Yavapai,WATSON (234),President,,,President R. Boddie,0,0,0,0
+Yavapai,RANCH (235),President,,,President R. Boddie,0,0,0,0
+Yavapai,CAMP (236),President,,,President R. Boddie,0,0,0,0
+Yavapai,BASIN (237),President,,,President R. Boddie,0,0,0,0
+Yavapai,GRAZE (238),President,,,President R. Boddie,0,0,0,0
+Yavapai,COYOTE (239),President,,,President R. Boddie,0,0,0,0
+Yavapai,CARS (240),President,,,President R. Boddie,0,0,0,0
+Yavapai,STONE (241),President,,,President R. Boddie,0,0,0,0
+Yavapai,WATER (242),President,,,President R. Boddie,0,0,0,0
+Yavapai,BURRO (243),President,,,President R. Boddie,0,0,0,0
+Yavapai,BISON (244),President,,,President R. Boddie,0,0,0,0
+Yavapai,BIGHORN (245),President,,,President R. Boddie,0,0,0,0
+Yavapai,EAGLE (201),President,,,Jade Simmons,2,0,2,0
+Yavapai,COURT (202),President,,,Jade Simmons,0,0,0,0
+Yavapai,FAIR (203),President,,,Jade Simmons,0,0,0,0
+Yavapai,GOLF (204),President,,,Jade Simmons,0,0,0,0
+Yavapai,MINE (205),President,,,Jade Simmons,0,0,0,0
+Yavapai,HILL (206),President,,,Jade Simmons,0,0,0,0
+Yavapai,MESQUITE (207),President,,,Jade Simmons,0,0,0,0
+Yavapai,YARN (208),President,,,Jade Simmons,0,0,0,0
+Yavapai,WICK (209),President,,,Jade Simmons,0,0,0,0
+Yavapai,WALNUT (210),President,,,Jade Simmons,0,0,0,0
+Yavapai,SPRINGS (211),President,,,Jade Simmons,0,0,0,0
+Yavapai,PLEASANT (212),President,,,Jade Simmons,0,0,0,0
+Yavapai,SKULL (213),President,,,Jade Simmons,0,0,0,0
+Yavapai,KIRK (214),President,,,Jade Simmons,0,0,0,0
+Yavapai,BUCK (215),President,,,Jade Simmons,0,0,0,0
+Yavapai,CREEK (216),President,,,Jade Simmons,1,0,1,0
+Yavapai,WIND (217),President,,,Jade Simmons,0,0,0,0
+Yavapai,WELL (218),President,,,Jade Simmons,0,0,0,0
+Yavapai,FORT (219),President,,,Jade Simmons,0,0,0,0
+Yavapai,RIM (220),President,,,Jade Simmons,0,0,0,0
+Yavapai,SALT (221),President,,,Jade Simmons,0,0,0,0
+Yavapai,BUG (222),President,,,Jade Simmons,0,0,0,0
+Yavapai,SUNSET (223),President,,,Jade Simmons,0,0,0,0
+Yavapai,TOWERS (224),President,,,Jade Simmons,0,0,0,0
+Yavapai,IRON (225),President,,,Jade Simmons,0,0,0,0
+Yavapai,SPIRIT (226),President,,,Jade Simmons,0,0,0,0
+Yavapai,RUBY (227),President,,,Jade Simmons,0,0,0,0
+Yavapai,SCARLET (228),President,,,Jade Simmons,0,0,0,0
+Yavapai,ONYX (229),President,,,Jade Simmons,0,0,0,0
+Yavapai,AZURE (230),President,,,Jade Simmons,1,0,1,0
+Yavapai,QUAIL (231),President,,,Jade Simmons,0,0,0,0
+Yavapai,GHOST (232),President,,,Jade Simmons,0,0,0,0
+Yavapai,BRIDGE (233),President,,,Jade Simmons,0,0,0,0
+Yavapai,WATSON (234),President,,,Jade Simmons,3,0,3,0
+Yavapai,RANCH (235),President,,,Jade Simmons,2,0,2,0
+Yavapai,CAMP (236),President,,,Jade Simmons,0,0,0,0
+Yavapai,BASIN (237),President,,,Jade Simmons,1,0,1,0
+Yavapai,GRAZE (238),President,,,Jade Simmons,0,0,0,0
+Yavapai,COYOTE (239),President,,,Jade Simmons,0,0,0,0
+Yavapai,CARS (240),President,,,Jade Simmons,0,0,0,0
+Yavapai,STONE (241),President,,,Jade Simmons,0,0,0,0
+Yavapai,WATER (242),President,,,Jade Simmons,0,0,0,0
+Yavapai,BURRO (243),President,,,Jade Simmons,0,0,0,0
+Yavapai,BISON (244),President,,,Jade Simmons,3,0,3,0
+Yavapai,BIGHORN (245),President,,,Jade Simmons,0,0,0,0
+Yavapai,EAGLE (201),President,,,Write-ins,22,2,19,1
+Yavapai,COURT (202),President,,,Write-ins,18,4,14,0
+Yavapai,FAIR (203),President,,,Write-ins,17,3,14,0
+Yavapai,GOLF (204),President,,,Write-ins,22,3,19,0
+Yavapai,MINE (205),President,,,Write-ins,4,2,2,0
+Yavapai,HILL (206),President,,,Write-ins,1,0,1,0
+Yavapai,MESQUITE (207),President,,,Write-ins,4,1,3,0
+Yavapai,YARN (208),President,,,Write-ins,2,0,2,0
+Yavapai,WICK (209),President,,,Write-ins,2,1,1,0
+Yavapai,WALNUT (210),President,,,Write-ins,0,0,0,0
+Yavapai,SPRINGS (211),President,,,Write-ins,0,0,0,0
+Yavapai,PLEASANT (212),President,,,Write-ins,0,0,0,0
+Yavapai,SKULL (213),President,,,Write-ins,0,0,0,0
+Yavapai,KIRK (214),President,,,Write-ins,0,0,0,0
+Yavapai,BUCK (215),President,,,Write-ins,11,0,11,0
+Yavapai,CREEK (216),President,,,Write-ins,9,0,9,0
+Yavapai,WIND (217),President,,,Write-ins,0,0,0,0
+Yavapai,WELL (218),President,,,Write-ins,5,2,3,0
+Yavapai,FORT (219),President,,,Write-ins,13,0,13,0
+Yavapai,RIM (220),President,,,Write-ins,0,0,0,0
+Yavapai,SALT (221),President,,,Write-ins,2,0,2,0
+Yavapai,BUG (222),President,,,Write-ins,6,3,3,0
+Yavapai,SUNSET (223),President,,,Write-ins,2,0,2,0
+Yavapai,TOWERS (224),President,,,Write-ins,0,0,0,0
+Yavapai,IRON (225),President,,,Write-ins,4,0,4,0
+Yavapai,SPIRIT (226),President,,,Write-ins,0,0,0,0
+Yavapai,RUBY (227),President,,,Write-ins,16,4,12,0
+Yavapai,SCARLET (228),President,,,Write-ins,15,4,11,0
+Yavapai,ONYX (229),President,,,Write-ins,22,3,19,0
+Yavapai,AZURE (230),President,,,Write-ins,17,2,15,0
+Yavapai,QUAIL (231),President,,,Write-ins,1,1,0,0
+Yavapai,GHOST (232),President,,,Write-ins,11,3,8,0
+Yavapai,BRIDGE (233),President,,,Write-ins,1,0,1,0
+Yavapai,WATSON (234),President,,,Write-ins,23,3,20,0
+Yavapai,RANCH (235),President,,,Write-ins,3,1,2,0
+Yavapai,CAMP (236),President,,,Write-ins,0,0,0,0
+Yavapai,BASIN (237),President,,,Write-ins,10,3,7,0
+Yavapai,GRAZE (238),President,,,Write-ins,15,2,13,0
+Yavapai,COYOTE (239),President,,,Write-ins,10,1,8,1
+Yavapai,CARS (240),President,,,Write-ins,4,0,4,0
+Yavapai,STONE (241),President,,,Write-ins,0,0,0,0
+Yavapai,WATER (242),President,,,Write-ins,14,2,12,0
+Yavapai,BURRO (243),President,,,Write-ins,18,5,13,0
+Yavapai,BISON (244),President,,,Write-ins,25,5,20,0
+Yavapai,BIGHORN (245),President,,,Write-ins,11,1,10,0
+Yavapai,EAGLE (201),U.S. Senate,,REP,Martha McSally,4935,433,4495,7
+Yavapai,COURT (202),U.S. Senate,,REP,Martha McSally,3144,413,2719,12
+Yavapai,FAIR (203),U.S. Senate,,REP,Martha McSally,2514,220,2289,5
+Yavapai,GOLF (204),U.S. Senate,,REP,Martha McSally,3524,341,3174,9
+Yavapai,MINE (205),U.S. Senate,,REP,Martha McSally,657,379,276,2
+Yavapai,HILL (206),U.S. Senate,,REP,Martha McSally,76,20,56,0
+Yavapai,MESQUITE (207),U.S. Senate,,REP,Martha McSally,1030,246,778,6
+Yavapai,YARN (208),U.S. Senate,,REP,Martha McSally,539,133,402,4
+Yavapai,WICK (209),U.S. Senate,,REP,Martha McSally,736,106,630,0
+Yavapai,WALNUT (210),U.S. Senate,,REP,Martha McSally,34,3,31,0
+Yavapai,SPRINGS (211),U.S. Senate,,REP,Martha McSally,21,1,20,0
+Yavapai,PLEASANT (212),U.S. Senate,,REP,Martha McSally,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,REP,Martha McSally,258,21,236,1
+Yavapai,KIRK (214),U.S. Senate,,REP,Martha McSally,474,80,394,0
+Yavapai,BUCK (215),U.S. Senate,,REP,Martha McSally,2928,288,2633,7
+Yavapai,CREEK (216),U.S. Senate,,REP,Martha McSally,1357,281,1067,9
+Yavapai,WIND (217),U.S. Senate,,REP,Martha McSally,69,12,57,0
+Yavapai,WELL (218),U.S. Senate,,REP,Martha McSally,1597,416,1173,8
+Yavapai,FORT (219),U.S. Senate,,REP,Martha McSally,4067,868,3175,24
+Yavapai,RIM (220),U.S. Senate,,REP,Martha McSally,24,7,17,0
+Yavapai,SALT (221),U.S. Senate,,REP,Martha McSally,266,41,225,0
+Yavapai,BUG (222),U.S. Senate,,REP,Martha McSally,2219,579,1632,8
+Yavapai,SUNSET (223),U.S. Senate,,REP,Martha McSally,1261,436,818,7
+Yavapai,TOWERS (224),U.S. Senate,,REP,Martha McSally,73,5,68,0
+Yavapai,IRON (225),U.S. Senate,,REP,Martha McSally,4509,859,3641,9
+Yavapai,SPIRIT (226),U.S. Senate,,REP,Martha McSally,40,12,27,1
+Yavapai,RUBY (227),U.S. Senate,,REP,Martha McSally,2090,353,1735,2
+Yavapai,SCARLET (228),U.S. Senate,,REP,Martha McSally,2014,373,1640,1
+Yavapai,ONYX (229),U.S. Senate,,REP,Martha McSally,4026,586,3421,19
+Yavapai,AZURE (230),U.S. Senate,,REP,Martha McSally,3414,630,2765,19
+Yavapai,QUAIL (231),U.S. Senate,,REP,Martha McSally,278,42,236,0
+Yavapai,GHOST (232),U.S. Senate,,REP,Martha McSally,1118,226,886,6
+Yavapai,BRIDGE (233),U.S. Senate,,REP,Martha McSally,30,3,27,0
+Yavapai,WATSON (234),U.S. Senate,,REP,Martha McSally,5501,423,5073,5
+Yavapai,RANCH (235),U.S. Senate,,REP,Martha McSally,3291,391,2900,0
+Yavapai,CAMP (236),U.S. Senate,,REP,Martha McSally,445,61,384,0
+Yavapai,BASIN (237),U.S. Senate,,REP,Martha McSally,4418,935,3473,10
+Yavapai,GRAZE (238),U.S. Senate,,REP,Martha McSally,5638,1202,4418,18
+Yavapai,COYOTE (239),U.S. Senate,,REP,Martha McSally,2540,345,2188,7
+Yavapai,CARS (240),U.S. Senate,,REP,Martha McSally,627,176,448,3
+Yavapai,STONE (241),U.S. Senate,,REP,Martha McSally,423,139,281,3
+Yavapai,WATER (242),U.S. Senate,,REP,Martha McSally,3791,342,3442,7
+Yavapai,BURRO (243),U.S. Senate,,REP,Martha McSally,5012,688,4313,11
+Yavapai,BISON (244),U.S. Senate,,REP,Martha McSally,6068,925,5134,9
+Yavapai,BIGHORN (245),U.S. Senate,,REP,Martha McSally,3104,505,2585,14
+Yavapai,EAGLE (201),U.S. Senate,,DEM,Mark Kelly,3058,91,2963,4
+Yavapai,COURT (202),U.S. Senate,,DEM,Mark Kelly,2855,151,2693,11
+Yavapai,FAIR (203),U.S. Senate,,DEM,Mark Kelly,1937,80,1855,2
+Yavapai,GOLF (204),U.S. Senate,,DEM,Mark Kelly,2969,115,2854,0
+Yavapai,MINE (205),U.S. Senate,,DEM,Mark Kelly,156,56,99,1
+Yavapai,HILL (206),U.S. Senate,,DEM,Mark Kelly,3,1,2,0
+Yavapai,MESQUITE (207),U.S. Senate,,DEM,Mark Kelly,289,27,261,1
+Yavapai,YARN (208),U.S. Senate,,DEM,Mark Kelly,216,22,194,0
+Yavapai,WICK (209),U.S. Senate,,DEM,Mark Kelly,271,14,257,0
+Yavapai,WALNUT (210),U.S. Senate,,DEM,Mark Kelly,18,0,18,0
+Yavapai,SPRINGS (211),U.S. Senate,,DEM,Mark Kelly,13,0,13,0
+Yavapai,PLEASANT (212),U.S. Senate,,DEM,Mark Kelly,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,DEM,Mark Kelly,95,5,90,0
+Yavapai,KIRK (214),U.S. Senate,,DEM,Mark Kelly,161,5,155,1
+Yavapai,BUCK (215),U.S. Senate,,DEM,Mark Kelly,1354,48,1305,1
+Yavapai,CREEK (216),U.S. Senate,,DEM,Mark Kelly,1031,68,963,0
+Yavapai,WIND (217),U.S. Senate,,DEM,Mark Kelly,40,5,35,0
+Yavapai,WELL (218),U.S. Senate,,DEM,Mark Kelly,1006,98,903,5
+Yavapai,FORT (219),U.S. Senate,,DEM,Mark Kelly,1844,196,1643,5
+Yavapai,RIM (220),U.S. Senate,,DEM,Mark Kelly,7,0,7,0
+Yavapai,SALT (221),U.S. Senate,,DEM,Mark Kelly,106,7,99,0
+Yavapai,BUG (222),U.S. Senate,,DEM,Mark Kelly,919,111,808,0
+Yavapai,SUNSET (223),U.S. Senate,,DEM,Mark Kelly,390,53,336,1
+Yavapai,TOWERS (224),U.S. Senate,,DEM,Mark Kelly,17,0,17,0
+Yavapai,IRON (225),U.S. Senate,,DEM,Mark Kelly,1746,101,1643,2
+Yavapai,SPIRIT (226),U.S. Senate,,DEM,Mark Kelly,24,1,23,0
+Yavapai,RUBY (227),U.S. Senate,,DEM,Mark Kelly,3488,188,3297,3
+Yavapai,SCARLET (228),U.S. Senate,,DEM,Mark Kelly,2817,145,2671,1
+Yavapai,ONYX (229),U.S. Senate,,DEM,Mark Kelly,3247,196,3050,1
+Yavapai,AZURE (230),U.S. Senate,,DEM,Mark Kelly,2816,226,2580,10
+Yavapai,QUAIL (231),U.S. Senate,,DEM,Mark Kelly,110,2,108,0
+Yavapai,GHOST (232),U.S. Senate,,DEM,Mark Kelly,1325,123,1199,3
+Yavapai,BRIDGE (233),U.S. Senate,,DEM,Mark Kelly,34,1,33,0
+Yavapai,WATSON (234),U.S. Senate,,DEM,Mark Kelly,3053,83,2963,7
+Yavapai,RANCH (235),U.S. Senate,,DEM,Mark Kelly,1166,28,1138,0
+Yavapai,CAMP (236),U.S. Senate,,DEM,Mark Kelly,132,9,122,1
+Yavapai,BASIN (237),U.S. Senate,,DEM,Mark Kelly,1382,118,1263,1
+Yavapai,GRAZE (238),U.S. Senate,,DEM,Mark Kelly,1691,105,1584,2
+Yavapai,COYOTE (239),U.S. Senate,,DEM,Mark Kelly,581,20,559,2
+Yavapai,CARS (240),U.S. Senate,,DEM,Mark Kelly,165,27,138,0
+Yavapai,STONE (241),U.S. Senate,,DEM,Mark Kelly,140,26,114,0
+Yavapai,WATER (242),U.S. Senate,,DEM,Mark Kelly,1898,60,1835,3
+Yavapai,BURRO (243),U.S. Senate,,DEM,Mark Kelly,2383,149,2230,4
+Yavapai,BISON (244),U.S. Senate,,DEM,Mark Kelly,3199,177,3020,2
+Yavapai,BIGHORN (245),U.S. Senate,,DEM,Mark Kelly,1700,121,1575,4
+Yavapai,EAGLE (201),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Edward Davida,1,0,1,0
+Yavapai,AZURE (230),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Edward Davida,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,John Schiess,1,0,1,0
+Yavapai,FORT (219),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,John Schiess,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,John Schiess,2,0,2,0
+Yavapai,EAGLE (201),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Debbie Simmons,1,1,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Debbie Simmons,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,"Patrick ""Pat"" Thomas",0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",1,0,1,0
+Yavapai,FAIR (203),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",2,0,2,0
+Yavapai,QUAIL (231),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,"Mohammed ""Mike Obama"" Arif",0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Adam Chilton,1,0,1,0
+Yavapai,AZURE (230),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Adam Chilton,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Perry Kapadia,1,0,1,0
+Yavapai,RANCH (235),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Perry Kapadia,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Buzz Stewart,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,COURT (202),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Matthew Dorchester,4,0,4,0
+Yavapai,GOLF (204),U.S. Senate,,,Matthew Dorchester,2,1,1,0
+Yavapai,MINE (205),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,HILL (206),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,BUCK (215),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,ONYX (229),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Matthew Dorchester,2,0,2,0
+Yavapai,QUAIL (231),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Matthew Dorchester,2,0,2,0
+Yavapai,RANCH (235),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,CAMP (236),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,BASIN (237),U.S. Senate,,,Matthew Dorchester,2,0,2,0
+Yavapai,GRAZE (238),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,COYOTE (239),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Matthew Dorchester,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Matthew Dorchester,3,0,3,0
+Yavapai,BURRO (243),U.S. Senate,,,Matthew Dorchester,2,0,2,0
+Yavapai,BISON (244),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Matthew Dorchester,1,0,1,0
+Yavapai,EAGLE (201),U.S. Senate,,,Joshua Rodriguez,1,0,1,0
+Yavapai,COURT (202),U.S. Senate,,,Joshua Rodriguez,1,0,1,0
+Yavapai,FAIR (203),U.S. Senate,,,Joshua Rodriguez,2,0,2,0
+Yavapai,GOLF (204),U.S. Senate,,,Joshua Rodriguez,1,1,0,0
+Yavapai,MINE (205),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Joshua Rodriguez,1,0,1,0
+Yavapai,QUAIL (231),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Joshua Rodriguez,1,1,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Joshua Rodriguez,1,1,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Joshua Rodriguez,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Jim Stevens,1,0,1,0
+Yavapai,SCARLET (228),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Jim Stevens,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Nicholas N. Glenn,2,0,2,0
+Yavapai,FAIR (203),U.S. Senate,,,Nicholas N. Glenn,1,0,1,0
+Yavapai,GOLF (204),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Nicholas N. Glenn,1,0,1,0
+Yavapai,AZURE (230),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Nicholas N. Glenn,2,0,2,0
+Yavapai,BISON (244),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Nicholas N. Glenn,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Christopher Beckett,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,"William ""Will"" Decker",1,0,1,0
+Yavapai,BISON (244),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,"William ""Will"" Decker",0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Mathew Haupt,1,0,1,0
+Yavapai,WIND (217),U.S. Senate,,,Mathew Haupt,1,0,1,0
+Yavapai,WELL (218),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Mathew Haupt,1,0,1,0
+Yavapai,TOWERS (224),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Mathew Haupt,1,0,1,0
+Yavapai,AZURE (230),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Mathew Haupt,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Benjamin Rodriguez,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,COURT (202),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,FAIR (203),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,GOLF (204),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,MINE (205),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,HILL (206),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,YARN (208),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,WICK (209),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,WALNUT (210),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,KIRK (214),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,BUCK (215),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,CREEK (216),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,WIND (217),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,FORT (219),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,RIM (220),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,SUNSET (223),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,TOWERS (224),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,SCARLET (228),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,ONYX (229),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,AZURE (230),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,QUAIL (231),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,RANCH (235),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,CAMP (236),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,GRAZE (238),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,COYOTE (239),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,CARS (240),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,STONE (241),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,BURRO (243),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,BISON (244),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Frank Saenz,0,0,0,0
+Yavapai,EAGLE (201),U.S. Senate,,,Write-ins,8,0,8,0
+Yavapai,COURT (202),U.S. Senate,,,Write-ins,9,1,8,0
+Yavapai,FAIR (203),U.S. Senate,,,Write-ins,8,2,6,0
+Yavapai,GOLF (204),U.S. Senate,,,Write-ins,13,1,12,0
+Yavapai,MINE (205),U.S. Senate,,,Write-ins,5,2,3,0
+Yavapai,HILL (206),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,MESQUITE (207),U.S. Senate,,,Write-ins,2,1,1,0
+Yavapai,YARN (208),U.S. Senate,,,Write-ins,2,1,1,0
+Yavapai,WICK (209),U.S. Senate,,,Write-ins,2,1,1,0
+Yavapai,WALNUT (210),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,SPRINGS (211),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,PLEASANT (212),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,SKULL (213),U.S. Senate,,,Write-ins,1,0,1,0
+Yavapai,KIRK (214),U.S. Senate,,,Write-ins,1,0,1,0
+Yavapai,BUCK (215),U.S. Senate,,,Write-ins,3,0,3,0
+Yavapai,CREEK (216),U.S. Senate,,,Write-ins,7,1,6,0
+Yavapai,WIND (217),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,WELL (218),U.S. Senate,,,Write-ins,3,1,1,1
+Yavapai,FORT (219),U.S. Senate,,,Write-ins,18,3,15,0
+Yavapai,RIM (220),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,SALT (221),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,BUG (222),U.S. Senate,,,Write-ins,13,2,11,0
+Yavapai,SUNSET (223),U.S. Senate,,,Write-ins,4,0,4,0
+Yavapai,TOWERS (224),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,IRON (225),U.S. Senate,,,Write-ins,10,2,8,0
+Yavapai,SPIRIT (226),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,RUBY (227),U.S. Senate,,,Write-ins,4,1,3,0
+Yavapai,SCARLET (228),U.S. Senate,,,Write-ins,4,0,4,0
+Yavapai,ONYX (229),U.S. Senate,,,Write-ins,14,3,11,0
+Yavapai,AZURE (230),U.S. Senate,,,Write-ins,15,6,9,0
+Yavapai,QUAIL (231),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,GHOST (232),U.S. Senate,,,Write-ins,6,0,6,0
+Yavapai,BRIDGE (233),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,WATSON (234),U.S. Senate,,,Write-ins,14,2,12,0
+Yavapai,RANCH (235),U.S. Senate,,,Write-ins,2,0,2,0
+Yavapai,CAMP (236),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,BASIN (237),U.S. Senate,,,Write-ins,10,1,9,0
+Yavapai,GRAZE (238),U.S. Senate,,,Write-ins,13,1,12,0
+Yavapai,COYOTE (239),U.S. Senate,,,Write-ins,8,1,7,0
+Yavapai,CARS (240),U.S. Senate,,,Write-ins,5,1,4,0
+Yavapai,STONE (241),U.S. Senate,,,Write-ins,0,0,0,0
+Yavapai,WATER (242),U.S. Senate,,,Write-ins,7,0,7,0
+Yavapai,BURRO (243),U.S. Senate,,,Write-ins,16,1,15,0
+Yavapai,BISON (244),U.S. Senate,,,Write-ins,15,1,14,0
+Yavapai,BIGHORN (245),U.S. Senate,,,Write-ins,14,3,11,0
+Yavapai,WIND (217),U.S. House,1,REP,Tiffany Shedd,67,11,56,0
+Yavapai,WELL (218),U.S. House,1,REP,Tiffany Shedd,1573,408,1158,7
+Yavapai,FORT (219),U.S. House,1,REP,Tiffany Shedd,3909,859,3027,23
+Yavapai,RIM (220),U.S. House,1,REP,Tiffany Shedd,23,7,16,0
+Yavapai,RUBY (227),U.S. House,1,REP,Tiffany Shedd,2050,343,1705,2
+Yavapai,SCARLET (228),U.S. House,1,REP,Tiffany Shedd,1965,359,1605,1
+Yavapai,BRIDGE (233),U.S. House,1,REP,Tiffany Shedd,29,3,26,0
+Yavapai,WIND (217),U.S. House,1,DEM,Tom O'Halleran,40,6,34,0
+Yavapai,WELL (218),U.S. House,1,DEM,Tom O'Halleran,972,92,875,5
+Yavapai,FORT (219),U.S. House,1,DEM,Tom O'Halleran,1898,175,1717,6
+Yavapai,RIM (220),U.S. House,1,DEM,Tom O'Halleran,8,0,8,0
+Yavapai,RUBY (227),U.S. House,1,DEM,Tom O'Halleran,3418,177,3238,3
+Yavapai,SCARLET (228),U.S. House,1,DEM,Tom O'Halleran,2797,145,2652,0
+Yavapai,BRIDGE (233),U.S. House,1,DEM,Tom O'Halleran,35,1,34,0
+Yavapai,WIND (217),U.S. House,1,,Write-ins,1,0,1,0
+Yavapai,WELL (218),U.S. House,1,,Write-ins,2,0,2,0
+Yavapai,FORT (219),U.S. House,1,,Write-ins,8,2,6,0
+Yavapai,RIM (220),U.S. House,1,,Write-ins,0,0,0,0
+Yavapai,RUBY (227),U.S. House,1,,Write-ins,5,1,4,0
+Yavapai,SCARLET (228),U.S. House,1,,Write-ins,3,1,2,0
+Yavapai,BRIDGE (233),U.S. House,1,,Write-ins,0,0,0,0
+Yavapai,EAGLE (201),U.S. House,4,REP,Paul Gosar,5017,419,4591,7
+Yavapai,COURT (202),U.S. House,4,REP,Paul Gosar,3245,408,2823,14
+Yavapai,FAIR (203),U.S. House,4,REP,Paul Gosar,2569,225,2341,3
+Yavapai,GOLF (204),U.S. House,4,REP,Paul Gosar,3625,342,3275,8
+Yavapai,MINE (205),U.S. House,4,REP,Paul Gosar,652,373,277,2
+Yavapai,HILL (206),U.S. House,4,REP,Paul Gosar,75,20,55,0
+Yavapai,MESQUITE (207),U.S. House,4,REP,Paul Gosar,1025,243,776,6
+Yavapai,YARN (208),U.S. House,4,REP,Paul Gosar,549,132,413,4
+Yavapai,WICK (209),U.S. House,4,REP,Paul Gosar,747,103,644,0
+Yavapai,WALNUT (210),U.S. House,4,REP,Paul Gosar,34,2,32,0
+Yavapai,SPRINGS (211),U.S. House,4,REP,Paul Gosar,22,0,22,0
+Yavapai,PLEASANT (212),U.S. House,4,REP,Paul Gosar,0,0,0,0
+Yavapai,SKULL (213),U.S. House,4,REP,Paul Gosar,259,22,236,1
+Yavapai,KIRK (214),U.S. House,4,REP,Paul Gosar,477,79,397,1
+Yavapai,BUCK (215),U.S. House,4,REP,Paul Gosar,2985,282,2696,7
+Yavapai,CREEK (216),U.S. House,4,REP,Paul Gosar,1378,280,1089,9
+Yavapai,SALT (221),U.S. House,4,REP,Paul Gosar,258,38,220,0
+Yavapai,BUG (222),U.S. House,4,REP,Paul Gosar,2276,585,1684,7
+Yavapai,SUNSET (223),U.S. House,4,REP,Paul Gosar,1261,433,822,6
+Yavapai,TOWERS (224),U.S. House,4,REP,Paul Gosar,74,5,69,0
+Yavapai,IRON (225),U.S. House,4,REP,Paul Gosar,4616,849,3758,9
+Yavapai,SPIRIT (226),U.S. House,4,REP,Paul Gosar,40,11,28,1
+Yavapai,ONYX (229),U.S. House,4,REP,Paul Gosar,4197,589,3591,17
+Yavapai,AZURE (230),U.S. House,4,REP,Paul Gosar,3543,641,2886,16
+Yavapai,QUAIL (231),U.S. House,4,REP,Paul Gosar,283,40,243,0
+Yavapai,GHOST (232),U.S. House,4,REP,Paul Gosar,1142,226,912,4
+Yavapai,WATSON (234),U.S. House,4,REP,Paul Gosar,5600,417,5178,5
+Yavapai,RANCH (235),U.S. House,4,REP,Paul Gosar,3325,385,2940,0
+Yavapai,CAMP (236),U.S. House,4,REP,Paul Gosar,454,60,394,0
+Yavapai,BASIN (237),U.S. House,4,REP,Paul Gosar,4508,935,3562,11
+Yavapai,GRAZE (238),U.S. House,4,REP,Paul Gosar,5688,1179,4491,18
+Yavapai,COYOTE (239),U.S. House,4,REP,Paul Gosar,2562,340,2216,6
+Yavapai,CARS (240),U.S. House,4,REP,Paul Gosar,630,178,449,3
+Yavapai,STONE (241),U.S. House,4,REP,Paul Gosar,430,143,284,3
+Yavapai,WATER (242),U.S. House,4,REP,Paul Gosar,3808,334,3467,7
+Yavapai,BURRO (243),U.S. House,4,REP,Paul Gosar,5122,707,4403,12
+Yavapai,BISON (244),U.S. House,4,REP,Paul Gosar,6194,921,5268,5
+Yavapai,BIGHORN (245),U.S. House,4,REP,Paul Gosar,3217,506,2696,15
+Yavapai,EAGLE (201),U.S. House,4,DEM,Delina DiSanto,2813,83,2727,3
+Yavapai,COURT (202),U.S. House,4,DEM,Delina DiSanto,2646,134,2502,10
+Yavapai,FAIR (203),U.S. House,4,DEM,Delina DiSanto,1798,72,1723,3
+Yavapai,GOLF (204),U.S. House,4,DEM,Delina DiSanto,2743,104,2639,0
+Yavapai,MINE (205),U.S. House,4,DEM,Delina DiSanto,147,58,88,1
+Yavapai,HILL (206),U.S. House,4,DEM,Delina DiSanto,2,1,1,0
+Yavapai,MESQUITE (207),U.S. House,4,DEM,Delina DiSanto,272,26,246,0
+Yavapai,YARN (208),U.S. House,4,DEM,Delina DiSanto,195,20,175,0
+Yavapai,WICK (209),U.S. House,4,DEM,Delina DiSanto,238,13,225,0
+Yavapai,WALNUT (210),U.S. House,4,DEM,Delina DiSanto,17,1,16,0
+Yavapai,SPRINGS (211),U.S. House,4,DEM,Delina DiSanto,11,0,11,0
+Yavapai,PLEASANT (212),U.S. House,4,DEM,Delina DiSanto,0,0,0,0
+Yavapai,SKULL (213),U.S. House,4,DEM,Delina DiSanto,85,3,82,0
+Yavapai,KIRK (214),U.S. House,4,DEM,Delina DiSanto,145,5,140,0
+Yavapai,BUCK (215),U.S. House,4,DEM,Delina DiSanto,1216,42,1173,1
+Yavapai,CREEK (216),U.S. House,4,DEM,Delina DiSanto,961,65,896,0
+Yavapai,SALT (221),U.S. House,4,DEM,Delina DiSanto,105,8,97,0
+Yavapai,BUG (222),U.S. House,4,DEM,Delina DiSanto,814,92,722,0
+Yavapai,SUNSET (223),U.S. House,4,DEM,Delina DiSanto,356,44,311,1
+Yavapai,TOWERS (224),U.S. House,4,DEM,Delina DiSanto,15,0,15,0
+Yavapai,IRON (225),U.S. House,4,DEM,Delina DiSanto,1531,93,1436,2
+Yavapai,SPIRIT (226),U.S. House,4,DEM,Delina DiSanto,22,0,22,0
+Yavapai,ONYX (229),U.S. House,4,DEM,Delina DiSanto,2934,171,2761,2
+Yavapai,AZURE (230),U.S. House,4,DEM,Delina DiSanto,2536,191,2336,9
+Yavapai,QUAIL (231),U.S. House,4,DEM,Delina DiSanto,95,3,92,0
+Yavapai,GHOST (232),U.S. House,4,DEM,Delina DiSanto,1241,112,1126,3
+Yavapai,WATSON (234),U.S. House,4,DEM,Delina DiSanto,2807,76,2724,7
+Yavapai,RANCH (235),U.S. House,4,DEM,Delina DiSanto,1046,23,1023,0
+Yavapai,CAMP (236),U.S. House,4,DEM,Delina DiSanto,116,9,106,1
+Yavapai,BASIN (237),U.S. House,4,DEM,Delina DiSanto,1204,93,1111,0
+Yavapai,GRAZE (238),U.S. House,4,DEM,Delina DiSanto,1548,105,1442,1
+Yavapai,COYOTE (239),U.S. House,4,DEM,Delina DiSanto,514,16,495,3
+Yavapai,CARS (240),U.S. House,4,DEM,Delina DiSanto,157,22,135,0
+Yavapai,STONE (241),U.S. House,4,DEM,Delina DiSanto,120,20,100,0
+Yavapai,WATER (242),U.S. House,4,DEM,Delina DiSanto,1749,48,1698,3
+Yavapai,BURRO (243),U.S. House,4,DEM,Delina DiSanto,2134,126,2005,3
+Yavapai,BISON (244),U.S. House,4,DEM,Delina DiSanto,2855,152,2699,4
+Yavapai,BIGHORN (245),U.S. House,4,DEM,Delina DiSanto,1499,108,1389,2
+Yavapai,EAGLE (201),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,COURT (202),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,FAIR (203),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,GOLF (204),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,MINE (205),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,HILL (206),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,MESQUITE (207),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,YARN (208),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,WICK (209),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,WALNUT (210),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,SPRINGS (211),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,PLEASANT (212),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,SKULL (213),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,KIRK (214),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,BUCK (215),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,CREEK (216),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,SALT (221),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,BUG (222),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,SUNSET (223),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,TOWERS (224),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,IRON (225),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,SPIRIT (226),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,ONYX (229),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,AZURE (230),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,QUAIL (231),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,GHOST (232),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,WATSON (234),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,RANCH (235),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,CAMP (236),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,BASIN (237),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,GRAZE (238),U.S. House,4,,Don Overholser,1,0,1,0
+Yavapai,COYOTE (239),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,CARS (240),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,STONE (241),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,WATER (242),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,BURRO (243),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,BISON (244),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,BIGHORN (245),U.S. House,4,,Don Overholser,0,0,0,0
+Yavapai,EAGLE (201),U.S. House,4,,Miko Jones,1,0,1,0
+Yavapai,COURT (202),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,FAIR (203),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,GOLF (204),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,MINE (205),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,HILL (206),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,MESQUITE (207),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,YARN (208),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,WICK (209),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,WALNUT (210),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,SPRINGS (211),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,PLEASANT (212),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,SKULL (213),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,KIRK (214),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,BUCK (215),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,CREEK (216),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,SALT (221),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,BUG (222),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,SUNSET (223),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,TOWERS (224),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,IRON (225),U.S. House,4,,Miko Jones,1,0,1,0
+Yavapai,SPIRIT (226),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,ONYX (229),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,AZURE (230),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,QUAIL (231),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,GHOST (232),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,WATSON (234),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,RANCH (235),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,CAMP (236),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,BASIN (237),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,GRAZE (238),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,COYOTE (239),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,CARS (240),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,STONE (241),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,WATER (242),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,BURRO (243),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,BISON (244),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,BIGHORN (245),U.S. House,4,,Miko Jones,0,0,0,0
+Yavapai,EAGLE (201),U.S. House,4,,Brett Brennan,1,0,1,0
+Yavapai,COURT (202),U.S. House,4,,Brett Brennan,2,0,2,0
+Yavapai,FAIR (203),U.S. House,4,,Brett Brennan,5,0,5,0
+Yavapai,GOLF (204),U.S. House,4,,Brett Brennan,3,1,2,0
+Yavapai,MINE (205),U.S. House,4,,Brett Brennan,1,0,1,0
+Yavapai,HILL (206),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,MESQUITE (207),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,YARN (208),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,WICK (209),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,WALNUT (210),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,SPRINGS (211),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,PLEASANT (212),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,SKULL (213),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,KIRK (214),U.S. House,4,,Brett Brennan,1,0,1,0
+Yavapai,BUCK (215),U.S. House,4,,Brett Brennan,1,0,1,0
+Yavapai,CREEK (216),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,SALT (221),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,BUG (222),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,SUNSET (223),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,TOWERS (224),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,IRON (225),U.S. House,4,,Brett Brennan,2,0,2,0
+Yavapai,SPIRIT (226),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,ONYX (229),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,AZURE (230),U.S. House,4,,Brett Brennan,2,0,2,0
+Yavapai,QUAIL (231),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,GHOST (232),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,WATSON (234),U.S. House,4,,Brett Brennan,1,0,1,0
+Yavapai,RANCH (235),U.S. House,4,,Brett Brennan,1,0,1,0
+Yavapai,CAMP (236),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,BASIN (237),U.S. House,4,,Brett Brennan,2,0,2,0
+Yavapai,GRAZE (238),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,COYOTE (239),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,CARS (240),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,STONE (241),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,WATER (242),U.S. House,4,,Brett Brennan,3,0,3,0
+Yavapai,BURRO (243),U.S. House,4,,Brett Brennan,4,0,4,0
+Yavapai,BISON (244),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,BIGHORN (245),U.S. House,4,,Brett Brennan,0,0,0,0
+Yavapai,EAGLE (201),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,COURT (202),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,FAIR (203),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,GOLF (204),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,MINE (205),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,HILL (206),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,MESQUITE (207),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,YARN (208),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,WICK (209),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,WALNUT (210),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,SPRINGS (211),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,PLEASANT (212),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,SKULL (213),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,KIRK (214),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,BUCK (215),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,CREEK (216),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,SALT (221),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,BUG (222),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,SUNSET (223),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,TOWERS (224),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,IRON (225),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,SPIRIT (226),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,ONYX (229),U.S. House,4,,Ana Perez Gissy,4,0,4,0
+Yavapai,AZURE (230),U.S. House,4,,Ana Perez Gissy,1,0,1,0
+Yavapai,QUAIL (231),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,GHOST (232),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,WATSON (234),U.S. House,4,,Ana Perez Gissy,1,1,0,0
+Yavapai,RANCH (235),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,CAMP (236),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,BASIN (237),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,GRAZE (238),U.S. House,4,,Ana Perez Gissy,1,0,1,0
+Yavapai,COYOTE (239),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,CARS (240),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,STONE (241),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,WATER (242),U.S. House,4,,Ana Perez Gissy,1,0,1,0
+Yavapai,BURRO (243),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,BISON (244),U.S. House,4,,Ana Perez Gissy,0,0,0,0
+Yavapai,BIGHORN (245),U.S. House,4,,Ana Perez Gissy,7,0,7,0
+Yavapai,EAGLE (201),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,COURT (202),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,FAIR (203),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,GOLF (204),U.S. House,4,,Emily Robinson,1,0,1,0
+Yavapai,MINE (205),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,HILL (206),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,MESQUITE (207),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,YARN (208),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,WICK (209),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,WALNUT (210),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,SPRINGS (211),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,PLEASANT (212),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,SKULL (213),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,KIRK (214),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,BUCK (215),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,CREEK (216),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,SALT (221),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,BUG (222),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,SUNSET (223),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,TOWERS (224),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,IRON (225),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,SPIRIT (226),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,ONYX (229),U.S. House,4,,Emily Robinson,1,0,1,0
+Yavapai,AZURE (230),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,QUAIL (231),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,GHOST (232),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,WATSON (234),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,RANCH (235),U.S. House,4,,Emily Robinson,1,0,1,0
+Yavapai,CAMP (236),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,BASIN (237),U.S. House,4,,Emily Robinson,1,1,0,0
+Yavapai,GRAZE (238),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,COYOTE (239),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,CARS (240),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,STONE (241),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,WATER (242),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,BURRO (243),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,BISON (244),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,BIGHORN (245),U.S. House,4,,Emily Robinson,0,0,0,0
+Yavapai,EAGLE (201),U.S. House,4,,Write-ins,8,1,7,0
+Yavapai,COURT (202),U.S. House,4,,Write-ins,5,0,5,0
+Yavapai,FAIR (203),U.S. House,4,,Write-ins,3,1,2,0
+Yavapai,GOLF (204),U.S. House,4,,Write-ins,6,1,5,0
+Yavapai,MINE (205),U.S. House,4,,Write-ins,2,0,2,0
+Yavapai,HILL (206),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,MESQUITE (207),U.S. House,4,,Write-ins,1,0,0,1
+Yavapai,YARN (208),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,WICK (209),U.S. House,4,,Write-ins,3,1,2,0
+Yavapai,WALNUT (210),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,SPRINGS (211),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,PLEASANT (212),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,SKULL (213),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,KIRK (214),U.S. House,4,,Write-ins,1,0,1,0
+Yavapai,BUCK (215),U.S. House,4,,Write-ins,4,0,4,0
+Yavapai,CREEK (216),U.S. House,4,,Write-ins,7,3,4,0
+Yavapai,SALT (221),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,BUG (222),U.S. House,4,,Write-ins,8,2,6,0
+Yavapai,SUNSET (223),U.S. House,4,,Write-ins,2,0,2,0
+Yavapai,TOWERS (224),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,IRON (225),U.S. House,4,,Write-ins,5,1,4,0
+Yavapai,SPIRIT (226),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,ONYX (229),U.S. House,4,,Write-ins,3,2,1,0
+Yavapai,AZURE (230),U.S. House,4,,Write-ins,10,3,7,0
+Yavapai,QUAIL (231),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,GHOST (232),U.S. House,4,,Write-ins,7,4,3,0
+Yavapai,WATSON (234),U.S. House,4,,Write-ins,10,2,8,0
+Yavapai,RANCH (235),U.S. House,4,,Write-ins,3,0,3,0
+Yavapai,CAMP (236),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,BASIN (237),U.S. House,4,,Write-ins,6,3,3,0
+Yavapai,GRAZE (238),U.S. House,4,,Write-ins,6,0,6,0
+Yavapai,COYOTE (239),U.S. House,4,,Write-ins,1,1,0,0
+Yavapai,CARS (240),U.S. House,4,,Write-ins,2,0,2,0
+Yavapai,STONE (241),U.S. House,4,,Write-ins,0,0,0,0
+Yavapai,WATER (242),U.S. House,4,,Write-ins,6,1,5,0
+Yavapai,BURRO (243),U.S. House,4,,Write-ins,7,0,7,0
+Yavapai,BISON (244),U.S. House,4,,Write-ins,9,2,7,0
+Yavapai,BIGHORN (245),U.S. House,4,,Write-ins,10,2,8,0
+Yavapai,EAGLE (201),State Senate,1,REP,Karen Elizabeth Fann,5339,419,4915,5
+Yavapai,COURT (202),State Senate,1,REP,Karen Elizabeth Fann,3485,420,3052,13
+Yavapai,FAIR (203),State Senate,1,REP,Karen Elizabeth Fann,2752,219,2529,4
+Yavapai,GOLF (204),State Senate,1,REP,Karen Elizabeth Fann,3897,335,3556,6
+Yavapai,MINE (205),State Senate,1,REP,Karen Elizabeth Fann,673,384,287,2
+Yavapai,HILL (206),State Senate,1,REP,Karen Elizabeth Fann,75,20,55,0
+Yavapai,MESQUITE (207),State Senate,1,REP,Karen Elizabeth Fann,1038,239,797,2
+Yavapai,YARN (208),State Senate,1,REP,Karen Elizabeth Fann,560,132,424,4
+Yavapai,WICK (209),State Senate,1,REP,Karen Elizabeth Fann,760,107,653,0
+Yavapai,WALNUT (210),State Senate,1,REP,Karen Elizabeth Fann,34,2,32,0
+Yavapai,SPRINGS (211),State Senate,1,REP,Karen Elizabeth Fann,23,0,23,0
+Yavapai,PLEASANT (212),State Senate,1,REP,Karen Elizabeth Fann,0,0,0,0
+Yavapai,SKULL (213),State Senate,1,REP,Karen Elizabeth Fann,259,23,235,1
+Yavapai,KIRK (214),State Senate,1,REP,Karen Elizabeth Fann,485,76,408,1
+Yavapai,BUCK (215),State Senate,1,REP,Karen Elizabeth Fann,3108,280,2822,6
+Yavapai,RIM (220),State Senate,1,REP,Karen Elizabeth Fann,24,7,17,0
+Yavapai,SALT (221),State Senate,1,REP,Karen Elizabeth Fann,262,43,219,0
+Yavapai,BUG (222),State Senate,1,REP,Karen Elizabeth Fann,2286,578,1701,7
+Yavapai,SUNSET (223),State Senate,1,REP,Karen Elizabeth Fann,1270,427,838,5
+Yavapai,TOWERS (224),State Senate,1,REP,Karen Elizabeth Fann,75,5,70,0
+Yavapai,IRON (225),State Senate,1,REP,Karen Elizabeth Fann,4726,843,3876,7
+Yavapai,SPIRIT (226),State Senate,1,REP,Karen Elizabeth Fann,40,12,28,0
+Yavapai,QUAIL (231),State Senate,1,REP,Karen Elizabeth Fann,288,42,246,0
+Yavapai,WATSON (234),State Senate,1,REP,Karen Elizabeth Fann,5988,414,5566,8
+Yavapai,RANCH (235),State Senate,1,REP,Karen Elizabeth Fann,3488,381,3107,0
+Yavapai,CAMP (236),State Senate,1,REP,Karen Elizabeth Fann,464,60,404,0
+Yavapai,BASIN (237),State Senate,1,REP,Karen Elizabeth Fann,4523,903,3609,11
+Yavapai,GRAZE (238),State Senate,1,REP,Karen Elizabeth Fann,5729,1158,4555,16
+Yavapai,COYOTE (239),State Senate,1,REP,Karen Elizabeth Fann,2618,336,2277,5
+Yavapai,CARS (240),State Senate,1,REP,Karen Elizabeth Fann,617,174,440,3
+Yavapai,STONE (241),State Senate,1,REP,Karen Elizabeth Fann,426,141,283,2
+Yavapai,WATER (242),State Senate,1,REP,Karen Elizabeth Fann,3987,339,3641,7
+Yavapai,BURRO (243),State Senate,1,REP,Karen Elizabeth Fann,5317,707,4599,11
+Yavapai,BISON (244),State Senate,1,REP,Karen Elizabeth Fann,6427,904,5517,6
+Yavapai,BIGHORN (245),State Senate,1,REP,Karen Elizabeth Fann,3287,503,2772,12
+Yavapai,EAGLE (201),State Senate,1,DEM,Gilbert Carillo,2369,71,2293,5
+Yavapai,COURT (202),State Senate,1,DEM,Gilbert Carillo,2311,119,2183,9
+Yavapai,FAIR (203),State Senate,1,DEM,Gilbert Carillo,1550,67,1481,2
+Yavapai,GOLF (204),State Senate,1,DEM,Gilbert Carillo,2344,97,2246,1
+Yavapai,MINE (205),State Senate,1,DEM,Gilbert Carillo,128,47,80,1
+Yavapai,HILL (206),State Senate,1,DEM,Gilbert Carillo,2,1,1,0
+Yavapai,MESQUITE (207),State Senate,1,DEM,Gilbert Carillo,252,25,226,1
+Yavapai,YARN (208),State Senate,1,DEM,Gilbert Carillo,176,20,156,0
+Yavapai,WICK (209),State Senate,1,DEM,Gilbert Carillo,222,10,212,0
+Yavapai,WALNUT (210),State Senate,1,DEM,Gilbert Carillo,15,1,14,0
+Yavapai,SPRINGS (211),State Senate,1,DEM,Gilbert Carillo,10,0,10,0
+Yavapai,PLEASANT (212),State Senate,1,DEM,Gilbert Carillo,0,0,0,0
+Yavapai,SKULL (213),State Senate,1,DEM,Gilbert Carillo,75,3,72,0
+Yavapai,KIRK (214),State Senate,1,DEM,Gilbert Carillo,128,6,122,0
+Yavapai,BUCK (215),State Senate,1,DEM,Gilbert Carillo,1040,43,995,2
+Yavapai,RIM (220),State Senate,1,DEM,Gilbert Carillo,5,0,5,0
+Yavapai,SALT (221),State Senate,1,DEM,Gilbert Carillo,93,5,88,0
+Yavapai,BUG (222),State Senate,1,DEM,Gilbert Carillo,778,99,679,0
+Yavapai,SUNSET (223),State Senate,1,DEM,Gilbert Carillo,325,44,280,1
+Yavapai,TOWERS (224),State Senate,1,DEM,Gilbert Carillo,13,0,13,0
+Yavapai,IRON (225),State Senate,1,DEM,Gilbert Carillo,1372,79,1289,4
+Yavapai,SPIRIT (226),State Senate,1,DEM,Gilbert Carillo,22,0,21,1
+Yavapai,QUAIL (231),State Senate,1,DEM,Gilbert Carillo,84,2,82,0
+Yavapai,WATSON (234),State Senate,1,DEM,Gilbert Carillo,2303,69,2230,4
+Yavapai,RANCH (235),State Senate,1,DEM,Gilbert Carillo,859,21,838,0
+Yavapai,CAMP (236),State Senate,1,DEM,Gilbert Carillo,101,8,92,1
+Yavapai,BASIN (237),State Senate,1,DEM,Gilbert Carillo,1114,114,1000,0
+Yavapai,GRAZE (238),State Senate,1,DEM,Gilbert Carillo,1438,105,1332,1
+Yavapai,COYOTE (239),State Senate,1,DEM,Gilbert Carillo,431,20,407,4
+Yavapai,CARS (240),State Senate,1,DEM,Gilbert Carillo,154,24,130,0
+Yavapai,STONE (241),State Senate,1,DEM,Gilbert Carillo,119,20,98,1
+Yavapai,WATER (242),State Senate,1,DEM,Gilbert Carillo,1515,45,1467,3
+Yavapai,BURRO (243),State Senate,1,DEM,Gilbert Carillo,1856,107,1745,4
+Yavapai,BISON (244),State Senate,1,DEM,Gilbert Carillo,2540,146,2391,3
+Yavapai,BIGHORN (245),State Senate,1,DEM,Gilbert Carillo,1366,104,1260,2
+Yavapai,EAGLE (201),State Senate,1,,Write-ins,8,1,7,0
+Yavapai,COURT (202),State Senate,1,,Write-ins,8,2,5,1
+Yavapai,FAIR (203),State Senate,1,,Write-ins,9,1,8,0
+Yavapai,GOLF (204),State Senate,1,,Write-ins,5,2,3,0
+Yavapai,MINE (205),State Senate,1,,Write-ins,2,0,2,0
+Yavapai,HILL (206),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,MESQUITE (207),State Senate,1,,Write-ins,1,1,0,0
+Yavapai,YARN (208),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,WICK (209),State Senate,1,,Write-ins,3,1,2,0
+Yavapai,WALNUT (210),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,SPRINGS (211),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,PLEASANT (212),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,SKULL (213),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,KIRK (214),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,BUCK (215),State Senate,1,,Write-ins,3,0,3,0
+Yavapai,RIM (220),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,SALT (221),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,BUG (222),State Senate,1,,Write-ins,5,1,4,0
+Yavapai,SUNSET (223),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,TOWERS (224),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,IRON (225),State Senate,1,,Write-ins,11,0,11,0
+Yavapai,SPIRIT (226),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,QUAIL (231),State Senate,1,,Write-ins,1,0,1,0
+Yavapai,WATSON (234),State Senate,1,,Write-ins,7,3,4,0
+Yavapai,RANCH (235),State Senate,1,,Write-ins,4,1,3,0
+Yavapai,CAMP (236),State Senate,1,,Write-ins,0,0,0,0
+Yavapai,BASIN (237),State Senate,1,,Write-ins,9,3,6,0
+Yavapai,GRAZE (238),State Senate,1,,Write-ins,6,1,5,0
+Yavapai,COYOTE (239),State Senate,1,,Write-ins,5,1,4,0
+Yavapai,CARS (240),State Senate,1,,Write-ins,3,0,3,0
+Yavapai,STONE (241),State Senate,1,,Write-ins,1,0,1,0
+Yavapai,WATER (242),State Senate,1,,Write-ins,7,2,5,0
+Yavapai,BURRO (243),State Senate,1,,Write-ins,6,1,5,0
+Yavapai,BISON (244),State Senate,1,,Write-ins,11,1,10,0
+Yavapai,BIGHORN (245),State Senate,1,,Write-ins,9,2,7,0
+Yavapai,CREEK (216),State Senate,6,REP,Wendy Rogers,1380,284,1087,9
+Yavapai,WIND (217),State Senate,6,REP,Wendy Rogers,68,12,56,0
+Yavapai,WELL (218),State Senate,6,REP,Wendy Rogers,1635,421,1206,8
+Yavapai,FORT (219),State Senate,6,REP,Wendy Rogers,4137,869,3245,23
+Yavapai,RUBY (227),State Senate,6,REP,Wendy Rogers,2101,345,1754,2
+Yavapai,SCARLET (228),State Senate,6,REP,Wendy Rogers,2045,377,1667,1
+Yavapai,ONYX (229),State Senate,6,REP,Wendy Rogers,4150,601,3535,14
+Yavapai,AZURE (230),State Senate,6,REP,Wendy Rogers,3532,652,2863,17
+Yavapai,GHOST (232),State Senate,6,REP,Wendy Rogers,1151,233,912,6
+Yavapai,BRIDGE (233),State Senate,6,REP,Wendy Rogers,29,2,27,0
+Yavapai,CREEK (216),State Senate,6,DEM,Felicia French,969,63,906,0
+Yavapai,WIND (217),State Senate,6,DEM,Felicia French,39,5,34,0
+Yavapai,WELL (218),State Senate,6,DEM,Felicia French,932,89,838,5
+Yavapai,FORT (219),State Senate,6,DEM,Felicia French,1671,164,1500,7
+Yavapai,RUBY (227),State Senate,6,DEM,Felicia French,3382,177,3202,3
+Yavapai,SCARLET (228),State Senate,6,DEM,Felicia French,2712,129,2583,0
+Yavapai,ONYX (229),State Senate,6,DEM,Felicia French,2996,172,2819,5
+Yavapai,AZURE (230),State Senate,6,DEM,Felicia French,2589,191,2388,10
+Yavapai,GHOST (232),State Senate,6,DEM,Felicia French,1263,119,1143,1
+Yavapai,BRIDGE (233),State Senate,6,DEM,Felicia French,36,2,34,0
+Yavapai,CREEK (216),State Senate,6,,Write-ins,4,1,3,0
+Yavapai,WIND (217),State Senate,6,,Write-ins,1,0,1,0
+Yavapai,WELL (218),State Senate,6,,Write-ins,4,1,2,1
+Yavapai,FORT (219),State Senate,6,,Write-ins,6,3,3,0
+Yavapai,RUBY (227),State Senate,6,,Write-ins,1,0,1,0
+Yavapai,SCARLET (228),State Senate,6,,Write-ins,1,0,1,0
+Yavapai,ONYX (229),State Senate,6,,Write-ins,4,2,2,0
+Yavapai,AZURE (230),State Senate,6,,Write-ins,14,2,12,0
+Yavapai,GHOST (232),State Senate,6,,Write-ins,2,0,2,0
+Yavapai,BRIDGE (233),State Senate,6,,Write-ins,0,0,0,0
+Yavapai,EAGLE (201),State House,1,REP,Judy Burges,4435,345,4085,5
+Yavapai,COURT (202),State House,1,REP,Judy Burges,2892,350,2531,11
+Yavapai,FAIR (203),State House,1,REP,Judy Burges,2265,185,2076,4
+Yavapai,GOLF (204),State House,1,REP,Judy Burges,3226,275,2947,4
+Yavapai,MINE (205),State House,1,REP,Judy Burges,637,375,260,2
+Yavapai,HILL (206),State House,1,REP,Judy Burges,69,19,50,0
+Yavapai,MESQUITE (207),State House,1,REP,Judy Burges,959,218,738,3
+Yavapai,YARN (208),State House,1,REP,Judy Burges,516,130,382,4
+Yavapai,WICK (209),State House,1,REP,Judy Burges,716,99,617,0
+Yavapai,WALNUT (210),State House,1,REP,Judy Burges,33,3,30,0
+Yavapai,SPRINGS (211),State House,1,REP,Judy Burges,20,0,20,0
+Yavapai,PLEASANT (212),State House,1,REP,Judy Burges,0,0,0,0
+Yavapai,SKULL (213),State House,1,REP,Judy Burges,241,20,220,1
+Yavapai,KIRK (214),State House,1,REP,Judy Burges,441,67,374,0
+Yavapai,BUCK (215),State House,1,REP,Judy Burges,2632,237,2388,7
+Yavapai,RIM (220),State House,1,REP,Judy Burges,22,7,15,0
+Yavapai,SALT (221),State House,1,REP,Judy Burges,232,35,197,0
+Yavapai,BUG (222),State House,1,REP,Judy Burges,2053,516,1530,7
+Yavapai,SUNSET (223),State House,1,REP,Judy Burges,1152,397,749,6
+Yavapai,TOWERS (224),State House,1,REP,Judy Burges,68,4,64,0
+Yavapai,IRON (225),State House,1,REP,Judy Burges,4200,747,3444,9
+Yavapai,SPIRIT (226),State House,1,REP,Judy Burges,35,12,23,0
+Yavapai,QUAIL (231),State House,1,REP,Judy Burges,262,35,227,0
+Yavapai,WATSON (234),State House,1,REP,Judy Burges,5003,341,4657,5
+Yavapai,RANCH (235),State House,1,REP,Judy Burges,2934,324,2610,0
+Yavapai,CAMP (236),State House,1,REP,Judy Burges,406,54,351,1
+Yavapai,BASIN (237),State House,1,REP,Judy Burges,3974,808,3159,7
+Yavapai,GRAZE (238),State House,1,REP,Judy Burges,4975,977,3985,13
+Yavapai,COYOTE (239),State House,1,REP,Judy Burges,2237,291,1944,2
+Yavapai,CARS (240),State House,1,REP,Judy Burges,582,164,415,3
+Yavapai,STONE (241),State House,1,REP,Judy Burges,388,123,263,2
+Yavapai,WATER (242),State House,1,REP,Judy Burges,3438,290,3142,6
+Yavapai,BURRO (243),State House,1,REP,Judy Burges,4603,619,3976,8
+Yavapai,BISON (244),State House,1,REP,Judy Burges,5537,789,4743,5
+Yavapai,BIGHORN (245),State House,1,REP,Judy Burges,2834,429,2395,10
+Yavapai,EAGLE (201),State House,1,REP,Quang Nguyen,4470,334,4131,5
+Yavapai,COURT (202),State House,1,REP,Quang Nguyen,2784,306,2467,11
+Yavapai,FAIR (203),State House,1,REP,Quang Nguyen,2220,179,2039,2
+Yavapai,GOLF (204),State House,1,REP,Quang Nguyen,3243,269,2969,5
+Yavapai,MINE (205),State House,1,REP,Quang Nguyen,486,265,219,2
+Yavapai,HILL (206),State House,1,REP,Quang Nguyen,57,17,40,0
+Yavapai,MESQUITE (207),State House,1,REP,Quang Nguyen,808,170,635,3
+Yavapai,YARN (208),State House,1,REP,Quang Nguyen,411,104,306,1
+Yavapai,WICK (209),State House,1,REP,Quang Nguyen,601,85,516,0
+Yavapai,WALNUT (210),State House,1,REP,Quang Nguyen,28,2,26,0
+Yavapai,SPRINGS (211),State House,1,REP,Quang Nguyen,17,0,17,0
+Yavapai,PLEASANT (212),State House,1,REP,Quang Nguyen,0,0,0,0
+Yavapai,SKULL (213),State House,1,REP,Quang Nguyen,205,18,187,0
+Yavapai,KIRK (214),State House,1,REP,Quang Nguyen,386,54,331,1
+Yavapai,BUCK (215),State House,1,REP,Quang Nguyen,2575,218,2354,3
+Yavapai,RIM (220),State House,1,REP,Quang Nguyen,19,4,15,0
+Yavapai,SALT (221),State House,1,REP,Quang Nguyen,194,26,168,0
+Yavapai,BUG (222),State House,1,REP,Quang Nguyen,1755,436,1316,3
+Yavapai,SUNSET (223),State House,1,REP,Quang Nguyen,1019,343,673,3
+Yavapai,TOWERS (224),State House,1,REP,Quang Nguyen,57,3,54,0
+Yavapai,IRON (225),State House,1,REP,Quang Nguyen,3783,613,3166,4
+Yavapai,SPIRIT (226),State House,1,REP,Quang Nguyen,32,6,25,1
+Yavapai,QUAIL (231),State House,1,REP,Quang Nguyen,233,32,201,0
+Yavapai,WATSON (234),State House,1,REP,Quang Nguyen,4945,316,4625,4
+Yavapai,RANCH (235),State House,1,REP,Quang Nguyen,2971,309,2662,0
+Yavapai,CAMP (236),State House,1,REP,Quang Nguyen,370,46,324,0
+Yavapai,BASIN (237),State House,1,REP,Quang Nguyen,3695,689,3000,6
+Yavapai,GRAZE (238),State House,1,REP,Quang Nguyen,4685,867,3809,9
+Yavapai,COYOTE (239),State House,1,REP,Quang Nguyen,2169,263,1903,3
+Yavapai,CARS (240),State House,1,REP,Quang Nguyen,451,118,330,3
+Yavapai,STONE (241),State House,1,REP,Quang Nguyen,312,107,204,1
+Yavapai,WATER (242),State House,1,REP,Quang Nguyen,3333,263,3065,5
+Yavapai,BURRO (243),State House,1,REP,Quang Nguyen,4338,537,3792,9
+Yavapai,BISON (244),State House,1,REP,Quang Nguyen,5204,654,4546,4
+Yavapai,BIGHORN (245),State House,1,REP,Quang Nguyen,2643,372,2265,6
+Yavapai,EAGLE (201),State House,1,DEM,Judy Stahl,2933,92,2837,4
+Yavapai,COURT (202),State House,1,DEM,Judy Stahl,2704,155,2538,11
+Yavapai,FAIR (203),State House,1,DEM,Judy Stahl,1870,84,1782,4
+Yavapai,GOLF (204),State House,1,DEM,Judy Stahl,2811,116,2694,1
+Yavapai,MINE (205),State House,1,DEM,Judy Stahl,143,56,87,0
+Yavapai,HILL (206),State House,1,DEM,Judy Stahl,2,0,2,0
+Yavapai,MESQUITE (207),State House,1,DEM,Judy Stahl,278,26,252,0
+Yavapai,YARN (208),State House,1,DEM,Judy Stahl,207,24,183,0
+Yavapai,WICK (209),State House,1,DEM,Judy Stahl,251,16,235,0
+Yavapai,WALNUT (210),State House,1,DEM,Judy Stahl,18,1,17,0
+Yavapai,SPRINGS (211),State House,1,DEM,Judy Stahl,11,0,11,0
+Yavapai,PLEASANT (212),State House,1,DEM,Judy Stahl,0,0,0,0
+Yavapai,SKULL (213),State House,1,DEM,Judy Stahl,85,5,80,0
+Yavapai,KIRK (214),State House,1,DEM,Judy Stahl,159,10,149,0
+Yavapai,BUCK (215),State House,1,DEM,Judy Stahl,1264,43,1220,1
+Yavapai,RIM (220),State House,1,DEM,Judy Stahl,7,0,7,0
+Yavapai,SALT (221),State House,1,DEM,Judy Stahl,113,6,107,0
+Yavapai,BUG (222),State House,1,DEM,Judy Stahl,853,105,748,0
+Yavapai,SUNSET (223),State House,1,DEM,Judy Stahl,383,57,325,1
+Yavapai,TOWERS (224),State House,1,DEM,Judy Stahl,14,0,14,0
+Yavapai,IRON (225),State House,1,DEM,Judy Stahl,1606,95,1508,3
+Yavapai,SPIRIT (226),State House,1,DEM,Judy Stahl,21,0,21,0
+Yavapai,QUAIL (231),State House,1,DEM,Judy Stahl,96,2,94,0
+Yavapai,WATSON (234),State House,1,DEM,Judy Stahl,2925,97,2822,6
+Yavapai,RANCH (235),State House,1,DEM,Judy Stahl,1131,44,1087,0
+Yavapai,CAMP (236),State House,1,DEM,Judy Stahl,121,8,112,1
+Yavapai,BASIN (237),State House,1,DEM,Judy Stahl,1285,114,1170,1
+Yavapai,GRAZE (238),State House,1,DEM,Judy Stahl,1649,123,1525,1
+Yavapai,COYOTE (239),State House,1,DEM,Judy Stahl,563,25,534,4
+Yavapai,CARS (240),State House,1,DEM,Judy Stahl,159,22,137,0
+Yavapai,STONE (241),State House,1,DEM,Judy Stahl,134,25,109,0
+Yavapai,WATER (242),State House,1,DEM,Judy Stahl,1808,59,1746,3
+Yavapai,BURRO (243),State House,1,DEM,Judy Stahl,2240,147,2089,4
+Yavapai,BISON (244),State House,1,DEM,Judy Stahl,2982,182,2799,1
+Yavapai,BIGHORN (245),State House,1,DEM,Judy Stahl,1585,118,1464,3
+Yavapai,EAGLE (201),State House,1,,Write-ins,26,4,22,0
+Yavapai,COURT (202),State House,1,,Write-ins,26,2,24,0
+Yavapai,FAIR (203),State House,1,,Write-ins,15,0,15,0
+Yavapai,GOLF (204),State House,1,,Write-ins,12,4,8,0
+Yavapai,MINE (205),State House,1,,Write-ins,4,2,2,0
+Yavapai,HILL (206),State House,1,,Write-ins,0,0,0,0
+Yavapai,MESQUITE (207),State House,1,,Write-ins,1,0,1,0
+Yavapai,YARN (208),State House,1,,Write-ins,1,0,1,0
+Yavapai,WICK (209),State House,1,,Write-ins,4,2,2,0
+Yavapai,WALNUT (210),State House,1,,Write-ins,0,0,0,0
+Yavapai,SPRINGS (211),State House,1,,Write-ins,0,0,0,0
+Yavapai,PLEASANT (212),State House,1,,Write-ins,0,0,0,0
+Yavapai,SKULL (213),State House,1,,Write-ins,0,0,0,0
+Yavapai,KIRK (214),State House,1,,Write-ins,3,2,1,0
+Yavapai,BUCK (215),State House,1,,Write-ins,12,1,11,0
+Yavapai,RIM (220),State House,1,,Write-ins,0,0,0,0
+Yavapai,SALT (221),State House,1,,Write-ins,1,0,1,0
+Yavapai,BUG (222),State House,1,,Write-ins,15,2,13,0
+Yavapai,SUNSET (223),State House,1,,Write-ins,7,3,4,0
+Yavapai,TOWERS (224),State House,1,,Write-ins,1,0,1,0
+Yavapai,IRON (225),State House,1,,Write-ins,16,2,14,0
+Yavapai,SPIRIT (226),State House,1,,Write-ins,0,0,0,0
+Yavapai,QUAIL (231),State House,1,,Write-ins,0,0,0,0
+Yavapai,WATSON (234),State House,1,,Write-ins,13,2,11,0
+Yavapai,RANCH (235),State House,1,,Write-ins,10,0,10,0
+Yavapai,CAMP (236),State House,1,,Write-ins,1,1,0,0
+Yavapai,BASIN (237),State House,1,,Write-ins,18,2,16,0
+Yavapai,GRAZE (238),State House,1,,Write-ins,17,2,15,0
+Yavapai,COYOTE (239),State House,1,,Write-ins,10,2,8,0
+Yavapai,CARS (240),State House,1,,Write-ins,2,0,2,0
+Yavapai,STONE (241),State House,1,,Write-ins,3,2,1,0
+Yavapai,WATER (242),State House,1,,Write-ins,7,1,6,0
+Yavapai,BURRO (243),State House,1,,Write-ins,19,3,16,0
+Yavapai,BISON (244),State House,1,,Write-ins,24,2,21,1
+Yavapai,BIGHORN (245),State House,1,,Write-ins,28,2,26,0
+Yavapai,CREEK (216),State House,6,REP,Brenda Barton,1146,222,918,6
+Yavapai,WIND (217),State House,6,REP,Brenda Barton,49,5,44,0
+Yavapai,WELL (218),State House,6,REP,Brenda Barton,1334,334,994,6
+Yavapai,FORT (219),State House,6,REP,Brenda Barton,3458,673,2769,16
+Yavapai,RUBY (227),State House,6,REP,Brenda Barton,1851,284,1565,2
+Yavapai,SCARLET (228),State House,6,REP,Brenda Barton,1846,321,1524,1
+Yavapai,ONYX (229),State House,6,REP,Brenda Barton,3551,465,3077,9
+Yavapai,AZURE (230),State House,6,REP,Brenda Barton,2902,493,2398,11
+Yavapai,GHOST (232),State House,6,REP,Brenda Barton,970,181,785,4
+Yavapai,BRIDGE (233),State House,6,REP,Brenda Barton,24,2,22,0
+Yavapai,CREEK (216),State House,6,REP,"Walter ""Walt"" Blackman",1210,236,966,8
+Yavapai,WIND (217),State House,6,REP,"Walter ""Walt"" Blackman",59,8,51,0
+Yavapai,WELL (218),State House,6,REP,"Walter ""Walt"" Blackman",1401,351,1045,5
+Yavapai,FORT (219),State House,6,REP,"Walter ""Walt"" Blackman",3531,732,2782,17
+Yavapai,RUBY (227),State House,6,REP,"Walter ""Walt"" Blackman",1883,291,1591,1
+Yavapai,SCARLET (228),State House,6,REP,"Walter ""Walt"" Blackman",1827,317,1510,0
+Yavapai,ONYX (229),State House,6,REP,"Walter ""Walt"" Blackman",3589,479,3099,11
+Yavapai,AZURE (230),State House,6,REP,"Walter ""Walt"" Blackman",2986,521,2452,13
+Yavapai,GHOST (232),State House,6,REP,"Walter ""Walt"" Blackman",970,191,775,4
+Yavapai,BRIDGE (233),State House,6,REP,"Walter ""Walt"" Blackman",27,3,24,0
+Yavapai,CREEK (216),State House,6,DEM,Coral J. Evans,919,64,855,0
+Yavapai,WIND (217),State House,6,DEM,Coral J. Evans,37,4,33,0
+Yavapai,WELL (218),State House,6,DEM,Coral J. Evans,880,82,792,6
+Yavapai,FORT (219),State House,6,DEM,Coral J. Evans,1588,155,1428,5
+Yavapai,RUBY (227),State House,6,DEM,Coral J. Evans,3212,157,3052,3
+Yavapai,SCARLET (228),State House,6,DEM,Coral J. Evans,2536,118,2418,0
+Yavapai,ONYX (229),State House,6,DEM,Coral J. Evans,2825,171,2649,5
+Yavapai,AZURE (230),State House,6,DEM,Coral J. Evans,2452,180,2266,6
+Yavapai,GHOST (232),State House,6,DEM,Coral J. Evans,1185,111,1073,1
+Yavapai,BRIDGE (233),State House,6,DEM,Coral J. Evans,30,1,29,0
+Yavapai,CREEK (216),State House,6,IND,Art Babbott,697,53,643,1
+Yavapai,WIND (217),State House,6,IND,Art Babbott,26,5,21,0
+Yavapai,WELL (218),State House,6,IND,Art Babbott,686,89,594,3
+Yavapai,FORT (219),State House,6,IND,Art Babbott,1347,138,1202,7
+Yavapai,RUBY (227),State House,6,IND,Art Babbott,1968,114,1852,2
+Yavapai,SCARLET (228),State House,6,IND,Art Babbott,1551,94,1457,0
+Yavapai,ONYX (229),State House,6,IND,Art Babbott,2083,138,1944,1
+Yavapai,AZURE (230),State House,6,IND,Art Babbott,1722,144,1569,9
+Yavapai,GHOST (232),State House,6,IND,Art Babbott,913,89,822,2
+Yavapai,BRIDGE (233),State House,6,IND,Art Babbott,27,1,26,0
+Yavapai,CREEK (216),State House,6,,Write-ins,14,3,11,0
+Yavapai,WIND (217),State House,6,,Write-ins,1,0,1,0
+Yavapai,WELL (218),State House,6,,Write-ins,1,1,0,0
+Yavapai,FORT (219),State House,6,,Write-ins,16,6,10,0
+Yavapai,RUBY (227),State House,6,,Write-ins,7,1,6,0
+Yavapai,SCARLET (228),State House,6,,Write-ins,6,1,5,0
+Yavapai,ONYX (229),State House,6,,Write-ins,14,3,11,0
+Yavapai,AZURE (230),State House,6,,Write-ins,17,4,13,0
+Yavapai,GHOST (232),State House,6,,Write-ins,4,0,4,0
+Yavapai,BRIDGE (233),State House,6,,Write-ins,0,0,0,0
+Yavapai,EAGLE (201),Corporation Commissioner,,REP,Lea Marquez Peterson,4303,332,3967,4
+Yavapai,COURT (202),Corporation Commissioner,,REP,Lea Marquez Peterson,2717,304,2404,9
+Yavapai,FAIR (203),Corporation Commissioner,,REP,Lea Marquez Peterson,2162,168,1991,3
+Yavapai,GOLF (204),Corporation Commissioner,,REP,Lea Marquez Peterson,3111,272,2834,5
+Yavapai,MINE (205),Corporation Commissioner,,REP,Lea Marquez Peterson,543,300,241,2
+Yavapai,HILL (206),Corporation Commissioner,,REP,Lea Marquez Peterson,64,17,47,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,REP,Lea Marquez Peterson,871,184,685,2
+Yavapai,YARN (208),Corporation Commissioner,,REP,Lea Marquez Peterson,457,112,343,2
+Yavapai,WICK (209),Corporation Commissioner,,REP,Lea Marquez Peterson,672,93,579,0
+Yavapai,WALNUT (210),Corporation Commissioner,,REP,Lea Marquez Peterson,29,2,27,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,REP,Lea Marquez Peterson,12,0,12,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,REP,Lea Marquez Peterson,0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,REP,Lea Marquez Peterson,215,18,197,0
+Yavapai,KIRK (214),Corporation Commissioner,,REP,Lea Marquez Peterson,390,54,335,1
+Yavapai,BUCK (215),Corporation Commissioner,,REP,Lea Marquez Peterson,2505,205,2297,3
+Yavapai,CREEK (216),Corporation Commissioner,,REP,Lea Marquez Peterson,1131,214,910,7
+Yavapai,WIND (217),Corporation Commissioner,,REP,Lea Marquez Peterson,57,7,50,0
+Yavapai,WELL (218),Corporation Commissioner,,REP,Lea Marquez Peterson,1363,325,1034,4
+Yavapai,FORT (219),Corporation Commissioner,,REP,Lea Marquez Peterson,3428,667,2743,18
+Yavapai,RIM (220),Corporation Commissioner,,REP,Lea Marquez Peterson,21,4,17,0
+Yavapai,SALT (221),Corporation Commissioner,,REP,Lea Marquez Peterson,213,27,186,0
+Yavapai,BUG (222),Corporation Commissioner,,REP,Lea Marquez Peterson,1794,435,1356,3
+Yavapai,SUNSET (223),Corporation Commissioner,,REP,Lea Marquez Peterson,1043,349,689,5
+Yavapai,TOWERS (224),Corporation Commissioner,,REP,Lea Marquez Peterson,66,4,62,0
+Yavapai,IRON (225),Corporation Commissioner,,REP,Lea Marquez Peterson,3839,645,3189,5
+Yavapai,SPIRIT (226),Corporation Commissioner,,REP,Lea Marquez Peterson,34,11,23,0
+Yavapai,RUBY (227),Corporation Commissioner,,REP,Lea Marquez Peterson,1899,278,1619,2
+Yavapai,SCARLET (228),Corporation Commissioner,,REP,Lea Marquez Peterson,1870,317,1552,1
+Yavapai,ONYX (229),Corporation Commissioner,,REP,Lea Marquez Peterson,3500,454,3036,10
+Yavapai,AZURE (230),Corporation Commissioner,,REP,Lea Marquez Peterson,2880,468,2398,14
+Yavapai,QUAIL (231),Corporation Commissioner,,REP,Lea Marquez Peterson,249,35,214,0
+Yavapai,GHOST (232),Corporation Commissioner,,REP,Lea Marquez Peterson,995,179,811,5
+Yavapai,BRIDGE (233),Corporation Commissioner,,REP,Lea Marquez Peterson,33,2,31,0
+Yavapai,WATSON (234),Corporation Commissioner,,REP,Lea Marquez Peterson,4847,311,4532,4
+Yavapai,RANCH (235),Corporation Commissioner,,REP,Lea Marquez Peterson,2855,291,2564,0
+Yavapai,CAMP (236),Corporation Commissioner,,REP,Lea Marquez Peterson,381,45,335,1
+Yavapai,BASIN (237),Corporation Commissioner,,REP,Lea Marquez Peterson,3693,688,3000,5
+Yavapai,GRAZE (238),Corporation Commissioner,,REP,Lea Marquez Peterson,4687,877,3800,10
+Yavapai,COYOTE (239),Corporation Commissioner,,REP,Lea Marquez Peterson,2216,268,1944,4
+Yavapai,CARS (240),Corporation Commissioner,,REP,Lea Marquez Peterson,500,131,367,2
+Yavapai,STONE (241),Corporation Commissioner,,REP,Lea Marquez Peterson,354,112,240,2
+Yavapai,WATER (242),Corporation Commissioner,,REP,Lea Marquez Peterson,3286,264,3016,6
+Yavapai,BURRO (243),Corporation Commissioner,,REP,Lea Marquez Peterson,4313,571,3734,8
+Yavapai,BISON (244),Corporation Commissioner,,REP,Lea Marquez Peterson,5175,678,4492,5
+Yavapai,BIGHORN (245),Corporation Commissioner,,REP,Lea Marquez Peterson,2617,370,2239,8
+Yavapai,EAGLE (201),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",4375,342,4028,5
+Yavapai,COURT (202),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",2747,325,2411,11
+Yavapai,FAIR (203),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",2210,185,2022,3
+Yavapai,GOLF (204),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",3187,287,2895,5
+Yavapai,MINE (205),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",563,319,242,2
+Yavapai,HILL (206),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",64,16,48,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",909,195,712,2
+Yavapai,YARN (208),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",477,122,352,3
+Yavapai,WICK (209),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",683,97,586,0
+Yavapai,WALNUT (210),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",33,2,31,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",20,0,20,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",229,20,208,1
+Yavapai,KIRK (214),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",429,64,365,0
+Yavapai,BUCK (215),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",2648,230,2412,6
+Yavapai,CREEK (216),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",1174,229,937,8
+Yavapai,WIND (217),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",60,9,51,0
+Yavapai,WELL (218),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",1425,371,1048,6
+Yavapai,FORT (219),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",3592,736,2838,18
+Yavapai,RIM (220),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",22,6,16,0
+Yavapai,SALT (221),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",235,33,202,0
+Yavapai,BUG (222),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",1947,497,1445,5
+Yavapai,SUNSET (223),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",1117,373,741,3
+Yavapai,TOWERS (224),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",66,4,62,0
+Yavapai,IRON (225),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",4045,714,3327,4
+Yavapai,SPIRIT (226),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",32,9,23,0
+Yavapai,RUBY (227),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",1854,299,1554,1
+Yavapai,SCARLET (228),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",1866,330,1535,1
+Yavapai,ONYX (229),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",3557,472,3074,11
+Yavapai,AZURE (230),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",2972,521,2436,15
+Yavapai,QUAIL (231),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",248,33,215,0
+Yavapai,GHOST (232),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",971,194,774,3
+Yavapai,BRIDGE (233),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",27,2,25,0
+Yavapai,WATSON (234),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",4911,348,4557,6
+Yavapai,RANCH (235),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",2931,322,2609,0
+Yavapai,CAMP (236),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",394,51,343,0
+Yavapai,BASIN (237),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",3913,780,3127,6
+Yavapai,GRAZE (238),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",4908,974,3925,9
+Yavapai,COYOTE (239),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",2275,291,1979,5
+Yavapai,CARS (240),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",556,151,402,3
+Yavapai,STONE (241),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",357,112,244,1
+Yavapai,WATER (242),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",3387,275,3107,5
+Yavapai,BURRO (243),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",4444,615,3821,8
+Yavapai,BISON (244),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",5356,761,4592,3
+Yavapai,BIGHORN (245),Corporation Commissioner,,REP,"James ""Jim"" O'Connor",2741,423,2309,9
+Yavapai,EAGLE (201),Corporation Commissioner,,REP,Eric Sloan,4121,314,3802,5
+Yavapai,COURT (202),Corporation Commissioner,,REP,Eric Sloan,2613,296,2307,10
+Yavapai,FAIR (203),Corporation Commissioner,,REP,Eric Sloan,2075,163,1909,3
+Yavapai,GOLF (204),Corporation Commissioner,,REP,Eric Sloan,3050,267,2779,4
+Yavapai,MINE (205),Corporation Commissioner,,REP,Eric Sloan,506,282,222,2
+Yavapai,HILL (206),Corporation Commissioner,,REP,Eric Sloan,61,15,46,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,REP,Eric Sloan,853,172,679,2
+Yavapai,YARN (208),Corporation Commissioner,,REP,Eric Sloan,451,115,335,1
+Yavapai,WICK (209),Corporation Commissioner,,REP,Eric Sloan,651,91,560,0
+Yavapai,WALNUT (210),Corporation Commissioner,,REP,Eric Sloan,27,1,26,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,REP,Eric Sloan,15,0,15,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,REP,Eric Sloan,0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,REP,Eric Sloan,214,18,196,0
+Yavapai,KIRK (214),Corporation Commissioner,,REP,Eric Sloan,388,46,342,0
+Yavapai,BUCK (215),Corporation Commissioner,,REP,Eric Sloan,2471,203,2265,3
+Yavapai,CREEK (216),Corporation Commissioner,,REP,Eric Sloan,1065,208,851,6
+Yavapai,WIND (217),Corporation Commissioner,,REP,Eric Sloan,55,5,50,0
+Yavapai,WELL (218),Corporation Commissioner,,REP,Eric Sloan,1288,313,970,5
+Yavapai,FORT (219),Corporation Commissioner,,REP,Eric Sloan,3282,622,2645,15
+Yavapai,RIM (220),Corporation Commissioner,,REP,Eric Sloan,20,5,15,0
+Yavapai,SALT (221),Corporation Commissioner,,REP,Eric Sloan,206,28,178,0
+Yavapai,BUG (222),Corporation Commissioner,,REP,Eric Sloan,1788,436,1349,3
+Yavapai,SUNSET (223),Corporation Commissioner,,REP,Eric Sloan,997,328,666,3
+Yavapai,TOWERS (224),Corporation Commissioner,,REP,Eric Sloan,61,3,58,0
+Yavapai,IRON (225),Corporation Commissioner,,REP,Eric Sloan,3775,599,3169,7
+Yavapai,SPIRIT (226),Corporation Commissioner,,REP,Eric Sloan,26,9,17,0
+Yavapai,RUBY (227),Corporation Commissioner,,REP,Eric Sloan,1763,255,1507,1
+Yavapai,SCARLET (228),Corporation Commissioner,,REP,Eric Sloan,1741,290,1450,1
+Yavapai,ONYX (229),Corporation Commissioner,,REP,Eric Sloan,3314,415,2891,8
+Yavapai,AZURE (230),Corporation Commissioner,,REP,Eric Sloan,2706,423,2272,11
+Yavapai,QUAIL (231),Corporation Commissioner,,REP,Eric Sloan,232,30,202,0
+Yavapai,GHOST (232),Corporation Commissioner,,REP,Eric Sloan,928,170,756,2
+Yavapai,BRIDGE (233),Corporation Commissioner,,REP,Eric Sloan,27,2,25,0
+Yavapai,WATSON (234),Corporation Commissioner,,REP,Eric Sloan,4707,296,4408,3
+Yavapai,RANCH (235),Corporation Commissioner,,REP,Eric Sloan,2798,289,2509,0
+Yavapai,CAMP (236),Corporation Commissioner,,REP,Eric Sloan,366,44,321,1
+Yavapai,BASIN (237),Corporation Commissioner,,REP,Eric Sloan,3622,680,2937,5
+Yavapai,GRAZE (238),Corporation Commissioner,,REP,Eric Sloan,4554,839,3707,8
+Yavapai,COYOTE (239),Corporation Commissioner,,REP,Eric Sloan,2148,258,1887,3
+Yavapai,CARS (240),Corporation Commissioner,,REP,Eric Sloan,505,132,370,3
+Yavapai,STONE (241),Corporation Commissioner,,REP,Eric Sloan,341,105,234,2
+Yavapai,WATER (242),Corporation Commissioner,,REP,Eric Sloan,3212,244,2962,6
+Yavapai,BURRO (243),Corporation Commissioner,,REP,Eric Sloan,4194,555,3631,8
+Yavapai,BISON (244),Corporation Commissioner,,REP,Eric Sloan,4961,635,4322,4
+Yavapai,BIGHORN (245),Corporation Commissioner,,REP,Eric Sloan,2512,359,2146,7
+Yavapai,EAGLE (201),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",2608,67,2539,2
+Yavapai,COURT (202),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",2303,99,2195,9
+Yavapai,FAIR (203),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1649,60,1587,2
+Yavapai,GOLF (204),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",2473,85,2388,0
+Yavapai,MINE (205),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",122,47,75,0
+Yavapai,HILL (206),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",3,0,3,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",250,26,223,1
+Yavapai,YARN (208),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",176,16,160,0
+Yavapai,WICK (209),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",231,13,218,0
+Yavapai,WALNUT (210),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",15,0,15,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",9,0,9,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",81,4,77,0
+Yavapai,KIRK (214),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",130,7,122,1
+Yavapai,BUCK (215),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1109,38,1071,0
+Yavapai,CREEK (216),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",849,59,790,0
+Yavapai,WIND (217),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",33,3,30,0
+Yavapai,WELL (218),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",818,81,734,3
+Yavapai,FORT (219),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1559,128,1426,5
+Yavapai,RIM (220),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",6,0,6,0
+Yavapai,SALT (221),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",89,4,85,0
+Yavapai,BUG (222),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",769,82,687,0
+Yavapai,SUNSET (223),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",358,52,305,1
+Yavapai,TOWERS (224),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",15,0,15,0
+Yavapai,IRON (225),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1387,62,1323,2
+Yavapai,SPIRIT (226),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",17,0,17,0
+Yavapai,RUBY (227),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",3052,137,2912,3
+Yavapai,SCARLET (228),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",2391,103,2288,0
+Yavapai,ONYX (229),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",2635,129,2504,2
+Yavapai,AZURE (230),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",2264,144,2116,4
+Yavapai,QUAIL (231),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",101,3,98,0
+Yavapai,GHOST (232),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1053,83,968,2
+Yavapai,BRIDGE (233),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",28,1,27,0
+Yavapai,WATSON (234),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",2587,65,2518,4
+Yavapai,RANCH (235),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1017,28,989,0
+Yavapai,CAMP (236),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",113,8,105,0
+Yavapai,BASIN (237),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1141,90,1051,0
+Yavapai,GRAZE (238),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1389,89,1300,0
+Yavapai,COYOTE (239),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",457,12,444,1
+Yavapai,CARS (240),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",132,16,116,0
+Yavapai,STONE (241),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",113,23,90,0
+Yavapai,WATER (242),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1626,41,1582,3
+Yavapai,BURRO (243),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1958,100,1855,3
+Yavapai,BISON (244),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",2532,118,2413,1
+Yavapai,BIGHORN (245),Corporation Commissioner,,DEM,"William ""Bill"" Mundell",1337,84,1253,0
+Yavapai,EAGLE (201),Corporation Commissioner,,DEM,Shea Stanfield,2451,57,2391,3
+Yavapai,COURT (202),Corporation Commissioner,,DEM,Shea Stanfield,2224,92,2124,8
+Yavapai,FAIR (203),Corporation Commissioner,,DEM,Shea Stanfield,1564,55,1507,2
+Yavapai,GOLF (204),Corporation Commissioner,,DEM,Shea Stanfield,2340,75,2264,1
+Yavapai,MINE (205),Corporation Commissioner,,DEM,Shea Stanfield,112,42,70,0
+Yavapai,HILL (206),Corporation Commissioner,,DEM,Shea Stanfield,1,0,1,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,DEM,Shea Stanfield,231,19,211,1
+Yavapai,YARN (208),Corporation Commissioner,,DEM,Shea Stanfield,166,17,149,0
+Yavapai,WICK (209),Corporation Commissioner,,DEM,Shea Stanfield,211,10,201,0
+Yavapai,WALNUT (210),Corporation Commissioner,,DEM,Shea Stanfield,15,0,15,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,DEM,Shea Stanfield,10,0,10,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,DEM,Shea Stanfield,0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,DEM,Shea Stanfield,74,3,71,0
+Yavapai,KIRK (214),Corporation Commissioner,,DEM,Shea Stanfield,131,9,122,0
+Yavapai,BUCK (215),Corporation Commissioner,,DEM,Shea Stanfield,1062,35,1025,2
+Yavapai,CREEK (216),Corporation Commissioner,,DEM,Shea Stanfield,799,50,749,0
+Yavapai,WIND (217),Corporation Commissioner,,DEM,Shea Stanfield,29,3,26,0
+Yavapai,WELL (218),Corporation Commissioner,,DEM,Shea Stanfield,772,69,699,4
+Yavapai,FORT (219),Corporation Commissioner,,DEM,Shea Stanfield,1413,118,1292,3
+Yavapai,RIM (220),Corporation Commissioner,,DEM,Shea Stanfield,4,0,4,0
+Yavapai,SALT (221),Corporation Commissioner,,DEM,Shea Stanfield,84,3,81,0
+Yavapai,BUG (222),Corporation Commissioner,,DEM,Shea Stanfield,665,67,598,0
+Yavapai,SUNSET (223),Corporation Commissioner,,DEM,Shea Stanfield,311,36,274,1
+Yavapai,TOWERS (224),Corporation Commissioner,,DEM,Shea Stanfield,9,0,9,0
+Yavapai,IRON (225),Corporation Commissioner,,DEM,Shea Stanfield,1297,61,1234,2
+Yavapai,SPIRIT (226),Corporation Commissioner,,DEM,Shea Stanfield,17,0,17,0
+Yavapai,RUBY (227),Corporation Commissioner,,DEM,Shea Stanfield,2921,126,2792,3
+Yavapai,SCARLET (228),Corporation Commissioner,,DEM,Shea Stanfield,2306,92,2214,0
+Yavapai,ONYX (229),Corporation Commissioner,,DEM,Shea Stanfield,2472,116,2355,1
+Yavapai,AZURE (230),Corporation Commissioner,,DEM,Shea Stanfield,2122,123,1993,6
+Yavapai,QUAIL (231),Corporation Commissioner,,DEM,Shea Stanfield,85,2,83,0
+Yavapai,GHOST (232),Corporation Commissioner,,DEM,Shea Stanfield,1003,78,924,1
+Yavapai,BRIDGE (233),Corporation Commissioner,,DEM,Shea Stanfield,27,0,27,0
+Yavapai,WATSON (234),Corporation Commissioner,,DEM,Shea Stanfield,2414,55,2357,2
+Yavapai,RANCH (235),Corporation Commissioner,,DEM,Shea Stanfield,919,21,898,0
+Yavapai,CAMP (236),Corporation Commissioner,,DEM,Shea Stanfield,106,7,99,0
+Yavapai,BASIN (237),Corporation Commissioner,,DEM,Shea Stanfield,1020,74,946,0
+Yavapai,GRAZE (238),Corporation Commissioner,,DEM,Shea Stanfield,1296,77,1218,1
+Yavapai,COYOTE (239),Corporation Commissioner,,DEM,Shea Stanfield,438,12,425,1
+Yavapai,CARS (240),Corporation Commissioner,,DEM,Shea Stanfield,124,14,109,1
+Yavapai,STONE (241),Corporation Commissioner,,DEM,Shea Stanfield,99,15,84,0
+Yavapai,WATER (242),Corporation Commissioner,,DEM,Shea Stanfield,1540,35,1502,3
+Yavapai,BURRO (243),Corporation Commissioner,,DEM,Shea Stanfield,1830,88,1739,3
+Yavapai,BISON (244),Corporation Commissioner,,DEM,Shea Stanfield,2383,109,2273,1
+Yavapai,BIGHORN (245),Corporation Commissioner,,DEM,Shea Stanfield,1285,79,1204,2
+Yavapai,EAGLE (201),Corporation Commissioner,,DEM,Anna Tovar,2701,76,2622,3
+Yavapai,COURT (202),Corporation Commissioner,,DEM,Anna Tovar,2441,121,2310,10
+Yavapai,FAIR (203),Corporation Commissioner,,DEM,Anna Tovar,1712,57,1652,3
+Yavapai,GOLF (204),Corporation Commissioner,,DEM,Anna Tovar,2539,84,2454,1
+Yavapai,MINE (205),Corporation Commissioner,,DEM,Anna Tovar,120,39,81,0
+Yavapai,HILL (206),Corporation Commissioner,,DEM,Anna Tovar,0,0,0,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,DEM,Anna Tovar,266,25,240,1
+Yavapai,YARN (208),Corporation Commissioner,,DEM,Anna Tovar,192,21,171,0
+Yavapai,WICK (209),Corporation Commissioner,,DEM,Anna Tovar,223,10,213,0
+Yavapai,WALNUT (210),Corporation Commissioner,,DEM,Anna Tovar,16,1,15,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,DEM,Anna Tovar,8,0,8,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,DEM,Anna Tovar,0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,DEM,Anna Tovar,82,4,78,0
+Yavapai,KIRK (214),Corporation Commissioner,,DEM,Anna Tovar,144,8,135,1
+Yavapai,BUCK (215),Corporation Commissioner,,DEM,Anna Tovar,1145,41,1104,0
+Yavapai,CREEK (216),Corporation Commissioner,,DEM,Anna Tovar,884,61,823,0
+Yavapai,WIND (217),Corporation Commissioner,,DEM,Anna Tovar,33,4,29,0
+Yavapai,WELL (218),Corporation Commissioner,,DEM,Anna Tovar,850,81,763,6
+Yavapai,FORT (219),Corporation Commissioner,,DEM,Anna Tovar,1545,126,1417,2
+Yavapai,RIM (220),Corporation Commissioner,,DEM,Anna Tovar,7,0,7,0
+Yavapai,SALT (221),Corporation Commissioner,,DEM,Anna Tovar,95,4,91,0
+Yavapai,BUG (222),Corporation Commissioner,,DEM,Anna Tovar,782,78,704,0
+Yavapai,SUNSET (223),Corporation Commissioner,,DEM,Anna Tovar,357,46,310,1
+Yavapai,TOWERS (224),Corporation Commissioner,,DEM,Anna Tovar,15,0,15,0
+Yavapai,IRON (225),Corporation Commissioner,,DEM,Anna Tovar,1475,79,1393,3
+Yavapai,SPIRIT (226),Corporation Commissioner,,DEM,Anna Tovar,19,0,19,0
+Yavapai,RUBY (227),Corporation Commissioner,,DEM,Anna Tovar,3088,130,2954,4
+Yavapai,SCARLET (228),Corporation Commissioner,,DEM,Anna Tovar,2466,111,2355,0
+Yavapai,ONYX (229),Corporation Commissioner,,DEM,Anna Tovar,2757,144,2612,1
+Yavapai,AZURE (230),Corporation Commissioner,,DEM,Anna Tovar,2352,160,2188,4
+Yavapai,QUAIL (231),Corporation Commissioner,,DEM,Anna Tovar,101,2,99,0
+Yavapai,GHOST (232),Corporation Commissioner,,DEM,Anna Tovar,1103,94,1008,1
+Yavapai,BRIDGE (233),Corporation Commissioner,,DEM,Anna Tovar,28,1,27,0
+Yavapai,WATSON (234),Corporation Commissioner,,DEM,Anna Tovar,2611,76,2532,3
+Yavapai,RANCH (235),Corporation Commissioner,,DEM,Anna Tovar,1014,26,988,0
+Yavapai,CAMP (236),Corporation Commissioner,,DEM,Anna Tovar,124,10,113,1
+Yavapai,BASIN (237),Corporation Commissioner,,DEM,Anna Tovar,1195,103,1092,0
+Yavapai,GRAZE (238),Corporation Commissioner,,DEM,Anna Tovar,1453,102,1351,0
+Yavapai,COYOTE (239),Corporation Commissioner,,DEM,Anna Tovar,501,16,483,2
+Yavapai,CARS (240),Corporation Commissioner,,DEM,Anna Tovar,152,22,130,0
+Yavapai,STONE (241),Corporation Commissioner,,DEM,Anna Tovar,119,22,96,1
+Yavapai,WATER (242),Corporation Commissioner,,DEM,Anna Tovar,1669,49,1617,3
+Yavapai,BURRO (243),Corporation Commissioner,,DEM,Anna Tovar,2019,100,1916,3
+Yavapai,BISON (244),Corporation Commissioner,,DEM,Anna Tovar,2707,136,2567,4
+Yavapai,BIGHORN (245),Corporation Commissioner,,DEM,Anna Tovar,1435,98,1335,2
+Yavapai,EAGLE (201),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,COURT (202),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,FAIR (203),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,GOLF (204),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,MINE (205),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,HILL (206),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,YARN (208),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,WICK (209),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,WALNUT (210),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,KIRK (214),Corporation Commissioner,,,Patrick Finerd,1,0,1,0
+Yavapai,BUCK (215),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,CREEK (216),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,WIND (217),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,WELL (218),Corporation Commissioner,,,Patrick Finerd,1,0,1,0
+Yavapai,FORT (219),Corporation Commissioner,,,Patrick Finerd,4,0,4,0
+Yavapai,RIM (220),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,SALT (221),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,BUG (222),Corporation Commissioner,,,Patrick Finerd,1,0,1,0
+Yavapai,SUNSET (223),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,TOWERS (224),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,IRON (225),Corporation Commissioner,,,Patrick Finerd,2,0,2,0
+Yavapai,SPIRIT (226),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,RUBY (227),Corporation Commissioner,,,Patrick Finerd,1,0,1,0
+Yavapai,SCARLET (228),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,ONYX (229),Corporation Commissioner,,,Patrick Finerd,2,0,2,0
+Yavapai,AZURE (230),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,QUAIL (231),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,GHOST (232),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,BRIDGE (233),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,WATSON (234),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,RANCH (235),Corporation Commissioner,,,Patrick Finerd,1,0,1,0
+Yavapai,CAMP (236),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,BASIN (237),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,GRAZE (238),Corporation Commissioner,,,Patrick Finerd,1,0,1,0
+Yavapai,COYOTE (239),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,CARS (240),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,STONE (241),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,WATER (242),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,BURRO (243),Corporation Commissioner,,,Patrick Finerd,4,0,4,0
+Yavapai,BISON (244),Corporation Commissioner,,,Patrick Finerd,0,0,0,0
+Yavapai,BIGHORN (245),Corporation Commissioner,,,Patrick Finerd,1,0,1,0
+Yavapai,EAGLE (201),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,COURT (202),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,FAIR (203),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,GOLF (204),Corporation Commissioner,,,Christina Gibson,1,0,1,0
+Yavapai,MINE (205),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,HILL (206),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,YARN (208),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,WICK (209),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,WALNUT (210),Corporation Commissioner,,,Christina Gibson,1,1,0,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,KIRK (214),Corporation Commissioner,,,Christina Gibson,2,0,2,0
+Yavapai,BUCK (215),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,CREEK (216),Corporation Commissioner,,,Christina Gibson,1,0,1,0
+Yavapai,WIND (217),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,WELL (218),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,FORT (219),Corporation Commissioner,,,Christina Gibson,3,0,3,0
+Yavapai,RIM (220),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,SALT (221),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,BUG (222),Corporation Commissioner,,,Christina Gibson,1,0,1,0
+Yavapai,SUNSET (223),Corporation Commissioner,,,Christina Gibson,2,0,2,0
+Yavapai,TOWERS (224),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,IRON (225),Corporation Commissioner,,,Christina Gibson,1,0,1,0
+Yavapai,SPIRIT (226),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,RUBY (227),Corporation Commissioner,,,Christina Gibson,2,0,2,0
+Yavapai,SCARLET (228),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,ONYX (229),Corporation Commissioner,,,Christina Gibson,3,0,3,0
+Yavapai,AZURE (230),Corporation Commissioner,,,Christina Gibson,1,0,1,0
+Yavapai,QUAIL (231),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,GHOST (232),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,BRIDGE (233),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,WATSON (234),Corporation Commissioner,,,Christina Gibson,1,0,1,0
+Yavapai,RANCH (235),Corporation Commissioner,,,Christina Gibson,2,0,2,0
+Yavapai,CAMP (236),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,BASIN (237),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,GRAZE (238),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,COYOTE (239),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,CARS (240),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,STONE (241),Corporation Commissioner,,,Christina Gibson,0,0,0,0
+Yavapai,WATER (242),Corporation Commissioner,,,Christina Gibson,1,0,1,0
+Yavapai,BURRO (243),Corporation Commissioner,,,Christina Gibson,2,0,2,0
+Yavapai,BISON (244),Corporation Commissioner,,,Christina Gibson,2,0,2,0
+Yavapai,BIGHORN (245),Corporation Commissioner,,,Christina Gibson,1,0,1,0
+Yavapai,EAGLE (201),Corporation Commissioner,,,Write-ins,8,1,7,0
+Yavapai,COURT (202),Corporation Commissioner,,,Write-ins,10,0,10,0
+Yavapai,FAIR (203),Corporation Commissioner,,,Write-ins,5,0,5,0
+Yavapai,GOLF (204),Corporation Commissioner,,,Write-ins,17,6,11,0
+Yavapai,MINE (205),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,HILL (206),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,MESQUITE (207),Corporation Commissioner,,,Write-ins,1,0,1,0
+Yavapai,YARN (208),Corporation Commissioner,,,Write-ins,3,1,2,0
+Yavapai,WICK (209),Corporation Commissioner,,,Write-ins,4,1,3,0
+Yavapai,WALNUT (210),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,SPRINGS (211),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,PLEASANT (212),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,SKULL (213),Corporation Commissioner,,,Write-ins,2,2,0,0
+Yavapai,KIRK (214),Corporation Commissioner,,,Write-ins,3,2,1,0
+Yavapai,BUCK (215),Corporation Commissioner,,,Write-ins,3,0,3,0
+Yavapai,CREEK (216),Corporation Commissioner,,,Write-ins,14,3,11,0
+Yavapai,WIND (217),Corporation Commissioner,,,Write-ins,1,0,1,0
+Yavapai,WELL (218),Corporation Commissioner,,,Write-ins,2,0,2,0
+Yavapai,FORT (219),Corporation Commissioner,,,Write-ins,13,6,7,0
+Yavapai,RIM (220),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,SALT (221),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,BUG (222),Corporation Commissioner,,,Write-ins,6,0,6,0
+Yavapai,SUNSET (223),Corporation Commissioner,,,Write-ins,1,0,1,0
+Yavapai,TOWERS (224),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,IRON (225),Corporation Commissioner,,,Write-ins,10,1,9,0
+Yavapai,SPIRIT (226),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,RUBY (227),Corporation Commissioner,,,Write-ins,12,3,9,0
+Yavapai,SCARLET (228),Corporation Commissioner,,,Write-ins,3,0,3,0
+Yavapai,ONYX (229),Corporation Commissioner,,,Write-ins,12,5,7,0
+Yavapai,AZURE (230),Corporation Commissioner,,,Write-ins,24,10,14,0
+Yavapai,QUAIL (231),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,GHOST (232),Corporation Commissioner,,,Write-ins,3,0,3,0
+Yavapai,BRIDGE (233),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,WATSON (234),Corporation Commissioner,,,Write-ins,12,4,8,0
+Yavapai,RANCH (235),Corporation Commissioner,,,Write-ins,2,1,1,0
+Yavapai,CAMP (236),Corporation Commissioner,,,Write-ins,1,1,0,0
+Yavapai,BASIN (237),Corporation Commissioner,,,Write-ins,12,2,10,0
+Yavapai,GRAZE (238),Corporation Commissioner,,,Write-ins,17,2,15,0
+Yavapai,COYOTE (239),Corporation Commissioner,,,Write-ins,2,2,0,0
+Yavapai,CARS (240),Corporation Commissioner,,,Write-ins,3,0,3,0
+Yavapai,STONE (241),Corporation Commissioner,,,Write-ins,0,0,0,0
+Yavapai,WATER (242),Corporation Commissioner,,,Write-ins,11,1,10,0
+Yavapai,BURRO (243),Corporation Commissioner,,,Write-ins,10,0,10,0
+Yavapai,BISON (244),Corporation Commissioner,,,Write-ins,24,7,17,0
+Yavapai,BIGHORN (245),Corporation Commissioner,,,Write-ins,23,1,22,0
