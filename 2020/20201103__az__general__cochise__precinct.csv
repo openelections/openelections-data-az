@@ -1,0 +1,1961 @@
+county,precinct,office,district,candidate,party,votes,election_day,early_voting,provisional
+Cochise,01 BE Benson,Registered Voters,,,,1761,,,
+Cochise,01 BE Benson,Ballots Cast,,,,1424,234,1039,151
+Cochise,01 BE Benson,Ballots Cast Blank,,,,0,0,0,0
+Cochise,01 BE Benson,President,,Trump / Pence,REP,958,207,630,121
+Cochise,01 BE Benson,President,,Biden / Harris,DEM,442,24,394,24
+Cochise,01 BE Benson,President,,Jorgensen / Cohen,LBT,16,1,9,6
+Cochise,01 BE Benson,President,,Write-In,,3,1,2,0
+Cochise,01 BE Benson,President,,Overvotes,,0,0,0,0
+Cochise,01 BE Benson,President,,Undervotes,,5,1,4,0
+Cochise,01 BE Benson,U.S. Senate,,"McSally, Martha",REP,936,202,610,124
+Cochise,01 BE Benson,U.S. Senate,,"Kelly, Mark",DEM,467,31,411,25
+Cochise,01 BE Benson,U.S. Senate,,Write-In,,6,1,5,0
+Cochise,01 BE Benson,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,01 BE Benson,U.S. Senate,,Undervotes,,15,0,13,2
+Cochise,01 BE Benson,U.S. House,2,"Martin, Brandon",REP,908,196,593,119
+Cochise,01 BE Benson,U.S. House,2,"Kirkpatrick, Ann",DEM,471,36,404,31
+Cochise,01 BE Benson,U.S. House,2,Write-In,,4,0,4,0
+Cochise,01 BE Benson,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,01 BE Benson,U.S. House,2,Undervotes,,40,2,37,1
+Cochise,01 BE Benson,State Senate,14,"Gowan, David",REP,935,197,613,125
+Cochise,01 BE Benson,State Senate,14,"Karp, Bob",DEM,427,33,371,23
+Cochise,01 BE Benson,State Senate,14,Write-In,,7,1,6,0
+Cochise,01 BE Benson,State Senate,14,Overvotes,,0,0,0,0
+Cochise,01 BE Benson,State Senate,14,Undervotes,,53,3,47,3
+Cochise,01 BE Benson,State House,14,"Griffin, Gail",REP,885,196,575,114
+Cochise,01 BE Benson,State House,14,"Nutt, Becky",REP,854,196,544,114
+Cochise,01 BE Benson,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,404,24,353,27
+Cochise,01 BE Benson,State House,14,"Maestas-Condos, Ronnie",DEM,358,26,309,23
+Cochise,01 BE Benson,State House,14,Write-In,,8,3,5,0
+Cochise,01 BE Benson,State House,14,Overvotes,,0,0,0,0
+Cochise,01 BE Benson,State House,14,Undervotes,,335,23,288,24
+Cochise,01 BE Benson,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,866,196,555,115
+Cochise,01 BE Benson,Corporation Commissioner,,"Marquez Peterson, Lea",REP,859,198,549,112
+Cochise,01 BE Benson,Corporation Commissioner,,"Sloan, Eric",REP,821,191,523,107
+Cochise,01 BE Benson,Corporation Commissioner,,"Tovar, Anna",DEM,405,25,356,24
+Cochise,01 BE Benson,Corporation Commissioner,,"Stanfield, Shea",DEM,372,28,313,31
+Cochise,01 BE Benson,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,357,20,313,24
+Cochise,01 BE Benson,Corporation Commissioner,,Write-In,,9,2,7,0
+Cochise,01 BE Benson,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,01 BE Benson,Corporation Commissioner,,Undervotes,,577,42,495,40
+Cochise,02 BE J-Six,Registered Voters,,,,2096,,,
+Cochise,02 BE J-Six,Ballots Cast,,,,1737,362,1285,90
+Cochise,02 BE J-Six,Ballots Cast Blank,,,,2,0,1,1
+Cochise,02 BE J-Six,President,,Trump / Pence,REP,1239,320,841,78
+Cochise,02 BE J-Six,President,,Biden / Harris,DEM,445,33,404,8
+Cochise,02 BE J-Six,President,,Jorgensen / Cohen,LBT,43,8,33,2
+Cochise,02 BE J-Six,President,,Write-In,,4,0,3,1
+Cochise,02 BE J-Six,President,,Overvotes,,0,0,0,0
+Cochise,02 BE J-Six,President,,Undervotes,,6,1,4,1
+Cochise,02 BE J-Six,U.S. Senate,,"McSally, Martha",REP,1212,313,823,76
+Cochise,02 BE J-Six,U.S. Senate,,"Kelly, Mark",DEM,494,43,440,11
+Cochise,02 BE J-Six,U.S. Senate,,Write-In,,8,2,5,1
+Cochise,02 BE J-Six,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,02 BE J-Six,U.S. Senate,,Undervotes,,23,4,17,2
+Cochise,02 BE J-Six,U.S. House,2,"Martin, Brandon",REP,1224,319,832,73
+Cochise,02 BE J-Six,U.S. House,2,"Kirkpatrick, Ann",DEM,469,40,415,14
+Cochise,02 BE J-Six,U.S. House,2,Write-In,,2,1,1,0
+Cochise,02 BE J-Six,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,02 BE J-Six,U.S. House,2,Undervotes,,42,2,37,3
+Cochise,02 BE J-Six,State Senate,14,"Gowan, David",REP,1247,326,846,75
+Cochise,02 BE J-Six,State Senate,14,"Karp, Bob",DEM,421,32,378,11
+Cochise,02 BE J-Six,State Senate,14,Write-In,,4,1,2,1
+Cochise,02 BE J-Six,State Senate,14,Overvotes,,0,0,0,0
+Cochise,02 BE J-Six,State Senate,14,Undervotes,,63,3,57,3
+Cochise,02 BE J-Six,State House,14,"Nutt, Becky",REP,1166,310,787,69
+Cochise,02 BE J-Six,State House,14,"Griffin, Gail",REP,1143,315,756,72
+Cochise,02 BE J-Six,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,391,36,342,13
+Cochise,02 BE J-Six,State House,14,"Maestas-Condos, Ronnie",DEM,357,32,315,10
+Cochise,02 BE J-Six,State House,14,Write-In,,4,2,2,0
+Cochise,02 BE J-Six,State House,14,Overvotes,,2,0,2,0
+Cochise,02 BE J-Six,State House,14,Undervotes,,407,29,362,16
+Cochise,02 BE J-Six,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1127,315,738,74
+Cochise,02 BE J-Six,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1097,310,721,66
+Cochise,02 BE J-Six,Corporation Commissioner,,"Sloan, Eric",REP,1081,301,712,68
+Cochise,02 BE J-Six,Corporation Commissioner,,"Tovar, Anna",DEM,428,38,379,11
+Cochise,02 BE J-Six,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,398,32,355,11
+Cochise,02 BE J-Six,Corporation Commissioner,,"Stanfield, Shea",DEM,385,34,340,11
+Cochise,02 BE J-Six,Corporation Commissioner,,Write-In,,5,3,2,0
+Cochise,02 BE J-Six,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,02 BE J-Six,Corporation Commissioner,,Undervotes,,684,53,602,29
+Cochise,03 BE San Pedro,Registered Voters,,,,1998,,,
+Cochise,03 BE San Pedro,Ballots Cast,,,,1530,269,1202,59
+Cochise,03 BE San Pedro,Ballots Cast Blank,,,,0,0,0,0
+Cochise,03 BE San Pedro,President,,Trump / Pence,REP,986,235,704,47
+Cochise,03 BE San Pedro,President,,Biden / Harris,DEM,508,31,467,10
+Cochise,03 BE San Pedro,President,,Jorgensen / Cohen,LBT,26,3,21,2
+Cochise,03 BE San Pedro,President,,Write-In,,7,0,7,0
+Cochise,03 BE San Pedro,President,,Overvotes,,0,0,0,0
+Cochise,03 BE San Pedro,President,,Undervotes,,3,0,3,0
+Cochise,03 BE San Pedro,U.S. Senate,,"McSally, Martha",REP,960,230,683,47
+Cochise,03 BE San Pedro,U.S. Senate,,"Kelly, Mark",DEM,533,35,488,10
+Cochise,03 BE San Pedro,U.S. Senate,,Write-In,,5,1,3,1
+Cochise,03 BE San Pedro,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,03 BE San Pedro,U.S. Senate,,Undervotes,,32,3,28,1
+Cochise,03 BE San Pedro,U.S. House,2,"Martin, Brandon",REP,941,222,674,45
+Cochise,03 BE San Pedro,U.S. House,2,"Kirkpatrick, Ann",DEM,523,40,470,13
+Cochise,03 BE San Pedro,U.S. House,2,Write-In,,2,0,2,0
+Cochise,03 BE San Pedro,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,03 BE San Pedro,U.S. House,2,Undervotes,,64,7,56,1
+Cochise,03 BE San Pedro,State Senate,14,"Gowan, David",REP,978,229,702,47
+Cochise,03 BE San Pedro,State Senate,14,"Karp, Bob",DEM,489,33,444,12
+Cochise,03 BE San Pedro,State Senate,14,Write-In,,3,0,3,0
+Cochise,03 BE San Pedro,State Senate,14,Overvotes,,0,0,0,0
+Cochise,03 BE San Pedro,State Senate,14,Undervotes,,60,7,53,0
+Cochise,03 BE San Pedro,State House,14,"Nutt, Becky",REP,933,224,665,44
+Cochise,03 BE San Pedro,State House,14,"Griffin, Gail",REP,912,224,643,45
+Cochise,03 BE San Pedro,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,449,28,408,13
+Cochise,03 BE San Pedro,State House,14,"Maestas-Condos, Ronnie",DEM,420,30,380,10
+Cochise,03 BE San Pedro,State House,14,Write-In,,0,0,0,0
+Cochise,03 BE San Pedro,State House,14,Overvotes,,0,0,0,0
+Cochise,03 BE San Pedro,State House,14,Undervotes,,346,32,308,6
+Cochise,03 BE San Pedro,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,898,221,633,44
+Cochise,03 BE San Pedro,Corporation Commissioner,,"Marquez Peterson, Lea",REP,895,219,631,45
+Cochise,03 BE San Pedro,Corporation Commissioner,,"Sloan, Eric",REP,890,214,635,41
+Cochise,03 BE San Pedro,Corporation Commissioner,,"Tovar, Anna",DEM,468,37,422,9
+Cochise,03 BE San Pedro,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,445,35,400,10
+Cochise,03 BE San Pedro,Corporation Commissioner,,"Stanfield, Shea",DEM,404,29,367,8
+Cochise,03 BE San Pedro,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,03 BE San Pedro,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,03 BE San Pedro,Corporation Commissioner,,Undervotes,,587,52,515,20
+Cochise,04 BI Bisbee,Registered Voters,,,,1387,,,
+Cochise,04 BI Bisbee,Ballots Cast,,,,1165,60,1085,20
+Cochise,04 BI Bisbee,Ballots Cast Blank,,,,44,0,44,0
+Cochise,04 BI Bisbee,President,,Biden / Harris,DEM,908,36,865,7
+Cochise,04 BI Bisbee,President,,Trump / Pence,REP,223,22,188,13
+Cochise,04 BI Bisbee,President,,Jorgensen / Cohen,LBT,14,2,12,0
+Cochise,04 BI Bisbee,President,,Write-In,,5,0,5,0
+Cochise,04 BI Bisbee,President,,Overvotes,,0,0,0,0
+Cochise,04 BI Bisbee,President,,Undervotes,,15,0,15,0
+Cochise,04 BI Bisbee,U.S. Senate,,"Kelly, Mark",DEM,923,35,879,9
+Cochise,04 BI Bisbee,U.S. Senate,,"McSally, Martha",REP,221,24,187,10
+Cochise,04 BI Bisbee,U.S. Senate,,Write-In,,1,0,0,1
+Cochise,04 BI Bisbee,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,04 BI Bisbee,U.S. Senate,,Undervotes,,20,1,19,0
+Cochise,04 BI Bisbee,U.S. House,2,"Kirkpatrick, Ann",DEM,911,36,868,7
+Cochise,04 BI Bisbee,U.S. House,2,"Martin, Brandon",DEM,215,24,179,12
+Cochise,04 BI Bisbee,U.S. House,2,Write-In,,1,0,1,0
+Cochise,04 BI Bisbee,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,04 BI Bisbee,U.S. House,2,Undervotes,,38,0,37,1
+Cochise,04 BI Bisbee,State Senate,14,"Karp, Bob",DEM,893,34,852,7
+Cochise,04 BI Bisbee,State Senate,14,"Gowan, David",REP,226,24,190,12
+Cochise,04 BI Bisbee,State Senate,14,Write-In,,1,0,1,0
+Cochise,04 BI Bisbee,State Senate,14,Overvotes,,0,0,0,0
+Cochise,04 BI Bisbee,State Senate,14,Undervotes,,44,2,41,1
+Cochise,04 BI Bisbee,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,833,33,794,6
+Cochise,04 BI Bisbee,State House,14,"Maestas-Condos, Ronnie",DEM,789,30,753,6
+Cochise,04 BI Bisbee,State House,14,"Griffin, Gail",REP,233,27,193,13
+Cochise,04 BI Bisbee,State House,14,"Nutt, Becky",REP,225,23,189,13
+Cochise,04 BI Bisbee,State House,14,Write-In,,2,0,2,0
+Cochise,04 BI Bisbee,State House,14,Overvotes,,0,0,0,0
+Cochise,04 BI Bisbee,State House,14,Undervotes,,247,7,238,2
+Cochise,04 BI Bisbee,Corporation Commissioner,,"Tovar, Anna",DEM,859,35,817,7
+Cochise,04 BI Bisbee,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,806,34,765,7
+Cochise,04 BI Bisbee,Corporation Commissioner,,"Stanfield, Shea",DEM,794,31,756,7
+Cochise,04 BI Bisbee,Corporation Commissioner,,"Marquez Peterson, Lea",REP,221,20,190,11
+Cochise,04 BI Bisbee,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,212,23,178,11
+Cochise,04 BI Bisbee,Corporation Commissioner,,"Sloan, Eric",REP,195,22,162,11
+Cochise,04 BI Bisbee,Corporation Commissioner,,Write-In,,3,0,3,0
+Cochise,04 BI Bisbee,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,04 BI Bisbee,Corporation Commissioner,,Undervotes,,402,15,381,6
+Cochise,05 BI Don Luis,Registered Voters,,,,1523,,,
+Cochise,05 BI Don Luis,Ballots Cast,,,,1169,95,1053,21
+Cochise,05 BI Don Luis,Ballots Cast Blank,,,,27,0,27,0
+Cochise,05 BI Don Luis,President,,Biden / Harris,DEM,698,32,658,8
+Cochise,05 BI Don Luis,President,,Trump / Pence,REP,440,60,367,13
+Cochise,05 BI Don Luis,President,,Jorgensen / Cohen,LBT,11,1,10,0
+Cochise,05 BI Don Luis,President,,Write-In,,1,0,1,0
+Cochise,05 BI Don Luis,President,,Overvotes,,0,0,0,0
+Cochise,05 BI Don Luis,President,,Undervotes,,19,2,17,0
+Cochise,05 BI Don Luis,U.S. Senate,,"Kelly, Mark",DEM,718,31,678,9
+Cochise,05 BI Don Luis,U.S. Senate,,"McSally, Martha",REP,426,64,350,12
+Cochise,05 BI Don Luis,U.S. Senate,,Write-In,,2,0,0,0
+Cochise,05 BI Don Luis,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,05 BI Don Luis,U.S. Senate,,Undervotes,,23,0,23,0
+Cochise,05 BI Don Luis,U.S. House,2,"Kirkpatrick, Ann",DEM,700,33,660,7
+Cochise,05 BI Don Luis,U.S. House,2,"Martin, Brandon",REP,419,59,347,13
+Cochise,05 BI Don Luis,U.S. House,2,Write-In,,4,2,2,0
+Cochise,05 BI Don Luis,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,05 BI Don Luis,U.S. House,2,Undervotes,,47,2,44,1
+Cochise,05 BI Don Luis,State Senate,14,"Karp, Bob",DEM,679,32,637,10
+Cochise,05 BI Don Luis,State Senate,14,"Gowan, David",REP,424,61,352,11
+Cochise,05 BI Don Luis,State Senate,14,Write-In,,2,0,2,0
+Cochise,05 BI Don Luis,State Senate,14,Overvotes,,0,0,0,0
+Cochise,05 BI Don Luis,State Senate,14,Undervotes,,61,2,59,0
+Cochise,05 BI Don Luis,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,625,24,594,7
+Cochise,05 BI Don Luis,State House,14,"Maestas-Condos, Ronnie",DEM,582,30,544,8
+Cochise,05 BI Don Luis,State House,14,"Griffin, Gail",REP,425,61,351,13
+Cochise,05 BI Don Luis,State House,14,"Nutt, Becky",REP,390,56,322,12
+Cochise,05 BI Don Luis,State House,14,Write-In,,3,0,3,0
+Cochise,05 BI Don Luis,State House,14,Overvotes,,2,0,2,0
+Cochise,05 BI Don Luis,State House,14,Undervotes,,305,19,284,2
+Cochise,05 BI Don Luis,Corporation Commissioner,,"Tovar, Anna",DEM,660,34,615,11
+Cochise,05 BI Don Luis,Corporation Commissioner,,"Stanfield, Shea",DEM,577,29,540,8
+Cochise,05 BI Don Luis,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,563,26,532,5
+Cochise,05 BI Don Luis,Corporation Commissioner,,"Marquez Peterson, Lea",REP,397,61,324,12
+Cochise,05 BI Don Luis,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,393,60,322,11
+Cochise,05 BI Don Luis,Corporation Commissioner,,"Sloan, Eric",REP,363,53,299,11
+Cochise,05 BI Don Luis,Corporation Commissioner,,Write-In,,4,0,4,0
+Cochise,05 BI Don Luis,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,05 BI Don Luis,Corporation Commissioner,,Undervotes,,541,22,514,5
+Cochise,06 BI Warren,Registered Voters,,,,1470,,,
+Cochise,06 BI Warren,Ballots Cast,,,,1196,82,1089,25
+Cochise,06 BI Warren,Ballots Cast Blank,,,,30,0,30,0
+Cochise,06 BI Warren,President,,Biden / Harris,DEM,783,27,748,8
+Cochise,06 BI Warren,President,,Trump / Pence,REP,366,53,299,14
+Cochise,06 BI Warren,President,,Jorgensen / Cohen,LBT,28,2,24,2
+Cochise,06 BI Warren,President,,Write-In,,9,0,7,2
+Cochise,06 BI Warren,President,,Overvotes,,2,0,2,0
+Cochise,06 BI Warren,President,,Undervotes,,9,0,9,0
+Cochise,06 BI Warren,U.S. Senate,,"Kelly, Mark",DEM,797,27,759,11
+Cochise,06 BI Warren,U.S. Senate,,"McSally, Martha",REP,376,54,308,14
+Cochise,06 BI Warren,U.S. Senate,,Write-In,,2,0,2,0
+Cochise,06 BI Warren,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,06 BI Warren,U.S. Senate,,Undervotes,,21,1,20,0
+Cochise,06 BI Warren,U.S. House,2,"Kirkpatrick, Ann",DEM,788,32,746,10
+Cochise,06 BI Warren,U.S. House,2,"Martin, Brandon",REP,361,50,297,14
+Cochise,06 BI Warren,U.S. House,2,Write-In,,11,0,11,0
+Cochise,06 BI Warren,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,06 BI Warren,U.S. House,2,Undervotes,,39,0,38,1
+Cochise,06 BI Warren,State Senate,14,"Karp, Bob",DEM,769,31,728,10
+Cochise,06 BI Warren,State Senate,14,"Gowan, David",REP,377,50,313,14
+Cochise,06 BI Warren,State Senate,14,Write-In,,6,1,5,0
+Cochise,06 BI Warren,State Senate,14,Overvotes,,0,0,0,0
+Cochise,06 BI Warren,State Senate,14,Undervotes,,42,0,41,1
+Cochise,06 BI Warren,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,712,29,673,10
+Cochise,06 BI Warren,State House,14,"Maestas-Condos, Ronnie",DEM,682,24,650,8
+Cochise,06 BI Warren,State House,14,"Griffin, Gail",REP,374,46,314,14
+Cochise,06 BI Warren,State House,14,"Nutt, Becky",REP,358,53,290,15
+Cochise,06 BI Warren,State House,14,Write-In,,1,0,1,0
+Cochise,06 BI Warren,State House,14,Overvotes,,0,0,0,0
+Cochise,06 BI Warren,State House,14,Undervotes,,261,12,246,3
+Cochise,06 BI Warren,Corporation Commissioner,,"Tovar, Anna",DEM,734,28,697,9
+Cochise,06 BI Warren,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,696,27,661,8
+Cochise,06 BI Warren,Corporation Commissioner,,"Stanfield, Shea",DEM,662,26,628,8
+Cochise,06 BI Warren,Corporation Commissioner,,"Marquez Peterson, Lea",REP,374,53,307,14
+Cochise,06 BI Warren,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,346,47,285,14
+Cochise,06 BI Warren,Corporation Commissioner,,"Sloan, Eric",REP,321,46,261,14
+Cochise,06 BI Warren,Corporation Commissioner,,Write-In,,2,0,2,0
+Cochise,06 BI Warren,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,06 BI Warren,Corporation Commissioner,,Undervotes,,447,19,420,8
+Cochise,07 Bowie,Registered Voters,,,,320,,,
+Cochise,07 Bowie,Ballots Cast,,,,216,75,125,16
+Cochise,07 Bowie,Ballots Cast Blank,,,,0,0,0,0
+Cochise,07 Bowie,President,,Trump / Pence,REP,148,64,71,13
+Cochise,07 Bowie,President,,Biden / Harris,DEM,62,10,49,3
+Cochise,07 Bowie,President,,Jorgensen / Cohen,LBT,4,0,4,0
+Cochise,07 Bowie,President,,Write-In,,1,0,1,0
+Cochise,07 Bowie,President,,Overvotes,,0,0,0,0
+Cochise,07 Bowie,President,,Undervotes,,1,1,0,0
+Cochise,07 Bowie,U.S. Senate,,"McSally, Martha",REP,142,65,65,12
+Cochise,07 Bowie,U.S. Senate,,"Kelly, Mark",DEM,70,10,56,4
+Cochise,07 Bowie,U.S. Senate,,Write-In,,2,0,2,0
+Cochise,07 Bowie,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,07 Bowie,U.S. Senate,,Undervotes,,2,0,2,0
+Cochise,07 Bowie,U.S. House,2,"Martin, Brandon",REP,136,63,61,12
+Cochise,07 Bowie,U.S. House,2,"Kirkpatrick, Ann",DEM,73,12,57,4
+Cochise,07 Bowie,U.S. House,2,Write-In,,0,0,0,0
+Cochise,07 Bowie,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,07 Bowie,U.S. House,2,Undervotes,,7,0,7,0
+Cochise,07 Bowie,State Senate,14,"Gowan, David",REP,140,64,64,12
+Cochise,07 Bowie,State Senate,14,"Karp, Bob",DEM,66,11,51,4
+Cochise,07 Bowie,State Senate,14,Write-In,,0,0,0,0
+Cochise,07 Bowie,State Senate,14,Overvotes,,0,0,0,0
+Cochise,07 Bowie,State Senate,14,Undervotes,,10,0,10,0
+Cochise,07 Bowie,State House,14,"Nutt, Becky",REP,140,62,65,13
+Cochise,07 Bowie,State House,14,"Griffin, Gail",REP,136,59,66,11
+Cochise,07 Bowie,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,56,11,43,2
+Cochise,07 Bowie,State House,14,"Maestas-Condos, Ronnie",DEM,54,11,40,3
+Cochise,07 Bowie,State House,14,Write-In,,0,0,0,0
+Cochise,07 Bowie,State House,14,Overvotes,,0,0,0,0
+Cochise,07 Bowie,State House,14,Undervotes,,46,7,36,3
+Cochise,07 Bowie,Corporation Commissioner,,"Marquez Peterson, Lea",REP,149,65,73,11
+Cochise,07 Bowie,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,134,59,66,9
+Cochise,07 Bowie,Corporation Commissioner,,"Sloan, Eric",REP,124,57,57,10
+Cochise,07 Bowie,Corporation Commissioner,,"Tovar, Anna",DEM,66,9,54,3
+Cochise,07 Bowie,Corporation Commissioner,,"Stanfield, Shea",DEM,55,11,42,2
+Cochise,07 Bowie,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,50,11,37,2
+Cochise,07 Bowie,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,07 Bowie,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,07 Bowie,Corporation Commissioner,,Undervotes,,70,13,46,11
+Cochise,08 Cochise Stronghold,Registered Voters,,,,1771,,,
+Cochise,08 Cochise Stronghold,Ballots Cast,,,,1431,308,1048,75
+Cochise,08 Cochise Stronghold,Ballots Cast Blank,,,,0,0,0,0
+Cochise,08 Cochise Stronghold,President,,Trump / Pence,REP,1006,276,664,66
+Cochise,08 Cochise Stronghold,President,,Biden / Harris,DEM,404,29,367,8
+Cochise,08 Cochise Stronghold,President,,Jorgensen / Cohen,LBT,14,2,11,1
+Cochise,08 Cochise Stronghold,President,,Write-In,,6,1,5,0
+Cochise,08 Cochise Stronghold,President,,Overvotes,,0,0,0,0
+Cochise,08 Cochise Stronghold,President,,Undervotes,,1,0,1,0
+Cochise,08 Cochise Stronghold,U.S. Senate,,"McSally, Martha",REP,978,265,652,61
+Cochise,08 Cochise Stronghold,U.S. Senate,,"Kelly, Mark",DEM,431,40,378,13
+Cochise,08 Cochise Stronghold,U.S. Senate,,Write-In,,8,0,7,1
+Cochise,08 Cochise Stronghold,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,08 Cochise Stronghold,U.S. Senate,,Undervotes,,14,3,11,0
+Cochise,08 Cochise Stronghold,U.S. House,2,"Martin, Brandon",REP,968,268,640,60
+Cochise,08 Cochise Stronghold,U.S. House,2,"Kirkpatrick, Ann",DEM,412,33,368,11
+Cochise,08 Cochise Stronghold,U.S. House,2,Write-In,,6,0,5,1
+Cochise,08 Cochise Stronghold,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,08 Cochise Stronghold,U.S. House,2,Undervotes,,44,7,34,3
+Cochise,08 Cochise Stronghold,State Senate,14,"Gowan, David",REP,994,272,659,63
+Cochise,08 Cochise Stronghold,State Senate,14,"Karp, Bob",DEM,388,29,350,9
+Cochise,08 Cochise Stronghold,State Senate,14,Write-In,,3,0,2,1
+Cochise,08 Cochise Stronghold,State Senate,14,Overvotes,,0,0,0,0
+Cochise,08 Cochise Stronghold,State Senate,14,Undervotes,,39,6,31,2
+Cochise,08 Cochise Stronghold,State House,14,"Griffin, Gail",REP,963,267,637,59
+Cochise,08 Cochise Stronghold,State House,14,"Nutt, Becky",REP,936,270,605,61
+Cochise,08 Cochise Stronghold,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,362,25,326,11
+Cochise,08 Cochise Stronghold,State House,14,"Maestas-Condos, Ronnie",DEM,310,18,285,7
+Cochise,08 Cochise Stronghold,State House,14,Write-In,,4,0,4,0
+Cochise,08 Cochise Stronghold,State House,14,Overvotes,,0,0,0,0
+Cochise,08 Cochise Stronghold,State House,14,Undervotes,,273,34,227,12
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,936,271,601,64
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,"Marquez Peterson, Lea",REP,906,267,577,62
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,"Sloan, Eric",REP,886,258,569,59
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,"Tovar, Anna",DEM,374,26,340,8
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,349,29,312,8
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,"Stanfield, Shea",DEM,329,24,299,6
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,Write-In,,9,1,6,2
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,08 Cochise Stronghold,Corporation Commissioner,,Undervotes,,483,45,422,16
+Cochise,09 DO Calvary,Registered Voters,,,,1541,,,
+Cochise,09 DO Calvary,Ballots Cast,,,,1023,87,889,47
+Cochise,09 DO Calvary,Ballots Cast Blank,,,,0,0,0,0
+Cochise,09 DO Calvary,President,,Biden / Harris,DEM,751,45,682,24
+Cochise,09 DO Calvary,President,,Trump / Pence,REP,257,39,197,21
+Cochise,09 DO Calvary,President,,Jorgensen / Cohen,LBT,9,0,7,2
+Cochise,09 DO Calvary,President,,Write-In,,1,1,0,0
+Cochise,09 DO Calvary,President,,Overvotes,,0,0,0,0
+Cochise,09 DO Calvary,President,,Undervotes,,5,2,3,0
+Cochise,09 DO Calvary,U.S. Senate,,"Kelly, Mark",DEM,775,48,702,25
+Cochise,09 DO Calvary,U.S. Senate,,"McSally, Martha",REP,237,36,180,21
+Cochise,09 DO Calvary,U.S. Senate,,Write-In,,3,0,3,0
+Cochise,09 DO Calvary,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,09 DO Calvary,U.S. Senate,,Undervotes,,8,3,4,1
+Cochise,09 DO Calvary,U.S. House,2,"Kirkpatrick, Ann",DEM,770,51,694,25
+Cochise,09 DO Calvary,U.S. House,2,"Martin, Brandon",REP,218,33,164,21
+Cochise,09 DO Calvary,U.S. House,2,Write-In,,5,0,5,0
+Cochise,09 DO Calvary,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,09 DO Calvary,U.S. House,2,Undervotes,,30,3,26,1
+Cochise,09 DO Calvary,State Senate,14,"Karp, Bob",DEM,730,42,663,25
+Cochise,09 DO Calvary,State Senate,14,"Gowan, David",REP,253,43,190,20
+Cochise,09 DO Calvary,State Senate,14,Write-In,,1,0,1,0
+Cochise,09 DO Calvary,State Senate,14,Overvotes,,1,0,1,0
+Cochise,09 DO Calvary,State Senate,14,Undervotes,,38,2,34,2
+Cochise,09 DO Calvary,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,629,41,565,23
+Cochise,09 DO Calvary,State House,14,"Maestas-Condos, Ronnie",DEM,582,32,528,22
+Cochise,09 DO Calvary,State House,14,"Griffin, Gail",REP,264,44,197,23
+Cochise,09 DO Calvary,State House,14,"Nutt, Becky",REP,205,36,150,19
+Cochise,09 DO Calvary,State House,14,Write-In,,0,0,0,0
+Cochise,09 DO Calvary,State House,14,Overvotes,,0,0,0,0
+Cochise,09 DO Calvary,State House,14,Undervotes,,366,21,338,7
+Cochise,09 DO Calvary,Corporation Commissioner,,"Tovar, Anna",DEM,698,43,627,28
+Cochise,09 DO Calvary,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,548,35,489,24
+Cochise,09 DO Calvary,Corporation Commissioner,,"Stanfield, Shea",DEM,524,38,464,22
+Cochise,09 DO Calvary,Corporation Commissioner,,"Marquez Peterson, Lea",REP,228,38,170,20
+Cochise,09 DO Calvary,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,207,38,151,18
+Cochise,09 DO Calvary,Corporation Commissioner,,"Sloan, Eric",REP,177,33,126,18
+Cochise,09 DO Calvary,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,09 DO Calvary,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,09 DO Calvary,Corporation Commissioner,,Undervotes,,687,36,640,11
+Cochise,10 DO Carlson,Registered Voters,,,,1927,,,
+Cochise,10 DO Carlson,Ballots Cast,,,,1357,89,1217,51
+Cochise,10 DO Carlson,Ballots Cast Blank,,,,0,0,0,0
+Cochise,10 DO Carlson,President,,Biden / Harris,DEM,926,37,865,24
+Cochise,10 DO Carlson,President,,Trump / Pence,REP,413,51,335,27
+Cochise,10 DO Carlson,President,,Jorgensen / Cohen,LBT,13,0,13,0
+Cochise,10 DO Carlson,President,,Write-In,,1,1,0,0
+Cochise,10 DO Carlson,President,,Overvotes,,0,0,0,0
+Cochise,10 DO Carlson,President,,Undervotes,,4,0,4,0
+Cochise,10 DO Carlson,U.S. Senate,,"Kelly, Mark",DEM,965,43,896,26
+Cochise,10 DO Carlson,U.S. Senate,,"McSally, Martha",REP,379,44,311,24
+Cochise,10 DO Carlson,U.S. Senate,,Write-In,,2,2,0,0
+Cochise,10 DO Carlson,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,10 DO Carlson,U.S. Senate,,Undervotes,,11,0,10,1
+Cochise,10 DO Carlson,U.S. House,2,"Kirkpatrick, Ann",DEM,967,48,894,25
+Cochise,10 DO Carlson,U.S. House,2,"Martin, Brandon",REP,360,39,296,25
+Cochise,10 DO Carlson,U.S. House,2,Write-In,,1,1,0,0
+Cochise,10 DO Carlson,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,10 DO Carlson,U.S. House,2,Undervotes,,29,1,27,1
+Cochise,10 DO Carlson,State Senate,14,"Karp, Bob",DEM,922,37,861,24
+Cochise,10 DO Carlson,State Senate,14,"Gowan, David",REP,389,48,315,26
+Cochise,10 DO Carlson,State Senate,14,Write-In,,2,1,1,0
+Cochise,10 DO Carlson,State Senate,14,Overvotes,,0,0,0,0
+Cochise,10 DO Carlson,State Senate,14,Undervotes,,42,2,39,1
+Cochise,10 DO Carlson,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,772,42,706,24
+Cochise,10 DO Carlson,State House,14,"Maestas-Condos, Ronnie",DEM,729,34,672,23
+Cochise,10 DO Carlson,State House,14,"Griffin, Gail",REP,417,44,347,26
+Cochise,10 DO Carlson,State House,14,"Nutt, Becky",REP,354,44,288,22
+Cochise,10 DO Carlson,State House,14,Write-In,,3,1,2,0
+Cochise,10 DO Carlson,State House,14,Overvotes,,0,0,0,0
+Cochise,10 DO Carlson,State House,14,Undervotes,,435,11,417,7
+Cochise,10 DO Carlson,Corporation Commissioner,,"Tovar, Anna",DEM,860,44,789,27
+Cochise,10 DO Carlson,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,719,38,658,23
+Cochise,10 DO Carlson,Corporation Commissioner,,"Stanfield, Shea",DEM,677,35,623,19
+Cochise,10 DO Carlson,Corporation Commissioner,,"Marquez Peterson, Lea",REP,394,46,323,25
+Cochise,10 DO Carlson,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,339,44,271,24
+Cochise,10 DO Carlson,Corporation Commissioner,,"Sloan, Eric",REP,301,44,236,21
+Cochise,10 DO Carlson,Corporation Commissioner,,Write-In,,1,1,0,0
+Cochise,10 DO Carlson,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,10 DO Carlson,Corporation Commissioner,,Undervotes,,771,12,745,14
+Cochise,11 DO Castro Park,Registered Voters,,,,2037,,,
+Cochise,11 DO Castro Park,Ballots Cast,,,,1164,102,981,81
+Cochise,11 DO Castro Park,Ballots Cast Blank,,,,0,0,0,0
+Cochise,11 DO Castro Park,President,,Biden / Harris,DEM,891,61,775,55
+Cochise,11 DO Castro Park,President,,Trump / Pence,REP,250,39,188,23
+Cochise,11 DO Castro Park,President,,Jorgensen / Cohen,LBT,13,1,11,1
+Cochise,11 DO Castro Park,President,,Write-In,,1,0,1,0
+Cochise,11 DO Castro Park,President,,Overvotes,,4,0,4,0
+Cochise,11 DO Castro Park,President,,Undervotes,,5,1,2,2
+Cochise,11 DO Castro Park,U.S. Senate,,"Kelly, Mark",DEM,926,62,806,58
+Cochise,11 DO Castro Park,U.S. Senate,,"McSally, Martha",REP,219,37,162,20
+Cochise,11 DO Castro Park,U.S. Senate,,Write-In,,3,0,3,0
+Cochise,11 DO Castro Park,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,11 DO Castro Park,U.S. Senate,,Undervotes,,15,3,9,3
+Cochise,11 DO Castro Park,U.S. House,2,"Kirkpatrick, Ann",DEM,921,68,797,56
+Cochise,11 DO Castro Park,U.S. House,2,"Martin, Brandon",REP,201,31,149,21
+Cochise,11 DO Castro Park,U.S. House,2,Write-In,,4,1,3,0
+Cochise,11 DO Castro Park,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,11 DO Castro Park,U.S. House,2,Undervotes,,38,2,32,4
+Cochise,11 DO Castro Park,State Senate,14,"Karp, Bob",DEM,882,61,766,55
+Cochise,11 DO Castro Park,State Senate,14,"Gowan, David",REP,235,37,175,23
+Cochise,11 DO Castro Park,State Senate,14,Write-In,,1,0,1,0
+Cochise,11 DO Castro Park,State Senate,14,Overvotes,,2,0,2,0
+Cochise,11 DO Castro Park,State Senate,14,Undervotes,,43,3,37,3
+Cochise,11 DO Castro Park,State House,14,"Maestas-Condos, Ronnie",DEM,740,55,636,49
+Cochise,11 DO Castro Park,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,682,51,583,48
+Cochise,11 DO Castro Park,State House,14,"Griffin, Gail",REP,238,34,183,21
+Cochise,11 DO Castro Park,State House,14,"Nutt, Becky",REP,195,36,137,22
+Cochise,11 DO Castro Park,State House,14,Write-In,,4,2,2,0
+Cochise,11 DO Castro Park,State House,14,Overvotes,,0,0,0,0
+Cochise,11 DO Castro Park,State House,14,Undervotes,,467,24,421,22
+Cochise,11 DO Castro Park,Corporation Commissioner,,"Tovar, Anna",DEM,811,56,699,56
+Cochise,11 DO Castro Park,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,623,49,527,47
+Cochise,11 DO Castro Park,Corporation Commissioner,,"Stanfield, Shea",DEM,621,46,523,52
+Cochise,11 DO Castro Park,Corporation Commissioner,,"Marquez Peterson, Lea",REP,216,36,158,22
+Cochise,11 DO Castro Park,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,188,33,135,20
+Cochise,11 DO Castro Park,Corporation Commissioner,,"Sloan, Eric",REP,175,33,122,20
+Cochise,11 DO Castro Park,Corporation Commissioner,,Write-In,,4,3,1,0
+Cochise,11 DO Castro Park,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,11 DO Castro Park,Corporation Commissioner,,Undervotes,,848,47,775,26
+Cochise,12 DO Gadsden,Registered Voters,,,,1514,,,
+Cochise,12 DO Gadsden,Ballots Cast,,,,899,62,784,53
+Cochise,12 DO Gadsden,Ballots Cast Blank,,,,2,0,2,0
+Cochise,12 DO Gadsden,President,,Biden / Harris,DEM,664,33,597,34
+Cochise,12 DO Gadsden,President,,Trump / Pence,REP,212,26,171,15
+Cochise,12 DO Gadsden,President,,Jorgensen / Cohen,LBT,12,0,11,1
+Cochise,12 DO Gadsden,President,,Write-In,,2,0,1,1
+Cochise,12 DO Gadsden,President,,Overvotes,,0,0,0,0
+Cochise,12 DO Gadsden,President,,Undervotes,,9,3,4,2
+Cochise,12 DO Gadsden,U.S. Senate,,"Kelly, Mark",DEM,682,36,608,38
+Cochise,12 DO Gadsden,U.S. Senate,,"McSally, Martha",REP,199,25,159,15
+Cochise,12 DO Gadsden,U.S. Senate,,Write-In,,1,0,1,0
+Cochise,12 DO Gadsden,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,12 DO Gadsden,U.S. Senate,,Undervotes,,16,1,15,0
+Cochise,12 DO Gadsden,U.S. House,2,"Kirkpatrick, Ann",DEM,685,34,612,39
+Cochise,12 DO Gadsden,U.S. House,2,"Martin, Brandon",REP,183,25,145,13
+Cochise,12 DO Gadsden,U.S. House,2,Write-In,,1,0,1,0
+Cochise,12 DO Gadsden,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,12 DO Gadsden,U.S. House,2,Undervotes,,30,3,26,1
+Cochise,12 DO Gadsden,State Senate,14,"Karp, Bob",DEM,646,36,573,37
+Cochise,12 DO Gadsden,State Senate,14,"Gowan, David",REP,216,24,176,16
+Cochise,12 DO Gadsden,State Senate,14,Write-In,,1,0,1,0
+Cochise,12 DO Gadsden,State Senate,14,Overvotes,,0,0,0,0
+Cochise,12 DO Gadsden,State Senate,14,Undervotes,,36,2,34,0
+Cochise,12 DO Gadsden,State House,14,"Maestas-Condos, Ronnie",DEM,556,32,491,33
+Cochise,12 DO Gadsden,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,532,33,468,31
+Cochise,12 DO Gadsden,State House,14,"Griffin, Gail",REP,191,24,152,15
+Cochise,12 DO Gadsden,State House,14,"Nutt, Becky",REP,172,21,138,13
+Cochise,12 DO Gadsden,State House,14,Write-In,,0,0,0,0
+Cochise,12 DO Gadsden,State House,14,Overvotes,,0,0,0,0
+Cochise,12 DO Gadsden,State House,14,Undervotes,,347,14,319,14
+Cochise,12 DO Gadsden,Corporation Commissioner,,"Tovar, Anna",DEM,635,36,561,38
+Cochise,12 DO Gadsden,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,466,28,406,32
+Cochise,12 DO Gadsden,Corporation Commissioner,,"Stanfield, Shea",DEM,459,32,396,31
+Cochise,12 DO Gadsden,Corporation Commissioner,,"Marquez Peterson, Lea",REP,195,24,155,16
+Cochise,12 DO Gadsden,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,149,20,116,13
+Cochise,12 DO Gadsden,Corporation Commissioner,,"Sloan, Eric",REP,140,22,105,13
+Cochise,12 DO Gadsden,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,12 DO Gadsden,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,12 DO Gadsden,Corporation Commissioner,,Undervotes,,650,24,610,16
+Cochise,13 DO Sunnyside,Registered Voters,,,,1800,,,
+Cochise,13 DO Sunnyside,Ballots Cast,,,,1044,82,894,68
+Cochise,13 DO Sunnyside,Ballots Cast Blank,,,,0,0,0,0
+Cochise,13 DO Sunnyside,President,,Biden / Harris,DEM,641,31,581,29
+Cochise,13 DO Sunnyside,President,,Trump / Pence,REP,380,50,293,37
+Cochise,13 DO Sunnyside,President,,Jorgensen / Cohen,LBT,9,0,8,1
+Cochise,13 DO Sunnyside,President,,Write-In,,6,1,4,1
+Cochise,13 DO Sunnyside,President,,Overvotes,,1,0,1,0
+Cochise,13 DO Sunnyside,President,,Undervotes,,7,0,7,0
+Cochise,13 DO Sunnyside,U.S. Senate,,"Kelly, Mark",DEM,686,38,613,35
+Cochise,13 DO Sunnyside,U.S. Senate,,"McSally, Martha",REP,342,44,266,32
+Cochise,13 DO Sunnyside,U.S. Senate,,Write-In,,2,0,1,1
+Cochise,13 DO Sunnyside,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,13 DO Sunnyside,U.S. Senate,,Undervotes,,14,0,14,0
+Cochise,13 DO Sunnyside,U.S. House,2,"Kirkpatrick, Ann",DEM,680,42,604,34
+Cochise,13 DO Sunnyside,U.S. House,2,"Martin, Brandon",REP,331,40,259,32
+Cochise,13 DO Sunnyside,U.S. House,2,Write-In,,0,0,0,0
+Cochise,13 DO Sunnyside,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,13 DO Sunnyside,U.S. House,2,Undervotes,,33,0,31,2
+Cochise,13 DO Sunnyside,State Senate,14,"Karp, Bob",DEM,644,34,574,36
+Cochise,13 DO Sunnyside,State Senate,14,"Gowan, David",REP,361,48,282,31
+Cochise,13 DO Sunnyside,State Senate,14,Write-In,,1,0,0,1
+Cochise,13 DO Sunnyside,State Senate,14,Overvotes,,0,0,0,0
+Cochise,13 DO Sunnyside,State Senate,14,Undervotes,,38,0,38,0
+Cochise,13 DO Sunnyside,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,530,35,468,27
+Cochise,13 DO Sunnyside,State House,14,"Maestas-Condos, Ronnie",DEM,507,34,445,28
+Cochise,13 DO Sunnyside,State House,14,"Griffin, Gail",REP,356,46,281,29
+Cochise,13 DO Sunnyside,State House,14,"Nutt, Becky",REP,315,41,243,31
+Cochise,13 DO Sunnyside,State House,14,Write-In,,1,0,1,0
+Cochise,13 DO Sunnyside,State House,14,Overvotes,,2,0,2,0
+Cochise,13 DO Sunnyside,State House,14,Undervotes,,377,8,348,21
+Cochise,13 DO Sunnyside,Corporation Commissioner,,"Tovar, Anna",DEM,625,38,553,34
+Cochise,13 DO Sunnyside,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,481,32,420,29
+Cochise,13 DO Sunnyside,Corporation Commissioner,,"Stanfield, Shea",DEM,455,34,396,25
+Cochise,13 DO Sunnyside,Corporation Commissioner,,"Marquez Peterson, Lea",REP,343,44,268,31
+Cochise,13 DO Sunnyside,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,303,44,231,28
+Cochise,13 DO Sunnyside,Corporation Commissioner,,"Sloan, Eric",REP,268,40,203,25
+Cochise,13 DO Sunnyside,Corporation Commissioner,,Write-In,,2,2,0,0
+Cochise,13 DO Sunnyside,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,13 DO Sunnyside,Corporation Commissioner,,Undervotes,,652,12,608,32
+Cochise,14 Geater San Pedro,Registered Voters,,,,1917,,,
+Cochise,14 Geater San Pedro,Ballots Cast,,,,1493,261,1177,55
+Cochise,14 Geater San Pedro,Ballots Cast Blank,,,,0,0,0,0
+Cochise,14 Geater San Pedro,President,,Trump / Pence,REP,1053,226,784,43
+Cochise,14 Geater San Pedro,President,,Biden / Harris,DEM,390,27,353,10
+Cochise,14 Geater San Pedro,President,,Jorgensen / Cohen,LBT,41,8,31,2
+Cochise,14 Geater San Pedro,President,,Write-In,,3,0,3,0
+Cochise,14 Geater San Pedro,President,,Overvotes,,0,0,0,0
+Cochise,14 Geater San Pedro,President,,Undervotes,,6,0,6,0
+Cochise,14 Geater San Pedro,U.S. Senate,,"McSally, Martha",REP,1044,228,773,43
+Cochise,14 Geater San Pedro,U.S. Senate,,"Kelly, Mark",DEM,425,30,384,11
+Cochise,14 Geater San Pedro,U.S. Senate,,Write-In,,9,2,7,0
+Cochise,14 Geater San Pedro,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,14 Geater San Pedro,U.S. Senate,,Undervotes,,15,1,13,1
+Cochise,14 Geater San Pedro,U.S. House,2,"Martin, Brandon",REP,1057,224,788,45
+Cochise,14 Geater San Pedro,U.S. House,2,"Kirkpatrick, Ann",DEM,400,34,357,9
+Cochise,14 Geater San Pedro,U.S. House,2,Write-In,,1,0,1,0
+Cochise,14 Geater San Pedro,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,14 Geater San Pedro,U.S. House,2,Undervotes,,35,3,31,1
+Cochise,14 Geater San Pedro,State Senate,14,"Gowan, David",REP,1056,223,787,46
+Cochise,14 Geater San Pedro,State Senate,14,"Karp, Bob",DEM,382,33,340,9
+Cochise,14 Geater San Pedro,State Senate,14,Write-In,,3,1,2,0
+Cochise,14 Geater San Pedro,State Senate,14,Overvotes,,0,0,0,0
+Cochise,14 Geater San Pedro,State Senate,14,Undervotes,,49,3,46,0
+Cochise,14 Geater San Pedro,State House,14,"Nutt, Becky",REP,1007,221,744,42
+Cochise,14 Geater San Pedro,State House,14,"Griffin, Gail",REP,1005,217,742,46
+Cochise,14 Geater San Pedro,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,370,36,325,9
+Cochise,14 Geater San Pedro,State House,14,"Maestas-Condos, Ronnie",DEM,326,31,285,10
+Cochise,14 Geater San Pedro,State House,14,Write-In,,1,0,1,0
+Cochise,14 Geater San Pedro,State House,14,Overvotes,,0,0,0,0
+Cochise,14 Geater San Pedro,State House,14,Undervotes,,271,15,253,3
+Cochise,14 Geater San Pedro,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,994,222,725,47
+Cochise,14 Geater San Pedro,Corporation Commissioner,,"Marquez Peterson, Lea",REP,956,218,692,46
+Cochise,14 Geater San Pedro,Corporation Commissioner,,"Sloan, Eric",REP,944,213,686,45
+Cochise,14 Geater San Pedro,Corporation Commissioner,,"Tovar, Anna",DEM,386,39,338,9
+Cochise,14 Geater San Pedro,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,343,31,307,5
+Cochise,14 Geater San Pedro,Corporation Commissioner,,"Stanfield, Shea",DEM,328,29,293,6
+Cochise,14 Geater San Pedro,Corporation Commissioner,,Write-In,,1,0,1,0
+Cochise,14 Geater San Pedro,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,14 Geater San Pedro,Corporation Commissioner,,Undervotes,,518,28,483,7
+Cochise,15 Hereford,Registered Voters,,,,2200,,,
+Cochise,15 Hereford,Ballots Cast,,,,1792,224,1508,60
+Cochise,15 Hereford,Ballots Cast Blank,,,,0,0,0,0
+Cochise,15 Hereford,President,,Trump / Pence,REP,1180,191,938,51
+Cochise,15 Hereford,President,,Biden / Harris,DEM,567,28,532,7
+Cochise,15 Hereford,President,,Jorgensen / Cohen,LBT,36,4,30,2
+Cochise,15 Hereford,President,,Write-In,,6,0,6,0
+Cochise,15 Hereford,President,,Overvotes,,0,0,0,0
+Cochise,15 Hereford,President,,Undervotes,,3,1,2,0
+Cochise,15 Hereford,U.S. Senate,,"McSally, Martha",REP,1187,191,945,51
+Cochise,15 Hereford,U.S. Senate,,"Kelly, Mark",DEM,583,31,543,9
+Cochise,15 Hereford,U.S. Senate,,Write-In,,8,2,6,0
+Cochise,15 Hereford,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,15 Hereford,U.S. Senate,,Undervotes,,14,0,14,0
+Cochise,15 Hereford,U.S. House,2,"Martin, Brandon",REP,1186,193,943,50
+Cochise,15 Hereford,U.S. House,2,"Kirkpatrick, Ann",DEM,554,30,515,9
+Cochise,15 Hereford,U.S. House,2,Write-In,,3,0,3,0
+Cochise,15 Hereford,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,15 Hereford,U.S. House,2,Undervotes,,49,1,47,1
+Cochise,15 Hereford,State Senate,14,"Gowan, David",REP,1190,197,943,50
+Cochise,15 Hereford,State Senate,14,"Karp, Bob",DEM,542,25,508,9
+Cochise,15 Hereford,State Senate,14,Write-In,,4,1,3,0
+Cochise,15 Hereford,State Senate,14,Overvotes,,0,0,0,0
+Cochise,15 Hereford,State Senate,14,Undervotes,,54,1,52,1
+Cochise,15 Hereford,State House,14,"Griffin, Gail",REP,1157,193,914,50
+Cochise,15 Hereford,State House,14,"Nutt, Becky",REP,1149,191,911,47
+Cochise,15 Hereford,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,504,28,467,9
+Cochise,15 Hereford,State House,14,"Maestas-Condos, Ronnie",DEM,438,19,411,8
+Cochise,15 Hereford,State House,14,Write-In,,2,1,1,0
+Cochise,15 Hereford,State House,14,Overvotes,,0,0,0,0
+Cochise,15 Hereford,State House,14,Undervotes,,330,16,308,6
+Cochise,15 Hereford,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1118,195,875,48
+Cochise,15 Hereford,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1103,190,863,50
+Cochise,15 Hereford,Corporation Commissioner,,"Sloan, Eric",REP,1098,191,856,51
+Cochise,15 Hereford,Corporation Commissioner,,"Tovar, Anna",DEM,511,24,480,7
+Cochise,15 Hereford,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,484,25,453,6
+Cochise,15 Hereford,Corporation Commissioner,,"Stanfield, Shea",DEM,453,22,426,5
+Cochise,15 Hereford,Corporation Commissioner,,Write-In,,7,3,4,0
+Cochise,15 Hereford,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,15 Hereford,Corporation Commissioner,,Undervotes,,596,22,561,13
+Cochise,16 Huachuca,Registered Voters,,,,1176,,,
+Cochise,16 Huachuca,Ballots Cast,,,,792,181,555,56
+Cochise,16 Huachuca,Ballots Cast Blank,,,,0,0,0,0
+Cochise,16 Huachuca,President,,Trump / Pence,REP,462,140,281,41
+Cochise,16 Huachuca,President,,Biden / Harris,DEM,296,37,245,14
+Cochise,16 Huachuca,President,,Jorgensen / Cohen,LBT,22,3,18,1
+Cochise,16 Huachuca,President,,Write-In,,4,1,3,0
+Cochise,16 Huachuca,President,,Overvotes,,1,0,1,0
+Cochise,16 Huachuca,President,,Undervotes,,7,0,7,0
+Cochise,16 Huachuca,U.S. Senate,,"McSally, Martha",REP,459,142,276,41
+Cochise,16 Huachuca,U.S. Senate,,"Kelly, Mark",DEM,307,37,257,13
+Cochise,16 Huachuca,U.S. Senate,,Write-In,,11,2,7,2
+Cochise,16 Huachuca,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,16 Huachuca,U.S. Senate,,Undervotes,,15,0,15,0
+Cochise,16 Huachuca,U.S. House,2,"Martin, Brandon",REP,449,133,275,41
+Cochise,16 Huachuca,U.S. House,2,"Kirkpatrick, Ann",DEM,311,43,253,15
+Cochise,16 Huachuca,U.S. House,2,Write-In,,5,2,3,0
+Cochise,16 Huachuca,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,16 Huachuca,U.S. House,2,Undervotes,,27,3,24,0
+Cochise,16 Huachuca,State Senate,14,"Gowan, David",REP,473,143,287,43
+Cochise,16 Huachuca,State Senate,14,"Karp, Bob",DEM,288,35,240,13
+Cochise,16 Huachuca,State Senate,14,Write-In,,0,0,0,0
+Cochise,16 Huachuca,State Senate,14,Overvotes,,0,0,0,0
+Cochise,16 Huachuca,State Senate,14,Undervotes,,31,3,28,0
+Cochise,16 Huachuca,State House,14,"Griffin, Gail",REP,459,139,283,37
+Cochise,16 Huachuca,State House,14,"Nutt, Becky",REP,447,139,269,39
+Cochise,16 Huachuca,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,262,37,211,14
+Cochise,16 Huachuca,State House,14,"Maestas-Condos, Ronnie",DEM,218,30,177,11
+Cochise,16 Huachuca,State House,14,Write-In,,2,0,1,1
+Cochise,16 Huachuca,State House,14,Overvotes,,0,0,0,0
+Cochise,16 Huachuca,State House,14,Undervotes,,196,17,169,10
+Cochise,16 Huachuca,Corporation Commissioner,,"Marquez Peterson, Lea",REP,440,139,264,37
+Cochise,16 Huachuca,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,435,145,253,37
+Cochise,16 Huachuca,Corporation Commissioner,,"Sloan, Eric",REP,421,137,247,37
+Cochise,16 Huachuca,Corporation Commissioner,,"Tovar, Anna",DEM,263,32,218,13
+Cochise,16 Huachuca,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,229,35,183,11
+Cochise,16 Huachuca,Corporation Commissioner,,"Stanfield, Shea",DEM,229,28,187,14
+Cochise,16 Huachuca,Corporation Commissioner,,Write-In,,4,0,3,1
+Cochise,16 Huachuca,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,16 Huachuca,Corporation Commissioner,,Undervotes,,355,27,310,18
+Cochise,17 McNeal,Registered Voters,,,,982,,,
+Cochise,17 McNeal,Ballots Cast,,,,751,153,554,44
+Cochise,17 McNeal,Ballots Cast Blank,,,,0,0,0,0
+Cochise,17 McNeal,President,,Trump / Pence,REP,511,137,339,35
+Cochise,17 McNeal,President,,Biden / Harris,DEM,231,15,208,8
+Cochise,17 McNeal,President,,Jorgensen / Cohen,LBT,4,0,3,1
+Cochise,17 McNeal,President,,Write-In,,4,1,3,0
+Cochise,17 McNeal,President,,Overvotes,,0,0,0,0
+Cochise,17 McNeal,President,,Undervotes,,1,0,1,0
+Cochise,17 McNeal,U.S. Senate,,"McSally, Martha",REP,502,141,329,32
+Cochise,17 McNeal,U.S. Senate,,"Kelly, Mark",DEM,239,10,217,12
+Cochise,17 McNeal,U.S. Senate,,Write-In,,2,1,1,0
+Cochise,17 McNeal,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,17 McNeal,U.S. Senate,,Undervotes,,7,1,6,0
+Cochise,17 McNeal,U.S. House,2,"Martin, Brandon",REP,490,140,317,33
+Cochise,17 McNeal,U.S. House,2,"Kirkpatrick, Ann",DEM,235,13,213,9
+Cochise,17 McNeal,U.S. House,2,Write-In,,3,0,3,0
+Cochise,17 McNeal,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,17 McNeal,U.S. House,2,Undervotes,,23,0,21,2
+Cochise,17 McNeal,State Senate,14,"Gowan, David",REP,529,145,347,37
+Cochise,17 McNeal,State Senate,14,"Karp, Bob",DEM,202,8,188,6
+Cochise,17 McNeal,State Senate,14,Write-In,,0,0,0,0
+Cochise,17 McNeal,State Senate,14,Overvotes,,0,0,0,0
+Cochise,17 McNeal,State Senate,14,Undervotes,,19,0,18,1
+Cochise,17 McNeal,State House,14,"Griffin, Gail",REP,492,134,321,37
+Cochise,17 McNeal,State House,14,"Nutt, Becky",REP,479,137,306,36
+Cochise,17 McNeal,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,202,14,182,6
+Cochise,17 McNeal,State House,14,"Maestas-Condos, Ronnie",DEM,173,9,157,7
+Cochise,17 McNeal,State House,14,Write-In,,0,0,0,0
+Cochise,17 McNeal,State House,14,Overvotes,,0,0,0,0
+Cochise,17 McNeal,State House,14,Undervotes,,154,12,140,2
+Cochise,17 McNeal,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,481,136,307,38
+Cochise,17 McNeal,Corporation Commissioner,,"Marquez Peterson, Lea",REP,456,138,282,36
+Cochise,17 McNeal,Corporation Commissioner,,"Sloan, Eric",REP,444,133,276,35
+Cochise,17 McNeal,Corporation Commissioner,,"Tovar, Anna",DEM,207,15,185,7
+Cochise,17 McNeal,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,193,10,178,5
+Cochise,17 McNeal,Corporation Commissioner,,"Stanfield, Shea",DEM,182,9,166,7
+Cochise,17 McNeal,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,17 McNeal,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,17 McNeal,Corporation Commissioner,,Undervotes,,287,18,265,4
+Cochise,18 Naco,Registered Voters,,,,763,,,
+Cochise,18 Naco,Ballots Cast,,,,483,38,434,11
+Cochise,18 Naco,Ballots Cast Blank,,,,0,0,0,0
+Cochise,18 Naco,President,,Biden / Harris,DEM,314,22,289,3
+Cochise,18 Naco,President,,Trump / Pence,REP,153,16,130,7
+Cochise,18 Naco,President,,Jorgensen / Cohen,LBT,10,0,10,0
+Cochise,18 Naco,President,,Write-In,,0,0,0,0
+Cochise,18 Naco,President,,Overvotes,,1,0,1,0
+Cochise,18 Naco,President,,Undervotes,,5,0,4,1
+Cochise,18 Naco,U.S. Senate,,"Kelly, Mark",DEM,336,22,309,5
+Cochise,18 Naco,U.S. Senate,,"McSally, Martha",REP,141,15,120,6
+Cochise,18 Naco,U.S. Senate,,Write-In,,2,1,1,0
+Cochise,18 Naco,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,18 Naco,U.S. Senate,,Undervotes,,4,0,4,0
+Cochise,18 Naco,U.S. House,2,"Kirkpatrick, Ann",DEM,340,24,311,5
+Cochise,18 Naco,U.S. House,2,"Martin, Brandon",REP,129,14,109,6
+Cochise,18 Naco,U.S. House,2,Write-In,,0,0,0,0
+Cochise,18 Naco,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,18 Naco,U.S. House,2,Undervotes,,14,0,14,0
+Cochise,18 Naco,State Senate,14,"Karp, Bob",DEM,320,21,296,3
+Cochise,18 Naco,State Senate,14,"Gowan, David",REP,147,16,123,8
+Cochise,18 Naco,State Senate,14,Write-In,,0,0,0,0
+Cochise,18 Naco,State Senate,14,Overvotes,,0,0,0,0
+Cochise,18 Naco,State Senate,14,Undervotes,,16,1,15,0
+Cochise,18 Naco,State House,14,"Maestas-Condos, Ronnie",DEM,272,20,248,4
+Cochise,18 Naco,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,254,17,234,3
+Cochise,18 Naco,State House,14,"Griffin, Gail",REP,150,14,129,7
+Cochise,18 Naco,State House,14,"Nutt, Becky",REP,135,15,115,5
+Cochise,18 Naco,State House,14,Write-In,,1,0,1,0
+Cochise,18 Naco,State House,14,Overvotes,,0,0,0,0
+Cochise,18 Naco,State House,14,Undervotes,,154,10,141,3
+Cochise,18 Naco,Corporation Commissioner,,"Tovar, Anna",DEM,307,20,282,5
+Cochise,18 Naco,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,247,16,229,2
+Cochise,18 Naco,Corporation Commissioner,,"Stanfield, Shea",DEM,243,19,221,3
+Cochise,18 Naco,Corporation Commissioner,,"Marquez Peterson, Lea",REP,137,15,115,7
+Cochise,18 Naco,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,131,16,109,6
+Cochise,18 Naco,Corporation Commissioner,,"Sloan, Eric",REP,127,16,106,5
+Cochise,18 Naco,Corporation Commissioner,,Write-In,,2,0,2,0
+Cochise,18 Naco,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,18 Naco,Corporation Commissioner,,Undervotes,,255,12,238,5
+Cochise,19 Palominas,Registered Voters,,,,1481,,,
+Cochise,19 Palominas,Ballots Cast,,,,1147,159,942,46
+Cochise,19 Palominas,Ballots Cast Blank,,,,0,0,0,0
+Cochise,19 Palominas,President,,Trump / Pence,REP,781,138,605,38
+Cochise,19 Palominas,President,,Biden / Harris,DEM,341,20,317,4
+Cochise,19 Palominas,President,,Jorgensen / Cohen,LBT,16,1,13,2
+Cochise,19 Palominas,President,,Write-In,,4,0,4,0
+Cochise,19 Palominas,President,,Overvotes,,0,0,0,0
+Cochise,19 Palominas,President,,Undervotes,,5,0,3,2
+Cochise,19 Palominas,U.S. Senate,,"McSally, Martha",REP,780,134,611,35
+Cochise,19 Palominas,U.S. Senate,,"Kelly, Mark",DEM,353,24,319,10
+Cochise,19 Palominas,U.S. Senate,,Write-In,,1,1,0,0
+Cochise,19 Palominas,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,19 Palominas,U.S. Senate,,Undervotes,,13,0,12,1
+Cochise,19 Palominas,U.S. House,2,"Martin, Brandon",REP,768,129,601,38
+Cochise,19 Palominas,U.S. House,2,"Kirkpatrick, Ann",DEM,359,27,325,7
+Cochise,19 Palominas,U.S. House,2,Write-In,,3,1,2,0
+Cochise,19 Palominas,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,19 Palominas,U.S. House,2,Undervotes,,17,2,14,1
+Cochise,19 Palominas,State Senate,14,"Gowan, David",REP,786,136,613,37
+Cochise,19 Palominas,State Senate,14,"Karp, Bob",DEM,333,20,305,8
+Cochise,19 Palominas,State Senate,14,Write-In,,4,1,3,0
+Cochise,19 Palominas,State Senate,14,Overvotes,,0,0,0,0
+Cochise,19 Palominas,State Senate,14,Undervotes,,24,2,21,1
+Cochise,19 Palominas,State House,14,"Griffin, Gail",REP,745,130,579,36
+Cochise,19 Palominas,State House,14,"Nutt, Becky",REP,736,141,562,33
+Cochise,19 Palominas,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,303,21,275,7
+Cochise,19 Palominas,State House,14,"Maestas-Condos, Ronnie",DEM,279,17,256,6
+Cochise,19 Palominas,State House,14,Write-In,,3,0,3,0
+Cochise,19 Palominas,State House,14,Overvotes,,0,0,0,0
+Cochise,19 Palominas,State House,14,Undervotes,,228,9,209,10
+Cochise,19 Palominas,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,724,130,557,37
+Cochise,19 Palominas,Corporation Commissioner,,"Marquez Peterson, Lea",REP,713,130,547,36
+Cochise,19 Palominas,Corporation Commissioner,,"Sloan, Eric",REP,694,129,531,34
+Cochise,19 Palominas,Corporation Commissioner,,"Tovar, Anna",DEM,313,21,284,8
+Cochise,19 Palominas,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,274,17,249,8
+Cochise,19 Palominas,Corporation Commissioner,,"Stanfield, Shea",DEM,271,20,244,7
+Cochise,19 Palominas,Corporation Commissioner,,Write-In,,4,0,4,0
+Cochise,19 Palominas,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,19 Palominas,Corporation Commissioner,,Undervotes,,448,30,410,8
+Cochise,20 Pirtleville,Registered Voters,,,,1517,,,
+Cochise,20 Pirtleville,Ballots Cast,,,,920,90,794,36
+Cochise,20 Pirtleville,Ballots Cast Blank,,,,0,0,0,0
+Cochise,20 Pirtleville,President,,Biden / Harris,DEM,576,40,513,23
+Cochise,20 Pirtleville,President,,Trump / Pence,REP,332,48,272,12
+Cochise,20 Pirtleville,President,,Jorgensen / Cohen,LBT,7,2,5,0
+Cochise,20 Pirtleville,President,,Write-In,,2,0,2,0
+Cochise,20 Pirtleville,President,,Overvotes,,1,0,1,0
+Cochise,20 Pirtleville,President,,Undervotes,,2,0,1,1
+Cochise,20 Pirtleville,U.S. Senate,,"Kelly, Mark",DEM,597,43,531,23
+Cochise,20 Pirtleville,U.S. Senate,,"McSally, Martha",REP,313,46,254,13
+Cochise,20 Pirtleville,U.S. Senate,,Write-In,,2,0,2,0
+Cochise,20 Pirtleville,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,20 Pirtleville,U.S. Senate,,Undervotes,,8,1,7,0
+Cochise,20 Pirtleville,U.S. House,2,"Kirkpatrick, Ann",DEM,607,48,534,25
+Cochise,20 Pirtleville,U.S. House,2,"Martin, Brandon",REP,291,41,239,11
+Cochise,20 Pirtleville,U.S. House,2,Write-In,,0,0,0,0
+Cochise,20 Pirtleville,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,20 Pirtleville,U.S. House,2,Undervotes,,22,1,21,0
+Cochise,20 Pirtleville,State Senate,14,"Karp, Bob",DEM,576,39,513,24
+Cochise,20 Pirtleville,State Senate,14,"Gowan, David",REP,316,48,258,10
+Cochise,20 Pirtleville,State Senate,14,Write-In,,0,0,0,0
+Cochise,20 Pirtleville,State Senate,14,Overvotes,,0,0,0,0
+Cochise,20 Pirtleville,State Senate,14,Undervotes,,28,3,23,2
+Cochise,20 Pirtleville,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,485,36,425,24
+Cochise,20 Pirtleville,State House,14,"Maestas-Condos, Ronnie",DEM,453,36,400,17
+Cochise,20 Pirtleville,State House,14,"Griffin, Gail",REP,317,49,259,9
+Cochise,20 Pirtleville,State House,14,"Nutt, Becky",REP,285,42,232,11
+Cochise,20 Pirtleville,State House,14,Write-In,,1,0,1,0
+Cochise,20 Pirtleville,State House,14,Overvotes,,0,0,0,0
+Cochise,20 Pirtleville,State House,14,Undervotes,,299,17,271,11
+Cochise,20 Pirtleville,Corporation Commissioner,,"Tovar, Anna",DEM,556,43,492,21
+Cochise,20 Pirtleville,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,442,37,382,23
+Cochise,20 Pirtleville,Corporation Commissioner,,"Stanfield, Shea",DEM,408,33,353,22
+Cochise,20 Pirtleville,Corporation Commissioner,,"Marquez Peterson, Lea",REP,292,46,234,12
+Cochise,20 Pirtleville,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,288,45,231,12
+Cochise,20 Pirtleville,Corporation Commissioner,,"Sloan, Eric",REP,249,41,200,8
+Cochise,20 Pirtleville,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,20 Pirtleville,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,20 Pirtleville,Corporation Commissioner,,Undervotes,,525,25,490,10
+Cochise,21 Pomerene,Registered Voters,,,,1201,,,
+Cochise,21 Pomerene,Ballots Cast,,,,981,195,745,41
+Cochise,21 Pomerene,Ballots Cast Blank,,,,0,0,0,0
+Cochise,21 Pomerene,President,,Trump / Pence,REP,694,180,479,35
+Cochise,21 Pomerene,President,,Biden / Harris,DEM,271,14,251,6
+Cochise,21 Pomerene,President,,Jorgensen / Cohen,LBT,9,0,9,0
+Cochise,21 Pomerene,President,,Write-In,,4,0,4,0
+Cochise,21 Pomerene,President,,Overvotes,,0,0,0,0
+Cochise,21 Pomerene,President,,Undervotes,,3,1,2,0
+Cochise,21 Pomerene,U.S. Senate,,"McSally, Martha",REP,682,178,469,35
+Cochise,21 Pomerene,U.S. Senate,,"Kelly, Mark",DEM,288,14,269,5
+Cochise,21 Pomerene,U.S. Senate,,Write-In,,4,1,3,0
+Cochise,21 Pomerene,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,21 Pomerene,U.S. Senate,,Undervotes,,7,2,4,1
+Cochise,21 Pomerene,U.S. House,2,"Martin, Brandon",REP,674,176,463,35
+Cochise,21 Pomerene,U.S. House,2,"Kirkpatrick, Ann",DEM,275,16,254,5
+Cochise,21 Pomerene,U.S. House,2,Write-In,,4,0,4,0
+Cochise,21 Pomerene,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,21 Pomerene,U.S. House,2,Undervotes,,28,3,24,1
+Cochise,21 Pomerene,State Senate,14,"Gowan, David",REP,686,175,476,35
+Cochise,21 Pomerene,State Senate,14,"Karp, Bob",DEM,269,16,248,5
+Cochise,21 Pomerene,State Senate,14,Write-In,,1,0,1,0
+Cochise,21 Pomerene,State Senate,14,Overvotes,,0,0,0,0
+Cochise,21 Pomerene,State Senate,14,Undervotes,,25,4,20,1
+Cochise,21 Pomerene,State House,14,"Nutt, Becky",REP,650,171,447,32
+Cochise,21 Pomerene,State House,14,"Griffin, Gail",REP,646,176,435,35
+Cochise,21 Pomerene,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,243,15,223,5
+Cochise,21 Pomerene,State House,14,"Maestas-Condos, Ronnie",DEM,223,15,204,4
+Cochise,21 Pomerene,State House,14,Write-In,,3,0,3,0
+Cochise,21 Pomerene,State House,14,Overvotes,,0,0,0,0
+Cochise,21 Pomerene,State House,14,Undervotes,,197,13,178,6
+Cochise,21 Pomerene,Corporation Commissioner,,"Marquez Peterson, Lea",REP,621,165,424,32
+Cochise,21 Pomerene,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,619,172,417,30
+Cochise,21 Pomerene,Corporation Commissioner,,"Sloan, Eric",REP,618,170,415,33
+Cochise,21 Pomerene,Corporation Commissioner,,"Tovar, Anna",DEM,252,18,228,6
+Cochise,21 Pomerene,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,235,15,215,5
+Cochise,21 Pomerene,Corporation Commissioner,,"Stanfield, Shea",DEM,220,14,201,5
+Cochise,21 Pomerene,Corporation Commissioner,,Write-In,,4,0,4,0
+Cochise,21 Pomerene,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,21 Pomerene,Corporation Commissioner,,Undervotes,,374,31,331,12
+Cochise,22 Portal,Registered Voters,,,,340,,,
+Cochise,22 Portal,Ballots Cast,,,,284,4,275,5
+Cochise,22 Portal,Ballots Cast Blank,,,,0,0,0,0
+Cochise,22 Portal,President,,Trump / Pence,REP,147,2,140,5
+Cochise,22 Portal,President,,Biden / Harris,DEM,130,2,128,0
+Cochise,22 Portal,President,,Jorgensen / Cohen,LBT,2,0,2,0
+Cochise,22 Portal,President,,Write-In,,3,0,3,0
+Cochise,22 Portal,President,,Overvotes,,0,0,0,0
+Cochise,22 Portal,President,,Undervotes,,2,0,2,0
+Cochise,22 Portal,U.S. Senate,,"McSally, Martha",REP,150,2,143,5
+Cochise,22 Portal,U.S. Senate,,"Kelly, Mark",DEM,133,2,131,0
+Cochise,22 Portal,U.S. Senate,,Write-In,,0,0,0,0
+Cochise,22 Portal,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,22 Portal,U.S. Senate,,Undervotes,,1,0,1,0
+Cochise,22 Portal,U.S. House,2,"Martin, Brandon",REP,144,2,137,5
+Cochise,22 Portal,U.S. House,2,"Kirkpatrick, Ann",DEM,136,2,134,0
+Cochise,22 Portal,U.S. House,2,Write-In,,1,0,1,0
+Cochise,22 Portal,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,22 Portal,U.S. House,2,Undervotes,,3,0,3,0
+Cochise,22 Portal,State Senate,14,"Gowan, David",REP,150,2,143,5
+Cochise,22 Portal,State Senate,14,"Karp, Bob",DEM,129,2,127,0
+Cochise,22 Portal,State Senate,14,Write-In,,0,0,0,0
+Cochise,22 Portal,State Senate,14,Overvotes,,0,0,0,0
+Cochise,22 Portal,State Senate,14,Undervotes,,4,0,4,0
+Cochise,22 Portal,State House,14,"Nutt, Becky",REP,142,2,135,5
+Cochise,22 Portal,State House,14,"Griffin, Gail",REP,139,2,132,5
+Cochise,22 Portal,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,129,2,127,0
+Cochise,22 Portal,State House,14,"Maestas-Condos, Ronnie",DEM,119,1,118,0
+Cochise,22 Portal,State House,14,Write-In,,0,0,0,0
+Cochise,22 Portal,State House,14,Overvotes,,0,0,0,0
+Cochise,22 Portal,State House,14,Undervotes,,37,1,36,0
+Cochise,22 Portal,Corporation Commissioner,,"Marquez Peterson, Lea",REP,144,2,137,5
+Cochise,22 Portal,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,141,2,134,5
+Cochise,22 Portal,Corporation Commissioner,,"Sloan, Eric",REP,138,2,131,5
+Cochise,22 Portal,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,124,1,123,0
+Cochise,22 Portal,Corporation Commissioner,,"Tovar, Anna",DEM,122,1,121,0
+Cochise,22 Portal,Corporation Commissioner,,"Stanfield, Shea",DEM,119,2,117,0
+Cochise,22 Portal,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,22 Portal,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,22 Portal,Corporation Commissioner,,Undervotes,,61,2,59,0
+Cochise,23 San Simon,Registered Voters,,,,250,,,
+Cochise,23 San Simon,Ballots Cast,,,,184,35,143,6
+Cochise,23 San Simon,Ballots Cast Blank,,,,0,0,0,0
+Cochise,23 San Simon,President,,Trump / Pence,REP,147,29,113,5
+Cochise,23 San Simon,President,,Biden / Harris,DEM,31,5,26,0
+Cochise,23 San Simon,President,,Jorgensen / Cohen,LBT,3,1,2,0
+Cochise,23 San Simon,President,,Write-In,,1,0,1,0
+Cochise,23 San Simon,President,,Overvotes,,1,0,1,0
+Cochise,23 San Simon,President,,Undervotes,,1,0,0,1
+Cochise,23 San Simon,U.S. Senate,,"McSally, Martha",REP,149,30,114,5
+Cochise,23 San Simon,U.S. Senate,,"Kelly, Mark",DEM,31,5,26,0
+Cochise,23 San Simon,U.S. Senate,,Write-In,,1,0,1,0
+Cochise,23 San Simon,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,23 San Simon,U.S. Senate,,Undervotes,,3,0,2,1
+Cochise,23 San Simon,U.S. House,2,"Martin, Brandon",REP,137,27,105,5
+Cochise,23 San Simon,U.S. House,2,"Kirkpatrick, Ann",DEM,38,7,31,0
+Cochise,23 San Simon,U.S. House,2,Write-In,,1,0,1,0
+Cochise,23 San Simon,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,23 San Simon,U.S. House,2,Undervotes,,8,1,6,1
+Cochise,23 San Simon,State Senate,14,"Gowan, David",REP,143,28,110,5
+Cochise,23 San Simon,State Senate,14,"Karp, Bob",DEM,32,6,26,0
+Cochise,23 San Simon,State Senate,14,Write-In,,1,0,1,0
+Cochise,23 San Simon,State Senate,14,Overvotes,,0,0,0,0
+Cochise,23 San Simon,State Senate,14,Undervotes,,8,1,6,1
+Cochise,23 San Simon,State House,14,"Griffin, Gail",REP,143,29,109,5
+Cochise,23 San Simon,State House,14,"Nutt, Becky",REP,136,29,103,4
+Cochise,23 San Simon,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,27,4,23,0
+Cochise,23 San Simon,State House,14,"Maestas-Condos, Ronnie",DEM,22,4,18,0
+Cochise,23 San Simon,State House,14,Write-In,,1,0,1,0
+Cochise,23 San Simon,State House,14,Overvotes,,0,0,0,0
+Cochise,23 San Simon,State House,14,Undervotes,,39,4,32,3
+Cochise,23 San Simon,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,137,28,105,4
+Cochise,23 San Simon,Corporation Commissioner,,"Marquez Peterson, Lea",REP,130,30,95,5
+Cochise,23 San Simon,Corporation Commissioner,,"Sloan, Eric",REP,129,29,96,4
+Cochise,23 San Simon,Corporation Commissioner,,"Tovar, Anna",DEM,30,5,25,0
+Cochise,23 San Simon,Corporation Commissioner,,"Stanfield, Shea",DEM,25,4,21,0
+Cochise,23 San Simon,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,23,4,19,0
+Cochise,23 San Simon,Corporation Commissioner,,Write-In,,1,0,1,0
+Cochise,23 San Simon,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,23 San Simon,Corporation Commissioner,,Undervotes,,77,5,67,5
+Cochise,24 St. David,Registered Voters,,,,1969,,,
+Cochise,24 St. David,Ballots Cast,,,,1603,359,1153,91
+Cochise,24 St. David,Ballots Cast Blank,,,,0,0,0,0
+Cochise,24 St. David,President,,Trump / Pence,REP,1239,335,818,86
+Cochise,24 St. David,President,,Biden / Harris,DEM,332,22,306,4
+Cochise,24 St. David,President,,Jorgensen / Cohen,LBT,25,2,23,0
+Cochise,24 St. David,President,,Write-In,,4,0,3,1
+Cochise,24 St. David,President,,Overvotes,,1,0,1,0
+Cochise,24 St. David,President,,Undervotes,,2,0,2,0
+Cochise,24 St. David,U.S. Senate,,"McSally, Martha",REP,1229,331,814,84
+Cochise,24 St. David,U.S. Senate,,"Kelly, Mark",DEM,359,25,327,7
+Cochise,24 St. David,U.S. Senate,,Write-In,,1,0,1,0
+Cochise,24 St. David,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,24 St. David,U.S. Senate,,Undervotes,,14,3,11,0
+Cochise,24 St. David,U.S. House,2,"Martin, Brandon",REP,1198,325,791,82
+Cochise,24 St. David,U.S. House,2,"Kirkpatrick, Ann",DEM,361,30,325,6
+Cochise,24 St. David,U.S. House,2,Write-In,,2,0,2,0
+Cochise,24 St. David,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,24 St. David,U.S. House,2,Undervotes,,42,4,35,3
+Cochise,24 St. David,State Senate,14,"Gowan, David",REP,1229,331,815,83
+Cochise,24 St. David,State Senate,14,"Karp, Bob",DEM,331,23,301,7
+Cochise,24 St. David,State Senate,14,Write-In,,1,1,0,0
+Cochise,24 St. David,State Senate,14,Overvotes,,0,0,0,0
+Cochise,24 St. David,State Senate,14,Undervotes,,38,3,34,1
+Cochise,24 St. David,State House,14,"Griffin, Gail",REP,1177,325,770,82
+Cochise,24 St. David,State House,14,"Nutt, Becky",REP,1163,322,761,80
+Cochise,24 St. David,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,307,22,282,3
+Cochise,24 St. David,State House,14,"Maestas-Condos, Ronnie",DEM,289,20,264,5
+Cochise,24 St. David,State House,14,Write-In,,2,2,0,0
+Cochise,24 St. David,State House,14,Overvotes,,0,0,0,0
+Cochise,24 St. David,State House,14,Undervotes,,260,25,223,12
+Cochise,24 St. David,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1150,325,746,79
+Cochise,24 St. David,Corporation Commissioner,,"Sloan, Eric",REP,1134,313,740,81
+Cochise,24 St. David,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1127,320,728,79
+Cochise,24 St. David,Corporation Commissioner,,"Tovar, Anna",DEM,329,29,294,6
+Cochise,24 St. David,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,306,26,275,5
+Cochise,24 St. David,Corporation Commissioner,,"Stanfield, Shea",DEM,279,25,251,3
+Cochise,24 St. David,Corporation Commissioner,,Write-In,,10,1,9,0
+Cochise,24 St. David,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,24 St. David,Corporation Commissioner,,Undervotes,,459,35,404,20
+Cochise,25 Sunizona,Registered Voters,,,,543,,,
+Cochise,25 Sunizona,Ballots Cast,,,,424,92,309,23
+Cochise,25 Sunizona,Ballots Cast Blank,,,,0,0,0,0
+Cochise,25 Sunizona,President,,Trump / Pence,REP,290,82,189,19
+Cochise,25 Sunizona,President,,Biden / Harris,DEM,123,8,112,3
+Cochise,25 Sunizona,President,,Jorgensen / Cohen,LBT,9,1,7,1
+Cochise,25 Sunizona,President,,Write-In,,0,0,0,0
+Cochise,25 Sunizona,President,,Overvotes,,0,0,0,0
+Cochise,25 Sunizona,President,,Undervotes,,2,1,1,0
+Cochise,25 Sunizona,U.S. Senate,,"McSally, Martha",REP,289,80,190,19
+Cochise,25 Sunizona,U.S. Senate,,"Kelly, Mark",DEM,130,12,114,4
+Cochise,25 Sunizona,U.S. Senate,,Write-In,,0,0,0,0
+Cochise,25 Sunizona,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,25 Sunizona,U.S. Senate,,Undervotes,,5,0,5,0
+Cochise,25 Sunizona,U.S. House,2,"Martin, Brandon",REP,288,80,191,17
+Cochise,25 Sunizona,U.S. House,2,"Kirkpatrick, Ann",DEM,129,11,114,4
+Cochise,25 Sunizona,U.S. House,2,Write-In,,0,0,0,0
+Cochise,25 Sunizona,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,25 Sunizona,U.S. House,2,Undervotes,,7,1,4,2
+Cochise,25 Sunizona,State Senate,14,"Gowan, David",REP,294,81,194,19
+Cochise,25 Sunizona,State Senate,14,"Karp, Bob",DEM,122,9,110,3
+Cochise,25 Sunizona,State Senate,14,Write-In,,0,0,0,0
+Cochise,25 Sunizona,State Senate,14,Overvotes,,0,0,0,0
+Cochise,25 Sunizona,State Senate,14,Undervotes,,8,2,5,1
+Cochise,25 Sunizona,State House,14,"Griffin, Gail",REP,278,78,182,18
+Cochise,25 Sunizona,State House,14,"Nutt, Becky",REP,278,78,181,19
+Cochise,25 Sunizona,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,115,9,104,2
+Cochise,25 Sunizona,State House,14,"Maestas-Condos, Ronnie",DEM,107,6,98,3
+Cochise,25 Sunizona,State House,14,Write-In,,0,0,0,0
+Cochise,25 Sunizona,State House,14,Overvotes,,0,0,0,0
+Cochise,25 Sunizona,State House,14,Undervotes,,70,13,53,4
+Cochise,25 Sunizona,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,275,78,178,19
+Cochise,25 Sunizona,Corporation Commissioner,,"Sloan, Eric",REP,268,75,174,19
+Cochise,25 Sunizona,Corporation Commissioner,,"Marquez Peterson, Lea",REP,265,77,169,19
+Cochise,25 Sunizona,Corporation Commissioner,,"Tovar, Anna",DEM,114,8,103,3
+Cochise,25 Sunizona,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,108,9,97,2
+Cochise,25 Sunizona,Corporation Commissioner,,"Stanfield, Shea",DEM,103,8,93,2
+Cochise,25 Sunizona,Corporation Commissioner,,Write-In,,3,0,3,0
+Cochise,25 Sunizona,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,25 Sunizona,Corporation Commissioner,,Undervotes,,136,21,110,5
+Cochise,26 SV Avenida Del Sol,Registered Voters,,,,2552,,,
+Cochise,26 SV Avenida Del Sol,Ballots Cast,,,,1924,259,1598,67
+Cochise,26 SV Avenida Del Sol,Ballots Cast Blank,,,,2,0,2,0
+Cochise,26 SV Avenida Del Sol,President,,Trump / Pence,REP,1151,205,893,53
+Cochise,26 SV Avenida Del Sol,President,,Biden / Harris,DEM,722,48,660,14
+Cochise,26 SV Avenida Del Sol,President,,Jorgensen / Cohen,LBT,33,5,28,0
+Cochise,26 SV Avenida Del Sol,President,,Write-In,,7,1,6,0
+Cochise,26 SV Avenida Del Sol,President,,Overvotes,,1,0,1,0
+Cochise,26 SV Avenida Del Sol,President,,Undervotes,,10,0,10,0
+Cochise,26 SV Avenida Del Sol,U.S. Senate,,"McSally, Martha",REP,1142,208,885,49
+Cochise,26 SV Avenida Del Sol,U.S. Senate,,"Kelly, Mark",DEM,751,49,685,17
+Cochise,26 SV Avenida Del Sol,U.S. Senate,,Write-In,,2,1,1,0
+Cochise,26 SV Avenida Del Sol,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,26 SV Avenida Del Sol,U.S. Senate,,Undervotes,,29,1,27,1
+Cochise,26 SV Avenida Del Sol,U.S. House,2,"Martin, Brandon",REP,1135,207,877,51
+Cochise,26 SV Avenida Del Sol,U.S. House,2,"Kirkpatrick, Ann",DEM,728,49,666,13
+Cochise,26 SV Avenida Del Sol,U.S. House,2,Write-In,,3,1,2,0
+Cochise,26 SV Avenida Del Sol,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,26 SV Avenida Del Sol,U.S. House,2,Undervotes,,57,2,52,3
+Cochise,26 SV Avenida Del Sol,State Senate,14,"Gowan, David",REP,1172,207,918,47
+Cochise,26 SV Avenida Del Sol,State Senate,14,"Karp, Bob",DEM,674,45,613,16
+Cochise,26 SV Avenida Del Sol,State Senate,14,Write-In,,2,1,1,0
+Cochise,26 SV Avenida Del Sol,State Senate,14,Overvotes,,0,0,0,0
+Cochise,26 SV Avenida Del Sol,State Senate,14,Undervotes,,69,3,62,4
+Cochise,26 SV Avenida Del Sol,State House,14,"Griffin, Gail",REP,1097,205,846,46
+Cochise,26 SV Avenida Del Sol,State House,14,"Nutt, Becky",REP,1081,198,837,46
+Cochise,26 SV Avenida Del Sol,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,652,47,591,14
+Cochise,26 SV Avenida Del Sol,State House,14,"Maestas-Condos, Ronnie",DEM,549,41,496,12
+Cochise,26 SV Avenida Del Sol,State House,14,Write-In,,2,2,0,0
+Cochise,26 SV Avenida Del Sol,State House,14,Overvotes,,0,0,0,0
+Cochise,26 SV Avenida Del Sol,State House,14,Undervotes,,453,19,418,16
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1070,195,831,44
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1049,194,810,45
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,"Sloan, Eric",REP,993,188,765,40
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,"Tovar, Anna",DEM,663,52,596,15
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,"Stanfield, Shea",DEM,573,44,511,18
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,555,46,496,13
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,Write-In,,4,3,0,1
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,26 SV Avenida Del Sol,Corporation Commissioner,,Undervotes,,844,46,773,25
+Cochise,27 SV Buffalo Soldier,Registered Voters,,,,3016,,,
+Cochise,27 SV Buffalo Soldier,Ballots Cast,,,,2426,377,1955,94
+Cochise,27 SV Buffalo Soldier,Ballots Cast Blank,,,,0,0,0,0
+Cochise,27 SV Buffalo Soldier,President,,Trump / Pence,REP,1468,322,1081,65
+Cochise,27 SV Buffalo Soldier,President,,Biden / Harris,DEM,871,45,803,23
+Cochise,27 SV Buffalo Soldier,President,,Jorgensen / Cohen,LBT,67,7,54,6
+Cochise,27 SV Buffalo Soldier,President,,Write-In,,10,2,8,0
+Cochise,27 SV Buffalo Soldier,President,,Overvotes,,0,0,0,0
+Cochise,27 SV Buffalo Soldier,President,,Undervotes,,10,1,9,0
+Cochise,27 SV Buffalo Soldier,U.S. Senate,,"McSally, Martha",REP,1485,324,1100,61
+Cochise,27 SV Buffalo Soldier,U.S. Senate,,"Kelly, Mark",DEM,915,52,832,31
+Cochise,27 SV Buffalo Soldier,U.S. Senate,,Write-In,,3,1,1,1
+Cochise,27 SV Buffalo Soldier,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,27 SV Buffalo Soldier,U.S. Senate,,Undervotes,,23,0,22,1
+Cochise,27 SV Buffalo Soldier,U.S. House,2,"Martin, Brandon",REP,1503,324,1122,57
+Cochise,27 SV Buffalo Soldier,U.S. House,2,"Kirkpatrick, Ann",DEM,864,48,781,35
+Cochise,27 SV Buffalo Soldier,U.S. House,2,Write-In,,3,1,2,0
+Cochise,27 SV Buffalo Soldier,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,27 SV Buffalo Soldier,U.S. House,2,Undervotes,,56,4,50,2
+Cochise,27 SV Buffalo Soldier,State Senate,14,"Gowan, David",REP,1503,329,1117,57
+Cochise,27 SV Buffalo Soldier,State Senate,14,"Karp, Bob",DEM,841,40,766,35
+Cochise,27 SV Buffalo Soldier,State Senate,14,Write-In,,4,0,3,1
+Cochise,27 SV Buffalo Soldier,State Senate,14,Overvotes,,0,0,0,0
+Cochise,27 SV Buffalo Soldier,State Senate,14,Undervotes,,76,8,67,1
+Cochise,27 SV Buffalo Soldier,State House,14,"Nutt, Becky",REP,1470,325,1084,61
+Cochise,27 SV Buffalo Soldier,State House,14,"Griffin, Gail",REP,1454,318,1075,61
+Cochise,27 SV Buffalo Soldier,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,788,46,714,28
+Cochise,27 SV Buffalo Soldier,State House,14,"Maestas-Condos, Ronnie",DEM,670,40,606,24
+Cochise,27 SV Buffalo Soldier,State House,14,Write-In,,8,0,6,2
+Cochise,27 SV Buffalo Soldier,State House,14,Overvotes,,0,0,0,0
+Cochise,27 SV Buffalo Soldier,State House,14,Undervotes,,458,25,421,12
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1424,311,1048,65
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1372,315,1000,57
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,"Sloan, Eric",REP,1366,305,1003,58
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,"Tovar, Anna",DEM,796,53,717,26
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,714,43,642,29
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,"Stanfield, Shea",DEM,705,49,633,23
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,Write-In,,4,0,4,0
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,27 SV Buffalo Soldier,Corporation Commissioner,,Undervotes,,888,55,809,24
+Cochise,28 SV Busby,Registered Voters,,,,2076,,,
+Cochise,28 SV Busby,Ballots Cast,,,,1353,179,1121,53
+Cochise,28 SV Busby,Ballots Cast Blank,,,,0,0,0,0
+Cochise,28 SV Busby,President,,Trump / Pence,REP,737,127,577,33
+Cochise,28 SV Busby,President,,Biden / Harris,DEM,576,43,514,19
+Cochise,28 SV Busby,President,,Jorgensen / Cohen,LBT,32,8,23,1
+Cochise,28 SV Busby,President,,Write-In,,4,1,3,0
+Cochise,28 SV Busby,President,,Overvotes,,1,0,1,0
+Cochise,28 SV Busby,President,,Undervotes,,3,0,3,0
+Cochise,28 SV Busby,U.S. Senate,,"McSally, Martha",REP,728,121,578,29
+Cochise,28 SV Busby,U.S. Senate,,"Kelly, Mark",DEM,607,55,528,24
+Cochise,28 SV Busby,U.S. Senate,,Write-In,,3,0,3,0
+Cochise,28 SV Busby,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,28 SV Busby,U.S. Senate,,Undervotes,,14,3,11,0
+Cochise,28 SV Busby,U.S. House,2,"Martin, Brandon",REP,705,123,548,34
+Cochise,28 SV Busby,U.S. House,2,"Kirkpatrick, Ann",DEM,587,50,518,19
+Cochise,28 SV Busby,U.S. House,2,Write-In,,2,0,2,0
+Cochise,28 SV Busby,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,28 SV Busby,U.S. House,2,Undervotes,,59,6,53,0
+Cochise,28 SV Busby,State Senate,14,"Gowan, David",REP,726,125,566,35
+Cochise,28 SV Busby,State Senate,14,"Karp, Bob",DEM,568,48,503,17
+Cochise,28 SV Busby,State Senate,14,Write-In,,1,0,1,0
+Cochise,28 SV Busby,State Senate,14,Overvotes,,2,0,2,0
+Cochise,28 SV Busby,State Senate,14,Undervotes,,54,5,48,1
+Cochise,28 SV Busby,State House,14,"Griffin, Gail",REP,678,118,523,37
+Cochise,28 SV Busby,State House,14,"Nutt, Becky",REP,664,121,512,31
+Cochise,28 SV Busby,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,524,42,463,19
+Cochise,28 SV Busby,State House,14,"Maestas-Condos, Ronnie",DEM,450,40,394,16
+Cochise,28 SV Busby,State House,14,Write-In,,1,0,1,0
+Cochise,28 SV Busby,State House,14,Overvotes,,0,0,0,0
+Cochise,28 SV Busby,State House,14,Undervotes,,385,35,347,3
+Cochise,28 SV Busby,Corporation Commissioner,,"Marquez Peterson, Lea",REP,661,110,514,37
+Cochise,28 SV Busby,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,648,114,505,29
+Cochise,28 SV Busby,Corporation Commissioner,,"Sloan, Eric",REP,624,116,476,32
+Cochise,28 SV Busby,Corporation Commissioner,,"Tovar, Anna",DEM,516,43,455,18
+Cochise,28 SV Busby,Corporation Commissioner,,"Stanfield, Shea",DEM,458,35,406,17
+Cochise,28 SV Busby,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,446,36,391,19
+Cochise,28 SV Busby,Corporation Commissioner,,Write-In,,3,0,3,0
+Cochise,28 SV Busby,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,28 SV Busby,Corporation Commissioner,,Undervotes,,694,80,607,7
+Cochise,29 SV Carmelita,Registered Voters,,,,1355,,,
+Cochise,29 SV Carmelita,Ballots Cast,,,,920,129,750,41
+Cochise,29 SV Carmelita,Ballots Cast Blank,,,,0,0,0,0
+Cochise,29 SV Carmelita,President,,Trump / Pence,REP,524,96,401,27
+Cochise,29 SV Carmelita,President,,Biden / Harris,DEM,372,29,331,12
+Cochise,29 SV Carmelita,President,,Jorgensen / Cohen,LBT,18,3,15,0
+Cochise,29 SV Carmelita,President,,Write-In,,4,1,1,2
+Cochise,29 SV Carmelita,President,,Overvotes,,1,0,1,0
+Cochise,29 SV Carmelita,President,,Undervotes,,1,0,1,0
+Cochise,29 SV Carmelita,U.S. Senate,,"McSally, Martha",REP,516,96,394,26
+Cochise,29 SV Carmelita,U.S. Senate,,"Kelly, Mark",DEM,394,31,348,15
+Cochise,29 SV Carmelita,U.S. Senate,,Write-In,,4,1,3,0
+Cochise,29 SV Carmelita,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,29 SV Carmelita,U.S. Senate,,Undervotes,,6,1,5,0
+Cochise,29 SV Carmelita,U.S. House,2,"Martin, Brandon",REP,525,91,406,28
+Cochise,29 SV Carmelita,U.S. House,2,"Kirkpatrick, Ann",DEM,368,35,320,13
+Cochise,29 SV Carmelita,U.S. House,2,Write-In,,0,0,0,0
+Cochise,29 SV Carmelita,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,29 SV Carmelita,U.S. House,2,Undervotes,,27,3,24,0
+Cochise,29 SV Carmelita,State Senate,14,"Gowan, David",REP,532,94,409,29
+Cochise,29 SV Carmelita,State Senate,14,"Karp, Bob",DEM,354,28,314,12
+Cochise,29 SV Carmelita,State Senate,14,Write-In,,1,0,1,0
+Cochise,29 SV Carmelita,State Senate,14,Overvotes,,0,0,0,0
+Cochise,29 SV Carmelita,State Senate,14,Undervotes,,31,6,25,0
+Cochise,29 SV Carmelita,State House,14,"Griffin, Gail",REP,504,90,386,28
+Cochise,29 SV Carmelita,State House,14,"Nutt, Becky",REP,472,87,360,25
+Cochise,29 SV Carmelita,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,341,29,298,14
+Cochise,29 SV Carmelita,State House,14,"Maestas-Condos, Ronnie",DEM,284,26,245,13
+Cochise,29 SV Carmelita,State House,14,Write-In,,1,0,1,0
+Cochise,29 SV Carmelita,State House,14,Overvotes,,2,0,2,0
+Cochise,29 SV Carmelita,State House,14,Undervotes,,232,24,206,2
+Cochise,29 SV Carmelita,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,483,88,367,28
+Cochise,29 SV Carmelita,Corporation Commissioner,,"Marquez Peterson, Lea",REP,480,85,371,24
+Cochise,29 SV Carmelita,Corporation Commissioner,,"Sloan, Eric",REP,459,86,351,22
+Cochise,29 SV Carmelita,Corporation Commissioner,,"Tovar, Anna",DEM,342,31,295,16
+Cochise,29 SV Carmelita,Corporation Commissioner,,"Stanfield, Shea",DEM,291,23,253,15
+Cochise,29 SV Carmelita,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,284,27,243,14
+Cochise,29 SV Carmelita,Corporation Commissioner,,Write-In,,4,3,1,0
+Cochise,29 SV Carmelita,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,29 SV Carmelita,Corporation Commissioner,,Undervotes,,411,41,366,4
+Cochise,30 SV Cloud,Registered Voters,,,,1265,,,
+Cochise,30 SV Cloud,Ballots Cast,,,,766,133,579,54
+Cochise,30 SV Cloud,Ballots Cast Blank,,,,0,0,0,0
+Cochise,30 SV Cloud,President,,Trump / Pence,REP,412,99,279,34
+Cochise,30 SV Cloud,President,,Biden / Harris,DEM,327,23,285,19
+Cochise,30 SV Cloud,President,,Jorgensen / Cohen,LBT,22,11,10,1
+Cochise,30 SV Cloud,President,,Write-In,,2,0,2,0
+Cochise,30 SV Cloud,President,,Overvotes,,1,0,1,0
+Cochise,30 SV Cloud,President,,Undervotes,,2,0,2,0
+Cochise,30 SV Cloud,U.S. Senate,,"McSally, Martha",REP,414,104,277,33
+Cochise,30 SV Cloud,U.S. Senate,,"Kelly, Mark",DEM,341,28,292,21
+Cochise,30 SV Cloud,U.S. Senate,,Write-In,,1,0,1,0
+Cochise,30 SV Cloud,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,30 SV Cloud,U.S. Senate,,Undervotes,,10,1,9,0
+Cochise,30 SV Cloud,U.S. House,2,"Martin, Brandon",REP,414,100,282,32
+Cochise,30 SV Cloud,U.S. House,2,"Kirkpatrick, Ann",DEM,324,30,272,22
+Cochise,30 SV Cloud,U.S. House,2,Write-In,,1,0,1,0
+Cochise,30 SV Cloud,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,30 SV Cloud,U.S. House,2,Undervotes,,27,3,24,0
+Cochise,30 SV Cloud,State Senate,14,"Gowan, David",REP,433,107,293,33
+Cochise,30 SV Cloud,State Senate,14,"Karp, Bob",DEM,298,21,256,21
+Cochise,30 SV Cloud,State Senate,14,Write-In,,1,0,1,0
+Cochise,30 SV Cloud,State Senate,14,Overvotes,,0,0,0,0
+Cochise,30 SV Cloud,State Senate,14,Undervotes,,30,4,26,0
+Cochise,30 SV Cloud,State House,14,"Griffin, Gail",REP,399,101,265,33
+Cochise,30 SV Cloud,State House,14,"Nutt, Becky",REP,391,97,259,35
+Cochise,30 SV Cloud,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,295,24,251,20
+Cochise,30 SV Cloud,State House,14,"Maestas-Condos, Ronnie",DEM,237,18,203,16
+Cochise,30 SV Cloud,State House,14,Write-In,,1,0,1,0
+Cochise,30 SV Cloud,State House,14,Overvotes,,0,0,0,0
+Cochise,30 SV Cloud,State House,14,Undervotes,,201,24,173,4
+Cochise,30 SV Cloud,Corporation Commissioner,,"Marquez Peterson, Lea",REP,381,100,250,31
+Cochise,30 SV Cloud,Corporation Commissioner,,"Sloan, Eric",REP,366,95,242,29
+Cochise,30 SV Cloud,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,362,97,238,27
+Cochise,30 SV Cloud,Corporation Commissioner,,"Tovar, Anna",DEM,288,28,238,22
+Cochise,30 SV Cloud,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,261,22,219,20
+Cochise,30 SV Cloud,Corporation Commissioner,,"Stanfield, Shea",DEM,239,20,197,22
+Cochise,30 SV Cloud,Corporation Commissioner,,Write-In,,2,0,2,0
+Cochise,30 SV Cloud,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,30 SV Cloud,Corporation Commissioner,,Undervotes,,387,34,342,11
+Cochise,31 SV College,Registered Voters,,,,2097,,,
+Cochise,31 SV College,Ballots Cast,,,,1526,202,1251,73
+Cochise,31 SV College,Ballots Cast Blank,,,,0,0,0,0
+Cochise,31 SV College,President,,Trump / Pence,REP,849,145,659,45
+Cochise,31 SV College,President,,Biden / Harris,DEM,624,48,553,23
+Cochise,31 SV College,President,,Jorgensen / Cohen,LBT,39,6,28,5
+Cochise,31 SV College,President,,Write-In,,7,3,4,0
+Cochise,31 SV College,President,,Overvotes,,1,0,1,0
+Cochise,31 SV College,President,,Undervotes,,6,0,6,0
+Cochise,31 SV College,U.S. Senate,,"McSally, Martha",REP,852,145,659,48
+Cochise,31 SV College,U.S. Senate,,"Kelly, Mark",DEM,644,54,565,25
+Cochise,31 SV College,U.S. Senate,,Write-In,,10,1,9,0
+Cochise,31 SV College,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,31 SV College,U.S. Senate,,Undervotes,,20,2,18,0
+Cochise,31 SV College,U.S. House,2,"Martin, Brandon",REP,854,149,661,44
+Cochise,31 SV College,U.S. House,2,"Kirkpatrick, Ann",DEM,622,48,547,27
+Cochise,31 SV College,U.S. House,2,Write-In,,9,1,8,0
+Cochise,31 SV College,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,31 SV College,U.S. House,2,Undervotes,,41,4,35,2
+Cochise,31 SV College,State Senate,14,"Gowan, David",REP,884,148,689,47
+Cochise,31 SV College,State Senate,14,"Karp, Bob",DEM,579,46,510,23
+Cochise,31 SV College,State Senate,14,Write-In,,3,0,3,0
+Cochise,31 SV College,State Senate,14,Overvotes,,1,0,1,0
+Cochise,31 SV College,State Senate,14,Undervotes,,53,6,45,2
+Cochise,31 SV College,State House,14,"Griffin, Gail",REP,845,151,647,47
+Cochise,31 SV College,State House,14,"Nutt, Becky",REP,820,145,630,45
+Cochise,31 SV College,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,549,46,480,23
+Cochise,31 SV College,State House,14,"Maestas-Condos, Ronnie",DEM,454,38,395,21
+Cochise,31 SV College,State House,14,Write-In,,7,0,7,0
+Cochise,31 SV College,State House,14,Overvotes,,0,0,0,0
+Cochise,31 SV College,State House,14,Undervotes,,365,20,337,8
+Cochise,31 SV College,Corporation Commissioner,,"Marquez Peterson, Lea",REP,837,149,643,45
+Cochise,31 SV College,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,805,147,611,47
+Cochise,31 SV College,Corporation Commissioner,,"Sloan, Eric",REP,748,140,570,38
+Cochise,31 SV College,Corporation Commissioner,,"Tovar, Anna",DEM,521,44,453,24
+Cochise,31 SV College,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,478,46,409,23
+Cochise,31 SV College,Corporation Commissioner,,"Stanfield, Shea",DEM,471,40,407,24
+Cochise,31 SV College,Corporation Commissioner,,Write-In,,4,1,3,0
+Cochise,31 SV College,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,31 SV College,Corporation Commissioner,,Undervotes,,696,33,648,15
+Cochise,32 SV Country Club,Registered Voters,,,,2304,,,
+Cochise,32 SV Country Club,Ballots Cast,,,,1988,169,1789,30
+Cochise,32 SV Country Club,Ballots Cast Blank,,,,0,0,0,0
+Cochise,32 SV Country Club,President,,Trump / Pence,REP,1261,155,1086,20
+Cochise,32 SV Country Club,President,,Biden / Harris,DEM,685,11,665,9
+Cochise,32 SV Country Club,President,,Jorgensen / Cohen,LBT,27,1,25,1
+Cochise,32 SV Country Club,President,,Write-In,,5,0,5,0
+Cochise,32 SV Country Club,President,,Overvotes,,0,0,0,0
+Cochise,32 SV Country Club,President,,Undervotes,,10,2,8,0
+Cochise,32 SV Country Club,U.S. Senate,,"McSally, Martha",REP,1280,156,1101,23
+Cochise,32 SV Country Club,U.S. Senate,,"Kelly, Mark",DEM,685,12,667,6
+Cochise,32 SV Country Club,U.S. Senate,,Write-In,,7,0,6,1
+Cochise,32 SV Country Club,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,32 SV Country Club,U.S. Senate,,Undervotes,,16,1,15,0
+Cochise,32 SV Country Club,U.S. House,2,"Martin, Brandon",REP,1281,155,1103,23
+Cochise,32 SV Country Club,U.S. House,2,"Kirkpatrick, Ann",DEM,644,12,627,5
+Cochise,32 SV Country Club,U.S. House,2,Write-In,,5,0,4,1
+Cochise,32 SV Country Club,U.S. House,2,Overvotes,,2,0,2,0
+Cochise,32 SV Country Club,U.S. House,2,Undervotes,,56,2,53,1
+Cochise,32 SV Country Club,State Senate,14,"Gowan, David",REP,1265,154,1088,23
+Cochise,32 SV Country Club,State Senate,14,"Karp, Bob",DEM,657,12,639,6
+Cochise,32 SV Country Club,State Senate,14,Write-In,,3,1,2,0
+Cochise,32 SV Country Club,State Senate,14,Overvotes,,0,0,0,0
+Cochise,32 SV Country Club,State Senate,14,Undervotes,,61,2,58,1
+Cochise,32 SV Country Club,State House,14,"Griffin, Gail",REP,1268,154,1088,26
+Cochise,32 SV Country Club,State House,14,"Nutt, Becky",REP,1217,148,1048,21
+Cochise,32 SV Country Club,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,618,14,600,4
+Cochise,32 SV Country Club,State House,14,"Maestas-Condos, Ronnie",DEM,527,10,512,5
+Cochise,32 SV Country Club,State House,14,Write-In,,3,1,2,0
+Cochise,32 SV Country Club,State House,14,Overvotes,,0,0,0,0
+Cochise,32 SV Country Club,State House,14,Undervotes,,339,11,324,4
+Cochise,32 SV Country Club,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1228,153,1053,22
+Cochise,32 SV Country Club,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1206,146,1038,22
+Cochise,32 SV Country Club,Corporation Commissioner,,"Sloan, Eric",REP,1172,144,1007,21
+Cochise,32 SV Country Club,Corporation Commissioner,,"Tovar, Anna",DEM,603,12,587,4
+Cochise,32 SV Country Club,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,577,15,558,4
+Cochise,32 SV Country Club,Corporation Commissioner,,"Stanfield, Shea",DEM,551,11,536,4
+Cochise,32 SV Country Club,Corporation Commissioner,,Write-In,,12,1,11,0
+Cochise,32 SV Country Club,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,32 SV Country Club,Corporation Commissioner,,Undervotes,,609,25,571,13
+Cochise,33 SV Estates,Registered Voters,,,,2141,,,
+Cochise,33 SV Estates,Ballots Cast,,,,1571,226,1259,86
+Cochise,33 SV Estates,Ballots Cast Blank,,,,0,0,0,0
+Cochise,33 SV Estates,President,,Trump / Pence,REP,937,187,680,70
+Cochise,33 SV Estates,President,,Biden / Harris,DEM,584,28,540,16
+Cochise,33 SV Estates,President,,Jorgensen / Cohen,LBT,37,11,26,0
+Cochise,33 SV Estates,President,,Write-In,,7,0,7,0
+Cochise,33 SV Estates,President,,Overvotes,,2,0,2,0
+Cochise,33 SV Estates,President,,Undervotes,,4,0,4,0
+Cochise,33 SV Estates,U.S. Senate,,"McSally, Martha",REP,933,185,679,69
+Cochise,33 SV Estates,U.S. Senate,,"Kelly, Mark",DEM,620,40,563,17
+Cochise,33 SV Estates,U.S. Senate,,Write-In,,4,1,3,0
+Cochise,33 SV Estates,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,33 SV Estates,U.S. Senate,,Undervotes,,14,0,14,0
+Cochise,33 SV Estates,U.S. House,2,"Martin, Brandon",REP,940,189,683,68
+Cochise,33 SV Estates,U.S. House,2,"Kirkpatrick, Ann",DEM,593,36,539,18
+Cochise,33 SV Estates,U.S. House,2,Write-In,,2,0,2,0
+Cochise,33 SV Estates,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,33 SV Estates,U.S. House,2,Undervotes,,36,1,35,0
+Cochise,33 SV Estates,State Senate,14,"Gowan, David",REP,957,191,697,69
+Cochise,33 SV Estates,State Senate,14,"Karp, Bob",DEM,573,33,524,16
+Cochise,33 SV Estates,State Senate,14,Write-In,,3,1,1,1
+Cochise,33 SV Estates,State Senate,14,Overvotes,,0,0,0,0
+Cochise,33 SV Estates,State Senate,14,Undervotes,,35,0,35,0
+Cochise,33 SV Estates,State House,14,"Griffin, Gail",REP,911,186,655,70
+Cochise,33 SV Estates,State House,14,"Nutt, Becky",REP,894,187,642,65
+Cochise,33 SV Estates,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,551,36,496,19
+Cochise,33 SV Estates,State House,14,"Maestas-Condos, Ronnie",DEM,440,27,402,11
+Cochise,33 SV Estates,State House,14,Write-In,,7,1,6,0
+Cochise,33 SV Estates,State House,14,Overvotes,,0,0,0,0
+Cochise,33 SV Estates,State House,14,Undervotes,,333,13,313,7
+Cochise,33 SV Estates,Corporation Commissioner,,"Marquez Peterson, Lea",REP,864,184,616,64
+Cochise,33 SV Estates,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,852,185,603,64
+Cochise,33 SV Estates,Corporation Commissioner,,"Sloan, Eric",REP,834,181,588,65
+Cochise,33 SV Estates,Corporation Commissioner,,"Tovar, Anna",DEM,545,31,498,16
+Cochise,33 SV Estates,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,469,36,419,14
+Cochise,33 SV Estates,Corporation Commissioner,,"Stanfield, Shea",DEM,448,29,408,11
+Cochise,33 SV Estates,Corporation Commissioner,,Write-In,,8,1,6,1
+Cochise,33 SV Estates,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,33 SV Estates,Corporation Commissioner,,Undervotes,,684,28,633,23
+Cochise,34 SV Hopi,Registered Voters,,,,1888,,,
+Cochise,34 SV Hopi,Ballots Cast,,,,1323,189,1076,58
+Cochise,34 SV Hopi,Ballots Cast Blank,,,,0,0,0,0
+Cochise,34 SV Hopi,President,,Trump / Pence,REP,758,159,560,39
+Cochise,34 SV Hopi,President,,Biden / Harris,DEM,517,27,472,18
+Cochise,34 SV Hopi,President,,Jorgensen / Cohen,LBT,37,1,35,1
+Cochise,34 SV Hopi,President,,Write-In,,5,1,4,0
+Cochise,34 SV Hopi,President,,Overvotes,,0,0,0,0
+Cochise,34 SV Hopi,President,,Undervotes,,6,1,5,0
+Cochise,34 SV Hopi,U.S. Senate,,"McSally, Martha",REP,756,153,561,42
+Cochise,34 SV Hopi,U.S. Senate,,"Kelly, Mark",DEM,547,33,500,14
+Cochise,34 SV Hopi,U.S. Senate,,Write-In,,5,1,3,1
+Cochise,34 SV Hopi,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,34 SV Hopi,U.S. Senate,,Undervotes,,15,2,12,1
+Cochise,34 SV Hopi,U.S. House,2,"Martin, Brandon",REP,730,150,540,40
+Cochise,34 SV Hopi,U.S. House,2,"Kirkpatrick, Ann",DEM,538,34,489,15
+Cochise,34 SV Hopi,U.S. House,2,Write-In,,3,1,1,1
+Cochise,34 SV Hopi,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,34 SV Hopi,U.S. House,2,Undervotes,,51,4,45,2
+Cochise,34 SV Hopi,State Senate,14,"Gowan, David",REP,752,149,562,41
+Cochise,34 SV Hopi,State Senate,14,"Karp, Bob",DEM,504,34,456,14
+Cochise,34 SV Hopi,State Senate,14,Write-In,,3,1,2,0
+Cochise,34 SV Hopi,State Senate,14,Overvotes,,0,0,0,0
+Cochise,34 SV Hopi,State Senate,14,Undervotes,,59,5,51,3
+Cochise,34 SV Hopi,State House,14,"Griffin, Gail",REP,741,155,546,40
+Cochise,34 SV Hopi,State House,14,"Nutt, Becky",REP,701,151,510,40
+Cochise,34 SV Hopi,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,469,29,427,13
+Cochise,34 SV Hopi,State House,14,"Maestas-Condos, Ronnie",DEM,396,25,356,15
+Cochise,34 SV Hopi,State House,14,Write-In,,7,1,4,2
+Cochise,34 SV Hopi,State House,14,Overvotes,,0,0,0,0
+Cochise,34 SV Hopi,State House,14,Undervotes,,322,17,299,6
+Cochise,34 SV Hopi,Corporation Commissioner,,"Marquez Peterson, Lea",REP,696,148,510,38
+Cochise,34 SV Hopi,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,692,152,502,38
+Cochise,34 SV Hopi,Corporation Commissioner,,"Sloan, Eric",REP,660,147,474,39
+Cochise,34 SV Hopi,Corporation Commissioner,,"Tovar, Anna",DEM,484,33,434,17
+Cochise,34 SV Hopi,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,429,25,389,15
+Cochise,34 SV Hopi,Corporation Commissioner,,"Stanfield, Shea",DEM,424,28,380,16
+Cochise,34 SV Hopi,Corporation Commissioner,,Write-In,,9,3,4,2
+Cochise,34 SV Hopi,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,34 SV Hopi,Corporation Commissioner,,Undervotes,,560,31,520,9
+Cochise,35 SV Moson,Registered Voters,,,,2163,,,
+Cochise,35 SV Moson,Ballots Cast,,,,1672,322,1286,64
+Cochise,35 SV Moson,Ballots Cast Blank,,,,1,0,0,1
+Cochise,35 SV Moson,President,,Trump / Pence,REP,1175,283,847,45
+Cochise,35 SV Moson,President,,Biden / Harris,DEM,442,32,394,16
+Cochise,35 SV Moson,President,,Jorgensen / Cohen,LBT,37,4,33,0
+Cochise,35 SV Moson,President,,Write-In,,9,1,6,2
+Cochise,35 SV Moson,President,,Overvotes,,0,0,0,0
+Cochise,35 SV Moson,President,,Undervotes,,9,2,6,1
+Cochise,35 SV Moson,U.S. Senate,,"McSally, Martha",REP,1185,289,849,47
+Cochise,35 SV Moson,U.S. Senate,,"Kelly, Mark",DEM,460,31,413,16
+Cochise,35 SV Moson,U.S. Senate,,Write-In,,8,1,7,0
+Cochise,35 SV Moson,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,35 SV Moson,U.S. Senate,,Undervotes,,18,1,16,1
+Cochise,35 SV Moson,U.S. House,2,"Martin, Brandon",REP,1168,282,840,46
+Cochise,35 SV Moson,U.S. House,2,"Kirkpatrick, Ann",DEM,454,36,401,17
+Cochise,35 SV Moson,U.S. House,2,Write-In,,4,0,4,0
+Cochise,35 SV Moson,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,35 SV Moson,U.S. House,2,Undervotes,,46,4,41,1
+Cochise,35 SV Moson,State Senate,14,"Gowan, David",REP,1201,290,866,45
+Cochise,35 SV Moson,State Senate,14,"Karp, Bob",DEM,418,29,371,18
+Cochise,35 SV Moson,State Senate,14,Write-In,,2,1,1,0
+Cochise,35 SV Moson,State Senate,14,Overvotes,,0,0,0,0
+Cochise,35 SV Moson,State Senate,14,Undervotes,,49,2,46,1
+Cochise,35 SV Moson,State House,14,"Griffin, Gail",REP,1152,285,817,50
+Cochise,35 SV Moson,State House,14,"Nutt, Becky",REP,1148,285,816,47
+Cochise,35 SV Moson,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,401,34,354,13
+Cochise,35 SV Moson,State House,14,"Maestas-Condos, Ronnie",DEM,338,25,301,12
+Cochise,35 SV Moson,State House,14,Write-In,,5,1,3,1
+Cochise,35 SV Moson,State House,14,Overvotes,,2,0,2,0
+Cochise,35 SV Moson,State House,14,Undervotes,,294,14,275,5
+Cochise,35 SV Moson,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1120,287,783,50
+Cochise,35 SV Moson,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1118,286,782,50
+Cochise,35 SV Moson,Corporation Commissioner,,"Sloan, Eric",REP,1088,281,763,44
+Cochise,35 SV Moson,Corporation Commissioner,,"Tovar, Anna",DEM,409,31,363,15
+Cochise,35 SV Moson,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,377,29,335,13
+Cochise,35 SV Moson,Corporation Commissioner,,"Stanfield, Shea",DEM,353,29,311,13
+Cochise,35 SV Moson,Corporation Commissioner,,Write-In,,7,3,4,0
+Cochise,35 SV Moson,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,35 SV Moson,Corporation Commissioner,,Undervotes,,538,20,511,7
+Cochise,36 SV Pueblo Del Sol,Registered Voters,,,,1575,,,
+Cochise,36 SV Pueblo Del Sol,Ballots Cast,,,,1189,183,963,43
+Cochise,36 SV Pueblo Del Sol,Ballots Cast Blank,,,,0,0,0,0
+Cochise,36 SV Pueblo Del Sol,President,,Trump / Pence,REP,699,152,511,36
+Cochise,36 SV Pueblo Del Sol,President,,Biden / Harris,DEM,446,25,415,6
+Cochise,36 SV Pueblo Del Sol,President,,Jorgensen / Cohen,LBT,31,5,25,1
+Cochise,36 SV Pueblo Del Sol,President,,Write-In,,9,1,8,0
+Cochise,36 SV Pueblo Del Sol,President,,Overvotes,,0,0,0,0
+Cochise,36 SV Pueblo Del Sol,President,,Undervotes,,4,0,4,0
+Cochise,36 SV Pueblo Del Sol,U.S. Senate,,"McSally, Martha",REP,682,149,499,34
+Cochise,36 SV Pueblo Del Sol,U.S. Senate,,"Kelly, Mark",DEM,479,34,436,9
+Cochise,36 SV Pueblo Del Sol,U.S. Senate,,Write-In,,5,0,5,0
+Cochise,36 SV Pueblo Del Sol,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,36 SV Pueblo Del Sol,U.S. Senate,,Undervotes,,23,0,23,0
+Cochise,36 SV Pueblo Del Sol,U.S. House,2,"Martin, Brandon",REP,688,145,514,29
+Cochise,36 SV Pueblo Del Sol,U.S. House,2,"Kirkpatrick, Ann",DEM,457,34,410,13
+Cochise,36 SV Pueblo Del Sol,U.S. House,2,Write-In,,4,0,4,0
+Cochise,36 SV Pueblo Del Sol,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,36 SV Pueblo Del Sol,U.S. House,2,Undervotes,,40,4,35,1
+Cochise,36 SV Pueblo Del Sol,State Senate,14,"Gowan, David",REP,696,150,512,34
+Cochise,36 SV Pueblo Del Sol,State Senate,14,"Karp, Bob",DEM,448,31,408,9
+Cochise,36 SV Pueblo Del Sol,State Senate,14,Write-In,,4,0,4,0
+Cochise,36 SV Pueblo Del Sol,State Senate,14,Overvotes,,0,0,0,0
+Cochise,36 SV Pueblo Del Sol,State Senate,14,Undervotes,,41,2,39,0
+Cochise,36 SV Pueblo Del Sol,State House,14,"Griffin, Gail",REP,662,142,490,30
+Cochise,36 SV Pueblo Del Sol,State House,14,"Nutt, Becky",REP,640,145,468,27
+Cochise,36 SV Pueblo Del Sol,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,430,38,382,10
+Cochise,36 SV Pueblo Del Sol,State House,14,"Maestas-Condos, Ronnie",DEM,359,26,328,5
+Cochise,36 SV Pueblo Del Sol,State House,14,Write-In,,5,1,3,1
+Cochise,36 SV Pueblo Del Sol,State House,14,Overvotes,,2,0,2,0
+Cochise,36 SV Pueblo Del Sol,State House,14,Undervotes,,280,14,253,13
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,630,148,451,31
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,"Marquez Peterson, Lea",REP,625,138,460,27
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,"Sloan, Eric",REP,598,131,439,28
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,"Tovar, Anna",DEM,424,30,386,8
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,374,32,333,9
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,"Stanfield, Shea",DEM,360,30,322,8
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,Write-In,,5,1,4,0
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,36 SV Pueblo Del Sol,Corporation Commissioner,,Undervotes,,551,39,494,18
+Cochise,37 SV Ramsey,Registered Voters,,,,1619,,,
+Cochise,37 SV Ramsey,Ballots Cast,,,,1331,185,1108,38
+Cochise,37 SV Ramsey,Ballots Cast Blank,,,,1,0,1,0
+Cochise,37 SV Ramsey,President,,Trump / Pence,REP,880,165,683,32
+Cochise,37 SV Ramsey,President,,Biden / Harris,DEM,422,16,400,6
+Cochise,37 SV Ramsey,President,,Jorgensen / Cohen,LBT,23,3,20,0
+Cochise,37 SV Ramsey,President,,Write-In,,2,1,1,0
+Cochise,37 SV Ramsey,President,,Overvotes,,0,0,0,0
+Cochise,37 SV Ramsey,President,,Undervotes,,4,0,4,0
+Cochise,37 SV Ramsey,U.S. Senate,,"McSally, Martha",REP,875,163,683,29
+Cochise,37 SV Ramsey,U.S. Senate,,"Kelly, Mark",DEM,444,19,418,7
+Cochise,37 SV Ramsey,U.S. Senate,,Write-In,,4,3,0,1
+Cochise,37 SV Ramsey,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,37 SV Ramsey,U.S. Senate,,Undervotes,,8,0,7,1
+Cochise,37 SV Ramsey,U.S. House,2,"Martin, Brandon",REP,867,163,672,32
+Cochise,37 SV Ramsey,U.S. House,2,"Kirkpatrick, Ann",DEM,439,22,411,6
+Cochise,37 SV Ramsey,U.S. House,2,Write-In,,1,0,1,0
+Cochise,37 SV Ramsey,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,37 SV Ramsey,U.S. House,2,Undervotes,,23,0,23,0
+Cochise,37 SV Ramsey,State Senate,14,"Gowan, David",REP,868,166,671,31
+Cochise,37 SV Ramsey,State Senate,14,"Karp, Bob",DEM,426,19,400,7
+Cochise,37 SV Ramsey,State Senate,14,Write-In,,0,0,0,0
+Cochise,37 SV Ramsey,State Senate,14,Overvotes,,1,0,1,0
+Cochise,37 SV Ramsey,State Senate,14,Undervotes,,36,0,36,0
+Cochise,37 SV Ramsey,State House,14,"Griffin, Gail",REP,867,161,675,31
+Cochise,37 SV Ramsey,State House,14,"Nutt, Becky",REP,831,161,640,30
+Cochise,37 SV Ramsey,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,391,24,362,5
+Cochise,37 SV Ramsey,State House,14,"Maestas-Condos, Ronnie",DEM,338,15,318,5
+Cochise,37 SV Ramsey,State House,14,Write-In,,4,2,2,0
+Cochise,37 SV Ramsey,State House,14,Overvotes,,0,0,0,0
+Cochise,37 SV Ramsey,State House,14,Undervotes,,231,7,219,5
+Cochise,37 SV Ramsey,Corporation Commissioner,,"Marquez Peterson, Lea",REP,827,158,640,29
+Cochise,37 SV Ramsey,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,799,161,609,29
+Cochise,37 SV Ramsey,Corporation Commissioner,,"Sloan, Eric",REP,768,150,592,26
+Cochise,37 SV Ramsey,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,392,23,362,7
+Cochise,37 SV Ramsey,Corporation Commissioner,,"Tovar, Anna",DEM,390,22,361,7
+Cochise,37 SV Ramsey,Corporation Commissioner,,"Stanfield, Shea",DEM,363,25,332,6
+Cochise,37 SV Ramsey,Corporation Commissioner,,Write-In,,1,0,1,0
+Cochise,37 SV Ramsey,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,37 SV Ramsey,Corporation Commissioner,,Undervotes,,453,16,427,10
+Cochise,38 SV Snyder,Registered Voters,,,,1288,,,
+Cochise,38 SV Snyder,Ballots Cast,,,,999,148,816,35
+Cochise,38 SV Snyder,Ballots Cast Blank,,,,0,0,0,0
+Cochise,38 SV Snyder,President,,Trump / Pence,REP,559,130,405,24
+Cochise,38 SV Snyder,President,,Biden / Harris,DEM,406,14,381,11
+Cochise,38 SV Snyder,President,,Jorgensen / Cohen,LBT,23,3,20,0
+Cochise,38 SV Snyder,President,,Write-In,,7,1,6,0
+Cochise,38 SV Snyder,President,,Overvotes,,0,0,0,0
+Cochise,38 SV Snyder,President,,Undervotes,,4,0,4,0
+Cochise,38 SV Snyder,U.S. Senate,,"McSally, Martha",REP,558,123,411,24
+Cochise,38 SV Snyder,U.S. Senate,,"Kelly, Mark",DEM,418,23,384,11
+Cochise,38 SV Snyder,U.S. Senate,,Write-In,,4,2,2,0
+Cochise,38 SV Snyder,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,38 SV Snyder,U.S. Senate,,Undervotes,,19,0,19,0
+Cochise,38 SV Snyder,U.S. House,2,"Martin, Brandon",REP,551,126,399,26
+Cochise,38 SV Snyder,U.S. House,2,"Kirkpatrick, Ann",DEM,406,19,378,9
+Cochise,38 SV Snyder,U.S. House,2,Write-In,,3,1,2,0
+Cochise,38 SV Snyder,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,38 SV Snyder,U.S. House,2,Undervotes,,38,2,36,0
+Cochise,38 SV Snyder,State Senate,14,"Gowan, David",REP,566,131,411,24
+Cochise,38 SV Snyder,State Senate,14,"Karp, Bob",DEM,391,15,366,10
+Cochise,38 SV Snyder,State Senate,14,Write-In,,2,0,2,0
+Cochise,38 SV Snyder,State Senate,14,Overvotes,,0,0,0,0
+Cochise,38 SV Snyder,State Senate,14,Undervotes,,38,2,35,1
+Cochise,38 SV Snyder,State House,14,"Nutt, Becky",REP,536,121,391,24
+Cochise,38 SV Snyder,State House,14,"Griffin, Gail",REP,535,124,387,24
+Cochise,38 SV Snyder,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,382,21,351,10
+Cochise,38 SV Snyder,State House,14,"Maestas-Condos, Ronnie",DEM,312,14,289,9
+Cochise,38 SV Snyder,State House,14,Write-In,,3,0,3,0
+Cochise,38 SV Snyder,State House,14,Overvotes,,2,0,2,0
+Cochise,38 SV Snyder,State House,14,Undervotes,,224,16,205,3
+Cochise,38 SV Snyder,Corporation Commissioner,,"Marquez Peterson, Lea",REP,531,123,385,23
+Cochise,38 SV Snyder,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,525,126,376,23
+Cochise,38 SV Snyder,Corporation Commissioner,,"Sloan, Eric",REP,502,122,359,21
+Cochise,38 SV Snyder,Corporation Commissioner,,"Tovar, Anna",DEM,367,13,343,11
+Cochise,38 SV Snyder,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,326,16,301,9
+Cochise,38 SV Snyder,Corporation Commissioner,,"Stanfield, Shea",DEM,317,15,291,11
+Cochise,38 SV Snyder,Corporation Commissioner,,Write-In,,4,0,4,0
+Cochise,38 SV Snyder,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,38 SV Snyder,Corporation Commissioner,,Undervotes,,419,29,383,7
+Cochise,39 SV Soldier Creek,Registered Voters,,,,3144,,,
+Cochise,39 SV Soldier Creek,Ballots Cast,,,,1891,343,1434,114
+Cochise,39 SV Soldier Creek,Ballots Cast Blank,,,,1,0,0,1
+Cochise,39 SV Soldier Creek,President,,Trump / Pence,REP,964,234,662,68
+Cochise,39 SV Soldier Creek,President,,Biden / Harris,DEM,849,99,710,40
+Cochise,39 SV Soldier Creek,President,,Jorgensen / Cohen,LBT,63,5,53,5
+Cochise,39 SV Soldier Creek,President,,Write-In,,7,5,2,0
+Cochise,39 SV Soldier Creek,President,,Overvotes,,0,0,0,0
+Cochise,39 SV Soldier Creek,President,,Undervotes,,8,0,7,1
+Cochise,39 SV Soldier Creek,U.S. Senate,,"McSally, Martha",REP,977,235,673,69
+Cochise,39 SV Soldier Creek,U.S. Senate,,"Kelly, Mark",DEM,872,101,731,40
+Cochise,39 SV Soldier Creek,U.S. Senate,,Write-In,,7,3,4,0
+Cochise,39 SV Soldier Creek,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,39 SV Soldier Creek,U.S. Senate,,Undervotes,,35,4,26,5
+Cochise,39 SV Soldier Creek,U.S. House,2,"Martin, Brandon",REP,963,232,664,67
+Cochise,39 SV Soldier Creek,U.S. House,2,"Kirkpatrick, Ann",DEM,864,107,717,40
+Cochise,39 SV Soldier Creek,U.S. House,2,Write-In,,5,0,4,1
+Cochise,39 SV Soldier Creek,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,39 SV Soldier Creek,U.S. House,2,Undervotes,,59,4,49,6
+Cochise,39 SV Soldier Creek,State Senate,14,"Gowan, David",REP,1004,240,694,70
+Cochise,39 SV Soldier Creek,State Senate,14,"Karp, Bob",DEM,789,91,661,37
+Cochise,39 SV Soldier Creek,State Senate,14,Write-In,,6,1,3,2
+Cochise,39 SV Soldier Creek,State Senate,14,Overvotes,,0,0,0,0
+Cochise,39 SV Soldier Creek,State Senate,14,Undervotes,,67,6,56,5
+Cochise,39 SV Soldier Creek,State House,14,"Griffin, Gail",REP,936,233,636,67
+Cochise,39 SV Soldier Creek,State House,14,"Nutt, Becky",REP,922,227,629,66
+Cochise,39 SV Soldier Creek,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,736,94,605,37
+Cochise,39 SV Soldier Creek,State House,14,"Maestas-Condos, Ronnie",DEM,641,80,526,35
+Cochise,39 SV Soldier Creek,State House,14,Write-In,,4,0,2,2
+Cochise,39 SV Soldier Creek,State House,14,Overvotes,,0,0,0,0
+Cochise,39 SV Soldier Creek,State House,14,Undervotes,,493,42,430,21
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,"Marquez Peterson, Lea",REP,911,225,616,70
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,876,230,584,62
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,"Sloan, Eric",REP,859,217,582,60
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,"Tovar, Anna",DEM,744,96,606,42
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,"Stanfield, Shea",DEM,651,87,529,35
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,644,82,531,31
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,Write-In,,5,1,1,3
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,39 SV Soldier Creek,Corporation Commissioner,,Undervotes,,908,76,793,39
+Cochise,40 SV Town & Country,Registered Voters,,,,2141,,,
+Cochise,40 SV Town & Country,Ballots Cast,,,,1723,216,1463,44
+Cochise,40 SV Town & Country,Ballots Cast Blank,,,,1,0,1,0
+Cochise,40 SV Town & Country,President,,Trump / Pence,REP,1125,181,913,31
+Cochise,40 SV Town & Country,President,,Biden / Harris,DEM,550,30,508,12
+Cochise,40 SV Town & Country,President,,Jorgensen / Cohen,LBT,33,2,30,1
+Cochise,40 SV Town & Country,President,,Write-In,,7,2,5,0
+Cochise,40 SV Town & Country,President,,Overvotes,,0,0,0,0
+Cochise,40 SV Town & Country,President,,Undervotes,,8,1,7,0
+Cochise,40 SV Town & Country,U.S. Senate,,"McSally, Martha",REP,1124,181,912,31
+Cochise,40 SV Town & Country,U.S. Senate,,"Kelly, Mark",DEM,577,32,532,13
+Cochise,40 SV Town & Country,U.S. Senate,,Write-In,,2,1,1,0
+Cochise,40 SV Town & Country,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,40 SV Town & Country,U.S. Senate,,Undervotes,,19,2,17,0
+Cochise,40 SV Town & Country,U.S. House,2,"Martin, Brandon",REP,1134,178,928,28
+Cochise,40 SV Town & Country,U.S. House,2,"Kirkpatrick, Ann",DEM,544,33,496,15
+Cochise,40 SV Town & Country,U.S. House,2,Write-In,,4,1,3,0
+Cochise,40 SV Town & Country,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,40 SV Town & Country,U.S. House,2,Undervotes,,41,4,36,1
+Cochise,40 SV Town & Country,State Senate,14,"Gowan, David",REP,1118,180,908,30
+Cochise,40 SV Town & Country,State Senate,14,"Karp, Bob",DEM,537,30,495,12
+Cochise,40 SV Town & Country,State Senate,14,Write-In,,3,1,2,0
+Cochise,40 SV Town & Country,State Senate,14,Overvotes,,0,0,0,0
+Cochise,40 SV Town & Country,State Senate,14,Undervotes,,64,5,57,2
+Cochise,40 SV Town & Country,State House,14,"Nutt, Becky",REP,1089,185,869,35
+Cochise,40 SV Town & Country,State House,14,"Griffin, Gail",REP,1079,178,872,29
+Cochise,40 SV Town & Country,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,507,29,467,11
+Cochise,40 SV Town & Country,State House,14,"Maestas-Condos, Ronnie",DEM,429,24,397,8
+Cochise,40 SV Town & Country,State House,14,Write-In,,3,2,1,0
+Cochise,40 SV Town & Country,State House,14,Overvotes,,0,0,0,0
+Cochise,40 SV Town & Country,State House,14,Undervotes,,337,14,318,5
+Cochise,40 SV Town & Country,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1067,179,861,27
+Cochise,40 SV Town & Country,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1045,180,834,31
+Cochise,40 SV Town & Country,Corporation Commissioner,,"Sloan, Eric",REP,990,174,787,29
+Cochise,40 SV Town & Country,Corporation Commissioner,,"Tovar, Anna",DEM,493,26,454,13
+Cochise,40 SV Town & Country,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,477,27,440,10
+Cochise,40 SV Town & Country,Corporation Commissioner,,"Stanfield, Shea",DEM,448,23,416,9
+Cochise,40 SV Town & Country,Corporation Commissioner,,Write-In,,4,3,1,0
+Cochise,40 SV Town & Country,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,40 SV Town & Country,Corporation Commissioner,,Undervotes,,639,36,590,13
+Cochise,41 SV Village Meadows,Registered Voters,,,,2691,,,
+Cochise,41 SV Village Meadows,Ballots Cast,,,,2065,262,1723,80
+Cochise,41 SV Village Meadows,Ballots Cast Blank,,,,0,0,0,0
+Cochise,41 SV Village Meadows,President,,Trump / Pence,REP,1267,218,986,63
+Cochise,41 SV Village Meadows,President,,Biden / Harris,DEM,731,36,679,16
+Cochise,41 SV Village Meadows,President,,Jorgensen / Cohen,LBT,55,8,46,1
+Cochise,41 SV Village Meadows,President,,Write-In,,5,0,5,0
+Cochise,41 SV Village Meadows,President,,Overvotes,,1,0,1,0
+Cochise,41 SV Village Meadows,President,,Undervotes,,6,0,6,0
+Cochise,41 SV Village Meadows,U.S. Senate,,"McSally, Martha",REP,1282,217,1004,61
+Cochise,41 SV Village Meadows,U.S. Senate,,"Kelly, Mark",DEM,757,43,695,19
+Cochise,41 SV Village Meadows,U.S. Senate,,Write-In,,3,1,2,0
+Cochise,41 SV Village Meadows,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,41 SV Village Meadows,U.S. Senate,,Undervotes,,22,1,21,0
+Cochise,41 SV Village Meadows,U.S. House,2,"Martin, Brandon",REP,1263,215,982,66
+Cochise,41 SV Village Meadows,U.S. House,2,"Kirkpatrick, Ann",DEM,729,41,675,13
+Cochise,41 SV Village Meadows,U.S. House,2,Write-In,,2,0,2,0
+Cochise,41 SV Village Meadows,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,41 SV Village Meadows,U.S. House,2,Undervotes,,71,6,64,1
+Cochise,41 SV Village Meadows,State Senate,14,"Gowan, David",REP,1300,218,1018,64
+Cochise,41 SV Village Meadows,State Senate,14,"Karp, Bob",DEM,676,39,623,14
+Cochise,41 SV Village Meadows,State Senate,14,Write-In,,1,0,1,0
+Cochise,41 SV Village Meadows,State Senate,14,Overvotes,,0,0,0,0
+Cochise,41 SV Village Meadows,State Senate,14,Undervotes,,85,5,78,2
+Cochise,41 SV Village Meadows,State House,14,"Griffin, Gail",REP,1235,212,960,63
+Cochise,41 SV Village Meadows,State House,14,"Nutt, Becky",REP,1199,208,930,61
+Cochise,41 SV Village Meadows,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,680,44,621,15
+Cochise,41 SV Village Meadows,State House,14,"Maestas-Condos, Ronnie",DEM,570,31,528,11
+Cochise,41 SV Village Meadows,State House,14,Write-In,,7,4,3,0
+Cochise,41 SV Village Meadows,State House,14,Overvotes,,0,0,0,0
+Cochise,41 SV Village Meadows,State House,14,Undervotes,,433,25,398,10
+Cochise,41 SV Village Meadows,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1226,208,956,62
+Cochise,41 SV Village Meadows,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1192,211,916,65
+Cochise,41 SV Village Meadows,Corporation Commissioner,,"Sloan, Eric",REP,1139,204,875,60
+Cochise,41 SV Village Meadows,Corporation Commissioner,,"Tovar, Anna",DEM,648,38,596,14
+Cochise,41 SV Village Meadows,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,594,33,548,13
+Cochise,41 SV Village Meadows,Corporation Commissioner,,"Stanfield, Shea",DEM,566,35,521,10
+Cochise,41 SV Village Meadows,Corporation Commissioner,,Write-In,,2,1,1,0
+Cochise,41 SV Village Meadows,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,41 SV Village Meadows,Corporation Commissioner,,Undervotes,,816,56,744,16
+Cochise,42 SV Vista Village,Registered Voters,,,,2057,,,
+Cochise,42 SV Vista Village,Ballots Cast,,,,1476,266,1143,67
+Cochise,42 SV Vista Village,Ballots Cast Blank,,,,0,0,0,0
+Cochise,42 SV Vista Village,President,,Trump / Pence,REP,841,216,581,44
+Cochise,42 SV Vista Village,President,,Biden / Harris,DEM,583,43,518,22
+Cochise,42 SV Vista Village,President,,Jorgensen / Cohen,LBT,38,6,31,1
+Cochise,42 SV Vista Village,President,,Write-In,,7,1,6,0
+Cochise,42 SV Vista Village,President,,Overvotes,,0,0,0,0
+Cochise,42 SV Vista Village,President,,Undervotes,,7,0,7,0
+Cochise,42 SV Vista Village,U.S. Senate,,"McSally, Martha",REP,853,214,597,42
+Cochise,42 SV Vista Village,U.S. Senate,,"Kelly, Mark",DEM,600,46,529,25
+Cochise,42 SV Vista Village,U.S. Senate,,Write-In,,7,1,6,0
+Cochise,42 SV Vista Village,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,42 SV Vista Village,U.S. Senate,,Undervotes,,16,5,11,0
+Cochise,42 SV Vista Village,U.S. House,2,"Martin, Brandon",REP,855,212,597,46
+Cochise,42 SV Vista Village,U.S. House,2,"Kirkpatrick, Ann",DEM,574,49,505,20
+Cochise,42 SV Vista Village,U.S. House,2,Write-In,,4,0,4,0
+Cochise,42 SV Vista Village,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,42 SV Vista Village,U.S. House,2,Undervotes,,42,5,36,1
+Cochise,42 SV Vista Village,State Senate,14,"Gowan, David",REP,852,210,599,43
+Cochise,42 SV Vista Village,State Senate,14,"Karp, Bob",DEM,557,46,491,20
+Cochise,42 SV Vista Village,State Senate,14,Write-In,,6,1,4,1
+Cochise,42 SV Vista Village,State Senate,14,Overvotes,,1,0,1,0
+Cochise,42 SV Vista Village,State Senate,14,Undervotes,,54,7,45,2
+Cochise,42 SV Vista Village,State House,14,"Griffin, Gail",REP,818,206,571,41
+Cochise,42 SV Vista Village,State House,14,"Nutt, Becky",REP,796,199,554,43
+Cochise,42 SV Vista Village,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,509,46,443,20
+Cochise,42 SV Vista Village,State House,14,"Maestas-Condos, Ronnie",DEM,440,35,389,16
+Cochise,42 SV Vista Village,State House,14,Write-In,,5,1,2,2
+Cochise,42 SV Vista Village,State House,14,Overvotes,,2,0,2,0
+Cochise,42 SV Vista Village,State House,14,Undervotes,,370,41,319,10
+Cochise,42 SV Vista Village,Corporation Commissioner,,"Marquez Peterson, Lea",REP,799,201,560,38
+Cochise,42 SV Vista Village,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,766,205,522,39
+Cochise,42 SV Vista Village,Corporation Commissioner,,"Sloan, Eric",REP,749,188,521,40
+Cochise,42 SV Vista Village,Corporation Commissioner,,"Tovar, Anna",DEM,508,48,437,23
+Cochise,42 SV Vista Village,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,467,45,402,20
+Cochise,42 SV Vista Village,Corporation Commissioner,,"Stanfield, Shea",DEM,445,46,379,20
+Cochise,42 SV Vista Village,Corporation Commissioner,,Write-In,,7,2,2,3
+Cochise,42 SV Vista Village,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,42 SV Vista Village,Corporation Commissioner,,Undervotes,,666,57,594,15
+Cochise,43 SV Yaqui,Registered Voters,,,,2328,,,
+Cochise,43 SV Yaqui,Ballots Cast,,,,1983,244,1698,41
+Cochise,43 SV Yaqui,Ballots Cast Blank,,,,0,0,0,0
+Cochise,43 SV Yaqui,President,,Trump / Pence,REP,1330,218,1076,36
+Cochise,43 SV Yaqui,President,,Biden / Harris,DEM,602,26,572,4
+Cochise,43 SV Yaqui,President,,Jorgensen / Cohen,LBT,24,0,23,1
+Cochise,43 SV Yaqui,President,,Write-In,,11,0,11,0
+Cochise,43 SV Yaqui,President,,Overvotes,,0,0,0,0
+Cochise,43 SV Yaqui,President,,Undervotes,,16,0,16,0
+Cochise,43 SV Yaqui,U.S. Senate,,"McSally, Martha",REP,1363,217,1109,37
+Cochise,43 SV Yaqui,U.S. Senate,,"Kelly, Mark",DEM,603,27,572,4
+Cochise,43 SV Yaqui,U.S. Senate,,Write-In,,3,0,3,0
+Cochise,43 SV Yaqui,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,43 SV Yaqui,U.S. Senate,,Undervotes,,13,0,13,0
+Cochise,43 SV Yaqui,U.S. House,2,"Martin, Brandon",REP,1364,215,1112,37
+Cochise,43 SV Yaqui,U.S. House,2,"Kirkpatrick, Ann",DEM,573,27,542,4
+Cochise,43 SV Yaqui,U.S. House,2,Write-In,,2,0,2,0
+Cochise,43 SV Yaqui,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,43 SV Yaqui,U.S. House,2,Undervotes,,44,2,42,0
+Cochise,43 SV Yaqui,State Senate,14,"Gowan, David",REP,1354,217,1100,37
+Cochise,43 SV Yaqui,State Senate,14,"Karp, Bob",DEM,566,24,539,3
+Cochise,43 SV Yaqui,State Senate,14,Write-In,,3,1,2,0
+Cochise,43 SV Yaqui,State Senate,14,Overvotes,,0,0,0,0
+Cochise,43 SV Yaqui,State Senate,14,Undervotes,,59,2,57,0
+Cochise,43 SV Yaqui,State House,14,"Griffin, Gail",REP,1337,218,1083,36
+Cochise,43 SV Yaqui,State House,14,"Nutt, Becky",REP,1308,215,1057,36
+Cochise,43 SV Yaqui,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,547,25,519,3
+Cochise,43 SV Yaqui,State House,14,"Maestas-Condos, Ronnie",DEM,488,20,466,2
+Cochise,43 SV Yaqui,State House,14,Write-In,,7,0,7,0
+Cochise,43 SV Yaqui,State House,14,Overvotes,,0,0,0,0
+Cochise,43 SV Yaqui,State House,14,Undervotes,,277,10,264,3
+Cochise,43 SV Yaqui,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1319,209,1074,36
+Cochise,43 SV Yaqui,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1267,215,1018,34
+Cochise,43 SV Yaqui,Corporation Commissioner,,"Sloan, Eric",REP,1238,205,999,34
+Cochise,43 SV Yaqui,Corporation Commissioner,,"Tovar, Anna",DEM,549,27,518,4
+Cochise,43 SV Yaqui,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,512,27,479,6
+Cochise,43 SV Yaqui,Corporation Commissioner,,"Stanfield, Shea",DEM,488,24,460,4
+Cochise,43 SV Yaqui,Corporation Commissioner,,Write-In,,8,0,8,0
+Cochise,43 SV Yaqui,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,43 SV Yaqui,Corporation Commissioner,,Undervotes,,565,25,538,2
+Cochise,44 Tombstone,Registered Voters,,,,1774,,,
+Cochise,44 Tombstone,Ballots Cast,,,,1379,380,914,85
+Cochise,44 Tombstone,Ballots Cast Blank,,,,0,0,0,0
+Cochise,44 Tombstone,President,,Trump / Pence,REP,994,321,601,72
+Cochise,44 Tombstone,President,,Biden / Harris,DEM,346,46,288,12
+Cochise,44 Tombstone,President,,Jorgensen / Cohen,LBT,26,10,15,1
+Cochise,44 Tombstone,President,,Write-In,,6,1,5,0
+Cochise,44 Tombstone,President,,Overvotes,,0,0,0,0
+Cochise,44 Tombstone,President,,Undervotes,,7,2,5,0
+Cochise,44 Tombstone,U.S. Senate,,"McSally, Martha",REP,965,322,574,69
+Cochise,44 Tombstone,U.S. Senate,,"Kelly, Mark",DEM,386,51,320,15
+Cochise,44 Tombstone,U.S. Senate,,Write-In,,6,3,3,0
+Cochise,44 Tombstone,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,44 Tombstone,U.S. Senate,,Undervotes,,22,4,17,1
+Cochise,44 Tombstone,U.S. House,2,"Martin, Brandon",REP,928,309,551,68
+Cochise,44 Tombstone,U.S. House,2,"Kirkpatrick, Ann",DEM,404,64,325,15
+Cochise,44 Tombstone,U.S. House,2,Write-In,,4,2,2,0
+Cochise,44 Tombstone,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,44 Tombstone,U.S. House,2,Undervotes,,42,5,35,2
+Cochise,44 Tombstone,State Senate,14,"Gowan, David",REP,969,318,583,68
+Cochise,44 Tombstone,State Senate,14,"Karp, Bob",DEM,343,49,281,13
+Cochise,44 Tombstone,State Senate,14,Write-In,,5,3,2,0
+Cochise,44 Tombstone,State Senate,14,Overvotes,,0,0,0,0
+Cochise,44 Tombstone,State Senate,14,Undervotes,,60,8,48,4
+Cochise,44 Tombstone,State House,14,"Griffin, Gail",REP,927,304,558,65
+Cochise,44 Tombstone,State House,14,"Nutt, Becky",REP,904,310,525,69
+Cochise,44 Tombstone,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,314,44,256,14
+Cochise,44 Tombstone,State House,14,"Maestas-Condos, Ronnie",DEM,259,35,215,9
+Cochise,44 Tombstone,State House,14,Write-In,,5,3,2,0
+Cochise,44 Tombstone,State House,14,Overvotes,,0,0,0,0
+Cochise,44 Tombstone,State House,14,Undervotes,,345,60,272,13
+Cochise,44 Tombstone,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,906,308,532,66
+Cochise,44 Tombstone,Corporation Commissioner,,"Marquez Peterson, Lea",REP,862,298,502,62
+Cochise,44 Tombstone,Corporation Commissioner,,"Sloan, Eric",REP,844,294,488,62
+Cochise,44 Tombstone,Corporation Commissioner,,"Tovar, Anna",DEM,338,54,273,11
+Cochise,44 Tombstone,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,305,47,246,12
+Cochise,44 Tombstone,Corporation Commissioner,,"Stanfield, Shea",DEM,285,46,228,11
+Cochise,44 Tombstone,Corporation Commissioner,,Write-In,,9,7,2,0
+Cochise,44 Tombstone,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,44 Tombstone,Corporation Commissioner,,Undervotes,,582,80,471,31
+Cochise,45 Webb,Registered Voters,,,,673,,,
+Cochise,45 Webb,Ballots Cast,,,,496,133,334,29
+Cochise,45 Webb,Ballots Cast Blank,,,,1,0,1,0
+Cochise,45 Webb,President,,Trump / Pence,REP,341,111,205,25
+Cochise,45 Webb,President,,Biden / Harris,DEM,133,15,115,3
+Cochise,45 Webb,President,,Jorgensen / Cohen,LBT,14,6,8,0
+Cochise,45 Webb,President,,Write-In,,5,1,4,0
+Cochise,45 Webb,President,,Overvotes,,1,0,1,0
+Cochise,45 Webb,President,,Undervotes,,2,0,1,1
+Cochise,45 Webb,U.S. Senate,,"McSally, Martha",REP,340,113,202,25
+Cochise,45 Webb,U.S. Senate,,"Kelly, Mark",DEM,146,19,124,3
+Cochise,45 Webb,U.S. Senate,,Write-In,,2,1,1,0
+Cochise,45 Webb,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,45 Webb,U.S. Senate,,Undervotes,,8,0,7,1
+Cochise,45 Webb,U.S. House,2,"Martin, Brandon",REP,335,114,196,25
+Cochise,45 Webb,U.S. House,2,"Kirkpatrick, Ann",DEM,146,18,124,4
+Cochise,45 Webb,U.S. House,2,Write-In,,1,1,0,0
+Cochise,45 Webb,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,45 Webb,U.S. House,2,Undervotes,,14,0,14,0
+Cochise,45 Webb,State Senate,14,"Gowan, David",REP,339,116,198,25
+Cochise,45 Webb,State Senate,14,"Karp, Bob",DEM,142,16,122,4
+Cochise,45 Webb,State Senate,14,Write-In,,1,1,0,0
+Cochise,45 Webb,State Senate,14,Overvotes,,0,0,0,0
+Cochise,45 Webb,State Senate,14,Undervotes,,14,0,14,0
+Cochise,45 Webb,State House,14,"Nutt, Becky",REP,323,117,180,26
+Cochise,45 Webb,State House,14,"Griffin, Gail",REP,319,115,181,23
+Cochise,45 Webb,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,129,15,110,4
+Cochise,45 Webb,State House,14,"Maestas-Condos, Ronnie",DEM,107,12,92,3
+Cochise,45 Webb,State House,14,Write-In,,3,0,2,1
+Cochise,45 Webb,State House,14,Overvotes,,0,0,0,0
+Cochise,45 Webb,State House,14,Undervotes,,111,7,103,1
+Cochise,45 Webb,Corporation Commissioner,,"Marquez Peterson, Lea",REP,317,111,181,25
+Cochise,45 Webb,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,317,114,180,23
+Cochise,45 Webb,Corporation Commissioner,,"Sloan, Eric",REP,311,109,179,23
+Cochise,45 Webb,Corporation Commissioner,,"Tovar, Anna",DEM,127,18,104,5
+Cochise,45 Webb,Corporation Commissioner,,"Stanfield, Shea",DEM,117,15,98,4
+Cochise,45 Webb,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,116,15,96,5
+Cochise,45 Webb,Corporation Commissioner,,Write-In,,1,1,0,0
+Cochise,45 Webb,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,45 Webb,Corporation Commissioner,,Undervotes,,182,16,164,2
+Cochise,46 Whetstone,Registered Voters,,,,2502,,,
+Cochise,46 Whetstone,Ballots Cast,,,,1920,406,1429,85
+Cochise,46 Whetstone,Ballots Cast Blank,,,,0,0,0,0
+Cochise,46 Whetstone,President,,Trump / Pence,REP,1360,346,942,72
+Cochise,46 Whetstone,President,,Biden / Harris,DEM,501,42,448,11
+Cochise,46 Whetstone,President,,Jorgensen / Cohen,LBT,41,14,26,1
+Cochise,46 Whetstone,President,,Write-In,,4,1,2,1
+Cochise,46 Whetstone,President,,Overvotes,,2,0,2,0
+Cochise,46 Whetstone,President,,Undervotes,,12,3,9,0
+Cochise,46 Whetstone,U.S. Senate,,"McSally, Martha",REP,1345,348,926,71
+Cochise,46 Whetstone,U.S. Senate,,"Kelly, Mark",DEM,553,54,485,14
+Cochise,46 Whetstone,U.S. Senate,,Write-In,,6,4,2,0
+Cochise,46 Whetstone,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,46 Whetstone,U.S. Senate,,Undervotes,,16,0,16,0
+Cochise,46 Whetstone,U.S. House,2,"Martin, Brandon",REP,1341,340,933,68
+Cochise,46 Whetstone,U.S. House,2,"Kirkpatrick, Ann",DEM,544,63,464,17
+Cochise,46 Whetstone,U.S. House,2,Write-In,,5,1,4,0
+Cochise,46 Whetstone,U.S. House,2,Overvotes,,1,0,1,0
+Cochise,46 Whetstone,U.S. House,2,Undervotes,,29,2,27,0
+Cochise,46 Whetstone,State Senate,14,"Gowan, David",REP,1392,355,966,71
+Cochise,46 Whetstone,State Senate,14,"Karp, Bob",DEM,480,50,416,14
+Cochise,46 Whetstone,State Senate,14,Write-In,,6,1,5,0
+Cochise,46 Whetstone,State Senate,14,Overvotes,,0,0,0,0
+Cochise,46 Whetstone,State Senate,14,Undervotes,,39,0,39,0
+Cochise,46 Whetstone,State House,14,"Griffin, Gail",REP,1332,353,910,69
+Cochise,46 Whetstone,State House,14,"Nutt, Becky",REP,1270,335,866,69
+Cochise,46 Whetstone,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,446,52,377,17
+Cochise,46 Whetstone,State House,14,"Maestas-Condos, Ronnie",DEM,379,46,321,12
+Cochise,46 Whetstone,State House,14,Write-In,,6,4,2,0
+Cochise,46 Whetstone,State House,14,Overvotes,,0,0,0,0
+Cochise,46 Whetstone,State House,14,Undervotes,,401,22,376,3
+Cochise,46 Whetstone,Corporation Commissioner,,"Marquez Peterson, Lea",REP,1274,337,865,72
+Cochise,46 Whetstone,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,1251,342,843,66
+Cochise,46 Whetstone,Corporation Commissioner,,"Sloan, Eric",REP,1187,325,795,67
+Cochise,46 Whetstone,Corporation Commissioner,,"Tovar, Anna",DEM,448,52,381,15
+Cochise,46 Whetstone,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,434,55,365,14
+Cochise,46 Whetstone,Corporation Commissioner,,"Stanfield, Shea",DEM,411,54,342,15
+Cochise,46 Whetstone,Corporation Commissioner,,Write-In,,13,9,4,0
+Cochise,46 Whetstone,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,46 Whetstone,Corporation Commissioner,,Undervotes,,733,44,683,6
+Cochise,47 WI Kansas Settlement,Registered Voters,,,,1531,,,
+Cochise,47 WI Kansas Settlement,Ballots Cast,,,,1111,320,736,55
+Cochise,47 WI Kansas Settlement,Ballots Cast Blank,,,,0,0,0,0
+Cochise,47 WI Kansas Settlement,President,,Trump / Pence,REP,804,268,494,42
+Cochise,47 WI Kansas Settlement,President,,Biden / Harris,DEM,285,49,225,11
+Cochise,47 WI Kansas Settlement,President,,Jorgensen / Cohen,LBT,16,3,11,2
+Cochise,47 WI Kansas Settlement,President,,Write-In,,4,0,4,0
+Cochise,47 WI Kansas Settlement,President,,Overvotes,,0,0,0,0
+Cochise,47 WI Kansas Settlement,President,,Undervotes,,2,0,2,0
+Cochise,47 WI Kansas Settlement,U.S. Senate,,"McSally, Martha",REP,784,270,478,36
+Cochise,47 WI Kansas Settlement,U.S. Senate,,"Kelly, Mark",DEM,315,48,251,16
+Cochise,47 WI Kansas Settlement,U.S. Senate,,Write-In,,4,1,1,2
+Cochise,47 WI Kansas Settlement,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,47 WI Kansas Settlement,U.S. Senate,,Undervotes,,8,1,6,1
+Cochise,47 WI Kansas Settlement,U.S. House,2,"Martin, Brandon",REP,765,271,455,39
+Cochise,47 WI Kansas Settlement,U.S. House,2,"Kirkpatrick, Ann",DEM,312,48,249,15
+Cochise,47 WI Kansas Settlement,U.S. House,2,Write-In,,3,0,3,0
+Cochise,47 WI Kansas Settlement,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,47 WI Kansas Settlement,U.S. House,2,Undervotes,,31,1,29,1
+Cochise,47 WI Kansas Settlement,State Senate,14,"Gowan, David",REP,795,268,484,43
+Cochise,47 WI Kansas Settlement,State Senate,14,"Karp, Bob",DEM,269,44,215,10
+Cochise,47 WI Kansas Settlement,State Senate,14,Write-In,,1,1,0,0
+Cochise,47 WI Kansas Settlement,State Senate,14,Overvotes,,0,0,0,0
+Cochise,47 WI Kansas Settlement,State Senate,14,Undervotes,,45,6,37,2
+Cochise,47 WI Kansas Settlement,State House,14,"Nutt, Becky",REP,767,270,456,41
+Cochise,47 WI Kansas Settlement,State House,14,"Griffin, Gail",REP,761,265,453,43
+Cochise,47 WI Kansas Settlement,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,234,39,185,10
+Cochise,47 WI Kansas Settlement,State House,14,"Maestas-Condos, Ronnie",DEM,233,39,183,11
+Cochise,47 WI Kansas Settlement,State House,14,Write-In,,0,0,0,0
+Cochise,47 WI Kansas Settlement,State House,14,Overvotes,,0,0,0,0
+Cochise,47 WI Kansas Settlement,State House,14,Undervotes,,225,25,195,5
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,754,263,447,44
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,"Marquez Peterson, Lea",REP,742,265,432,45
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,"Sloan, Eric",REP,699,251,407,41
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,"Tovar, Anna",DEM,270,46,213,11
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,236,43,183,10
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,"Stanfield, Shea",DEM,218,40,169,9
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,Write-In,,1,0,1,0
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,Overvotes,,3,0,3,0
+Cochise,47 WI Kansas Settlement,Corporation Commissioner,,Undervotes,,407,49,353,5
+Cochise,48 WI Stewart,Registered Voters,,,,1289,,,
+Cochise,48 WI Stewart,Ballots Cast,,,,979,276,660,43
+Cochise,48 WI Stewart,Ballots Cast Blank,,,,0,0,0,0
+Cochise,48 WI Stewart,President,,Trump / Pence,REP,758,245,480,33
+Cochise,48 WI Stewart,President,,Biden / Harris,DEM,205,28,167,10
+Cochise,48 WI Stewart,President,,Jorgensen / Cohen,LBT,9,1,8,0
+Cochise,48 WI Stewart,President,,Write-In,,3,2,1,0
+Cochise,48 WI Stewart,President,,Overvotes,,0,0,0,0
+Cochise,48 WI Stewart,President,,Undervotes,,4,0,4,0
+Cochise,48 WI Stewart,U.S. Senate,,"McSally, Martha",REP,736,238,466,32
+Cochise,48 WI Stewart,U.S. Senate,,"Kelly, Mark",DEM,231,33,188,10
+Cochise,48 WI Stewart,U.S. Senate,,Write-In,,3,3,0,0
+Cochise,48 WI Stewart,U.S. Senate,,Overvotes,,0,0,0,0
+Cochise,48 WI Stewart,U.S. Senate,,Undervotes,,9,2,6,1
+Cochise,48 WI Stewart,U.S. House,2,"Martin, Brandon",REP,734,239,464,31
+Cochise,48 WI Stewart,U.S. House,2,"Kirkpatrick, Ann",DEM,214,32,171,11
+Cochise,48 WI Stewart,U.S. House,2,Write-In,,2,1,1,0
+Cochise,48 WI Stewart,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,48 WI Stewart,U.S. House,2,Undervotes,,29,4,24,1
+Cochise,48 WI Stewart,State Senate,14,"Gowan, David",REP,747,243,472,32
+Cochise,48 WI Stewart,State Senate,14,"Karp, Bob",DEM,192,27,154,11
+Cochise,48 WI Stewart,State Senate,14,Write-In,,0,0,0,0
+Cochise,48 WI Stewart,State Senate,14,Overvotes,,1,0,1,0
+Cochise,48 WI Stewart,State Senate,14,Undervotes,,38,5,33,0
+Cochise,48 WI Stewart,State House,14,"Nutt, Becky",REP,707,235,442,30
+Cochise,48 WI Stewart,State House,14,"Griffin, Gail",REP,695,238,427,30
+Cochise,48 WI Stewart,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,171,27,132,12
+Cochise,48 WI Stewart,State House,14,"Maestas-Condos, Ronnie",DEM,161,25,127,9
+Cochise,48 WI Stewart,State House,14,Write-In,,0,0,0,0
+Cochise,48 WI Stewart,State House,14,Overvotes,,0,0,0,0
+Cochise,48 WI Stewart,State House,14,Undervotes,,222,25,192,5
+Cochise,48 WI Stewart,Corporation Commissioner,,"Marquez Peterson, Lea",REP,678,234,414,30
+Cochise,48 WI Stewart,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,667,227,409,31
+Cochise,48 WI Stewart,Corporation Commissioner,,"Sloan, Eric",REP,660,233,399,28
+Cochise,48 WI Stewart,Corporation Commissioner,,"Tovar, Anna",DEM,205,34,160,11
+Cochise,48 WI Stewart,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,180,31,140,9
+Cochise,48 WI Stewart,Corporation Commissioner,,"Stanfield, Shea",DEM,157,26,120,11
+Cochise,48 WI Stewart,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,48 WI Stewart,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,48 WI Stewart,Corporation Commissioner,,Undervotes,,387,40,338,9
+Cochise,49 WI Willcox,Registered Voters,,,,1065,,,
+Cochise,49 WI Willcox,Ballots Cast,,,,743,190,500,53
+Cochise,49 WI Willcox,Ballots Cast Blank,,,,0,0,0,0
+Cochise,49 WI Willcox,President,,Trump / Pence,REP,496,165,296,35
+Cochise,49 WI Willcox,President,,Biden / Harris,DEM,228,23,188,17
+Cochise,49 WI Willcox,President,,Jorgensen / Cohen,LBT,12,1,11,0
+Cochise,49 WI Willcox,President,,Write-In,,4,0,3,1
+Cochise,49 WI Willcox,President,,Overvotes,,1,0,1,0
+Cochise,49 WI Willcox,President,,Undervotes,,2,1,1,0
+Cochise,49 WI Willcox,U.S. Senate,,"McSally, Martha",REP,487,159,293,35
+Cochise,49 WI Willcox,U.S. Senate,,"Kelly, Mark",DEM,250,31,202,17
+Cochise,49 WI Willcox,U.S. Senate,,Write-In,,3,0,3,0
+Cochise,49 WI Willcox,U.S. Senate,,Overvotes,,1,0,1,0
+Cochise,49 WI Willcox,U.S. Senate,,Undervotes,,2,0,1,1
+Cochise,49 WI Willcox,U.S. House,2,"Martin, Brandon",REP,477,156,284,37
+Cochise,49 WI Willcox,U.S. House,2,"Kirkpatrick, Ann",DEM,245,32,197,16
+Cochise,49 WI Willcox,U.S. House,2,Write-In,,2,1,1,0
+Cochise,49 WI Willcox,U.S. House,2,Overvotes,,0,0,0,0
+Cochise,49 WI Willcox,U.S. House,2,Undervotes,,19,1,18,0
+Cochise,49 WI Willcox,State Senate,14,"Gowan, David",REP,500,161,304,35
+Cochise,49 WI Willcox,State Senate,14,"Karp, Bob",DEM,219,24,177,18
+Cochise,49 WI Willcox,State Senate,14,Write-In,,1,1,0,0
+Cochise,49 WI Willcox,State Senate,14,Overvotes,,0,0,0,0
+Cochise,49 WI Willcox,State Senate,14,Undervotes,,23,4,19,0
+Cochise,49 WI Willcox,State House,14,"Griffin, Gail",REP,486,164,287,35
+Cochise,49 WI Willcox,State House,14,"Nutt, Becky",REP,455,156,266,33
+Cochise,49 WI Willcox,State House,14,"Beach-Moschetti, Kimberly ""Kim""",DEM,178,25,136,17
+Cochise,49 WI Willcox,State House,14,"Maestas-Condos, Ronnie",DEM,172,17,140,15
+Cochise,49 WI Willcox,State House,14,Write-In,,0,0,0,0
+Cochise,49 WI Willcox,State House,14,Overvotes,,0,0,0,0
+Cochise,49 WI Willcox,State House,14,Undervotes,,195,18,171,6
+Cochise,49 WI Willcox,Corporation Commissioner,,"Marquez Peterson, Lea",REP,458,152,268,38
+Cochise,49 WI Willcox,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,449,155,261,33
+Cochise,49 WI Willcox,Corporation Commissioner,,"Sloan, Eric",REP,428,143,252,33
+Cochise,49 WI Willcox,Corporation Commissioner,,"Tovar, Anna",DEM,204,33,155,16
+Cochise,49 WI Willcox,Corporation Commissioner,,"Stanfield, Shea",DEM,180,25,140,15
+Cochise,49 WI Willcox,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,170,24,130,16
+Cochise,49 WI Willcox,Corporation Commissioner,,Write-In,,0,0,0,0
+Cochise,49 WI Willcox,Corporation Commissioner,,Overvotes,,0,0,0,0
+Cochise,49 WI Willcox,Corporation Commissioner,,Undervotes,,340,38,294,8
