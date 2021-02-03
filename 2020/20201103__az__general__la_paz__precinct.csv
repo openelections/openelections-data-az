@@ -1,0 +1,276 @@
+county,precinct,office,district,candidate,party,votes,election_day,early_voting,provisional
+La Paz,051 Parker,Registered Voters,,,,3409,,,
+La Paz,051 Parker,Ballots Cast,,,,2228,725,1264,239
+La Paz,051 Parker,Ballots Cast Blank,,,,0,0,0,0
+La Paz,051 Parker,President,,Donald J. Trump,REP,1161,407,634,120
+La Paz,051 Parker,President,,Joseph R. Biden,DEM,1000,298,593,109
+La Paz,051 Parker,President,,Jo Jorgensen,LBT,41,14,20,7
+La Paz,051 Parker,President,,Write-in,,5,2,3,0
+La Paz,051 Parker,U.S. Senate,,"McSally, Martha",REP,1096,387,591,118
+La Paz,051 Parker,U.S. Senate,,"Kelly, Mark",DEM,1068,316,640,112
+La Paz,051 Parker,U.S. Senate,,Write-in,,3,1,2,0
+La Paz,051 Parker,U.S. House,4,"Gosar, Paul",REP,1210,427,657,126
+La Paz,051 Parker,U.S. House,4,"Disanto, Delina",DEM,874,254,531,89
+La Paz,051 Parker,U.S. House,4,Write-in,,5,1,3,1
+La Paz,051 Parker,State Senate,5,"Borrelli, Sonny",REP,1665,576,915,174
+La Paz,051 Parker,State Senate,5,Write-in,,58,9,46,3
+La Paz,051 Parker,State House,5,"Cobb, Regina",REP,1364,443,787,134
+La Paz,051 Parker,State House,5,"Biasiucci, Leo",REP,1226,404,703,119
+La Paz,051 Parker,State House,5,Write-in,,42,12,28,2
+La Paz,051 Parker,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,903,310,511,82
+La Paz,051 Parker,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,886,278,525,83
+La Paz,051 Parker,Corporation Commissioner,,"Tovar, Anna",DEM,856,244,531,81
+La Paz,051 Parker,Corporation Commissioner,,"Sloan, Eric",REP,790,251,471,68
+La Paz,051 Parker,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,722,190,461,71
+La Paz,051 Parker,Corporation Commissioner,,"Stanfield, Shea",DEM,659,181,417,61
+La Paz,051 Parker,Corporation Commissioner,,Write-in,,10,3,5,2
+La Paz,052 Poston,Registered Voters,,,,401,,,
+La Paz,052 Poston,Ballots Cast,,,,251,112,125,14
+La Paz,052 Poston,Ballots Cast Blank,,,,0,0,0,0
+La Paz,052 Poston,President,,Joseph R. Biden,DEM,167,72,89,6
+La Paz,052 Poston,President,,Donald J. Trump,REP,73,34,32,7
+La Paz,052 Poston,President,,Jo Jorgensen,LBT,9,5,3,1
+La Paz,052 Poston,President,,Write-in,,0,0,0,0
+La Paz,052 Poston,U.S. Senate,,"Kelly, Mark",DEM,174,79,87,8
+La Paz,052 Poston,U.S. Senate,,"McSally, Martha",REP,72,32,34,6
+La Paz,052 Poston,U.S. Senate,,Write-in,,0,0,0,0
+La Paz,052 Poston,U.S. House,4,"Disanto, Delina",DEM,154,62,85,7
+La Paz,052 Poston,U.S. House,4,"Gosar, Paul",REP,87,45,35,7
+La Paz,052 Poston,U.S. House,4,Write-in,,3,2,1,0
+La Paz,052 Poston,State Senate,5,"Borrelli, Sonny",REP,171,88,71,12
+La Paz,052 Poston,State Senate,5,Write-in,,9,7,2,0
+La Paz,052 Poston,State House,5,"Cobb, Regina",REP,151,79,60,12
+La Paz,052 Poston,State House,5,"Biasiucci, Leo",REP,127,69,53,5
+La Paz,052 Poston,State House,5,Write-in,,6,3,3,0
+La Paz,052 Poston,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,142,66,72,4
+La Paz,052 Poston,Corporation Commissioner,,"Tovar, Anna",DEM,140,60,73,7
+La Paz,052 Poston,Corporation Commissioner,,"Stanfield, Shea",DEM,132,57,71,4
+La Paz,052 Poston,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,74,33,35,6
+La Paz,052 Poston,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,62,28,28,6
+La Paz,052 Poston,Corporation Commissioner,,"Sloan, Eric",REP,56,25,25,6
+La Paz,052 Poston,Corporation Commissioner,,Write-in,,1,0,1,0
+La Paz,054 Upriver,Registered Voters,,,,2188,,,
+La Paz,054 Upriver,Ballots Cast,,,,1545,375,1043,127
+La Paz,054 Upriver,Ballots Cast Blank,,,,0,0,0,0
+La Paz,054 Upriver,President,,Donald J. Trump,REP,1235,337,798,100
+La Paz,054 Upriver,President,,Joseph R. Biden,DEM,290,35,231,24
+La Paz,054 Upriver,President,,Jo Jorgensen,LBT,10,2,7,1
+La Paz,054 Upriver,President,,Write-in,,4,0,3,1
+La Paz,054 Upriver,U.S. Senate,,"McSally, Martha",REP,1159,318,751,90
+La Paz,054 Upriver,U.S. Senate,,"Kelly, Mark",DEM,343,49,262,32
+La Paz,054 Upriver,U.S. Senate,,Write-in,,5,0,4,1
+La Paz,054 Upriver,U.S. House,4,"Gosar, Paul",REP,1182,316,771,95
+La Paz,054 Upriver,U.S. House,4,"Disanto, Delina",DEM,275,39,215,21
+La Paz,054 Upriver,U.S. House,4,Write-in,,4,2,2,0
+La Paz,054 Upriver,State Senate,5,"Borrelli, Sonny",REP,1268,323,842,103
+La Paz,054 Upriver,State Senate,5,Write-in,,23,4,17,2
+La Paz,054 Upriver,State House,5,"Cobb, Regina",REP,1036,251,704,81
+La Paz,054 Upriver,State House,5,"Biasiucci, Leo",REP,1014,256,678,80
+La Paz,054 Upriver,State House,5,Write-in,,21,9,12,0
+La Paz,054 Upriver,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,989,258,648,83
+La Paz,054 Upriver,Corporation Commissioner,,"Sloan, Eric",REP,945,239,637,69
+La Paz,054 Upriver,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,922,227,623,72
+La Paz,054 Upriver,Corporation Commissioner,,"Tovar, Anna",DEM,274,44,207,23
+La Paz,054 Upriver,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,241,36,194,11
+La Paz,054 Upriver,Corporation Commissioner,,"Stanfield, Shea",DEM,205,27,169,9
+La Paz,054 Upriver,Corporation Commissioner,,Write-in,,6,3,3,0
+La Paz,055 Bouse,Registered Voters,,,,567,,,
+La Paz,055 Bouse,Ballots Cast,,,,418,146,244,28
+La Paz,055 Bouse,Ballots Cast Blank,,,,0,0,0,0
+La Paz,055 Bouse,President,,Donald J. Trump,REP,340,126,191,23
+La Paz,055 Bouse,President,,Joseph R. Biden,DEM,73,17,52,4
+La Paz,055 Bouse,President,,Jo Jorgensen,LBT,1,1,0,0
+La Paz,055 Bouse,President,,Write-in,,1,0,0,1
+La Paz,055 Bouse,U.S. Senate,,"McSally, Martha",REP,325,120,183,22
+La Paz,055 Bouse,U.S. Senate,,"Kelly, Mark",DEM,86,23,58,5
+La Paz,055 Bouse,U.S. Senate,,Write-in,,3,1,1,1
+La Paz,055 Bouse,U.S. House,4,"Gosar, Paul",REP,334,127,187,20
+La Paz,055 Bouse,U.S. House,4,"Disanto, Delina",DEM,66,17,44,5
+La Paz,055 Bouse,U.S. House,4,Write-in,,0,0,0,0
+La Paz,055 Bouse,State Senate,5,"Borrelli, Sonny",REP,359,134,203,22
+La Paz,055 Bouse,State Senate,5,Write-in,,6,3,2,1
+La Paz,055 Bouse,State House,5,"Cobb, Regina",REP,312,117,177,18
+La Paz,055 Bouse,State House,5,"Biasiucci, Leo",REP,252,100,138,14
+La Paz,055 Bouse,State House,5,Write-in,,1,0,0,1
+La Paz,055 Bouse,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,279,105,156,18
+La Paz,055 Bouse,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,253,92,143,18
+La Paz,055 Bouse,Corporation Commissioner,,"Sloan, Eric",REP,252,100,134,18
+La Paz,055 Bouse,Corporation Commissioner,,"Tovar, Anna",DEM,66,14,46,6
+La Paz,055 Bouse,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,63,16,43,4
+La Paz,055 Bouse,Corporation Commissioner,,"Stanfield, Shea",DEM,53,11,39,3
+La Paz,055 Bouse,Corporation Commissioner,,Write-in,,1,0,0,1
+La Paz,056 Wenden,Registered Voters,,,,213,,,
+La Paz,056 Wenden,Ballots Cast,,,,139,41,78,20
+La Paz,056 Wenden,Ballots Cast Blank,,,,0,0,0,0
+La Paz,056 Wenden,President,,Donald J. Trump,REP,101,37,46,18
+La Paz,056 Wenden,President,,Joseph R. Biden,DEM,36,3,31,2
+La Paz,056 Wenden,President,,Jo Jorgensen,LBT,2,1,1,0
+La Paz,056 Wenden,President,,Write-in,,0,0,0,0
+La Paz,056 Wenden,U.S. Senate,,"McSally, Martha",REP,98,37,44,17
+La Paz,056 Wenden,U.S. Senate,,"Kelly, Mark",DEM,41,4,34,3
+La Paz,056 Wenden,U.S. Senate,,Write-in,,0,0,0,0
+La Paz,056 Wenden,U.S. House,4,"Gosar, Paul",REP,97,36,45,16
+La Paz,056 Wenden,U.S. House,4,"Disanto, Delina",DEM,36,2,30,4
+La Paz,056 Wenden,U.S. House,4,Write-in,,0,0,0,0
+La Paz,056 Wenden,State Senate,5,"Borrelli, Sonny",REP,110,34,58,18
+La Paz,056 Wenden,State Senate,5,Write-in,,2,0,2,0
+La Paz,056 Wenden,State House,5,"Cobb, Regina",REP,90,29,50,11
+La Paz,056 Wenden,State House,5,"Biasiucci, Leo",REP,85,25,45,15
+La Paz,056 Wenden,State House,5,Write-in,,1,0,1,0
+La Paz,056 Wenden,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,82,25,40,17
+La Paz,056 Wenden,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,70,20,41,9
+La Paz,056 Wenden,Corporation Commissioner,,"Sloan, Eric",REP,68,22,38,8
+La Paz,056 Wenden,Corporation Commissioner,,"Tovar, Anna",DEM,35,2,28,5
+La Paz,056 Wenden,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,28,1,25,2
+La Paz,056 Wenden,Corporation Commissioner,,"Stanfield, Shea",DEM,27,4,23,0
+La Paz,056 Wenden,Corporation Commissioner,,Write-in,,2,1,1,0
+La Paz,057 Salome,Registered Voters,,,,992,,,
+La Paz,057 Salome,Ballots Cast,,,,785,202,436,147
+La Paz,057 Salome,Ballots Cast Blank,,,,0,0,0,0
+La Paz,057 Salome,President,,Donald J. Trump,REP,610,165,318,127
+La Paz,057 Salome,President,,Joseph R. Biden,DEM,161,36,110,15
+La Paz,057 Salome,President,,Jo Jorgensen,LBT,7,0,4,3
+La Paz,057 Salome,President,,Write-in,,1,0,0,1
+La Paz,057 Salome,U.S. Senate,,"McSally, Martha",REP,588,156,305,127
+La Paz,057 Salome,U.S. Senate,,"Kelly, Mark",DEM,187,44,125,18
+La Paz,057 Salome,U.S. Senate,,Write-in,,1,0,0,1
+La Paz,057 Salome,U.S. House,4,"Gosar, Paul",REP,591,160,313,118
+La Paz,057 Salome,U.S. House,4,"Disanto, Delina",DEM,153,36,98,19
+La Paz,057 Salome,U.S. House,4,Write-in,,1,0,0,1
+La Paz,057 Salome,State Senate,5,"Borrelli, Sonny",REP,650,167,351,132
+La Paz,057 Salome,State Senate,5,Write-in,,13,3,9,1
+La Paz,057 Salome,State House,5,"Cobb, Regina",REP,591,155,320,116
+La Paz,057 Salome,State House,5,"Biasiucci, Leo",REP,424,107,230,87
+La Paz,057 Salome,State House,5,Write-in,,1,0,1,0
+La Paz,057 Salome,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,495,134,257,104
+La Paz,057 Salome,Corporation Commissioner,,"Sloan, Eric",REP,491,128,261,102
+La Paz,057 Salome,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,457,112,249,96
+La Paz,057 Salome,Corporation Commissioner,,"Tovar, Anna",DEM,147,32,97,18
+La Paz,057 Salome,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,137,29,94,14
+La Paz,057 Salome,Corporation Commissioner,,"Stanfield, Shea",DEM,128,23,89,16
+La Paz,057 Salome,Corporation Commissioner,,Write-in,,4,0,0,4
+La Paz,058 Quartzsite Two,Registered Voters,,,,1394,,,
+La Paz,058 Quartzsite Two,Ballots Cast,,,,975,275,591,109
+La Paz,058 Quartzsite Two,Ballots Cast Blank,,,,0,0,0,0
+La Paz,058 Quartzsite Two,President,,Donald J. Trump,REP,725,234,400,91
+La Paz,058 Quartzsite Two,President,,Joseph R. Biden,DEM,231,36,182,13
+La Paz,058 Quartzsite Two,President,,Jo Jorgensen,LBT,11,4,5,2
+La Paz,058 Quartzsite Two,President,,Write-in,,2,1,0,1
+La Paz,058 Quartzsite Two,U.S. Senate,,"McSally, Martha",REP,664,213,366,85
+La Paz,058 Quartzsite Two,U.S. Senate,,"Kelly, Mark",DEM,279,56,206,17
+La Paz,058 Quartzsite Two,U.S. Senate,,Write-in,,7,1,3,3
+La Paz,058 Quartzsite Two,U.S. House,4,"Gosar, Paul",REP,695,222,385,88
+La Paz,058 Quartzsite Two,U.S. House,4,"Disanto, Delina",DEM,223,37,170,16
+La Paz,058 Quartzsite Two,U.S. House,4,Write-in,,7,1,3,3
+La Paz,058 Quartzsite Two,State Senate,5,"Borrelli, Sonny",REP,764,232,444,88
+La Paz,058 Quartzsite Two,State Senate,5,Write-in,,27,5,17,5
+La Paz,058 Quartzsite Two,State House,5,"Cobb, Regina",REP,632,189,367,76
+La Paz,058 Quartzsite Two,State House,5,"Biasiucci, Leo",REP,585,185,332,68
+La Paz,058 Quartzsite Two,State House,5,Write-in,,19,5,13,1
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,597,182,340,75
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,534,174,298,62
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"Sloan, Eric",REP,531,171,295,65
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"Tovar, Anna",DEM,213,36,163,14
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,191,39,136,16
+La Paz,058 Quartzsite Two,Corporation Commissioner,,"Stanfield, Shea",DEM,190,34,146,10
+La Paz,058 Quartzsite Two,Corporation Commissioner,,Write-in,,7,0,5,2
+La Paz,059 Cibola,Registered Voters,,,,146,,,
+La Paz,059 Cibola,Ballots Cast,,,,97,35,53,9
+La Paz,059 Cibola,Ballots Cast Blank,,,,0,0,0,0
+La Paz,059 Cibola,President,,Donald J. Trump,REP,80,31,40,9
+La Paz,059 Cibola,President,,Joseph R. Biden,DEM,14,4,10,0
+La Paz,059 Cibola,President,,Jo Jorgensen,LBT,2,0,2,0
+La Paz,059 Cibola,President,,Write-in,,0,0,0,0
+La Paz,059 Cibola,U.S. Senate,,"McSally, Martha",REP,76,29,38,9
+La Paz,059 Cibola,U.S. Senate,,"Kelly, Mark",DEM,20,5,15,0
+La Paz,059 Cibola,U.S. Senate,,Write-in,,0,0,0,0
+La Paz,059 Cibola,U.S. House,4,"Gosar, Paul",REP,79,30,41,8
+La Paz,059 Cibola,U.S. House,4,"Disanto, Delina",DEM,14,5,9,0
+La Paz,059 Cibola,U.S. House,4,Write-in,,0,0,0,0
+La Paz,059 Cibola,State Senate,5,"Borrelli, Sonny",REP,83,32,44,7
+La Paz,059 Cibola,State Senate,5,Write-in,,2,0,2,0
+La Paz,059 Cibola,State House,5,"Cobb, Regina",REP,69,27,36,6
+La Paz,059 Cibola,State House,5,"Biasiucci, Leo",REP,54,16,34,4
+La Paz,059 Cibola,State House,5,Write-in,,1,0,0,1
+La Paz,059 Cibola,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,60,21,33,6
+La Paz,059 Cibola,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,57,18,33,6
+La Paz,059 Cibola,Corporation Commissioner,,"Sloan, Eric",REP,57,18,32,7
+La Paz,059 Cibola,Corporation Commissioner,,"Tovar, Anna",DEM,17,5,11,1
+La Paz,059 Cibola,Corporation Commissioner,,"Stanfield, Shea",DEM,11,2,8,1
+La Paz,059 Cibola,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,10,3,7,0
+La Paz,059 Cibola,Corporation Commissioner,,Write-in,,0,0,0,0
+La Paz,060 Ehrenberg,Registered Voters,,,,640,,,
+La Paz,060 Ehrenberg,Ballots Cast,,,,372,149,173,50
+La Paz,060 Ehrenberg,Ballots Cast Blank,,,,1,0,0,1
+La Paz,060 Ehrenberg,President,,Donald J. Trump,REP,281,122,120,39
+La Paz,060 Ehrenberg,President,,Joseph R. Biden,DEM,86,26,50,10
+La Paz,060 Ehrenberg,President,,Jo Jorgensen,LBT,3,0,3,0
+La Paz,060 Ehrenberg,President,,Write-in,,1,1,0,0
+La Paz,060 Ehrenberg,U.S. Senate,,"McSally, Martha",REP,253,108,111,34
+La Paz,060 Ehrenberg,U.S. Senate,,"Kelly, Mark",DEM,104,34,58,12
+La Paz,060 Ehrenberg,U.S. Senate,,Write-in,,2,2,0,0
+La Paz,060 Ehrenberg,U.S. House,4,"Gosar, Paul",REP,269,117,119,33
+La Paz,060 Ehrenberg,U.S. House,4,"Disanto, Delina",DEM,82,23,48,11
+La Paz,060 Ehrenberg,U.S. House,4,Write-in,,0,0,0,0
+La Paz,060 Ehrenberg,State Senate,5,"Borrelli, Sonny",REP,305,133,136,36
+La Paz,060 Ehrenberg,State Senate,5,Write-in,,9,4,3,2
+La Paz,060 Ehrenberg,State House,5,"Cobb, Regina",REP,249,102,116,31
+La Paz,060 Ehrenberg,State House,5,"Biasiucci, Leo",REP,215,89,103,23
+La Paz,060 Ehrenberg,State House,5,Write-in,,2,2,0,0
+La Paz,060 Ehrenberg,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,211,92,99,20
+La Paz,060 Ehrenberg,Corporation Commissioner,,"Sloan, Eric",REP,192,72,98,22
+La Paz,060 Ehrenberg,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,179,74,87,18
+La Paz,060 Ehrenberg,Corporation Commissioner,,"Tovar, Anna",DEM,76,25,43,8
+La Paz,060 Ehrenberg,Corporation Commissioner,,"Stanfield, Shea",DEM,57,19,30,8
+La Paz,060 Ehrenberg,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,56,16,34,6
+La Paz,060 Ehrenberg,Corporation Commissioner,,Write-in,,0,0,0,0
+La Paz,062 Vicksburg,Registered Voters,,,,314,,,
+La Paz,062 Vicksburg,Ballots Cast,,,,224,30,185,9
+La Paz,062 Vicksburg,Ballots Cast Blank,,,,0,0,0,0
+La Paz,062 Vicksburg,President,,Donald J. Trump,REP,174,29,136,9
+La Paz,062 Vicksburg,President,,Joseph R. Biden,DEM,47,1,46,0
+La Paz,062 Vicksburg,President,,Jo Jorgensen,LBT,1,0,1,0
+La Paz,062 Vicksburg,President,,Write-in,,0,0,0,0
+La Paz,062 Vicksburg,U.S. Senate,,"McSally, Martha",REP,170,28,133,9
+La Paz,062 Vicksburg,U.S. Senate,,"Kelly, Mark",DEM,48,1,47,0
+La Paz,062 Vicksburg,U.S. Senate,,Write-in,,0,0,0,0
+La Paz,062 Vicksburg,U.S. House,4,"Gosar, Paul",REP,172,29,134,9
+La Paz,062 Vicksburg,U.S. House,4,"Disanto, Delina",DEM,43,1,42,0
+La Paz,062 Vicksburg,U.S. House,4,Write-in,,0,0,0,0
+La Paz,062 Vicksburg,State Senate,5,"Borrelli, Sonny",REP,181,29,143,9
+La Paz,062 Vicksburg,State Senate,5,Write-in,,1,0,1,0
+La Paz,062 Vicksburg,State House,5,"Cobb, Regina",REP,166,27,131,8
+La Paz,062 Vicksburg,State House,5,"Biasiucci, Leo",REP,118,24,88,6
+La Paz,062 Vicksburg,State House,5,Write-in,,0,0,0,0
+La Paz,062 Vicksburg,Corporation Commissioner,,"Sloan, Eric",REP,150,26,115,9
+La Paz,062 Vicksburg,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,148,27,112,9
+La Paz,062 Vicksburg,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,141,25,107,9
+La Paz,062 Vicksburg,Corporation Commissioner,,"Tovar, Anna",DEM,38,0,38,0
+La Paz,062 Vicksburg,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,36,1,35,0
+La Paz,062 Vicksburg,Corporation Commissioner,,"Stanfield, Shea",DEM,36,0,36,0
+La Paz,062 Vicksburg,Corporation Commissioner,,Write-in,,0,0,0,0
+La Paz,064 Quartzsite Three,Registered Voters,,,,645,,,
+La Paz,064 Quartzsite Three,Ballots Cast,,,,488,99,341,48
+La Paz,064 Quartzsite Three,Ballots Cast Blank,,,,0,0,0,0
+La Paz,064 Quartzsite Three,President,,Donald J. Trump,REP,349,84,221,44
+La Paz,064 Quartzsite Three,President,,Joseph R. Biden,DEM,131,14,114,3
+La Paz,064 Quartzsite Three,President,,Jo Jorgensen,LBT,6,1,5,0
+La Paz,064 Quartzsite Three,President,,Write-in,,0,0,0,0
+La Paz,064 Quartzsite Three,U.S. Senate,,"McSally, Martha",REP,334,81,209,44
+La Paz,064 Quartzsite Three,U.S. Senate,,"Kelly, Mark",DEM,142,18,120,4
+La Paz,064 Quartzsite Three,U.S. Senate,,Write-in,,0,0,0,0
+La Paz,064 Quartzsite Three,U.S. House,4,"Gosar, Paul",REP,347,82,223,42
+La Paz,064 Quartzsite Three,U.S. House,4,"Disanto, Delina",DEM,122,15,103,4
+La Paz,064 Quartzsite Three,U.S. House,4,Write-in,,0,0,0,0
+La Paz,064 Quartzsite Three,State Senate,5,"Borrelli, Sonny",REP,401,88,268,45
+La Paz,064 Quartzsite Three,State Senate,5,Write-in,,3,1,2,0
+La Paz,064 Quartzsite Three,State House,5,"Cobb, Regina",REP,312,73,207,32
+La Paz,064 Quartzsite Three,State House,5,"Biasiucci, Leo",REP,311,76,198,37
+La Paz,064 Quartzsite Three,State House,5,Write-in,,10,6,4,0
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"Sloan, Eric",REP,295,73,191,31
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"O'Connor, James ""Jim""",REP,292,70,182,40
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"Marquez, Peterson, Lea",REP,272,66,171,35
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"Tovar, Anna",DEM,123,16,98,9
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"Mundell, William ""Bill""",DEM,103,10,89,4
+La Paz,064 Quartzsite Three,Corporation Commissioner,,"Stanfield, Shea",DEM,101,14,83,4
+La Paz,064 Quartzsite Three,Corporation Commissioner,,Write-in,,2,2,0,0
