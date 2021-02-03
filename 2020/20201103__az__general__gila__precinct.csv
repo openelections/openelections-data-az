@@ -1,0 +1,2427 @@
+county,precinct,office,district,party,candidate,votes
+Gila,Globe #1,Registered Voters,,,,641
+Gila,Globe #1,Ballots Cast,,,,502
+Gila,Globe #1,President,,REP,TRUMP PENCE,348
+Gila,Globe #1,President,,DEM,BIDEN HARRIS,142
+Gila,Globe #1,President,,LBT,JORGENSEN COHEN,7
+Gila,Globe #1,President,,,Write-Ins,0
+Gila,Globe #1,U.S. Senate,,REP,"MCSALLY, MARTHA",330
+Gila,Globe #1,U.S. Senate,,DEM,"KELLY, MARK",164
+Gila,Globe #1,U.S. Senate,,,Write-Ins,2
+Gila,Globe #1,U.S. House,1,REP,"SHEDD, TIFFANY",313
+Gila,Globe #1,U.S. House,1,DEM,"O'HALLERAN, TOM",174
+Gila,Globe #1,U.S. House,1,,Write-Ins,1
+Gila,Globe #1,State Senate,8,REP,"SHOPE, THOMAS T.J.",312
+Gila,Globe #1,State Senate,8,DEM,"MCGUIRE, BARBARA",169
+Gila,Globe #1,State Senate,8,,Write-Ins,0
+Gila,Globe #1,State House,8,REP,"COOK, DAVID",257
+Gila,Globe #1,State House,8,REP,"PRATT, FRANK",303
+Gila,Globe #1,State House,8,DEM,"GIRARD, SHARON",181
+Gila,Globe #1,State House,8,,Write-Ins,3
+Gila,Globe #1,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",273
+Gila,Globe #1,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",288
+Gila,Globe #1,Corporation Commissioner,,REP,"SLOAN, ERIC",266
+Gila,Globe #1,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",142
+Gila,Globe #1,Corporation Commissioner,,DEM,"STANFIELD, SHEA",120
+Gila,Globe #1,Corporation Commissioner,,DEM,"TOVAR, ANNA",166
+Gila,Globe #1,Corporation Commissioner,,,Write-In Totals,3
+Gila,Globe #1,Board of Supervisors District 3,,REP,"CLINE, WOODY",319
+Gila,Globe #1,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",165
+Gila,Globe #1,Board of Supervisors District 3,,,Write-In Totals,2
+Gila,Globe #1,County Attorney,,REP,"BEAUCHAMP, BRADLEY",366
+Gila,Globe #1,County Attorney,,,Write-In Totals,15
+Gila,Globe #1,Sheriff,,REP,"SHEPHERD, ADAM",304
+Gila,Globe #1,Sheriff,,DEM,"BENDER, CHRISTOPHER",170
+Gila,Globe #1,Sheriff,,,Write-In Totals,4
+Gila,Globe #1,County Treasurer,,REP,"WOHLFORTH, MONICA",230
+Gila,Globe #1,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",256
+Gila,Globe #1,County Treasurer,,,Write-In Totals,1
+Gila,Globe #1,County School Superintendent,,REP,"SANDOVAL, ROY",413
+Gila,Globe #1,County School Superintendent,,,Write-In Totals,8
+Gila,Globe #1,County Recorder,,REP,"BINGHAM, SADIE JO",426
+Gila,Globe #1,County Recorder,,,Write-Ins,6
+Gila,Globe #1,County Assessor,,REP,"WILLIAMS, JOSEPH",414
+Gila,Globe #1,County Assessor,,,Write-Ins,7
+Gila,Globe #1,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,363
+Gila,Globe #1,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,66
+Gila,Globe #1,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,350
+Gila,Globe #1,"GOULD, ANDREW W., Supreme Court Justice",,,No,76
+Gila,Globe #1,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,349
+Gila,Globe #1,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,73
+Gila,Globe #1,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,344
+Gila,Globe #1,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,77
+Gila,Globe #1,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,338
+Gila,Globe #1,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,80
+Gila,Globe #1,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",392
+Gila,Globe #1,Judge of the Superior Court Div. 1,,,Write-Ins,13
+Gila,Globe #1,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",224
+Gila,Globe #1,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",220
+Gila,Globe #1,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",234
+Gila,Globe #1,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",234
+Gila,Globe #1,Board Member Globe Unified School District #1,,,Write-Ins,4
+Gila,Globe #1,PROPOSITION 207,,,Yes,260
+Gila,Globe #1,PROPOSITION 207,,,No,218
+Gila,Globe #1,PROPOSITION 208,,,Yes,199
+Gila,Globe #1,PROPOSITION 208,,,No,276
+Gila,Globe #2,Registered Voters,,,,225
+Gila,Globe #2,Ballots Cast,,,,179
+Gila,Globe #2,President,,REP,TRUMP PENCE,96
+Gila,Globe #2,President,,DEM,BIDEN HARRIS,81
+Gila,Globe #2,President,,LBT,JORGENSEN COHEN,1
+Gila,Globe #2,President,,,Write-Ins,0
+Gila,Globe #2,U.S. Senate,,REP,"MCSALLY, MARTHA",86
+Gila,Globe #2,U.S. Senate,,DEM,"KELLY, MARK",90
+Gila,Globe #2,U.S. Senate,,,Write-Ins,0
+Gila,Globe #2,U.S. House,1,REP,"SHEDD, TIFFANY",85
+Gila,Globe #2,U.S. House,1,DEM,"O'HALLERAN, TOM",91
+Gila,Globe #2,U.S. House,1,,Write-Ins,0
+Gila,Globe #2,State Senate,8,REP,"SHOPE, THOMAS T.J.",87
+Gila,Globe #2,State Senate,8,DEM,"MCGUIRE, BARBARA",86
+Gila,Globe #2,State Senate,8,,Write-Ins,0
+Gila,Globe #2,State House,8,REP,"COOK, DAVID",81
+Gila,Globe #2,State House,8,REP,"PRATT, FRANK",87
+Gila,Globe #2,State House,8,DEM,"GIRARD, SHARON",83
+Gila,Globe #2,State House,8,,Write-Ins,0
+Gila,Globe #2,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",75
+Gila,Globe #2,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",68
+Gila,Globe #2,Corporation Commissioner,,REP,"SLOAN, ERIC",78
+Gila,Globe #2,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",71
+Gila,Globe #2,Corporation Commissioner,,DEM,"STANFIELD, SHEA",62
+Gila,Globe #2,Corporation Commissioner,,DEM,"TOVAR, ANNA",75
+Gila,Globe #2,Corporation Commissioner,,,Write-In Totals,0
+Gila,Globe #2,Board of Supervisors District 3,,REP,"CLINE, WOODY",90
+Gila,Globe #2,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",83
+Gila,Globe #2,Board of Supervisors District 3,,,Write-In Totals,0
+Gila,Globe #2,County Attorney,,REP,"BEAUCHAMP, BRADLEY",122
+Gila,Globe #2,County Attorney,,,Write-In Totals,0
+Gila,Globe #2,Sheriff,,REP,"SHEPHERD, ADAM",85
+Gila,Globe #2,Sheriff,,DEM,"BENDER, CHRISTOPHER",82
+Gila,Globe #2,Sheriff,,,Write-In Totals,4
+Gila,Globe #2,County Treasurer,,REP,"WOHLFORTH, MONICA",73
+Gila,Globe #2,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",97
+Gila,Globe #2,County Treasurer,,,Write-In Totals,0
+Gila,Globe #2,County School Superintendent,,REP,"SANDOVAL, ROY",133
+Gila,Globe #2,County School Superintendent,,,Write-In Totals,1
+Gila,Globe #2,County Recorder,,REP,"BINGHAM, SADIE JO",136
+Gila,Globe #2,County Recorder,,,Write-Ins,2
+Gila,Globe #2,County Assessor,,REP,"WILLIAMS, JOSEPH",126
+Gila,Globe #2,County Assessor,,,Write-Ins,1
+Gila,Globe #2,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,109
+Gila,Globe #2,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,37
+Gila,Globe #2,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,102
+Gila,Globe #2,"GOULD, ANDREW W., Supreme Court Justice",,,No,41
+Gila,Globe #2,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,113
+Gila,Globe #2,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,30
+Gila,Globe #2,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,111
+Gila,Globe #2,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,33
+Gila,Globe #2,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,119
+Gila,Globe #2,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,24
+Gila,Globe #2,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",124
+Gila,Globe #2,Judge of the Superior Court Div. 1,,,Write-Ins,5
+Gila,Globe #2,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",73
+Gila,Globe #2,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",81
+Gila,Globe #2,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",72
+Gila,Globe #2,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",82
+Gila,Globe #2,Board Member Globe Unified School District #1,,,Write-Ins,7
+Gila,Globe #2,PROPOSITION 207,,,Yes,118
+Gila,Globe #2,PROPOSITION 207,,,No,51
+Gila,Globe #2,PROPOSITION 208,,,Yes,89
+Gila,Globe #2,PROPOSITION 208,,,No,80
+Gila,Globe #3,Registered Voters,,,,143
+Gila,Globe #3,Ballots Cast,,,,108
+Gila,Globe #3,President,,REP,TRUMP PENCE,57
+Gila,Globe #3,President,,DEM,BIDEN HARRIS,47
+Gila,Globe #3,President,,LBT,JORGENSEN COHEN,2
+Gila,Globe #3,President,,,Write-Ins,0
+Gila,Globe #3,U.S. Senate,,REP,"MCSALLY, MARTHA",54
+Gila,Globe #3,U.S. Senate,,DEM,"KELLY, MARK",53
+Gila,Globe #3,U.S. Senate,,,Write-Ins,0
+Gila,Globe #3,U.S. House,1,REP,"SHEDD, TIFFANY",51
+Gila,Globe #3,U.S. House,1,DEM,"O'HALLERAN, TOM",51
+Gila,Globe #3,U.S. House,1,,Write-Ins,0
+Gila,Globe #3,State Senate,8,REP,"SHOPE, THOMAS T.J.",47
+Gila,Globe #3,State Senate,8,DEM,"MCGUIRE, BARBARA",53
+Gila,Globe #3,State Senate,8,,Write-Ins,0
+Gila,Globe #3,State House,8,REP,"COOK, DAVID",50
+Gila,Globe #3,State House,8,REP,"PRATT, FRANK",50
+Gila,Globe #3,State House,8,DEM,"GIRARD, SHARON",49
+Gila,Globe #3,State House,8,,Write-Ins,1
+Gila,Globe #3,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",42
+Gila,Globe #3,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",46
+Gila,Globe #3,Corporation Commissioner,,REP,"SLOAN, ERIC",47
+Gila,Globe #3,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",47
+Gila,Globe #3,Corporation Commissioner,,DEM,"STANFIELD, SHEA",40
+Gila,Globe #3,Corporation Commissioner,,DEM,"TOVAR, ANNA",45
+Gila,Globe #3,Corporation Commissioner,,,Write-In Totals,0
+Gila,Globe #3,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",60
+Gila,Globe #3,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",44
+Gila,Globe #3,Board of Supervisors District 2,,,Write-In Totals,0
+Gila,Globe #3,County Attorney,,REP,"BEAUCHAMP, BRADLEY",77
+Gila,Globe #3,County Attorney,,,Write-In Totals,1
+Gila,Globe #3,Sheriff,,REP,"SHEPHERD, ADAM",57
+Gila,Globe #3,Sheriff,,DEM,"BENDER, CHRISTOPHER",47
+Gila,Globe #3,Sheriff,,,Write-In Totals,0
+Gila,Globe #3,County Treasurer,,REP,"WOHLFORTH, MONICA",33
+Gila,Globe #3,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",73
+Gila,Globe #3,County Treasurer,,,Write-In Totals,0
+Gila,Globe #3,County School Superintendent,,REP,"SANDOVAL, ROY",83
+Gila,Globe #3,County School Superintendent,,,Write-In Totals,0
+Gila,Globe #3,County Recorder,,REP,"BINGHAM, SADIE JO",84
+Gila,Globe #3,County Recorder,,,Write-Ins,0
+Gila,Globe #3,County Assessor,,REP,"WILLIAMS, JOSEPH",82
+Gila,Globe #3,County Assessor,,,Write-Ins,0
+Gila,Globe #3,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,68
+Gila,Globe #3,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,14
+Gila,Globe #3,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,62
+Gila,Globe #3,"GOULD, ANDREW W., Supreme Court Justice",,,No,21
+Gila,Globe #3,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,69
+Gila,Globe #3,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,12
+Gila,Globe #3,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,65
+Gila,Globe #3,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,17
+Gila,Globe #3,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,70
+Gila,Globe #3,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,12
+Gila,Globe #3,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",85
+Gila,Globe #3,Judge of the Superior Court Div. 1,,,Write-Ins,0
+Gila,Globe #3,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",48
+Gila,Globe #3,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",41
+Gila,Globe #3,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",53
+Gila,Globe #3,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",51
+Gila,Globe #3,Board Member Globe Unified School District #1,,,Write-Ins,1
+Gila,Globe #3,PROPOSITION 207,,,Yes,62
+Gila,Globe #3,PROPOSITION 207,,,No,40
+Gila,Globe #3,PROPOSITION 208,,,Yes,47
+Gila,Globe #3,PROPOSITION 208,,,No,56
+Gila,Globe #4,Registered Voters,,,,621
+Gila,Globe #4,Ballots Cast,,,,501
+Gila,Globe #4,President,,REP,TRUMP PENCE,248
+Gila,Globe #4,President,,DEM,BIDEN HARRIS,229
+Gila,Globe #4,President,,LBT,JORGENSEN COHEN,15
+Gila,Globe #4,President,,,Write-Ins,2
+Gila,Globe #4,U.S. Senate,,REP,"MCSALLY, MARTHA",240
+Gila,Globe #4,U.S. Senate,,DEM,"KELLY, MARK",251
+Gila,Globe #4,U.S. Senate,,,Write-Ins,3
+Gila,Globe #4,U.S. House,1,REP,"SHEDD, TIFFANY",237
+Gila,Globe #4,U.S. House,1,DEM,"O'HALLERAN, TOM",239
+Gila,Globe #4,U.S. House,1,,Write-Ins,2
+Gila,Globe #4,State Senate,8,REP,"SHOPE, THOMAS T.J.",249
+Gila,Globe #4,State Senate,8,DEM,"MCGUIRE, BARBARA",226
+Gila,Globe #4,State Senate,8,,Write-Ins,2
+Gila,Globe #4,State House,8,REP,"COOK, DAVID",203
+Gila,Globe #4,State House,8,REP,"PRATT, FRANK",249
+Gila,Globe #4,State House,8,DEM,"GIRARD, SHARON",249
+Gila,Globe #4,State House,8,,Write-Ins,6
+Gila,Globe #4,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",199
+Gila,Globe #4,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",214
+Gila,Globe #4,Corporation Commissioner,,REP,"SLOAN, ERIC",189
+Gila,Globe #4,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",185
+Gila,Globe #4,Corporation Commissioner,,DEM,"STANFIELD, SHEA",182
+Gila,Globe #4,Corporation Commissioner,,DEM,"TOVAR, ANNA",214
+Gila,Globe #4,Corporation Commissioner,,,Write-In Totals,2
+Gila,Globe #4,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",284
+Gila,Globe #4,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",188
+Gila,Globe #4,Board of Supervisors District 2,,,Write-In Totals,5
+Gila,Globe #4,County Attorney,,REP,"BEAUCHAMP, BRADLEY",344
+Gila,Globe #4,County Attorney,,,Write-In Totals,9
+Gila,Globe #4,Sheriff,,REP,"SHEPHERD, ADAM",245
+Gila,Globe #4,Sheriff,,DEM,"BENDER, CHRISTOPHER",230
+Gila,Globe #4,Sheriff,,,Write-In Totals,4
+Gila,Globe #4,County Treasurer,,REP,"WOHLFORTH, MONICA",173
+Gila,Globe #4,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",294
+Gila,Globe #4,County Treasurer,,,Write-In Totals,3
+Gila,Globe #4,County School Superintendent,,REP,"SANDOVAL, ROY",373
+Gila,Globe #4,County School Superintendent,,,Write-In Totals,8
+Gila,Globe #4,County Recorder,,REP,"BINGHAM, SADIE JO",389
+Gila,Globe #4,County Recorder,,,Write-Ins,5
+Gila,Globe #4,County Assessor,,REP,"WILLIAMS, JOSEPH",355
+Gila,Globe #4,County Assessor,,,Write-Ins,9
+Gila,Globe #4,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,321
+Gila,Globe #4,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,80
+Gila,Globe #4,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,320
+Gila,Globe #4,"GOULD, ANDREW W., Supreme Court Justice",,,No,81
+Gila,Globe #4,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,334
+Gila,Globe #4,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,70
+Gila,Globe #4,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,314
+Gila,Globe #4,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,73
+Gila,Globe #4,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,321
+Gila,Globe #4,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,73
+Gila,Globe #4,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",377
+Gila,Globe #4,Judge of the Superior Court Div. 1,,,Write-Ins,7
+Gila,Globe #4,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",219
+Gila,Globe #4,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",214
+Gila,Globe #4,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",220
+Gila,Globe #4,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",245
+Gila,Globe #4,Board Member Globe Unified School District #1,,,Write-Ins,12
+Gila,Globe #4,PROPOSITION 207,,,Yes,273
+Gila,Globe #4,PROPOSITION 207,,,No,189
+Gila,Globe #4,PROPOSITION 208,,,Yes,247
+Gila,Globe #4,PROPOSITION 208,,,No,224
+Gila,Globe #6,Registered Voters,,,,883
+Gila,Globe #6,Ballots Cast,,,,731
+Gila,Globe #6,President,,REP,TRUMP PENCE,444
+Gila,Globe #6,President,,DEM,BIDEN HARRIS,262
+Gila,Globe #6,President,,LBT,JORGENSEN COHEN,12
+Gila,Globe #6,President,,,Write-Ins,2
+Gila,Globe #6,U.S. Senate,,REP,"MCSALLY, MARTHA",428
+Gila,Globe #6,U.S. Senate,,DEM,"KELLY, MARK",290
+Gila,Globe #6,U.S. Senate,,,Write-Ins,2
+Gila,Globe #6,U.S. House,1,REP,"SHEDD, TIFFANY",418
+Gila,Globe #6,U.S. House,1,DEM,"O'HALLERAN, TOM",298
+Gila,Globe #6,U.S. House,1,,Write-Ins,0
+Gila,Globe #6,State Senate,8,REP,"SHOPE, THOMAS T.J.",423
+Gila,Globe #6,State Senate,8,DEM,"MCGUIRE, BARBARA",278
+Gila,Globe #6,State Senate,8,,Write-Ins,0
+Gila,Globe #6,State House,8,REP,"COOK, DAVID",348
+Gila,Globe #6,State House,8,REP,"PRATT, FRANK",409
+Gila,Globe #6,State House,8,DEM,"GIRARD, SHARON",315
+Gila,Globe #6,State House,8,,Write-Ins,4
+Gila,Globe #6,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",364
+Gila,Globe #6,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",357
+Gila,Globe #6,Corporation Commissioner,,REP,"SLOAN, ERIC",336
+Gila,Globe #6,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",242
+Gila,Globe #6,Corporation Commissioner,,DEM,"STANFIELD, SHEA",227
+Gila,Globe #6,Corporation Commissioner,,DEM,"TOVAR, ANNA",249
+Gila,Globe #6,Corporation Commissioner,,,Write-In Totals,1
+Gila,Globe #6,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",432
+Gila,Globe #6,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",261
+Gila,Globe #6,Board of Supervisors District 2,,,Write-In Totals,4
+Gila,Globe #6,County Attorney,,REP,"BEAUCHAMP, BRADLEY",556
+Gila,Globe #6,County Attorney,,,Write-In Totals,3
+Gila,Globe #6,Sheriff,,REP,"SHEPHERD, ADAM",405
+Gila,Globe #6,Sheriff,,DEM,"BENDER, CHRISTOPHER",288
+Gila,Globe #6,Sheriff,,,Write-In Totals,5
+Gila,Globe #6,County Treasurer,,REP,"WOHLFORTH, MONICA",288
+Gila,Globe #6,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",405
+Gila,Globe #6,County Treasurer,,,Write-In Totals,1
+Gila,Globe #6,County School Superintendent,,REP,"SANDOVAL, ROY",578
+Gila,Globe #6,County School Superintendent,,,Write-In Totals,2
+Gila,Globe #6,County Recorder,,REP,"BINGHAM, SADIE JO",590
+Gila,Globe #6,County Recorder,,,Write-Ins,3
+Gila,Globe #6,County Assessor,,REP,"WILLIAMS, JOSEPH",558
+Gila,Globe #6,County Assessor,,,Write-Ins,2
+Gila,Globe #6,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,495
+Gila,Globe #6,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,106
+Gila,Globe #6,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,476
+Gila,Globe #6,"GOULD, ANDREW W., Supreme Court Justice",,,No,128
+Gila,Globe #6,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,504
+Gila,Globe #6,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,100
+Gila,Globe #6,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,481
+Gila,Globe #6,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,109
+Gila,Globe #6,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,479
+Gila,Globe #6,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,113
+Gila,Globe #6,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",572
+Gila,Globe #6,Judge of the Superior Court Div. 1,,,Write-Ins,2
+Gila,Globe #6,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",340
+Gila,Globe #6,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",325
+Gila,Globe #6,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",338
+Gila,Globe #6,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",332
+Gila,Globe #6,Board Member Globe Unified School District #1,,,Write-Ins,8
+Gila,Globe #6,PROPOSITION 207,,,Yes,367
+Gila,Globe #6,PROPOSITION 207,,,No,314
+Gila,Globe #6,PROPOSITION 208,,,Yes,335
+Gila,Globe #6,PROPOSITION 208,,,No,359
+Gila,Globe #7,Registered Voters,,,,479
+Gila,Globe #7,Ballots Cast,,,,377
+Gila,Globe #7,President,,REP,TRUMP PENCE,231
+Gila,Globe #7,President,,DEM,BIDEN HARRIS,138
+Gila,Globe #7,President,,LBT,JORGENSEN COHEN,3
+Gila,Globe #7,President,,,Write-Ins,1
+Gila,Globe #7,U.S. Senate,,REP,"MCSALLY, MARTHA",226
+Gila,Globe #7,U.S. Senate,,DEM,"KELLY, MARK",148
+Gila,Globe #7,U.S. Senate,,,Write-Ins,0
+Gila,Globe #7,U.S. House,1,REP,"SHEDD, TIFFANY",207
+Gila,Globe #7,U.S. House,1,DEM,"O'HALLERAN, TOM",157
+Gila,Globe #7,U.S. House,1,,Write-Ins,0
+Gila,Globe #7,State Senate,8,REP,"SHOPE, THOMAS T.J.",212
+Gila,Globe #7,State Senate,8,DEM,"MCGUIRE, BARBARA",153
+Gila,Globe #7,State Senate,8,,Write-Ins,0
+Gila,Globe #7,State House,8,REP,"COOK, DAVID",186
+Gila,Globe #7,State House,8,REP,"PRATT, FRANK",205
+Gila,Globe #7,State House,8,DEM,"GIRARD, SHARON",154
+Gila,Globe #7,State House,8,,Write-Ins,0
+Gila,Globe #7,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",176
+Gila,Globe #7,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",187
+Gila,Globe #7,Corporation Commissioner,,REP,"SLOAN, ERIC",172
+Gila,Globe #7,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",125
+Gila,Globe #7,Corporation Commissioner,,DEM,"STANFIELD, SHEA",113
+Gila,Globe #7,Corporation Commissioner,,DEM,"TOVAR, ANNA",134
+Gila,Globe #7,Corporation Commissioner,,,Write-In Totals,0
+Gila,Globe #7,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",230
+Gila,Globe #7,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",135
+Gila,Globe #7,Board of Supervisors District 2,,,Write-In Totals,0
+Gila,Globe #7,County Attorney,,REP,"BEAUCHAMP, BRADLEY",276
+Gila,Globe #7,County Attorney,,,Write-In Totals,2
+Gila,Globe #7,Sheriff,,REP,"SHEPHERD, ADAM",216
+Gila,Globe #7,Sheriff,,DEM,"BENDER, CHRISTOPHER",145
+Gila,Globe #7,Sheriff,,,Write-In Totals,4
+Gila,Globe #7,County Treasurer,,REP,"WOHLFORTH, MONICA",128
+Gila,Globe #7,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",239
+Gila,Globe #7,County Treasurer,,,Write-In Totals,1
+Gila,Globe #7,County School Superintendent,,REP,"SANDOVAL, ROY",289
+Gila,Globe #7,County School Superintendent,,,Write-In Totals,3
+Gila,Globe #7,County Recorder,,REP,"BINGHAM, SADIE JO",312
+Gila,Globe #7,County Recorder,,,Write-Ins,3
+Gila,Globe #7,County Assessor,,REP,"WILLIAMS, JOSEPH",274
+Gila,Globe #7,County Assessor,,,Write-Ins,4
+Gila,Globe #7,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,272
+Gila,Globe #7,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,54
+Gila,Globe #7,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,248
+Gila,Globe #7,"GOULD, ANDREW W., Supreme Court Justice",,,No,68
+Gila,Globe #7,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,258
+Gila,Globe #7,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,63
+Gila,Globe #7,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,242
+Gila,Globe #7,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,68
+Gila,Globe #7,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,245
+Gila,Globe #7,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,69
+Gila,Globe #7,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",301
+Gila,Globe #7,Judge of the Superior Court Div. 1,,,Write-Ins,4
+Gila,Globe #7,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",164
+Gila,Globe #7,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",165
+Gila,Globe #7,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",183
+Gila,Globe #7,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",195
+Gila,Globe #7,Board Member Globe Unified School District #1,,,Write-Ins,4
+Gila,Globe #7,PROPOSITION 207,,,Yes,203
+Gila,Globe #7,PROPOSITION 207,,,No,155
+Gila,Globe #7,PROPOSITION 208,,,Yes,163
+Gila,Globe #7,PROPOSITION 208,,,No,199
+Gila,Globe #8,Registered Voters,,,,560
+Gila,Globe #8,Ballots Cast,,,,410
+Gila,Globe #8,President,,REP,TRUMP PENCE,206
+Gila,Globe #8,President,,DEM,BIDEN HARRIS,187
+Gila,Globe #8,President,,LBT,JORGENSEN COHEN,12
+Gila,Globe #8,President,,,Write-Ins,0
+Gila,Globe #8,U.S. Senate,,REP,"MCSALLY, MARTHA",183
+Gila,Globe #8,U.S. Senate,,DEM,"KELLY, MARK",216
+Gila,Globe #8,U.S. Senate,,,Write-Ins,1
+Gila,Globe #8,U.S. House,1,REP,"SHEDD, TIFFANY",181
+Gila,Globe #8,U.S. House,1,DEM,"O'HALLERAN, TOM",215
+Gila,Globe #8,U.S. House,1,,Write-Ins,1
+Gila,Globe #8,State Senate,8,REP,"SHOPE, THOMAS T.J.",182
+Gila,Globe #8,State Senate,8,DEM,"MCGUIRE, BARBARA",206
+Gila,Globe #8,State Senate,8,,Write-Ins,2
+Gila,Globe #8,State House,8,REP,"COOK, DAVID",154
+Gila,Globe #8,State House,8,REP,"PRATT, FRANK",188
+Gila,Globe #8,State House,8,DEM,"GIRARD, SHARON",223
+Gila,Globe #8,State House,8,,Write-Ins,4
+Gila,Globe #8,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",150
+Gila,Globe #8,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",137
+Gila,Globe #8,Corporation Commissioner,,REP,"SLOAN, ERIC",136
+Gila,Globe #8,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",173
+Gila,Globe #8,Corporation Commissioner,,DEM,"STANFIELD, SHEA",176
+Gila,Globe #8,Corporation Commissioner,,DEM,"TOVAR, ANNA",198
+Gila,Globe #8,Corporation Commissioner,,,Write-In Totals,1
+Gila,Globe #8,Board of Supervisors District 3,,REP,"CLINE, WOODY",191
+Gila,Globe #8,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",195
+Gila,Globe #8,Board of Supervisors District 3,,,Write-In Totals,3
+Gila,Globe #8,County Attorney,,REP,"BEAUCHAMP, BRADLEY",285
+Gila,Globe #8,County Attorney,,,Write-In Totals,3
+Gila,Globe #8,Sheriff,,REP,"SHEPHERD, ADAM",186
+Gila,Globe #8,Sheriff,,DEM,"BENDER, CHRISTOPHER",207
+Gila,Globe #8,Sheriff,,,Write-In Totals,5
+Gila,Globe #8,County Treasurer,,REP,"WOHLFORTH, MONICA",120
+Gila,Globe #8,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",271
+Gila,Globe #8,County Treasurer,,,Write-In Totals,1
+Gila,Globe #8,County School Superintendent,,REP,"SANDOVAL, ROY",325
+Gila,Globe #8,County School Superintendent,,,Write-In Totals,4
+Gila,Globe #8,County Recorder,,REP,"BINGHAM, SADIE JO",326
+Gila,Globe #8,County Recorder,,,Write-Ins,5
+Gila,Globe #8,County Assessor,,REP,"WILLIAMS, JOSEPH",300
+Gila,Globe #8,County Assessor,,,Write-Ins,4
+Gila,Globe #8,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,257
+Gila,Globe #8,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,73
+Gila,Globe #8,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,251
+Gila,Globe #8,"GOULD, ANDREW W., Supreme Court Justice",,,No,79
+Gila,Globe #8,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,279
+Gila,Globe #8,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,62
+Gila,Globe #8,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,256
+Gila,Globe #8,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,67
+Gila,Globe #8,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,281
+Gila,Globe #8,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,56
+Gila,Globe #8,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",323
+Gila,Globe #8,Judge of the Superior Court Div. 1,,,Write-Ins,6
+Gila,Globe #8,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",207
+Gila,Globe #8,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",171
+Gila,Globe #8,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",218
+Gila,Globe #8,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",197
+Gila,Globe #8,Board Member Globe Unified School District #1,,,Write-Ins,1
+Gila,Globe #8,PROPOSITION 207,,,Yes,230
+Gila,Globe #8,PROPOSITION 207,,,No,162
+Gila,Globe #8,PROPOSITION 208,,,Yes,214
+Gila,Globe #8,PROPOSITION 208,,,No,177
+Gila,Globe #11,Registered Voters,,,,703
+Gila,Globe #11,Ballots Cast,,,,586
+Gila,Globe #11,President,,REP,TRUMP PENCE,403
+Gila,Globe #11,President,,DEM,BIDEN HARRIS,162
+Gila,Globe #11,President,,LBT,JORGENSEN COHEN,9
+Gila,Globe #11,President,,,Write-Ins,1
+Gila,Globe #11,U.S. Senate,,REP,"MCSALLY, MARTHA",394
+Gila,Globe #11,U.S. Senate,,DEM,"KELLY, MARK",177
+Gila,Globe #11,U.S. Senate,,,Write-Ins,0
+Gila,Globe #11,U.S. House,1,REP,"SHEDD, TIFFANY",371
+Gila,Globe #11,U.S. House,1,DEM,"O'HALLERAN, TOM",195
+Gila,Globe #11,U.S. House,1,,Write-Ins,0
+Gila,Globe #11,State Senate,8,REP,"SHOPE, THOMAS T.J.",393
+Gila,Globe #11,State Senate,8,DEM,"MCGUIRE, BARBARA",170
+Gila,Globe #11,State Senate,8,,Write-Ins,0
+Gila,Globe #11,State House,8,REP,"COOK, DAVID",313
+Gila,Globe #11,State House,8,REP,"PRATT, FRANK",388
+Gila,Globe #11,State House,8,DEM,"GIRARD, SHARON",198
+Gila,Globe #11,State House,8,,Write-Ins,1
+Gila,Globe #11,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",311
+Gila,Globe #11,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",328
+Gila,Globe #11,Corporation Commissioner,,REP,"SLOAN, ERIC",340
+Gila,Globe #11,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",165
+Gila,Globe #11,Corporation Commissioner,,DEM,"STANFIELD, SHEA",140
+Gila,Globe #11,Corporation Commissioner,,DEM,"TOVAR, ANNA",168
+Gila,Globe #11,Corporation Commissioner,,,Write-In Totals,0
+Gila,Globe #11,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",415
+Gila,Globe #11,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",154
+Gila,Globe #11,Board of Supervisors District 2,,,Write-In Totals,0
+Gila,Globe #11,County Attorney,,REP,"BEAUCHAMP, BRADLEY",453
+Gila,Globe #11,County Attorney,,,Write-In Totals,8
+Gila,Globe #11,Sheriff,,REP,"SHEPHERD, ADAM",354
+Gila,Globe #11,Sheriff,,DEM,"BENDER, CHRISTOPHER",207
+Gila,Globe #11,Sheriff,,,Write-In Totals,3
+Gila,Globe #11,County Treasurer,,REP,"WOHLFORTH, MONICA",256
+Gila,Globe #11,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",300
+Gila,Globe #11,County Treasurer,,,Write-In Totals,2
+Gila,Globe #11,County School Superintendent,,REP,"SANDOVAL, ROY",466
+Gila,Globe #11,County School Superintendent,,,Write-In Totals,10
+Gila,Globe #11,County Recorder,,REP,"BINGHAM, SADIE JO",488
+Gila,Globe #11,County Recorder,,,Write-Ins,6
+Gila,Globe #11,County Assessor,,REP,"WILLIAMS, JOSEPH",469
+Gila,Globe #11,County Assessor,,,Write-Ins,3
+Gila,Globe #11,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,419
+Gila,Globe #11,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,68
+Gila,Globe #11,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,409
+Gila,Globe #11,"GOULD, ANDREW W., Supreme Court Justice",,,No,82
+Gila,Globe #11,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,412
+Gila,Globe #11,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,77
+Gila,Globe #11,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,409
+Gila,Globe #11,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,77
+Gila,Globe #11,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,400
+Gila,Globe #11,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,83
+Gila,Globe #11,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",480
+Gila,Globe #11,Judge of the Superior Court Div. 1,,,Write-Ins,7
+Gila,Globe #11,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",262
+Gila,Globe #11,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",268
+Gila,Globe #11,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",265
+Gila,Globe #11,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",312
+Gila,Globe #11,Board Member Globe Unified School District #1,,,Write-Ins,21
+Gila,Globe #11,PROPOSITION 207,,,Yes,273
+Gila,Globe #11,PROPOSITION 207,,,No,282
+Gila,Globe #11,PROPOSITION 208,,,Yes,214
+Gila,Globe #11,PROPOSITION 208,,,No,342
+Gila,East Globe,Registered Voters,,,,870
+Gila,East Globe,Ballots Cast,,,,746
+Gila,East Globe,President,,REP,TRUMP PENCE,474
+Gila,East Globe,President,,DEM,BIDEN HARRIS,260
+Gila,East Globe,President,,LBT,JORGENSEN COHEN,6
+Gila,East Globe,President,,,Write-Ins,0
+Gila,East Globe,U.S. Senate,,REP,"MCSALLY, MARTHA",449
+Gila,East Globe,U.S. Senate,,DEM,"KELLY, MARK",276
+Gila,East Globe,U.S. Senate,,,Write-Ins,3
+Gila,East Globe,U.S. House,1,REP,"SHEDD, TIFFANY",447
+Gila,East Globe,U.S. House,1,DEM,"O'HALLERAN, TOM",271
+Gila,East Globe,U.S. House,1,,Write-Ins,0
+Gila,East Globe,State Senate,8,REP,"SHOPE, THOMAS T.J.",466
+Gila,East Globe,State Senate,8,DEM,"MCGUIRE, BARBARA",248
+Gila,East Globe,State Senate,8,,Write-Ins,0
+Gila,East Globe,State House,8,REP,"COOK, DAVID",379
+Gila,East Globe,State House,8,REP,"PRATT, FRANK",457
+Gila,East Globe,State House,8,DEM,"GIRARD, SHARON",301
+Gila,East Globe,State House,8,,Write-Ins,2
+Gila,East Globe,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",367
+Gila,East Globe,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",393
+Gila,East Globe,Corporation Commissioner,,REP,"SLOAN, ERIC",361
+Gila,East Globe,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",243
+Gila,East Globe,Corporation Commissioner,,DEM,"STANFIELD, SHEA",206
+Gila,East Globe,Corporation Commissioner,,DEM,"TOVAR, ANNA",249
+Gila,East Globe,Corporation Commissioner,,,Write-In Totals,0
+Gila,East Globe,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",489
+Gila,East Globe,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",215
+Gila,East Globe,Board of Supervisors District 2,,,Write-In Totals,2
+Gila,East Globe,County Attorney,,REP,"BEAUCHAMP, BRADLEY",573
+Gila,East Globe,County Attorney,,,Write-In Totals,14
+Gila,East Globe,Sheriff,,REP,"SHEPHERD, ADAM",448
+Gila,East Globe,Sheriff,,DEM,"BENDER, CHRISTOPHER",257
+Gila,East Globe,Sheriff,,,Write-In Totals,3
+Gila,East Globe,County Treasurer,,REP,"WOHLFORTH, MONICA",314
+Gila,East Globe,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",395
+Gila,East Globe,County Treasurer,,,Write-In Totals,2
+Gila,East Globe,County School Superintendent,,REP,"SANDOVAL, ROY",579
+Gila,East Globe,County School Superintendent,,,Write-In Totals,5
+Gila,East Globe,County Recorder,,REP,"BINGHAM, SADIE JO",597
+Gila,East Globe,County Recorder,,,Write-Ins,6
+Gila,East Globe,County Assessor,,REP,"WILLIAMS, JOSEPH",565
+Gila,East Globe,County Assessor,,,Write-Ins,6
+Gila,East Globe,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,501
+Gila,East Globe,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,97
+Gila,East Globe,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,487
+Gila,East Globe,"GOULD, ANDREW W., Supreme Court Justice",,,No,107
+Gila,East Globe,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,497
+Gila,East Globe,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,97
+Gila,East Globe,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,482
+Gila,East Globe,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,106
+Gila,East Globe,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,493
+Gila,East Globe,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,98
+Gila,East Globe,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",580
+Gila,East Globe,Judge of the Superior Court Div. 1,,,Write-Ins,9
+Gila,East Globe,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",353
+Gila,East Globe,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",298
+Gila,East Globe,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",331
+Gila,East Globe,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",348
+Gila,East Globe,Board Member Globe Unified School District #1,,,Write-Ins,15
+Gila,East Globe,PROPOSITION 207,,,Yes,342
+Gila,East Globe,PROPOSITION 207,,,No,369
+Gila,East Globe,PROPOSITION 208,,,Yes,306
+Gila,East Globe,PROPOSITION 208,,,No,411
+Gila,Miami #1,Registered Voters,,,,518
+Gila,Miami #1,Ballots Cast,,,,375
+Gila,Miami #1,President,,REP,TRUMP PENCE,211
+Gila,Miami #1,President,,DEM,BIDEN HARRIS,148
+Gila,Miami #1,President,,LBT,JORGENSEN COHEN,6
+Gila,Miami #1,President,,,Write-Ins,2
+Gila,Miami #1,U.S. Senate,,REP,"MCSALLY, MARTHA",194
+Gila,Miami #1,U.S. Senate,,DEM,"KELLY, MARK",171
+Gila,Miami #1,U.S. Senate,,,Write-Ins,2
+Gila,Miami #1,U.S. House,1,REP,"SHEDD, TIFFANY",179
+Gila,Miami #1,U.S. House,1,DEM,"O'HALLERAN, TOM",181
+Gila,Miami #1,U.S. House,1,,Write-Ins,0
+Gila,Miami #1,State Senate,8,REP,"SHOPE, THOMAS T.J.",179
+Gila,Miami #1,State Senate,8,DEM,"MCGUIRE, BARBARA",170
+Gila,Miami #1,State Senate,8,,Write-Ins,2
+Gila,Miami #1,State House,8,REP,"COOK, DAVID",178
+Gila,Miami #1,State House,8,REP,"PRATT, FRANK",170
+Gila,Miami #1,State House,8,DEM,"GIRARD, SHARON",168
+Gila,Miami #1,State House,8,,Write-Ins,0
+Gila,Miami #1,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",160
+Gila,Miami #1,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",165
+Gila,Miami #1,Corporation Commissioner,,REP,"SLOAN, ERIC",142
+Gila,Miami #1,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",140
+Gila,Miami #1,Corporation Commissioner,,DEM,"STANFIELD, SHEA",127
+Gila,Miami #1,Corporation Commissioner,,DEM,"TOVAR, ANNA",167
+Gila,Miami #1,Corporation Commissioner,,,Write-In Totals,0
+Gila,Miami #1,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",192
+Gila,Miami #1,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",169
+Gila,Miami #1,Board of Supervisors District 2,,,Write-In Totals,0
+Gila,Miami #1,County Attorney,,REP,"BEAUCHAMP, BRADLEY",258
+Gila,Miami #1,County Attorney,,,Write-In Totals,8
+Gila,Miami #1,Sheriff,,REP,"SHEPHERD, ADAM",173
+Gila,Miami #1,Sheriff,,DEM,"BENDER, CHRISTOPHER",187
+Gila,Miami #1,Sheriff,,,Write-In Totals,0
+Gila,Miami #1,County Treasurer,,REP,"WOHLFORTH, MONICA",145
+Gila,Miami #1,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",215
+Gila,Miami #1,County Treasurer,,,Write-In Totals,1
+Gila,Miami #1,County School Superintendent,,REP,"SANDOVAL, ROY",284
+Gila,Miami #1,County School Superintendent,,,Write-In Totals,6
+Gila,Miami #1,County Recorder,,REP,"BINGHAM, SADIE JO",285
+Gila,Miami #1,County Recorder,,,Write-Ins,4
+Gila,Miami #1,County Assessor,,REP,"WILLIAMS, JOSEPH",273
+Gila,Miami #1,County Assessor,,,Write-Ins,4
+Gila,Miami #1,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,252
+Gila,Miami #1,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,57
+Gila,Miami #1,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,250
+Gila,Miami #1,"GOULD, ANDREW W., Supreme Court Justice",,,No,60
+Gila,Miami #1,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,260
+Gila,Miami #1,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,56
+Gila,Miami #1,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,253
+Gila,Miami #1,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,56
+Gila,Miami #1,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,263
+Gila,Miami #1,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,48
+Gila,Miami #1,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",285
+Gila,Miami #1,Judge of the Superior Court Div. 1,,,Write-Ins,4
+Gila,Miami #1,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",22
+Gila,Miami #1,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",24
+Gila,Miami #1,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",25
+Gila,Miami #1,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",31
+Gila,Miami #1,Board Member Globe Unified School District #1,,,Write-Ins,0
+Gila,Miami #1,PROPOSITION 207,,,Yes,226
+Gila,Miami #1,PROPOSITION 207,,,No,115
+Gila,Miami #1,PROPOSITION 208,,,Yes,170
+Gila,Miami #1,PROPOSITION 208,,,No,178
+Gila,Miami #3,Registered Voters,,,,484
+Gila,Miami #3,Ballots Cast,,,,336
+Gila,Miami #3,President,,REP,TRUMP PENCE,156
+Gila,Miami #3,President,,DEM,BIDEN HARRIS,168
+Gila,Miami #3,President,,LBT,JORGENSEN COHEN,6
+Gila,Miami #3,President,,,Write-Ins,1
+Gila,Miami #3,U.S. Senate,,REP,"MCSALLY, MARTHA",139
+Gila,Miami #3,U.S. Senate,,DEM,"KELLY, MARK",192
+Gila,Miami #3,U.S. Senate,,,Write-Ins,1
+Gila,Miami #3,U.S. House,1,REP,"SHEDD, TIFFANY",141
+Gila,Miami #3,U.S. House,1,DEM,"O'HALLERAN, TOM",182
+Gila,Miami #3,U.S. House,1,,Write-Ins,0
+Gila,Miami #3,State Senate,8,REP,"SHOPE, THOMAS T.J.",150
+Gila,Miami #3,State Senate,8,DEM,"MCGUIRE, BARBARA",175
+Gila,Miami #3,State Senate,8,,Write-Ins,0
+Gila,Miami #3,State House,8,REP,"COOK, DAVID",127
+Gila,Miami #3,State House,8,REP,"PRATT, FRANK",145
+Gila,Miami #3,State House,8,DEM,"GIRARD, SHARON",182
+Gila,Miami #3,State House,8,,Write-Ins,2
+Gila,Miami #3,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",122
+Gila,Miami #3,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",134
+Gila,Miami #3,Corporation Commissioner,,REP,"SLOAN, ERIC",118
+Gila,Miami #3,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",144
+Gila,Miami #3,Corporation Commissioner,,DEM,"STANFIELD, SHEA",141
+Gila,Miami #3,Corporation Commissioner,,DEM,"TOVAR, ANNA",166
+Gila,Miami #3,Corporation Commissioner,,,Write-In Totals,1
+Gila,Miami #3,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",154
+Gila,Miami #3,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",173
+Gila,Miami #3,Board of Supervisors District 2,,,Write-In Totals,0
+Gila,Miami #3,County Attorney,,REP,"BEAUCHAMP, BRADLEY",211
+Gila,Miami #3,County Attorney,,,Write-In Totals,5
+Gila,Miami #3,Sheriff,,REP,"SHEPHERD, ADAM",119
+Gila,Miami #3,Sheriff,,DEM,"BENDER, CHRISTOPHER",200
+Gila,Miami #3,Sheriff,,,Write-In Totals,8
+Gila,Miami #3,County Treasurer,,REP,"WOHLFORTH, MONICA",111
+Gila,Miami #3,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",216
+Gila,Miami #3,County Treasurer,,,Write-In Totals,0
+Gila,Miami #3,County School Superintendent,,REP,"SANDOVAL, ROY",229
+Gila,Miami #3,County School Superintendent,,,Write-In Totals,8
+Gila,Miami #3,County Recorder,,REP,"BINGHAM, SADIE JO",248
+Gila,Miami #3,County Recorder,,,Write-Ins,3
+Gila,Miami #3,County Assessor,,REP,"WILLIAMS, JOSEPH",234
+Gila,Miami #3,County Assessor,,,Write-Ins,4
+Gila,Miami #3,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,211
+Gila,Miami #3,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,74
+Gila,Miami #3,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,206
+Gila,Miami #3,"GOULD, ANDREW W., Supreme Court Justice",,,No,78
+Gila,Miami #3,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,224
+Gila,Miami #3,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,61
+Gila,Miami #3,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,209
+Gila,Miami #3,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,69
+Gila,Miami #3,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,246
+Gila,Miami #3,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,40
+Gila,Miami #3,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",249
+Gila,Miami #3,Judge of the Superior Court Div. 1,,,Write-Ins,4
+Gila,Miami #3,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",0
+Gila,Miami #3,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",0
+Gila,Miami #3,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",0
+Gila,Miami #3,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",0
+Gila,Miami #3,Board Member Globe Unified School District #1,,,Write-Ins,0
+Gila,Miami #3,PROPOSITION 207,,,Yes,208
+Gila,Miami #3,PROPOSITION 207,,,No,107
+Gila,Miami #3,PROPOSITION 208,,,Yes,195
+Gila,Miami #3,PROPOSITION 208,,,No,118
+Gila,Claypool #1,Registered Voters,,,,816
+Gila,Claypool #1,Ballots Cast,,,,605
+Gila,Claypool #1,President,,REP,TRUMP PENCE,416
+Gila,Claypool #1,President,,DEM,BIDEN HARRIS,165
+Gila,Claypool #1,President,,LBT,JORGENSEN COHEN,16
+Gila,Claypool #1,President,,,Write-Ins,1
+Gila,Claypool #1,U.S. Senate,,REP,"MCSALLY, MARTHA",379
+Gila,Claypool #1,U.S. Senate,,DEM,"KELLY, MARK",211
+Gila,Claypool #1,U.S. Senate,,,Write-Ins,2
+Gila,Claypool #1,U.S. House,1,REP,"SHEDD, TIFFANY",376
+Gila,Claypool #1,U.S. House,1,DEM,"O'HALLERAN, TOM",205
+Gila,Claypool #1,U.S. House,1,,Write-Ins,0
+Gila,Claypool #1,State Senate,8,REP,"SHOPE, THOMAS T.J.",378
+Gila,Claypool #1,State Senate,8,DEM,"MCGUIRE, BARBARA",196
+Gila,Claypool #1,State Senate,8,,Write-Ins,0
+Gila,Claypool #1,State House,8,REP,"COOK, DAVID",339
+Gila,Claypool #1,State House,8,REP,"PRATT, FRANK",366
+Gila,Claypool #1,State House,8,DEM,"GIRARD, SHARON",204
+Gila,Claypool #1,State House,8,,Write-Ins,3
+Gila,Claypool #1,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",322
+Gila,Claypool #1,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",334
+Gila,Claypool #1,Corporation Commissioner,,REP,"SLOAN, ERIC",309
+Gila,Claypool #1,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",164
+Gila,Claypool #1,Corporation Commissioner,,DEM,"STANFIELD, SHEA",160
+Gila,Claypool #1,Corporation Commissioner,,DEM,"TOVAR, ANNA",172
+Gila,Claypool #1,Corporation Commissioner,,,Write-In Totals,3
+Gila,Claypool #1,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",387
+Gila,Claypool #1,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",192
+Gila,Claypool #1,Board of Supervisors District 2,,,Write-In Totals,3
+Gila,Claypool #1,County Attorney,,REP,"BEAUCHAMP, BRADLEY",479
+Gila,Claypool #1,County Attorney,,,Write-In Totals,9
+Gila,Claypool #1,Sheriff,,REP,"SHEPHERD, ADAM",363
+Gila,Claypool #1,Sheriff,,DEM,"BENDER, CHRISTOPHER",219
+Gila,Claypool #1,Sheriff,,,Write-In Totals,4
+Gila,Claypool #1,County Treasurer,,REP,"WOHLFORTH, MONICA",244
+Gila,Claypool #1,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",334
+Gila,Claypool #1,County Treasurer,,,Write-In Totals,1
+Gila,Claypool #1,County School Superintendent,,REP,"SANDOVAL, ROY",510
+Gila,Claypool #1,County School Superintendent,,,Write-In Totals,5
+Gila,Claypool #1,County Recorder,,REP,"BINGHAM, SADIE JO",519
+Gila,Claypool #1,County Recorder,,,Write-Ins,3
+Gila,Claypool #1,County Assessor,,REP,"WILLIAMS, JOSEPH",504
+Gila,Claypool #1,County Assessor,,,Write-Ins,4
+Gila,Claypool #1,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,430
+Gila,Claypool #1,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,90
+Gila,Claypool #1,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,418
+Gila,Claypool #1,"GOULD, ANDREW W., Supreme Court Justice",,,No,103
+Gila,Claypool #1,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,434
+Gila,Claypool #1,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,87
+Gila,Claypool #1,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,419
+Gila,Claypool #1,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,100
+Gila,Claypool #1,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,418
+Gila,Claypool #1,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,101
+Gila,Claypool #1,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",496
+Gila,Claypool #1,Judge of the Superior Court Div. 1,,,Write-Ins,10
+Gila,Claypool #1,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",0
+Gila,Claypool #1,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",0
+Gila,Claypool #1,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",0
+Gila,Claypool #1,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",0
+Gila,Claypool #1,Board Member Globe Unified School District #1,,,Write-Ins,0
+Gila,Claypool #1,PROPOSITION 207,,,Yes,324
+Gila,Claypool #1,PROPOSITION 207,,,No,237
+Gila,Claypool #1,PROPOSITION 208,,,Yes,232
+Gila,Claypool #1,PROPOSITION 208,,,No,334
+Gila,Claypool #2,Registered Voters,,,,737
+Gila,Claypool #2,Ballots Cast,,,,588
+Gila,Claypool #2,President,,REP,TRUMP PENCE,361
+Gila,Claypool #2,President,,DEM,BIDEN HARRIS,205
+Gila,Claypool #2,President,,LBT,JORGENSEN COHEN,13
+Gila,Claypool #2,President,,,Write-Ins,1
+Gila,Claypool #2,U.S. Senate,,REP,"MCSALLY, MARTHA",339
+Gila,Claypool #2,U.S. Senate,,DEM,"KELLY, MARK",234
+Gila,Claypool #2,U.S. Senate,,,Write-Ins,2
+Gila,Claypool #2,U.S. House,1,REP,"SHEDD, TIFFANY",322
+Gila,Claypool #2,U.S. House,1,DEM,"O'HALLERAN, TOM",245
+Gila,Claypool #2,U.S. House,1,,Write-Ins,0
+Gila,Claypool #2,State Senate,8,REP,"SHOPE, THOMAS T.J.",337
+Gila,Claypool #2,State Senate,8,DEM,"MCGUIRE, BARBARA",221
+Gila,Claypool #2,State Senate,8,,Write-Ins,1
+Gila,Claypool #2,State House,8,REP,"COOK, DAVID",299
+Gila,Claypool #2,State House,8,REP,"PRATT, FRANK",335
+Gila,Claypool #2,State House,8,DEM,"GIRARD, SHARON",232
+Gila,Claypool #2,State House,8,,Write-Ins,6
+Gila,Claypool #2,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",274
+Gila,Claypool #2,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",289
+Gila,Claypool #2,Corporation Commissioner,,REP,"SLOAN, ERIC",262
+Gila,Claypool #2,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",194
+Gila,Claypool #2,Corporation Commissioner,,DEM,"STANFIELD, SHEA",169
+Gila,Claypool #2,Corporation Commissioner,,DEM,"TOVAR, ANNA",205
+Gila,Claypool #2,Corporation Commissioner,,,Write-In Totals,3
+Gila,Claypool #2,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",353
+Gila,Claypool #2,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",217
+Gila,Claypool #2,Board of Supervisors District 2,,,Write-In Totals,1
+Gila,Claypool #2,County Attorney,,REP,"BEAUCHAMP, BRADLEY",464
+Gila,Claypool #2,County Attorney,,,Write-In Totals,6
+Gila,Claypool #2,Sheriff,,REP,"SHEPHERD, ADAM",315
+Gila,Claypool #2,Sheriff,,DEM,"BENDER, CHRISTOPHER",250
+Gila,Claypool #2,Sheriff,,,Write-In Totals,3
+Gila,Claypool #2,County Treasurer,,REP,"WOHLFORTH, MONICA",243
+Gila,Claypool #2,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",325
+Gila,Claypool #2,County Treasurer,,,Write-In Totals,0
+Gila,Claypool #2,County School Superintendent,,REP,"SANDOVAL, ROY",484
+Gila,Claypool #2,County School Superintendent,,,Write-In Totals,7
+Gila,Claypool #2,County Recorder,,REP,"BINGHAM, SADIE JO",495
+Gila,Claypool #2,County Recorder,,,Write-Ins,5
+Gila,Claypool #2,County Assessor,,REP,"WILLIAMS, JOSEPH",469
+Gila,Claypool #2,County Assessor,,,Write-Ins,5
+Gila,Claypool #2,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,415
+Gila,Claypool #2,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,91
+Gila,Claypool #2,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,412
+Gila,Claypool #2,"GOULD, ANDREW W., Supreme Court Justice",,,No,91
+Gila,Claypool #2,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,424
+Gila,Claypool #2,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,81
+Gila,Claypool #2,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,402
+Gila,Claypool #2,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,98
+Gila,Claypool #2,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,411
+Gila,Claypool #2,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,93
+Gila,Claypool #2,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",484
+Gila,Claypool #2,Judge of the Superior Court Div. 1,,,Write-Ins,9
+Gila,Claypool #2,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",37
+Gila,Claypool #2,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",32
+Gila,Claypool #2,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",43
+Gila,Claypool #2,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",28
+Gila,Claypool #2,Board Member Globe Unified School District #1,,,Write-Ins,3
+Gila,Claypool #2,PROPOSITION 207,,,Yes,316
+Gila,Claypool #2,PROPOSITION 207,,,No,233
+Gila,Claypool #2,PROPOSITION 208,,,Yes,268
+Gila,Claypool #2,PROPOSITION 208,,,No,283
+Gila,Claypool #3,Registered Voters,,,,496
+Gila,Claypool #3,Ballots Cast,,,,347
+Gila,Claypool #3,President,,REP,TRUMP PENCE,181
+Gila,Claypool #3,President,,DEM,BIDEN HARRIS,148
+Gila,Claypool #3,President,,LBT,JORGENSEN COHEN,12
+Gila,Claypool #3,President,,,Write-Ins,0
+Gila,Claypool #3,U.S. Senate,,REP,"MCSALLY, MARTHA",158
+Gila,Claypool #3,U.S. Senate,,DEM,"KELLY, MARK",175
+Gila,Claypool #3,U.S. Senate,,,Write-Ins,5
+Gila,Claypool #3,U.S. House,1,REP,"SHEDD, TIFFANY",162
+Gila,Claypool #3,U.S. House,1,DEM,"O'HALLERAN, TOM",170
+Gila,Claypool #3,U.S. House,1,,Write-Ins,1
+Gila,Claypool #3,State Senate,8,REP,"SHOPE, THOMAS T.J.",170
+Gila,Claypool #3,State Senate,8,DEM,"MCGUIRE, BARBARA",165
+Gila,Claypool #3,State Senate,8,,Write-Ins,0
+Gila,Claypool #3,State House,8,REP,"COOK, DAVID",173
+Gila,Claypool #3,State House,8,REP,"PRATT, FRANK",148
+Gila,Claypool #3,State House,8,DEM,"GIRARD, SHARON",168
+Gila,Claypool #3,State House,8,,Write-Ins,0
+Gila,Claypool #3,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",129
+Gila,Claypool #3,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",134
+Gila,Claypool #3,Corporation Commissioner,,REP,"SLOAN, ERIC",120
+Gila,Claypool #3,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",148
+Gila,Claypool #3,Corporation Commissioner,,DEM,"STANFIELD, SHEA",136
+Gila,Claypool #3,Corporation Commissioner,,DEM,"TOVAR, ANNA",157
+Gila,Claypool #3,Corporation Commissioner,,,Write-In Totals,0
+Gila,Claypool #3,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",173
+Gila,Claypool #3,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",159
+Gila,Claypool #3,Board of Supervisors District 2,,,Write-In Totals,1
+Gila,Claypool #3,County Attorney,,REP,"BEAUCHAMP, BRADLEY",236
+Gila,Claypool #3,County Attorney,,,Write-In Totals,4
+Gila,Claypool #3,Sheriff,,REP,"SHEPHERD, ADAM",162
+Gila,Claypool #3,Sheriff,,DEM,"BENDER, CHRISTOPHER",167
+Gila,Claypool #3,Sheriff,,,Write-In Totals,4
+Gila,Claypool #3,County Treasurer,,REP,"WOHLFORTH, MONICA",115
+Gila,Claypool #3,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",219
+Gila,Claypool #3,County Treasurer,,,Write-In Totals,1
+Gila,Claypool #3,County School Superintendent,,REP,"SANDOVAL, ROY",262
+Gila,Claypool #3,County School Superintendent,,,Write-In Totals,7
+Gila,Claypool #3,County Recorder,,REP,"BINGHAM, SADIE JO",262
+Gila,Claypool #3,County Recorder,,,Write-Ins,6
+Gila,Claypool #3,County Assessor,,REP,"WILLIAMS, JOSEPH",259
+Gila,Claypool #3,County Assessor,,,Write-Ins,4
+Gila,Claypool #3,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,218
+Gila,Claypool #3,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,61
+Gila,Claypool #3,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,210
+Gila,Claypool #3,"GOULD, ANDREW W., Supreme Court Justice",,,No,70
+Gila,Claypool #3,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,229
+Gila,Claypool #3,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,56
+Gila,Claypool #3,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,215
+Gila,Claypool #3,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,63
+Gila,Claypool #3,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,224
+Gila,Claypool #3,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,60
+Gila,Claypool #3,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",267
+Gila,Claypool #3,Judge of the Superior Court Div. 1,,,Write-Ins,6
+Gila,Claypool #3,PROPOSITION 207,,,Yes,205
+Gila,Claypool #3,PROPOSITION 207,,,No,117
+Gila,Claypool #3,PROPOSITION 208,,,Yes,169
+Gila,Claypool #3,PROPOSITION 208,,,No,155
+Gila,Central Heights,Registered Voters,,,,490
+Gila,Central Heights,Ballots Cast,,,,351
+Gila,Central Heights,President,,REP,TRUMP PENCE,234
+Gila,Central Heights,President,,DEM,BIDEN HARRIS,110
+Gila,Central Heights,President,,LBT,JORGENSEN COHEN,1
+Gila,Central Heights,President,,,Write-Ins,0
+Gila,Central Heights,U.S. Senate,,REP,"MCSALLY, MARTHA",216
+Gila,Central Heights,U.S. Senate,,DEM,"KELLY, MARK",123
+Gila,Central Heights,U.S. Senate,,,Write-Ins,2
+Gila,Central Heights,U.S. House,1,REP,"SHEDD, TIFFANY",205
+Gila,Central Heights,U.S. House,1,DEM,"O'HALLERAN, TOM",130
+Gila,Central Heights,U.S. House,1,,Write-Ins,3
+Gila,Central Heights,State Senate,8,REP,"SHOPE, THOMAS T.J.",196
+Gila,Central Heights,State Senate,8,DEM,"MCGUIRE, BARBARA",126
+Gila,Central Heights,State Senate,8,,Write-Ins,3
+Gila,Central Heights,State House,8,REP,"COOK, DAVID",174
+Gila,Central Heights,State House,8,REP,"PRATT, FRANK",188
+Gila,Central Heights,State House,8,DEM,"GIRARD, SHARON",131
+Gila,Central Heights,State House,8,,Write-Ins,7
+Gila,Central Heights,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",152
+Gila,Central Heights,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",169
+Gila,Central Heights,Corporation Commissioner,,REP,"SLOAN, ERIC",161
+Gila,Central Heights,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",104
+Gila,Central Heights,Corporation Commissioner,,DEM,"STANFIELD, SHEA",94
+Gila,Central Heights,Corporation Commissioner,,DEM,"TOVAR, ANNA",114
+Gila,Central Heights,Corporation Commissioner,,,Write-In Totals,4
+Gila,Central Heights,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",212
+Gila,Central Heights,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",118
+Gila,Central Heights,Board of Supervisors District 2,,,Write-In Totals,2
+Gila,Central Heights,County Attorney,,REP,"BEAUCHAMP, BRADLEY",256
+Gila,Central Heights,County Attorney,,,Write-In Totals,9
+Gila,Central Heights,Sheriff,,REP,"SHEPHERD, ADAM",191
+Gila,Central Heights,Sheriff,,DEM,"BENDER, CHRISTOPHER",137
+Gila,Central Heights,Sheriff,,,Write-In Totals,8
+Gila,Central Heights,County Treasurer,,REP,"WOHLFORTH, MONICA",141
+Gila,Central Heights,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",194
+Gila,Central Heights,County Treasurer,,,Write-In Totals,4
+Gila,Central Heights,County School Superintendent,,REP,"SANDOVAL, ROY",270
+Gila,Central Heights,County School Superintendent,,,Write-In Totals,10
+Gila,Central Heights,County Recorder,,REP,"BINGHAM, SADIE JO",273
+Gila,Central Heights,County Recorder,,,Write-Ins,7
+Gila,Central Heights,County Assessor,,REP,"WILLIAMS, JOSEPH",268
+Gila,Central Heights,County Assessor,,,Write-Ins,9
+Gila,Central Heights,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,227
+Gila,Central Heights,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,61
+Gila,Central Heights,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,223
+Gila,Central Heights,"GOULD, ANDREW W., Supreme Court Justice",,,No,67
+Gila,Central Heights,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,234
+Gila,Central Heights,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,57
+Gila,Central Heights,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,239
+Gila,Central Heights,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,52
+Gila,Central Heights,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,234
+Gila,Central Heights,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,54
+Gila,Central Heights,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",268
+Gila,Central Heights,Judge of the Superior Court Div. 1,,,Write-Ins,10
+Gila,Central Heights,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",0
+Gila,Central Heights,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",0
+Gila,Central Heights,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",0
+Gila,Central Heights,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",0
+Gila,Central Heights,Board Member Globe Unified School District #1,,,Write-Ins,0
+Gila,Central Heights,PROPOSITION 207,,,Yes,200
+Gila,Central Heights,PROPOSITION 207,,,No,127
+Gila,Central Heights,PROPOSITION 208,,,Yes,151
+Gila,Central Heights,PROPOSITION 208,,,No,179
+Gila,Pinal Creek,Registered Voters,,,,255
+Gila,Pinal Creek,Ballots Cast,,,,212
+Gila,Pinal Creek,President,,REP,TRUMP PENCE,124
+Gila,Pinal Creek,President,,DEM,BIDEN HARRIS,85
+Gila,Pinal Creek,President,,LBT,JORGENSEN COHEN,1
+Gila,Pinal Creek,President,,,Write-Ins,1
+Gila,Pinal Creek,U.S. Senate,,REP,"MCSALLY, MARTHA",125
+Gila,Pinal Creek,U.S. Senate,,DEM,"KELLY, MARK",83
+Gila,Pinal Creek,U.S. Senate,,,Write-Ins,0
+Gila,Pinal Creek,U.S. House,1,REP,"SHEDD, TIFFANY",118
+Gila,Pinal Creek,U.S. House,1,DEM,"O'HALLERAN, TOM",85
+Gila,Pinal Creek,U.S. House,1,,Write-Ins,0
+Gila,Pinal Creek,State Senate,8,REP,"SHOPE, THOMAS T.J.",119
+Gila,Pinal Creek,State Senate,8,DEM,"MCGUIRE, BARBARA",84
+Gila,Pinal Creek,State Senate,8,,Write-Ins,0
+Gila,Pinal Creek,State House,8,REP,"COOK, DAVID",110
+Gila,Pinal Creek,State House,8,REP,"PRATT, FRANK",122
+Gila,Pinal Creek,State House,8,DEM,"GIRARD, SHARON",81
+Gila,Pinal Creek,State House,8,,Write-Ins,1
+Gila,Pinal Creek,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",86
+Gila,Pinal Creek,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",110
+Gila,Pinal Creek,Corporation Commissioner,,REP,"SLOAN, ERIC",95
+Gila,Pinal Creek,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",66
+Gila,Pinal Creek,Corporation Commissioner,,DEM,"STANFIELD, SHEA",65
+Gila,Pinal Creek,Corporation Commissioner,,DEM,"TOVAR, ANNA",78
+Gila,Pinal Creek,Corporation Commissioner,,,Write-In Totals,0
+Gila,Pinal Creek,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",148
+Gila,Pinal Creek,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",55
+Gila,Pinal Creek,Board of Supervisors District 2,,,Write-In Totals,2
+Gila,Pinal Creek,County Attorney,,REP,"BEAUCHAMP, BRADLEY",156
+Gila,Pinal Creek,County Attorney,,,Write-In Totals,3
+Gila,Pinal Creek,Sheriff,,REP,"SHEPHERD, ADAM",126
+Gila,Pinal Creek,Sheriff,,DEM,"BENDER, CHRISTOPHER",76
+Gila,Pinal Creek,Sheriff,,,Write-In Totals,2
+Gila,Pinal Creek,County Treasurer,,REP,"WOHLFORTH, MONICA",86
+Gila,Pinal Creek,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",116
+Gila,Pinal Creek,County Treasurer,,,Write-In Totals,0
+Gila,Pinal Creek,County School Superintendent,,REP,"SANDOVAL, ROY",166
+Gila,Pinal Creek,County School Superintendent,,,Write-In Totals,4
+Gila,Pinal Creek,County Recorder,,REP,"BINGHAM, SADIE JO",165
+Gila,Pinal Creek,County Recorder,,,Write-Ins,0
+Gila,Pinal Creek,County Assessor,,REP,"WILLIAMS, JOSEPH",160
+Gila,Pinal Creek,County Assessor,,,Write-Ins,1
+Gila,Pinal Creek,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,143
+Gila,Pinal Creek,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,24
+Gila,Pinal Creek,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,143
+Gila,Pinal Creek,"GOULD, ANDREW W., Supreme Court Justice",,,No,21
+Gila,Pinal Creek,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,146
+Gila,Pinal Creek,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,24
+Gila,Pinal Creek,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,139
+Gila,Pinal Creek,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,28
+Gila,Pinal Creek,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,138
+Gila,Pinal Creek,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,29
+Gila,Pinal Creek,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",166
+Gila,Pinal Creek,Judge of the Superior Court Div. 1,,,Write-Ins,1
+Gila,Pinal Creek,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",84
+Gila,Pinal Creek,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",84
+Gila,Pinal Creek,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",92
+Gila,Pinal Creek,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",88
+Gila,Pinal Creek,Board Member Globe Unified School District #1,,,Write-Ins,1
+Gila,Pinal Creek,PROPOSITION 207,,,Yes,94
+Gila,Pinal Creek,PROPOSITION 207,,,No,111
+Gila,Pinal Creek,PROPOSITION 208,,,Yes,83
+Gila,Pinal Creek,PROPOSITION 208,,,No,122
+Gila,Wheatfields,Registered Voters,,,,132
+Gila,Wheatfields,Ballots Cast,,,,107
+Gila,Wheatfields,President,,REP,TRUMP PENCE,68
+Gila,Wheatfields,President,,DEM,BIDEN HARRIS,36
+Gila,Wheatfields,President,,LBT,JORGENSEN COHEN,0
+Gila,Wheatfields,President,,,Write-Ins,0
+Gila,Wheatfields,U.S. Senate,,REP,"MCSALLY, MARTHA",67
+Gila,Wheatfields,U.S. Senate,,DEM,"KELLY, MARK",36
+Gila,Wheatfields,U.S. Senate,,,Write-Ins,2
+Gila,Wheatfields,U.S. House,1,REP,"SHEDD, TIFFANY",58
+Gila,Wheatfields,U.S. House,1,DEM,"O'HALLERAN, TOM",43
+Gila,Wheatfields,U.S. House,1,,Write-Ins,0
+Gila,Wheatfields,State Senate,8,REP,"SHOPE, THOMAS T.J.",65
+Gila,Wheatfields,State Senate,8,DEM,"MCGUIRE, BARBARA",38
+Gila,Wheatfields,State Senate,8,,Write-Ins,1
+Gila,Wheatfields,State House,8,REP,"COOK, DAVID",54
+Gila,Wheatfields,State House,8,REP,"PRATT, FRANK",63
+Gila,Wheatfields,State House,8,DEM,"GIRARD, SHARON",43
+Gila,Wheatfields,State House,8,,Write-Ins,0
+Gila,Wheatfields,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",56
+Gila,Wheatfields,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",59
+Gila,Wheatfields,Corporation Commissioner,,REP,"SLOAN, ERIC",51
+Gila,Wheatfields,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",33
+Gila,Wheatfields,Corporation Commissioner,,DEM,"STANFIELD, SHEA",31
+Gila,Wheatfields,Corporation Commissioner,,DEM,"TOVAR, ANNA",38
+Gila,Wheatfields,Corporation Commissioner,,,Write-In Totals,0
+Gila,Wheatfields,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",71
+Gila,Wheatfields,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",30
+Gila,Wheatfields,Board of Supervisors District 2,,,Write-In Totals,0
+Gila,Wheatfields,County Attorney,,REP,"BEAUCHAMP, BRADLEY",77
+Gila,Wheatfields,County Attorney,,,Write-In Totals,2
+Gila,Wheatfields,Sheriff,,REP,"SHEPHERD, ADAM",59
+Gila,Wheatfields,Sheriff,,DEM,"BENDER, CHRISTOPHER",43
+Gila,Wheatfields,Sheriff,,,Write-In Totals,0
+Gila,Wheatfields,County Treasurer,,REP,"WOHLFORTH, MONICA",51
+Gila,Wheatfields,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",52
+Gila,Wheatfields,County Treasurer,,,Write-In Totals,0
+Gila,Wheatfields,County School Superintendent,,REP,"SANDOVAL, ROY",84
+Gila,Wheatfields,County School Superintendent,,,Write-In Totals,1
+Gila,Wheatfields,County Recorder,,REP,"BINGHAM, SADIE JO",81
+Gila,Wheatfields,County Recorder,,,Write-Ins,1
+Gila,Wheatfields,County Assessor,,REP,"WILLIAMS, JOSEPH",83
+Gila,Wheatfields,County Assessor,,,Write-Ins,1
+Gila,Wheatfields,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,77
+Gila,Wheatfields,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,8
+Gila,Wheatfields,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,73
+Gila,Wheatfields,"GOULD, ANDREW W., Supreme Court Justice",,,No,12
+Gila,Wheatfields,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,74
+Gila,Wheatfields,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,11
+Gila,Wheatfields,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,77
+Gila,Wheatfields,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,9
+Gila,Wheatfields,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,75
+Gila,Wheatfields,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,10
+Gila,Wheatfields,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",80
+Gila,Wheatfields,Judge of the Superior Court Div. 1,,,Write-Ins,1
+Gila,Wheatfields,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",41
+Gila,Wheatfields,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",41
+Gila,Wheatfields,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",37
+Gila,Wheatfields,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",53
+Gila,Wheatfields,Board Member Globe Unified School District #1,,,Write-Ins,0
+Gila,Wheatfields,PROPOSITION 207,,,Yes,60
+Gila,Wheatfields,PROPOSITION 207,,,No,37
+Gila,Wheatfields,PROPOSITION 208,,,Yes,28
+Gila,Wheatfields,PROPOSITION 208,,,No,71
+Gila,Payson #1,Registered Voters,,,,1391
+Gila,Payson #1,Ballots Cast,,,,1148
+Gila,Payson #1,President,,REP,TRUMP PENCE,851
+Gila,Payson #1,President,,DEM,BIDEN HARRIS,263
+Gila,Payson #1,President,,LBT,JORGENSEN COHEN,19
+Gila,Payson #1,President,,,Write-Ins,4
+Gila,Payson #1,U.S. Senate,,REP,"MCSALLY, MARTHA",815
+Gila,Payson #1,U.S. Senate,,DEM,"KELLY, MARK",306
+Gila,Payson #1,U.S. Senate,,,Write-Ins,1
+Gila,Payson #1,U.S. House,4,REP,"GOSAR, PAUL",843
+Gila,Payson #1,U.S. House,4,DEM,"DISANTO, DELINA",266
+Gila,Payson #1,U.S. House,4,,Write-Ins,0
+Gila,Payson #1,State Senate,6,REP,"ROGERS, WENDY",827
+Gila,Payson #1,State Senate,6,DEM,"FRENCH, FELICIA",285
+Gila,Payson #1,State Senate,6,,Write-Ins,1
+Gila,Payson #1,State House,6,REP,"BARTON, BRENDA",671
+Gila,Payson #1,State House,6,REP,"BLACKMAN, WALTER WALT",758
+Gila,Payson #1,State House,6,DEM,"EVANS, CORAL J",269
+Gila,Payson #1,State House,6,IND,"IND BABBOTT, ART",183
+Gila,Payson #1,State House,6,,Write-Ins,1
+Gila,Payson #1,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",661
+Gila,Payson #1,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",733
+Gila,Payson #1,Corporation Commissioner,,REP,"SLOAN, ERIC",669
+Gila,Payson #1,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",238
+Gila,Payson #1,Corporation Commissioner,,DEM,"STANFIELD, SHEA",229
+Gila,Payson #1,Corporation Commissioner,,DEM,"TOVAR, ANNA",252
+Gila,Payson #1,Corporation Commissioner,,,Write-In Totals,3
+Gila,Payson #1,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",940
+Gila,Payson #1,Board of Supervisors District 1,,,Write-In Totals,10
+Gila,Payson #1,County Attorney,,REP,"BEAUCHAMP, BRADLEY",877
+Gila,Payson #1,County Attorney,,,Write-In Totals,11
+Gila,Payson #1,Sheriff,,REP,"SHEPHERD, ADAM",849
+Gila,Payson #1,Sheriff,,DEM,"BENDER, CHRISTOPHER",255
+Gila,Payson #1,Sheriff,,,Write-In Totals,2
+Gila,Payson #1,County Treasurer,,REP,"WOHLFORTH, MONICA",747
+Gila,Payson #1,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",330
+Gila,Payson #1,County Treasurer,,,Write-In Totals,0
+Gila,Payson #1,County School Superintendent,,REP,"SANDOVAL, ROY",928
+Gila,Payson #1,County School Superintendent,,,Write-In Totals,7
+Gila,Payson #1,County Recorder,,REP,"BINGHAM, SADIE JO",928
+Gila,Payson #1,County Recorder,,,Write-Ins,4
+Gila,Payson #1,County Assessor,,REP,"WILLIAMS, JOSEPH",909
+Gila,Payson #1,County Assessor,,,Write-Ins,6
+Gila,Payson #1,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,733
+Gila,Payson #1,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,148
+Gila,Payson #1,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,730
+Gila,Payson #1,"GOULD, ANDREW W., Supreme Court Justice",,,No,157
+Gila,Payson #1,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,713
+Gila,Payson #1,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,170
+Gila,Payson #1,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,702
+Gila,Payson #1,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,164
+Gila,Payson #1,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,675
+Gila,Payson #1,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,200
+Gila,Payson #1,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",822
+Gila,Payson #1,Judge of the Superior Court Div. 1,,,Write-Ins,13
+Gila,Payson #1,Council Member Town of Payson,,,"ROSE, DEBORAH",394
+Gila,Payson #1,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",398
+Gila,Payson #1,Council Member Town of Payson,,,Write-Ins,2
+Gila,Payson #1,PROPOSITION 207,,,Yes,569
+Gila,Payson #1,PROPOSITION 207,,,No,485
+Gila,Payson #1,PROPOSITION 208,,,Yes,406
+Gila,Payson #1,PROPOSITION 208,,,No,659
+Gila,Payson #2,Registered Voters,,,,1992
+Gila,Payson #2,Ballots Cast,,,,1731
+Gila,Payson #2,President,,REP,TRUMP PENCE,1268
+Gila,Payson #2,President,,DEM,BIDEN HARRIS,414
+Gila,Payson #2,President,,LBT,JORGENSEN COHEN,24
+Gila,Payson #2,President,,,Write-Ins,7
+Gila,Payson #2,U.S. Senate,,REP,"MCSALLY, MARTHA",1250
+Gila,Payson #2,U.S. Senate,,DEM,"KELLY, MARK",449
+Gila,Payson #2,U.S. Senate,,,Write-Ins,7
+Gila,Payson #2,U.S. House,4,REP,"GOSAR, PAUL",1277
+Gila,Payson #2,U.S. House,4,DEM,"DISANTO, DELINA",392
+Gila,Payson #2,U.S. House,4,,Write-Ins,3
+Gila,Payson #2,State Senate,6,REP,"ROGERS, WENDY",1277
+Gila,Payson #2,State Senate,6,DEM,"FRENCH, FELICIA",392
+Gila,Payson #2,State Senate,6,,Write-Ins,1
+Gila,Payson #2,State House,6,REP,"BARTON, BRENDA",1082
+Gila,Payson #2,State House,6,REP,"BLACKMAN, WALTER WALT",1184
+Gila,Payson #2,State House,6,DEM,"EVANS, CORAL J",368
+Gila,Payson #2,State House,6,IND,"IND BABBOTT, ART",304
+Gila,Payson #2,State House,6,,Write-Ins,1
+Gila,Payson #2,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1070
+Gila,Payson #2,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1082
+Gila,Payson #2,Corporation Commissioner,,REP,"SLOAN, ERIC",1083
+Gila,Payson #2,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",371
+Gila,Payson #2,Corporation Commissioner,,DEM,"STANFIELD, SHEA",339
+Gila,Payson #2,Corporation Commissioner,,DEM,"TOVAR, ANNA",376
+Gila,Payson #2,Corporation Commissioner,,,Write-In Totals,5
+Gila,Payson #2,Board of Supervisors District 3,,REP,"CLINE, WOODY",1282
+Gila,Payson #2,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",344
+Gila,Payson #2,Board of Supervisors District 3,,,Write-In Totals,1
+Gila,Payson #2,County Attorney,,REP,"BEAUCHAMP, BRADLEY",1344
+Gila,Payson #2,County Attorney,,,Write-In Totals,17
+Gila,Payson #2,Sheriff,,REP,"SHEPHERD, ADAM",1324
+Gila,Payson #2,Sheriff,,DEM,"BENDER, CHRISTOPHER",322
+Gila,Payson #2,Sheriff,,,Write-In Totals,6
+Gila,Payson #2,County Treasurer,,REP,"WOHLFORTH, MONICA",1134
+Gila,Payson #2,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",492
+Gila,Payson #2,County Treasurer,,,Write-In Totals,3
+Gila,Payson #2,County School Superintendent,,REP,"SANDOVAL, ROY",1394
+Gila,Payson #2,County School Superintendent,,,Write-In Totals,19
+Gila,Payson #2,County Recorder,,REP,"BINGHAM, SADIE JO",1403
+Gila,Payson #2,County Recorder,,,Write-Ins,11
+Gila,Payson #2,County Assessor,,REP,"WILLIAMS, JOSEPH",1360
+Gila,Payson #2,County Assessor,,,Write-Ins,11
+Gila,Payson #2,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,1078
+Gila,Payson #2,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,221
+Gila,Payson #2,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,1082
+Gila,Payson #2,"GOULD, ANDREW W., Supreme Court Justice",,,No,211
+Gila,Payson #2,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,1084
+Gila,Payson #2,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,202
+Gila,Payson #2,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,1025
+Gila,Payson #2,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,230
+Gila,Payson #2,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,962
+Gila,Payson #2,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,303
+Gila,Payson #2,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",1146
+Gila,Payson #2,Judge of the Superior Court Div. 1,,,Write-Ins,26
+Gila,Payson #2,Council Member Town of Payson,,,"ROSE, DEBORAH",513
+Gila,Payson #2,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",601
+Gila,Payson #2,Council Member Town of Payson,,,Write-Ins,8
+Gila,Payson #2,PROPOSITION 207,,,Yes,805
+Gila,Payson #2,PROPOSITION 207,,,No,822
+Gila,Payson #2,PROPOSITION 208,,,Yes,570
+Gila,Payson #2,PROPOSITION 208,,,No,1057
+Gila,Payson #3,Registered Voters,,,,2609
+Gila,Payson #3,Ballots Cast,,,,2393
+Gila,Payson #3,President,,REP,TRUMP PENCE,1708
+Gila,Payson #3,President,,DEM,BIDEN HARRIS,639
+Gila,Payson #3,President,,LBT,JORGENSEN COHEN,18
+Gila,Payson #3,President,,,Write-Ins,8
+Gila,Payson #3,U.S. Senate,,REP,"MCSALLY, MARTHA",1696
+Gila,Payson #3,U.S. Senate,,DEM,"KELLY, MARK",667
+Gila,Payson #3,U.S. Senate,,,Write-Ins,2
+Gila,Payson #3,U.S. House,4,REP,"GOSAR, PAUL",1713
+Gila,Payson #3,U.S. House,4,DEM,"DISANTO, DELINA",612
+Gila,Payson #3,U.S. House,4,,Write-Ins,2
+Gila,Payson #3,State Senate,6,REP,"ROGERS, WENDY",1701
+Gila,Payson #3,State Senate,6,DEM,"FRENCH, FELICIA",622
+Gila,Payson #3,State Senate,6,,Write-Ins,3
+Gila,Payson #3,State House,6,REP,"BARTON, BRENDA",1505
+Gila,Payson #3,State House,6,REP,"BLACKMAN, WALTER WALT",1596
+Gila,Payson #3,State House,6,DEM,"EVANS, CORAL J",574
+Gila,Payson #3,State House,6,IND,"IND BABBOTT, ART",471
+Gila,Payson #3,State House,6,,Write-Ins,2
+Gila,Payson #3,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1479
+Gila,Payson #3,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1568
+Gila,Payson #3,Corporation Commissioner,,REP,"SLOAN, ERIC",1502
+Gila,Payson #3,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",571
+Gila,Payson #3,Corporation Commissioner,,DEM,"STANFIELD, SHEA",518
+Gila,Payson #3,Corporation Commissioner,,DEM,"TOVAR, ANNA",585
+Gila,Payson #3,Corporation Commissioner,,,Write-In Totals,5
+Gila,Payson #3,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",1942
+Gila,Payson #3,Board of Supervisors District 1,,,Write-In Totals,13
+Gila,Payson #3,County Attorney,,REP,"BEAUCHAMP, BRADLEY",1782
+Gila,Payson #3,County Attorney,,,Write-In Totals,11
+Gila,Payson #3,Sheriff,,REP,"SHEPHERD, ADAM",1749
+Gila,Payson #3,Sheriff,,DEM,"BENDER, CHRISTOPHER",543
+Gila,Payson #3,Sheriff,,,Write-In Totals,8
+Gila,Payson #3,County Treasurer,,REP,"WOHLFORTH, MONICA",1551
+Gila,Payson #3,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",718
+Gila,Payson #3,County Treasurer,,,Write-In Totals,0
+Gila,Payson #3,County School Superintendent,,REP,"SANDOVAL, ROY",1932
+Gila,Payson #3,County School Superintendent,,,Write-In Totals,19
+Gila,Payson #3,County Recorder,,REP,"BINGHAM, SADIE JO",1937
+Gila,Payson #3,County Recorder,,,Write-Ins,11
+Gila,Payson #3,County Assessor,,REP,"WILLIAMS, JOSEPH",1886
+Gila,Payson #3,County Assessor,,,Write-Ins,10
+Gila,Payson #3,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,1508
+Gila,Payson #3,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,315
+Gila,Payson #3,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,1502
+Gila,Payson #3,"GOULD, ANDREW W., Supreme Court Justice",,,No,325
+Gila,Payson #3,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,1528
+Gila,Payson #3,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,303
+Gila,Payson #3,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,1446
+Gila,Payson #3,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,347
+Gila,Payson #3,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,1393
+Gila,Payson #3,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,417
+Gila,Payson #3,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",1651
+Gila,Payson #3,Judge of the Superior Court Div. 1,,,Write-Ins,24
+Gila,Payson #3,Council Member Town of Payson,,,"ROSE, DEBORAH",1000
+Gila,Payson #3,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",1016
+Gila,Payson #3,Council Member Town of Payson,,,Write-Ins,6
+Gila,Payson #3,PROPOSITION 207,,,Yes,995
+Gila,Payson #3,PROPOSITION 207,,,No,1269
+Gila,Payson #3,PROPOSITION 208,,,Yes,837
+Gila,Payson #3,PROPOSITION 208,,,No,1433
+Gila,Payson #4,Registered Voters,,,,1217
+Gila,Payson #4,Ballots Cast,,,,1048
+Gila,Payson #4,President,,REP,TRUMP PENCE,694
+Gila,Payson #4,President,,DEM,BIDEN HARRIS,322
+Gila,Payson #4,President,,LBT,JORGENSEN COHEN,21
+Gila,Payson #4,President,,,Write-Ins,4
+Gila,Payson #4,U.S. Senate,,REP,"MCSALLY, MARTHA",677
+Gila,Payson #4,U.S. Senate,,DEM,"KELLY, MARK",344
+Gila,Payson #4,U.S. Senate,,,Write-Ins,5
+Gila,Payson #4,U.S. House,4,REP,"GOSAR, PAUL",702
+Gila,Payson #4,U.S. House,4,DEM,"DISANTO, DELINA",308
+Gila,Payson #4,U.S. House,4,,Write-Ins,5
+Gila,Payson #4,State Senate,6,REP,"ROGERS, WENDY",689
+Gila,Payson #4,State Senate,6,DEM,"FRENCH, FELICIA",328
+Gila,Payson #4,State Senate,6,,Write-Ins,2
+Gila,Payson #4,State House,6,REP,"BARTON, BRENDA",578
+Gila,Payson #4,State House,6,REP,"BLACKMAN, WALTER WALT",636
+Gila,Payson #4,State House,6,DEM,"EVANS, CORAL J",312
+Gila,Payson #4,State House,6,IND,"IND BABBOTT, ART",213
+Gila,Payson #4,State House,6,,Write-Ins,4
+Gila,Payson #4,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",581
+Gila,Payson #4,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",587
+Gila,Payson #4,Corporation Commissioner,,REP,"SLOAN, ERIC",559
+Gila,Payson #4,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",292
+Gila,Payson #4,Corporation Commissioner,,DEM,"STANFIELD, SHEA",278
+Gila,Payson #4,Corporation Commissioner,,DEM,"TOVAR, ANNA",296
+Gila,Payson #4,Corporation Commissioner,,,Write-In Totals,8
+Gila,Payson #4,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",801
+Gila,Payson #4,Board of Supervisors District 1,,,Write-In Totals,8
+Gila,Payson #4,County Attorney,,REP,"BEAUCHAMP, BRADLEY",744
+Gila,Payson #4,County Attorney,,,Write-In Totals,8
+Gila,Payson #4,Sheriff,,REP,"SHEPHERD, ADAM",717
+Gila,Payson #4,Sheriff,,DEM,"BENDER, CHRISTOPHER",287
+Gila,Payson #4,Sheriff,,,Write-In Totals,1
+Gila,Payson #4,County Treasurer,,REP,"WOHLFORTH, MONICA",622
+Gila,Payson #4,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",362
+Gila,Payson #4,County Treasurer,,,Write-In Totals,2
+Gila,Payson #4,County School Superintendent,,REP,"SANDOVAL, ROY",825
+Gila,Payson #4,County School Superintendent,,,Write-In Totals,11
+Gila,Payson #4,County Recorder,,REP,"BINGHAM, SADIE JO",804
+Gila,Payson #4,County Recorder,,,Write-Ins,6
+Gila,Payson #4,County Assessor,,REP,"WILLIAMS, JOSEPH",787
+Gila,Payson #4,County Assessor,,,Write-Ins,7
+Gila,Payson #4,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,650
+Gila,Payson #4,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,147
+Gila,Payson #4,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,662
+Gila,Payson #4,"GOULD, ANDREW W., Supreme Court Justice",,,No,135
+Gila,Payson #4,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,666
+Gila,Payson #4,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,136
+Gila,Payson #4,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,617
+Gila,Payson #4,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,152
+Gila,Payson #4,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,624
+Gila,Payson #4,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,159
+Gila,Payson #4,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",720
+Gila,Payson #4,Judge of the Superior Court Div. 1,,,Write-Ins,10
+Gila,Payson #4,Council Member Town of Payson,,,"ROSE, DEBORAH",375
+Gila,Payson #4,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",438
+Gila,Payson #4,Council Member Town of Payson,,,Write-Ins,3
+Gila,Payson #4,PROPOSITION 207,,,Yes,553
+Gila,Payson #4,PROPOSITION 207,,,No,428
+Gila,Payson #4,PROPOSITION 208,,,Yes,415
+Gila,Payson #4,PROPOSITION 208,,,No,569
+Gila,Payson #5,Registered Voters,,,,1791
+Gila,Payson #5,Ballots Cast,,,,1543
+Gila,Payson #5,President,,REP,TRUMP PENCE,1140
+Gila,Payson #5,President,,DEM,BIDEN HARRIS,369
+Gila,Payson #5,President,,LBT,JORGENSEN COHEN,14
+Gila,Payson #5,President,,,Write-Ins,6
+Gila,Payson #5,U.S. Senate,,REP,"MCSALLY, MARTHA",1127
+Gila,Payson #5,U.S. Senate,,DEM,"KELLY, MARK",389
+Gila,Payson #5,U.S. Senate,,,Write-Ins,3
+Gila,Payson #5,U.S. House,4,REP,"GOSAR, PAUL",1139
+Gila,Payson #5,U.S. House,4,DEM,"DISANTO, DELINA",352
+Gila,Payson #5,U.S. House,4,,Write-Ins,3
+Gila,Payson #5,State Senate,6,REP,"ROGERS, WENDY",1138
+Gila,Payson #5,State Senate,6,DEM,"FRENCH, FELICIA",365
+Gila,Payson #5,State Senate,6,,Write-Ins,4
+Gila,Payson #5,State House,6,REP,"BARTON, BRENDA",942
+Gila,Payson #5,State House,6,REP,"BLACKMAN, WALTER WALT",1039
+Gila,Payson #5,State House,6,DEM,"EVANS, CORAL J",331
+Gila,Payson #5,State House,6,IND,"IND BABBOTT, ART",280
+Gila,Payson #5,State House,6,,Write-Ins,3
+Gila,Payson #5,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",948
+Gila,Payson #5,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1008
+Gila,Payson #5,Corporation Commissioner,,REP,"SLOAN, ERIC",906
+Gila,Payson #5,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",330
+Gila,Payson #5,Corporation Commissioner,,DEM,"STANFIELD, SHEA",282
+Gila,Payson #5,Corporation Commissioner,,DEM,"TOVAR, ANNA",338
+Gila,Payson #5,Corporation Commissioner,,,Write-In Totals,4
+Gila,Payson #5,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",1259
+Gila,Payson #5,Board of Supervisors District 1,,,Write-In Totals,10
+Gila,Payson #5,County Attorney,,REP,"BEAUCHAMP, BRADLEY",1181
+Gila,Payson #5,County Attorney,,,Write-In Totals,14
+Gila,Payson #5,Sheriff,,REP,"SHEPHERD, ADAM",1152
+Gila,Payson #5,Sheriff,,DEM,"BENDER, CHRISTOPHER",331
+Gila,Payson #5,Sheriff,,,Write-In Totals,6
+Gila,Payson #5,County Treasurer,,REP,"WOHLFORTH, MONICA",1015
+Gila,Payson #5,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",440
+Gila,Payson #5,County Treasurer,,,Write-In Totals,3
+Gila,Payson #5,County School Superintendent,,REP,"SANDOVAL, ROY",1245
+Gila,Payson #5,County School Superintendent,,,Write-In Totals,16
+Gila,Payson #5,County Recorder,,REP,"BINGHAM, SADIE JO",1252
+Gila,Payson #5,County Recorder,,,Write-Ins,4
+Gila,Payson #5,County Assessor,,REP,"WILLIAMS, JOSEPH",1224
+Gila,Payson #5,County Assessor,,,Write-Ins,5
+Gila,Payson #5,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,1004
+Gila,Payson #5,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,176
+Gila,Payson #5,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,993
+Gila,Payson #5,"GOULD, ANDREW W., Supreme Court Justice",,,No,192
+Gila,Payson #5,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,995
+Gila,Payson #5,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,187
+Gila,Payson #5,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,959
+Gila,Payson #5,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,199
+Gila,Payson #5,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,925
+Gila,Payson #5,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,250
+Gila,Payson #5,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",1068
+Gila,Payson #5,Judge of the Superior Court Div. 1,,,Write-Ins,15
+Gila,Payson #5,Council Member Town of Payson,,,"ROSE, DEBORAH",377
+Gila,Payson #5,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",358
+Gila,Payson #5,Council Member Town of Payson,,,Write-Ins,3
+Gila,Payson #5,PROPOSITION 207,,,Yes,752
+Gila,Payson #5,PROPOSITION 207,,,No,705
+Gila,Payson #5,PROPOSITION 208,,,Yes,538
+Gila,Payson #5,PROPOSITION 208,,,No,929
+Gila,Payson #6,Registered Voters,,,,1236
+Gila,Payson #6,Ballots Cast,,,,1025
+Gila,Payson #6,President,,REP,TRUMP PENCE,744
+Gila,Payson #6,President,,DEM,BIDEN HARRIS,255
+Gila,Payson #6,President,,LBT,JORGENSEN COHEN,10
+Gila,Payson #6,President,,,Write-Ins,6
+Gila,Payson #6,U.S. Senate,,REP,"MCSALLY, MARTHA",731
+Gila,Payson #6,U.S. Senate,,DEM,"KELLY, MARK",276
+Gila,Payson #6,U.S. Senate,,,Write-Ins,3
+Gila,Payson #6,U.S. House,4,REP,"GOSAR, PAUL",744
+Gila,Payson #6,U.S. House,4,DEM,"DISANTO, DELINA",241
+Gila,Payson #6,U.S. House,4,,Write-Ins,4
+Gila,Payson #6,State Senate,6,REP,"ROGERS, WENDY",749
+Gila,Payson #6,State Senate,6,DEM,"FRENCH, FELICIA",247
+Gila,Payson #6,State Senate,6,,Write-Ins,2
+Gila,Payson #6,State House,6,REP,"BARTON, BRENDA",627
+Gila,Payson #6,State House,6,REP,"BLACKMAN, WALTER WALT",659
+Gila,Payson #6,State House,6,DEM,"EVANS, CORAL J",245
+Gila,Payson #6,State House,6,IND,"IND BABBOTT, ART",183
+Gila,Payson #6,State House,6,,Write-Ins,2
+Gila,Payson #6,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",593
+Gila,Payson #6,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",636
+Gila,Payson #6,Corporation Commissioner,,REP,"SLOAN, ERIC",644
+Gila,Payson #6,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",206
+Gila,Payson #6,Corporation Commissioner,,DEM,"STANFIELD, SHEA",209
+Gila,Payson #6,Corporation Commissioner,,DEM,"TOVAR, ANNA",246
+Gila,Payson #6,Corporation Commissioner,,,Write-In Totals,2
+Gila,Payson #6,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",822
+Gila,Payson #6,Board of Supervisors District 1,,,Write-In Totals,12
+Gila,Payson #6,County Attorney,,REP,"BEAUCHAMP, BRADLEY",752
+Gila,Payson #6,County Attorney,,,Write-In Totals,11
+Gila,Payson #6,Sheriff,,REP,"SHEPHERD, ADAM",751
+Gila,Payson #6,Sheriff,,DEM,"BENDER, CHRISTOPHER",227
+Gila,Payson #6,Sheriff,,,Write-In Totals,5
+Gila,Payson #6,County Treasurer,,REP,"WOHLFORTH, MONICA",666
+Gila,Payson #6,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",298
+Gila,Payson #6,County Treasurer,,,Write-In Totals,3
+Gila,Payson #6,County School Superintendent,,REP,"SANDOVAL, ROY",818
+Gila,Payson #6,County School Superintendent,,,Write-In Totals,13
+Gila,Payson #6,County Recorder,,REP,"BINGHAM, SADIE JO",831
+Gila,Payson #6,County Recorder,,,Write-Ins,9
+Gila,Payson #6,County Assessor,,REP,"WILLIAMS, JOSEPH",796
+Gila,Payson #6,County Assessor,,,Write-Ins,9
+Gila,Payson #6,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,667
+Gila,Payson #6,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,147
+Gila,Payson #6,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,656
+Gila,Payson #6,"GOULD, ANDREW W., Supreme Court Justice",,,No,148
+Gila,Payson #6,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,668
+Gila,Payson #6,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,142
+Gila,Payson #6,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,630
+Gila,Payson #6,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,159
+Gila,Payson #6,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,595
+Gila,Payson #6,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,187
+Gila,Payson #6,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",724
+Gila,Payson #6,Judge of the Superior Court Div. 1,,,Write-Ins,11
+Gila,Payson #6,Council Member Town of Payson,,,"ROSE, DEBORAH",412
+Gila,Payson #6,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",386
+Gila,Payson #6,Council Member Town of Payson,,,Write-Ins,10
+Gila,Payson #6,PROPOSITION 207,,,Yes,527
+Gila,Payson #6,PROPOSITION 207,,,No,440
+Gila,Payson #6,PROPOSITION 208,,,Yes,373
+Gila,Payson #6,PROPOSITION 208,,,No,597
+Gila,Payson #7,Registered Voters,,,,965
+Gila,Payson #7,Ballots Cast,,,,820
+Gila,Payson #7,President,,REP,TRUMP PENCE,589
+Gila,Payson #7,President,,DEM,BIDEN HARRIS,217
+Gila,Payson #7,President,,LBT,JORGENSEN COHEN,9
+Gila,Payson #7,President,,,Write-Ins,2
+Gila,Payson #7,U.S. Senate,,REP,"MCSALLY, MARTHA",572
+Gila,Payson #7,U.S. Senate,,DEM,"KELLY, MARK",238
+Gila,Payson #7,U.S. Senate,,,Write-Ins,2
+Gila,Payson #7,U.S. House,4,REP,"GOSAR, PAUL",584
+Gila,Payson #7,U.S. House,4,DEM,"DISANTO, DELINA",202
+Gila,Payson #7,U.S. House,4,,Write-Ins,1
+Gila,Payson #7,State Senate,6,REP,"ROGERS, WENDY",566
+Gila,Payson #7,State Senate,6,DEM,"FRENCH, FELICIA",215
+Gila,Payson #7,State Senate,6,,Write-Ins,1
+Gila,Payson #7,State House,6,REP,"BARTON, BRENDA",483
+Gila,Payson #7,State House,6,REP,"BLACKMAN, WALTER WALT",541
+Gila,Payson #7,State House,6,DEM,"EVANS, CORAL J",199
+Gila,Payson #7,State House,6,IND,"IND BABBOTT, ART",142
+Gila,Payson #7,State House,6,,Write-Ins,2
+Gila,Payson #7,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",487
+Gila,Payson #7,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",490
+Gila,Payson #7,Corporation Commissioner,,REP,"SLOAN, ERIC",502
+Gila,Payson #7,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",174
+Gila,Payson #7,Corporation Commissioner,,DEM,"STANFIELD, SHEA",169
+Gila,Payson #7,Corporation Commissioner,,DEM,"TOVAR, ANNA",189
+Gila,Payson #7,Corporation Commissioner,,,Write-In Totals,5
+Gila,Payson #7,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",642
+Gila,Payson #7,Board of Supervisors District 1,,,Write-In Totals,7
+Gila,Payson #7,County Attorney,,REP,"BEAUCHAMP, BRADLEY",599
+Gila,Payson #7,County Attorney,,,Write-In Totals,6
+Gila,Payson #7,Sheriff,,REP,"SHEPHERD, ADAM",587
+Gila,Payson #7,Sheriff,,DEM,"BENDER, CHRISTOPHER",181
+Gila,Payson #7,Sheriff,,,Write-In Totals,0
+Gila,Payson #7,County Treasurer,,REP,"WOHLFORTH, MONICA",537
+Gila,Payson #7,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",225
+Gila,Payson #7,County Treasurer,,,Write-In Totals,1
+Gila,Payson #7,County School Superintendent,,REP,"SANDOVAL, ROY",632
+Gila,Payson #7,County School Superintendent,,,Write-In Totals,9
+Gila,Payson #7,County Recorder,,REP,"BINGHAM, SADIE JO",628
+Gila,Payson #7,County Recorder,,,Write-Ins,4
+Gila,Payson #7,County Assessor,,REP,"WILLIAMS, JOSEPH",619
+Gila,Payson #7,County Assessor,,,Write-Ins,4
+Gila,Payson #7,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,521
+Gila,Payson #7,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,115
+Gila,Payson #7,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,518
+Gila,Payson #7,"GOULD, ANDREW W., Supreme Court Justice",,,No,114
+Gila,Payson #7,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,510
+Gila,Payson #7,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,119
+Gila,Payson #7,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,505
+Gila,Payson #7,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,119
+Gila,Payson #7,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,484
+Gila,Payson #7,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,144
+Gila,Payson #7,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",554
+Gila,Payson #7,Judge of the Superior Court Div. 1,,,Write-Ins,9
+Gila,Payson #7,Council Member Town of Payson,,,"ROSE, DEBORAH",332
+Gila,Payson #7,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",338
+Gila,Payson #7,Council Member Town of Payson,,,Write-Ins,4
+Gila,Payson #7,PROPOSITION 207,,,Yes,419
+Gila,Payson #7,PROPOSITION 207,,,No,360
+Gila,Payson #7,PROPOSITION 208,,,Yes,288
+Gila,Payson #7,PROPOSITION 208,,,No,485
+Gila,Payson #8,Registered Voters,,,,1407
+Gila,Payson #8,Ballots Cast,,,,1228
+Gila,Payson #8,President,,REP,TRUMP PENCE,881
+Gila,Payson #8,President,,DEM,BIDEN HARRIS,313
+Gila,Payson #8,President,,LBT,JORGENSEN COHEN,21
+Gila,Payson #8,President,,,Write-Ins,0
+Gila,Payson #8,U.S. Senate,,REP,"MCSALLY, MARTHA",878
+Gila,Payson #8,U.S. Senate,,DEM,"KELLY, MARK",336
+Gila,Payson #8,U.S. Senate,,,Write-Ins,1
+Gila,Payson #8,U.S. House,4,REP,"GOSAR, PAUL",890
+Gila,Payson #8,U.S. House,4,DEM,"DISANTO, DELINA",300
+Gila,Payson #8,U.S. House,4,,Write-Ins,1
+Gila,Payson #8,State Senate,6,REP,"ROGERS, WENDY",874
+Gila,Payson #8,State Senate,6,DEM,"FRENCH, FELICIA",316
+Gila,Payson #8,State Senate,6,,Write-Ins,1
+Gila,Payson #8,State House,6,REP,"BARTON, BRENDA",731
+Gila,Payson #8,State House,6,REP,"BLACKMAN, WALTER WALT",797
+Gila,Payson #8,State House,6,DEM,"EVANS, CORAL J",302
+Gila,Payson #8,State House,6,IND,"IND BABBOTT, ART",240
+Gila,Payson #8,State House,6,,Write-Ins,0
+Gila,Payson #8,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",732
+Gila,Payson #8,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",769
+Gila,Payson #8,Corporation Commissioner,,REP,"SLOAN, ERIC",708
+Gila,Payson #8,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",278
+Gila,Payson #8,Corporation Commissioner,,DEM,"STANFIELD, SHEA",267
+Gila,Payson #8,Corporation Commissioner,,DEM,"TOVAR, ANNA",292
+Gila,Payson #8,Corporation Commissioner,,,Write-In Totals,1
+Gila,Payson #8,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",1002
+Gila,Payson #8,Board of Supervisors District 1,,,Write-In Totals,12
+Gila,Payson #8,County Attorney,,REP,"BEAUCHAMP, BRADLEY",908
+Gila,Payson #8,County Attorney,,,Write-In Totals,13
+Gila,Payson #8,Sheriff,,REP,"SHEPHERD, ADAM",904
+Gila,Payson #8,Sheriff,,DEM,"BENDER, CHRISTOPHER",286
+Gila,Payson #8,Sheriff,,,Write-In Totals,2
+Gila,Payson #8,County Treasurer,,REP,"WOHLFORTH, MONICA",782
+Gila,Payson #8,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",385
+Gila,Payson #8,County Treasurer,,,Write-In Totals,0
+Gila,Payson #8,County School Superintendent,,REP,"SANDOVAL, ROY",990
+Gila,Payson #8,County School Superintendent,,,Write-In Totals,14
+Gila,Payson #8,County Recorder,,REP,"BINGHAM, SADIE JO",985
+Gila,Payson #8,County Recorder,,,Write-Ins,4
+Gila,Payson #8,County Assessor,,REP,"WILLIAMS, JOSEPH",977
+Gila,Payson #8,County Assessor,,,Write-Ins,5
+Gila,Payson #8,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,795
+Gila,Payson #8,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,159
+Gila,Payson #8,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,790
+Gila,Payson #8,"GOULD, ANDREW W., Supreme Court Justice",,,No,165
+Gila,Payson #8,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,778
+Gila,Payson #8,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,181
+Gila,Payson #8,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,767
+Gila,Payson #8,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,173
+Gila,Payson #8,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,732
+Gila,Payson #8,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,215
+Gila,Payson #8,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",865
+Gila,Payson #8,Judge of the Superior Court Div. 1,,,Write-Ins,11
+Gila,Payson #8,Council Member Town of Payson,,,"ROSE, DEBORAH",391
+Gila,Payson #8,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",544
+Gila,Payson #8,Council Member Town of Payson,,,Write-Ins,1
+Gila,Payson #8,PROPOSITION 207,,,Yes,604
+Gila,Payson #8,PROPOSITION 207,,,No,564
+Gila,Payson #8,PROPOSITION 208,,,Yes,467
+Gila,Payson #8,PROPOSITION 208,,,No,699
+Gila,Star Valley,Registered Voters,,,,2472
+Gila,Star Valley,Ballots Cast,,,,2208
+Gila,Star Valley,President,,REP,TRUMP PENCE,1685
+Gila,Star Valley,President,,DEM,BIDEN HARRIS,480
+Gila,Star Valley,President,,LBT,JORGENSEN COHEN,20
+Gila,Star Valley,President,,,Write-Ins,5
+Gila,Star Valley,U.S. Senate,,REP,"MCSALLY, MARTHA",1662
+Gila,Star Valley,U.S. Senate,,DEM,"KELLY, MARK",510
+Gila,Star Valley,U.S. Senate,,,Write-Ins,6
+Gila,Star Valley,U.S. House,4,REP,"GOSAR, PAUL",1667
+Gila,Star Valley,U.S. House,4,DEM,"DISANTO, DELINA",475
+Gila,Star Valley,U.S. House,4,,Write-Ins,1
+Gila,Star Valley,State Senate,6,REP,"ROGERS, WENDY",1666
+Gila,Star Valley,State Senate,6,DEM,"FRENCH, FELICIA",470
+Gila,Star Valley,State Senate,6,,Write-Ins,2
+Gila,Star Valley,State House,6,REP,"BARTON, BRENDA",1445
+Gila,Star Valley,State House,6,REP,"BLACKMAN, WALTER WALT",1527
+Gila,Star Valley,State House,6,DEM,"EVANS, CORAL J",449
+Gila,Star Valley,State House,6,IND,"IND BABBOTT, ART",373
+Gila,Star Valley,State House,6,,Write-Ins,0
+Gila,Star Valley,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1414
+Gila,Star Valley,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1483
+Gila,Star Valley,Corporation Commissioner,,REP,"SLOAN, ERIC",1368
+Gila,Star Valley,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",443
+Gila,Star Valley,Corporation Commissioner,,DEM,"STANFIELD, SHEA",392
+Gila,Star Valley,Corporation Commissioner,,DEM,"TOVAR, ANNA",457
+Gila,Star Valley,Corporation Commissioner,,,Write-In Totals,1
+Gila,Star Valley,Board of Supervisors District 3,,REP,"CLINE, WOODY",1681
+Gila,Star Valley,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",404
+Gila,Star Valley,Board of Supervisors District 3,,,Write-In Totals,4
+Gila,Star Valley,County Attorney,,REP,"BEAUCHAMP, BRADLEY",1748
+Gila,Star Valley,County Attorney,,,Write-In Totals,8
+Gila,Star Valley,Sheriff,,REP,"SHEPHERD, ADAM",1693
+Gila,Star Valley,Sheriff,,DEM,"BENDER, CHRISTOPHER",424
+Gila,Star Valley,Sheriff,,,Write-In Totals,3
+Gila,Star Valley,County Treasurer,,REP,"WOHLFORTH, MONICA",1505
+Gila,Star Valley,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",580
+Gila,Star Valley,County Treasurer,,,Write-In Totals,1
+Gila,Star Valley,County School Superintendent,,REP,"SANDOVAL, ROY",1843
+Gila,Star Valley,County School Superintendent,,,Write-In Totals,19
+Gila,Star Valley,County Recorder,,REP,"BINGHAM, SADIE JO",1833
+Gila,Star Valley,County Recorder,,,Write-Ins,7
+Gila,Star Valley,County Assessor,,REP,"WILLIAMS, JOSEPH",1786
+Gila,Star Valley,County Assessor,,,Write-Ins,12
+Gila,Star Valley,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,1437
+Gila,Star Valley,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,275
+Gila,Star Valley,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,1441
+Gila,Star Valley,"GOULD, ANDREW W., Supreme Court Justice",,,No,271
+Gila,Star Valley,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,1431
+Gila,Star Valley,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,275
+Gila,Star Valley,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,1361
+Gila,Star Valley,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,313
+Gila,Star Valley,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,1286
+Gila,Star Valley,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,402
+Gila,Star Valley,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",1506
+Gila,Star Valley,Judge of the Superior Court Div. 1,,,Write-Ins,30
+Gila,Star Valley,Council Member Town of Payson,,,"ROSE, DEBORAH",223
+Gila,Star Valley,Council Member Town of Payson,,,"SCHINSTOCK, JOLYNN",351
+Gila,Star Valley,Council Member Town of Payson,,,Write-Ins,2
+Gila,Star Valley,PROPOSITION 207,,,Yes,1033
+Gila,Star Valley,PROPOSITION 207,,,No,1043
+Gila,Star Valley,PROPOSITION 208,,,Yes,725
+Gila,Star Valley,PROPOSITION 208,,,No,1369
+Gila,Copper Basin,Registered Voters,,,,668
+Gila,Copper Basin,Ballots Cast,,,,488
+Gila,Copper Basin,President,,REP,TRUMP PENCE,148
+Gila,Copper Basin,President,,DEM,BIDEN HARRIS,328
+Gila,Copper Basin,President,,LBT,JORGENSEN COHEN,4
+Gila,Copper Basin,President,,,Write-Ins,1
+Gila,Copper Basin,U.S. Senate,,REP,"MCSALLY, MARTHA",144
+Gila,Copper Basin,U.S. Senate,,DEM,"KELLY, MARK",340
+Gila,Copper Basin,U.S. Senate,,,Write-Ins,1
+Gila,Copper Basin,U.S. House,1,REP,"SHEDD, TIFFANY",137
+Gila,Copper Basin,U.S. House,1,DEM,"O'HALLERAN, TOM",344
+Gila,Copper Basin,U.S. House,1,,Write-Ins,0
+Gila,Copper Basin,State Senate,8,REP,"SHOPE, THOMAS T.J.",121
+Gila,Copper Basin,State Senate,8,DEM,"MCGUIRE, BARBARA",352
+Gila,Copper Basin,State Senate,8,,Write-Ins,2
+Gila,Copper Basin,State House,8,REP,"COOK, DAVID",138
+Gila,Copper Basin,State House,8,REP,"PRATT, FRANK",150
+Gila,Copper Basin,State House,8,DEM,"GIRARD, SHARON",351
+Gila,Copper Basin,State House,8,,Write-Ins,1
+Gila,Copper Basin,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",128
+Gila,Copper Basin,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",130
+Gila,Copper Basin,Corporation Commissioner,,REP,"SLOAN, ERIC",126
+Gila,Copper Basin,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",289
+Gila,Copper Basin,Corporation Commissioner,,DEM,"STANFIELD, SHEA",287
+Gila,Copper Basin,Corporation Commissioner,,DEM,"TOVAR, ANNA",321
+Gila,Copper Basin,Corporation Commissioner,,,Write-In Totals,0
+Gila,Copper Basin,Board of Supervisors District 3,,REP,"CLINE, WOODY",162
+Gila,Copper Basin,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",317
+Gila,Copper Basin,Board of Supervisors District 3,,,Write-In Totals,2
+Gila,Copper Basin,County Attorney,,REP,"BEAUCHAMP, BRADLEY",279
+Gila,Copper Basin,County Attorney,,,Write-In Totals,6
+Gila,Copper Basin,Sheriff,,REP,"SHEPHERD, ADAM",138
+Gila,Copper Basin,Sheriff,,DEM,"BENDER, CHRISTOPHER",338
+Gila,Copper Basin,Sheriff,,,Write-In Totals,1
+Gila,Copper Basin,County Treasurer,,REP,"WOHLFORTH, MONICA",111
+Gila,Copper Basin,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",370
+Gila,Copper Basin,County Treasurer,,,Write-In Totals,1
+Gila,Copper Basin,County School Superintendent,,REP,"SANDOVAL, ROY",327
+Gila,Copper Basin,County School Superintendent,,,Write-In Totals,5
+Gila,Copper Basin,County Recorder,,REP,"BINGHAM, SADIE JO",341
+Gila,Copper Basin,County Recorder,,,Write-Ins,5
+Gila,Copper Basin,County Assessor,,REP,"WILLIAMS, JOSEPH",332
+Gila,Copper Basin,County Assessor,,,Write-Ins,4
+Gila,Copper Basin,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,369
+Gila,Copper Basin,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,59
+Gila,Copper Basin,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,364
+Gila,Copper Basin,"GOULD, ANDREW W., Supreme Court Justice",,,No,59
+Gila,Copper Basin,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,374
+Gila,Copper Basin,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,52
+Gila,Copper Basin,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,362
+Gila,Copper Basin,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,57
+Gila,Copper Basin,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,370
+Gila,Copper Basin,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,57
+Gila,Copper Basin,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",383
+Gila,Copper Basin,Judge of the Superior Court Div. 1,,,Write-Ins,7
+Gila,Copper Basin,PROPOSITION 207,,,Yes,275
+Gila,Copper Basin,PROPOSITION 207,,,No,179
+Gila,Copper Basin,PROPOSITION 208,,,Yes,286
+Gila,Copper Basin,PROPOSITION 208,,,No,183
+Gila,Gisela,Registered Voters,,,,578
+Gila,Gisela,Ballots Cast,,,,483
+Gila,Gisela,President,,REP,TRUMP PENCE,374
+Gila,Gisela,President,,DEM,BIDEN HARRIS,97
+Gila,Gisela,President,,LBT,JORGENSEN COHEN,4
+Gila,Gisela,President,,,Write-Ins,1
+Gila,Gisela,U.S. Senate,,REP,"MCSALLY, MARTHA",361
+Gila,Gisela,U.S. Senate,,DEM,"KELLY, MARK",110
+Gila,Gisela,U.S. Senate,,,Write-Ins,2
+Gila,Gisela,U.S. House,4,REP,"GOSAR, PAUL",367
+Gila,Gisela,U.S. House,4,DEM,"DISANTO, DELINA",97
+Gila,Gisela,U.S. House,4,,Write-Ins,4
+Gila,Gisela,State Senate,6,REP,"ROGERS, WENDY",370
+Gila,Gisela,State Senate,6,DEM,"FRENCH, FELICIA",95
+Gila,Gisela,State Senate,6,,Write-Ins,3
+Gila,Gisela,State House,6,REP,"BARTON, BRENDA",297
+Gila,Gisela,State House,6,REP,"BLACKMAN, WALTER WALT",347
+Gila,Gisela,State House,6,DEM,"EVANS, CORAL J",93
+Gila,Gisela,State House,6,IND,"IND BABBOTT, ART",67
+Gila,Gisela,State House,6,,Write-Ins,2
+Gila,Gisela,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",299
+Gila,Gisela,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",304
+Gila,Gisela,Corporation Commissioner,,REP,"SLOAN, ERIC",317
+Gila,Gisela,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",83
+Gila,Gisela,Corporation Commissioner,,DEM,"STANFIELD, SHEA",70
+Gila,Gisela,Corporation Commissioner,,DEM,"TOVAR, ANNA",99
+Gila,Gisela,Corporation Commissioner,,,Write-In Totals,5
+Gila,Gisela,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",375
+Gila,Gisela,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",82
+Gila,Gisela,Board of Supervisors District 2,,,Write-In Totals,2
+Gila,Gisela,County Attorney,,REP,"BEAUCHAMP, BRADLEY",383
+Gila,Gisela,County Attorney,,,Write-In Totals,4
+Gila,Gisela,Sheriff,,REP,"SHEPHERD, ADAM",385
+Gila,Gisela,Sheriff,,DEM,"BENDER, CHRISTOPHER",77
+Gila,Gisela,Sheriff,,,Write-In Totals,2
+Gila,Gisela,County Treasurer,,REP,"WOHLFORTH, MONICA",336
+Gila,Gisela,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",122
+Gila,Gisela,County Treasurer,,,Write-In Totals,2
+Gila,Gisela,County School Superintendent,,REP,"SANDOVAL, ROY",404
+Gila,Gisela,County School Superintendent,,,Write-In Totals,12
+Gila,Gisela,County Recorder,,REP,"BINGHAM, SADIE JO",408
+Gila,Gisela,County Recorder,,,Write-Ins,5
+Gila,Gisela,County Assessor,,REP,"WILLIAMS, JOSEPH",392
+Gila,Gisela,County Assessor,,,Write-Ins,8
+Gila,Gisela,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,312
+Gila,Gisela,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,68
+Gila,Gisela,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,306
+Gila,Gisela,"GOULD, ANDREW W., Supreme Court Justice",,,No,70
+Gila,Gisela,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,310
+Gila,Gisela,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,72
+Gila,Gisela,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,304
+Gila,Gisela,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,73
+Gila,Gisela,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,291
+Gila,Gisela,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,89
+Gila,Gisela,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",346
+Gila,Gisela,Judge of the Superior Court Div. 1,,,Write-Ins,8
+Gila,Gisela,PROPOSITION 207,,,Yes,272
+Gila,Gisela,PROPOSITION 207,,,No,182
+Gila,Gisela,PROPOSITION 208,,,Yes,148
+Gila,Gisela,PROPOSITION 208,,,No,313
+Gila,Pine-Strawberry East,Registered Voters,,,,636
+Gila,Pine-Strawberry East,Ballots Cast,,,,578
+Gila,Pine-Strawberry East,President,,REP,TRUMP PENCE,413
+Gila,Pine-Strawberry East,President,,DEM,BIDEN HARRIS,149
+Gila,Pine-Strawberry East,President,,LBT,JORGENSEN COHEN,8
+Gila,Pine-Strawberry East,President,,,Write-Ins,1
+Gila,Pine-Strawberry East,U.S. Senate,,REP,"MCSALLY, MARTHA",408
+Gila,Pine-Strawberry East,U.S. Senate,,DEM,"KELLY, MARK",158
+Gila,Pine-Strawberry East,U.S. Senate,,,Write-Ins,1
+Gila,Pine-Strawberry East,U.S. House,4,REP,"GOSAR, PAUL",419
+Gila,Pine-Strawberry East,U.S. House,4,DEM,"DISANTO, DELINA",139
+Gila,Pine-Strawberry East,U.S. House,4,,Write-Ins,0
+Gila,Pine-Strawberry East,State Senate,6,REP,"ROGERS, WENDY",401
+Gila,Pine-Strawberry East,State Senate,6,DEM,"FRENCH, FELICIA",159
+Gila,Pine-Strawberry East,State Senate,6,,Write-Ins,1
+Gila,Pine-Strawberry East,State House,6,REP,"BARTON, BRENDA",377
+Gila,Pine-Strawberry East,State House,6,REP,"BLACKMAN, WALTER WALT",389
+Gila,Pine-Strawberry East,State House,6,DEM,"EVANS, CORAL J",140
+Gila,Pine-Strawberry East,State House,6,IND,"IND BABBOTT, ART",96
+Gila,Pine-Strawberry East,State House,6,,Write-Ins,0
+Gila,Pine-Strawberry East,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",357
+Gila,Pine-Strawberry East,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",373
+Gila,Pine-Strawberry East,Corporation Commissioner,,REP,"SLOAN, ERIC",342
+Gila,Pine-Strawberry East,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",144
+Gila,Pine-Strawberry East,Corporation Commissioner,,DEM,"STANFIELD, SHEA",133
+Gila,Pine-Strawberry East,Corporation Commissioner,,DEM,"TOVAR, ANNA",137
+Gila,Pine-Strawberry East,Corporation Commissioner,,,Write-In Totals,0
+Gila,Pine-Strawberry East,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",465
+Gila,Pine-Strawberry East,Board of Supervisors District 1,,,Write-In Totals,6
+Gila,Pine-Strawberry East,County Attorney,,REP,"BEAUCHAMP, BRADLEY",423
+Gila,Pine-Strawberry East,County Attorney,,,Write-In Totals,2
+Gila,Pine-Strawberry East,Sheriff,,REP,"SHEPHERD, ADAM",418
+Gila,Pine-Strawberry East,Sheriff,,DEM,"BENDER, CHRISTOPHER",136
+Gila,Pine-Strawberry East,Sheriff,,,Write-In Totals,0
+Gila,Pine-Strawberry East,County Treasurer,,REP,"WOHLFORTH, MONICA",376
+Gila,Pine-Strawberry East,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",169
+Gila,Pine-Strawberry East,County Treasurer,,,Write-In Totals,0
+Gila,Pine-Strawberry East,County School Superintendent,,REP,"SANDOVAL, ROY",464
+Gila,Pine-Strawberry East,County School Superintendent,,,Write-In Totals,3
+Gila,Pine-Strawberry East,County Recorder,,REP,"BINGHAM, SADIE JO",469
+Gila,Pine-Strawberry East,County Recorder,,,Write-Ins,2
+Gila,Pine-Strawberry East,County Assessor,,REP,"WILLIAMS, JOSEPH",450
+Gila,Pine-Strawberry East,County Assessor,,,Write-Ins,2
+Gila,Pine-Strawberry East,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,366
+Gila,Pine-Strawberry East,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,75
+Gila,Pine-Strawberry East,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,361
+Gila,Pine-Strawberry East,"GOULD, ANDREW W., Supreme Court Justice",,,No,82
+Gila,Pine-Strawberry East,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,362
+Gila,Pine-Strawberry East,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,75
+Gila,Pine-Strawberry East,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,352
+Gila,Pine-Strawberry East,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,82
+Gila,Pine-Strawberry East,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,321
+Gila,Pine-Strawberry East,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,113
+Gila,Pine-Strawberry East,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",374
+Gila,Pine-Strawberry East,Judge of the Superior Court Div. 1,,,Write-Ins,5
+Gila,Pine-Strawberry East,PROPOSITION 207,,,Yes,255
+Gila,Pine-Strawberry East,PROPOSITION 207,,,No,280
+Gila,Pine-Strawberry East,PROPOSITION 208,,,Yes,199
+Gila,Pine-Strawberry East,PROPOSITION 208,,,No,344
+Gila,Pine Strawberry West,Registered Voters,,,,1867
+Gila,Pine Strawberry West,Ballots Cast,,,,1638
+Gila,Pine Strawberry West,President,,REP,TRUMP PENCE,1188
+Gila,Pine Strawberry West,President,,DEM,BIDEN HARRIS,430
+Gila,Pine Strawberry West,President,,LBT,JORGENSEN COHEN,12
+Gila,Pine Strawberry West,President,,,Write-Ins,2
+Gila,Pine Strawberry West,U.S. Senate,,REP,"MCSALLY, MARTHA",1155
+Gila,Pine Strawberry West,U.S. Senate,,DEM,"KELLY, MARK",462
+Gila,Pine Strawberry West,U.S. Senate,,,Write-Ins,0
+Gila,Pine Strawberry West,U.S. House,4,REP,"GOSAR, PAUL",1171
+Gila,Pine Strawberry West,U.S. House,4,DEM,"DISANTO, DELINA",411
+Gila,Pine Strawberry West,U.S. House,4,,Write-Ins,4
+Gila,Pine Strawberry West,State Senate,6,REP,"ROGERS, WENDY",1142
+Gila,Pine Strawberry West,State Senate,6,DEM,"FRENCH, FELICIA",451
+Gila,Pine Strawberry West,State Senate,6,,Write-Ins,2
+Gila,Pine Strawberry West,State House,6,REP,"BARTON, BRENDA",1018
+Gila,Pine Strawberry West,State House,6,REP,"BLACKMAN, WALTER WALT",1050
+Gila,Pine Strawberry West,State House,6,DEM,"EVANS, CORAL J",418
+Gila,Pine Strawberry West,State House,6,IND,"IND BABBOTT, ART",297
+Gila,Pine Strawberry West,State House,6,,Write-Ins,0
+Gila,Pine Strawberry West,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",962
+Gila,Pine Strawberry West,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1043
+Gila,Pine Strawberry West,Corporation Commissioner,,REP,"SLOAN, ERIC",942
+Gila,Pine Strawberry West,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",405
+Gila,Pine Strawberry West,Corporation Commissioner,,DEM,"STANFIELD, SHEA",377
+Gila,Pine Strawberry West,Corporation Commissioner,,DEM,"TOVAR, ANNA",419
+Gila,Pine Strawberry West,Corporation Commissioner,,,Write-In Totals,1
+Gila,Pine Strawberry West,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",1290
+Gila,Pine Strawberry West,Board of Supervisors District 1,,,Write-In Totals,7
+Gila,Pine Strawberry West,County Attorney,,REP,"BEAUCHAMP, BRADLEY",1199
+Gila,Pine Strawberry West,County Attorney,,,Write-In Totals,8
+Gila,Pine Strawberry West,Sheriff,,REP,"SHEPHERD, ADAM",1164
+Gila,Pine Strawberry West,Sheriff,,DEM,"BENDER, CHRISTOPHER",404
+Gila,Pine Strawberry West,Sheriff,,,Write-In Totals,1
+Gila,Pine Strawberry West,County Treasurer,,REP,"WOHLFORTH, MONICA",1037
+Gila,Pine Strawberry West,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",501
+Gila,Pine Strawberry West,County Treasurer,,,Write-In Totals,0
+Gila,Pine Strawberry West,County School Superintendent,,REP,"SANDOVAL, ROY",1286
+Gila,Pine Strawberry West,County School Superintendent,,,Write-In Totals,7
+Gila,Pine Strawberry West,County Recorder,,REP,"BINGHAM, SADIE JO",1295
+Gila,Pine Strawberry West,County Recorder,,,Write-Ins,2
+Gila,Pine Strawberry West,County Assessor,,REP,"WILLIAMS, JOSEPH",1246
+Gila,Pine Strawberry West,County Assessor,,,Write-Ins,4
+Gila,Pine Strawberry West,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,1046
+Gila,Pine Strawberry West,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,204
+Gila,Pine Strawberry West,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,1001
+Gila,Pine Strawberry West,"GOULD, ANDREW W., Supreme Court Justice",,,No,236
+Gila,Pine Strawberry West,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,1022
+Gila,Pine Strawberry West,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,218
+Gila,Pine Strawberry West,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,996
+Gila,Pine Strawberry West,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,216
+Gila,Pine Strawberry West,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,962
+Gila,Pine Strawberry West,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,256
+Gila,Pine Strawberry West,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",1098
+Gila,Pine Strawberry West,Judge of the Superior Court Div. 1,,,Write-Ins,9
+Gila,Pine Strawberry West,PROPOSITION 207,,,Yes,846
+Gila,Pine Strawberry West,PROPOSITION 207,,,No,699
+Gila,Pine Strawberry West,PROPOSITION 208,,,Yes,592
+Gila,Pine Strawberry West,PROPOSITION 208,,,No,953
+Gila,Roosevelt,Registered Voters,,,,225
+Gila,Roosevelt,Ballots Cast,,,,204
+Gila,Roosevelt,President,,REP,TRUMP PENCE,152
+Gila,Roosevelt,President,,DEM,BIDEN HARRIS,48
+Gila,Roosevelt,President,,LBT,JORGENSEN COHEN,1
+Gila,Roosevelt,President,,,Write-Ins,0
+Gila,Roosevelt,U.S. Senate,,REP,"MCSALLY, MARTHA",145
+Gila,Roosevelt,U.S. Senate,,DEM,"KELLY, MARK",54
+Gila,Roosevelt,U.S. Senate,,,Write-Ins,0
+Gila,Roosevelt,U.S. House,1,REP,"SHEDD, TIFFANY",142
+Gila,Roosevelt,U.S. House,1,DEM,"O'HALLERAN, TOM",54
+Gila,Roosevelt,U.S. House,1,,Write-Ins,0
+Gila,Roosevelt,State Senate,6,REP,"ROGERS, WENDY",145
+Gila,Roosevelt,State Senate,6,DEM,"FRENCH, FELICIA",48
+Gila,Roosevelt,State Senate,6,,Write-Ins,2
+Gila,Roosevelt,State House,6,REP,"BARTON, BRENDA",132
+Gila,Roosevelt,State House,6,REP,"BLACKMAN, WALTER WALT",124
+Gila,Roosevelt,State House,6,DEM,"EVANS, CORAL J",45
+Gila,Roosevelt,State House,6,IND,"IND BABBOTT, ART",35
+Gila,Roosevelt,State House,6,,Write-Ins,0
+Gila,Roosevelt,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",121
+Gila,Roosevelt,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",134
+Gila,Roosevelt,Corporation Commissioner,,REP,"SLOAN, ERIC",125
+Gila,Roosevelt,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",44
+Gila,Roosevelt,Corporation Commissioner,,DEM,"STANFIELD, SHEA",38
+Gila,Roosevelt,Corporation Commissioner,,DEM,"TOVAR, ANNA",43
+Gila,Roosevelt,Corporation Commissioner,,,Write-In Totals,0
+Gila,Roosevelt,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",159
+Gila,Roosevelt,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",35
+Gila,Roosevelt,Board of Supervisors District 2,,,Write-In Totals,0
+Gila,Roosevelt,County Attorney,,REP,"BEAUCHAMP, BRADLEY",154
+Gila,Roosevelt,County Attorney,,,Write-In Totals,3
+Gila,Roosevelt,Sheriff,,REP,"SHEPHERD, ADAM",134
+Gila,Roosevelt,Sheriff,,DEM,"BENDER, CHRISTOPHER",62
+Gila,Roosevelt,Sheriff,,,Write-In Totals,0
+Gila,Roosevelt,County Treasurer,,REP,"WOHLFORTH, MONICA",118
+Gila,Roosevelt,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",76
+Gila,Roosevelt,County Treasurer,,,Write-In Totals,0
+Gila,Roosevelt,County School Superintendent,,REP,"SANDOVAL, ROY",161
+Gila,Roosevelt,County School Superintendent,,,Write-In Totals,3
+Gila,Roosevelt,County Recorder,,REP,"BINGHAM, SADIE JO",169
+Gila,Roosevelt,County Recorder,,,Write-Ins,3
+Gila,Roosevelt,County Assessor,,REP,"WILLIAMS, JOSEPH",153
+Gila,Roosevelt,County Assessor,,,Write-Ins,4
+Gila,Roosevelt,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,141
+Gila,Roosevelt,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,17
+Gila,Roosevelt,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,138
+Gila,Roosevelt,"GOULD, ANDREW W., Supreme Court Justice",,,No,19
+Gila,Roosevelt,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,134
+Gila,Roosevelt,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,22
+Gila,Roosevelt,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,136
+Gila,Roosevelt,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,19
+Gila,Roosevelt,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,127
+Gila,Roosevelt,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,27
+Gila,Roosevelt,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",138
+Gila,Roosevelt,Judge of the Superior Court Div. 1,,,Write-Ins,4
+Gila,Roosevelt,PROPOSITION 207,,,Yes,111
+Gila,Roosevelt,PROPOSITION 207,,,No,82
+Gila,Roosevelt,PROPOSITION 208,,,Yes,75
+Gila,Roosevelt,PROPOSITION 208,,,No,120
+Gila,Sierra Ancha,Registered Voters,,,,162
+Gila,Sierra Ancha,Ballots Cast,,,,131
+Gila,Sierra Ancha,President,,REP,TRUMP PENCE,106
+Gila,Sierra Ancha,President,,DEM,BIDEN HARRIS,20
+Gila,Sierra Ancha,President,,LBT,JORGENSEN COHEN,1
+Gila,Sierra Ancha,President,,,Write-Ins,1
+Gila,Sierra Ancha,U.S. Senate,,REP,"MCSALLY, MARTHA",101
+Gila,Sierra Ancha,U.S. Senate,,DEM,"KELLY, MARK",25
+Gila,Sierra Ancha,U.S. Senate,,,Write-Ins,1
+Gila,Sierra Ancha,U.S. House,4,REP,"GOSAR, PAUL",106
+Gila,Sierra Ancha,U.S. House,4,DEM,"DISANTO, DELINA",22
+Gila,Sierra Ancha,U.S. House,4,,Write-Ins,0
+Gila,Sierra Ancha,State Senate,6,REP,"ROGERS, WENDY",102
+Gila,Sierra Ancha,State Senate,6,DEM,"FRENCH, FELICIA",24
+Gila,Sierra Ancha,State Senate,6,,Write-Ins,0
+Gila,Sierra Ancha,State House,6,REP,"BARTON, BRENDA",86
+Gila,Sierra Ancha,State House,6,REP,"BLACKMAN, WALTER WALT",89
+Gila,Sierra Ancha,State House,6,DEM,"EVANS, CORAL J",19
+Gila,Sierra Ancha,State House,6,IND,"IND BABBOTT, ART",21
+Gila,Sierra Ancha,State House,6,,Write-Ins,0
+Gila,Sierra Ancha,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",81
+Gila,Sierra Ancha,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",98
+Gila,Sierra Ancha,Corporation Commissioner,,REP,"SLOAN, ERIC",78
+Gila,Sierra Ancha,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",17
+Gila,Sierra Ancha,Corporation Commissioner,,DEM,"STANFIELD, SHEA",17
+Gila,Sierra Ancha,Corporation Commissioner,,DEM,"TOVAR, ANNA",22
+Gila,Sierra Ancha,Corporation Commissioner,,,Write-In Totals,0
+Gila,Sierra Ancha,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",108
+Gila,Sierra Ancha,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",20
+Gila,Sierra Ancha,Board of Supervisors District 2,,,Write-In Totals,0
+Gila,Sierra Ancha,County Attorney,,REP,"BEAUCHAMP, BRADLEY",104
+Gila,Sierra Ancha,County Attorney,,,Write-In Totals,0
+Gila,Sierra Ancha,Sheriff,,REP,"SHEPHERD, ADAM",85
+Gila,Sierra Ancha,Sheriff,,DEM,"BENDER, CHRISTOPHER",36
+Gila,Sierra Ancha,Sheriff,,,Write-In Totals,0
+Gila,Sierra Ancha,County Treasurer,,REP,"WOHLFORTH, MONICA",79
+Gila,Sierra Ancha,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",45
+Gila,Sierra Ancha,County Treasurer,,,Write-In Totals,0
+Gila,Sierra Ancha,County School Superintendent,,REP,"SANDOVAL, ROY",105
+Gila,Sierra Ancha,County School Superintendent,,,Write-In Totals,0
+Gila,Sierra Ancha,County Recorder,,REP,"BINGHAM, SADIE JO",105
+Gila,Sierra Ancha,County Recorder,,,Write-Ins,0
+Gila,Sierra Ancha,County Assessor,,REP,"WILLIAMS, JOSEPH",101
+Gila,Sierra Ancha,County Assessor,,,Write-Ins,1
+Gila,Sierra Ancha,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,92
+Gila,Sierra Ancha,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,14
+Gila,Sierra Ancha,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,85
+Gila,Sierra Ancha,"GOULD, ANDREW W., Supreme Court Justice",,,No,21
+Gila,Sierra Ancha,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,84
+Gila,Sierra Ancha,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,19
+Gila,Sierra Ancha,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,87
+Gila,Sierra Ancha,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,16
+Gila,Sierra Ancha,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,78
+Gila,Sierra Ancha,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,23
+Gila,Sierra Ancha,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",97
+Gila,Sierra Ancha,Judge of the Superior Court Div. 1,,,Write-Ins,1
+Gila,Sierra Ancha,Board Member Globe Unified School District #1,,,"BROWN-QUINTERO, LISA",0
+Gila,Sierra Ancha,Board Member Globe Unified School District #1,,,"CARLSON, CHRISTINE",0
+Gila,Sierra Ancha,Board Member Globe Unified School District #1,,,"HERNANDEZ, ANTHONY",0
+Gila,Sierra Ancha,Board Member Globe Unified School District #1,,,"SANDERS, JACQUE",0
+Gila,Sierra Ancha,Board Member Globe Unified School District #1,,,Write-Ins,0
+Gila,Sierra Ancha,PROPOSITION 207,,,Yes,74
+Gila,Sierra Ancha,PROPOSITION 207,,,No,49
+Gila,Sierra Ancha,PROPOSITION 208,,,Yes,27
+Gila,Sierra Ancha,PROPOSITION 208,,,No,97
+Gila,Tonto Basin,Registered Voters,,,,1293
+Gila,Tonto Basin,Ballots Cast,,,,1140
+Gila,Tonto Basin,President,,REP,TRUMP PENCE,906
+Gila,Tonto Basin,President,,DEM,BIDEN HARRIS,209
+Gila,Tonto Basin,President,,LBT,JORGENSEN COHEN,5
+Gila,Tonto Basin,President,,,Write-Ins,0
+Gila,Tonto Basin,U.S. Senate,,REP,"MCSALLY, MARTHA",875
+Gila,Tonto Basin,U.S. Senate,,DEM,"KELLY, MARK",245
+Gila,Tonto Basin,U.S. Senate,,,Write-Ins,2
+Gila,Tonto Basin,U.S. House,4,REP,"GOSAR, PAUL",897
+Gila,Tonto Basin,U.S. House,4,DEM,"DISANTO, DELINA",208
+Gila,Tonto Basin,U.S. House,4,,Write-Ins,0
+Gila,Tonto Basin,State Senate,6,REP,"ROGERS, WENDY",895
+Gila,Tonto Basin,State Senate,6,DEM,"FRENCH, FELICIA",208
+Gila,Tonto Basin,State Senate,6,,Write-Ins,2
+Gila,Tonto Basin,State House,6,REP,"BARTON, BRENDA",757
+Gila,Tonto Basin,State House,6,REP,"BLACKMAN, WALTER WALT",834
+Gila,Tonto Basin,State House,6,DEM,"EVANS, CORAL J",198
+Gila,Tonto Basin,State House,6,IND,"IND BABBOTT, ART",151
+Gila,Tonto Basin,State House,6,,Write-Ins,0
+Gila,Tonto Basin,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",723
+Gila,Tonto Basin,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",749
+Gila,Tonto Basin,Corporation Commissioner,,REP,"SLOAN, ERIC",761
+Gila,Tonto Basin,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",194
+Gila,Tonto Basin,Corporation Commissioner,,DEM,"STANFIELD, SHEA",180
+Gila,Tonto Basin,Corporation Commissioner,,DEM,"TOVAR, ANNA",215
+Gila,Tonto Basin,Corporation Commissioner,,,Write-In Totals,2
+Gila,Tonto Basin,Board of Supervisors District 2,,REP,"HUMPHREY, TIM",892
+Gila,Tonto Basin,Board of Supervisors District 2,,DEM,"BARCÓN, FRED",203
+Gila,Tonto Basin,Board of Supervisors District 2,,,Write-In Totals,1
+Gila,Tonto Basin,County Attorney,,REP,"BEAUCHAMP, BRADLEY",919
+Gila,Tonto Basin,County Attorney,,,Write-In Totals,4
+Gila,Tonto Basin,Sheriff,,REP,"SHEPHERD, ADAM",873
+Gila,Tonto Basin,Sheriff,,DEM,"BENDER, CHRISTOPHER",232
+Gila,Tonto Basin,Sheriff,,,Write-In Totals,3
+Gila,Tonto Basin,County Treasurer,,REP,"WOHLFORTH, MONICA",801
+Gila,Tonto Basin,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",300
+Gila,Tonto Basin,County Treasurer,,,Write-In Totals,0
+Gila,Tonto Basin,County School Superintendent,,REP,"SANDOVAL, ROY",956
+Gila,Tonto Basin,County School Superintendent,,,Write-In Totals,9
+Gila,Tonto Basin,County Recorder,,REP,"BINGHAM, SADIE JO",950
+Gila,Tonto Basin,County Recorder,,,Write-Ins,3
+Gila,Tonto Basin,County Assessor,,REP,"WILLIAMS, JOSEPH",920
+Gila,Tonto Basin,County Assessor,,,Write-Ins,5
+Gila,Tonto Basin,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,756
+Gila,Tonto Basin,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,144
+Gila,Tonto Basin,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,737
+Gila,Tonto Basin,"GOULD, ANDREW W., Supreme Court Justice",,,No,156
+Gila,Tonto Basin,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,712
+Gila,Tonto Basin,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,178
+Gila,Tonto Basin,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,724
+Gila,Tonto Basin,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,153
+Gila,Tonto Basin,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,669
+Gila,Tonto Basin,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,207
+Gila,Tonto Basin,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",818
+Gila,Tonto Basin,Judge of the Superior Court Div. 1,,,Write-Ins,13
+Gila,Tonto Basin,PROPOSITION 207,,,Yes,532
+Gila,Tonto Basin,PROPOSITION 207,,,No,516
+Gila,Tonto Basin,PROPOSITION 208,,,Yes,338
+Gila,Tonto Basin,PROPOSITION 208,,,No,719
+Gila,Whispering Pines,Registered Voters,,,,249
+Gila,Whispering Pines,Ballots Cast,,,,224
+Gila,Whispering Pines,President,,REP,TRUMP PENCE,165
+Gila,Whispering Pines,President,,DEM,BIDEN HARRIS,52
+Gila,Whispering Pines,President,,LBT,JORGENSEN COHEN,1
+Gila,Whispering Pines,President,,,Write-Ins,5
+Gila,Whispering Pines,U.S. Senate,,REP,"MCSALLY, MARTHA",162
+Gila,Whispering Pines,U.S. Senate,,DEM,"KELLY, MARK",60
+Gila,Whispering Pines,U.S. Senate,,,Write-Ins,0
+Gila,Whispering Pines,U.S. House,4,REP,"GOSAR, PAUL",170
+Gila,Whispering Pines,U.S. House,4,DEM,"DISANTO, DELINA",49
+Gila,Whispering Pines,U.S. House,4,,Write-Ins,0
+Gila,Whispering Pines,State Senate,6,REP,"ROGERS, WENDY",169
+Gila,Whispering Pines,State Senate,6,DEM,"FRENCH, FELICIA",53
+Gila,Whispering Pines,State Senate,6,,Write-Ins,0
+Gila,Whispering Pines,State House,6,REP,"BARTON, BRENDA",140
+Gila,Whispering Pines,State House,6,REP,"BLACKMAN, WALTER WALT",160
+Gila,Whispering Pines,State House,6,DEM,"EVANS, CORAL J",53
+Gila,Whispering Pines,State House,6,IND,"IND BABBOTT, ART",39
+Gila,Whispering Pines,State House,6,,Write-Ins,0
+Gila,Whispering Pines,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",135
+Gila,Whispering Pines,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",154
+Gila,Whispering Pines,Corporation Commissioner,,REP,"SLOAN, ERIC",143
+Gila,Whispering Pines,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",47
+Gila,Whispering Pines,Corporation Commissioner,,DEM,"STANFIELD, SHEA",49
+Gila,Whispering Pines,Corporation Commissioner,,DEM,"TOVAR, ANNA",48
+Gila,Whispering Pines,Corporation Commissioner,,,Write-In Totals,0
+Gila,Whispering Pines,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",169
+Gila,Whispering Pines,Board of Supervisors District 1,,,Write-In Totals,4
+Gila,Whispering Pines,County Attorney,,REP,"BEAUCHAMP, BRADLEY",154
+Gila,Whispering Pines,County Attorney,,,Write-In Totals,1
+Gila,Whispering Pines,Sheriff,,REP,"SHEPHERD, ADAM",163
+Gila,Whispering Pines,Sheriff,,DEM,"BENDER, CHRISTOPHER",57
+Gila,Whispering Pines,Sheriff,,,Write-In Totals,0
+Gila,Whispering Pines,County Treasurer,,REP,"WOHLFORTH, MONICA",159
+Gila,Whispering Pines,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",62
+Gila,Whispering Pines,County Treasurer,,,Write-In Totals,0
+Gila,Whispering Pines,County School Superintendent,,REP,"SANDOVAL, ROY",172
+Gila,Whispering Pines,County School Superintendent,,,Write-In Totals,1
+Gila,Whispering Pines,County Recorder,,REP,"BINGHAM, SADIE JO",171
+Gila,Whispering Pines,County Recorder,,,Write-Ins,1
+Gila,Whispering Pines,County Assessor,,REP,"WILLIAMS, JOSEPH",168
+Gila,Whispering Pines,County Assessor,,,Write-Ins,1
+Gila,Whispering Pines,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,125
+Gila,Whispering Pines,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,34
+Gila,Whispering Pines,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,124
+Gila,Whispering Pines,"GOULD, ANDREW W., Supreme Court Justice",,,No,38
+Gila,Whispering Pines,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,115
+Gila,Whispering Pines,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,48
+Gila,Whispering Pines,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,122
+Gila,Whispering Pines,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,35
+Gila,Whispering Pines,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,122
+Gila,Whispering Pines,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,40
+Gila,Whispering Pines,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",135
+Gila,Whispering Pines,Judge of the Superior Court Div. 1,,,Write-Ins,0
+Gila,Whispering Pines,Board Member Rim Trail DWID,,,"DRISCOLL, J.T.",19
+Gila,Whispering Pines,Board Member Rim Trail DWID,,,"MANLEY, JEFFREY",12
+Gila,Whispering Pines,Board Member Rim Trail DWID,,,"PATTERSON, MATT",11
+Gila,Whispering Pines,Board Member Rim Trail DWID,,,"REGG, WILLIAM",19
+Gila,Whispering Pines,Board Member Rim Trail DWID,,,"TANNER, JOHN",20
+Gila,Whispering Pines,Board Member Rim Trail DWID,,,Write-Ins,0
+Gila,Whispering Pines,PROPOSITION 207,,,Yes,95
+Gila,Whispering Pines,PROPOSITION 207,,,No,108
+Gila,Whispering Pines,PROPOSITION 208,,,Yes,77
+Gila,Whispering Pines,PROPOSITION 208,,,No,129
+Gila,Young,Registered Voters,,,,588
+Gila,Young,Ballots Cast,,,,501
+Gila,Young,President,,REP,TRUMP PENCE,417
+Gila,Young,President,,DEM,BIDEN HARRIS,65
+Gila,Young,President,,LBT,JORGENSEN COHEN,6
+Gila,Young,President,,,Write-Ins,1
+Gila,Young,U.S. Senate,,REP,"MCSALLY, MARTHA",417
+Gila,Young,U.S. Senate,,DEM,"KELLY, MARK",73
+Gila,Young,U.S. Senate,,,Write-Ins,1
+Gila,Young,U.S. House,4,REP,"GOSAR, PAUL",432
+Gila,Young,U.S. House,4,DEM,"DISANTO, DELINA",61
+Gila,Young,U.S. House,4,,Write-Ins,0
+Gila,Young,State Senate,6,REP,"ROGERS, WENDY",421
+Gila,Young,State Senate,6,DEM,"FRENCH, FELICIA",68
+Gila,Young,State Senate,6,,Write-Ins,0
+Gila,Young,State House,6,REP,"BARTON, BRENDA",374
+Gila,Young,State House,6,REP,"BLACKMAN, WALTER WALT",406
+Gila,Young,State House,6,DEM,"EVANS, CORAL J",63
+Gila,Young,State House,6,IND,"IND BABBOTT, ART",50
+Gila,Young,State House,6,,Write-Ins,0
+Gila,Young,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",371
+Gila,Young,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",380
+Gila,Young,Corporation Commissioner,,REP,"SLOAN, ERIC",362
+Gila,Young,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",62
+Gila,Young,Corporation Commissioner,,DEM,"STANFIELD, SHEA",55
+Gila,Young,Corporation Commissioner,,DEM,"TOVAR, ANNA",63
+Gila,Young,Corporation Commissioner,,,Write-In Totals,1
+Gila,Young,Board of Supervisors District 3,,REP,"CLINE, WOODY",447
+Gila,Young,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",43
+Gila,Young,Board of Supervisors District 3,,,Write-In Totals,0
+Gila,Young,County Attorney,,REP,"BEAUCHAMP, BRADLEY",426
+Gila,Young,County Attorney,,,Write-In Totals,2
+Gila,Young,Sheriff,,REP,"SHEPHERD, ADAM",389
+Gila,Young,Sheriff,,DEM,"BENDER, CHRISTOPHER",92
+Gila,Young,Sheriff,,,Write-In Totals,2
+Gila,Young,County Treasurer,,REP,"WOHLFORTH, MONICA",364
+Gila,Young,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",107
+Gila,Young,County Treasurer,,,Write-In Totals,0
+Gila,Young,County School Superintendent,,REP,"SANDOVAL, ROY",418
+Gila,Young,County School Superintendent,,,Write-In Totals,8
+Gila,Young,County Recorder,,REP,"BINGHAM, SADIE JO",439
+Gila,Young,County Recorder,,,Write-Ins,0
+Gila,Young,County Assessor,,REP,"WILLIAMS, JOSEPH",425
+Gila,Young,County Assessor,,,Write-Ins,0
+Gila,Young,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,339
+Gila,Young,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,53
+Gila,Young,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,334
+Gila,Young,"GOULD, ANDREW W., Supreme Court Justice",,,No,49
+Gila,Young,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,325
+Gila,Young,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,61
+Gila,Young,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,316
+Gila,Young,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,63
+Gila,Young,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,290
+Gila,Young,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,94
+Gila,Young,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",359
+Gila,Young,Judge of the Superior Court Div. 1,,,Write-Ins,2
+Gila,Young,PROPOSITION 207,,,Yes,218
+Gila,Young,PROPOSITION 207,,,No,246
+Gila,Young,PROPOSITION 208,,,Yes,124
+Gila,Young,PROPOSITION 208,,,No,344
+Gila,Zane Grey,Registered Voters,,,,632
+Gila,Zane Grey,Ballots Cast,,,,553
+Gila,Zane Grey,President,,REP,TRUMP PENCE,381
+Gila,Zane Grey,President,,DEM,BIDEN HARRIS,159
+Gila,Zane Grey,President,,LBT,JORGENSEN COHEN,6
+Gila,Zane Grey,President,,,Write-Ins,1
+Gila,Zane Grey,U.S. Senate,,REP,"MCSALLY, MARTHA",370
+Gila,Zane Grey,U.S. Senate,,DEM,"KELLY, MARK",171
+Gila,Zane Grey,U.S. Senate,,,Write-Ins,2
+Gila,Zane Grey,U.S. House,4,REP,"GOSAR, PAUL",380
+Gila,Zane Grey,U.S. House,4,DEM,"DISANTO, DELINA",153
+Gila,Zane Grey,U.S. House,4,,Write-Ins,1
+Gila,Zane Grey,State Senate,6,REP,"ROGERS, WENDY",385
+Gila,Zane Grey,State Senate,6,DEM,"FRENCH, FELICIA",150
+Gila,Zane Grey,State Senate,6,,Write-Ins,0
+Gila,Zane Grey,State House,6,REP,"BARTON, BRENDA",334
+Gila,Zane Grey,State House,6,REP,"BLACKMAN, WALTER WALT",362
+Gila,Zane Grey,State House,6,DEM,"EVANS, CORAL J",138
+Gila,Zane Grey,State House,6,IND,"IND BABBOTT, ART",109
+Gila,Zane Grey,State House,6,,Write-Ins,0
+Gila,Zane Grey,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",309
+Gila,Zane Grey,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",346
+Gila,Zane Grey,Corporation Commissioner,,REP,"SLOAN, ERIC",318
+Gila,Zane Grey,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",150
+Gila,Zane Grey,Corporation Commissioner,,DEM,"STANFIELD, SHEA",125
+Gila,Zane Grey,Corporation Commissioner,,DEM,"TOVAR, ANNA",143
+Gila,Zane Grey,Corporation Commissioner,,,Write-In Totals,0
+Gila,Zane Grey,Board of Supervisors District 1,,REP,"MARTIN, TOMMIE CLINE",424
+Gila,Zane Grey,Board of Supervisors District 1,,,Write-In Totals,2
+Gila,Zane Grey,County Attorney,,REP,"BEAUCHAMP, BRADLEY",384
+Gila,Zane Grey,County Attorney,,,Write-In Totals,3
+Gila,Zane Grey,Sheriff,,REP,"SHEPHERD, ADAM",400
+Gila,Zane Grey,Sheriff,,DEM,"BENDER, CHRISTOPHER",120
+Gila,Zane Grey,Sheriff,,,Write-In Totals,1
+Gila,Zane Grey,County Treasurer,,REP,"WOHLFORTH, MONICA",340
+Gila,Zane Grey,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",172
+Gila,Zane Grey,County Treasurer,,,Write-In Totals,0
+Gila,Zane Grey,County School Superintendent,,REP,"SANDOVAL, ROY",415
+Gila,Zane Grey,County School Superintendent,,,Write-In Totals,1
+Gila,Zane Grey,County Recorder,,REP,"BINGHAM, SADIE JO",414
+Gila,Zane Grey,County Recorder,,,Write-Ins,0
+Gila,Zane Grey,County Assessor,,REP,"WILLIAMS, JOSEPH",404
+Gila,Zane Grey,County Assessor,,,Write-Ins,1
+Gila,Zane Grey,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,312
+Gila,Zane Grey,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,73
+Gila,Zane Grey,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,323
+Gila,Zane Grey,"GOULD, ANDREW W., Supreme Court Justice",,,No,69
+Gila,Zane Grey,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,308
+Gila,Zane Grey,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,80
+Gila,Zane Grey,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,302
+Gila,Zane Grey,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,79
+Gila,Zane Grey,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,291
+Gila,Zane Grey,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,88
+Gila,Zane Grey,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",329
+Gila,Zane Grey,Judge of the Superior Court Div. 1,,,Write-Ins,2
+Gila,Zane Grey,PROPOSITION 207,,,Yes,270
+Gila,Zane Grey,PROPOSITION 207,,,No,260
+Gila,Zane Grey,PROPOSITION 208,,,Yes,172
+Gila,Zane Grey,PROPOSITION 208,,,No,362
+Gila,Canyon Day,Registered Voters,,,,448
+Gila,Canyon Day,Ballots Cast,,,,321
+Gila,Canyon Day,President,,REP,TRUMP PENCE,47
+Gila,Canyon Day,President,,DEM,BIDEN HARRIS,264
+Gila,Canyon Day,President,,LBT,JORGENSEN COHEN,1
+Gila,Canyon Day,President,,,Write-Ins,0
+Gila,Canyon Day,U.S. Senate,,REP,"MCSALLY, MARTHA",42
+Gila,Canyon Day,U.S. Senate,,DEM,"KELLY, MARK",274
+Gila,Canyon Day,U.S. Senate,,,Write-Ins,1
+Gila,Canyon Day,U.S. House,1,REP,"SHEDD, TIFFANY",26
+Gila,Canyon Day,U.S. House,1,DEM,"O'HALLERAN, TOM",288
+Gila,Canyon Day,U.S. House,1,,Write-Ins,1
+Gila,Canyon Day,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",272
+Gila,Canyon Day,State Senate,7,,Write-Ins,4
+Gila,Canyon Day,State House,7,REP,"PARKS, JAMES ""JIM""",23
+Gila,Canyon Day,State House,7,REP,"PEELMAN, DAVID",25
+Gila,Canyon Day,State House,7,DEM,"TELLER, ARLANDO",225
+Gila,Canyon Day,State House,7,DEM,"TSOSIE, MYRON",270
+Gila,Canyon Day,State House,7,,Write-Ins,1
+Gila,Canyon Day,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",23
+Gila,Canyon Day,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",30
+Gila,Canyon Day,Corporation Commissioner,,REP,"SLOAN, ERIC",25
+Gila,Canyon Day,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",229
+Gila,Canyon Day,Corporation Commissioner,,DEM,"STANFIELD, SHEA",229
+Gila,Canyon Day,Corporation Commissioner,,DEM,"TOVAR, ANNA",227
+Gila,Canyon Day,Corporation Commissioner,,,Write-In Totals,1
+Gila,Canyon Day,Board of Supervisors District 3,,REP,"CLINE, WOODY",34
+Gila,Canyon Day,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",278
+Gila,Canyon Day,Board of Supervisors District 3,,,Write-In Totals,2
+Gila,Canyon Day,County Attorney,,REP,"BEAUCHAMP, BRADLEY",135
+Gila,Canyon Day,County Attorney,,,Write-In Totals,9
+Gila,Canyon Day,Sheriff,,REP,"SHEPHERD, ADAM",30
+Gila,Canyon Day,Sheriff,,DEM,"BENDER, CHRISTOPHER",277
+Gila,Canyon Day,Sheriff,,,Write-In Totals,2
+Gila,Canyon Day,County Treasurer,,REP,"WOHLFORTH, MONICA",29
+Gila,Canyon Day,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",275
+Gila,Canyon Day,County Treasurer,,,Write-In Totals,1
+Gila,Canyon Day,County School Superintendent,,REP,"SANDOVAL, ROY",164
+Gila,Canyon Day,County School Superintendent,,,Write-In Totals,12
+Gila,Canyon Day,County Recorder,,REP,"BINGHAM, SADIE JO",168
+Gila,Canyon Day,County Recorder,,,Write-Ins,10
+Gila,Canyon Day,County Assessor,,REP,"WILLIAMS, JOSEPH",168
+Gila,Canyon Day,County Assessor,,,Write-Ins,13
+Gila,Canyon Day,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,204
+Gila,Canyon Day,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,58
+Gila,Canyon Day,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,201
+Gila,Canyon Day,"GOULD, ANDREW W., Supreme Court Justice",,,No,56
+Gila,Canyon Day,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,205
+Gila,Canyon Day,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,54
+Gila,Canyon Day,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,201
+Gila,Canyon Day,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,56
+Gila,Canyon Day,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,211
+Gila,Canyon Day,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,51
+Gila,Canyon Day,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",203
+Gila,Canyon Day,Judge of the Superior Court Div. 1,,,Write-Ins,6
+Gila,Canyon Day,PROPOSITION 207,,,Yes,134
+Gila,Canyon Day,PROPOSITION 207,,,No,139
+Gila,Canyon Day,PROPOSITION 208,,,Yes,167
+Gila,Canyon Day,PROPOSITION 208,,,No,107
+Gila,Carrizo,Registered Voters,,,,39
+Gila,Carrizo,Ballots Cast,,,,14
+Gila,Carrizo,President,,REP,TRUMP PENCE,2
+Gila,Carrizo,President,,DEM,BIDEN HARRIS,12
+Gila,Carrizo,President,,LBT,JORGENSEN COHEN,0
+Gila,Carrizo,President,,,Write-Ins,0
+Gila,Carrizo,U.S. Senate,,REP,"MCSALLY, MARTHA",1
+Gila,Carrizo,U.S. Senate,,DEM,"KELLY, MARK",13
+Gila,Carrizo,U.S. Senate,,,Write-Ins,0
+Gila,Carrizo,U.S. House,1,REP,"SHEDD, TIFFANY",1
+Gila,Carrizo,U.S. House,1,DEM,"O'HALLERAN, TOM",13
+Gila,Carrizo,U.S. House,1,,Write-Ins,0
+Gila,Carrizo,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",12
+Gila,Carrizo,State Senate,7,,Write-Ins,0
+Gila,Carrizo,State House,7,REP,"PARKS, JAMES ""JIM""",1
+Gila,Carrizo,State House,7,REP,"PEELMAN, DAVID",0
+Gila,Carrizo,State House,7,DEM,"TELLER, ARLANDO",5
+Gila,Carrizo,State House,7,DEM,"TSOSIE, MYRON",13
+Gila,Carrizo,State House,7,,Write-Ins,0
+Gila,Carrizo,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",1
+Gila,Carrizo,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",1
+Gila,Carrizo,Corporation Commissioner,,REP,"SLOAN, ERIC",0
+Gila,Carrizo,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",7
+Gila,Carrizo,Corporation Commissioner,,DEM,"STANFIELD, SHEA",8
+Gila,Carrizo,Corporation Commissioner,,DEM,"TOVAR, ANNA",4
+Gila,Carrizo,Corporation Commissioner,,,Write-In Totals,0
+Gila,Carrizo,Board of Supervisors District 3,,REP,"CLINE, WOODY",1
+Gila,Carrizo,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",13
+Gila,Carrizo,Board of Supervisors District 3,,,Write-In Totals,0
+Gila,Carrizo,County Attorney,,REP,"BEAUCHAMP, BRADLEY",7
+Gila,Carrizo,County Attorney,,,Write-In Totals,0
+Gila,Carrizo,Sheriff,,REP,"SHEPHERD, ADAM",2
+Gila,Carrizo,Sheriff,,DEM,"BENDER, CHRISTOPHER",11
+Gila,Carrizo,Sheriff,,,Write-In Totals,0
+Gila,Carrizo,County Treasurer,,REP,"WOHLFORTH, MONICA",2
+Gila,Carrizo,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",12
+Gila,Carrizo,County Treasurer,,,Write-In Totals,0
+Gila,Carrizo,County School Superintendent,,REP,"SANDOVAL, ROY",8
+Gila,Carrizo,County School Superintendent,,,Write-In Totals,0
+Gila,Carrizo,County Recorder,,REP,"BINGHAM, SADIE JO",9
+Gila,Carrizo,County Recorder,,,Write-Ins,0
+Gila,Carrizo,County Assessor,,REP,"WILLIAMS, JOSEPH",8
+Gila,Carrizo,County Assessor,,,Write-Ins,0
+Gila,Carrizo,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,8
+Gila,Carrizo,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,4
+Gila,Carrizo,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,9
+Gila,Carrizo,"GOULD, ANDREW W., Supreme Court Justice",,,No,3
+Gila,Carrizo,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,9
+Gila,Carrizo,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,3
+Gila,Carrizo,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,9
+Gila,Carrizo,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,2
+Gila,Carrizo,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,9
+Gila,Carrizo,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,2
+Gila,Carrizo,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",10
+Gila,Carrizo,Judge of the Superior Court Div. 1,,,Write-Ins,0
+Gila,Carrizo,PROPOSITION 207,,,Yes,5
+Gila,Carrizo,PROPOSITION 207,,,No,1
+Gila,Carrizo,PROPOSITION 208,,,Yes,5
+Gila,Carrizo,PROPOSITION 208,,,No,6
+Gila,San Carlos,Registered Voters,,,,2550
+Gila,San Carlos,Ballots Cast,,,,1577
+Gila,San Carlos,President,,REP,TRUMP PENCE,260
+Gila,San Carlos,President,,DEM,BIDEN HARRIS,1265
+Gila,San Carlos,President,,LBT,JORGENSEN COHEN,15
+Gila,San Carlos,President,,,Write-Ins,6
+Gila,San Carlos,U.S. Senate,,REP,"MCSALLY, MARTHA",293
+Gila,San Carlos,U.S. Senate,,DEM,"KELLY, MARK",1258
+Gila,San Carlos,U.S. Senate,,,Write-Ins,3
+Gila,San Carlos,U.S. House,1,REP,"SHEDD, TIFFANY",250
+Gila,San Carlos,U.S. House,1,DEM,"O'HALLERAN, TOM",1271
+Gila,San Carlos,U.S. House,1,,Write-Ins,1
+Gila,San Carlos,State Senate,7,DEM,"PESHLAKAI, JAMESCITA",1348
+Gila,San Carlos,State Senate,7,,Write-Ins,9
+Gila,San Carlos,State House,7,REP,"PARKS, JAMES ""JIM""",178
+Gila,San Carlos,State House,7,REP,"PEELMAN, DAVID",142
+Gila,San Carlos,State House,7,DEM,"TELLER, ARLANDO",748
+Gila,San Carlos,State House,7,DEM,"TSOSIE, MYRON",1232
+Gila,San Carlos,State House,7,,Write-Ins,1
+Gila,San Carlos,Corporation Commissioner,,REP,"MARQUEZ PETERSON, LEA",178
+Gila,San Carlos,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",238
+Gila,San Carlos,Corporation Commissioner,,REP,"SLOAN, ERIC",153
+Gila,San Carlos,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",806
+Gila,San Carlos,Corporation Commissioner,,DEM,"STANFIELD, SHEA",783
+Gila,San Carlos,Corporation Commissioner,,DEM,"TOVAR, ANNA",924
+Gila,San Carlos,Corporation Commissioner,,,Write-In Totals,1
+Gila,San Carlos,Board of Supervisors District 3,,REP,"CLINE, WOODY",127
+Gila,San Carlos,Board of Supervisors District 3,,DEM,"KNIFFIN, BERNADETTE ANN",1426
+Gila,San Carlos,Board of Supervisors District 3,,,Write-In Totals,1
+Gila,San Carlos,County Attorney,,REP,"BEAUCHAMP, BRADLEY",911
+Gila,San Carlos,County Attorney,,,Write-In Totals,46
+Gila,San Carlos,Sheriff,,REP,"SHEPHERD, ADAM",223
+Gila,San Carlos,Sheriff,,DEM,"BENDER, CHRISTOPHER",1304
+Gila,San Carlos,Sheriff,,,Write-In Totals,4
+Gila,San Carlos,County Treasurer,,REP,"WOHLFORTH, MONICA",233
+Gila,San Carlos,County Treasurer,,DEM,"SAVAGE, DEBORA ""DEBI""",1252
+Gila,San Carlos,County Treasurer,,,Write-In Totals,3
+Gila,San Carlos,County School Superintendent,,REP,"SANDOVAL, ROY",1073
+Gila,San Carlos,County School Superintendent,,,Write-In Totals,55
+Gila,San Carlos,County Recorder,,REP,"BINGHAM, SADIE JO",1079
+Gila,San Carlos,County Recorder,,,Write-Ins,51
+Gila,San Carlos,County Assessor,,REP,"WILLIAMS, JOSEPH",1045
+Gila,San Carlos,County Assessor,,,Write-Ins,57
+Gila,San Carlos,"BRUTINEL, ROBERT, Supreme Court Justice",,,Yes,940
+Gila,San Carlos,"BRUTINEL, ROBERT, Supreme Court Justice",,,No,384
+Gila,San Carlos,"GOULD, ANDREW W., Supreme Court Justice",,,Yes,930
+Gila,San Carlos,"GOULD, ANDREW W., Supreme Court Justice",,,No,376
+Gila,San Carlos,"LOPEZ IV, JOHN, Supreme Court Justice",,,Yes,1036
+Gila,San Carlos,"LOPEZ IV, JOHN, Supreme Court Justice",,,No,291
+Gila,San Carlos,"EPPICH, KARL, Appeals Court Judge Div. 2",,,Yes,945
+Gila,San Carlos,"EPPICH, KARL, Appeals Court Judge Div. 2",,,No,368
+Gila,San Carlos,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,Yes,1004
+Gila,San Carlos,"VASQUEZ, GARYE, Appeals Court Judge Div. 2",,,No,311
+Gila,San Carlos,Judge of the Superior Court Div. 1,,,"CHAMBERS, BRYAN B.",1166
+Gila,San Carlos,Judge of the Superior Court Div. 1,,,Write-Ins,30
+Gila,San Carlos,PROPOSITION 207,,,Yes,834
+Gila,San Carlos,PROPOSITION 207,,,No,561
+Gila,San Carlos,PROPOSITION 208,,,Yes,892
+Gila,San Carlos,PROPOSITION 208,,,No,529
