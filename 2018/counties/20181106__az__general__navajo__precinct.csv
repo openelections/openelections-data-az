@@ -1,1257 +1,1257 @@
-county,precinct,office,district,candidate,party,votes,election_day,early_voting,late_early_voting,provisional,
-Navajo,RED BUTTE,Registered Voters,,,,11971,0,0,0,0, 
-Navajo,PAINTED DESERT,Registered Voters,,,,1511,0,0,0,0, 
-Navajo,HUBBELL,Registered Voters,,,,236,0,0,0,0, 
-Navajo,BLACK BUTTES,Registered Voters,,,,8772,0,0,0,0, 
-Navajo,CEDAR VALLEY,Registered Voters,,,,1904,0,0,0,0, 
-Navajo,STONE BUTTE,Registered Voters,,,,757,0,0,0,0, 
-Navajo,PIONEER,Registered Voters,,,,7328,0,0,0,0, 
-Navajo,ANTELOPE,Registered Voters,,,,3533,0,0,0,0, 
-Navajo,JUNIPER,Registered Voters,,,,1516,0,0,0,0, 
-Navajo,BISON,Registered Voters,,,,953,0,0,0,0, 
-Navajo,MOGOLLON,Registered Voters,,,,2807,0,0,0,0, 
-Navajo,WOODLAND,Registered Voters,,,,1209,0,0,0,0, 
-Navajo,SITGREAVES,Registered Voters,,,,8408,0,0,0,0, 
-Navajo,SUNRISE,Registered Voters,,,,12129,0,0,0,0, 
-Navajo,RED BUTTE,Ballots Cast,,,,5405,3490,1584,275,56, 
-Navajo,PAINTED DESERT,Ballots Cast,,,,815,552,220,32,11, 
-Navajo,HUBBELL,Ballots Cast,,,,189,94,79,16,0, 
-Navajo,BLACK BUTTES,Ballots Cast,,,,4437,1995,2016,361,65, 
-Navajo,CEDAR VALLEY,Ballots Cast,,,,986,663,261,39,23, 
-Navajo,STONE BUTTE,Ballots Cast,,,,424,354,61,9,0, 
-Navajo,PIONEER,Ballots Cast,,,,5131,1886,2613,600,32, 
-Navajo,ANTELOPE,Ballots Cast,,,,2235,877,1135,200,23, 
-Navajo,JUNIPER,Ballots Cast,,,,996,234,688,73,1, 
-Navajo,BISON,Ballots Cast,,,,729,264,378,85,2, 
-Navajo,MOGOLLON,Ballots Cast,,,,2149,460,1516,169,4, 
-Navajo,WOODLAND,Ballots Cast,,,,811,228,476,97,10, 
-Navajo,SITGREAVES,Ballots Cast,,,,5988,1446,3943,575,24, 
-Navajo,SUNRISE,Ballots Cast,,,,6881,2611,3632,535,103, 
-Navajo,RED BUTTE,BALLOTS CAST - BLANK,,,,3,3,0,0,0, 
-Navajo,PAINTED DESERT,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,HUBBELL,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,BALLOTS CAST - BLANK,,,,1,0,1,0,0, 
-Navajo,CEDAR VALLEY,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,STONE BUTTE,BALLOTS CAST - BLANK,,,,1,1,0,0,0, 
-Navajo,PIONEER,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,ANTELOPE,BALLOTS CAST - BLANK,,,,40,16,17,6,1, 
-Navajo,JUNIPER,BALLOTS CAST - BLANK,,,,1,1,0,0,0, 
-Navajo,BISON,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,MOGOLLON,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,WOODLAND,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,SITGREAVES,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,SUNRISE,BALLOTS CAST - BLANK,,,,0,0,0,0,0, 
-Navajo,RED BUTTE,U.S. Senate,,"MCSALLY, MARTHA",REP,742,491,201,44,6, 
-Navajo,PAINTED DESERT,U.S. Senate,,"MCSALLY, MARTHA",REP,154,87,55,12,0, 
-Navajo,HUBBELL,U.S. Senate,,"MCSALLY, MARTHA",REP,96,40,50,6,0, 
-Navajo,BLACK BUTTES,U.S. Senate,,"MCSALLY, MARTHA",REP,1143,419,587,122,15, 
-Navajo,CEDAR VALLEY,U.S. Senate,,"MCSALLY, MARTHA",REP,126,93,30,3,0, 
-Navajo,STONE BUTTE,U.S. Senate,,"MCSALLY, MARTHA",REP,42,33,7,2,0, 
-Navajo,PIONEER,U.S. Senate,,"MCSALLY, MARTHA",REP,4217,1618,2066,504,29, 
-Navajo,ANTELOPE,U.S. Senate,,"MCSALLY, MARTHA",REP,1303,555,615,122,11, 
-Navajo,JUNIPER,U.S. Senate,,"MCSALLY, MARTHA",REP,688,167,470,50,1, 
-Navajo,BISON,U.S. Senate,,"MCSALLY, MARTHA",REP,593,228,298,65,2, 
-Navajo,MOGOLLON,U.S. Senate,,"MCSALLY, MARTHA",REP,1556,373,1045,137,1, 
-Navajo,WOODLAND,U.S. Senate,,"MCSALLY, MARTHA",REP,558,174,306,69,9, 
-Navajo,SITGREAVES,U.S. Senate,,"MCSALLY, MARTHA",REP,4286,1139,2709,419,19, 
-Navajo,SUNRISE,U.S. Senate,,"MCSALLY, MARTHA",REP,3263,887,2055,300,21, 
-Navajo,RED BUTTE,U.S. Senate,,"SINEMA, KYRSTEN",DEM,4300,2768,1271,217,44, 
-Navajo,PAINTED DESERT,U.S. Senate,,"SINEMA, KYRSTEN",DEM,625,443,153,19,10, 
-Navajo,HUBBELL,U.S. Senate,,"SINEMA, KYRSTEN",DEM,81,48,26,7,0, 
-Navajo,BLACK BUTTES,U.S. Senate,,"SINEMA, KYRSTEN",DEM,3069,1478,1324,219,48, 
-Navajo,CEDAR VALLEY,U.S. Senate,,"SINEMA, KYRSTEN",DEM,797,518,220,36,23, 
-Navajo,STONE BUTTE,U.S. Senate,,"SINEMA, KYRSTEN",DEM,351,299,45,7,0, 
-Navajo,PIONEER,U.S. Senate,,"SINEMA, KYRSTEN",DEM,705,209,427,66,3, 
-Navajo,ANTELOPE,U.S. Senate,,"SINEMA, KYRSTEN",DEM,775,271,427,67,10, 
-Navajo,JUNIPER,U.S. Senate,,"SINEMA, KYRSTEN",DEM,265,56,191,18,0, 
-Navajo,BISON,U.S. Senate,,"SINEMA, KYRSTEN",DEM,112,24,70,18,0, 
-Navajo,MOGOLLON,U.S. Senate,,"SINEMA, KYRSTEN",DEM,513,75,410,25,3, 
-Navajo,WOODLAND,U.S. Senate,,"SINEMA, KYRSTEN",DEM,218,48,148,21,1, 
-Navajo,SITGREAVES,U.S. Senate,,"SINEMA, KYRSTEN",DEM,1464,256,1080,125,3, 
-Navajo,SUNRISE,U.S. Senate,,"SINEMA, KYRSTEN",DEM,3349,1634,1435,205,75, 
-Navajo,RED BUTTE,U.S. Senate,,"GREEN, ANGELA",GRN,244,143,85,10,6, 
-Navajo,PAINTED DESERT,U.S. Senate,,"GREEN, ANGELA",GRN,24,15,8,1,0, 
-Navajo,HUBBELL,U.S. Senate,,"GREEN, ANGELA",GRN,8,5,3,0,0, 
-Navajo,BLACK BUTTES,U.S. Senate,,"GREEN, ANGELA",GRN,163,68,80,13,2, 
-Navajo,CEDAR VALLEY,U.S. Senate,,"GREEN, ANGELA",GRN,44,36,8,0,0, 
-Navajo,STONE BUTTE,U.S. Senate,,"GREEN, ANGELA",GRN,19,12,7,0,0, 
-Navajo,PIONEER,U.S. Senate,,"GREEN, ANGELA",GRN,145,34,88,23,0, 
-Navajo,ANTELOPE,U.S. Senate,,"GREEN, ANGELA",GRN,115,36,71,7,1, 
-Navajo,JUNIPER,U.S. Senate,,"GREEN, ANGELA",GRN,31,8,20,3,0, 
-Navajo,BISON,U.S. Senate,,"GREEN, ANGELA",GRN,16,7,8,1,0, 
-Navajo,MOGOLLON,U.S. Senate,,"GREEN, ANGELA",GRN,58,6,46,6,0, 
-Navajo,WOODLAND,U.S. Senate,,"GREEN, ANGELA",GRN,23,5,16,2,0, 
-Navajo,SITGREAVES,U.S. Senate,,"GREEN, ANGELA",GRN,163,30,111,20,2, 
-Navajo,SUNRISE,U.S. Senate,,"GREEN, ANGELA",GRN,185,55,108,17,5, 
-Navajo,RED BUTTE,U.S. Senate,,WRITE-IN,,7,2,4,1,0, 
-Navajo,PAINTED DESERT,U.S. Senate,,WRITE-IN,,0,0,0,0,0, 
-Navajo,HUBBELL,U.S. Senate,,WRITE-IN,,1,0,0,1,0, 
-Navajo,BLACK BUTTES,U.S. Senate,,WRITE-IN,,14,7,5,2,0, 
-Navajo,CEDAR VALLEY,U.S. Senate,,WRITE-IN,,2,1,1,0,0, 
-Navajo,STONE BUTTE,U.S. Senate,,WRITE-IN,,0,0,0,0,0, 
-Navajo,PIONEER,U.S. Senate,,WRITE-IN,,5,1,3,1,0, 
-Navajo,ANTELOPE,U.S. Senate,,WRITE-IN,,8,1,5,2,0, 
-Navajo,JUNIPER,U.S. Senate,,WRITE-IN,,3,2,1,0,0, 
-Navajo,BISON,U.S. Senate,,WRITE-IN,,1,0,0,1,0, 
-Navajo,MOGOLLON,U.S. Senate,,WRITE-IN,,2,2,0,0,0, 
-Navajo,WOODLAND,U.S. Senate,,WRITE-IN,,0,0,0,0,0, 
-Navajo,SITGREAVES,U.S. Senate,,WRITE-IN,,7,3,3,1,0, 
-Navajo,SUNRISE,U.S. Senate,,WRITE-IN,,8,5,3,0,0, 
-Navajo,RED BUTTE,U.S. Senate,,OVER VOTES,,14,10,4,0,0, 
-Navajo,PAINTED DESERT,U.S. Senate,,OVER VOTES,,0,0,0,0,0, 
-Navajo,HUBBELL,U.S. Senate,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,U.S. Senate,,OVER VOTES,,6,3,3,0,0, 
-Navajo,CEDAR VALLEY,U.S. Senate,,OVER VOTES,,1,1,0,0,0, 
-Navajo,STONE BUTTE,U.S. Senate,,OVER VOTES,,1,0,1,0,0, 
-Navajo,PIONEER,U.S. Senate,,OVER VOTES,,1,1,0,0,0, 
-Navajo,ANTELOPE,U.S. Senate,,OVER VOTES,,1,1,0,0,0, 
-Navajo,JUNIPER,U.S. Senate,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,U.S. Senate,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,U.S. Senate,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,U.S. Senate,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,U.S. Senate,,OVER VOTES,,1,1,0,0,0, 
-Navajo,SUNRISE,U.S. Senate,,OVER VOTES,,3,1,1,1,0, 
-Navajo,RED BUTTE,U.S. Senate,,UNDER VOTES,,98,76,19,3,0, 
-Navajo,PAINTED DESERT,U.S. Senate,,UNDER VOTES,,12,7,4,0,1, 
-Navajo,HUBBELL,U.S. Senate,,UNDER VOTES,,3,1,0,2,0, 
-Navajo,BLACK BUTTES,U.S. Senate,,UNDER VOTES,,42,20,17,5,0, 
-Navajo,CEDAR VALLEY,U.S. Senate,,UNDER VOTES,,16,14,2,0,0, 
-Navajo,STONE BUTTE,U.S. Senate,,UNDER VOTES,,11,10,1,0,0, 
-Navajo,PIONEER,U.S. Senate,,UNDER VOTES,,58,23,29,6,0, 
-Navajo,ANTELOPE,U.S. Senate,,UNDER VOTES,,33,13,17,2,1, 
-Navajo,JUNIPER,U.S. Senate,,UNDER VOTES,,9,1,6,2,0, 
-Navajo,BISON,U.S. Senate,,UNDER VOTES,,7,5,2,0,0, 
-Navajo,MOGOLLON,U.S. Senate,,UNDER VOTES,,20,4,15,1,0, 
-Navajo,WOODLAND,U.S. Senate,,UNDER VOTES,,12,1,6,5,0, 
-Navajo,SITGREAVES,U.S. Senate,,UNDER VOTES,,67,17,40,10,0, 
-Navajo,SUNRISE,U.S. Senate,,UNDER VOTES,,73,29,30,12,2, 
-Navajo,RED BUTTE,U.S. House,1,"ROGERS, WENDY",REP,772,508,211,39,14, 
-Navajo,PAINTED DESERT,U.S. House,1,"ROGERS, WENDY",REP,147,82,57,8,0, 
-Navajo,HUBBELL,U.S. House,1,"ROGERS, WENDY",REP,80,34,43,3,0, 
-Navajo,BLACK BUTTES,U.S. House,1,"ROGERS, WENDY",REP,1114,403,583,112,16, 
-Navajo,CEDAR VALLEY,U.S. House,1,"ROGERS, WENDY",REP,133,100,27,4,2, 
-Navajo,STONE BUTTE,U.S. House,1,"ROGERS, WENDY",REP,47,37,8,2,0, 
-Navajo,PIONEER,U.S. House,1,"ROGERS, WENDY",REP,4170,1626,2017,496,31, 
-Navajo,ANTELOPE,U.S. House,1,"ROGERS, WENDY",REP,1258,535,595,117,11, 
-Navajo,JUNIPER,U.S. House,1,"ROGERS, WENDY",REP,686,167,467,51,1, 
-Navajo,BISON,U.S. House,1,"ROGERS, WENDY",REP,572,219,287,64,2, 
-Navajo,MOGOLLON,U.S. House,1,"ROGERS, WENDY",REP,1512,357,1021,132,2, 
-Navajo,WOODLAND,U.S. House,1,"ROGERS, WENDY",REP,530,165,289,67,9, 
-Navajo,SITGREAVES,U.S. House,1,"ROGERS, WENDY",REP,4175,1124,2617,415,19, 
-Navajo,SUNRISE,U.S. House,1,"ROGERS, WENDY",REP,3135,837,1993,284,21, 
-Navajo,RED BUTTE,U.S. House,1,"O'HALLERAN, TOM",DEM,4505,2880,1350,233,42, 
-Navajo,PAINTED DESERT,U.S. House,1,"O'HALLERAN, TOM",DEM,649,457,160,21,11, 
-Navajo,HUBBELL,U.S. House,1,"O'HALLERAN, TOM",DEM,100,55,35,10,0, 
-Navajo,BLACK BUTTES,U.S. House,1,"O'HALLERAN, TOM",DEM,3232,1547,1397,241,47, 
-Navajo,CEDAR VALLEY,U.S. House,1,"O'HALLERAN, TOM",DEM,835,549,231,35,20, 
-Navajo,STONE BUTTE,U.S. House,1,"O'HALLERAN, TOM",DEM,369,310,52,7,0, 
-Navajo,PIONEER,U.S. House,1,"O'HALLERAN, TOM",DEM,862,238,538,85,1, 
-Navajo,ANTELOPE,U.S. House,1,"O'HALLERAN, TOM",DEM,917,316,513,76,12, 
-Navajo,JUNIPER,U.S. House,1,"O'HALLERAN, TOM",DEM,287,64,205,18,0, 
-Navajo,BISON,U.S. House,1,"O'HALLERAN, TOM",DEM,144,41,83,20,0, 
-Navajo,MOGOLLON,U.S. House,1,"O'HALLERAN, TOM",DEM,591,94,462,33,2, 
-Navajo,WOODLAND,U.S. House,1,"O'HALLERAN, TOM",DEM,258,60,173,24,1, 
-Navajo,SITGREAVES,U.S. House,1,"O'HALLERAN, TOM",DEM,1684,294,1239,146,5, 
-Navajo,SUNRISE,U.S. House,1,"O'HALLERAN, TOM",DEM,3585,1725,1559,223,78, 
-Navajo,RED BUTTE,U.S. House,1,WRITE-IN,,14,9,5,0,0, 
-Navajo,PAINTED DESERT,U.S. House,1,WRITE-IN,,0,0,0,0,0, 
-Navajo,HUBBELL,U.S. House,1,WRITE-IN,,1,0,1,0,0, 
-Navajo,BLACK BUTTES,U.S. House,1,WRITE-IN,,10,4,4,2,0, 
-Navajo,CEDAR VALLEY,U.S. House,1,WRITE-IN,,2,1,1,0,0, 
-Navajo,STONE BUTTE,U.S. House,1,WRITE-IN,,0,0,0,0,0, 
-Navajo,PIONEER,U.S. House,1,WRITE-IN,,11,1,6,4,0, 
-Navajo,ANTELOPE,U.S. House,1,WRITE-IN,,3,2,1,0,0, 
-Navajo,JUNIPER,U.S. House,1,WRITE-IN,,0,0,0,0,0, 
-Navajo,BISON,U.S. House,1,WRITE-IN,,0,0,0,0,0, 
-Navajo,MOGOLLON,U.S. House,1,WRITE-IN,,1,0,1,0,0, 
-Navajo,WOODLAND,U.S. House,1,WRITE-IN,,1,1,0,0,0, 
-Navajo,SITGREAVES,U.S. House,1,WRITE-IN,,6,0,4,2,0, 
-Navajo,SUNRISE,U.S. House,1,WRITE-IN,,11,2,8,1,0, 
-Navajo,RED BUTTE,U.S. House,1,OVER VOTES,,4,3,1,0,0, 
-Navajo,PAINTED DESERT,U.S. House,1,OVER VOTES,,2,1,0,1,0, 
-Navajo,HUBBELL,U.S. House,1,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,U.S. House,1,OVER VOTES,,3,2,1,0,0, 
-Navajo,CEDAR VALLEY,U.S. House,1,OVER VOTES,,1,1,0,0,0, 
-Navajo,STONE BUTTE,U.S. House,1,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,U.S. House,1,OVER VOTES,,2,0,0,2,0, 
-Navajo,ANTELOPE,U.S. House,1,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,U.S. House,1,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,U.S. House,1,OVER VOTES,,1,0,1,0,0, 
-Navajo,MOGOLLON,U.S. House,1,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,U.S. House,1,OVER VOTES,,1,0,1,0,0, 
-Navajo,SITGREAVES,U.S. House,1,OVER VOTES,,3,2,1,0,0, 
-Navajo,SUNRISE,U.S. House,1,OVER VOTES,,1,0,1,0,0, 
-Navajo,RED BUTTE,U.S. House,1,UNDER VOTES,,110,90,17,3,0, 
-Navajo,PAINTED DESERT,U.S. House,1,UNDER VOTES,,17,12,3,2,0, 
-Navajo,HUBBELL,U.S. House,1,UNDER VOTES,,8,5,0,3,0, 
-Navajo,BLACK BUTTES,U.S. House,1,UNDER VOTES,,78,39,31,6,2, 
-Navajo,CEDAR VALLEY,U.S. House,1,UNDER VOTES,,15,12,2,0,1, 
-Navajo,STONE BUTTE,U.S. House,1,UNDER VOTES,,8,7,1,0,0, 
-Navajo,PIONEER,U.S. House,1,UNDER VOTES,,86,21,52,13,0, 
-Navajo,ANTELOPE,U.S. House,1,UNDER VOTES,,57,24,26,7,0, 
-Navajo,JUNIPER,U.S. House,1,UNDER VOTES,,23,3,16,4,0, 
-Navajo,BISON,U.S. House,1,UNDER VOTES,,12,4,7,1,0, 
-Navajo,MOGOLLON,U.S. House,1,UNDER VOTES,,45,9,32,4,0, 
-Navajo,WOODLAND,U.S. House,1,UNDER VOTES,,21,2,13,6,0, 
-Navajo,SITGREAVES,U.S. House,1,UNDER VOTES,,120,26,82,12,0, 
-Navajo,SUNRISE,U.S. House,1,UNDER VOTES,,149,47,71,27,4, 
-Navajo,RED BUTTE,Governor,,"DUCEY, DOUG",REP,1271,788,398,67,18, 
-Navajo,PAINTED DESERT,Governor,,"DUCEY, DOUG",REP,249,147,82,18,2, 
-Navajo,HUBBELL,Governor,,"DUCEY, DOUG",REP,108,45,52,11,0, 
-Navajo,BLACK BUTTES,Governor,,"DUCEY, DOUG",REP,1672,653,851,145,23, 
-Navajo,CEDAR VALLEY,Governor,,"DUCEY, DOUG",REP,269,185,66,15,3, 
-Navajo,STONE BUTTE,Governor,,"DUCEY, DOUG",REP,76,60,14,2,0, 
-Navajo,PIONEER,Governor,,"DUCEY, DOUG",REP,4453,1676,2231,518,28, 
-Navajo,ANTELOPE,Governor,,"DUCEY, DOUG",REP,1507,607,760,128,12, 
-Navajo,JUNIPER,Governor,,"DUCEY, DOUG",REP,778,185,533,59,1, 
-Navajo,BISON,Governor,,"DUCEY, DOUG",REP,626,237,322,65,2, 
-Navajo,MOGOLLON,Governor,,"DUCEY, DOUG",REP,1744,395,1206,141,2, 
-Navajo,WOODLAND,Governor,,"DUCEY, DOUG",REP,623,183,355,75,10, 
-Navajo,SITGREAVES,Governor,,"DUCEY, DOUG",REP,4744,1199,3062,464,19, 
-Navajo,SUNRISE,Governor,,"DUCEY, DOUG",REP,3760,1054,2350,326,30, 
-Navajo,RED BUTTE,Governor,,"GARCIA, DAVID",DEM,3735,2432,1080,189,34, 
-Navajo,PAINTED DESERT,Governor,,"GARCIA, DAVID",DEM,526,380,125,12,9, 
-Navajo,HUBBELL,Governor,,"GARCIA, DAVID",DEM,74,45,24,5,0, 
-Navajo,BLACK BUTTES,Governor,,"GARCIA, DAVID",DEM,2512,1220,1062,191,39, 
-Navajo,CEDAR VALLEY,Governor,,"GARCIA, DAVID",DEM,655,436,179,22,18, 
-Navajo,STONE BUTTE,Governor,,"GARCIA, DAVID",DEM,312,265,40,7,0, 
-Navajo,PIONEER,Governor,,"GARCIA, DAVID",DEM,512,156,299,56,1, 
-Navajo,ANTELOPE,Governor,,"GARCIA, DAVID",DEM,634,233,333,59,9, 
-Navajo,JUNIPER,Governor,,"GARCIA, DAVID",DEM,187,42,136,9,0, 
-Navajo,BISON,Governor,,"GARCIA, DAVID",DEM,81,18,46,17,0, 
-Navajo,MOGOLLON,Governor,,"GARCIA, DAVID",DEM,333,49,265,17,2, 
-Navajo,WOODLAND,Governor,,"GARCIA, DAVID",DEM,161,35,110,16,0, 
-Navajo,SITGREAVES,Governor,,"GARCIA, DAVID",DEM,1076,206,779,88,3, 
-Navajo,SUNRISE,Governor,,"GARCIA, DAVID",DEM,2848,1456,1146,177,69, 
-Navajo,RED BUTTE,Governor,,"TORRES, ANGEL",GRN,267,167,84,12,4, 
-Navajo,PAINTED DESERT,Governor,,"TORRES, ANGEL",GRN,27,17,9,1,0, 
-Navajo,HUBBELL,Governor,,"TORRES, ANGEL",GRN,6,4,2,0,0, 
-Navajo,BLACK BUTTES,Governor,,"TORRES, ANGEL",GRN,170,82,73,14,1, 
-Navajo,CEDAR VALLEY,Governor,,"TORRES, ANGEL",GRN,35,23,10,1,1, 
-Navajo,STONE BUTTE,Governor,,"TORRES, ANGEL",GRN,28,24,4,0,0, 
-Navajo,PIONEER,Governor,,"TORRES, ANGEL",GRN,101,30,52,17,2, 
-Navajo,ANTELOPE,Governor,,"TORRES, ANGEL",GRN,59,25,27,5,2, 
-Navajo,JUNIPER,Governor,,"TORRES, ANGEL",GRN,21,5,13,3,0, 
-Navajo,BISON,Governor,,"TORRES, ANGEL",GRN,15,5,9,1,0, 
-Navajo,MOGOLLON,Governor,,"TORRES, ANGEL",GRN,45,10,28,7,0, 
-Navajo,WOODLAND,Governor,,"TORRES, ANGEL",GRN,16,5,8,3,0, 
-Navajo,SITGREAVES,Governor,,"TORRES, ANGEL",GRN,105,25,64,14,2, 
-Navajo,SUNRISE,Governor,,"TORRES, ANGEL",GRN,160,49,92,16,3, 
-Navajo,RED BUTTE,Governor,,WRITE-IN,,6,1,4,1,0, 
-Navajo,PAINTED DESERT,Governor,,WRITE-IN,,3,2,1,0,0, 
-Navajo,HUBBELL,Governor,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Governor,,WRITE-IN,,9,4,3,2,0, 
-Navajo,CEDAR VALLEY,Governor,,WRITE-IN,,3,2,1,0,0, 
-Navajo,STONE BUTTE,Governor,,WRITE-IN,,2,1,1,0,0, 
-Navajo,PIONEER,Governor,,WRITE-IN,,5,2,3,0,0, 
-Navajo,ANTELOPE,Governor,,WRITE-IN,,2,0,1,1,0, 
-Navajo,JUNIPER,Governor,,WRITE-IN,,3,1,2,0,0, 
-Navajo,BISON,Governor,,WRITE-IN,,1,1,0,0,0, 
-Navajo,MOGOLLON,Governor,,WRITE-IN,,4,1,1,2,0, 
-Navajo,WOODLAND,Governor,,WRITE-IN,,1,1,0,0,0, 
-Navajo,SITGREAVES,Governor,,WRITE-IN,,9,2,4,3,0, 
-Navajo,SUNRISE,Governor,,WRITE-IN,,7,1,2,4,0, 
-Navajo,RED BUTTE,Governor,,OVER VOTES,,15,12,3,0,0, 
-Navajo,PAINTED DESERT,Governor,,OVER VOTES,,1,0,0,1,0, 
-Navajo,HUBBELL,Governor,,OVER VOTES,,1,0,1,0,0, 
-Navajo,BLACK BUTTES,Governor,,OVER VOTES,,3,1,2,0,0, 
-Navajo,CEDAR VALLEY,Governor,,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,Governor,,OVER VOTES,,2,1,1,0,0, 
-Navajo,PIONEER,Governor,,OVER VOTES,,4,2,2,0,0, 
-Navajo,ANTELOPE,Governor,,OVER VOTES,,2,0,2,0,0, 
-Navajo,JUNIPER,Governor,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,Governor,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Governor,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,Governor,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Governor,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,Governor,,OVER VOTES,,3,2,1,0,0, 
-Navajo,RED BUTTE,Governor,,UNDER VOTES,,111,90,15,6,0, 
-Navajo,PAINTED DESERT,Governor,,UNDER VOTES,,9,6,3,0,0, 
-Navajo,HUBBELL,Governor,,UNDER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Governor,,UNDER VOTES,,71,35,25,9,2, 
-Navajo,CEDAR VALLEY,Governor,,UNDER VOTES,,24,17,5,1,1, 
-Navajo,STONE BUTTE,Governor,,UNDER VOTES,,4,3,1,0,0, 
-Navajo,PIONEER,Governor,,UNDER VOTES,,56,20,26,9,1, 
-Navajo,ANTELOPE,Governor,,UNDER VOTES,,31,12,12,7,0, 
-Navajo,JUNIPER,Governor,,UNDER VOTES,,7,1,4,2,0, 
-Navajo,BISON,Governor,,UNDER VOTES,,6,3,1,2,0, 
-Navajo,MOGOLLON,Governor,,UNDER VOTES,,23,5,16,2,0, 
-Navajo,WOODLAND,Governor,,UNDER VOTES,,10,4,3,3,0, 
-Navajo,SITGREAVES,Governor,,UNDER VOTES,,54,14,34,6,0, 
-Navajo,SUNRISE,Governor,,UNDER VOTES,,103,49,41,12,1, 
-Navajo,PIONEER,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,3855,1484,1912,434,25, 
-Navajo,ANTELOPE,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,1165,501,551,106,7, 
-Navajo,JUNIPER,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,675,163,463,48,1, 
-Navajo,BISON,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,537,201,281,54,1, 
-Navajo,MOGOLLON,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,1580,362,1090,125,3, 
-Navajo,PIONEER,State Senate,6,"CARLISLE, WADE",DEM,1088,346,597,138,7, 
-Navajo,ANTELOPE,State Senate,6,"CARLISLE, WADE",DEM,980,345,536,87,12, 
-Navajo,JUNIPER,State Senate,6,"CARLISLE, WADE",DEM,286,60,207,19,0, 
-Navajo,BISON,State Senate,6,"CARLISLE, WADE",DEM,173,56,89,28,0, 
-Navajo,MOGOLLON,State Senate,6,"CARLISLE, WADE",DEM,516,89,388,38,1, 
-Navajo,PIONEER,State Senate,6,WRITE-IN,,18,9,9,0,0, 
-Navajo,ANTELOPE,State Senate,6,WRITE-IN,,8,6,2,0,0, 
-Navajo,JUNIPER,State Senate,6,WRITE-IN,,7,4,2,1,0, 
-Navajo,BISON,State Senate,6,WRITE-IN,,0,0,0,0,0, 
-Navajo,MOGOLLON,State Senate,6,WRITE-IN,,4,1,3,0,0, 
-Navajo,PIONEER,State Senate,6,OVER VOTES,,1,1,0,0,0, 
-Navajo,ANTELOPE,State Senate,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,State Senate,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,State Senate,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,State Senate,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,State Senate,6,UNDER VOTES,,169,46,95,28,0, 
-Navajo,ANTELOPE,State Senate,6,UNDER VOTES,,82,25,46,7,4, 
-Navajo,JUNIPER,State Senate,6,UNDER VOTES,,28,7,16,5,0, 
-Navajo,BISON,State Senate,6,UNDER VOTES,,19,7,8,3,1, 
-Navajo,MOGOLLON,State Senate,6,UNDER VOTES,,49,8,35,6,0, 
-Navajo,RED BUTTE,State Senate,7,"MEALER, JL",REP,535,345,152,30,8, 
-Navajo,PAINTED DESERT,State Senate,7,"MEALER, JL",REP,124,60,56,8,0, 
-Navajo,HUBBELL,State Senate,7,"MEALER, JL",REP,90,36,50,4,0, 
-Navajo,BLACK BUTTES,State Senate,7,"MEALER, JL",REP,1103,378,598,113,14, 
-Navajo,CEDAR VALLEY,State Senate,7,"MEALER, JL",REP,75,57,15,1,2, 
-Navajo,STONE BUTTE,State Senate,7,"MEALER, JL",REP,35,27,8,0,0, 
-Navajo,WOODLAND,State Senate,7,"MEALER, JL",REP,566,174,316,67,9, 
-Navajo,SITGREAVES,State Senate,7,"MEALER, JL",REP,4323,1147,2745,410,21, 
-Navajo,SUNRISE,State Senate,7,"MEALER, JL",REP,3269,847,2115,285,22, 
-Navajo,RED BUTTE,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,4709,3012,1408,241,48, 
-Navajo,PAINTED DESERT,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,670,477,160,22,11, 
-Navajo,HUBBELL,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,89,53,27,9,0, 
-Navajo,BLACK BUTTES,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,3209,1567,1364,229,49, 
-Navajo,CEDAR VALLEY,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,887,587,244,37,19, 
-Navajo,STONE BUTTE,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,376,316,52,8,0, 
-Navajo,WOODLAND,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,198,47,132,18,1, 
-Navajo,SITGREAVES,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,1382,245,1024,110,3, 
-Navajo,SUNRISE,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,3347,1667,1398,204,78, 
-Navajo,RED BUTTE,State Senate,7,WRITE-IN,,12,6,5,1,0, 
-Navajo,PAINTED DESERT,State Senate,7,WRITE-IN,,1,1,0,0,0, 
-Navajo,HUBBELL,State Senate,7,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,State Senate,7,WRITE-IN,,12,7,2,3,0, 
-Navajo,CEDAR VALLEY,State Senate,7,WRITE-IN,,2,1,0,0,1, 
-Navajo,STONE BUTTE,State Senate,7,WRITE-IN,,0,0,0,0,0, 
-Navajo,WOODLAND,State Senate,7,WRITE-IN,,1,1,0,0,0, 
-Navajo,SITGREAVES,State Senate,7,WRITE-IN,,7,4,1,2,0, 
-Navajo,SUNRISE,State Senate,7,WRITE-IN,,8,5,2,1,0, 
-Navajo,RED BUTTE,State Senate,7,OVER VOTES,,4,3,1,0,0, 
-Navajo,PAINTED DESERT,State Senate,7,OVER VOTES,,1,0,0,1,0, 
-Navajo,HUBBELL,State Senate,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,State Senate,7,OVER VOTES,,1,1,0,0,0, 
-Navajo,CEDAR VALLEY,State Senate,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,State Senate,7,OVER VOTES,,2,2,0,0,0, 
-Navajo,WOODLAND,State Senate,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,State Senate,7,OVER VOTES,,2,0,2,0,0, 
-Navajo,SUNRISE,State Senate,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,RED BUTTE,State Senate,7,UNDER VOTES,,145,124,18,3,0, 
-Navajo,PAINTED DESERT,State Senate,7,UNDER VOTES,,19,14,4,1,0, 
-Navajo,HUBBELL,State Senate,7,UNDER VOTES,,10,5,2,3,0, 
-Navajo,BLACK BUTTES,State Senate,7,UNDER VOTES,,112,42,52,16,2, 
-Navajo,CEDAR VALLEY,State Senate,7,UNDER VOTES,,22,18,2,1,1, 
-Navajo,STONE BUTTE,State Senate,7,UNDER VOTES,,11,9,1,1,0, 
-Navajo,WOODLAND,State Senate,7,UNDER VOTES,,46,6,28,12,0, 
-Navajo,SITGREAVES,State Senate,7,UNDER VOTES,,274,50,171,53,0, 
-Navajo,SUNRISE,State Senate,7,UNDER VOTES,,257,92,117,45,3, 
-Navajo,PIONEER,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,4253,1603,2105,517,28, 
-Navajo,ANTELOPE,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,1278,541,607,122,8, 
-Navajo,JUNIPER,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,621,149,420,51,1, 
-Navajo,BISON,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,561,214,282,64,1, 
-Navajo,MOGOLLON,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,1527,363,1031,132,1, 
-Navajo,PIONEER,State Representative,6,"THORPE, BOB",REP,3484,1306,1749,413,16, 
-Navajo,ANTELOPE,State Representative,6,"THORPE, BOB",REP,1128,465,557,101,5, 
-Navajo,JUNIPER,State Representative,6,"THORPE, BOB",REP,603,142,420,40,1, 
-Navajo,BISON,State Representative,6,"THORPE, BOB",REP,519,181,279,58,1, 
-Navajo,MOGOLLON,State Representative,6,"THORPE, BOB",REP,1404,318,964,121,1, 
-Navajo,PIONEER,State Representative,6,"FRENCH, FELICIA",DEM,583,161,360,60,2, 
-Navajo,ANTELOPE,State Representative,6,"FRENCH, FELICIA",DEM,641,216,371,47,7, 
-Navajo,JUNIPER,State Representative,6,"FRENCH, FELICIA",DEM,217,41,162,14,0, 
-Navajo,BISON,State Representative,6,"FRENCH, FELICIA",DEM,103,21,64,18,0, 
-Navajo,MOGOLLON,State Representative,6,"FRENCH, FELICIA",DEM,447,64,353,28,2, 
-Navajo,PIONEER,State Representative,6,"TYLER, BOBBY",DEM,520,138,329,52,1, 
-Navajo,ANTELOPE,State Representative,6,"TYLER, BOBBY",DEM,659,248,346,54,11, 
-Navajo,JUNIPER,State Representative,6,"TYLER, BOBBY",DEM,214,51,152,11,0, 
-Navajo,BISON,State Representative,6,"TYLER, BOBBY",DEM,86,21,51,14,0, 
-Navajo,MOGOLLON,State Representative,6,"TYLER, BOBBY",DEM,392,63,302,25,2, 
-Navajo,PIONEER,State Representative,6,WRITE-IN,,9,4,2,3,0, 
-Navajo,ANTELOPE,State Representative,6,WRITE-IN,,3,3,0,0,0, 
-Navajo,JUNIPER,State Representative,6,WRITE-IN,,3,3,0,0,0, 
-Navajo,BISON,State Representative,6,WRITE-IN,,1,1,0,0,0, 
-Navajo,MOGOLLON,State Representative,6,WRITE-IN,,0,0,0,0,0, 
-Navajo,PIONEER,State Representative,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,State Representative,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,State Representative,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,State Representative,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,State Representative,6,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,State Representative,6,UNDER VOTES,,1413,560,681,155,17, 
-Navajo,ANTELOPE,State Representative,6,UNDER VOTES,,761,281,389,76,15, 
-Navajo,JUNIPER,State Representative,6,UNDER VOTES,,334,82,222,30,0, 
-Navajo,BISON,State Representative,6,UNDER VOTES,,188,90,80,16,2, 
-Navajo,MOGOLLON,State Representative,6,UNDER VOTES,,528,112,382,32,2, 
-Navajo,RED BUTTE,State Representative,7,"SHAMLEY, DOYEL",REP,587,371,166,36,14, 
-Navajo,PAINTED DESERT,State Representative,7,"SHAMLEY, DOYEL",REP,134,66,57,11,0, 
-Navajo,HUBBELL,State Representative,7,"SHAMLEY, DOYEL",REP,102,38,57,7,0, 
-Navajo,BLACK BUTTES,State Representative,7,"SHAMLEY, DOYEL",REP,1206,419,644,128,15, 
-Navajo,CEDAR VALLEY,State Representative,7,"SHAMLEY, DOYEL",REP,106,77,23,6,0, 
-Navajo,STONE BUTTE,State Representative,7,"SHAMLEY, DOYEL",REP,48,39,7,2,0, 
-Navajo,WOODLAND,State Representative,7,"SHAMLEY, DOYEL",REP,591,180,334,68,9, 
-Navajo,SITGREAVES,State Representative,7,"SHAMLEY, DOYEL",REP,4474,1168,2856,430,20, 
-Navajo,SUNRISE,State Representative,7,"SHAMLEY, DOYEL",REP,3371,879,2171,304,17, 
-Navajo,RED BUTTE,State Representative,7,"TELLER, ARLANDO",DEM,2778,1773,831,149,25, 
-Navajo,PAINTED DESERT,State Representative,7,"TELLER, ARLANDO",DEM,288,202,73,7,6, 
-Navajo,HUBBELL,State Representative,7,"TELLER, ARLANDO",DEM,65,32,27,6,0, 
-Navajo,BLACK BUTTES,State Representative,7,"TELLER, ARLANDO",DEM,1975,908,884,161,22, 
-Navajo,CEDAR VALLEY,State Representative,7,"TELLER, ARLANDO",DEM,435,299,113,15,8, 
-Navajo,STONE BUTTE,State Representative,7,"TELLER, ARLANDO",DEM,227,197,26,4,0, 
-Navajo,WOODLAND,State Representative,7,"TELLER, ARLANDO",DEM,171,39,112,18,2, 
-Navajo,SITGREAVES,State Representative,7,"TELLER, ARLANDO",DEM,1242,241,909,89,3, 
-Navajo,SUNRISE,State Representative,7,"TELLER, ARLANDO",DEM,2577,1204,1150,170,53, 
-Navajo,RED BUTTE,State Representative,7,"TSOSIE, MYRON",DEM,3616,2278,1113,195,30, 
-Navajo,PAINTED DESERT,State Representative,7,"TSOSIE, MYRON",DEM,543,374,139,21,9, 
-Navajo,HUBBELL,State Representative,7,"TSOSIE, MYRON",DEM,75,46,22,7,0, 
-Navajo,BLACK BUTTES,State Representative,7,"TSOSIE, MYRON",DEM,2890,1411,1227,205,47, 
-Navajo,CEDAR VALLEY,State Representative,7,"TSOSIE, MYRON",DEM,681,437,202,24,18, 
-Navajo,STONE BUTTE,State Representative,7,"TSOSIE, MYRON",DEM,333,277,49,7,0, 
-Navajo,WOODLAND,State Representative,7,"TSOSIE, MYRON",DEM,192,49,124,17,2, 
-Navajo,SITGREAVES,State Representative,7,"TSOSIE, MYRON",DEM,1110,217,797,93,3, 
-Navajo,SUNRISE,State Representative,7,"TSOSIE, MYRON",DEM,2802,1398,1159,174,71, 
-Navajo,RED BUTTE,State Representative,7,WRITE-IN,,10,5,5,0,0, 
-Navajo,PAINTED DESERT,State Representative,7,WRITE-IN,,4,4,0,0,0, 
-Navajo,HUBBELL,State Representative,7,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,State Representative,7,WRITE-IN,,23,16,5,2,0, 
-Navajo,CEDAR VALLEY,State Representative,7,WRITE-IN,,3,2,1,0,0, 
-Navajo,STONE BUTTE,State Representative,7,WRITE-IN,,0,0,0,0,0, 
-Navajo,WOODLAND,State Representative,7,WRITE-IN,,7,7,0,0,0, 
-Navajo,SITGREAVES,State Representative,7,WRITE-IN,,35,20,6,8,1, 
-Navajo,SUNRISE,State Representative,7,WRITE-IN,,37,24,13,0,0, 
-Navajo,RED BUTTE,State Representative,7,OVER VOTES,,4,2,2,0,0, 
-Navajo,PAINTED DESERT,State Representative,7,OVER VOTES,,4,2,0,2,0, 
-Navajo,HUBBELL,State Representative,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,State Representative,7,OVER VOTES,,2,0,2,0,0, 
-Navajo,CEDAR VALLEY,State Representative,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,State Representative,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,State Representative,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,State Representative,7,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,State Representative,7,OVER VOTES,,4,2,2,0,0, 
-Navajo,RED BUTTE,State Representative,7,UNDER VOTES,,3815,2551,1051,170,43, 
-Navajo,PAINTED DESERT,State Representative,7,UNDER VOTES,,657,456,171,23,7, 
-Navajo,HUBBELL,State Representative,7,UNDER VOTES,,136,72,52,12,0, 
-Navajo,BLACK BUTTES,State Representative,7,UNDER VOTES,,2778,1236,1270,226,46, 
-Navajo,CEDAR VALLEY,State Representative,7,UNDER VOTES,,747,511,183,33,20, 
-Navajo,STONE BUTTE,State Representative,7,UNDER VOTES,,240,195,40,5,0, 
-Navajo,WOODLAND,State Representative,7,UNDER VOTES,,661,181,382,91,7, 
-Navajo,SITGREAVES,State Representative,7,UNDER VOTES,,5115,1246,3318,530,21, 
-Navajo,SUNRISE,State Representative,7,UNDER VOTES,,4971,1715,2769,422,65, 
-Navajo,RED BUTTE,Secretary of State,,"GAYNOR, STEVE",REP,746,479,218,38,11, 
-Navajo,PAINTED DESERT,Secretary of State,,"GAYNOR, STEVE",REP,148,75,62,9,2, 
-Navajo,HUBBELL,Secretary of State,,"GAYNOR, STEVE",REP,88,37,46,5,0, 
-Navajo,BLACK BUTTES,Secretary of State,,"GAYNOR, STEVE",REP,1213,442,638,117,16, 
-Navajo,CEDAR VALLEY,Secretary of State,,"GAYNOR, STEVE",REP,123,89,30,3,1, 
-Navajo,STONE BUTTE,Secretary of State,,"GAYNOR, STEVE",REP,50,42,7,1,0, 
-Navajo,PIONEER,Secretary of State,,"GAYNOR, STEVE",REP,4260,1642,2095,494,29, 
-Navajo,ANTELOPE,Secretary of State,,"GAYNOR, STEVE",REP,1309,556,630,113,10, 
-Navajo,JUNIPER,Secretary of State,,"GAYNOR, STEVE",REP,699,172,476,50,1, 
-Navajo,BISON,Secretary of State,,"GAYNOR, STEVE",REP,591,224,299,66,2, 
-Navajo,MOGOLLON,Secretary of State,,"GAYNOR, STEVE",REP,1590,375,1083,130,2, 
-Navajo,WOODLAND,Secretary of State,,"GAYNOR, STEVE",REP,568,170,320,69,9, 
-Navajo,SITGREAVES,Secretary of State,,"GAYNOR, STEVE",REP,4342,1150,2760,413,19, 
-Navajo,SUNRISE,Secretary of State,,"GAYNOR, STEVE",REP,3313,881,2115,296,21, 
-Navajo,RED BUTTE,Secretary of State,,"HOBBS, KATIE",DEM,4459,2882,1305,227,45, 
-Navajo,PAINTED DESERT,Secretary of State,,"HOBBS, KATIE",DEM,640,461,150,20,9, 
-Navajo,HUBBELL,Secretary of State,,"HOBBS, KATIE",DEM,94,54,31,9,0, 
-Navajo,BLACK BUTTES,Secretary of State,,"HOBBS, KATIE",DEM,3092,1505,1310,229,48, 
-Navajo,CEDAR VALLEY,Secretary of State,,"HOBBS, KATIE",DEM,836,556,225,35,20, 
-Navajo,STONE BUTTE,Secretary of State,,"HOBBS, KATIE",DEM,361,299,54,8,0, 
-Navajo,PIONEER,Secretary of State,,"HOBBS, KATIE",DEM,729,213,436,77,3, 
-Navajo,ANTELOPE,Secretary of State,,"HOBBS, KATIE",DEM,828,292,452,74,10, 
-Navajo,JUNIPER,Secretary of State,,"HOBBS, KATIE",DEM,260,57,189,14,0, 
-Navajo,BISON,Secretary of State,,"HOBBS, KATIE",DEM,122,31,72,19,0, 
-Navajo,MOGOLLON,Secretary of State,,"HOBBS, KATIE",DEM,490,77,378,33,2, 
-Navajo,WOODLAND,Secretary of State,,"HOBBS, KATIE",DEM,212,53,137,21,1, 
-Navajo,SITGREAVES,Secretary of State,,"HOBBS, KATIE",DEM,1453,275,1049,124,5, 
-Navajo,SUNRISE,Secretary of State,,"HOBBS, KATIE",DEM,3354,1663,1407,206,78, 
-Navajo,RED BUTTE,Secretary of State,,WRITE-IN,,7,3,4,0,0, 
-Navajo,PAINTED DESERT,Secretary of State,,WRITE-IN,,4,2,1,1,0, 
-Navajo,HUBBELL,Secretary of State,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Secretary of State,,WRITE-IN,,14,6,4,4,0, 
-Navajo,CEDAR VALLEY,Secretary of State,,WRITE-IN,,1,1,0,0,0, 
-Navajo,STONE BUTTE,Secretary of State,,WRITE-IN,,0,0,0,0,0, 
-Navajo,PIONEER,Secretary of State,,WRITE-IN,,7,1,4,2,0, 
-Navajo,ANTELOPE,Secretary of State,,WRITE-IN,,4,2,2,0,0, 
-Navajo,JUNIPER,Secretary of State,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BISON,Secretary of State,,WRITE-IN,,0,0,0,0,0, 
-Navajo,MOGOLLON,Secretary of State,,WRITE-IN,,3,1,2,0,0, 
-Navajo,WOODLAND,Secretary of State,,WRITE-IN,,1,1,0,0,0, 
-Navajo,SITGREAVES,Secretary of State,,WRITE-IN,,9,1,5,3,0, 
-Navajo,SUNRISE,Secretary of State,,WRITE-IN,,5,1,4,0,0, 
-Navajo,RED BUTTE,Secretary of State,,OVER VOTES,,2,1,1,0,0, 
-Navajo,PAINTED DESERT,Secretary of State,,OVER VOTES,,0,0,0,0,0, 
-Navajo,HUBBELL,Secretary of State,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Secretary of State,,OVER VOTES,,2,1,1,0,0, 
-Navajo,CEDAR VALLEY,Secretary of State,,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,Secretary of State,,OVER VOTES,,2,2,0,0,0, 
-Navajo,PIONEER,Secretary of State,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Secretary of State,,OVER VOTES,,2,1,1,0,0, 
-Navajo,JUNIPER,Secretary of State,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,Secretary of State,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Secretary of State,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,Secretary of State,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Secretary of State,,OVER VOTES,,1,0,1,0,0, 
-Navajo,SUNRISE,Secretary of State,,OVER VOTES,,3,0,2,1,0, 
-Navajo,RED BUTTE,Secretary of State,,UNDER VOTES,,191,125,56,10,0, 
-Navajo,PAINTED DESERT,Secretary of State,,UNDER VOTES,,23,14,7,2,0, 
-Navajo,HUBBELL,Secretary of State,,UNDER VOTES,,7,3,2,2,0, 
-Navajo,BLACK BUTTES,Secretary of State,,UNDER VOTES,,116,41,63,11,1, 
-Navajo,CEDAR VALLEY,Secretary of State,,UNDER VOTES,,26,17,6,1,2, 
-Navajo,STONE BUTTE,Secretary of State,,UNDER VOTES,,11,11,0,0,0, 
-Navajo,PIONEER,Secretary of State,,UNDER VOTES,,135,30,78,27,0, 
-Navajo,ANTELOPE,Secretary of State,,UNDER VOTES,,92,26,50,13,3, 
-Navajo,JUNIPER,Secretary of State,,UNDER VOTES,,37,5,23,9,0, 
-Navajo,BISON,Secretary of State,,UNDER VOTES,,16,9,7,0,0, 
-Navajo,MOGOLLON,Secretary of State,,UNDER VOTES,,66,7,53,6,0, 
-Navajo,WOODLAND,Secretary of State,,UNDER VOTES,,30,4,19,7,0, 
-Navajo,SITGREAVES,Secretary of State,,UNDER VOTES,,183,20,128,35,0, 
-Navajo,SUNRISE,Secretary of State,,UNDER VOTES,,206,66,104,32,4, 
-Navajo,RED BUTTE,Attorney General,,"BRNOVICH, MARK",REP,904,576,261,54,13, 
-Navajo,PAINTED DESERT,Attorney General,,"BRNOVICH, MARK",REP,184,104,63,15,2, 
-Navajo,HUBBELL,Attorney General,,"BRNOVICH, MARK",REP,97,41,49,7,0, 
-Navajo,BLACK BUTTES,Attorney General,,"BRNOVICH, MARK",REP,1349,509,689,136,15, 
-Navajo,CEDAR VALLEY,Attorney General,,"BRNOVICH, MARK",REP,168,119,42,5,2, 
-Navajo,STONE BUTTE,Attorney General,,"BRNOVICH, MARK",REP,61,49,11,1,0, 
-Navajo,PIONEER,Attorney General,,"BRNOVICH, MARK",REP,4334,1659,2133,513,29, 
-Navajo,ANTELOPE,Attorney General,,"BRNOVICH, MARK",REP,1390,595,663,122,10, 
-Navajo,JUNIPER,Attorney General,,"BRNOVICH, MARK",REP,704,169,489,45,1, 
-Navajo,BISON,Attorney General,,"BRNOVICH, MARK",REP,599,235,296,66,2, 
-Navajo,MOGOLLON,Attorney General,,"BRNOVICH, MARK",REP,1638,382,1116,137,3, 
-Navajo,WOODLAND,Attorney General,,"BRNOVICH, MARK",REP,572,172,322,69,9, 
-Navajo,SITGREAVES,Attorney General,,"BRNOVICH, MARK",REP,4424,1165,2818,423,18, 
-Navajo,SUNRISE,Attorney General,,"BRNOVICH, MARK",REP,3430,941,2148,314,27, 
-Navajo,RED BUTTE,Attorney General,,"CONTRERAS, JANUARY",DEM,4282,2753,1270,216,43, 
-Navajo,PAINTED DESERT,Attorney General,,"CONTRERAS, JANUARY",DEM,604,430,149,16,9, 
-Navajo,HUBBELL,Attorney General,,"CONTRERAS, JANUARY",DEM,87,49,30,8,0, 
-Navajo,BLACK BUTTES,Attorney General,,"CONTRERAS, JANUARY",DEM,2944,1424,1259,213,48, 
-Navajo,CEDAR VALLEY,Attorney General,,"CONTRERAS, JANUARY",DEM,775,508,214,34,19, 
-Navajo,STONE BUTTE,Attorney General,,"CONTRERAS, JANUARY",DEM,342,284,50,8,0, 
-Navajo,PIONEER,Attorney General,,"CONTRERAS, JANUARY",DEM,656,185,405,64,2, 
-Navajo,ANTELOPE,Attorney General,,"CONTRERAS, JANUARY",DEM,751,250,421,70,10, 
-Navajo,JUNIPER,Attorney General,,"CONTRERAS, JANUARY",DEM,245,53,173,19,0, 
-Navajo,BISON,Attorney General,,"CONTRERAS, JANUARY",DEM,109,19,72,18,0, 
-Navajo,MOGOLLON,Attorney General,,"CONTRERAS, JANUARY",DEM,436,67,340,28,1, 
-Navajo,WOODLAND,Attorney General,,"CONTRERAS, JANUARY",DEM,208,51,134,22,1, 
-Navajo,SITGREAVES,Attorney General,,"CONTRERAS, JANUARY",DEM,1357,249,981,121,6, 
-Navajo,SUNRISE,Attorney General,,"CONTRERAS, JANUARY",DEM,3219,1590,1370,187,72, 
-Navajo,RED BUTTE,Attorney General,,WRITE-IN,,14,5,8,1,0, 
-Navajo,PAINTED DESERT,Attorney General,,WRITE-IN,,3,3,0,0,0, 
-Navajo,HUBBELL,Attorney General,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Attorney General,,WRITE-IN,,19,11,5,3,0, 
-Navajo,CEDAR VALLEY,Attorney General,,WRITE-IN,,8,7,1,0,0, 
-Navajo,STONE BUTTE,Attorney General,,WRITE-IN,,0,0,0,0,0, 
-Navajo,PIONEER,Attorney General,,WRITE-IN,,6,3,1,2,0, 
-Navajo,ANTELOPE,Attorney General,,WRITE-IN,,3,0,3,0,0, 
-Navajo,JUNIPER,Attorney General,,WRITE-IN,,3,0,2,1,0, 
-Navajo,BISON,Attorney General,,WRITE-IN,,1,0,1,0,0, 
-Navajo,MOGOLLON,Attorney General,,WRITE-IN,,6,1,5,0,0, 
-Navajo,WOODLAND,Attorney General,,WRITE-IN,,2,1,1,0,0, 
-Navajo,SITGREAVES,Attorney General,,WRITE-IN,,14,3,8,3,0, 
-Navajo,SUNRISE,Attorney General,,WRITE-IN,,7,2,3,2,0, 
-Navajo,RED BUTTE,Attorney General,,OVER VOTES,,6,5,1,0,0, 
-Navajo,PAINTED DESERT,Attorney General,,OVER VOTES,,1,0,0,1,0, 
-Navajo,HUBBELL,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Attorney General,,OVER VOTES,,5,1,4,0,0, 
-Navajo,CEDAR VALLEY,Attorney General,,OVER VOTES,,1,1,0,0,0, 
-Navajo,STONE BUTTE,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Attorney General,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,Attorney General,,OVER VOTES,,1,1,0,0,0, 
-Navajo,RED BUTTE,Attorney General,,UNDER VOTES,,199,151,44,4,0, 
-Navajo,PAINTED DESERT,Attorney General,,UNDER VOTES,,23,15,8,0,0, 
-Navajo,HUBBELL,Attorney General,,UNDER VOTES,,5,4,0,1,0, 
-Navajo,BLACK BUTTES,Attorney General,,UNDER VOTES,,120,50,59,9,2, 
-Navajo,CEDAR VALLEY,Attorney General,,UNDER VOTES,,34,28,4,0,2, 
-Navajo,STONE BUTTE,Attorney General,,UNDER VOTES,,21,21,0,0,0, 
-Navajo,PIONEER,Attorney General,,UNDER VOTES,,135,39,74,21,1, 
-Navajo,ANTELOPE,Attorney General,,UNDER VOTES,,91,32,48,8,3, 
-Navajo,JUNIPER,Attorney General,,UNDER VOTES,,44,12,24,8,0, 
-Navajo,BISON,Attorney General,,UNDER VOTES,,20,10,9,1,0, 
-Navajo,MOGOLLON,Attorney General,,UNDER VOTES,,69,10,55,4,0, 
-Navajo,WOODLAND,Attorney General,,UNDER VOTES,,29,4,19,6,0, 
-Navajo,SITGREAVES,Attorney General,,UNDER VOTES,,193,29,136,28,0, 
-Navajo,SUNRISE,Attorney General,,UNDER VOTES,,224,77,111,32,4, 
-Navajo,RED BUTTE,State Treasurer,,"YEE, KIMBERLY",REP,910,571,265,58,16, 
-Navajo,PAINTED DESERT,State Treasurer,,"YEE, KIMBERLY",REP,173,94,66,12,1, 
-Navajo,HUBBELL,State Treasurer,,"YEE, KIMBERLY",REP,95,39,50,6,0, 
-Navajo,BLACK BUTTES,State Treasurer,,"YEE, KIMBERLY",REP,1363,511,699,135,18, 
-Navajo,CEDAR VALLEY,State Treasurer,,"YEE, KIMBERLY",REP,177,123,46,7,1, 
-Navajo,STONE BUTTE,State Treasurer,,"YEE, KIMBERLY",REP,57,45,11,1,0, 
-Navajo,PIONEER,State Treasurer,,"YEE, KIMBERLY",REP,4396,1686,2169,512,29, 
-Navajo,ANTELOPE,State Treasurer,,"YEE, KIMBERLY",REP,1393,590,666,126,11, 
-Navajo,JUNIPER,State Treasurer,,"YEE, KIMBERLY",REP,722,170,497,54,1, 
-Navajo,BISON,State Treasurer,,"YEE, KIMBERLY",REP,617,230,317,68,2, 
-Navajo,MOGOLLON,State Treasurer,,"YEE, KIMBERLY",REP,1667,386,1141,137,3, 
-Navajo,WOODLAND,State Treasurer,,"YEE, KIMBERLY",REP,592,180,334,69,9, 
-Navajo,SITGREAVES,State Treasurer,,"YEE, KIMBERLY",REP,4495,1176,2876,425,18, 
-Navajo,SUNRISE,State Treasurer,,"YEE, KIMBERLY",REP,3486,926,2219,319,22, 
-Navajo,RED BUTTE,State Treasurer,,"MANOIL, MARK",DEM,4274,2752,1268,214,40, 
-Navajo,PAINTED DESERT,State Treasurer,,"MANOIL, MARK",DEM,613,438,147,18,10, 
-Navajo,HUBBELL,State Treasurer,,"MANOIL, MARK",DEM,85,50,27,8,0, 
-Navajo,BLACK BUTTES,State Treasurer,,"MANOIL, MARK",DEM,2941,1426,1259,210,46, 
-Navajo,CEDAR VALLEY,State Treasurer,,"MANOIL, MARK",DEM,777,513,212,32,20, 
-Navajo,STONE BUTTE,State Treasurer,,"MANOIL, MARK",DEM,354,296,50,8,0, 
-Navajo,PIONEER,State Treasurer,,"MANOIL, MARK",DEM,580,158,360,60,2, 
-Navajo,ANTELOPE,State Treasurer,,"MANOIL, MARK",DEM,731,251,409,62,9, 
-Navajo,JUNIPER,State Treasurer,,"MANOIL, MARK",DEM,230,52,166,12,0, 
-Navajo,BISON,State Treasurer,,"MANOIL, MARK",DEM,91,22,52,17,0, 
-Navajo,MOGOLLON,State Treasurer,,"MANOIL, MARK",DEM,405,61,316,27,1, 
-Navajo,WOODLAND,State Treasurer,,"MANOIL, MARK",DEM,183,43,120,19,1, 
-Navajo,SITGREAVES,State Treasurer,,"MANOIL, MARK",DEM,1251,229,912,104,6, 
-Navajo,SUNRISE,State Treasurer,,"MANOIL, MARK",DEM,3129,1588,1280,182,79, 
-Navajo,RED BUTTE,State Treasurer,,WRITE-IN,,21,11,9,1,0, 
-Navajo,PAINTED DESERT,State Treasurer,,WRITE-IN,,2,2,0,0,0, 
-Navajo,HUBBELL,State Treasurer,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,State Treasurer,,WRITE-IN,,16,9,5,2,0, 
-Navajo,CEDAR VALLEY,State Treasurer,,WRITE-IN,,4,3,1,0,0, 
-Navajo,STONE BUTTE,State Treasurer,,WRITE-IN,,1,1,0,0,0, 
-Navajo,PIONEER,State Treasurer,,WRITE-IN,,7,2,3,2,0, 
-Navajo,ANTELOPE,State Treasurer,,WRITE-IN,,2,1,1,0,0, 
-Navajo,JUNIPER,State Treasurer,,WRITE-IN,,1,1,0,0,0, 
-Navajo,BISON,State Treasurer,,WRITE-IN,,0,0,0,0,0, 
-Navajo,MOGOLLON,State Treasurer,,WRITE-IN,,5,0,5,0,0, 
-Navajo,WOODLAND,State Treasurer,,WRITE-IN,,0,0,0,0,0, 
-Navajo,SITGREAVES,State Treasurer,,WRITE-IN,,8,2,3,3,0, 
-Navajo,SUNRISE,State Treasurer,,WRITE-IN,,16,11,5,0,0, 
-Navajo,RED BUTTE,State Treasurer,,OVER VOTES,,3,2,1,0,0, 
-Navajo,PAINTED DESERT,State Treasurer,,OVER VOTES,,1,0,0,1,0, 
-Navajo,HUBBELL,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,State Treasurer,,OVER VOTES,,3,2,1,0,0, 
-Navajo,CEDAR VALLEY,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,State Treasurer,,OVER VOTES,,1,1,0,0,0, 
-Navajo,PIONEER,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,State Treasurer,,OVER VOTES,,0,0,0,0,0, 
-Navajo,RED BUTTE,State Treasurer,,UNDER VOTES,,197,154,41,2,0, 
-Navajo,PAINTED DESERT,State Treasurer,,UNDER VOTES,,26,18,7,1,0, 
-Navajo,HUBBELL,State Treasurer,,UNDER VOTES,,9,5,2,2,0, 
-Navajo,BLACK BUTTES,State Treasurer,,UNDER VOTES,,114,47,52,14,1, 
-Navajo,CEDAR VALLEY,State Treasurer,,UNDER VOTES,,28,24,2,0,2, 
-Navajo,STONE BUTTE,State Treasurer,,UNDER VOTES,,11,11,0,0,0, 
-Navajo,PIONEER,State Treasurer,,UNDER VOTES,,148,40,81,26,1, 
-Navajo,ANTELOPE,State Treasurer,,UNDER VOTES,,109,35,59,12,3, 
-Navajo,JUNIPER,State Treasurer,,UNDER VOTES,,43,11,25,7,0, 
-Navajo,BISON,State Treasurer,,UNDER VOTES,,21,12,9,0,0, 
-Navajo,MOGOLLON,State Treasurer,,UNDER VOTES,,72,13,54,5,0, 
-Navajo,WOODLAND,State Treasurer,,UNDER VOTES,,36,5,22,9,0, 
-Navajo,SITGREAVES,State Treasurer,,UNDER VOTES,,234,39,152,43,0, 
-Navajo,SUNRISE,State Treasurer,,UNDER VOTES,,250,86,128,34,2, 
-Navajo,RED BUTTE,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,752,502,205,40,5, 
-Navajo,PAINTED DESERT,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,143,73,58,11,1, 
-Navajo,HUBBELL,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,89,39,46,4,0, 
-Navajo,BLACK BUTTES,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,1131,406,594,116,15, 
-Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,129,89,38,2,0, 
-Navajo,STONE BUTTE,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,49,42,6,1,0, 
-Navajo,PIONEER,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,4168,1595,2062,480,31, 
-Navajo,ANTELOPE,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,1261,526,620,106,9, 
-Navajo,JUNIPER,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,688,160,476,51,1, 
-Navajo,BISON,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,572,224,287,59,2, 
-Navajo,MOGOLLON,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,1568,369,1065,132,2, 
-Navajo,WOODLAND,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,541,167,302,63,9, 
-Navajo,SITGREAVES,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,4245,1125,2698,401,21, 
-Navajo,SUNRISE,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,3175,849,2029,277,20, 
-Navajo,RED BUTTE,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,4477,2853,1344,229,51, 
-Navajo,PAINTED DESERT,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,652,464,160,19,9, 
-Navajo,HUBBELL,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,93,51,32,10,0, 
-Navajo,BLACK BUTTES,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,3194,1542,1368,237,47, 
-Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,826,550,219,36,21, 
-Navajo,STONE BUTTE,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,365,302,55,8,0, 
-Navajo,PIONEER,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,846,252,488,105,1, 
-Navajo,ANTELOPE,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,874,317,463,83,11, 
-Navajo,JUNIPER,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,267,63,189,15,0, 
-Navajo,BISON,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,137,30,83,24,0, 
-Navajo,MOGOLLON,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,529,80,415,32,2, 
-Navajo,WOODLAND,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,241,55,156,29,1, 
-Navajo,SITGREAVES,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,1537,284,1114,136,3, 
-Navajo,SUNRISE,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,3482,1682,1498,222,80, 
-Navajo,RED BUTTE,Superintendent of Public Instruction,,WRITE-IN,,12,5,7,0,0, 
-Navajo,PAINTED DESERT,Superintendent of Public Instruction,,WRITE-IN,,2,2,0,0,0, 
-Navajo,HUBBELL,Superintendent of Public Instruction,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Superintendent of Public Instruction,,WRITE-IN,,10,3,5,2,0, 
-Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,WRITE-IN,,4,3,0,1,0, 
-Navajo,STONE BUTTE,Superintendent of Public Instruction,,WRITE-IN,,0,0,0,0,0, 
-Navajo,PIONEER,Superintendent of Public Instruction,,WRITE-IN,,6,0,5,1,0, 
-Navajo,ANTELOPE,Superintendent of Public Instruction,,WRITE-IN,,7,2,4,1,0, 
-Navajo,JUNIPER,Superintendent of Public Instruction,,WRITE-IN,,4,1,3,0,0, 
-Navajo,BISON,Superintendent of Public Instruction,,WRITE-IN,,1,0,0,1,0, 
-Navajo,MOGOLLON,Superintendent of Public Instruction,,WRITE-IN,,2,0,2,0,0, 
-Navajo,WOODLAND,Superintendent of Public Instruction,,WRITE-IN,,0,0,0,0,0, 
-Navajo,SITGREAVES,Superintendent of Public Instruction,,WRITE-IN,,14,4,6,4,0, 
-Navajo,SUNRISE,Superintendent of Public Instruction,,WRITE-IN,,8,3,3,2,0, 
-Navajo,RED BUTTE,Superintendent of Public Instruction,,OVER VOTES,,3,2,1,0,0, 
-Navajo,PAINTED DESERT,Superintendent of Public Instruction,,OVER VOTES,,2,1,0,1,0, 
-Navajo,HUBBELL,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Superintendent of Public Instruction,,OVER VOTES,,2,2,0,0,0, 
-Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,Superintendent of Public Instruction,,OVER VOTES,,1,1,0,0,0, 
-Navajo,PIONEER,Superintendent of Public Instruction,,OVER VOTES,,1,1,0,0,0, 
-Navajo,ANTELOPE,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Superintendent of Public Instruction,,OVER VOTES,,1,0,1,0,0, 
-Navajo,WOODLAND,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Superintendent of Public Instruction,,OVER VOTES,,1,0,1,0,0, 
-Navajo,SUNRISE,Superintendent of Public Instruction,,OVER VOTES,,3,0,2,1,0, 
-Navajo,RED BUTTE,Superintendent of Public Instruction,,UNDER VOTES,,161,128,27,6,0, 
-Navajo,PAINTED DESERT,Superintendent of Public Instruction,,UNDER VOTES,,16,12,2,1,1, 
-Navajo,HUBBELL,Superintendent of Public Instruction,,UNDER VOTES,,7,4,1,2,0, 
-Navajo,BLACK BUTTES,Superintendent of Public Instruction,,UNDER VOTES,,100,42,49,6,3, 
-Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,UNDER VOTES,,27,21,4,0,2, 
-Navajo,STONE BUTTE,Superintendent of Public Instruction,,UNDER VOTES,,9,9,0,0,0, 
-Navajo,PIONEER,Superintendent of Public Instruction,,UNDER VOTES,,110,38,58,14,0, 
-Navajo,ANTELOPE,Superintendent of Public Instruction,,UNDER VOTES,,93,32,48,10,3, 
-Navajo,JUNIPER,Superintendent of Public Instruction,,UNDER VOTES,,37,10,20,7,0, 
-Navajo,BISON,Superintendent of Public Instruction,,UNDER VOTES,,19,10,8,1,0, 
-Navajo,MOGOLLON,Superintendent of Public Instruction,,UNDER VOTES,,49,11,33,5,0, 
-Navajo,WOODLAND,Superintendent of Public Instruction,,UNDER VOTES,,29,6,18,5,0, 
-Navajo,SITGREAVES,Superintendent of Public Instruction,,UNDER VOTES,,191,33,124,34,0, 
-Navajo,SUNRISE,Superintendent of Public Instruction,,UNDER VOTES,,213,77,100,33,3, 
-Navajo,RED BUTTE,State Mine Inpsector,,"HART, JOE",REP,777,476,246,42,13, 
-Navajo,PAINTED DESERT,State Mine Inpsector,,"HART, JOE",REP,159,86,61,12,0, 
-Navajo,HUBBELL,State Mine Inpsector,,"HART, JOE",REP,96,35,53,8,0, 
-Navajo,BLACK BUTTES,State Mine Inpsector,,"HART, JOE",REP,1210,447,624,124,15, 
-Navajo,CEDAR VALLEY,State Mine Inpsector,,"HART, JOE",REP,135,95,36,2,2, 
-Navajo,STONE BUTTE,State Mine Inpsector,,"HART, JOE",REP,48,40,7,1,0, 
-Navajo,PIONEER,State Mine Inpsector,,"HART, JOE",REP,4301,1632,2151,490,28, 
-Navajo,ANTELOPE,State Mine Inpsector,,"HART, JOE",REP,1362,572,663,117,10, 
-Navajo,JUNIPER,State Mine Inpsector,,"HART, JOE",REP,695,158,485,51,1, 
-Navajo,BISON,State Mine Inpsector,,"HART, JOE",REP,576,213,299,62,2, 
-Navajo,MOGOLLON,State Mine Inpsector,,"HART, JOE",REP,1637,369,1130,135,3, 
-Navajo,WOODLAND,State Mine Inpsector,,"HART, JOE",REP,560,174,307,70,9, 
-Navajo,SITGREAVES,State Mine Inpsector,,"HART, JOE",REP,4344,1132,2776,415,21, 
-Navajo,SUNRISE,State Mine Inpsector,,"HART, JOE",REP,3289,848,2123,299,19, 
-Navajo,RED BUTTE,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,4412,2837,1308,224,43, 
-Navajo,PAINTED DESERT,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,626,443,154,19,10, 
-Navajo,HUBBELL,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,83,53,25,5,0, 
-Navajo,BLACK BUTTES,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,3081,1490,1323,220,48, 
-Navajo,CEDAR VALLEY,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,823,546,221,37,19, 
-Navajo,STONE BUTTE,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,361,300,54,7,0, 
-Navajo,PIONEER,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,668,199,384,82,3, 
-Navajo,ANTELOPE,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,747,260,408,69,10, 
-Navajo,JUNIPER,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,257,62,181,14,0, 
-Navajo,BISON,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,118,38,58,22,0, 
-Navajo,MOGOLLON,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,445,76,339,29,1, 
-Navajo,WOODLAND,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,198,43,136,18,1, 
-Navajo,SITGREAVES,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,1346,251,989,103,3, 
-Navajo,SUNRISE,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,3262,1653,1334,194,81, 
-Navajo,RED BUTTE,State Mine Inpsector,,WRITE-IN,,9,6,3,0,0, 
-Navajo,PAINTED DESERT,State Mine Inpsector,,WRITE-IN,,2,2,0,0,0, 
-Navajo,HUBBELL,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,State Mine Inpsector,,WRITE-IN,,10,3,3,4,0, 
-Navajo,CEDAR VALLEY,State Mine Inpsector,,WRITE-IN,,1,1,0,0,0, 
-Navajo,STONE BUTTE,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0, 
-Navajo,PIONEER,State Mine Inpsector,,WRITE-IN,,5,2,2,1,0, 
-Navajo,ANTELOPE,State Mine Inpsector,,WRITE-IN,,2,0,2,0,0, 
-Navajo,JUNIPER,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BISON,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0, 
-Navajo,MOGOLLON,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0, 
-Navajo,WOODLAND,State Mine Inpsector,,WRITE-IN,,1,1,0,0,0, 
-Navajo,SITGREAVES,State Mine Inpsector,,WRITE-IN,,16,3,7,6,0, 
-Navajo,SUNRISE,State Mine Inpsector,,WRITE-IN,,8,3,5,0,0, 
-Navajo,RED BUTTE,State Mine Inpsector,,OVER VOTES,,2,1,1,0,0, 
-Navajo,PAINTED DESERT,State Mine Inpsector,,OVER VOTES,,1,0,0,1,0, 
-Navajo,HUBBELL,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,State Mine Inpsector,,OVER VOTES,,1,1,0,0,0, 
-Navajo,CEDAR VALLEY,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,State Mine Inpsector,,OVER VOTES,,1,0,0,1,0, 
-Navajo,JUNIPER,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,State Mine Inpsector,,OVER VOTES,,3,0,2,1,0, 
-Navajo,RED BUTTE,State Mine Inpsector,,UNDER VOTES,,205,170,26,9,0, 
-Navajo,PAINTED DESERT,State Mine Inpsector,,UNDER VOTES,,27,21,5,0,1, 
-Navajo,HUBBELL,State Mine Inpsector,,UNDER VOTES,,10,6,1,3,0, 
-Navajo,BLACK BUTTES,State Mine Inpsector,,UNDER VOTES,,135,54,66,13,2, 
-Navajo,CEDAR VALLEY,State Mine Inpsector,,UNDER VOTES,,27,21,4,0,2, 
-Navajo,STONE BUTTE,State Mine Inpsector,,UNDER VOTES,,15,14,0,1,0, 
-Navajo,PIONEER,State Mine Inpsector,,UNDER VOTES,,157,53,76,27,1, 
-Navajo,ANTELOPE,State Mine Inpsector,,UNDER VOTES,,123,45,62,13,3, 
-Navajo,JUNIPER,State Mine Inpsector,,UNDER VOTES,,44,14,22,8,0, 
-Navajo,BISON,State Mine Inpsector,,UNDER VOTES,,35,13,21,1,0, 
-Navajo,MOGOLLON,State Mine Inpsector,,UNDER VOTES,,67,15,47,5,0, 
-Navajo,WOODLAND,State Mine Inpsector,,UNDER VOTES,,52,10,33,9,0, 
-Navajo,SITGREAVES,State Mine Inpsector,,UNDER VOTES,,282,60,171,51,0, 
-Navajo,SUNRISE,State Mine Inpsector,,UNDER VOTES,,319,107,168,41,3, 
-Navajo,RED BUTTE,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,452,294,126,26,6, 
-Navajo,PAINTED DESERT,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,115,57,47,11,0, 
-Navajo,HUBBELL,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,81,32,43,6,0, 
-Navajo,BLACK BUTTES,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,971,327,529,105,10, 
-Navajo,CEDAR VALLEY,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,69,47,20,1,1, 
-Navajo,STONE BUTTE,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,29,26,3,0,0, 
-Navajo,PIONEER,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,3960,1490,1980,469,21, 
-Navajo,ANTELOPE,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,1239,513,604,115,7, 
-Navajo,JUNIPER,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,626,150,428,47,1, 
-Navajo,BISON,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,527,190,275,61,1, 
-Navajo,MOGOLLON,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,1488,344,1020,122,2, 
-Navajo,WOODLAND,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,505,148,292,61,4, 
-Navajo,SITGREAVES,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,3859,975,2494,372,18, 
-Navajo,SUNRISE,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,2866,730,1843,277,16, 
-Navajo,RED BUTTE,Corporation Commissioner,,"OLSON, JUSTIN",REP,533,326,166,36,5, 
-Navajo,PAINTED DESERT,Corporation Commissioner,,"OLSON, JUSTIN",REP,110,52,52,5,1, 
-Navajo,HUBBELL,Corporation Commissioner,,"OLSON, JUSTIN",REP,80,31,45,4,0, 
-Navajo,BLACK BUTTES,Corporation Commissioner,,"OLSON, JUSTIN",REP,1050,363,553,117,17, 
-Navajo,CEDAR VALLEY,Corporation Commissioner,,"OLSON, JUSTIN",REP,86,58,25,2,1, 
-Navajo,STONE BUTTE,Corporation Commissioner,,"OLSON, JUSTIN",REP,42,35,6,1,0, 
-Navajo,PIONEER,Corporation Commissioner,,"OLSON, JUSTIN",REP,3865,1441,1941,461,22, 
-Navajo,ANTELOPE,Corporation Commissioner,,"OLSON, JUSTIN",REP,1191,511,567,106,7, 
-Navajo,JUNIPER,Corporation Commissioner,,"OLSON, JUSTIN",REP,605,136,426,42,1, 
-Navajo,BISON,Corporation Commissioner,,"OLSON, JUSTIN",REP,543,203,277,61,2, 
-Navajo,MOGOLLON,Corporation Commissioner,,"OLSON, JUSTIN",REP,1435,333,981,120,1, 
-Navajo,WOODLAND,Corporation Commissioner,,"OLSON, JUSTIN",REP,497,150,276,63,8, 
-Navajo,SITGREAVES,Corporation Commissioner,,"OLSON, JUSTIN",REP,3685,926,2388,359,12, 
-Navajo,SUNRISE,Corporation Commissioner,,"OLSON, JUSTIN",REP,3031,773,1962,280,16, 
-Navajo,RED BUTTE,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,3974,2526,1194,213,41, 
-Navajo,PAINTED DESERT,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,529,372,133,15,9, 
-Navajo,HUBBELL,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,77,45,26,6,0, 
-Navajo,BLACK BUTTES,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,2801,1320,1237,201,43, 
-Navajo,CEDAR VALLEY,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,723,480,197,29,17, 
-Navajo,STONE BUTTE,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,320,266,47,7,0, 
-Navajo,PIONEER,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,684,209,411,62,2, 
-Navajo,ANTELOPE,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,732,258,412,51,11, 
-Navajo,JUNIPER,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,251,56,183,12,0, 
-Navajo,BISON,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,123,33,70,20,0, 
-Navajo,MOGOLLON,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,505,82,384,37,2, 
-Navajo,WOODLAND,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,211,48,145,17,1, 
-Navajo,SITGREAVES,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,1403,249,1038,112,4, 
-Navajo,SUNRISE,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,3067,1502,1322,175,68, 
-Navajo,RED BUTTE,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,2693,1716,812,143,22, 
-Navajo,PAINTED DESERT,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,360,250,91,14,5, 
-Navajo,HUBBELL,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,63,33,22,8,0, 
-Navajo,BLACK BUTTES,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,2427,1138,1070,189,30, 
-Navajo,CEDAR VALLEY,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,437,280,129,20,8, 
-Navajo,STONE BUTTE,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,255,212,39,4,0, 
-Navajo,PIONEER,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,559,148,355,53,3, 
-Navajo,ANTELOPE,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,626,216,353,51,6, 
-Navajo,JUNIPER,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,216,51,151,14,0, 
-Navajo,BISON,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,108,25,64,19,0, 
-Navajo,MOGOLLON,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,431,67,330,33,1, 
-Navajo,WOODLAND,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,184,41,123,19,1, 
-Navajo,SITGREAVES,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,1206,204,894,105,3, 
-Navajo,SUNRISE,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,2844,1366,1231,181,66, 
-Navajo,RED BUTTE,Corporation Commissioner,,WRITE-IN,,15,9,6,0,0, 
-Navajo,PAINTED DESERT,Corporation Commissioner,,WRITE-IN,,1,1,0,0,0, 
-Navajo,HUBBELL,Corporation Commissioner,,WRITE-IN,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Corporation Commissioner,,WRITE-IN,,13,4,4,5,0, 
-Navajo,CEDAR VALLEY,Corporation Commissioner,,WRITE-IN,,1,1,0,0,0, 
-Navajo,STONE BUTTE,Corporation Commissioner,,WRITE-IN,,0,0,0,0,0, 
-Navajo,PIONEER,Corporation Commissioner,,WRITE-IN,,4,1,1,2,0, 
-Navajo,ANTELOPE,Corporation Commissioner,,WRITE-IN,,5,5,0,0,0, 
-Navajo,JUNIPER,Corporation Commissioner,,WRITE-IN,,1,0,1,0,0, 
-Navajo,BISON,Corporation Commissioner,,WRITE-IN,,1,0,1,0,0, 
-Navajo,MOGOLLON,Corporation Commissioner,,WRITE-IN,,3,0,3,0,0, 
-Navajo,WOODLAND,Corporation Commissioner,,WRITE-IN,,1,1,0,0,0, 
-Navajo,SITGREAVES,Corporation Commissioner,,WRITE-IN,,14,1,10,3,0, 
-Navajo,SUNRISE,Corporation Commissioner,,WRITE-IN,,6,5,1,0,0, 
-Navajo,RED BUTTE,Corporation Commissioner,,OVER VOTES,,10,8,2,0,0, 
-Navajo,PAINTED DESERT,Corporation Commissioner,,OVER VOTES,,6,4,0,2,0, 
-Navajo,HUBBELL,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0, 
-Navajo,CEDAR VALLEY,Corporation Commissioner,,OVER VOTES,,2,2,0,0,0, 
-Navajo,STONE BUTTE,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,Corporation Commissioner,,OVER VOTES,,2,2,0,0,0, 
-Navajo,ANTELOPE,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,Corporation Commissioner,,OVER VOTES,,4,0,4,0,0, 
-Navajo,BISON,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Corporation Commissioner,,OVER VOTES,,2,0,2,0,0, 
-Navajo,WOODLAND,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Corporation Commissioner,,OVER VOTES,,2,0,2,0,0, 
-Navajo,SUNRISE,Corporation Commissioner,,OVER VOTES,,8,4,4,0,0, 
-Navajo,RED BUTTE,Corporation Commissioner,,UNDER VOTES,,3133,2101,862,132,38, 
-Navajo,PAINTED DESERT,Corporation Commissioner,,UNDER VOTES,,509,368,117,17,7, 
-Navajo,HUBBELL,Corporation Commissioner,,UNDER VOTES,,77,47,22,8,0, 
-Navajo,BLACK BUTTES,Corporation Commissioner,,UNDER VOTES,,1612,838,639,105,30, 
-Navajo,CEDAR VALLEY,Corporation Commissioner,,UNDER VOTES,,654,458,151,26,19, 
-Navajo,STONE BUTTE,Corporation Commissioner,,UNDER VOTES,,202,169,27,6,0, 
-Navajo,PIONEER,Corporation Commissioner,,UNDER VOTES,,1188,481,538,153,16, 
-Navajo,ANTELOPE,Corporation Commissioner,,UNDER VOTES,,677,251,334,77,15, 
-Navajo,JUNIPER,Corporation Commissioner,,UNDER VOTES,,289,75,183,31,0, 
-Navajo,BISON,Corporation Commissioner,,UNDER VOTES,,156,77,69,9,1, 
-Navajo,MOGOLLON,Corporation Commissioner,,UNDER VOTES,,434,94,312,26,2, 
-Navajo,WOODLAND,Corporation Commissioner,,UNDER VOTES,,224,68,116,34,6, 
-Navajo,SITGREAVES,Corporation Commissioner,,UNDER VOTES,,1807,537,1060,199,11, 
-Navajo,SUNRISE,Corporation Commissioner,,UNDER VOTES,,1940,842,901,157,40, 
-Navajo,RED BUTTE,Clerk of the Superior Court,,"ROMO, DEANNE",,4900,3135,1461,253,51, 
-Navajo,PAINTED DESERT,Clerk of the Superior Court,,"ROMO, DEANNE",,727,502,185,29,11, 
-Navajo,HUBBELL,Clerk of the Superior Court,,"ROMO, DEANNE",,140,73,56,11,0, 
-Navajo,BLACK BUTTES,Clerk of the Superior Court,,"ROMO, DEANNE",,3842,1766,1722,298,56, 
-Navajo,CEDAR VALLEY,Clerk of the Superior Court,,"ROMO, DEANNE",,905,599,249,36,21, 
-Navajo,STONE BUTTE,Clerk of the Superior Court,,"ROMO, DEANNE",,386,320,57,9,0, 
-Navajo,PIONEER,Clerk of the Superior Court,,"ROMO, DEANNE",,2734,1006,1416,298,14, 
-Navajo,ANTELOPE,Clerk of the Superior Court,,"ROMO, DEANNE",,1707,675,862,151,19, 
-Navajo,JUNIPER,Clerk of the Superior Court,,"ROMO, DEANNE",,510,119,365,25,1, 
-Navajo,BISON,Clerk of the Superior Court,,"ROMO, DEANNE",,330,123,167,38,2, 
-Navajo,MOGOLLON,Clerk of the Superior Court,,"ROMO, DEANNE",,1107,232,782,90,3, 
-Navajo,WOODLAND,Clerk of the Superior Court,,"ROMO, DEANNE",,433,119,264,44,6, 
-Navajo,SITGREAVES,Clerk of the Superior Court,,"ROMO, DEANNE",,3118,708,2095,303,12, 
-Navajo,SUNRISE,Clerk of the Superior Court,,"ROMO, DEANNE",,4498,1936,2185,293,84, 
-Navajo,RED BUTTE,Clerk of the Superior Court,,WRITE-IN,,37,26,10,1,0, 
-Navajo,PAINTED DESERT,Clerk of the Superior Court,,WRITE-IN,,14,12,1,1,0, 
-Navajo,HUBBELL,Clerk of the Superior Court,,WRITE-IN,,3,1,2,0,0, 
-Navajo,BLACK BUTTES,Clerk of the Superior Court,,WRITE-IN,,53,24,26,3,0, 
-Navajo,CEDAR VALLEY,Clerk of the Superior Court,,WRITE-IN,,12,11,1,0,0, 
-Navajo,STONE BUTTE,Clerk of the Superior Court,,WRITE-IN,,4,4,0,0,0, 
-Navajo,PIONEER,Clerk of the Superior Court,,WRITE-IN,,201,96,87,15,3, 
-Navajo,ANTELOPE,Clerk of the Superior Court,,WRITE-IN,,62,29,31,2,0, 
-Navajo,JUNIPER,Clerk of the Superior Court,,WRITE-IN,,38,17,19,2,0, 
-Navajo,BISON,Clerk of the Superior Court,,WRITE-IN,,24,10,11,3,0, 
-Navajo,MOGOLLON,Clerk of the Superior Court,,WRITE-IN,,55,11,43,1,0, 
-Navajo,WOODLAND,Clerk of the Superior Court,,WRITE-IN,,28,16,9,1,2, 
-Navajo,SITGREAVES,Clerk of the Superior Court,,WRITE-IN,,184,69,95,19,1, 
-Navajo,SUNRISE,Clerk of the Superior Court,,WRITE-IN,,131,45,71,13,2, 
-Navajo,RED BUTTE,Clerk of the Superior Court,,OVER VOTES,,4,4,0,0,0, 
-Navajo,PAINTED DESERT,Clerk of the Superior Court,,OVER VOTES,,1,0,0,1,0, 
-Navajo,HUBBELL,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Clerk of the Superior Court,,OVER VOTES,,1,0,1,0,0, 
-Navajo,CEDAR VALLEY,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,Clerk of the Superior Court,,OVER VOTES,,1,0,1,0,0, 
-Navajo,ANTELOPE,Clerk of the Superior Court,,OVER VOTES,,1,0,1,0,0, 
-Navajo,JUNIPER,Clerk of the Superior Court,,OVER VOTES,,1,1,0,0,0, 
-Navajo,BISON,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,Clerk of the Superior Court,,OVER VOTES,,3,2,1,0,0, 
-Navajo,RED BUTTE,Clerk of the Superior Court,,UNDER VOTES,,464,325,113,21,5, 
-Navajo,PAINTED DESERT,Clerk of the Superior Court,,UNDER VOTES,,73,38,34,1,0, 
-Navajo,HUBBELL,Clerk of the Superior Court,,UNDER VOTES,,46,20,21,5,0, 
-Navajo,BLACK BUTTES,Clerk of the Superior Court,,UNDER VOTES,,541,205,267,60,9, 
-Navajo,CEDAR VALLEY,Clerk of the Superior Court,,UNDER VOTES,,69,53,11,3,2, 
-Navajo,STONE BUTTE,Clerk of the Superior Court,,UNDER VOTES,,34,30,4,0,0, 
-Navajo,PIONEER,Clerk of the Superior Court,,UNDER VOTES,,2195,784,1109,287,15, 
-Navajo,ANTELOPE,Clerk of the Superior Court,,UNDER VOTES,,465,173,241,47,4, 
-Navajo,JUNIPER,Clerk of the Superior Court,,UNDER VOTES,,447,97,304,46,0, 
-Navajo,BISON,Clerk of the Superior Court,,UNDER VOTES,,375,131,200,44,0, 
-Navajo,MOGOLLON,Clerk of the Superior Court,,UNDER VOTES,,987,217,691,78,1, 
-Navajo,WOODLAND,Clerk of the Superior Court,,UNDER VOTES,,350,93,203,52,2, 
-Navajo,SITGREAVES,Clerk of the Superior Court,,UNDER VOTES,,2686,669,1753,253,11, 
-Navajo,SUNRISE,Clerk of the Superior Court,,UNDER VOTES,,2249,628,1375,229,17, 
-Navajo,PAINTED DESERT,Justice of the Peace Prec. 1,,"MAREZ, EVELYN",,730,502,190,28,10, 
-Navajo,CEDAR VALLEY,Justice of the Peace Prec. 1,,"MAREZ, EVELYN",,904,603,245,36,20, 
-Navajo,ANTELOPE,Justice of the Peace Prec. 1,,"MAREZ, EVELYN",,1690,662,860,149,19, 
-Navajo,PAINTED DESERT,Justice of the Peace Prec. 1,,WRITE-IN,,11,9,1,1,0, 
-Navajo,CEDAR VALLEY,Justice of the Peace Prec. 1,,WRITE-IN,,10,7,3,0,0, 
-Navajo,ANTELOPE,Justice of the Peace Prec. 1,,WRITE-IN,,62,30,31,1,0, 
-Navajo,PAINTED DESERT,Justice of the Peace Prec. 1,,OVER VOTES,,1,0,0,1,0, 
-Navajo,CEDAR VALLEY,Justice of the Peace Prec. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Justice of the Peace Prec. 1,,OVER VOTES,,1,0,1,0,0, 
-Navajo,PAINTED DESERT,Justice of the Peace Prec. 1,,UNDER VOTES,,73,41,29,2,1, 
-Navajo,CEDAR VALLEY,Justice of the Peace Prec. 1,,UNDER VOTES,,72,53,13,3,3, 
-Navajo,ANTELOPE,Justice of the Peace Prec. 1,,UNDER VOTES,,482,185,243,50,4, 
-Navajo,HUBBELL,Justice of the Peace Prec. 2,,"LITTLE, B.J.",,157,83,59,15,0, 
-Navajo,BLACK BUTTES,Justice of the Peace Prec. 2,,"LITTLE, B.J.",,3884,1790,1731,307,56, 
-Navajo,HUBBELL,Justice of the Peace Prec. 2,,WRITE-IN,,1,0,1,0,0, 
-Navajo,BLACK BUTTES,Justice of the Peace Prec. 2,,WRITE-IN,,66,28,33,3,2, 
-Navajo,HUBBELL,Justice of the Peace Prec. 2,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Justice of the Peace Prec. 2,,OVER VOTES,,1,1,0,0,0, 
-Navajo,HUBBELL,Justice of the Peace Prec. 2,,UNDER VOTES,,31,11,19,1,0, 
-Navajo,BLACK BUTTES,Justice of the Peace Prec. 2,,UNDER VOTES,,486,176,252,51,7, 
-Navajo,PIONEER,Justice of the Peace Prec. 3,,"PETERSON, FRED",,4475,1685,2235,525,30, 
-Navajo,MOGOLLON,Justice of the Peace Prec. 3,,"PETERSON, FRED",,1727,381,1222,121,3, 
-Navajo,PIONEER,Justice of the Peace Prec. 3,,WRITE-IN,,118,46,55,17,0, 
-Navajo,MOGOLLON,Justice of the Peace Prec. 3,,WRITE-IN,,43,12,24,7,0, 
-Navajo,PIONEER,Justice of the Peace Prec. 3,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Justice of the Peace Prec. 3,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,Justice of the Peace Prec. 3,,UNDER VOTES,,538,155,323,58,2, 
-Navajo,MOGOLLON,Justice of the Peace Prec. 3,,UNDER VOTES,,379,67,270,41,1, 
-Navajo,RED BUTTE,Justice of the Peace Prec. 4,,"NELSON, SUSIE",,4955,3168,1479,259,49, 
-Navajo,STONE BUTTE,Justice of the Peace Prec. 4,,"NELSON, SUSIE",,384,318,57,9,0, 
-Navajo,RED BUTTE,Justice of the Peace Prec. 4,,WRITE-IN,,39,28,9,2,0, 
-Navajo,STONE BUTTE,Justice of the Peace Prec. 4,,WRITE-IN,,4,4,0,0,0, 
-Navajo,RED BUTTE,Justice of the Peace Prec. 4,,OVER VOTES,,2,2,0,0,0, 
-Navajo,STONE BUTTE,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0,0, 
-Navajo,RED BUTTE,Justice of the Peace Prec. 4,,UNDER VOTES,,409,292,96,14,7, 
-Navajo,STONE BUTTE,Justice of the Peace Prec. 4,,UNDER VOTES,,36,32,4,0,0, 
-Navajo,JUNIPER,Justice of the Peace Prec. 5,,"PATTERSON, SHIRLEY",,797,186,550,60,1, 
-Navajo,BISON,Justice of the Peace Prec. 5,,"PATTERSON, SHIRLEY",,604,231,306,65,2, 
-Navajo,SITGREAVES,Justice of the Peace Prec. 5,,"PATTERSON, SHIRLEY",,4901,1236,3183,462,20, 
-Navajo,SUNRISE,Justice of the Peace Prec. 5,,"PATTERSON, SHIRLEY",,28,2,23,3,0, 
-Navajo,JUNIPER,Justice of the Peace Prec. 5,,WRITE-IN,,13,6,7,0,0, 
-Navajo,BISON,Justice of the Peace Prec. 5,,WRITE-IN,,19,2,11,6,0, 
-Navajo,SITGREAVES,Justice of the Peace Prec. 5,,WRITE-IN,,136,41,76,18,1, 
-Navajo,SUNRISE,Justice of the Peace Prec. 5,,WRITE-IN,,0,0,0,0,0, 
-Navajo,JUNIPER,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Justice of the Peace Prec. 5,,OVER VOTES,,3,0,3,0,0, 
-Navajo,SUNRISE,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,Justice of the Peace Prec. 5,,UNDER VOTES,,186,42,131,13,0, 
-Navajo,BISON,Justice of the Peace Prec. 5,,UNDER VOTES,,106,31,61,14,0, 
-Navajo,SITGREAVES,Justice of the Peace Prec. 5,,UNDER VOTES,,948,169,681,95,3, 
-Navajo,SUNRISE,Justice of the Peace Prec. 5,,UNDER VOTES,,5,0,4,0,1, 
-Navajo,WOODLAND,Justice of the Peace Prec. 6,,"WIDMAIER, DAVID",,469,136,280,50,3, 
-Navajo,SUNRISE,Justice of the Peace Prec. 6,,"WIDMAIER, DAVID",,4715,2018,2300,322,75, 
-Navajo,WOODLAND,Justice of the Peace Prec. 6,,WRITE-IN,,23,9,11,1,2, 
-Navajo,SUNRISE,Justice of the Peace Prec. 6,,WRITE-IN,,113,40,66,5,2, 
-Navajo,WOODLAND,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,Justice of the Peace Prec. 6,,OVER VOTES,,4,1,3,0,0, 
-Navajo,WOODLAND,Justice of the Peace Prec. 6,,UNDER VOTES,,319,83,185,46,5, 
-Navajo,SUNRISE,Justice of the Peace Prec. 6,,UNDER VOTES,,2016,550,1236,205,25, 
-Navajo,PAINTED DESERT,Constable Prec. 1,,"ROMO, PHYLLIS",,716,499,181,26,10, 
-Navajo,CEDAR VALLEY,Constable Prec. 1,,"ROMO, PHYLLIS",,905,603,246,36,20, 
-Navajo,ANTELOPE,Constable Prec. 1,,"ROMO, PHYLLIS",,1661,651,848,144,18, 
-Navajo,PAINTED DESERT,Constable Prec. 1,,WRITE-IN,,14,11,2,1,0, 
-Navajo,CEDAR VALLEY,Constable Prec. 1,,WRITE-IN,,11,11,0,0,0, 
-Navajo,ANTELOPE,Constable Prec. 1,,WRITE-IN,,59,23,27,8,1, 
-Navajo,PAINTED DESERT,Constable Prec. 1,,OVER VOTES,,1,0,0,1,0, 
-Navajo,CEDAR VALLEY,Constable Prec. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Constable Prec. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PAINTED DESERT,Constable Prec. 1,,UNDER VOTES,,84,42,37,4,1, 
-Navajo,CEDAR VALLEY,Constable Prec. 1,,UNDER VOTES,,70,49,15,3,3, 
-Navajo,ANTELOPE,Constable Prec. 1,,UNDER VOTES,,515,203,260,48,4, 
-Navajo,HUBBELL,Constable Prec. 2,,"SMITH, SUZANNE",,135,68,57,10,0, 
-Navajo,BLACK BUTTES,Constable Prec. 2,,"SMITH, SUZANNE",,3774,1735,1693,291,55, 
-Navajo,HUBBELL,Constable Prec. 2,,WRITE-IN,,1,0,1,0,0, 
-Navajo,BLACK BUTTES,Constable Prec. 2,,WRITE-IN,,54,27,24,3,0, 
-Navajo,HUBBELL,Constable Prec. 2,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Constable Prec. 2,,OVER VOTES,,2,2,0,0,0, 
-Navajo,HUBBELL,Constable Prec. 2,,UNDER VOTES,,53,26,21,6,0, 
-Navajo,BLACK BUTTES,Constable Prec. 2,,UNDER VOTES,,607,231,299,67,10, 
-Navajo,PIONEER,Constable Prec. 3,,"GRIMES, SAM",,4435,1679,2216,510,30, 
-Navajo,MOGOLLON,Constable Prec. 3,,"GRIMES, SAM",,1741,395,1206,137,3, 
-Navajo,PIONEER,Constable Prec. 3,,WRITE-IN,,35,10,19,6,0, 
-Navajo,MOGOLLON,Constable Prec. 3,,WRITE-IN,,20,3,15,2,0, 
-Navajo,PIONEER,Constable Prec. 3,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Constable Prec. 3,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,Constable Prec. 3,,UNDER VOTES,,661,197,378,84,2, 
-Navajo,MOGOLLON,Constable Prec. 3,,UNDER VOTES,,388,62,295,30,1, 
-Navajo,RED BUTTE,Constable Prec. 4,,"WHITETHORNE-BENALLY, ELIZABETH",,4949,3161,1477,260,51, 
-Navajo,STONE BUTTE,Constable Prec. 4,,"WHITETHORNE-BENALLY, ELIZABETH",,399,332,58,9,0, 
-Navajo,RED BUTTE,Constable Prec. 4,,WRITE-IN,,46,29,14,2,1, 
-Navajo,STONE BUTTE,Constable Prec. 4,,WRITE-IN,,1,1,0,0,0, 
-Navajo,RED BUTTE,Constable Prec. 4,,OVER VOTES,,5,5,0,0,0, 
-Navajo,STONE BUTTE,Constable Prec. 4,,OVER VOTES,,0,0,0,0,0, 
-Navajo,RED BUTTE,Constable Prec. 4,,UNDER VOTES,,405,295,93,13,4, 
-Navajo,STONE BUTTE,Constable Prec. 4,,UNDER VOTES,,24,21,3,0,0, 
-Navajo,JUNIPER,Constable Prec. 5,,"TIPTON, SCOTT",,789,188,542,58,1, 
-Navajo,BISON,Constable Prec. 5,,"TIPTON, SCOTT",,624,235,316,71,2, 
-Navajo,SITGREAVES,Constable Prec. 5,,"TIPTON, SCOTT",,4919,1245,3184,470,20, 
-Navajo,SUNRISE,Constable Prec. 5,,"TIPTON, SCOTT",,27,2,22,3,0, 
-Navajo,JUNIPER,Constable Prec. 5,,WRITE-IN,,9,2,7,0,0, 
-Navajo,BISON,Constable Prec. 5,,WRITE-IN,,3,1,1,1,0, 
-Navajo,SITGREAVES,Constable Prec. 5,,WRITE-IN,,50,16,26,8,0, 
-Navajo,SUNRISE,Constable Prec. 5,,WRITE-IN,,0,0,0,0,0, 
-Navajo,JUNIPER,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Constable Prec. 5,,OVER VOTES,,1,0,1,0,0, 
-Navajo,SUNRISE,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,Constable Prec. 5,,UNDER VOTES,,198,44,139,15,0, 
-Navajo,BISON,Constable Prec. 5,,UNDER VOTES,,102,28,61,13,0, 
-Navajo,SITGREAVES,Constable Prec. 5,,UNDER VOTES,,1018,185,732,97,4, 
-Navajo,SUNRISE,Constable Prec. 5,,UNDER VOTES,,6,0,5,0,1, 
-Navajo,WOODLAND,Constable Prec. 6,,"SHARP, GREG",,425,119,261,42,3, 
-Navajo,SUNRISE,Constable Prec. 6,,"SHARP, GREG",,4403,1915,2131,289,68, 
-Navajo,WOODLAND,Constable Prec. 6,,WRITE-IN,,23,13,7,1,2, 
-Navajo,SUNRISE,Constable Prec. 6,,WRITE-IN,,109,38,64,5,2, 
-Navajo,WOODLAND,Constable Prec. 6,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,Constable Prec. 6,,OVER VOTES,,4,4,0,0,0, 
-Navajo,WOODLAND,Constable Prec. 6,,UNDER VOTES,,363,96,208,54,5, 
-Navajo,SUNRISE,Constable Prec. 6,,UNDER VOTES,,2332,652,1410,238,32, 
-Navajo,RED BUTTE,Judge of Superior Court Div. 1,,"HATCH, RALPH",,4511,2890,1332,241,48, 
-Navajo,PAINTED DESERT,Judge of Superior Court Div. 1,,"HATCH, RALPH",,703,486,179,28,10, 
-Navajo,HUBBELL,Judge of Superior Court Div. 1,,"HATCH, RALPH",,151,76,65,10,0, 
-Navajo,BLACK BUTTES,Judge of Superior Court Div. 1,,"HATCH, RALPH",,3640,1675,1636,273,56, 
-Navajo,CEDAR VALLEY,Judge of Superior Court Div. 1,,"HATCH, RALPH",,870,580,234,36,20, 
-Navajo,STONE BUTTE,Judge of Superior Court Div. 1,,"HATCH, RALPH",,355,298,49,8,0, 
-Navajo,PIONEER,Judge of Superior Court Div. 1,,"HATCH, RALPH",,3767,1458,1869,414,26, 
-Navajo,ANTELOPE,Judge of Superior Court Div. 1,,"HATCH, RALPH",,1816,722,915,160,19, 
-Navajo,JUNIPER,Judge of Superior Court Div. 1,,"HATCH, RALPH",,676,164,476,35,1, 
-Navajo,BISON,Judge of Superior Court Div. 1,,"HATCH, RALPH",,500,189,256,53,2, 
-Navajo,MOGOLLON,Judge of Superior Court Div. 1,,"HATCH, RALPH",,1433,326,997,108,2, 
-Navajo,WOODLAND,Judge of Superior Court Div. 1,,"HATCH, RALPH",,519,162,298,52,7, 
-Navajo,SITGREAVES,Judge of Superior Court Div. 1,,"HATCH, RALPH",,4040,1005,2655,364,16, 
-Navajo,SUNRISE,Judge of Superior Court Div. 1,,"HATCH, RALPH",,4518,1811,2320,317,70, 
-Navajo,RED BUTTE,Judge of Superior Court Div. 1,,WRITE-IN,,57,43,14,0,0, 
-Navajo,PAINTED DESERT,Judge of Superior Court Div. 1,,WRITE-IN,,15,11,2,2,0, 
-Navajo,HUBBELL,Judge of Superior Court Div. 1,,WRITE-IN,,1,0,1,0,0, 
-Navajo,BLACK BUTTES,Judge of Superior Court Div. 1,,WRITE-IN,,55,22,29,4,0, 
-Navajo,CEDAR VALLEY,Judge of Superior Court Div. 1,,WRITE-IN,,14,12,2,0,0, 
-Navajo,STONE BUTTE,Judge of Superior Court Div. 1,,WRITE-IN,,3,3,0,0,0, 
-Navajo,PIONEER,Judge of Superior Court Div. 1,,WRITE-IN,,77,29,34,13,1, 
-Navajo,ANTELOPE,Judge of Superior Court Div. 1,,WRITE-IN,,31,13,15,3,0, 
-Navajo,JUNIPER,Judge of Superior Court Div. 1,,WRITE-IN,,13,6,6,1,0, 
-Navajo,BISON,Judge of Superior Court Div. 1,,WRITE-IN,,4,0,1,3,0, 
-Navajo,MOGOLLON,Judge of Superior Court Div. 1,,WRITE-IN,,22,3,15,4,0, 
-Navajo,WOODLAND,Judge of Superior Court Div. 1,,WRITE-IN,,9,6,2,1,0, 
-Navajo,SITGREAVES,Judge of Superior Court Div. 1,,WRITE-IN,,72,32,33,7,0, 
-Navajo,SUNRISE,Judge of Superior Court Div. 1,,WRITE-IN,,67,30,31,5,1, 
-Navajo,RED BUTTE,Judge of Superior Court Div. 1,,OVER VOTES,,1,1,0,0,0, 
-Navajo,PAINTED DESERT,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,HUBBELL,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Judge of Superior Court Div. 1,,OVER VOTES,,2,2,0,0,0, 
-Navajo,CEDAR VALLEY,Judge of Superior Court Div. 1,,OVER VOTES,,1,0,1,0,0, 
-Navajo,STONE BUTTE,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Judge of Superior Court Div. 1,,OVER VOTES,,1,0,1,0,0, 
-Navajo,JUNIPER,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,Judge of Superior Court Div. 1,,OVER VOTES,,1,0,0,0,1, 
-Navajo,SITGREAVES,Judge of Superior Court Div. 1,,OVER VOTES,,1,0,0,1,0, 
-Navajo,SUNRISE,Judge of Superior Court Div. 1,,OVER VOTES,,1,1,0,0,0, 
-Navajo,RED BUTTE,Judge of Superior Court Div. 1,,UNDER VOTES,,836,556,238,34,8, 
-Navajo,PAINTED DESERT,Judge of Superior Court Div. 1,,UNDER VOTES,,97,55,39,2,1, 
-Navajo,HUBBELL,Judge of Superior Court Div. 1,,UNDER VOTES,,37,18,13,6,0, 
-Navajo,BLACK BUTTES,Judge of Superior Court Div. 1,,UNDER VOTES,,740,296,351,84,9, 
-Navajo,CEDAR VALLEY,Judge of Superior Court Div. 1,,UNDER VOTES,,101,71,24,3,3, 
-Navajo,STONE BUTTE,Judge of Superior Court Div. 1,,UNDER VOTES,,66,53,12,1,0, 
-Navajo,PIONEER,Judge of Superior Court Div. 1,,UNDER VOTES,,1287,399,710,173,5, 
-Navajo,ANTELOPE,Judge of Superior Court Div. 1,,UNDER VOTES,,387,142,204,37,4, 
-Navajo,JUNIPER,Judge of Superior Court Div. 1,,UNDER VOTES,,307,64,206,37,0, 
-Navajo,BISON,Judge of Superior Court Div. 1,,UNDER VOTES,,225,75,121,29,0, 
-Navajo,MOGOLLON,Judge of Superior Court Div. 1,,UNDER VOTES,,694,131,504,57,2, 
-Navajo,WOODLAND,Judge of Superior Court Div. 1,,UNDER VOTES,,282,60,176,44,2, 
-Navajo,SITGREAVES,Judge of Superior Court Div. 1,,UNDER VOTES,,1875,409,1255,203,8, 
-Navajo,SUNRISE,Judge of Superior Court Div. 1,,UNDER VOTES,,2295,769,1281,213,32, 
-Navajo,HUBBELL,Board Member Winslow USD 1,,"BRITTON, ISABEL",,73,31,39,3,0, 
-Navajo,BLACK BUTTES,Board Member Winslow USD 1,,"BRITTON, ISABEL",,1092,395,576,112,9, 
-Navajo,PIONEER,Board Member Winslow USD 1,,"BRITTON, ISABEL",,11,0,11,0,0, 
-Navajo,MOGOLLON,Board Member Winslow USD 1,,"BRITTON, ISABEL",,0,0,0,0,0, 
-Navajo,HUBBELL,Board Member Winslow USD 1,,"ERVIEN, MARILEE",,120,52,57,11,0, 
-Navajo,BLACK BUTTES,Board Member Winslow USD 1,,"ERVIEN, MARILEE",,1354,365,817,161,11, 
-Navajo,PIONEER,Board Member Winslow USD 1,,"ERVIEN, MARILEE",,9,3,6,0,0, 
-Navajo,MOGOLLON,Board Member Winslow USD 1,,"ERVIEN, MARILEE",,0,0,0,0,0, 
-Navajo,HUBBELL,Board Member Winslow USD 1,,"MONTOYA, JOSEPHINE ""DODIE""",,80,42,30,8,0, 
-Navajo,BLACK BUTTES,Board Member Winslow USD 1,,"MONTOYA, JOSEPHINE ""DODIE""",,1617,608,835,160,14, 
-Navajo,PIONEER,Board Member Winslow USD 1,,"MONTOYA, JOSEPHINE ""DODIE""",,14,2,12,0,0, 
-Navajo,MOGOLLON,Board Member Winslow USD 1,,"MONTOYA, JOSEPHINE ""DODIE""",,0,0,0,0,0, 
-Navajo,HUBBELL,Board Member Winslow USD 1,,WRITE-IN,,4,0,4,0,0, 
-Navajo,BLACK BUTTES,Board Member Winslow USD 1,,WRITE-IN,,20,9,11,0,0, 
-Navajo,PIONEER,Board Member Winslow USD 1,,WRITE-IN,,0,0,0,0,0, 
-Navajo,MOGOLLON,Board Member Winslow USD 1,,WRITE-IN,,0,0,0,0,0, 
-Navajo,HUBBELL,Board Member Winslow USD 1,,OVER VOTES,,2,2,0,0,0, 
-Navajo,BLACK BUTTES,Board Member Winslow USD 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,Board Member Winslow USD 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Board Member Winslow USD 1,,OVER VOTES,,0,0,0,0,0, 
-Navajo,HUBBELL,Board Member Winslow USD 1,,UNDER VOTES,,99,61,28,10,0, 
-Navajo,BLACK BUTTES,Board Member Winslow USD 1,,UNDER VOTES,,1467,599,721,123,24, 
-Navajo,PIONEER,Board Member Winslow USD 1,,UNDER VOTES,,38,7,31,0,0, 
-Navajo,MOGOLLON,Board Member Winslow USD 1,,UNDER VOTES,,2,0,0,0,2, 
-Navajo,RED BUTTE,Board Member Pinon USD 4,,"LITTLE, MARK",,810,578,190,39,3, 
-Navajo,BLACK BUTTES,Board Member Pinon USD 4,,"LITTLE, MARK",,0,0,0,0,0, 
-Navajo,STONE BUTTE,Board Member Pinon USD 4,,"LITTLE, MARK",,169,142,24,3,0, 
-Navajo,RED BUTTE,Board Member Pinon USD 4,,"MIKE, EVELYN",,749,520,193,29,7, 
-Navajo,BLACK BUTTES,Board Member Pinon USD 4,,"MIKE, EVELYN",,0,0,0,0,0, 
-Navajo,STONE BUTTE,Board Member Pinon USD 4,,"MIKE, EVELYN",,203,164,32,7,0, 
-Navajo,RED BUTTE,Board Member Pinon USD 4,,"NALWOOD, RAMONA",,1014,683,272,53,6, 
-Navajo,BLACK BUTTES,Board Member Pinon USD 4,,"NALWOOD, RAMONA",,0,0,0,0,0, 
-Navajo,STONE BUTTE,Board Member Pinon USD 4,,"NALWOOD, RAMONA",,206,170,33,3,0, 
-Navajo,RED BUTTE,Board Member Pinon USD 4,,WRITE-IN,,10,9,1,0,0, 
-Navajo,BLACK BUTTES,Board Member Pinon USD 4,,WRITE-IN,,0,0,0,0,0, 
-Navajo,STONE BUTTE,Board Member Pinon USD 4,,WRITE-IN,,4,4,0,0,0, 
-Navajo,RED BUTTE,Board Member Pinon USD 4,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BLACK BUTTES,Board Member Pinon USD 4,,OVER VOTES,,0,0,0,0,0, 
-Navajo,STONE BUTTE,Board Member Pinon USD 4,,OVER VOTES,,0,0,0,0,0, 
-Navajo,RED BUTTE,Board Member Pinon USD 4,,UNDER VOTES,,1395,990,326,67,12, 
-Navajo,BLACK BUTTES,Board Member Pinon USD 4,,UNDER VOTES,,4,0,0,0,4, 
-Navajo,STONE BUTTE,Board Member Pinon USD 4,,UNDER VOTES,,262,224,33,5,0, 
-Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,"BLACKBURN, CRAIG",,27,7,18,2,0, 
-Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,"BLACKBURN, CRAIG",,793,190,519,82,2, 
-Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,"COCHRAN, JESSE",,15,5,9,1,0, 
-Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,"COCHRAN, JESSE",,694,139,510,45,0, 
-Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,"CRANDELL, LEAMON J. ""L.J.""",,12,3,9,0,0, 
-Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,"CRANDELL, LEAMON J. ""L.J.""",,651,173,420,57,1, 
-Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,"HALL, GWENDOLYN WENDY LEE",,12,2,9,1,0, 
-Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,"HALL, GWENDOLYN WENDY LEE",,878,210,595,71,2, 
-Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,WRITE-IN,,0,0,0,0,0, 
-Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,WRITE-IN,,13,0,11,2,0, 
-Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,OVER VOTES,,8,4,4,0,0, 
-Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,UNDER VOTES,,16,5,11,0,0, 
-Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,UNDER VOTES,,1247,204,961,81,1, 
-Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"COLELAY, ERMON",,1,1,0,0,0, 
-Navajo,SUNRISE,Board Member Whiteriver USD 20,,"COLELAY, ERMON",,602,401,168,22,11, 
-Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"LUPE, CANDY",,0,0,0,0,0, 
-Navajo,SUNRISE,Board Member Whiteriver USD 20,,"LUPE, CANDY",,1017,736,205,37,39, 
-Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"LUPE, RUBERT, SR.,",,0,0,0,0,0, 
-Navajo,SUNRISE,Board Member Whiteriver USD 20,,"LUPE, RUBERT, SR.,",,354,241,93,8,12, 
-Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"MICHAEL, TATE",,2,1,0,1,0, 
-Navajo,SUNRISE,Board Member Whiteriver USD 20,,"MICHAEL, TATE",,813,624,127,26,36, 
-Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"THOMPSON, ERWIN",,0,0,0,0,0, 
-Navajo,SUNRISE,Board Member Whiteriver USD 20,,"THOMPSON, ERWIN",,657,446,159,29,23, 
-Navajo,SITGREAVES,Board Member Whiteriver USD 20,,WRITE-IN,,0,0,0,0,0, 
-Navajo,SUNRISE,Board Member Whiteriver USD 20,,WRITE-IN,,21,11,7,3,0, 
-Navajo,SITGREAVES,Board Member Whiteriver USD 20,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SUNRISE,Board Member Whiteriver USD 20,,OVER VOTES,,6,2,4,0,0, 
-Navajo,SITGREAVES,Board Member Whiteriver USD 20,,UNDER VOTES,,1,0,0,1,0, 
-Navajo,SUNRISE,Board Member Whiteriver USD 20,,UNDER VOTES,,786,541,181,29,35, 
-Navajo,RED BUTTE,Board Member Kayenta USD 27,,"BONNAHA, HELEN",,759,476,235,39,9, 
-Navajo,STONE BUTTE,Board Member Kayenta USD 27,,"BONNAHA, HELEN",,1,1,0,0,0, 
-Navajo,RED BUTTE,Board Member Kayenta USD 27,,"DIXON, LITA",,1752,1025,585,123,19, 
-Navajo,STONE BUTTE,Board Member Kayenta USD 27,,"DIXON, LITA",,1,1,0,0,0, 
-Navajo,RED BUTTE,Board Member Kayenta USD 27,,"LAUGHTER, RAYMOND",,1852,1125,619,87,21, 
-Navajo,STONE BUTTE,Board Member Kayenta USD 27,,"LAUGHTER, RAYMOND",,2,2,0,0,0, 
-Navajo,RED BUTTE,Board Member Kayenta USD 27,,WRITE-IN,,27,17,9,1,0, 
-Navajo,STONE BUTTE,Board Member Kayenta USD 27,,WRITE-IN,,0,0,0,0,0, 
-Navajo,RED BUTTE,Board Member Kayenta USD 27,,OVER VOTES,,4,2,2,0,0, 
-Navajo,STONE BUTTE,Board Member Kayenta USD 27,,OVER VOTES,,0,0,0,0,0, 
-Navajo,RED BUTTE,Board Member Kayenta USD 27,,UNDER VOTES,,2438,1555,736,112,35, 
-Navajo,STONE BUTTE,Board Member Kayenta USD 27,,UNDER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,Board Member Show Low USD #10,,"ANDERSON, STACY",,649,154,460,34,1, 
-Navajo,BISON,Board Member Show Low USD #10,,"ANDERSON, STACY",,474,176,250,46,2, 
-Navajo,MOGOLLON,Board Member Show Low USD #10,,"ANDERSON, STACY",,6,0,6,0,0, 
-Navajo,SITGREAVES,Board Member Show Low USD #10,,"ANDERSON, STACY",,3657,824,2477,345,11, 
-Navajo,JUNIPER,Board Member Show Low USD #10,,WRITE-IN,,43,21,19,3,0, 
-Navajo,BISON,Board Member Show Low USD #10,,WRITE-IN,,68,34,20,14,0, 
-Navajo,MOGOLLON,Board Member Show Low USD #10,,WRITE-IN,,0,0,0,0,0, 
-Navajo,SITGREAVES,Board Member Show Low USD #10,,WRITE-IN,,633,341,207,81,4, 
-Navajo,JUNIPER,Board Member Show Low USD #10,,OVER VOTES,,0,0,0,0,0, 
-Navajo,BISON,Board Member Show Low USD #10,,OVER VOTES,,0,0,0,0,0, 
-Navajo,MOGOLLON,Board Member Show Low USD #10,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Board Member Show Low USD #10,,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,Board Member Show Low USD #10,,UNDER VOTES,,1272,285,879,107,1, 
-Navajo,BISON,Board Member Show Low USD #10,,UNDER VOTES,,916,318,486,110,2, 
-Navajo,MOGOLLON,Board Member Show Low USD #10,,UNDER VOTES,,6,0,6,0,0, 
-Navajo,SITGREAVES,Board Member Show Low USD #10,,UNDER VOTES,,6644,1449,4532,638,25, 
-Navajo,BISON,Board Member Timber Mesa FMD,,"BROWNE-WAGNER, LYNN",,59,18,30,11,0, 
-Navajo,WOODLAND,Board Member Timber Mesa FMD,,"BROWNE-WAGNER, LYNN",,252,71,144,35,2, 
-Navajo,SITGREAVES,Board Member Timber Mesa FMD,,"BROWNE-WAGNER, LYNN",,2244,600,1461,170,13, 
-Navajo,SUNRISE,Board Member Timber Mesa FMD,,"BROWNE-WAGNER, LYNN",,1013,217,692,99,5, 
-Navajo,BISON,Board Member Timber Mesa FMD,,"GRAHAM, DUSTIN",,72,27,38,7,0, 
-Navajo,WOODLAND,Board Member Timber Mesa FMD,,"GRAHAM, DUSTIN",,270,87,153,26,4, 
-Navajo,SITGREAVES,Board Member Timber Mesa FMD,,"GRAHAM, DUSTIN",,2231,503,1505,217,6, 
-Navajo,SUNRISE,Board Member Timber Mesa FMD,,"GRAHAM, DUSTIN",,919,252,583,78,6, 
-Navajo,BISON,Board Member Timber Mesa FMD,,"HUGHES, DENNIS",,73,27,38,8,0, 
-Navajo,WOODLAND,Board Member Timber Mesa FMD,,"HUGHES, DENNIS",,366,106,222,34,4, 
-Navajo,SITGREAVES,Board Member Timber Mesa FMD,,"HUGHES, DENNIS",,2740,744,1765,220,11, 
-Navajo,SUNRISE,Board Member Timber Mesa FMD,,"HUGHES, DENNIS",,1229,285,824,113,7, 
-Navajo,BISON,Board Member Timber Mesa FMD,,WRITE-IN,,0,0,0,0,0, 
-Navajo,WOODLAND,Board Member Timber Mesa FMD,,WRITE-IN,,4,2,2,0,0, 
-Navajo,SITGREAVES,Board Member Timber Mesa FMD,,WRITE-IN,,42,23,12,7,0, 
-Navajo,SUNRISE,Board Member Timber Mesa FMD,,WRITE-IN,,19,5,10,2,2, 
-Navajo,BISON,Board Member Timber Mesa FMD,,OVER VOTES,,0,0,0,0,0, 
-Navajo,WOODLAND,Board Member Timber Mesa FMD,,OVER VOTES,,0,0,0,0,0, 
-Navajo,SITGREAVES,Board Member Timber Mesa FMD,,OVER VOTES,,6,4,2,0,0, 
-Navajo,SUNRISE,Board Member Timber Mesa FMD,,OVER VOTES,,4,0,0,4,0, 
-Navajo,BISON,Board Member Timber Mesa FMD,,UNDER VOTES,,122,38,64,20,0, 
-Navajo,WOODLAND,Board Member Timber Mesa FMD,,UNDER VOTES,,594,160,337,89,8, 
-Navajo,SITGREAVES,Board Member Timber Mesa FMD,,UNDER VOTES,,4709,1016,3141,534,18, 
-Navajo,SUNRISE,Board Member Timber Mesa FMD,,UNDER VOTES,,2192,557,1383,232,20, 
-Navajo,PIONEER,Board Member White Mtn Lakes,,"BEALE, RICK",,34,2,29,3,0, 
-Navajo,JUNIPER,Board Member White Mtn Lakes,,"BEALE, RICK",,428,95,317,16,0, 
-Navajo,PIONEER,Board Member White Mtn Lakes,,"MCGRAW, JERRY J., JR.",,29,6,22,1,0, 
-Navajo,JUNIPER,Board Member White Mtn Lakes,,"MCGRAW, JERRY J., JR.",,397,101,276,20,0, 
-Navajo,PIONEER,Board Member White Mtn Lakes,,WRITE-IN,,4,0,4,0,0, 
-Navajo,JUNIPER,Board Member White Mtn Lakes,,WRITE-IN,,75,28,41,6,0, 
-Navajo,PIONEER,Board Member White Mtn Lakes,,OVER VOTES,,0,0,0,0,0, 
-Navajo,JUNIPER,Board Member White Mtn Lakes,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PIONEER,Board Member White Mtn Lakes,,UNDER VOTES,,258,57,175,26,0, 
-Navajo,JUNIPER,Board Member White Mtn Lakes,,UNDER VOTES,,3055,706,2151,198,0, 
+county,precinct,office,district,candidate,party,votes,election_day,early_voting,late_early_voting,provisional
+Navajo,RED BUTTE,Registered Voters,,,,11971,0,0,0,0
+Navajo,PAINTED DESERT,Registered Voters,,,,1511,0,0,0,0
+Navajo,HUBBELL,Registered Voters,,,,236,0,0,0,0
+Navajo,BLACK BUTTES,Registered Voters,,,,8772,0,0,0,0
+Navajo,CEDAR VALLEY,Registered Voters,,,,1904,0,0,0,0
+Navajo,STONE BUTTE,Registered Voters,,,,757,0,0,0,0
+Navajo,PIONEER,Registered Voters,,,,7328,0,0,0,0
+Navajo,ANTELOPE,Registered Voters,,,,3533,0,0,0,0
+Navajo,JUNIPER,Registered Voters,,,,1516,0,0,0,0
+Navajo,BISON,Registered Voters,,,,953,0,0,0,0
+Navajo,MOGOLLON,Registered Voters,,,,2807,0,0,0,0
+Navajo,WOODLAND,Registered Voters,,,,1209,0,0,0,0
+Navajo,SITGREAVES,Registered Voters,,,,8408,0,0,0,0
+Navajo,SUNRISE,Registered Voters,,,,12129,0,0,0,0
+Navajo,RED BUTTE,Ballots Cast,,,,5405,3490,1584,275,56
+Navajo,PAINTED DESERT,Ballots Cast,,,,815,552,220,32,11
+Navajo,HUBBELL,Ballots Cast,,,,189,94,79,16,0
+Navajo,BLACK BUTTES,Ballots Cast,,,,4437,1995,2016,361,65
+Navajo,CEDAR VALLEY,Ballots Cast,,,,986,663,261,39,23
+Navajo,STONE BUTTE,Ballots Cast,,,,424,354,61,9,0
+Navajo,PIONEER,Ballots Cast,,,,5131,1886,2613,600,32
+Navajo,ANTELOPE,Ballots Cast,,,,2235,877,1135,200,23
+Navajo,JUNIPER,Ballots Cast,,,,996,234,688,73,1
+Navajo,BISON,Ballots Cast,,,,729,264,378,85,2
+Navajo,MOGOLLON,Ballots Cast,,,,2149,460,1516,169,4
+Navajo,WOODLAND,Ballots Cast,,,,811,228,476,97,10
+Navajo,SITGREAVES,Ballots Cast,,,,5988,1446,3943,575,24
+Navajo,SUNRISE,Ballots Cast,,,,6881,2611,3632,535,103
+Navajo,RED BUTTE,BALLOTS CAST - BLANK,,,,3,3,0,0,0
+Navajo,PAINTED DESERT,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,HUBBELL,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,BLACK BUTTES,BALLOTS CAST - BLANK,,,,1,0,1,0,0
+Navajo,CEDAR VALLEY,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,STONE BUTTE,BALLOTS CAST - BLANK,,,,1,1,0,0,0
+Navajo,PIONEER,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,ANTELOPE,BALLOTS CAST - BLANK,,,,40,16,17,6,1
+Navajo,JUNIPER,BALLOTS CAST - BLANK,,,,1,1,0,0,0
+Navajo,BISON,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,MOGOLLON,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,WOODLAND,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,SITGREAVES,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,SUNRISE,BALLOTS CAST - BLANK,,,,0,0,0,0,0
+Navajo,RED BUTTE,U.S. Senate,,"MCSALLY, MARTHA",REP,742,491,201,44,6
+Navajo,PAINTED DESERT,U.S. Senate,,"MCSALLY, MARTHA",REP,154,87,55,12,0
+Navajo,HUBBELL,U.S. Senate,,"MCSALLY, MARTHA",REP,96,40,50,6,0
+Navajo,BLACK BUTTES,U.S. Senate,,"MCSALLY, MARTHA",REP,1143,419,587,122,15
+Navajo,CEDAR VALLEY,U.S. Senate,,"MCSALLY, MARTHA",REP,126,93,30,3,0
+Navajo,STONE BUTTE,U.S. Senate,,"MCSALLY, MARTHA",REP,42,33,7,2,0
+Navajo,PIONEER,U.S. Senate,,"MCSALLY, MARTHA",REP,4217,1618,2066,504,29
+Navajo,ANTELOPE,U.S. Senate,,"MCSALLY, MARTHA",REP,1303,555,615,122,11
+Navajo,JUNIPER,U.S. Senate,,"MCSALLY, MARTHA",REP,688,167,470,50,1
+Navajo,BISON,U.S. Senate,,"MCSALLY, MARTHA",REP,593,228,298,65,2
+Navajo,MOGOLLON,U.S. Senate,,"MCSALLY, MARTHA",REP,1556,373,1045,137,1
+Navajo,WOODLAND,U.S. Senate,,"MCSALLY, MARTHA",REP,558,174,306,69,9
+Navajo,SITGREAVES,U.S. Senate,,"MCSALLY, MARTHA",REP,4286,1139,2709,419,19
+Navajo,SUNRISE,U.S. Senate,,"MCSALLY, MARTHA",REP,3263,887,2055,300,21
+Navajo,RED BUTTE,U.S. Senate,,"SINEMA, KYRSTEN",DEM,4300,2768,1271,217,44
+Navajo,PAINTED DESERT,U.S. Senate,,"SINEMA, KYRSTEN",DEM,625,443,153,19,10
+Navajo,HUBBELL,U.S. Senate,,"SINEMA, KYRSTEN",DEM,81,48,26,7,0
+Navajo,BLACK BUTTES,U.S. Senate,,"SINEMA, KYRSTEN",DEM,3069,1478,1324,219,48
+Navajo,CEDAR VALLEY,U.S. Senate,,"SINEMA, KYRSTEN",DEM,797,518,220,36,23
+Navajo,STONE BUTTE,U.S. Senate,,"SINEMA, KYRSTEN",DEM,351,299,45,7,0
+Navajo,PIONEER,U.S. Senate,,"SINEMA, KYRSTEN",DEM,705,209,427,66,3
+Navajo,ANTELOPE,U.S. Senate,,"SINEMA, KYRSTEN",DEM,775,271,427,67,10
+Navajo,JUNIPER,U.S. Senate,,"SINEMA, KYRSTEN",DEM,265,56,191,18,0
+Navajo,BISON,U.S. Senate,,"SINEMA, KYRSTEN",DEM,112,24,70,18,0
+Navajo,MOGOLLON,U.S. Senate,,"SINEMA, KYRSTEN",DEM,513,75,410,25,3
+Navajo,WOODLAND,U.S. Senate,,"SINEMA, KYRSTEN",DEM,218,48,148,21,1
+Navajo,SITGREAVES,U.S. Senate,,"SINEMA, KYRSTEN",DEM,1464,256,1080,125,3
+Navajo,SUNRISE,U.S. Senate,,"SINEMA, KYRSTEN",DEM,3349,1634,1435,205,75
+Navajo,RED BUTTE,U.S. Senate,,"GREEN, ANGELA",GRN,244,143,85,10,6
+Navajo,PAINTED DESERT,U.S. Senate,,"GREEN, ANGELA",GRN,24,15,8,1,0
+Navajo,HUBBELL,U.S. Senate,,"GREEN, ANGELA",GRN,8,5,3,0,0
+Navajo,BLACK BUTTES,U.S. Senate,,"GREEN, ANGELA",GRN,163,68,80,13,2
+Navajo,CEDAR VALLEY,U.S. Senate,,"GREEN, ANGELA",GRN,44,36,8,0,0
+Navajo,STONE BUTTE,U.S. Senate,,"GREEN, ANGELA",GRN,19,12,7,0,0
+Navajo,PIONEER,U.S. Senate,,"GREEN, ANGELA",GRN,145,34,88,23,0
+Navajo,ANTELOPE,U.S. Senate,,"GREEN, ANGELA",GRN,115,36,71,7,1
+Navajo,JUNIPER,U.S. Senate,,"GREEN, ANGELA",GRN,31,8,20,3,0
+Navajo,BISON,U.S. Senate,,"GREEN, ANGELA",GRN,16,7,8,1,0
+Navajo,MOGOLLON,U.S. Senate,,"GREEN, ANGELA",GRN,58,6,46,6,0
+Navajo,WOODLAND,U.S. Senate,,"GREEN, ANGELA",GRN,23,5,16,2,0
+Navajo,SITGREAVES,U.S. Senate,,"GREEN, ANGELA",GRN,163,30,111,20,2
+Navajo,SUNRISE,U.S. Senate,,"GREEN, ANGELA",GRN,185,55,108,17,5
+Navajo,RED BUTTE,U.S. Senate,,WRITE-IN,,7,2,4,1,0
+Navajo,PAINTED DESERT,U.S. Senate,,WRITE-IN,,0,0,0,0,0
+Navajo,HUBBELL,U.S. Senate,,WRITE-IN,,1,0,0,1,0
+Navajo,BLACK BUTTES,U.S. Senate,,WRITE-IN,,14,7,5,2,0
+Navajo,CEDAR VALLEY,U.S. Senate,,WRITE-IN,,2,1,1,0,0
+Navajo,STONE BUTTE,U.S. Senate,,WRITE-IN,,0,0,0,0,0
+Navajo,PIONEER,U.S. Senate,,WRITE-IN,,5,1,3,1,0
+Navajo,ANTELOPE,U.S. Senate,,WRITE-IN,,8,1,5,2,0
+Navajo,JUNIPER,U.S. Senate,,WRITE-IN,,3,2,1,0,0
+Navajo,BISON,U.S. Senate,,WRITE-IN,,1,0,0,1,0
+Navajo,MOGOLLON,U.S. Senate,,WRITE-IN,,2,2,0,0,0
+Navajo,WOODLAND,U.S. Senate,,WRITE-IN,,0,0,0,0,0
+Navajo,SITGREAVES,U.S. Senate,,WRITE-IN,,7,3,3,1,0
+Navajo,SUNRISE,U.S. Senate,,WRITE-IN,,8,5,3,0,0
+Navajo,RED BUTTE,U.S. Senate,,OVER VOTES,,14,10,4,0,0
+Navajo,PAINTED DESERT,U.S. Senate,,OVER VOTES,,0,0,0,0,0
+Navajo,HUBBELL,U.S. Senate,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,U.S. Senate,,OVER VOTES,,6,3,3,0,0
+Navajo,CEDAR VALLEY,U.S. Senate,,OVER VOTES,,1,1,0,0,0
+Navajo,STONE BUTTE,U.S. Senate,,OVER VOTES,,1,0,1,0,0
+Navajo,PIONEER,U.S. Senate,,OVER VOTES,,1,1,0,0,0
+Navajo,ANTELOPE,U.S. Senate,,OVER VOTES,,1,1,0,0,0
+Navajo,JUNIPER,U.S. Senate,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,U.S. Senate,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,U.S. Senate,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,U.S. Senate,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,U.S. Senate,,OVER VOTES,,1,1,0,0,0
+Navajo,SUNRISE,U.S. Senate,,OVER VOTES,,3,1,1,1,0
+Navajo,RED BUTTE,U.S. Senate,,UNDER VOTES,,98,76,19,3,0
+Navajo,PAINTED DESERT,U.S. Senate,,UNDER VOTES,,12,7,4,0,1
+Navajo,HUBBELL,U.S. Senate,,UNDER VOTES,,3,1,0,2,0
+Navajo,BLACK BUTTES,U.S. Senate,,UNDER VOTES,,42,20,17,5,0
+Navajo,CEDAR VALLEY,U.S. Senate,,UNDER VOTES,,16,14,2,0,0
+Navajo,STONE BUTTE,U.S. Senate,,UNDER VOTES,,11,10,1,0,0
+Navajo,PIONEER,U.S. Senate,,UNDER VOTES,,58,23,29,6,0
+Navajo,ANTELOPE,U.S. Senate,,UNDER VOTES,,33,13,17,2,1
+Navajo,JUNIPER,U.S. Senate,,UNDER VOTES,,9,1,6,2,0
+Navajo,BISON,U.S. Senate,,UNDER VOTES,,7,5,2,0,0
+Navajo,MOGOLLON,U.S. Senate,,UNDER VOTES,,20,4,15,1,0
+Navajo,WOODLAND,U.S. Senate,,UNDER VOTES,,12,1,6,5,0
+Navajo,SITGREAVES,U.S. Senate,,UNDER VOTES,,67,17,40,10,0
+Navajo,SUNRISE,U.S. Senate,,UNDER VOTES,,73,29,30,12,2
+Navajo,RED BUTTE,U.S. House,1,"ROGERS, WENDY",REP,772,508,211,39,14
+Navajo,PAINTED DESERT,U.S. House,1,"ROGERS, WENDY",REP,147,82,57,8,0
+Navajo,HUBBELL,U.S. House,1,"ROGERS, WENDY",REP,80,34,43,3,0
+Navajo,BLACK BUTTES,U.S. House,1,"ROGERS, WENDY",REP,1114,403,583,112,16
+Navajo,CEDAR VALLEY,U.S. House,1,"ROGERS, WENDY",REP,133,100,27,4,2
+Navajo,STONE BUTTE,U.S. House,1,"ROGERS, WENDY",REP,47,37,8,2,0
+Navajo,PIONEER,U.S. House,1,"ROGERS, WENDY",REP,4170,1626,2017,496,31
+Navajo,ANTELOPE,U.S. House,1,"ROGERS, WENDY",REP,1258,535,595,117,11
+Navajo,JUNIPER,U.S. House,1,"ROGERS, WENDY",REP,686,167,467,51,1
+Navajo,BISON,U.S. House,1,"ROGERS, WENDY",REP,572,219,287,64,2
+Navajo,MOGOLLON,U.S. House,1,"ROGERS, WENDY",REP,1512,357,1021,132,2
+Navajo,WOODLAND,U.S. House,1,"ROGERS, WENDY",REP,530,165,289,67,9
+Navajo,SITGREAVES,U.S. House,1,"ROGERS, WENDY",REP,4175,1124,2617,415,19
+Navajo,SUNRISE,U.S. House,1,"ROGERS, WENDY",REP,3135,837,1993,284,21
+Navajo,RED BUTTE,U.S. House,1,"O'HALLERAN, TOM",DEM,4505,2880,1350,233,42
+Navajo,PAINTED DESERT,U.S. House,1,"O'HALLERAN, TOM",DEM,649,457,160,21,11
+Navajo,HUBBELL,U.S. House,1,"O'HALLERAN, TOM",DEM,100,55,35,10,0
+Navajo,BLACK BUTTES,U.S. House,1,"O'HALLERAN, TOM",DEM,3232,1547,1397,241,47
+Navajo,CEDAR VALLEY,U.S. House,1,"O'HALLERAN, TOM",DEM,835,549,231,35,20
+Navajo,STONE BUTTE,U.S. House,1,"O'HALLERAN, TOM",DEM,369,310,52,7,0
+Navajo,PIONEER,U.S. House,1,"O'HALLERAN, TOM",DEM,862,238,538,85,1
+Navajo,ANTELOPE,U.S. House,1,"O'HALLERAN, TOM",DEM,917,316,513,76,12
+Navajo,JUNIPER,U.S. House,1,"O'HALLERAN, TOM",DEM,287,64,205,18,0
+Navajo,BISON,U.S. House,1,"O'HALLERAN, TOM",DEM,144,41,83,20,0
+Navajo,MOGOLLON,U.S. House,1,"O'HALLERAN, TOM",DEM,591,94,462,33,2
+Navajo,WOODLAND,U.S. House,1,"O'HALLERAN, TOM",DEM,258,60,173,24,1
+Navajo,SITGREAVES,U.S. House,1,"O'HALLERAN, TOM",DEM,1684,294,1239,146,5
+Navajo,SUNRISE,U.S. House,1,"O'HALLERAN, TOM",DEM,3585,1725,1559,223,78
+Navajo,RED BUTTE,U.S. House,1,WRITE-IN,,14,9,5,0,0
+Navajo,PAINTED DESERT,U.S. House,1,WRITE-IN,,0,0,0,0,0
+Navajo,HUBBELL,U.S. House,1,WRITE-IN,,1,0,1,0,0
+Navajo,BLACK BUTTES,U.S. House,1,WRITE-IN,,10,4,4,2,0
+Navajo,CEDAR VALLEY,U.S. House,1,WRITE-IN,,2,1,1,0,0
+Navajo,STONE BUTTE,U.S. House,1,WRITE-IN,,0,0,0,0,0
+Navajo,PIONEER,U.S. House,1,WRITE-IN,,11,1,6,4,0
+Navajo,ANTELOPE,U.S. House,1,WRITE-IN,,3,2,1,0,0
+Navajo,JUNIPER,U.S. House,1,WRITE-IN,,0,0,0,0,0
+Navajo,BISON,U.S. House,1,WRITE-IN,,0,0,0,0,0
+Navajo,MOGOLLON,U.S. House,1,WRITE-IN,,1,0,1,0,0
+Navajo,WOODLAND,U.S. House,1,WRITE-IN,,1,1,0,0,0
+Navajo,SITGREAVES,U.S. House,1,WRITE-IN,,6,0,4,2,0
+Navajo,SUNRISE,U.S. House,1,WRITE-IN,,11,2,8,1,0
+Navajo,RED BUTTE,U.S. House,1,OVER VOTES,,4,3,1,0,0
+Navajo,PAINTED DESERT,U.S. House,1,OVER VOTES,,2,1,0,1,0
+Navajo,HUBBELL,U.S. House,1,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,U.S. House,1,OVER VOTES,,3,2,1,0,0
+Navajo,CEDAR VALLEY,U.S. House,1,OVER VOTES,,1,1,0,0,0
+Navajo,STONE BUTTE,U.S. House,1,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,U.S. House,1,OVER VOTES,,2,0,0,2,0
+Navajo,ANTELOPE,U.S. House,1,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,U.S. House,1,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,U.S. House,1,OVER VOTES,,1,0,1,0,0
+Navajo,MOGOLLON,U.S. House,1,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,U.S. House,1,OVER VOTES,,1,0,1,0,0
+Navajo,SITGREAVES,U.S. House,1,OVER VOTES,,3,2,1,0,0
+Navajo,SUNRISE,U.S. House,1,OVER VOTES,,1,0,1,0,0
+Navajo,RED BUTTE,U.S. House,1,UNDER VOTES,,110,90,17,3,0
+Navajo,PAINTED DESERT,U.S. House,1,UNDER VOTES,,17,12,3,2,0
+Navajo,HUBBELL,U.S. House,1,UNDER VOTES,,8,5,0,3,0
+Navajo,BLACK BUTTES,U.S. House,1,UNDER VOTES,,78,39,31,6,2
+Navajo,CEDAR VALLEY,U.S. House,1,UNDER VOTES,,15,12,2,0,1
+Navajo,STONE BUTTE,U.S. House,1,UNDER VOTES,,8,7,1,0,0
+Navajo,PIONEER,U.S. House,1,UNDER VOTES,,86,21,52,13,0
+Navajo,ANTELOPE,U.S. House,1,UNDER VOTES,,57,24,26,7,0
+Navajo,JUNIPER,U.S. House,1,UNDER VOTES,,23,3,16,4,0
+Navajo,BISON,U.S. House,1,UNDER VOTES,,12,4,7,1,0
+Navajo,MOGOLLON,U.S. House,1,UNDER VOTES,,45,9,32,4,0
+Navajo,WOODLAND,U.S. House,1,UNDER VOTES,,21,2,13,6,0
+Navajo,SITGREAVES,U.S. House,1,UNDER VOTES,,120,26,82,12,0
+Navajo,SUNRISE,U.S. House,1,UNDER VOTES,,149,47,71,27,4
+Navajo,RED BUTTE,Governor,,"DUCEY, DOUG",REP,1271,788,398,67,18
+Navajo,PAINTED DESERT,Governor,,"DUCEY, DOUG",REP,249,147,82,18,2
+Navajo,HUBBELL,Governor,,"DUCEY, DOUG",REP,108,45,52,11,0
+Navajo,BLACK BUTTES,Governor,,"DUCEY, DOUG",REP,1672,653,851,145,23
+Navajo,CEDAR VALLEY,Governor,,"DUCEY, DOUG",REP,269,185,66,15,3
+Navajo,STONE BUTTE,Governor,,"DUCEY, DOUG",REP,76,60,14,2,0
+Navajo,PIONEER,Governor,,"DUCEY, DOUG",REP,4453,1676,2231,518,28
+Navajo,ANTELOPE,Governor,,"DUCEY, DOUG",REP,1507,607,760,128,12
+Navajo,JUNIPER,Governor,,"DUCEY, DOUG",REP,778,185,533,59,1
+Navajo,BISON,Governor,,"DUCEY, DOUG",REP,626,237,322,65,2
+Navajo,MOGOLLON,Governor,,"DUCEY, DOUG",REP,1744,395,1206,141,2
+Navajo,WOODLAND,Governor,,"DUCEY, DOUG",REP,623,183,355,75,10
+Navajo,SITGREAVES,Governor,,"DUCEY, DOUG",REP,4744,1199,3062,464,19
+Navajo,SUNRISE,Governor,,"DUCEY, DOUG",REP,3760,1054,2350,326,30
+Navajo,RED BUTTE,Governor,,"GARCIA, DAVID",DEM,3735,2432,1080,189,34
+Navajo,PAINTED DESERT,Governor,,"GARCIA, DAVID",DEM,526,380,125,12,9
+Navajo,HUBBELL,Governor,,"GARCIA, DAVID",DEM,74,45,24,5,0
+Navajo,BLACK BUTTES,Governor,,"GARCIA, DAVID",DEM,2512,1220,1062,191,39
+Navajo,CEDAR VALLEY,Governor,,"GARCIA, DAVID",DEM,655,436,179,22,18
+Navajo,STONE BUTTE,Governor,,"GARCIA, DAVID",DEM,312,265,40,7,0
+Navajo,PIONEER,Governor,,"GARCIA, DAVID",DEM,512,156,299,56,1
+Navajo,ANTELOPE,Governor,,"GARCIA, DAVID",DEM,634,233,333,59,9
+Navajo,JUNIPER,Governor,,"GARCIA, DAVID",DEM,187,42,136,9,0
+Navajo,BISON,Governor,,"GARCIA, DAVID",DEM,81,18,46,17,0
+Navajo,MOGOLLON,Governor,,"GARCIA, DAVID",DEM,333,49,265,17,2
+Navajo,WOODLAND,Governor,,"GARCIA, DAVID",DEM,161,35,110,16,0
+Navajo,SITGREAVES,Governor,,"GARCIA, DAVID",DEM,1076,206,779,88,3
+Navajo,SUNRISE,Governor,,"GARCIA, DAVID",DEM,2848,1456,1146,177,69
+Navajo,RED BUTTE,Governor,,"TORRES, ANGEL",GRN,267,167,84,12,4
+Navajo,PAINTED DESERT,Governor,,"TORRES, ANGEL",GRN,27,17,9,1,0
+Navajo,HUBBELL,Governor,,"TORRES, ANGEL",GRN,6,4,2,0,0
+Navajo,BLACK BUTTES,Governor,,"TORRES, ANGEL",GRN,170,82,73,14,1
+Navajo,CEDAR VALLEY,Governor,,"TORRES, ANGEL",GRN,35,23,10,1,1
+Navajo,STONE BUTTE,Governor,,"TORRES, ANGEL",GRN,28,24,4,0,0
+Navajo,PIONEER,Governor,,"TORRES, ANGEL",GRN,101,30,52,17,2
+Navajo,ANTELOPE,Governor,,"TORRES, ANGEL",GRN,59,25,27,5,2
+Navajo,JUNIPER,Governor,,"TORRES, ANGEL",GRN,21,5,13,3,0
+Navajo,BISON,Governor,,"TORRES, ANGEL",GRN,15,5,9,1,0
+Navajo,MOGOLLON,Governor,,"TORRES, ANGEL",GRN,45,10,28,7,0
+Navajo,WOODLAND,Governor,,"TORRES, ANGEL",GRN,16,5,8,3,0
+Navajo,SITGREAVES,Governor,,"TORRES, ANGEL",GRN,105,25,64,14,2
+Navajo,SUNRISE,Governor,,"TORRES, ANGEL",GRN,160,49,92,16,3
+Navajo,RED BUTTE,Governor,,WRITE-IN,,6,1,4,1,0
+Navajo,PAINTED DESERT,Governor,,WRITE-IN,,3,2,1,0,0
+Navajo,HUBBELL,Governor,,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,Governor,,WRITE-IN,,9,4,3,2,0
+Navajo,CEDAR VALLEY,Governor,,WRITE-IN,,3,2,1,0,0
+Navajo,STONE BUTTE,Governor,,WRITE-IN,,2,1,1,0,0
+Navajo,PIONEER,Governor,,WRITE-IN,,5,2,3,0,0
+Navajo,ANTELOPE,Governor,,WRITE-IN,,2,0,1,1,0
+Navajo,JUNIPER,Governor,,WRITE-IN,,3,1,2,0,0
+Navajo,BISON,Governor,,WRITE-IN,,1,1,0,0,0
+Navajo,MOGOLLON,Governor,,WRITE-IN,,4,1,1,2,0
+Navajo,WOODLAND,Governor,,WRITE-IN,,1,1,0,0,0
+Navajo,SITGREAVES,Governor,,WRITE-IN,,9,2,4,3,0
+Navajo,SUNRISE,Governor,,WRITE-IN,,7,1,2,4,0
+Navajo,RED BUTTE,Governor,,OVER VOTES,,15,12,3,0,0
+Navajo,PAINTED DESERT,Governor,,OVER VOTES,,1,0,0,1,0
+Navajo,HUBBELL,Governor,,OVER VOTES,,1,0,1,0,0
+Navajo,BLACK BUTTES,Governor,,OVER VOTES,,3,1,2,0,0
+Navajo,CEDAR VALLEY,Governor,,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,Governor,,OVER VOTES,,2,1,1,0,0
+Navajo,PIONEER,Governor,,OVER VOTES,,4,2,2,0,0
+Navajo,ANTELOPE,Governor,,OVER VOTES,,2,0,2,0,0
+Navajo,JUNIPER,Governor,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,Governor,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Governor,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,Governor,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Governor,,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,Governor,,OVER VOTES,,3,2,1,0,0
+Navajo,RED BUTTE,Governor,,UNDER VOTES,,111,90,15,6,0
+Navajo,PAINTED DESERT,Governor,,UNDER VOTES,,9,6,3,0,0
+Navajo,HUBBELL,Governor,,UNDER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Governor,,UNDER VOTES,,71,35,25,9,2
+Navajo,CEDAR VALLEY,Governor,,UNDER VOTES,,24,17,5,1,1
+Navajo,STONE BUTTE,Governor,,UNDER VOTES,,4,3,1,0,0
+Navajo,PIONEER,Governor,,UNDER VOTES,,56,20,26,9,1
+Navajo,ANTELOPE,Governor,,UNDER VOTES,,31,12,12,7,0
+Navajo,JUNIPER,Governor,,UNDER VOTES,,7,1,4,2,0
+Navajo,BISON,Governor,,UNDER VOTES,,6,3,1,2,0
+Navajo,MOGOLLON,Governor,,UNDER VOTES,,23,5,16,2,0
+Navajo,WOODLAND,Governor,,UNDER VOTES,,10,4,3,3,0
+Navajo,SITGREAVES,Governor,,UNDER VOTES,,54,14,34,6,0
+Navajo,SUNRISE,Governor,,UNDER VOTES,,103,49,41,12,1
+Navajo,PIONEER,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,3855,1484,1912,434,25
+Navajo,ANTELOPE,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,1165,501,551,106,7
+Navajo,JUNIPER,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,675,163,463,48,1
+Navajo,BISON,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,537,201,281,54,1
+Navajo,MOGOLLON,State Senate,6,"ALLEN, SYLVIA TENNEY",REP,1580,362,1090,125,3
+Navajo,PIONEER,State Senate,6,"CARLISLE, WADE",DEM,1088,346,597,138,7
+Navajo,ANTELOPE,State Senate,6,"CARLISLE, WADE",DEM,980,345,536,87,12
+Navajo,JUNIPER,State Senate,6,"CARLISLE, WADE",DEM,286,60,207,19,0
+Navajo,BISON,State Senate,6,"CARLISLE, WADE",DEM,173,56,89,28,0
+Navajo,MOGOLLON,State Senate,6,"CARLISLE, WADE",DEM,516,89,388,38,1
+Navajo,PIONEER,State Senate,6,WRITE-IN,,18,9,9,0,0
+Navajo,ANTELOPE,State Senate,6,WRITE-IN,,8,6,2,0,0
+Navajo,JUNIPER,State Senate,6,WRITE-IN,,7,4,2,1,0
+Navajo,BISON,State Senate,6,WRITE-IN,,0,0,0,0,0
+Navajo,MOGOLLON,State Senate,6,WRITE-IN,,4,1,3,0,0
+Navajo,PIONEER,State Senate,6,OVER VOTES,,1,1,0,0,0
+Navajo,ANTELOPE,State Senate,6,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,State Senate,6,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,State Senate,6,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,State Senate,6,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,State Senate,6,UNDER VOTES,,169,46,95,28,0
+Navajo,ANTELOPE,State Senate,6,UNDER VOTES,,82,25,46,7,4
+Navajo,JUNIPER,State Senate,6,UNDER VOTES,,28,7,16,5,0
+Navajo,BISON,State Senate,6,UNDER VOTES,,19,7,8,3,1
+Navajo,MOGOLLON,State Senate,6,UNDER VOTES,,49,8,35,6,0
+Navajo,RED BUTTE,State Senate,7,"MEALER, JL",REP,535,345,152,30,8
+Navajo,PAINTED DESERT,State Senate,7,"MEALER, JL",REP,124,60,56,8,0
+Navajo,HUBBELL,State Senate,7,"MEALER, JL",REP,90,36,50,4,0
+Navajo,BLACK BUTTES,State Senate,7,"MEALER, JL",REP,1103,378,598,113,14
+Navajo,CEDAR VALLEY,State Senate,7,"MEALER, JL",REP,75,57,15,1,2
+Navajo,STONE BUTTE,State Senate,7,"MEALER, JL",REP,35,27,8,0,0
+Navajo,WOODLAND,State Senate,7,"MEALER, JL",REP,566,174,316,67,9
+Navajo,SITGREAVES,State Senate,7,"MEALER, JL",REP,4323,1147,2745,410,21
+Navajo,SUNRISE,State Senate,7,"MEALER, JL",REP,3269,847,2115,285,22
+Navajo,RED BUTTE,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,4709,3012,1408,241,48
+Navajo,PAINTED DESERT,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,670,477,160,22,11
+Navajo,HUBBELL,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,89,53,27,9,0
+Navajo,BLACK BUTTES,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,3209,1567,1364,229,49
+Navajo,CEDAR VALLEY,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,887,587,244,37,19
+Navajo,STONE BUTTE,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,376,316,52,8,0
+Navajo,WOODLAND,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,198,47,132,18,1
+Navajo,SITGREAVES,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,1382,245,1024,110,3
+Navajo,SUNRISE,State Senate,7,"PESHLAKAI, JAMESCITA",DEM,3347,1667,1398,204,78
+Navajo,RED BUTTE,State Senate,7,WRITE-IN,,12,6,5,1,0
+Navajo,PAINTED DESERT,State Senate,7,WRITE-IN,,1,1,0,0,0
+Navajo,HUBBELL,State Senate,7,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,State Senate,7,WRITE-IN,,12,7,2,3,0
+Navajo,CEDAR VALLEY,State Senate,7,WRITE-IN,,2,1,0,0,1
+Navajo,STONE BUTTE,State Senate,7,WRITE-IN,,0,0,0,0,0
+Navajo,WOODLAND,State Senate,7,WRITE-IN,,1,1,0,0,0
+Navajo,SITGREAVES,State Senate,7,WRITE-IN,,7,4,1,2,0
+Navajo,SUNRISE,State Senate,7,WRITE-IN,,8,5,2,1,0
+Navajo,RED BUTTE,State Senate,7,OVER VOTES,,4,3,1,0,0
+Navajo,PAINTED DESERT,State Senate,7,OVER VOTES,,1,0,0,1,0
+Navajo,HUBBELL,State Senate,7,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,State Senate,7,OVER VOTES,,1,1,0,0,0
+Navajo,CEDAR VALLEY,State Senate,7,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,State Senate,7,OVER VOTES,,2,2,0,0,0
+Navajo,WOODLAND,State Senate,7,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,State Senate,7,OVER VOTES,,2,0,2,0,0
+Navajo,SUNRISE,State Senate,7,OVER VOTES,,0,0,0,0,0
+Navajo,RED BUTTE,State Senate,7,UNDER VOTES,,145,124,18,3,0
+Navajo,PAINTED DESERT,State Senate,7,UNDER VOTES,,19,14,4,1,0
+Navajo,HUBBELL,State Senate,7,UNDER VOTES,,10,5,2,3,0
+Navajo,BLACK BUTTES,State Senate,7,UNDER VOTES,,112,42,52,16,2
+Navajo,CEDAR VALLEY,State Senate,7,UNDER VOTES,,22,18,2,1,1
+Navajo,STONE BUTTE,State Senate,7,UNDER VOTES,,11,9,1,1,0
+Navajo,WOODLAND,State Senate,7,UNDER VOTES,,46,6,28,12,0
+Navajo,SITGREAVES,State Senate,7,UNDER VOTES,,274,50,171,53,0
+Navajo,SUNRISE,State Senate,7,UNDER VOTES,,257,92,117,45,3
+Navajo,PIONEER,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,4253,1603,2105,517,28
+Navajo,ANTELOPE,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,1278,541,607,122,8
+Navajo,JUNIPER,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,621,149,420,51,1
+Navajo,BISON,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,561,214,282,64,1
+Navajo,MOGOLLON,State Representative,6,"BLACKMAN, WALTER ""WALT""",REP,1527,363,1031,132,1
+Navajo,PIONEER,State Representative,6,"THORPE, BOB",REP,3484,1306,1749,413,16
+Navajo,ANTELOPE,State Representative,6,"THORPE, BOB",REP,1128,465,557,101,5
+Navajo,JUNIPER,State Representative,6,"THORPE, BOB",REP,603,142,420,40,1
+Navajo,BISON,State Representative,6,"THORPE, BOB",REP,519,181,279,58,1
+Navajo,MOGOLLON,State Representative,6,"THORPE, BOB",REP,1404,318,964,121,1
+Navajo,PIONEER,State Representative,6,"FRENCH, FELICIA",DEM,583,161,360,60,2
+Navajo,ANTELOPE,State Representative,6,"FRENCH, FELICIA",DEM,641,216,371,47,7
+Navajo,JUNIPER,State Representative,6,"FRENCH, FELICIA",DEM,217,41,162,14,0
+Navajo,BISON,State Representative,6,"FRENCH, FELICIA",DEM,103,21,64,18,0
+Navajo,MOGOLLON,State Representative,6,"FRENCH, FELICIA",DEM,447,64,353,28,2
+Navajo,PIONEER,State Representative,6,"TYLER, BOBBY",DEM,520,138,329,52,1
+Navajo,ANTELOPE,State Representative,6,"TYLER, BOBBY",DEM,659,248,346,54,11
+Navajo,JUNIPER,State Representative,6,"TYLER, BOBBY",DEM,214,51,152,11,0
+Navajo,BISON,State Representative,6,"TYLER, BOBBY",DEM,86,21,51,14,0
+Navajo,MOGOLLON,State Representative,6,"TYLER, BOBBY",DEM,392,63,302,25,2
+Navajo,PIONEER,State Representative,6,WRITE-IN,,9,4,2,3,0
+Navajo,ANTELOPE,State Representative,6,WRITE-IN,,3,3,0,0,0
+Navajo,JUNIPER,State Representative,6,WRITE-IN,,3,3,0,0,0
+Navajo,BISON,State Representative,6,WRITE-IN,,1,1,0,0,0
+Navajo,MOGOLLON,State Representative,6,WRITE-IN,,0,0,0,0,0
+Navajo,PIONEER,State Representative,6,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,State Representative,6,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,State Representative,6,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,State Representative,6,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,State Representative,6,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,State Representative,6,UNDER VOTES,,1413,560,681,155,17
+Navajo,ANTELOPE,State Representative,6,UNDER VOTES,,761,281,389,76,15
+Navajo,JUNIPER,State Representative,6,UNDER VOTES,,334,82,222,30,0
+Navajo,BISON,State Representative,6,UNDER VOTES,,188,90,80,16,2
+Navajo,MOGOLLON,State Representative,6,UNDER VOTES,,528,112,382,32,2
+Navajo,RED BUTTE,State Representative,7,"SHAMLEY, DOYEL",REP,587,371,166,36,14
+Navajo,PAINTED DESERT,State Representative,7,"SHAMLEY, DOYEL",REP,134,66,57,11,0
+Navajo,HUBBELL,State Representative,7,"SHAMLEY, DOYEL",REP,102,38,57,7,0
+Navajo,BLACK BUTTES,State Representative,7,"SHAMLEY, DOYEL",REP,1206,419,644,128,15
+Navajo,CEDAR VALLEY,State Representative,7,"SHAMLEY, DOYEL",REP,106,77,23,6,0
+Navajo,STONE BUTTE,State Representative,7,"SHAMLEY, DOYEL",REP,48,39,7,2,0
+Navajo,WOODLAND,State Representative,7,"SHAMLEY, DOYEL",REP,591,180,334,68,9
+Navajo,SITGREAVES,State Representative,7,"SHAMLEY, DOYEL",REP,4474,1168,2856,430,20
+Navajo,SUNRISE,State Representative,7,"SHAMLEY, DOYEL",REP,3371,879,2171,304,17
+Navajo,RED BUTTE,State Representative,7,"TELLER, ARLANDO",DEM,2778,1773,831,149,25
+Navajo,PAINTED DESERT,State Representative,7,"TELLER, ARLANDO",DEM,288,202,73,7,6
+Navajo,HUBBELL,State Representative,7,"TELLER, ARLANDO",DEM,65,32,27,6,0
+Navajo,BLACK BUTTES,State Representative,7,"TELLER, ARLANDO",DEM,1975,908,884,161,22
+Navajo,CEDAR VALLEY,State Representative,7,"TELLER, ARLANDO",DEM,435,299,113,15,8
+Navajo,STONE BUTTE,State Representative,7,"TELLER, ARLANDO",DEM,227,197,26,4,0
+Navajo,WOODLAND,State Representative,7,"TELLER, ARLANDO",DEM,171,39,112,18,2
+Navajo,SITGREAVES,State Representative,7,"TELLER, ARLANDO",DEM,1242,241,909,89,3
+Navajo,SUNRISE,State Representative,7,"TELLER, ARLANDO",DEM,2577,1204,1150,170,53
+Navajo,RED BUTTE,State Representative,7,"TSOSIE, MYRON",DEM,3616,2278,1113,195,30
+Navajo,PAINTED DESERT,State Representative,7,"TSOSIE, MYRON",DEM,543,374,139,21,9
+Navajo,HUBBELL,State Representative,7,"TSOSIE, MYRON",DEM,75,46,22,7,0
+Navajo,BLACK BUTTES,State Representative,7,"TSOSIE, MYRON",DEM,2890,1411,1227,205,47
+Navajo,CEDAR VALLEY,State Representative,7,"TSOSIE, MYRON",DEM,681,437,202,24,18
+Navajo,STONE BUTTE,State Representative,7,"TSOSIE, MYRON",DEM,333,277,49,7,0
+Navajo,WOODLAND,State Representative,7,"TSOSIE, MYRON",DEM,192,49,124,17,2
+Navajo,SITGREAVES,State Representative,7,"TSOSIE, MYRON",DEM,1110,217,797,93,3
+Navajo,SUNRISE,State Representative,7,"TSOSIE, MYRON",DEM,2802,1398,1159,174,71
+Navajo,RED BUTTE,State Representative,7,WRITE-IN,,10,5,5,0,0
+Navajo,PAINTED DESERT,State Representative,7,WRITE-IN,,4,4,0,0,0
+Navajo,HUBBELL,State Representative,7,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,State Representative,7,WRITE-IN,,23,16,5,2,0
+Navajo,CEDAR VALLEY,State Representative,7,WRITE-IN,,3,2,1,0,0
+Navajo,STONE BUTTE,State Representative,7,WRITE-IN,,0,0,0,0,0
+Navajo,WOODLAND,State Representative,7,WRITE-IN,,7,7,0,0,0
+Navajo,SITGREAVES,State Representative,7,WRITE-IN,,35,20,6,8,1
+Navajo,SUNRISE,State Representative,7,WRITE-IN,,37,24,13,0,0
+Navajo,RED BUTTE,State Representative,7,OVER VOTES,,4,2,2,0,0
+Navajo,PAINTED DESERT,State Representative,7,OVER VOTES,,4,2,0,2,0
+Navajo,HUBBELL,State Representative,7,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,State Representative,7,OVER VOTES,,2,0,2,0,0
+Navajo,CEDAR VALLEY,State Representative,7,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,State Representative,7,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,State Representative,7,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,State Representative,7,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,State Representative,7,OVER VOTES,,4,2,2,0,0
+Navajo,RED BUTTE,State Representative,7,UNDER VOTES,,3815,2551,1051,170,43
+Navajo,PAINTED DESERT,State Representative,7,UNDER VOTES,,657,456,171,23,7
+Navajo,HUBBELL,State Representative,7,UNDER VOTES,,136,72,52,12,0
+Navajo,BLACK BUTTES,State Representative,7,UNDER VOTES,,2778,1236,1270,226,46
+Navajo,CEDAR VALLEY,State Representative,7,UNDER VOTES,,747,511,183,33,20
+Navajo,STONE BUTTE,State Representative,7,UNDER VOTES,,240,195,40,5,0
+Navajo,WOODLAND,State Representative,7,UNDER VOTES,,661,181,382,91,7
+Navajo,SITGREAVES,State Representative,7,UNDER VOTES,,5115,1246,3318,530,21
+Navajo,SUNRISE,State Representative,7,UNDER VOTES,,4971,1715,2769,422,65
+Navajo,RED BUTTE,Secretary of State,,"GAYNOR, STEVE",REP,746,479,218,38,11
+Navajo,PAINTED DESERT,Secretary of State,,"GAYNOR, STEVE",REP,148,75,62,9,2
+Navajo,HUBBELL,Secretary of State,,"GAYNOR, STEVE",REP,88,37,46,5,0
+Navajo,BLACK BUTTES,Secretary of State,,"GAYNOR, STEVE",REP,1213,442,638,117,16
+Navajo,CEDAR VALLEY,Secretary of State,,"GAYNOR, STEVE",REP,123,89,30,3,1
+Navajo,STONE BUTTE,Secretary of State,,"GAYNOR, STEVE",REP,50,42,7,1,0
+Navajo,PIONEER,Secretary of State,,"GAYNOR, STEVE",REP,4260,1642,2095,494,29
+Navajo,ANTELOPE,Secretary of State,,"GAYNOR, STEVE",REP,1309,556,630,113,10
+Navajo,JUNIPER,Secretary of State,,"GAYNOR, STEVE",REP,699,172,476,50,1
+Navajo,BISON,Secretary of State,,"GAYNOR, STEVE",REP,591,224,299,66,2
+Navajo,MOGOLLON,Secretary of State,,"GAYNOR, STEVE",REP,1590,375,1083,130,2
+Navajo,WOODLAND,Secretary of State,,"GAYNOR, STEVE",REP,568,170,320,69,9
+Navajo,SITGREAVES,Secretary of State,,"GAYNOR, STEVE",REP,4342,1150,2760,413,19
+Navajo,SUNRISE,Secretary of State,,"GAYNOR, STEVE",REP,3313,881,2115,296,21
+Navajo,RED BUTTE,Secretary of State,,"HOBBS, KATIE",DEM,4459,2882,1305,227,45
+Navajo,PAINTED DESERT,Secretary of State,,"HOBBS, KATIE",DEM,640,461,150,20,9
+Navajo,HUBBELL,Secretary of State,,"HOBBS, KATIE",DEM,94,54,31,9,0
+Navajo,BLACK BUTTES,Secretary of State,,"HOBBS, KATIE",DEM,3092,1505,1310,229,48
+Navajo,CEDAR VALLEY,Secretary of State,,"HOBBS, KATIE",DEM,836,556,225,35,20
+Navajo,STONE BUTTE,Secretary of State,,"HOBBS, KATIE",DEM,361,299,54,8,0
+Navajo,PIONEER,Secretary of State,,"HOBBS, KATIE",DEM,729,213,436,77,3
+Navajo,ANTELOPE,Secretary of State,,"HOBBS, KATIE",DEM,828,292,452,74,10
+Navajo,JUNIPER,Secretary of State,,"HOBBS, KATIE",DEM,260,57,189,14,0
+Navajo,BISON,Secretary of State,,"HOBBS, KATIE",DEM,122,31,72,19,0
+Navajo,MOGOLLON,Secretary of State,,"HOBBS, KATIE",DEM,490,77,378,33,2
+Navajo,WOODLAND,Secretary of State,,"HOBBS, KATIE",DEM,212,53,137,21,1
+Navajo,SITGREAVES,Secretary of State,,"HOBBS, KATIE",DEM,1453,275,1049,124,5
+Navajo,SUNRISE,Secretary of State,,"HOBBS, KATIE",DEM,3354,1663,1407,206,78
+Navajo,RED BUTTE,Secretary of State,,WRITE-IN,,7,3,4,0,0
+Navajo,PAINTED DESERT,Secretary of State,,WRITE-IN,,4,2,1,1,0
+Navajo,HUBBELL,Secretary of State,,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,Secretary of State,,WRITE-IN,,14,6,4,4,0
+Navajo,CEDAR VALLEY,Secretary of State,,WRITE-IN,,1,1,0,0,0
+Navajo,STONE BUTTE,Secretary of State,,WRITE-IN,,0,0,0,0,0
+Navajo,PIONEER,Secretary of State,,WRITE-IN,,7,1,4,2,0
+Navajo,ANTELOPE,Secretary of State,,WRITE-IN,,4,2,2,0,0
+Navajo,JUNIPER,Secretary of State,,WRITE-IN,,0,0,0,0,0
+Navajo,BISON,Secretary of State,,WRITE-IN,,0,0,0,0,0
+Navajo,MOGOLLON,Secretary of State,,WRITE-IN,,3,1,2,0,0
+Navajo,WOODLAND,Secretary of State,,WRITE-IN,,1,1,0,0,0
+Navajo,SITGREAVES,Secretary of State,,WRITE-IN,,9,1,5,3,0
+Navajo,SUNRISE,Secretary of State,,WRITE-IN,,5,1,4,0,0
+Navajo,RED BUTTE,Secretary of State,,OVER VOTES,,2,1,1,0,0
+Navajo,PAINTED DESERT,Secretary of State,,OVER VOTES,,0,0,0,0,0
+Navajo,HUBBELL,Secretary of State,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Secretary of State,,OVER VOTES,,2,1,1,0,0
+Navajo,CEDAR VALLEY,Secretary of State,,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,Secretary of State,,OVER VOTES,,2,2,0,0,0
+Navajo,PIONEER,Secretary of State,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Secretary of State,,OVER VOTES,,2,1,1,0,0
+Navajo,JUNIPER,Secretary of State,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,Secretary of State,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Secretary of State,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,Secretary of State,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Secretary of State,,OVER VOTES,,1,0,1,0,0
+Navajo,SUNRISE,Secretary of State,,OVER VOTES,,3,0,2,1,0
+Navajo,RED BUTTE,Secretary of State,,UNDER VOTES,,191,125,56,10,0
+Navajo,PAINTED DESERT,Secretary of State,,UNDER VOTES,,23,14,7,2,0
+Navajo,HUBBELL,Secretary of State,,UNDER VOTES,,7,3,2,2,0
+Navajo,BLACK BUTTES,Secretary of State,,UNDER VOTES,,116,41,63,11,1
+Navajo,CEDAR VALLEY,Secretary of State,,UNDER VOTES,,26,17,6,1,2
+Navajo,STONE BUTTE,Secretary of State,,UNDER VOTES,,11,11,0,0,0
+Navajo,PIONEER,Secretary of State,,UNDER VOTES,,135,30,78,27,0
+Navajo,ANTELOPE,Secretary of State,,UNDER VOTES,,92,26,50,13,3
+Navajo,JUNIPER,Secretary of State,,UNDER VOTES,,37,5,23,9,0
+Navajo,BISON,Secretary of State,,UNDER VOTES,,16,9,7,0,0
+Navajo,MOGOLLON,Secretary of State,,UNDER VOTES,,66,7,53,6,0
+Navajo,WOODLAND,Secretary of State,,UNDER VOTES,,30,4,19,7,0
+Navajo,SITGREAVES,Secretary of State,,UNDER VOTES,,183,20,128,35,0
+Navajo,SUNRISE,Secretary of State,,UNDER VOTES,,206,66,104,32,4
+Navajo,RED BUTTE,Attorney General,,"BRNOVICH, MARK",REP,904,576,261,54,13
+Navajo,PAINTED DESERT,Attorney General,,"BRNOVICH, MARK",REP,184,104,63,15,2
+Navajo,HUBBELL,Attorney General,,"BRNOVICH, MARK",REP,97,41,49,7,0
+Navajo,BLACK BUTTES,Attorney General,,"BRNOVICH, MARK",REP,1349,509,689,136,15
+Navajo,CEDAR VALLEY,Attorney General,,"BRNOVICH, MARK",REP,168,119,42,5,2
+Navajo,STONE BUTTE,Attorney General,,"BRNOVICH, MARK",REP,61,49,11,1,0
+Navajo,PIONEER,Attorney General,,"BRNOVICH, MARK",REP,4334,1659,2133,513,29
+Navajo,ANTELOPE,Attorney General,,"BRNOVICH, MARK",REP,1390,595,663,122,10
+Navajo,JUNIPER,Attorney General,,"BRNOVICH, MARK",REP,704,169,489,45,1
+Navajo,BISON,Attorney General,,"BRNOVICH, MARK",REP,599,235,296,66,2
+Navajo,MOGOLLON,Attorney General,,"BRNOVICH, MARK",REP,1638,382,1116,137,3
+Navajo,WOODLAND,Attorney General,,"BRNOVICH, MARK",REP,572,172,322,69,9
+Navajo,SITGREAVES,Attorney General,,"BRNOVICH, MARK",REP,4424,1165,2818,423,18
+Navajo,SUNRISE,Attorney General,,"BRNOVICH, MARK",REP,3430,941,2148,314,27
+Navajo,RED BUTTE,Attorney General,,"CONTRERAS, JANUARY",DEM,4282,2753,1270,216,43
+Navajo,PAINTED DESERT,Attorney General,,"CONTRERAS, JANUARY",DEM,604,430,149,16,9
+Navajo,HUBBELL,Attorney General,,"CONTRERAS, JANUARY",DEM,87,49,30,8,0
+Navajo,BLACK BUTTES,Attorney General,,"CONTRERAS, JANUARY",DEM,2944,1424,1259,213,48
+Navajo,CEDAR VALLEY,Attorney General,,"CONTRERAS, JANUARY",DEM,775,508,214,34,19
+Navajo,STONE BUTTE,Attorney General,,"CONTRERAS, JANUARY",DEM,342,284,50,8,0
+Navajo,PIONEER,Attorney General,,"CONTRERAS, JANUARY",DEM,656,185,405,64,2
+Navajo,ANTELOPE,Attorney General,,"CONTRERAS, JANUARY",DEM,751,250,421,70,10
+Navajo,JUNIPER,Attorney General,,"CONTRERAS, JANUARY",DEM,245,53,173,19,0
+Navajo,BISON,Attorney General,,"CONTRERAS, JANUARY",DEM,109,19,72,18,0
+Navajo,MOGOLLON,Attorney General,,"CONTRERAS, JANUARY",DEM,436,67,340,28,1
+Navajo,WOODLAND,Attorney General,,"CONTRERAS, JANUARY",DEM,208,51,134,22,1
+Navajo,SITGREAVES,Attorney General,,"CONTRERAS, JANUARY",DEM,1357,249,981,121,6
+Navajo,SUNRISE,Attorney General,,"CONTRERAS, JANUARY",DEM,3219,1590,1370,187,72
+Navajo,RED BUTTE,Attorney General,,WRITE-IN,,14,5,8,1,0
+Navajo,PAINTED DESERT,Attorney General,,WRITE-IN,,3,3,0,0,0
+Navajo,HUBBELL,Attorney General,,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,Attorney General,,WRITE-IN,,19,11,5,3,0
+Navajo,CEDAR VALLEY,Attorney General,,WRITE-IN,,8,7,1,0,0
+Navajo,STONE BUTTE,Attorney General,,WRITE-IN,,0,0,0,0,0
+Navajo,PIONEER,Attorney General,,WRITE-IN,,6,3,1,2,0
+Navajo,ANTELOPE,Attorney General,,WRITE-IN,,3,0,3,0,0
+Navajo,JUNIPER,Attorney General,,WRITE-IN,,3,0,2,1,0
+Navajo,BISON,Attorney General,,WRITE-IN,,1,0,1,0,0
+Navajo,MOGOLLON,Attorney General,,WRITE-IN,,6,1,5,0,0
+Navajo,WOODLAND,Attorney General,,WRITE-IN,,2,1,1,0,0
+Navajo,SITGREAVES,Attorney General,,WRITE-IN,,14,3,8,3,0
+Navajo,SUNRISE,Attorney General,,WRITE-IN,,7,2,3,2,0
+Navajo,RED BUTTE,Attorney General,,OVER VOTES,,6,5,1,0,0
+Navajo,PAINTED DESERT,Attorney General,,OVER VOTES,,1,0,0,1,0
+Navajo,HUBBELL,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Attorney General,,OVER VOTES,,5,1,4,0,0
+Navajo,CEDAR VALLEY,Attorney General,,OVER VOTES,,1,1,0,0,0
+Navajo,STONE BUTTE,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Attorney General,,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,Attorney General,,OVER VOTES,,1,1,0,0,0
+Navajo,RED BUTTE,Attorney General,,UNDER VOTES,,199,151,44,4,0
+Navajo,PAINTED DESERT,Attorney General,,UNDER VOTES,,23,15,8,0,0
+Navajo,HUBBELL,Attorney General,,UNDER VOTES,,5,4,0,1,0
+Navajo,BLACK BUTTES,Attorney General,,UNDER VOTES,,120,50,59,9,2
+Navajo,CEDAR VALLEY,Attorney General,,UNDER VOTES,,34,28,4,0,2
+Navajo,STONE BUTTE,Attorney General,,UNDER VOTES,,21,21,0,0,0
+Navajo,PIONEER,Attorney General,,UNDER VOTES,,135,39,74,21,1
+Navajo,ANTELOPE,Attorney General,,UNDER VOTES,,91,32,48,8,3
+Navajo,JUNIPER,Attorney General,,UNDER VOTES,,44,12,24,8,0
+Navajo,BISON,Attorney General,,UNDER VOTES,,20,10,9,1,0
+Navajo,MOGOLLON,Attorney General,,UNDER VOTES,,69,10,55,4,0
+Navajo,WOODLAND,Attorney General,,UNDER VOTES,,29,4,19,6,0
+Navajo,SITGREAVES,Attorney General,,UNDER VOTES,,193,29,136,28,0
+Navajo,SUNRISE,Attorney General,,UNDER VOTES,,224,77,111,32,4
+Navajo,RED BUTTE,State Treasurer,,"YEE, KIMBERLY",REP,910,571,265,58,16
+Navajo,PAINTED DESERT,State Treasurer,,"YEE, KIMBERLY",REP,173,94,66,12,1
+Navajo,HUBBELL,State Treasurer,,"YEE, KIMBERLY",REP,95,39,50,6,0
+Navajo,BLACK BUTTES,State Treasurer,,"YEE, KIMBERLY",REP,1363,511,699,135,18
+Navajo,CEDAR VALLEY,State Treasurer,,"YEE, KIMBERLY",REP,177,123,46,7,1
+Navajo,STONE BUTTE,State Treasurer,,"YEE, KIMBERLY",REP,57,45,11,1,0
+Navajo,PIONEER,State Treasurer,,"YEE, KIMBERLY",REP,4396,1686,2169,512,29
+Navajo,ANTELOPE,State Treasurer,,"YEE, KIMBERLY",REP,1393,590,666,126,11
+Navajo,JUNIPER,State Treasurer,,"YEE, KIMBERLY",REP,722,170,497,54,1
+Navajo,BISON,State Treasurer,,"YEE, KIMBERLY",REP,617,230,317,68,2
+Navajo,MOGOLLON,State Treasurer,,"YEE, KIMBERLY",REP,1667,386,1141,137,3
+Navajo,WOODLAND,State Treasurer,,"YEE, KIMBERLY",REP,592,180,334,69,9
+Navajo,SITGREAVES,State Treasurer,,"YEE, KIMBERLY",REP,4495,1176,2876,425,18
+Navajo,SUNRISE,State Treasurer,,"YEE, KIMBERLY",REP,3486,926,2219,319,22
+Navajo,RED BUTTE,State Treasurer,,"MANOIL, MARK",DEM,4274,2752,1268,214,40
+Navajo,PAINTED DESERT,State Treasurer,,"MANOIL, MARK",DEM,613,438,147,18,10
+Navajo,HUBBELL,State Treasurer,,"MANOIL, MARK",DEM,85,50,27,8,0
+Navajo,BLACK BUTTES,State Treasurer,,"MANOIL, MARK",DEM,2941,1426,1259,210,46
+Navajo,CEDAR VALLEY,State Treasurer,,"MANOIL, MARK",DEM,777,513,212,32,20
+Navajo,STONE BUTTE,State Treasurer,,"MANOIL, MARK",DEM,354,296,50,8,0
+Navajo,PIONEER,State Treasurer,,"MANOIL, MARK",DEM,580,158,360,60,2
+Navajo,ANTELOPE,State Treasurer,,"MANOIL, MARK",DEM,731,251,409,62,9
+Navajo,JUNIPER,State Treasurer,,"MANOIL, MARK",DEM,230,52,166,12,0
+Navajo,BISON,State Treasurer,,"MANOIL, MARK",DEM,91,22,52,17,0
+Navajo,MOGOLLON,State Treasurer,,"MANOIL, MARK",DEM,405,61,316,27,1
+Navajo,WOODLAND,State Treasurer,,"MANOIL, MARK",DEM,183,43,120,19,1
+Navajo,SITGREAVES,State Treasurer,,"MANOIL, MARK",DEM,1251,229,912,104,6
+Navajo,SUNRISE,State Treasurer,,"MANOIL, MARK",DEM,3129,1588,1280,182,79
+Navajo,RED BUTTE,State Treasurer,,WRITE-IN,,21,11,9,1,0
+Navajo,PAINTED DESERT,State Treasurer,,WRITE-IN,,2,2,0,0,0
+Navajo,HUBBELL,State Treasurer,,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,State Treasurer,,WRITE-IN,,16,9,5,2,0
+Navajo,CEDAR VALLEY,State Treasurer,,WRITE-IN,,4,3,1,0,0
+Navajo,STONE BUTTE,State Treasurer,,WRITE-IN,,1,1,0,0,0
+Navajo,PIONEER,State Treasurer,,WRITE-IN,,7,2,3,2,0
+Navajo,ANTELOPE,State Treasurer,,WRITE-IN,,2,1,1,0,0
+Navajo,JUNIPER,State Treasurer,,WRITE-IN,,1,1,0,0,0
+Navajo,BISON,State Treasurer,,WRITE-IN,,0,0,0,0,0
+Navajo,MOGOLLON,State Treasurer,,WRITE-IN,,5,0,5,0,0
+Navajo,WOODLAND,State Treasurer,,WRITE-IN,,0,0,0,0,0
+Navajo,SITGREAVES,State Treasurer,,WRITE-IN,,8,2,3,3,0
+Navajo,SUNRISE,State Treasurer,,WRITE-IN,,16,11,5,0,0
+Navajo,RED BUTTE,State Treasurer,,OVER VOTES,,3,2,1,0,0
+Navajo,PAINTED DESERT,State Treasurer,,OVER VOTES,,1,0,0,1,0
+Navajo,HUBBELL,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,State Treasurer,,OVER VOTES,,3,2,1,0,0
+Navajo,CEDAR VALLEY,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,State Treasurer,,OVER VOTES,,1,1,0,0,0
+Navajo,PIONEER,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,State Treasurer,,OVER VOTES,,0,0,0,0,0
+Navajo,RED BUTTE,State Treasurer,,UNDER VOTES,,197,154,41,2,0
+Navajo,PAINTED DESERT,State Treasurer,,UNDER VOTES,,26,18,7,1,0
+Navajo,HUBBELL,State Treasurer,,UNDER VOTES,,9,5,2,2,0
+Navajo,BLACK BUTTES,State Treasurer,,UNDER VOTES,,114,47,52,14,1
+Navajo,CEDAR VALLEY,State Treasurer,,UNDER VOTES,,28,24,2,0,2
+Navajo,STONE BUTTE,State Treasurer,,UNDER VOTES,,11,11,0,0,0
+Navajo,PIONEER,State Treasurer,,UNDER VOTES,,148,40,81,26,1
+Navajo,ANTELOPE,State Treasurer,,UNDER VOTES,,109,35,59,12,3
+Navajo,JUNIPER,State Treasurer,,UNDER VOTES,,43,11,25,7,0
+Navajo,BISON,State Treasurer,,UNDER VOTES,,21,12,9,0,0
+Navajo,MOGOLLON,State Treasurer,,UNDER VOTES,,72,13,54,5,0
+Navajo,WOODLAND,State Treasurer,,UNDER VOTES,,36,5,22,9,0
+Navajo,SITGREAVES,State Treasurer,,UNDER VOTES,,234,39,152,43,0
+Navajo,SUNRISE,State Treasurer,,UNDER VOTES,,250,86,128,34,2
+Navajo,RED BUTTE,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,752,502,205,40,5
+Navajo,PAINTED DESERT,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,143,73,58,11,1
+Navajo,HUBBELL,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,89,39,46,4,0
+Navajo,BLACK BUTTES,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,1131,406,594,116,15
+Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,129,89,38,2,0
+Navajo,STONE BUTTE,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,49,42,6,1,0
+Navajo,PIONEER,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,4168,1595,2062,480,31
+Navajo,ANTELOPE,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,1261,526,620,106,9
+Navajo,JUNIPER,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,688,160,476,51,1
+Navajo,BISON,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,572,224,287,59,2
+Navajo,MOGOLLON,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,1568,369,1065,132,2
+Navajo,WOODLAND,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,541,167,302,63,9
+Navajo,SITGREAVES,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,4245,1125,2698,401,21
+Navajo,SUNRISE,Superintendent of Public Instruction,,"RIGGS, FRANK",REP,3175,849,2029,277,20
+Navajo,RED BUTTE,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,4477,2853,1344,229,51
+Navajo,PAINTED DESERT,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,652,464,160,19,9
+Navajo,HUBBELL,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,93,51,32,10,0
+Navajo,BLACK BUTTES,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,3194,1542,1368,237,47
+Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,826,550,219,36,21
+Navajo,STONE BUTTE,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,365,302,55,8,0
+Navajo,PIONEER,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,846,252,488,105,1
+Navajo,ANTELOPE,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,874,317,463,83,11
+Navajo,JUNIPER,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,267,63,189,15,0
+Navajo,BISON,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,137,30,83,24,0
+Navajo,MOGOLLON,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,529,80,415,32,2
+Navajo,WOODLAND,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,241,55,156,29,1
+Navajo,SITGREAVES,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,1537,284,1114,136,3
+Navajo,SUNRISE,Superintendent of Public Instruction,,"HOFFMAN, KATHY",DEM,3482,1682,1498,222,80
+Navajo,RED BUTTE,Superintendent of Public Instruction,,WRITE-IN,,12,5,7,0,0
+Navajo,PAINTED DESERT,Superintendent of Public Instruction,,WRITE-IN,,2,2,0,0,0
+Navajo,HUBBELL,Superintendent of Public Instruction,,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,Superintendent of Public Instruction,,WRITE-IN,,10,3,5,2,0
+Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,WRITE-IN,,4,3,0,1,0
+Navajo,STONE BUTTE,Superintendent of Public Instruction,,WRITE-IN,,0,0,0,0,0
+Navajo,PIONEER,Superintendent of Public Instruction,,WRITE-IN,,6,0,5,1,0
+Navajo,ANTELOPE,Superintendent of Public Instruction,,WRITE-IN,,7,2,4,1,0
+Navajo,JUNIPER,Superintendent of Public Instruction,,WRITE-IN,,4,1,3,0,0
+Navajo,BISON,Superintendent of Public Instruction,,WRITE-IN,,1,0,0,1,0
+Navajo,MOGOLLON,Superintendent of Public Instruction,,WRITE-IN,,2,0,2,0,0
+Navajo,WOODLAND,Superintendent of Public Instruction,,WRITE-IN,,0,0,0,0,0
+Navajo,SITGREAVES,Superintendent of Public Instruction,,WRITE-IN,,14,4,6,4,0
+Navajo,SUNRISE,Superintendent of Public Instruction,,WRITE-IN,,8,3,3,2,0
+Navajo,RED BUTTE,Superintendent of Public Instruction,,OVER VOTES,,3,2,1,0,0
+Navajo,PAINTED DESERT,Superintendent of Public Instruction,,OVER VOTES,,2,1,0,1,0
+Navajo,HUBBELL,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Superintendent of Public Instruction,,OVER VOTES,,2,2,0,0,0
+Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,Superintendent of Public Instruction,,OVER VOTES,,1,1,0,0,0
+Navajo,PIONEER,Superintendent of Public Instruction,,OVER VOTES,,1,1,0,0,0
+Navajo,ANTELOPE,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Superintendent of Public Instruction,,OVER VOTES,,1,0,1,0,0
+Navajo,WOODLAND,Superintendent of Public Instruction,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Superintendent of Public Instruction,,OVER VOTES,,1,0,1,0,0
+Navajo,SUNRISE,Superintendent of Public Instruction,,OVER VOTES,,3,0,2,1,0
+Navajo,RED BUTTE,Superintendent of Public Instruction,,UNDER VOTES,,161,128,27,6,0
+Navajo,PAINTED DESERT,Superintendent of Public Instruction,,UNDER VOTES,,16,12,2,1,1
+Navajo,HUBBELL,Superintendent of Public Instruction,,UNDER VOTES,,7,4,1,2,0
+Navajo,BLACK BUTTES,Superintendent of Public Instruction,,UNDER VOTES,,100,42,49,6,3
+Navajo,CEDAR VALLEY,Superintendent of Public Instruction,,UNDER VOTES,,27,21,4,0,2
+Navajo,STONE BUTTE,Superintendent of Public Instruction,,UNDER VOTES,,9,9,0,0,0
+Navajo,PIONEER,Superintendent of Public Instruction,,UNDER VOTES,,110,38,58,14,0
+Navajo,ANTELOPE,Superintendent of Public Instruction,,UNDER VOTES,,93,32,48,10,3
+Navajo,JUNIPER,Superintendent of Public Instruction,,UNDER VOTES,,37,10,20,7,0
+Navajo,BISON,Superintendent of Public Instruction,,UNDER VOTES,,19,10,8,1,0
+Navajo,MOGOLLON,Superintendent of Public Instruction,,UNDER VOTES,,49,11,33,5,0
+Navajo,WOODLAND,Superintendent of Public Instruction,,UNDER VOTES,,29,6,18,5,0
+Navajo,SITGREAVES,Superintendent of Public Instruction,,UNDER VOTES,,191,33,124,34,0
+Navajo,SUNRISE,Superintendent of Public Instruction,,UNDER VOTES,,213,77,100,33,3
+Navajo,RED BUTTE,State Mine Inpsector,,"HART, JOE",REP,777,476,246,42,13
+Navajo,PAINTED DESERT,State Mine Inpsector,,"HART, JOE",REP,159,86,61,12,0
+Navajo,HUBBELL,State Mine Inpsector,,"HART, JOE",REP,96,35,53,8,0
+Navajo,BLACK BUTTES,State Mine Inpsector,,"HART, JOE",REP,1210,447,624,124,15
+Navajo,CEDAR VALLEY,State Mine Inpsector,,"HART, JOE",REP,135,95,36,2,2
+Navajo,STONE BUTTE,State Mine Inpsector,,"HART, JOE",REP,48,40,7,1,0
+Navajo,PIONEER,State Mine Inpsector,,"HART, JOE",REP,4301,1632,2151,490,28
+Navajo,ANTELOPE,State Mine Inpsector,,"HART, JOE",REP,1362,572,663,117,10
+Navajo,JUNIPER,State Mine Inpsector,,"HART, JOE",REP,695,158,485,51,1
+Navajo,BISON,State Mine Inpsector,,"HART, JOE",REP,576,213,299,62,2
+Navajo,MOGOLLON,State Mine Inpsector,,"HART, JOE",REP,1637,369,1130,135,3
+Navajo,WOODLAND,State Mine Inpsector,,"HART, JOE",REP,560,174,307,70,9
+Navajo,SITGREAVES,State Mine Inpsector,,"HART, JOE",REP,4344,1132,2776,415,21
+Navajo,SUNRISE,State Mine Inpsector,,"HART, JOE",REP,3289,848,2123,299,19
+Navajo,RED BUTTE,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,4412,2837,1308,224,43
+Navajo,PAINTED DESERT,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,626,443,154,19,10
+Navajo,HUBBELL,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,83,53,25,5,0
+Navajo,BLACK BUTTES,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,3081,1490,1323,220,48
+Navajo,CEDAR VALLEY,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,823,546,221,37,19
+Navajo,STONE BUTTE,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,361,300,54,7,0
+Navajo,PIONEER,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,668,199,384,82,3
+Navajo,ANTELOPE,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,747,260,408,69,10
+Navajo,JUNIPER,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,257,62,181,14,0
+Navajo,BISON,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,118,38,58,22,0
+Navajo,MOGOLLON,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,445,76,339,29,1
+Navajo,WOODLAND,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,198,43,136,18,1
+Navajo,SITGREAVES,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,1346,251,989,103,3
+Navajo,SUNRISE,State Mine Inpsector,,"PIERCE, WILLIAM ""BILL""",DEM,3262,1653,1334,194,81
+Navajo,RED BUTTE,State Mine Inpsector,,WRITE-IN,,9,6,3,0,0
+Navajo,PAINTED DESERT,State Mine Inpsector,,WRITE-IN,,2,2,0,0,0
+Navajo,HUBBELL,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,State Mine Inpsector,,WRITE-IN,,10,3,3,4,0
+Navajo,CEDAR VALLEY,State Mine Inpsector,,WRITE-IN,,1,1,0,0,0
+Navajo,STONE BUTTE,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0
+Navajo,PIONEER,State Mine Inpsector,,WRITE-IN,,5,2,2,1,0
+Navajo,ANTELOPE,State Mine Inpsector,,WRITE-IN,,2,0,2,0,0
+Navajo,JUNIPER,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0
+Navajo,BISON,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0
+Navajo,MOGOLLON,State Mine Inpsector,,WRITE-IN,,0,0,0,0,0
+Navajo,WOODLAND,State Mine Inpsector,,WRITE-IN,,1,1,0,0,0
+Navajo,SITGREAVES,State Mine Inpsector,,WRITE-IN,,16,3,7,6,0
+Navajo,SUNRISE,State Mine Inpsector,,WRITE-IN,,8,3,5,0,0
+Navajo,RED BUTTE,State Mine Inpsector,,OVER VOTES,,2,1,1,0,0
+Navajo,PAINTED DESERT,State Mine Inpsector,,OVER VOTES,,1,0,0,1,0
+Navajo,HUBBELL,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,State Mine Inpsector,,OVER VOTES,,1,1,0,0,0
+Navajo,CEDAR VALLEY,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,State Mine Inpsector,,OVER VOTES,,1,0,0,1,0
+Navajo,JUNIPER,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,State Mine Inpsector,,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,State Mine Inpsector,,OVER VOTES,,3,0,2,1,0
+Navajo,RED BUTTE,State Mine Inpsector,,UNDER VOTES,,205,170,26,9,0
+Navajo,PAINTED DESERT,State Mine Inpsector,,UNDER VOTES,,27,21,5,0,1
+Navajo,HUBBELL,State Mine Inpsector,,UNDER VOTES,,10,6,1,3,0
+Navajo,BLACK BUTTES,State Mine Inpsector,,UNDER VOTES,,135,54,66,13,2
+Navajo,CEDAR VALLEY,State Mine Inpsector,,UNDER VOTES,,27,21,4,0,2
+Navajo,STONE BUTTE,State Mine Inpsector,,UNDER VOTES,,15,14,0,1,0
+Navajo,PIONEER,State Mine Inpsector,,UNDER VOTES,,157,53,76,27,1
+Navajo,ANTELOPE,State Mine Inpsector,,UNDER VOTES,,123,45,62,13,3
+Navajo,JUNIPER,State Mine Inpsector,,UNDER VOTES,,44,14,22,8,0
+Navajo,BISON,State Mine Inpsector,,UNDER VOTES,,35,13,21,1,0
+Navajo,MOGOLLON,State Mine Inpsector,,UNDER VOTES,,67,15,47,5,0
+Navajo,WOODLAND,State Mine Inpsector,,UNDER VOTES,,52,10,33,9,0
+Navajo,SITGREAVES,State Mine Inpsector,,UNDER VOTES,,282,60,171,51,0
+Navajo,SUNRISE,State Mine Inpsector,,UNDER VOTES,,319,107,168,41,3
+Navajo,RED BUTTE,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,452,294,126,26,6
+Navajo,PAINTED DESERT,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,115,57,47,11,0
+Navajo,HUBBELL,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,81,32,43,6,0
+Navajo,BLACK BUTTES,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,971,327,529,105,10
+Navajo,CEDAR VALLEY,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,69,47,20,1,1
+Navajo,STONE BUTTE,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,29,26,3,0,0
+Navajo,PIONEER,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,3960,1490,1980,469,21
+Navajo,ANTELOPE,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,1239,513,604,115,7
+Navajo,JUNIPER,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,626,150,428,47,1
+Navajo,BISON,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,527,190,275,61,1
+Navajo,MOGOLLON,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,1488,344,1020,122,2
+Navajo,WOODLAND,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,505,148,292,61,4
+Navajo,SITGREAVES,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,3859,975,2494,372,18
+Navajo,SUNRISE,Corporation Commissioner,,"GLASSMAN, RODNEY",REP,2866,730,1843,277,16
+Navajo,RED BUTTE,Corporation Commissioner,,"OLSON, JUSTIN",REP,533,326,166,36,5
+Navajo,PAINTED DESERT,Corporation Commissioner,,"OLSON, JUSTIN",REP,110,52,52,5,1
+Navajo,HUBBELL,Corporation Commissioner,,"OLSON, JUSTIN",REP,80,31,45,4,0
+Navajo,BLACK BUTTES,Corporation Commissioner,,"OLSON, JUSTIN",REP,1050,363,553,117,17
+Navajo,CEDAR VALLEY,Corporation Commissioner,,"OLSON, JUSTIN",REP,86,58,25,2,1
+Navajo,STONE BUTTE,Corporation Commissioner,,"OLSON, JUSTIN",REP,42,35,6,1,0
+Navajo,PIONEER,Corporation Commissioner,,"OLSON, JUSTIN",REP,3865,1441,1941,461,22
+Navajo,ANTELOPE,Corporation Commissioner,,"OLSON, JUSTIN",REP,1191,511,567,106,7
+Navajo,JUNIPER,Corporation Commissioner,,"OLSON, JUSTIN",REP,605,136,426,42,1
+Navajo,BISON,Corporation Commissioner,,"OLSON, JUSTIN",REP,543,203,277,61,2
+Navajo,MOGOLLON,Corporation Commissioner,,"OLSON, JUSTIN",REP,1435,333,981,120,1
+Navajo,WOODLAND,Corporation Commissioner,,"OLSON, JUSTIN",REP,497,150,276,63,8
+Navajo,SITGREAVES,Corporation Commissioner,,"OLSON, JUSTIN",REP,3685,926,2388,359,12
+Navajo,SUNRISE,Corporation Commissioner,,"OLSON, JUSTIN",REP,3031,773,1962,280,16
+Navajo,RED BUTTE,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,3974,2526,1194,213,41
+Navajo,PAINTED DESERT,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,529,372,133,15,9
+Navajo,HUBBELL,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,77,45,26,6,0
+Navajo,BLACK BUTTES,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,2801,1320,1237,201,43
+Navajo,CEDAR VALLEY,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,723,480,197,29,17
+Navajo,STONE BUTTE,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,320,266,47,7,0
+Navajo,PIONEER,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,684,209,411,62,2
+Navajo,ANTELOPE,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,732,258,412,51,11
+Navajo,JUNIPER,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,251,56,183,12,0
+Navajo,BISON,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,123,33,70,20,0
+Navajo,MOGOLLON,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,505,82,384,37,2
+Navajo,WOODLAND,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,211,48,145,17,1
+Navajo,SITGREAVES,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,1403,249,1038,112,4
+Navajo,SUNRISE,Corporation Commissioner,,"KENNEDY, SANDRA",DEM,3067,1502,1322,175,68
+Navajo,RED BUTTE,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,2693,1716,812,143,22
+Navajo,PAINTED DESERT,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,360,250,91,14,5
+Navajo,HUBBELL,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,63,33,22,8,0
+Navajo,BLACK BUTTES,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,2427,1138,1070,189,30
+Navajo,CEDAR VALLEY,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,437,280,129,20,8
+Navajo,STONE BUTTE,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,255,212,39,4,0
+Navajo,PIONEER,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,559,148,355,53,3
+Navajo,ANTELOPE,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,626,216,353,51,6
+Navajo,JUNIPER,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,216,51,151,14,0
+Navajo,BISON,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,108,25,64,19,0
+Navajo,MOGOLLON,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,431,67,330,33,1
+Navajo,WOODLAND,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,184,41,123,19,1
+Navajo,SITGREAVES,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,1206,204,894,105,3
+Navajo,SUNRISE,Corporation Commissioner,,"SEARS, KIANA MARIA",DEM,2844,1366,1231,181,66
+Navajo,RED BUTTE,Corporation Commissioner,,WRITE-IN,,15,9,6,0,0
+Navajo,PAINTED DESERT,Corporation Commissioner,,WRITE-IN,,1,1,0,0,0
+Navajo,HUBBELL,Corporation Commissioner,,WRITE-IN,,0,0,0,0,0
+Navajo,BLACK BUTTES,Corporation Commissioner,,WRITE-IN,,13,4,4,5,0
+Navajo,CEDAR VALLEY,Corporation Commissioner,,WRITE-IN,,1,1,0,0,0
+Navajo,STONE BUTTE,Corporation Commissioner,,WRITE-IN,,0,0,0,0,0
+Navajo,PIONEER,Corporation Commissioner,,WRITE-IN,,4,1,1,2,0
+Navajo,ANTELOPE,Corporation Commissioner,,WRITE-IN,,5,5,0,0,0
+Navajo,JUNIPER,Corporation Commissioner,,WRITE-IN,,1,0,1,0,0
+Navajo,BISON,Corporation Commissioner,,WRITE-IN,,1,0,1,0,0
+Navajo,MOGOLLON,Corporation Commissioner,,WRITE-IN,,3,0,3,0,0
+Navajo,WOODLAND,Corporation Commissioner,,WRITE-IN,,1,1,0,0,0
+Navajo,SITGREAVES,Corporation Commissioner,,WRITE-IN,,14,1,10,3,0
+Navajo,SUNRISE,Corporation Commissioner,,WRITE-IN,,6,5,1,0,0
+Navajo,RED BUTTE,Corporation Commissioner,,OVER VOTES,,10,8,2,0,0
+Navajo,PAINTED DESERT,Corporation Commissioner,,OVER VOTES,,6,4,0,2,0
+Navajo,HUBBELL,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0
+Navajo,CEDAR VALLEY,Corporation Commissioner,,OVER VOTES,,2,2,0,0,0
+Navajo,STONE BUTTE,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,Corporation Commissioner,,OVER VOTES,,2,2,0,0,0
+Navajo,ANTELOPE,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,Corporation Commissioner,,OVER VOTES,,4,0,4,0,0
+Navajo,BISON,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Corporation Commissioner,,OVER VOTES,,2,0,2,0,0
+Navajo,WOODLAND,Corporation Commissioner,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Corporation Commissioner,,OVER VOTES,,2,0,2,0,0
+Navajo,SUNRISE,Corporation Commissioner,,OVER VOTES,,8,4,4,0,0
+Navajo,RED BUTTE,Corporation Commissioner,,UNDER VOTES,,3133,2101,862,132,38
+Navajo,PAINTED DESERT,Corporation Commissioner,,UNDER VOTES,,509,368,117,17,7
+Navajo,HUBBELL,Corporation Commissioner,,UNDER VOTES,,77,47,22,8,0
+Navajo,BLACK BUTTES,Corporation Commissioner,,UNDER VOTES,,1612,838,639,105,30
+Navajo,CEDAR VALLEY,Corporation Commissioner,,UNDER VOTES,,654,458,151,26,19
+Navajo,STONE BUTTE,Corporation Commissioner,,UNDER VOTES,,202,169,27,6,0
+Navajo,PIONEER,Corporation Commissioner,,UNDER VOTES,,1188,481,538,153,16
+Navajo,ANTELOPE,Corporation Commissioner,,UNDER VOTES,,677,251,334,77,15
+Navajo,JUNIPER,Corporation Commissioner,,UNDER VOTES,,289,75,183,31,0
+Navajo,BISON,Corporation Commissioner,,UNDER VOTES,,156,77,69,9,1
+Navajo,MOGOLLON,Corporation Commissioner,,UNDER VOTES,,434,94,312,26,2
+Navajo,WOODLAND,Corporation Commissioner,,UNDER VOTES,,224,68,116,34,6
+Navajo,SITGREAVES,Corporation Commissioner,,UNDER VOTES,,1807,537,1060,199,11
+Navajo,SUNRISE,Corporation Commissioner,,UNDER VOTES,,1940,842,901,157,40
+Navajo,RED BUTTE,Clerk of the Superior Court,,"ROMO, DEANNE",,4900,3135,1461,253,51
+Navajo,PAINTED DESERT,Clerk of the Superior Court,,"ROMO, DEANNE",,727,502,185,29,11
+Navajo,HUBBELL,Clerk of the Superior Court,,"ROMO, DEANNE",,140,73,56,11,0
+Navajo,BLACK BUTTES,Clerk of the Superior Court,,"ROMO, DEANNE",,3842,1766,1722,298,56
+Navajo,CEDAR VALLEY,Clerk of the Superior Court,,"ROMO, DEANNE",,905,599,249,36,21
+Navajo,STONE BUTTE,Clerk of the Superior Court,,"ROMO, DEANNE",,386,320,57,9,0
+Navajo,PIONEER,Clerk of the Superior Court,,"ROMO, DEANNE",,2734,1006,1416,298,14
+Navajo,ANTELOPE,Clerk of the Superior Court,,"ROMO, DEANNE",,1707,675,862,151,19
+Navajo,JUNIPER,Clerk of the Superior Court,,"ROMO, DEANNE",,510,119,365,25,1
+Navajo,BISON,Clerk of the Superior Court,,"ROMO, DEANNE",,330,123,167,38,2
+Navajo,MOGOLLON,Clerk of the Superior Court,,"ROMO, DEANNE",,1107,232,782,90,3
+Navajo,WOODLAND,Clerk of the Superior Court,,"ROMO, DEANNE",,433,119,264,44,6
+Navajo,SITGREAVES,Clerk of the Superior Court,,"ROMO, DEANNE",,3118,708,2095,303,12
+Navajo,SUNRISE,Clerk of the Superior Court,,"ROMO, DEANNE",,4498,1936,2185,293,84
+Navajo,RED BUTTE,Clerk of the Superior Court,,WRITE-IN,,37,26,10,1,0
+Navajo,PAINTED DESERT,Clerk of the Superior Court,,WRITE-IN,,14,12,1,1,0
+Navajo,HUBBELL,Clerk of the Superior Court,,WRITE-IN,,3,1,2,0,0
+Navajo,BLACK BUTTES,Clerk of the Superior Court,,WRITE-IN,,53,24,26,3,0
+Navajo,CEDAR VALLEY,Clerk of the Superior Court,,WRITE-IN,,12,11,1,0,0
+Navajo,STONE BUTTE,Clerk of the Superior Court,,WRITE-IN,,4,4,0,0,0
+Navajo,PIONEER,Clerk of the Superior Court,,WRITE-IN,,201,96,87,15,3
+Navajo,ANTELOPE,Clerk of the Superior Court,,WRITE-IN,,62,29,31,2,0
+Navajo,JUNIPER,Clerk of the Superior Court,,WRITE-IN,,38,17,19,2,0
+Navajo,BISON,Clerk of the Superior Court,,WRITE-IN,,24,10,11,3,0
+Navajo,MOGOLLON,Clerk of the Superior Court,,WRITE-IN,,55,11,43,1,0
+Navajo,WOODLAND,Clerk of the Superior Court,,WRITE-IN,,28,16,9,1,2
+Navajo,SITGREAVES,Clerk of the Superior Court,,WRITE-IN,,184,69,95,19,1
+Navajo,SUNRISE,Clerk of the Superior Court,,WRITE-IN,,131,45,71,13,2
+Navajo,RED BUTTE,Clerk of the Superior Court,,OVER VOTES,,4,4,0,0,0
+Navajo,PAINTED DESERT,Clerk of the Superior Court,,OVER VOTES,,1,0,0,1,0
+Navajo,HUBBELL,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Clerk of the Superior Court,,OVER VOTES,,1,0,1,0,0
+Navajo,CEDAR VALLEY,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,Clerk of the Superior Court,,OVER VOTES,,1,0,1,0,0
+Navajo,ANTELOPE,Clerk of the Superior Court,,OVER VOTES,,1,0,1,0,0
+Navajo,JUNIPER,Clerk of the Superior Court,,OVER VOTES,,1,1,0,0,0
+Navajo,BISON,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Clerk of the Superior Court,,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,Clerk of the Superior Court,,OVER VOTES,,3,2,1,0,0
+Navajo,RED BUTTE,Clerk of the Superior Court,,UNDER VOTES,,464,325,113,21,5
+Navajo,PAINTED DESERT,Clerk of the Superior Court,,UNDER VOTES,,73,38,34,1,0
+Navajo,HUBBELL,Clerk of the Superior Court,,UNDER VOTES,,46,20,21,5,0
+Navajo,BLACK BUTTES,Clerk of the Superior Court,,UNDER VOTES,,541,205,267,60,9
+Navajo,CEDAR VALLEY,Clerk of the Superior Court,,UNDER VOTES,,69,53,11,3,2
+Navajo,STONE BUTTE,Clerk of the Superior Court,,UNDER VOTES,,34,30,4,0,0
+Navajo,PIONEER,Clerk of the Superior Court,,UNDER VOTES,,2195,784,1109,287,15
+Navajo,ANTELOPE,Clerk of the Superior Court,,UNDER VOTES,,465,173,241,47,4
+Navajo,JUNIPER,Clerk of the Superior Court,,UNDER VOTES,,447,97,304,46,0
+Navajo,BISON,Clerk of the Superior Court,,UNDER VOTES,,375,131,200,44,0
+Navajo,MOGOLLON,Clerk of the Superior Court,,UNDER VOTES,,987,217,691,78,1
+Navajo,WOODLAND,Clerk of the Superior Court,,UNDER VOTES,,350,93,203,52,2
+Navajo,SITGREAVES,Clerk of the Superior Court,,UNDER VOTES,,2686,669,1753,253,11
+Navajo,SUNRISE,Clerk of the Superior Court,,UNDER VOTES,,2249,628,1375,229,17
+Navajo,PAINTED DESERT,Justice of the Peace Prec. 1,,"MAREZ, EVELYN",,730,502,190,28,10
+Navajo,CEDAR VALLEY,Justice of the Peace Prec. 1,,"MAREZ, EVELYN",,904,603,245,36,20
+Navajo,ANTELOPE,Justice of the Peace Prec. 1,,"MAREZ, EVELYN",,1690,662,860,149,19
+Navajo,PAINTED DESERT,Justice of the Peace Prec. 1,,WRITE-IN,,11,9,1,1,0
+Navajo,CEDAR VALLEY,Justice of the Peace Prec. 1,,WRITE-IN,,10,7,3,0,0
+Navajo,ANTELOPE,Justice of the Peace Prec. 1,,WRITE-IN,,62,30,31,1,0
+Navajo,PAINTED DESERT,Justice of the Peace Prec. 1,,OVER VOTES,,1,0,0,1,0
+Navajo,CEDAR VALLEY,Justice of the Peace Prec. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Justice of the Peace Prec. 1,,OVER VOTES,,1,0,1,0,0
+Navajo,PAINTED DESERT,Justice of the Peace Prec. 1,,UNDER VOTES,,73,41,29,2,1
+Navajo,CEDAR VALLEY,Justice of the Peace Prec. 1,,UNDER VOTES,,72,53,13,3,3
+Navajo,ANTELOPE,Justice of the Peace Prec. 1,,UNDER VOTES,,482,185,243,50,4
+Navajo,HUBBELL,Justice of the Peace Prec. 2,,"LITTLE, B.J.",,157,83,59,15,0
+Navajo,BLACK BUTTES,Justice of the Peace Prec. 2,,"LITTLE, B.J.",,3884,1790,1731,307,56
+Navajo,HUBBELL,Justice of the Peace Prec. 2,,WRITE-IN,,1,0,1,0,0
+Navajo,BLACK BUTTES,Justice of the Peace Prec. 2,,WRITE-IN,,66,28,33,3,2
+Navajo,HUBBELL,Justice of the Peace Prec. 2,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Justice of the Peace Prec. 2,,OVER VOTES,,1,1,0,0,0
+Navajo,HUBBELL,Justice of the Peace Prec. 2,,UNDER VOTES,,31,11,19,1,0
+Navajo,BLACK BUTTES,Justice of the Peace Prec. 2,,UNDER VOTES,,486,176,252,51,7
+Navajo,PIONEER,Justice of the Peace Prec. 3,,"PETERSON, FRED",,4475,1685,2235,525,30
+Navajo,MOGOLLON,Justice of the Peace Prec. 3,,"PETERSON, FRED",,1727,381,1222,121,3
+Navajo,PIONEER,Justice of the Peace Prec. 3,,WRITE-IN,,118,46,55,17,0
+Navajo,MOGOLLON,Justice of the Peace Prec. 3,,WRITE-IN,,43,12,24,7,0
+Navajo,PIONEER,Justice of the Peace Prec. 3,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Justice of the Peace Prec. 3,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,Justice of the Peace Prec. 3,,UNDER VOTES,,538,155,323,58,2
+Navajo,MOGOLLON,Justice of the Peace Prec. 3,,UNDER VOTES,,379,67,270,41,1
+Navajo,RED BUTTE,Justice of the Peace Prec. 4,,"NELSON, SUSIE",,4955,3168,1479,259,49
+Navajo,STONE BUTTE,Justice of the Peace Prec. 4,,"NELSON, SUSIE",,384,318,57,9,0
+Navajo,RED BUTTE,Justice of the Peace Prec. 4,,WRITE-IN,,39,28,9,2,0
+Navajo,STONE BUTTE,Justice of the Peace Prec. 4,,WRITE-IN,,4,4,0,0,0
+Navajo,RED BUTTE,Justice of the Peace Prec. 4,,OVER VOTES,,2,2,0,0,0
+Navajo,STONE BUTTE,Justice of the Peace Prec. 4,,OVER VOTES,,0,0,0,0,0
+Navajo,RED BUTTE,Justice of the Peace Prec. 4,,UNDER VOTES,,409,292,96,14,7
+Navajo,STONE BUTTE,Justice of the Peace Prec. 4,,UNDER VOTES,,36,32,4,0,0
+Navajo,JUNIPER,Justice of the Peace Prec. 5,,"PATTERSON, SHIRLEY",,797,186,550,60,1
+Navajo,BISON,Justice of the Peace Prec. 5,,"PATTERSON, SHIRLEY",,604,231,306,65,2
+Navajo,SITGREAVES,Justice of the Peace Prec. 5,,"PATTERSON, SHIRLEY",,4901,1236,3183,462,20
+Navajo,SUNRISE,Justice of the Peace Prec. 5,,"PATTERSON, SHIRLEY",,28,2,23,3,0
+Navajo,JUNIPER,Justice of the Peace Prec. 5,,WRITE-IN,,13,6,7,0,0
+Navajo,BISON,Justice of the Peace Prec. 5,,WRITE-IN,,19,2,11,6,0
+Navajo,SITGREAVES,Justice of the Peace Prec. 5,,WRITE-IN,,136,41,76,18,1
+Navajo,SUNRISE,Justice of the Peace Prec. 5,,WRITE-IN,,0,0,0,0,0
+Navajo,JUNIPER,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Justice of the Peace Prec. 5,,OVER VOTES,,3,0,3,0,0
+Navajo,SUNRISE,Justice of the Peace Prec. 5,,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,Justice of the Peace Prec. 5,,UNDER VOTES,,186,42,131,13,0
+Navajo,BISON,Justice of the Peace Prec. 5,,UNDER VOTES,,106,31,61,14,0
+Navajo,SITGREAVES,Justice of the Peace Prec. 5,,UNDER VOTES,,948,169,681,95,3
+Navajo,SUNRISE,Justice of the Peace Prec. 5,,UNDER VOTES,,5,0,4,0,1
+Navajo,WOODLAND,Justice of the Peace Prec. 6,,"WIDMAIER, DAVID",,469,136,280,50,3
+Navajo,SUNRISE,Justice of the Peace Prec. 6,,"WIDMAIER, DAVID",,4715,2018,2300,322,75
+Navajo,WOODLAND,Justice of the Peace Prec. 6,,WRITE-IN,,23,9,11,1,2
+Navajo,SUNRISE,Justice of the Peace Prec. 6,,WRITE-IN,,113,40,66,5,2
+Navajo,WOODLAND,Justice of the Peace Prec. 6,,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,Justice of the Peace Prec. 6,,OVER VOTES,,4,1,3,0,0
+Navajo,WOODLAND,Justice of the Peace Prec. 6,,UNDER VOTES,,319,83,185,46,5
+Navajo,SUNRISE,Justice of the Peace Prec. 6,,UNDER VOTES,,2016,550,1236,205,25
+Navajo,PAINTED DESERT,Constable Prec. 1,,"ROMO, PHYLLIS",,716,499,181,26,10
+Navajo,CEDAR VALLEY,Constable Prec. 1,,"ROMO, PHYLLIS",,905,603,246,36,20
+Navajo,ANTELOPE,Constable Prec. 1,,"ROMO, PHYLLIS",,1661,651,848,144,18
+Navajo,PAINTED DESERT,Constable Prec. 1,,WRITE-IN,,14,11,2,1,0
+Navajo,CEDAR VALLEY,Constable Prec. 1,,WRITE-IN,,11,11,0,0,0
+Navajo,ANTELOPE,Constable Prec. 1,,WRITE-IN,,59,23,27,8,1
+Navajo,PAINTED DESERT,Constable Prec. 1,,OVER VOTES,,1,0,0,1,0
+Navajo,CEDAR VALLEY,Constable Prec. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Constable Prec. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,PAINTED DESERT,Constable Prec. 1,,UNDER VOTES,,84,42,37,4,1
+Navajo,CEDAR VALLEY,Constable Prec. 1,,UNDER VOTES,,70,49,15,3,3
+Navajo,ANTELOPE,Constable Prec. 1,,UNDER VOTES,,515,203,260,48,4
+Navajo,HUBBELL,Constable Prec. 2,,"SMITH, SUZANNE",,135,68,57,10,0
+Navajo,BLACK BUTTES,Constable Prec. 2,,"SMITH, SUZANNE",,3774,1735,1693,291,55
+Navajo,HUBBELL,Constable Prec. 2,,WRITE-IN,,1,0,1,0,0
+Navajo,BLACK BUTTES,Constable Prec. 2,,WRITE-IN,,54,27,24,3,0
+Navajo,HUBBELL,Constable Prec. 2,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Constable Prec. 2,,OVER VOTES,,2,2,0,0,0
+Navajo,HUBBELL,Constable Prec. 2,,UNDER VOTES,,53,26,21,6,0
+Navajo,BLACK BUTTES,Constable Prec. 2,,UNDER VOTES,,607,231,299,67,10
+Navajo,PIONEER,Constable Prec. 3,,"GRIMES, SAM",,4435,1679,2216,510,30
+Navajo,MOGOLLON,Constable Prec. 3,,"GRIMES, SAM",,1741,395,1206,137,3
+Navajo,PIONEER,Constable Prec. 3,,WRITE-IN,,35,10,19,6,0
+Navajo,MOGOLLON,Constable Prec. 3,,WRITE-IN,,20,3,15,2,0
+Navajo,PIONEER,Constable Prec. 3,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Constable Prec. 3,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,Constable Prec. 3,,UNDER VOTES,,661,197,378,84,2
+Navajo,MOGOLLON,Constable Prec. 3,,UNDER VOTES,,388,62,295,30,1
+Navajo,RED BUTTE,Constable Prec. 4,,"WHITETHORNE-BENALLY, ELIZABETH",,4949,3161,1477,260,51
+Navajo,STONE BUTTE,Constable Prec. 4,,"WHITETHORNE-BENALLY, ELIZABETH",,399,332,58,9,0
+Navajo,RED BUTTE,Constable Prec. 4,,WRITE-IN,,46,29,14,2,1
+Navajo,STONE BUTTE,Constable Prec. 4,,WRITE-IN,,1,1,0,0,0
+Navajo,RED BUTTE,Constable Prec. 4,,OVER VOTES,,5,5,0,0,0
+Navajo,STONE BUTTE,Constable Prec. 4,,OVER VOTES,,0,0,0,0,0
+Navajo,RED BUTTE,Constable Prec. 4,,UNDER VOTES,,405,295,93,13,4
+Navajo,STONE BUTTE,Constable Prec. 4,,UNDER VOTES,,24,21,3,0,0
+Navajo,JUNIPER,Constable Prec. 5,,"TIPTON, SCOTT",,789,188,542,58,1
+Navajo,BISON,Constable Prec. 5,,"TIPTON, SCOTT",,624,235,316,71,2
+Navajo,SITGREAVES,Constable Prec. 5,,"TIPTON, SCOTT",,4919,1245,3184,470,20
+Navajo,SUNRISE,Constable Prec. 5,,"TIPTON, SCOTT",,27,2,22,3,0
+Navajo,JUNIPER,Constable Prec. 5,,WRITE-IN,,9,2,7,0,0
+Navajo,BISON,Constable Prec. 5,,WRITE-IN,,3,1,1,1,0
+Navajo,SITGREAVES,Constable Prec. 5,,WRITE-IN,,50,16,26,8,0
+Navajo,SUNRISE,Constable Prec. 5,,WRITE-IN,,0,0,0,0,0
+Navajo,JUNIPER,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Constable Prec. 5,,OVER VOTES,,1,0,1,0,0
+Navajo,SUNRISE,Constable Prec. 5,,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,Constable Prec. 5,,UNDER VOTES,,198,44,139,15,0
+Navajo,BISON,Constable Prec. 5,,UNDER VOTES,,102,28,61,13,0
+Navajo,SITGREAVES,Constable Prec. 5,,UNDER VOTES,,1018,185,732,97,4
+Navajo,SUNRISE,Constable Prec. 5,,UNDER VOTES,,6,0,5,0,1
+Navajo,WOODLAND,Constable Prec. 6,,"SHARP, GREG",,425,119,261,42,3
+Navajo,SUNRISE,Constable Prec. 6,,"SHARP, GREG",,4403,1915,2131,289,68
+Navajo,WOODLAND,Constable Prec. 6,,WRITE-IN,,23,13,7,1,2
+Navajo,SUNRISE,Constable Prec. 6,,WRITE-IN,,109,38,64,5,2
+Navajo,WOODLAND,Constable Prec. 6,,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,Constable Prec. 6,,OVER VOTES,,4,4,0,0,0
+Navajo,WOODLAND,Constable Prec. 6,,UNDER VOTES,,363,96,208,54,5
+Navajo,SUNRISE,Constable Prec. 6,,UNDER VOTES,,2332,652,1410,238,32
+Navajo,RED BUTTE,Judge of Superior Court Div. 1,,"HATCH, RALPH",,4511,2890,1332,241,48
+Navajo,PAINTED DESERT,Judge of Superior Court Div. 1,,"HATCH, RALPH",,703,486,179,28,10
+Navajo,HUBBELL,Judge of Superior Court Div. 1,,"HATCH, RALPH",,151,76,65,10,0
+Navajo,BLACK BUTTES,Judge of Superior Court Div. 1,,"HATCH, RALPH",,3640,1675,1636,273,56
+Navajo,CEDAR VALLEY,Judge of Superior Court Div. 1,,"HATCH, RALPH",,870,580,234,36,20
+Navajo,STONE BUTTE,Judge of Superior Court Div. 1,,"HATCH, RALPH",,355,298,49,8,0
+Navajo,PIONEER,Judge of Superior Court Div. 1,,"HATCH, RALPH",,3767,1458,1869,414,26
+Navajo,ANTELOPE,Judge of Superior Court Div. 1,,"HATCH, RALPH",,1816,722,915,160,19
+Navajo,JUNIPER,Judge of Superior Court Div. 1,,"HATCH, RALPH",,676,164,476,35,1
+Navajo,BISON,Judge of Superior Court Div. 1,,"HATCH, RALPH",,500,189,256,53,2
+Navajo,MOGOLLON,Judge of Superior Court Div. 1,,"HATCH, RALPH",,1433,326,997,108,2
+Navajo,WOODLAND,Judge of Superior Court Div. 1,,"HATCH, RALPH",,519,162,298,52,7
+Navajo,SITGREAVES,Judge of Superior Court Div. 1,,"HATCH, RALPH",,4040,1005,2655,364,16
+Navajo,SUNRISE,Judge of Superior Court Div. 1,,"HATCH, RALPH",,4518,1811,2320,317,70
+Navajo,RED BUTTE,Judge of Superior Court Div. 1,,WRITE-IN,,57,43,14,0,0
+Navajo,PAINTED DESERT,Judge of Superior Court Div. 1,,WRITE-IN,,15,11,2,2,0
+Navajo,HUBBELL,Judge of Superior Court Div. 1,,WRITE-IN,,1,0,1,0,0
+Navajo,BLACK BUTTES,Judge of Superior Court Div. 1,,WRITE-IN,,55,22,29,4,0
+Navajo,CEDAR VALLEY,Judge of Superior Court Div. 1,,WRITE-IN,,14,12,2,0,0
+Navajo,STONE BUTTE,Judge of Superior Court Div. 1,,WRITE-IN,,3,3,0,0,0
+Navajo,PIONEER,Judge of Superior Court Div. 1,,WRITE-IN,,77,29,34,13,1
+Navajo,ANTELOPE,Judge of Superior Court Div. 1,,WRITE-IN,,31,13,15,3,0
+Navajo,JUNIPER,Judge of Superior Court Div. 1,,WRITE-IN,,13,6,6,1,0
+Navajo,BISON,Judge of Superior Court Div. 1,,WRITE-IN,,4,0,1,3,0
+Navajo,MOGOLLON,Judge of Superior Court Div. 1,,WRITE-IN,,22,3,15,4,0
+Navajo,WOODLAND,Judge of Superior Court Div. 1,,WRITE-IN,,9,6,2,1,0
+Navajo,SITGREAVES,Judge of Superior Court Div. 1,,WRITE-IN,,72,32,33,7,0
+Navajo,SUNRISE,Judge of Superior Court Div. 1,,WRITE-IN,,67,30,31,5,1
+Navajo,RED BUTTE,Judge of Superior Court Div. 1,,OVER VOTES,,1,1,0,0,0
+Navajo,PAINTED DESERT,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,HUBBELL,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Judge of Superior Court Div. 1,,OVER VOTES,,2,2,0,0,0
+Navajo,CEDAR VALLEY,Judge of Superior Court Div. 1,,OVER VOTES,,1,0,1,0,0
+Navajo,STONE BUTTE,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Judge of Superior Court Div. 1,,OVER VOTES,,1,0,1,0,0
+Navajo,JUNIPER,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Judge of Superior Court Div. 1,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,Judge of Superior Court Div. 1,,OVER VOTES,,1,0,0,0,1
+Navajo,SITGREAVES,Judge of Superior Court Div. 1,,OVER VOTES,,1,0,0,1,0
+Navajo,SUNRISE,Judge of Superior Court Div. 1,,OVER VOTES,,1,1,0,0,0
+Navajo,RED BUTTE,Judge of Superior Court Div. 1,,UNDER VOTES,,836,556,238,34,8
+Navajo,PAINTED DESERT,Judge of Superior Court Div. 1,,UNDER VOTES,,97,55,39,2,1
+Navajo,HUBBELL,Judge of Superior Court Div. 1,,UNDER VOTES,,37,18,13,6,0
+Navajo,BLACK BUTTES,Judge of Superior Court Div. 1,,UNDER VOTES,,740,296,351,84,9
+Navajo,CEDAR VALLEY,Judge of Superior Court Div. 1,,UNDER VOTES,,101,71,24,3,3
+Navajo,STONE BUTTE,Judge of Superior Court Div. 1,,UNDER VOTES,,66,53,12,1,0
+Navajo,PIONEER,Judge of Superior Court Div. 1,,UNDER VOTES,,1287,399,710,173,5
+Navajo,ANTELOPE,Judge of Superior Court Div. 1,,UNDER VOTES,,387,142,204,37,4
+Navajo,JUNIPER,Judge of Superior Court Div. 1,,UNDER VOTES,,307,64,206,37,0
+Navajo,BISON,Judge of Superior Court Div. 1,,UNDER VOTES,,225,75,121,29,0
+Navajo,MOGOLLON,Judge of Superior Court Div. 1,,UNDER VOTES,,694,131,504,57,2
+Navajo,WOODLAND,Judge of Superior Court Div. 1,,UNDER VOTES,,282,60,176,44,2
+Navajo,SITGREAVES,Judge of Superior Court Div. 1,,UNDER VOTES,,1875,409,1255,203,8
+Navajo,SUNRISE,Judge of Superior Court Div. 1,,UNDER VOTES,,2295,769,1281,213,32
+Navajo,HUBBELL,Board Member Winslow USD 1,,"BRITTON, ISABEL",,73,31,39,3,0
+Navajo,BLACK BUTTES,Board Member Winslow USD 1,,"BRITTON, ISABEL",,1092,395,576,112,9
+Navajo,PIONEER,Board Member Winslow USD 1,,"BRITTON, ISABEL",,11,0,11,0,0
+Navajo,MOGOLLON,Board Member Winslow USD 1,,"BRITTON, ISABEL",,0,0,0,0,0
+Navajo,HUBBELL,Board Member Winslow USD 1,,"ERVIEN, MARILEE",,120,52,57,11,0
+Navajo,BLACK BUTTES,Board Member Winslow USD 1,,"ERVIEN, MARILEE",,1354,365,817,161,11
+Navajo,PIONEER,Board Member Winslow USD 1,,"ERVIEN, MARILEE",,9,3,6,0,0
+Navajo,MOGOLLON,Board Member Winslow USD 1,,"ERVIEN, MARILEE",,0,0,0,0,0
+Navajo,HUBBELL,Board Member Winslow USD 1,,"MONTOYA, JOSEPHINE ""DODIE""",,80,42,30,8,0
+Navajo,BLACK BUTTES,Board Member Winslow USD 1,,"MONTOYA, JOSEPHINE ""DODIE""",,1617,608,835,160,14
+Navajo,PIONEER,Board Member Winslow USD 1,,"MONTOYA, JOSEPHINE ""DODIE""",,14,2,12,0,0
+Navajo,MOGOLLON,Board Member Winslow USD 1,,"MONTOYA, JOSEPHINE ""DODIE""",,0,0,0,0,0
+Navajo,HUBBELL,Board Member Winslow USD 1,,WRITE-IN,,4,0,4,0,0
+Navajo,BLACK BUTTES,Board Member Winslow USD 1,,WRITE-IN,,20,9,11,0,0
+Navajo,PIONEER,Board Member Winslow USD 1,,WRITE-IN,,0,0,0,0,0
+Navajo,MOGOLLON,Board Member Winslow USD 1,,WRITE-IN,,0,0,0,0,0
+Navajo,HUBBELL,Board Member Winslow USD 1,,OVER VOTES,,2,2,0,0,0
+Navajo,BLACK BUTTES,Board Member Winslow USD 1,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,Board Member Winslow USD 1,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Board Member Winslow USD 1,,OVER VOTES,,0,0,0,0,0
+Navajo,HUBBELL,Board Member Winslow USD 1,,UNDER VOTES,,99,61,28,10,0
+Navajo,BLACK BUTTES,Board Member Winslow USD 1,,UNDER VOTES,,1467,599,721,123,24
+Navajo,PIONEER,Board Member Winslow USD 1,,UNDER VOTES,,38,7,31,0,0
+Navajo,MOGOLLON,Board Member Winslow USD 1,,UNDER VOTES,,2,0,0,0,2
+Navajo,RED BUTTE,Board Member Pinon USD 4,,"LITTLE, MARK",,810,578,190,39,3
+Navajo,BLACK BUTTES,Board Member Pinon USD 4,,"LITTLE, MARK",,0,0,0,0,0
+Navajo,STONE BUTTE,Board Member Pinon USD 4,,"LITTLE, MARK",,169,142,24,3,0
+Navajo,RED BUTTE,Board Member Pinon USD 4,,"MIKE, EVELYN",,749,520,193,29,7
+Navajo,BLACK BUTTES,Board Member Pinon USD 4,,"MIKE, EVELYN",,0,0,0,0,0
+Navajo,STONE BUTTE,Board Member Pinon USD 4,,"MIKE, EVELYN",,203,164,32,7,0
+Navajo,RED BUTTE,Board Member Pinon USD 4,,"NALWOOD, RAMONA",,1014,683,272,53,6
+Navajo,BLACK BUTTES,Board Member Pinon USD 4,,"NALWOOD, RAMONA",,0,0,0,0,0
+Navajo,STONE BUTTE,Board Member Pinon USD 4,,"NALWOOD, RAMONA",,206,170,33,3,0
+Navajo,RED BUTTE,Board Member Pinon USD 4,,WRITE-IN,,10,9,1,0,0
+Navajo,BLACK BUTTES,Board Member Pinon USD 4,,WRITE-IN,,0,0,0,0,0
+Navajo,STONE BUTTE,Board Member Pinon USD 4,,WRITE-IN,,4,4,0,0,0
+Navajo,RED BUTTE,Board Member Pinon USD 4,,OVER VOTES,,0,0,0,0,0
+Navajo,BLACK BUTTES,Board Member Pinon USD 4,,OVER VOTES,,0,0,0,0,0
+Navajo,STONE BUTTE,Board Member Pinon USD 4,,OVER VOTES,,0,0,0,0,0
+Navajo,RED BUTTE,Board Member Pinon USD 4,,UNDER VOTES,,1395,990,326,67,12
+Navajo,BLACK BUTTES,Board Member Pinon USD 4,,UNDER VOTES,,4,0,0,0,4
+Navajo,STONE BUTTE,Board Member Pinon USD 4,,UNDER VOTES,,262,224,33,5,0
+Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,"BLACKBURN, CRAIG",,27,7,18,2,0
+Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,"BLACKBURN, CRAIG",,793,190,519,82,2
+Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,"COCHRAN, JESSE",,15,5,9,1,0
+Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,"COCHRAN, JESSE",,694,139,510,45,0
+Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,"CRANDELL, LEAMON J. ""L.J.""",,12,3,9,0,0
+Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,"CRANDELL, LEAMON J. ""L.J.""",,651,173,420,57,1
+Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,"HALL, GWENDOLYN WENDY LEE",,12,2,9,1,0
+Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,"HALL, GWENDOLYN WENDY LEE",,878,210,595,71,2
+Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,WRITE-IN,,0,0,0,0,0
+Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,WRITE-IN,,13,0,11,2,0
+Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,OVER VOTES,,8,4,4,0,0
+Navajo,PIONEER,Board Member Heber/Overgaard USD 6,,UNDER VOTES,,16,5,11,0,0
+Navajo,MOGOLLON,Board Member Heber/Overgaard USD 6,,UNDER VOTES,,1247,204,961,81,1
+Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"COLELAY, ERMON",,1,1,0,0,0
+Navajo,SUNRISE,Board Member Whiteriver USD 20,,"COLELAY, ERMON",,602,401,168,22,11
+Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"LUPE, CANDY",,0,0,0,0,0
+Navajo,SUNRISE,Board Member Whiteriver USD 20,,"LUPE, CANDY",,1017,736,205,37,39
+Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"LUPE, RUBERT, SR.,",,0,0,0,0,0
+Navajo,SUNRISE,Board Member Whiteriver USD 20,,"LUPE, RUBERT, SR.,",,354,241,93,8,12
+Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"MICHAEL, TATE",,2,1,0,1,0
+Navajo,SUNRISE,Board Member Whiteriver USD 20,,"MICHAEL, TATE",,813,624,127,26,36
+Navajo,SITGREAVES,Board Member Whiteriver USD 20,,"THOMPSON, ERWIN",,0,0,0,0,0
+Navajo,SUNRISE,Board Member Whiteriver USD 20,,"THOMPSON, ERWIN",,657,446,159,29,23
+Navajo,SITGREAVES,Board Member Whiteriver USD 20,,WRITE-IN,,0,0,0,0,0
+Navajo,SUNRISE,Board Member Whiteriver USD 20,,WRITE-IN,,21,11,7,3,0
+Navajo,SITGREAVES,Board Member Whiteriver USD 20,,OVER VOTES,,0,0,0,0,0
+Navajo,SUNRISE,Board Member Whiteriver USD 20,,OVER VOTES,,6,2,4,0,0
+Navajo,SITGREAVES,Board Member Whiteriver USD 20,,UNDER VOTES,,1,0,0,1,0
+Navajo,SUNRISE,Board Member Whiteriver USD 20,,UNDER VOTES,,786,541,181,29,35
+Navajo,RED BUTTE,Board Member Kayenta USD 27,,"BONNAHA, HELEN",,759,476,235,39,9
+Navajo,STONE BUTTE,Board Member Kayenta USD 27,,"BONNAHA, HELEN",,1,1,0,0,0
+Navajo,RED BUTTE,Board Member Kayenta USD 27,,"DIXON, LITA",,1752,1025,585,123,19
+Navajo,STONE BUTTE,Board Member Kayenta USD 27,,"DIXON, LITA",,1,1,0,0,0
+Navajo,RED BUTTE,Board Member Kayenta USD 27,,"LAUGHTER, RAYMOND",,1852,1125,619,87,21
+Navajo,STONE BUTTE,Board Member Kayenta USD 27,,"LAUGHTER, RAYMOND",,2,2,0,0,0
+Navajo,RED BUTTE,Board Member Kayenta USD 27,,WRITE-IN,,27,17,9,1,0
+Navajo,STONE BUTTE,Board Member Kayenta USD 27,,WRITE-IN,,0,0,0,0,0
+Navajo,RED BUTTE,Board Member Kayenta USD 27,,OVER VOTES,,4,2,2,0,0
+Navajo,STONE BUTTE,Board Member Kayenta USD 27,,OVER VOTES,,0,0,0,0,0
+Navajo,RED BUTTE,Board Member Kayenta USD 27,,UNDER VOTES,,2438,1555,736,112,35
+Navajo,STONE BUTTE,Board Member Kayenta USD 27,,UNDER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,Board Member Show Low USD #10,,"ANDERSON, STACY",,649,154,460,34,1
+Navajo,BISON,Board Member Show Low USD #10,,"ANDERSON, STACY",,474,176,250,46,2
+Navajo,MOGOLLON,Board Member Show Low USD #10,,"ANDERSON, STACY",,6,0,6,0,0
+Navajo,SITGREAVES,Board Member Show Low USD #10,,"ANDERSON, STACY",,3657,824,2477,345,11
+Navajo,JUNIPER,Board Member Show Low USD #10,,WRITE-IN,,43,21,19,3,0
+Navajo,BISON,Board Member Show Low USD #10,,WRITE-IN,,68,34,20,14,0
+Navajo,MOGOLLON,Board Member Show Low USD #10,,WRITE-IN,,0,0,0,0,0
+Navajo,SITGREAVES,Board Member Show Low USD #10,,WRITE-IN,,633,341,207,81,4
+Navajo,JUNIPER,Board Member Show Low USD #10,,OVER VOTES,,0,0,0,0,0
+Navajo,BISON,Board Member Show Low USD #10,,OVER VOTES,,0,0,0,0,0
+Navajo,MOGOLLON,Board Member Show Low USD #10,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Board Member Show Low USD #10,,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,Board Member Show Low USD #10,,UNDER VOTES,,1272,285,879,107,1
+Navajo,BISON,Board Member Show Low USD #10,,UNDER VOTES,,916,318,486,110,2
+Navajo,MOGOLLON,Board Member Show Low USD #10,,UNDER VOTES,,6,0,6,0,0
+Navajo,SITGREAVES,Board Member Show Low USD #10,,UNDER VOTES,,6644,1449,4532,638,25
+Navajo,BISON,Board Member Timber Mesa FMD,,"BROWNE-WAGNER, LYNN",,59,18,30,11,0
+Navajo,WOODLAND,Board Member Timber Mesa FMD,,"BROWNE-WAGNER, LYNN",,252,71,144,35,2
+Navajo,SITGREAVES,Board Member Timber Mesa FMD,,"BROWNE-WAGNER, LYNN",,2244,600,1461,170,13
+Navajo,SUNRISE,Board Member Timber Mesa FMD,,"BROWNE-WAGNER, LYNN",,1013,217,692,99,5
+Navajo,BISON,Board Member Timber Mesa FMD,,"GRAHAM, DUSTIN",,72,27,38,7,0
+Navajo,WOODLAND,Board Member Timber Mesa FMD,,"GRAHAM, DUSTIN",,270,87,153,26,4
+Navajo,SITGREAVES,Board Member Timber Mesa FMD,,"GRAHAM, DUSTIN",,2231,503,1505,217,6
+Navajo,SUNRISE,Board Member Timber Mesa FMD,,"GRAHAM, DUSTIN",,919,252,583,78,6
+Navajo,BISON,Board Member Timber Mesa FMD,,"HUGHES, DENNIS",,73,27,38,8,0
+Navajo,WOODLAND,Board Member Timber Mesa FMD,,"HUGHES, DENNIS",,366,106,222,34,4
+Navajo,SITGREAVES,Board Member Timber Mesa FMD,,"HUGHES, DENNIS",,2740,744,1765,220,11
+Navajo,SUNRISE,Board Member Timber Mesa FMD,,"HUGHES, DENNIS",,1229,285,824,113,7
+Navajo,BISON,Board Member Timber Mesa FMD,,WRITE-IN,,0,0,0,0,0
+Navajo,WOODLAND,Board Member Timber Mesa FMD,,WRITE-IN,,4,2,2,0,0
+Navajo,SITGREAVES,Board Member Timber Mesa FMD,,WRITE-IN,,42,23,12,7,0
+Navajo,SUNRISE,Board Member Timber Mesa FMD,,WRITE-IN,,19,5,10,2,2
+Navajo,BISON,Board Member Timber Mesa FMD,,OVER VOTES,,0,0,0,0,0
+Navajo,WOODLAND,Board Member Timber Mesa FMD,,OVER VOTES,,0,0,0,0,0
+Navajo,SITGREAVES,Board Member Timber Mesa FMD,,OVER VOTES,,6,4,2,0,0
+Navajo,SUNRISE,Board Member Timber Mesa FMD,,OVER VOTES,,4,0,0,4,0
+Navajo,BISON,Board Member Timber Mesa FMD,,UNDER VOTES,,122,38,64,20,0
+Navajo,WOODLAND,Board Member Timber Mesa FMD,,UNDER VOTES,,594,160,337,89,8
+Navajo,SITGREAVES,Board Member Timber Mesa FMD,,UNDER VOTES,,4709,1016,3141,534,18
+Navajo,SUNRISE,Board Member Timber Mesa FMD,,UNDER VOTES,,2192,557,1383,232,20
+Navajo,PIONEER,Board Member White Mtn Lakes,,"BEALE, RICK",,34,2,29,3,0
+Navajo,JUNIPER,Board Member White Mtn Lakes,,"BEALE, RICK",,428,95,317,16,0
+Navajo,PIONEER,Board Member White Mtn Lakes,,"MCGRAW, JERRY J., JR.",,29,6,22,1,0
+Navajo,JUNIPER,Board Member White Mtn Lakes,,"MCGRAW, JERRY J., JR.",,397,101,276,20,0
+Navajo,PIONEER,Board Member White Mtn Lakes,,WRITE-IN,,4,0,4,0,0
+Navajo,JUNIPER,Board Member White Mtn Lakes,,WRITE-IN,,75,28,41,6,0
+Navajo,PIONEER,Board Member White Mtn Lakes,,OVER VOTES,,0,0,0,0,0
+Navajo,JUNIPER,Board Member White Mtn Lakes,,OVER VOTES,,0,0,0,0,0
+Navajo,PIONEER,Board Member White Mtn Lakes,,UNDER VOTES,,258,57,175,26,0
+Navajo,JUNIPER,Board Member White Mtn Lakes,,UNDER VOTES,,3055,706,2151,198,0
 Navajo,RED BUTTE,JUSTICE SUPREME COURT - BOLICK,,YES,,2901,1834,879,160,28,Y
 Navajo,PAINTED DESERT,JUSTICE SUPREME COURT - BOLICK,,YES,,495,334,133,21,7,Y
 Navajo,HUBBELL,JUSTICE SUPREME COURT - BOLICK,,YES,,117,49,59,9,0,Y
@@ -1752,23 +1752,23 @@ Navajo,WOODLAND,PROPOSITION 415 Pinetop-Lakeside,,OVER VOTES,,0,0,0,0,0,Y
 Navajo,SUNRISE,PROPOSITION 415 Pinetop-Lakeside,,OVER VOTES,,0,0,0,0,0,Y
 Navajo,WOODLAND,PROPOSITION 415 Pinetop-Lakeside,,UNDER VOTES,,16,3,9,3,1,Y
 Navajo,SUNRISE,PROPOSITION 415 Pinetop-Lakeside,,UNDER VOTES,,96,31,50,13,2,Y
-Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,"COBB, PHIL",,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,"COBB, PHIL",,775,270,425,71,9, 
-Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,"TYLER, BOBBY",,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,"TYLER, BOBBY",,502,210,248,34,10, 
-Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,WRITE-IN,,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,WRITE-IN,,24,14,9,0,1, 
-Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,OVER VOTES,,0,0,0,0,0, 
-Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,UNDER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,UNDER VOTES,,75,23,42,8,2, 
-Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,"NILSSON, MIKE",,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,"NILSSON, MIKE",,819,292,448,67,12, 
-Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,"WISCHMANN, CJ",,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,"WISCHMANN, CJ",,497,201,248,39,9, 
-Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,WRITE-IN,,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,WRITE-IN,,8,3,5,0,0, 
-Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,OVER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,OVER VOTES,,1,1,0,0,0, 
-Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,UNDER VOTES,,0,0,0,0,0, 
-Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,UNDER VOTES,,51,20,23,7,1, 
+Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,"COBB, PHIL",,0,0,0,0,0
+Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,"COBB, PHIL",,775,270,425,71,9
+Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,"TYLER, BOBBY",,0,0,0,0,0
+Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,"TYLER, BOBBY",,502,210,248,34,10
+Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,WRITE-IN,,0,0,0,0,0
+Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,WRITE-IN,,24,14,9,0,1
+Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,OVER VOTES,,0,0,0,0,0
+Navajo,PAINTED DESERT,Recall Mayor Bobby Tyler Holbrook,,UNDER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Recall Mayor Bobby Tyler Holbrook,,UNDER VOTES,,75,23,42,8,2
+Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,"NILSSON, MIKE",,0,0,0,0,0
+Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,"NILSSON, MIKE",,819,292,448,67,12
+Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,"WISCHMANN, CJ",,0,0,0,0,0
+Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,"WISCHMANN, CJ",,497,201,248,39,9
+Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,WRITE-IN,,0,0,0,0,0
+Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,WRITE-IN,,8,3,5,0,0
+Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,OVER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,OVER VOTES,,1,1,0,0,0
+Navajo,PAINTED DESERT,Recall Council CJ Wischmann Holbrook,,UNDER VOTES,,0,0,0,0,0
+Navajo,ANTELOPE,Recall Council CJ Wischmann Holbrook,,UNDER VOTES,,51,20,23,7,1
