@@ -107,42 +107,42 @@ contest,precinct_name,contest_id,contest_name,choice,choice_name,number
 50,05 Chinle,30,President - Gre,999996,Times Counted,0
 50,05 Chinle,30,President - Gre,10,"Mesplay, Kent",0
 50,05 Chinle,30,President - Gre,20,"Stein, Jill",0
-90,09 Concho ,999999,Race Statistics,999999,Number of Precincts,1
-90,09 Concho ,999999,Race Statistics,999998,Number of Precincts Reporting,1
-90,09 Concho ,10,President - Dem,999999,Number of Precincts for Race,1
-90,09 Concho ,10,President - Dem,999998,Number of Precincts Reporting,1
-90,09 Concho ,10,President - Dem,999997,Registered Voters,312
-90,09 Concho ,10,President - Dem,999996,Times Counted,122
-90,09 Concho ,10,President - Dem,10,"De La Fuente, Roque",3
-90,09 Concho ,10,President - Dem,20,"Steinberg, Michael",1
-90,09 Concho ,10,President - Dem,30,"Sanders, Bernie",73
-90,09 Concho ,10,President - Dem,40,"O'Malley, Martin J.",2
-90,09 Concho ,10,President - Dem,50,"Clinton, Hillary",42
-90,09 Concho ,10,President - Dem,60,"Hewes, Henry",1
-90,09 Concho ,20,President - Rep,999999,Number of Precincts for Race,1
-90,09 Concho ,20,President - Rep,999998,Number of Precincts Reporting,1
-90,09 Concho ,20,President - Rep,999997,Registered Voters,774
-90,09 Concho ,20,President - Rep,999996,Times Counted,471
-90,09 Concho ,20,President - Rep,10,"Santorum, Rick",0
-90,09 Concho ,20,President - Rep,20,"Cook, Tim",0
-90,09 Concho ,20,President - Rep,30,"Paul, Rand",0
-90,09 Concho ,20,President - Rep,40,"Rubio, Marco",8
-90,09 Concho ,20,President - Rep,50,"Graham, Lindsey",0
-90,09 Concho ,20,President - Rep,60,"Kasich, John R.",16
-90,09 Concho ,20,President - Rep,70,"Bush, Jeb",0
-90,09 Concho ,20,President - Rep,80,"Trump, Donald J.",285
-90,09 Concho ,20,President - Rep,90,"Fiorina, Carly",1
-90,09 Concho ,20,President - Rep,100,"Pataki, George E.",0
-90,09 Concho ,20,President - Rep,110,"Cruz, Ted",157
-90,09 Concho ,20,President - Rep,120,"Huckabee, Mike",0
-90,09 Concho ,20,President - Rep,130,"Christie, Chris",0
-90,09 Concho ,20,President - Rep,140,"Carson, Ben",4
-90,09 Concho ,30,President - Gre,999999,Number of Precincts for Race,1
-90,09 Concho ,30,President - Gre,999998,Number of Precincts Reporting,1
-90,09 Concho ,30,President - Gre,999997,Registered Voters,5
-90,09 Concho ,30,President - Gre,999996,Times Counted,4
-90,09 Concho ,30,President - Gre,10,"Mesplay, Kent",0
-90,09 Concho ,30,President - Gre,20,"Stein, Jill",4
+90,09 Concho,999999,Race Statistics,999999,Number of Precincts,1
+90,09 Concho,999999,Race Statistics,999998,Number of Precincts Reporting,1
+90,09 Concho,10,President - Dem,999999,Number of Precincts for Race,1
+90,09 Concho,10,President - Dem,999998,Number of Precincts Reporting,1
+90,09 Concho,10,President - Dem,999997,Registered Voters,312
+90,09 Concho,10,President - Dem,999996,Times Counted,122
+90,09 Concho,10,President - Dem,10,"De La Fuente, Roque",3
+90,09 Concho,10,President - Dem,20,"Steinberg, Michael",1
+90,09 Concho,10,President - Dem,30,"Sanders, Bernie",73
+90,09 Concho,10,President - Dem,40,"O'Malley, Martin J.",2
+90,09 Concho,10,President - Dem,50,"Clinton, Hillary",42
+90,09 Concho,10,President - Dem,60,"Hewes, Henry",1
+90,09 Concho,20,President - Rep,999999,Number of Precincts for Race,1
+90,09 Concho,20,President - Rep,999998,Number of Precincts Reporting,1
+90,09 Concho,20,President - Rep,999997,Registered Voters,774
+90,09 Concho,20,President - Rep,999996,Times Counted,471
+90,09 Concho,20,President - Rep,10,"Santorum, Rick",0
+90,09 Concho,20,President - Rep,20,"Cook, Tim",0
+90,09 Concho,20,President - Rep,30,"Paul, Rand",0
+90,09 Concho,20,President - Rep,40,"Rubio, Marco",8
+90,09 Concho,20,President - Rep,50,"Graham, Lindsey",0
+90,09 Concho,20,President - Rep,60,"Kasich, John R.",16
+90,09 Concho,20,President - Rep,70,"Bush, Jeb",0
+90,09 Concho,20,President - Rep,80,"Trump, Donald J.",285
+90,09 Concho,20,President - Rep,90,"Fiorina, Carly",1
+90,09 Concho,20,President - Rep,100,"Pataki, George E.",0
+90,09 Concho,20,President - Rep,110,"Cruz, Ted",157
+90,09 Concho,20,President - Rep,120,"Huckabee, Mike",0
+90,09 Concho,20,President - Rep,130,"Christie, Chris",0
+90,09 Concho,20,President - Rep,140,"Carson, Ben",4
+90,09 Concho,30,President - Gre,999999,Number of Precincts for Race,1
+90,09 Concho,30,President - Gre,999998,Number of Precincts Reporting,1
+90,09 Concho,30,President - Gre,999997,Registered Voters,5
+90,09 Concho,30,President - Gre,999996,Times Counted,4
+90,09 Concho,30,President - Gre,10,"Mesplay, Kent",0
+90,09 Concho,30,President - Gre,20,"Stein, Jill",4
 100,10 Cornfields,999999,Race Statistics,999999,Number of Precincts,1
 100,10 Cornfields,999999,Race Statistics,999998,Number of Precincts Reporting,1
 100,10 Cornfields,10,President - Dem,999999,Number of Precincts for Race,1
