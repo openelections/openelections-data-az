@@ -185,12 +185,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 1,001,830,PROPOSITION 415,999996,Times Counted,797
 1,001,830,PROPOSITION 415,10,YES,324
 1,001,830,PROPOSITION 415,20,NO,348
-1,001,840,PROPOSITION 416  AJO S.D. 15,999999,Number of Precincts for Race,1
-1,001,840,PROPOSITION 416  AJO S.D. 15,999998,Number of Precincts Reporting,1
-1,001,840,PROPOSITION 416  AJO S.D. 15,999997,Registered Voters,1391
-1,001,840,PROPOSITION 416  AJO S.D. 15,999996,Times Counted,797
-1,001,840,PROPOSITION 416  AJO S.D. 15,10,YES,314
-1,001,840,PROPOSITION 416  AJO S.D. 15,20,NO,407
+1,001,840,PROPOSITION 416 AJO S.D. 15,999999,Number of Precincts for Race,1
+1,001,840,PROPOSITION 416 AJO S.D. 15,999998,Number of Precincts Reporting,1
+1,001,840,PROPOSITION 416 AJO S.D. 15,999997,Registered Voters,1391
+1,001,840,PROPOSITION 416 AJO S.D. 15,999996,Times Counted,797
+1,001,840,PROPOSITION 416 AJO S.D. 15,10,YES,314
+1,001,840,PROPOSITION 416 AJO S.D. 15,20,NO,407
 2,002,999999,Race Statistics,999999,Number of Precincts,1
 2,002,999999,Race Statistics,999998,Number of Precincts Reporting,1
 2,002,155,U.S. REP. IN CONGRESS - DIST. 3,999999,Number of Precincts for Race,1
@@ -2909,12 +2909,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 16,016,345,STATE SENATOR - DIST. 3,999997,Registered Voters,3027
 16,016,345,STATE SENATOR - DIST. 3,999996,Times Counted,1903
 16,016,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",1318
-16,016,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-16,016,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-16,016,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,3027
-16,016,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1903
-16,016,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",1177
-16,016,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",1054
+16,016,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+16,016,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+16,016,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,3027
+16,016,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1903
+16,016,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",1177
+16,016,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",1054
 16,016,425,Secretary of State,999999,Number of Precincts for Race,1
 16,016,425,Secretary of State,999998,Number of Precincts Reporting,1
 16,016,425,Secretary of State,999997,Registered Voters,3027
@@ -3101,12 +3101,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 17,017,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1658
 17,017,345,STATE SENATOR - DIST. 3,999996,Times Counted,844
 17,017,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",670
-17,017,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-17,017,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-17,017,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1658
-17,017,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,844
-17,017,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",548
-17,017,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",575
+17,017,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+17,017,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+17,017,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1658
+17,017,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,844
+17,017,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",548
+17,017,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",575
 17,017,425,Secretary of State,999999,Number of Precincts for Race,1
 17,017,425,Secretary of State,999998,Number of Precincts Reporting,1
 17,017,425,Secretary of State,999997,Registered Voters,1658
@@ -3293,12 +3293,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 18,018,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2185
 18,018,345,STATE SENATOR - DIST. 3,999996,Times Counted,840
 18,018,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",727
-18,018,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-18,018,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-18,018,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2185
-18,018,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,840
-18,018,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",635
-18,018,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",544
+18,018,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+18,018,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+18,018,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2185
+18,018,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,840
+18,018,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",635
+18,018,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",544
 18,018,425,Secretary of State,999999,Number of Precincts for Race,1
 18,018,425,Secretary of State,999998,Number of Precincts Reporting,1
 18,018,425,Secretary of State,999997,Registered Voters,2185
@@ -3672,12 +3672,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 20,020,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2596
 20,020,345,STATE SENATOR - DIST. 3,999996,Times Counted,897
 20,020,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",756
-20,020,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-20,020,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-20,020,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2596
-20,020,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,897
-20,020,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",553
-20,020,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",555
+20,020,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+20,020,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+20,020,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2596
+20,020,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,897
+20,020,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",553
+20,020,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",555
 20,020,425,Secretary of State,999999,Number of Precincts for Race,1
 20,020,425,Secretary of State,999998,Number of Precincts Reporting,1
 20,020,425,Secretary of State,999997,Registered Voters,2596
@@ -3864,12 +3864,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 21,021,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2623
 21,021,345,STATE SENATOR - DIST. 3,999996,Times Counted,1698
 21,021,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",1018
-21,021,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-21,021,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-21,021,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2623
-21,021,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1698
-21,021,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",925
-21,021,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",741
+21,021,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+21,021,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+21,021,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2623
+21,021,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1698
+21,021,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",925
+21,021,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",741
 21,021,425,Secretary of State,999999,Number of Precincts for Race,1
 21,021,425,Secretary of State,999998,Number of Precincts Reporting,1
 21,021,425,Secretary of State,999997,Registered Voters,2623
@@ -4056,12 +4056,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 22,022,345,STATE SENATOR - DIST. 3,999997,Registered Voters,3278
 22,022,345,STATE SENATOR - DIST. 3,999996,Times Counted,1170
 22,022,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",858
-22,022,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-22,022,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-22,022,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,3278
-22,022,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1170
-22,022,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",700
-22,022,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",618
+22,022,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+22,022,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+22,022,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,3278
+22,022,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1170
+22,022,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",700
+22,022,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",618
 22,022,425,Secretary of State,999999,Number of Precincts for Race,1
 22,022,425,Secretary of State,999998,Number of Precincts Reporting,1
 22,022,425,Secretary of State,999997,Registered Voters,3278
@@ -4248,12 +4248,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 23,023,345,STATE SENATOR - DIST. 3,999997,Registered Voters,3160
 23,023,345,STATE SENATOR - DIST. 3,999996,Times Counted,1253
 23,023,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",980
-23,023,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-23,023,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-23,023,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,3160
-23,023,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1253
-23,023,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",860
-23,023,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",699
+23,023,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+23,023,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+23,023,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,3160
+23,023,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1253
+23,023,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",860
+23,023,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",699
 23,023,425,Secretary of State,999999,Number of Precincts for Race,1
 23,023,425,Secretary of State,999998,Number of Precincts Reporting,1
 23,023,425,Secretary of State,999997,Registered Voters,3160
@@ -4640,12 +4640,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 25,025,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2435
 25,025,345,STATE SENATOR - DIST. 3,999996,Times Counted,878
 25,025,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",786
-25,025,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-25,025,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-25,025,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2435
-25,025,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,878
-25,025,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",613
-25,025,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",588
+25,025,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+25,025,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+25,025,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2435
+25,025,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,878
+25,025,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",613
+25,025,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",588
 25,025,425,Secretary of State,999999,Number of Precincts for Race,1
 25,025,425,Secretary of State,999998,Number of Precincts Reporting,1
 25,025,425,Secretary of State,999997,Registered Voters,2435
@@ -4832,12 +4832,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 26,026,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2593
 26,026,345,STATE SENATOR - DIST. 3,999996,Times Counted,866
 26,026,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",751
-26,026,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-26,026,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-26,026,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2593
-26,026,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,866
-26,026,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",605
-26,026,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",507
+26,026,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+26,026,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+26,026,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2593
+26,026,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,866
+26,026,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",605
+26,026,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",507
 26,026,425,Secretary of State,999999,Number of Precincts for Race,1
 26,026,425,Secretary of State,999998,Number of Precincts Reporting,1
 26,026,425,Secretary of State,999997,Registered Voters,2593
@@ -6159,12 +6159,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 33,033,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1905
 33,033,345,STATE SENATOR - DIST. 3,999996,Times Counted,1034
 33,033,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",694
-33,033,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-33,033,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-33,033,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1905
-33,033,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1034
-33,033,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",553
-33,033,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",565
+33,033,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+33,033,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+33,033,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1905
+33,033,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1034
+33,033,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",553
+33,033,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",565
 33,033,425,Secretary of State,999999,Number of Precincts for Race,1
 33,033,425,Secretary of State,999998,Number of Precincts Reporting,1
 33,033,425,Secretary of State,999997,Registered Voters,1905
@@ -6351,12 +6351,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 34,034,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1305
 34,034,345,STATE SENATOR - DIST. 3,999996,Times Counted,590
 34,034,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",430
-34,034,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-34,034,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-34,034,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1305
-34,034,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,590
-34,034,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",389
-34,034,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",274
+34,034,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+34,034,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+34,034,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1305
+34,034,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,590
+34,034,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",389
+34,034,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",274
 34,034,425,Secretary of State,999999,Number of Precincts for Race,1
 34,034,425,Secretary of State,999998,Number of Precincts Reporting,1
 34,034,425,Secretary of State,999997,Registered Voters,1305
@@ -6718,12 +6718,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 36,036,345,STATE SENATOR - DIST. 3,999997,Registered Voters,3433
 36,036,345,STATE SENATOR - DIST. 3,999996,Times Counted,1355
 36,036,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",981
-36,036,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-36,036,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-36,036,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,3433
-36,036,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1355
-36,036,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",804
-36,036,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",695
+36,036,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+36,036,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+36,036,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,3433
+36,036,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1355
+36,036,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",804
+36,036,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",695
 36,036,425,Secretary of State,999999,Number of Precincts for Race,1
 36,036,425,Secretary of State,999998,Number of Precincts Reporting,1
 36,036,425,Secretary of State,999997,Registered Voters,3433
@@ -6904,12 +6904,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 37,037,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1086
 37,037,345,STATE SENATOR - DIST. 3,999996,Times Counted,385
 37,037,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",327
-37,037,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-37,037,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-37,037,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1086
-37,037,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,385
-37,037,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",276
-37,037,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",217
+37,037,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+37,037,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+37,037,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1086
+37,037,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,385
+37,037,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",276
+37,037,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",217
 37,037,425,Secretary of State,999999,Number of Precincts for Race,1
 37,037,425,Secretary of State,999998,Number of Precincts Reporting,1
 37,037,425,Secretary of State,999997,Registered Voters,1086
@@ -7681,12 +7681,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 41,041,345,STATE SENATOR - DIST. 3,999997,Registered Voters,3737
 41,041,345,STATE SENATOR - DIST. 3,999996,Times Counted,1453
 41,041,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",1009
-41,041,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-41,041,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-41,041,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,3737
-41,041,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1453
-41,041,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",829
-41,041,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",727
+41,041,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+41,041,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+41,041,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,3737
+41,041,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1453
+41,041,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",829
+41,041,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",727
 41,041,425,Secretary of State,999999,Number of Precincts for Race,1
 41,041,425,Secretary of State,999998,Number of Precincts Reporting,1
 41,041,425,Secretary of State,999997,Registered Voters,3737
@@ -7873,12 +7873,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 42,042,345,STATE SENATOR - DIST. 3,999997,Registered Voters,3216
 42,042,345,STATE SENATOR - DIST. 3,999996,Times Counted,1250
 42,042,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",1003
-42,042,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-42,042,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-42,042,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,3216
-42,042,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1250
-42,042,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",876
-42,042,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",721
+42,042,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+42,042,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+42,042,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,3216
+42,042,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1250
+42,042,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",876
+42,042,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",721
 42,042,425,Secretary of State,999999,Number of Precincts for Race,1
 42,042,425,Secretary of State,999998,Number of Precincts Reporting,1
 42,042,425,Secretary of State,999997,Registered Voters,3216
@@ -8065,12 +8065,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 43,043,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1314
 43,043,345,STATE SENATOR - DIST. 3,999996,Times Counted,376
 43,043,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",302
-43,043,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-43,043,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-43,043,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1314
-43,043,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,376
-43,043,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",251
-43,043,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",220
+43,043,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+43,043,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+43,043,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1314
+43,043,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,376
+43,043,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",251
+43,043,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",220
 43,043,425,Secretary of State,999999,Number of Precincts for Race,1
 43,043,425,Secretary of State,999998,Number of Precincts Reporting,1
 43,043,425,Secretary of State,999997,Registered Voters,1314
@@ -8257,12 +8257,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 44,044,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1522
 44,044,345,STATE SENATOR - DIST. 3,999996,Times Counted,710
 44,044,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",587
-44,044,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-44,044,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-44,044,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1522
-44,044,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,710
-44,044,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",529
-44,044,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",413
+44,044,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+44,044,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+44,044,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1522
+44,044,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,710
+44,044,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",529
+44,044,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",413
 44,044,425,Secretary of State,999999,Number of Precincts for Race,1
 44,044,425,Secretary of State,999998,Number of Precincts Reporting,1
 44,044,425,Secretary of State,999997,Registered Voters,1522
@@ -8449,12 +8449,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 45,045,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1338
 45,045,345,STATE SENATOR - DIST. 3,999996,Times Counted,749
 45,045,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",629
-45,045,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-45,045,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-45,045,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1338
-45,045,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,749
-45,045,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",523
-45,045,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",531
+45,045,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+45,045,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+45,045,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1338
+45,045,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,749
+45,045,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",523
+45,045,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",531
 45,045,425,Secretary of State,999999,Number of Precincts for Race,1
 45,045,425,Secretary of State,999998,Number of Precincts Reporting,1
 45,045,425,Secretary of State,999997,Registered Voters,1338
@@ -9608,12 +9608,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 51,051,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1609
 51,051,345,STATE SENATOR - DIST. 3,999996,Times Counted,487
 51,051,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",410
-51,051,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-51,051,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-51,051,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1609
-51,051,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,487
-51,051,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",352
-51,051,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",262
+51,051,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+51,051,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+51,051,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1609
+51,051,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,487
+51,051,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",352
+51,051,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",262
 51,051,425,Secretary of State,999999,Number of Precincts for Race,1
 51,051,425,Secretary of State,999998,Number of Precincts Reporting,1
 51,051,425,Secretary of State,999997,Registered Voters,1609
@@ -9788,12 +9788,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 52,052,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1854
 52,052,345,STATE SENATOR - DIST. 3,999996,Times Counted,555
 52,052,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",490
-52,052,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-52,052,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-52,052,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1854
-52,052,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,555
-52,052,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",380
-52,052,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",399
+52,052,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+52,052,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+52,052,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1854
+52,052,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,555
+52,052,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",380
+52,052,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",399
 52,052,425,Secretary of State,999999,Number of Precincts for Race,1
 52,052,425,Secretary of State,999998,Number of Precincts Reporting,1
 52,052,425,Secretary of State,999997,Registered Voters,1854
@@ -11708,12 +11708,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 62,062,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1616
 62,062,345,STATE SENATOR - DIST. 3,999996,Times Counted,434
 62,062,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",330
-62,062,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-62,062,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-62,062,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1616
-62,062,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,434
-62,062,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",300
-62,062,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",238
+62,062,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+62,062,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+62,062,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1616
+62,062,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,434
+62,062,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",300
+62,062,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",238
 62,062,425,Secretary of State,999999,Number of Precincts for Race,1
 62,062,425,Secretary of State,999998,Number of Precincts Reporting,1
 62,062,425,Secretary of State,999997,Registered Voters,1616
@@ -17565,12 +17565,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 92,092,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2850
 92,092,345,STATE SENATOR - DIST. 3,999996,Times Counted,1813
 92,092,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",1131
-92,092,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-92,092,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-92,092,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2850
-92,092,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1813
-92,092,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",948
-92,092,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",943
+92,092,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+92,092,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+92,092,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2850
+92,092,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1813
+92,092,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",948
+92,092,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",943
 92,092,425,Secretary of State,999999,Number of Precincts for Race,1
 92,092,425,Secretary of State,999998,Number of Precincts Reporting,1
 92,092,425,Secretary of State,999997,Registered Voters,2850
@@ -18562,12 +18562,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 97,097,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1676
 97,097,345,STATE SENATOR - DIST. 3,999996,Times Counted,874
 97,097,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",639
-97,097,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-97,097,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-97,097,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1676
-97,097,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,874
-97,097,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",568
-97,097,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",485
+97,097,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+97,097,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+97,097,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1676
+97,097,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,874
+97,097,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",568
+97,097,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",485
 97,097,425,Secretary of State,999999,Number of Precincts for Race,1
 97,097,425,Secretary of State,999998,Number of Precincts Reporting,1
 97,097,425,Secretary of State,999997,Registered Voters,1676
@@ -19352,12 +19352,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 101,101,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1812
 101,101,345,STATE SENATOR - DIST. 3,999996,Times Counted,927
 101,101,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",589
-101,101,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-101,101,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-101,101,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1812
-101,101,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,927
-101,101,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",493
-101,101,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",453
+101,101,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+101,101,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+101,101,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1812
+101,101,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,927
+101,101,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",493
+101,101,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",453
 101,101,425,Secretary of State,999999,Number of Precincts for Race,1
 101,101,425,Secretary of State,999998,Number of Precincts Reporting,1
 101,101,425,Secretary of State,999997,Registered Voters,1812
@@ -19550,12 +19550,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 102,102,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2316
 102,102,345,STATE SENATOR - DIST. 3,999996,Times Counted,828
 102,102,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",590
-102,102,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-102,102,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-102,102,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2316
-102,102,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,828
-102,102,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",515
-102,102,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",408
+102,102,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+102,102,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+102,102,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2316
+102,102,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,828
+102,102,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",515
+102,102,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",408
 102,102,425,Secretary of State,999999,Number of Precincts for Race,1
 102,102,425,Secretary of State,999998,Number of Precincts Reporting,1
 102,102,425,Secretary of State,999997,Registered Voters,2316
@@ -21138,12 +21138,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 110,110,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1783
 110,110,345,STATE SENATOR - DIST. 3,999996,Times Counted,282
 110,110,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",254
-110,110,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-110,110,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-110,110,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1783
-110,110,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,282
-110,110,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",195
-110,110,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",157
+110,110,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+110,110,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+110,110,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1783
+110,110,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,282
+110,110,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",195
+110,110,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",157
 110,110,425,Secretary of State,999999,Number of Precincts for Race,1
 110,110,425,Secretary of State,999998,Number of Precincts Reporting,1
 110,110,425,Secretary of State,999997,Registered Voters,1783
@@ -27724,12 +27724,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 143,143,345,STATE SENATOR - DIST. 3,999997,Registered Voters,904
 143,143,345,STATE SENATOR - DIST. 3,999996,Times Counted,452
 143,143,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",389
-143,143,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-143,143,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-143,143,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,904
-143,143,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,452
-143,143,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",344
-143,143,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",287
+143,143,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+143,143,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+143,143,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,904
+143,143,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,452
+143,143,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",344
+143,143,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",287
 143,143,425,Secretary of State,999999,Number of Precincts for Race,1
 143,143,425,Secretary of State,999998,Number of Precincts Reporting,1
 143,143,425,Secretary of State,999997,Registered Voters,904
@@ -27916,12 +27916,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 144,144,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2169
 144,144,345,STATE SENATOR - DIST. 3,999996,Times Counted,1105
 144,144,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",824
-144,144,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-144,144,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-144,144,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2169
-144,144,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1105
-144,144,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",663
-144,144,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",691
+144,144,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+144,144,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+144,144,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2169
+144,144,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1105
+144,144,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",663
+144,144,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",691
 144,144,425,Secretary of State,999999,Number of Precincts for Race,1
 144,144,425,Secretary of State,999998,Number of Precincts Reporting,1
 144,144,425,Secretary of State,999997,Registered Voters,2169
@@ -29715,12 +29715,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 153,153,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2890
 153,153,345,STATE SENATOR - DIST. 3,999996,Times Counted,1567
 153,153,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",1092
-153,153,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-153,153,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-153,153,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2890
-153,153,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1567
-153,153,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",993
-153,153,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",833
+153,153,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+153,153,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+153,153,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2890
+153,153,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1567
+153,153,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",993
+153,153,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",833
 153,153,425,Secretary of State,999999,Number of Precincts for Race,1
 153,153,425,Secretary of State,999998,Number of Precincts Reporting,1
 153,153,425,Secretary of State,999997,Registered Voters,2890
@@ -29907,12 +29907,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 154,154,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1549
 154,154,345,STATE SENATOR - DIST. 3,999996,Times Counted,525
 154,154,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",405
-154,154,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-154,154,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-154,154,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1549
-154,154,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,525
-154,154,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",325
-154,154,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",288
+154,154,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+154,154,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+154,154,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1549
+154,154,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,525
+154,154,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",325
+154,154,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",288
 154,154,425,Secretary of State,999999,Number of Precincts for Race,1
 154,154,425,Secretary of State,999998,Number of Precincts Reporting,1
 154,154,425,Secretary of State,999997,Registered Voters,1549
@@ -30505,12 +30505,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 157,157,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2467
 157,157,345,STATE SENATOR - DIST. 3,999996,Times Counted,798
 157,157,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",615
-157,157,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-157,157,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-157,157,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2467
-157,157,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,798
-157,157,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",534
-157,157,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",413
+157,157,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+157,157,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+157,157,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2467
+157,157,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,798
+157,157,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",534
+157,157,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",413
 157,157,425,Secretary of State,999999,Number of Precincts for Race,1
 157,157,425,Secretary of State,999998,Number of Precincts Reporting,1
 157,157,425,Secretary of State,999997,Registered Voters,2467
@@ -31065,12 +31065,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 160,160,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1597
 160,160,345,STATE SENATOR - DIST. 3,999996,Times Counted,445
 160,160,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",387
-160,160,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-160,160,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-160,160,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1597
-160,160,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,445
-160,160,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",268
-160,160,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",308
+160,160,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+160,160,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+160,160,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1597
+160,160,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,445
+160,160,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",268
+160,160,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",308
 160,160,425,Secretary of State,999999,Number of Precincts for Race,1
 160,160,425,Secretary of State,999998,Number of Precincts Reporting,1
 160,160,425,Secretary of State,999997,Registered Voters,1597
@@ -32205,12 +32205,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 166,166,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2568
 166,166,345,STATE SENATOR - DIST. 3,999996,Times Counted,1156
 166,166,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",888
-166,166,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-166,166,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-166,166,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2568
-166,166,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1156
-166,166,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",808
-166,166,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",644
+166,166,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+166,166,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+166,166,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2568
+166,166,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1156
+166,166,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",808
+166,166,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",644
 166,166,425,Secretary of State,999999,Number of Precincts for Race,1
 166,166,425,Secretary of State,999998,Number of Precincts Reporting,1
 166,166,425,Secretary of State,999997,Registered Voters,2568
@@ -39557,12 +39557,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 203,203,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1323
 203,203,345,STATE SENATOR - DIST. 3,999996,Times Counted,547
 203,203,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",410
-203,203,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-203,203,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-203,203,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1323
-203,203,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,547
-203,203,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",322
-203,203,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",301
+203,203,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+203,203,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+203,203,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1323
+203,203,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,547
+203,203,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",322
+203,203,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",301
 203,203,425,Secretary of State,999999,Number of Precincts for Race,1
 203,203,425,Secretary of State,999998,Number of Precincts Reporting,1
 203,203,425,Secretary of State,999997,Registered Voters,1323
@@ -43159,13 +43159,13 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 221,221,560,CORONA DE TUCSON FIRE DIST. 6 (SELECT 3),20,"BUSTER, EDWARD",0
 221,221,560,CORONA DE TUCSON FIRE DIST. 6 (SELECT 3),30,"LUNDE, STEVEN",0
 221,221,560,CORONA DE TUCSON FIRE DIST. 6 (SELECT 3),40,"WEBER, NATHAN",0
-221,221,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),999999,Number of Precincts for Race,1
-221,221,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),999998,Number of Precincts Reporting,1
-221,221,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),999997,Registered Voters,442
-221,221,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),999996,Times Counted,276
-221,221,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),10,"BOWEN, MARY",161
-221,221,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),20,"CONRAD, GERARD",162
-221,221,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),30,"LEE, MARK",170
+221,221,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),999999,Number of Precincts for Race,1
+221,221,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),999998,Number of Precincts Reporting,1
+221,221,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),999997,Registered Voters,442
+221,221,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),999996,Times Counted,276
+221,221,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),10,"BOWEN, MARY",161
+221,221,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),20,"CONRAD, GERARD",162
+221,221,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),30,"LEE, MARK",170
 221,221,630,CENTRAL ARIZONA WATER BOARD (SELECT 4),999999,Number of Precincts for Race,1
 221,221,630,CENTRAL ARIZONA WATER BOARD (SELECT 4),999998,Number of Precincts Reporting,1
 221,221,630,CENTRAL ARIZONA WATER BOARD (SELECT 4),999997,Registered Voters,1927
@@ -45475,12 +45475,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 233,233,345,STATE SENATOR - DIST. 3,999997,Registered Voters,3420
 233,233,345,STATE SENATOR - DIST. 3,999996,Times Counted,1480
 233,233,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",1025
-233,233,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-233,233,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-233,233,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,3420
-233,233,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,1480
-233,233,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",888
-233,233,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",724
+233,233,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+233,233,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+233,233,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,3420
+233,233,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,1480
+233,233,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",888
+233,233,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",724
 233,233,425,Secretary of State,999999,Number of Precincts for Race,1
 233,233,425,Secretary of State,999998,Number of Precincts Reporting,1
 233,233,425,Secretary of State,999997,Registered Voters,3420
@@ -45673,12 +45673,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 234,234,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1754
 234,234,345,STATE SENATOR - DIST. 3,999996,Times Counted,820
 234,234,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",562
-234,234,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-234,234,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-234,234,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1754
-234,234,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,820
-234,234,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",455
-234,234,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",437
+234,234,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+234,234,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+234,234,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1754
+234,234,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,820
+234,234,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",455
+234,234,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",437
 234,234,425,Secretary of State,999999,Number of Precincts for Race,1
 234,234,425,Secretary of State,999998,Number of Precincts Reporting,1
 234,234,425,Secretary of State,999997,Registered Voters,1754
@@ -45865,12 +45865,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 235,235,345,STATE SENATOR - DIST. 3,999997,Registered Voters,2189
 235,235,345,STATE SENATOR - DIST. 3,999996,Times Counted,786
 235,235,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",610
-235,235,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-235,235,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-235,235,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,2189
-235,235,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,786
-235,235,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",563
-235,235,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",418
+235,235,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+235,235,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+235,235,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,2189
+235,235,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,786
+235,235,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",563
+235,235,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",418
 235,235,425,Secretary of State,999999,Number of Precincts for Race,1
 235,235,425,Secretary of State,999998,Number of Precincts Reporting,1
 235,235,425,Secretary of State,999997,Registered Voters,2189
@@ -47835,12 +47835,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 245,245,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1399
 245,245,345,STATE SENATOR - DIST. 3,999996,Times Counted,678
 245,245,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",576
-245,245,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-245,245,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-245,245,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1399
-245,245,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,678
-245,245,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",468
-245,245,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",475
+245,245,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+245,245,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+245,245,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1399
+245,245,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,678
+245,245,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",468
+245,245,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",475
 245,245,425,Secretary of State,999999,Number of Precincts for Race,1
 245,245,425,Secretary of State,999998,Number of Precincts Reporting,1
 245,245,425,Secretary of State,999997,Registered Voters,1399
@@ -48027,12 +48027,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 246,246,345,STATE SENATOR - DIST. 3,999997,Registered Voters,1517
 246,246,345,STATE SENATOR - DIST. 3,999996,Times Counted,777
 246,246,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",649
-246,246,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-246,246,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-246,246,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,1517
-246,246,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,777
-246,246,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",578
-246,246,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",485
+246,246,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+246,246,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+246,246,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,1517
+246,246,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,777
+246,246,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",578
+246,246,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",485
 246,246,425,Secretary of State,999999,Number of Precincts for Race,1
 246,246,425,Secretary of State,999998,Number of Precincts Reporting,1
 246,246,425,Secretary of State,999997,Registered Voters,1517
@@ -48219,12 +48219,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 247,247,345,STATE SENATOR - DIST. 3,999997,Registered Voters,370
 247,247,345,STATE SENATOR - DIST. 3,999996,Times Counted,135
 247,247,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",111
-247,247,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-247,247,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-247,247,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,370
-247,247,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,135
-247,247,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",84
-247,247,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",91
+247,247,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+247,247,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+247,247,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,370
+247,247,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,135
+247,247,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",84
+247,247,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",91
 247,247,425,Secretary of State,999999,Number of Precincts for Race,1
 247,247,425,Secretary of State,999998,Number of Precincts Reporting,1
 247,247,425,Secretary of State,999997,Registered Voters,370
@@ -48411,12 +48411,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 248,248,345,STATE SENATOR - DIST. 3,999997,Registered Voters,767
 248,248,345,STATE SENATOR - DIST. 3,999996,Times Counted,254
 248,248,345,STATE SENATOR - DIST. 3,10,"CAJERO BEDFORD, OLIV",232
-248,248,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,1
-248,248,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,1
-248,248,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,767
-248,248,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,254
-248,248,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",193
-248,248,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",164
+248,248,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,1
+248,248,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,1
+248,248,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,767
+248,248,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,254
+248,248,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",193
+248,248,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",164
 248,248,425,Secretary of State,999999,Number of Precincts for Race,1
 248,248,425,Secretary of State,999998,Number of Precincts Reporting,1
 248,248,425,Secretary of State,999997,Registered Voters,767
@@ -48644,12 +48644,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 999999,Election Total,380,STATE REP. - DIST. 2 (ELECT 2),10,"CLINCO, DEMION",12726
 999999,Election Total,380,STATE REP. - DIST. 2 (ELECT 2),20,"GABALDÓN, ROSANNA",15689
 999999,Election Total,380,STATE REP. - DIST. 2 (ELECT 2),30,"ACKERLEY, JOHN C.",16471
-999999,Election Total,385,STATE REP. - DIST. 3  (ELECT 2),999999,Number of Precincts for Race,41
-999999,Election Total,385,STATE REP. - DIST. 3  (ELECT 2),999998,Number of Precincts Reporting,41
-999999,Election Total,385,STATE REP. - DIST. 3  (ELECT 2),999997,Registered Voters,84810
-999999,Election Total,385,STATE REP. - DIST. 3  (ELECT 2),999996,Times Counted,35976
-999999,Election Total,385,STATE REP. - DIST. 3  (ELECT 2),10,"GONZALES, SALLY ANN",22883
-999999,Election Total,385,STATE REP. - DIST. 3  (ELECT 2),20,"SALDATE, MACARIO",20148
+999999,Election Total,385,STATE REP. - DIST. 3 (ELECT 2),999999,Number of Precincts for Race,41
+999999,Election Total,385,STATE REP. - DIST. 3 (ELECT 2),999998,Number of Precincts Reporting,41
+999999,Election Total,385,STATE REP. - DIST. 3 (ELECT 2),999997,Registered Voters,84810
+999999,Election Total,385,STATE REP. - DIST. 3 (ELECT 2),999996,Times Counted,35976
+999999,Election Total,385,STATE REP. - DIST. 3 (ELECT 2),10,"GONZALES, SALLY ANN",22883
+999999,Election Total,385,STATE REP. - DIST. 3 (ELECT 2),20,"SALDATE, MACARIO",20148
 999999,Election Total,390,STATE REP. - DIST. 4 (ELECT 2),999999,Number of Precincts for Race,17
 999999,Election Total,390,STATE REP. - DIST. 4 (ELECT 2),999998,Number of Precincts Reporting,17
 999999,Election Total,390,STATE REP. - DIST. 4 (ELECT 2),999997,Registered Voters,13583
@@ -48804,13 +48804,13 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 999999,Election Total,590,PICTURE ROCKS FIRE DIST. 10 (SELECT 2),999996,Times Counted,2517
 999999,Election Total,590,PICTURE ROCKS FIRE DIST. 10 (SELECT 2),10,"PUTNAM, DAVID",1675
 999999,Election Total,590,PICTURE ROCKS FIRE DIST. 10 (SELECT 2),20,"WATSON, SANDRA",1697
-999999,Election Total,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),999999,Number of Precincts for Race,1
-999999,Election Total,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),999998,Number of Precincts Reporting,1
-999999,Election Total,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),999997,Registered Voters,442
-999999,Election Total,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),999996,Times Counted,276
-999999,Election Total,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),10,"BOWEN, MARY",161
-999999,Election Total,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),20,"CONRAD, GERARD",162
-999999,Election Total,600,MESCAL - J6  FIRE DIST. 20 (SELECT 3),30,"LEE, MARK",170
+999999,Election Total,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),999999,Number of Precincts for Race,1
+999999,Election Total,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),999998,Number of Precincts Reporting,1
+999999,Election Total,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),999997,Registered Voters,442
+999999,Election Total,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),999996,Times Counted,276
+999999,Election Total,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),10,"BOWEN, MARY",161
+999999,Election Total,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),20,"CONRAD, GERARD",162
+999999,Election Total,600,MESCAL - J6 FIRE DIST. 20 (SELECT 3),30,"LEE, MARK",170
 999999,Election Total,610,METRO WATER DIST. 1 (SELECT 3),999999,Number of Precincts for Race,26
 999999,Election Total,610,METRO WATER DIST. 1 (SELECT 3),999998,Number of Precincts Reporting,26
 999999,Election Total,610,METRO WATER DIST. 1 (SELECT 3),999997,Registered Voters,30902
@@ -48975,12 +48975,12 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 999999,Election Total,830,PROPOSITION 415,999996,Times Counted,274417
 999999,Election Total,830,PROPOSITION 415,10,YES,145153
 999999,Election Total,830,PROPOSITION 415,20,NO,100777
-999999,Election Total,840,PROPOSITION 416  AJO S.D. 15,999999,Number of Precincts for Race,1
-999999,Election Total,840,PROPOSITION 416  AJO S.D. 15,999998,Number of Precincts Reporting,1
-999999,Election Total,840,PROPOSITION 416  AJO S.D. 15,999997,Registered Voters,1391
-999999,Election Total,840,PROPOSITION 416  AJO S.D. 15,999996,Times Counted,797
-999999,Election Total,840,PROPOSITION 416  AJO S.D. 15,10,YES,314
-999999,Election Total,840,PROPOSITION 416  AJO S.D. 15,20,NO,407
+999999,Election Total,840,PROPOSITION 416 AJO S.D. 15,999999,Number of Precincts for Race,1
+999999,Election Total,840,PROPOSITION 416 AJO S.D. 15,999998,Number of Precincts Reporting,1
+999999,Election Total,840,PROPOSITION 416 AJO S.D. 15,999997,Registered Voters,1391
+999999,Election Total,840,PROPOSITION 416 AJO S.D. 15,999996,Times Counted,797
+999999,Election Total,840,PROPOSITION 416 AJO S.D. 15,10,YES,314
+999999,Election Total,840,PROPOSITION 416 AJO S.D. 15,20,NO,407
 999999,Election Total,850,PROPOSITION 417 MARANA S.D. 6,999999,Number of Precincts for Race,31
 999999,Election Total,850,PROPOSITION 417 MARANA S.D. 6,999998,Number of Precincts Reporting,31
 999999,Election Total,850,PROPOSITION 417 MARANA S.D. 6,999997,Registered Voters,49975

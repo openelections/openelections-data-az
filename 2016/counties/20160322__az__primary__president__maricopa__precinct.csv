@@ -2,23 +2,23 @@ precinct_name,choice_name,party_id,candidate_id,contest_type,contest,contest_ord
 CON DIST 1,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,72,1,1,0,0,0,514,0,0,0
 CON DIST 1,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,41,1,1,0,0,0,514,0,0,0
 CON DIST 1,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,1,1,0,0,0,514,0,0,0
-CON DIST 1,Election Day Edge  Turnout,,,-2,0,-100,4,Registration & Turnout,0,1,1,0,0,0,514,0,0,0
+CON DIST 1,Election Day Edge Turnout,,,-2,0,-100,4,Registration & Turnout,0,1,1,0,0,0,514,0,0,0
 CON DIST 1,Election Day Paper Turnout,,,-1,-90,-89,1,Nonpartisan Registration & Turnout,0,1,1,0,0,0,0,0,0,0
 CON DIST 1,Early Voting Paper Turnout,,,-1,-90,-89,2,Nonpartisan Registration & Turnout,0,1,1,0,0,0,0,0,0,0
 CON DIST 1,Early Voting Edge Turnout,,,-1,-90,-89,3,Nonpartisan Registration & Turnout,0,1,1,0,0,0,0,0,0,0
-CON DIST 1,Election Day Edge  Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,1,1,0,0,0,0,0,0,0
+CON DIST 1,Election Day Edge Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,1,1,0,0,0,0,0,0,0
 CON DIST 1,Election Day Paper Turnout,,,-1,-89,-88,1,REP Registration & Turnout,7,1,1,0,0,0,63,0,0,0
 CON DIST 1,Early Voting Paper Turnout,,,-1,-89,-88,2,REP Registration & Turnout,5,1,1,0,0,0,63,0,0,0
 CON DIST 1,Early Voting Edge Turnout,,,-1,-89,-88,3,REP Registration & Turnout,0,1,1,0,0,0,63,0,0,0
-CON DIST 1,Election Day Edge  Turnout,,,-1,-89,-88,4,REP Registration & Turnout,0,1,1,0,0,0,63,0,0,0
+CON DIST 1,Election Day Edge Turnout,,,-1,-89,-88,4,REP Registration & Turnout,0,1,1,0,0,0,63,0,0,0
 CON DIST 1,Election Day Paper Turnout,,,-1,-88,-87,1,DEM Registration & Turnout,65,1,1,0,0,0,451,0,0,0
 CON DIST 1,Early Voting Paper Turnout,,,-1,-88,-87,2,DEM Registration & Turnout,36,1,1,0,0,0,451,0,0,0
 CON DIST 1,Early Voting Edge Turnout,,,-1,-88,-87,3,DEM Registration & Turnout,0,1,1,0,0,0,451,0,0,0
-CON DIST 1,Election Day Edge  Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,1,1,0,0,0,451,0,0,0
+CON DIST 1,Election Day Edge Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,1,1,0,0,0,451,0,0,0
 CON DIST 1,Election Day Paper Turnout,,,-1,-87,-86,1,GRN Registration & Turnout,0,1,1,0,0,0,0,0,0,0
 CON DIST 1,Early Voting Paper Turnout,,,-1,-87,-86,2,GRN Registration & Turnout,0,1,1,0,0,0,0,0,0,0
 CON DIST 1,Early Voting Edge Turnout,,,-1,-87,-86,3,GRN Registration & Turnout,0,1,1,0,0,0,0,0,0,0
-CON DIST 1,Election Day Edge  Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,1,1,0,0,0,0,0,0,0
+CON DIST 1,Election Day Edge Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,1,1,0,0,0,0,0,0,0
 CON DIST 1,"SANTORUM, RICK",1,1,0,4,4,1,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,0,1,1,1,1,1,0,0,0,0
 CON DIST 1,"COOK, TIM",1,1,0,4,4,2,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,0,1,1,1,1,1,0,0,0,0
 CON DIST 1,"PAUL, RAND",1,1,0,4,4,3,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,0,1,1,1,1,1,0,0,0,0
@@ -44,23 +44,23 @@ CON DIST 1,"STEIN, JILL",3,3,0,6,6,2,GRN - GREEN PARTY PRESIDENTIAL PREFERENCE,0
 CON DIST 3,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,3829,2,2,0,0,0,55300,0,0,0
 CON DIST 3,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,19087,2,2,0,0,0,55300,0,0,0
 CON DIST 3,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,2,2,0,0,0,55300,0,0,0
-CON DIST 3,Election Day Edge  Turnout,,,-2,0,-100,4,Registration & Turnout,0,2,2,0,0,0,55300,0,0,0
+CON DIST 3,Election Day Edge Turnout,,,-2,0,-100,4,Registration & Turnout,0,2,2,0,0,0,55300,0,0,0
 CON DIST 3,Election Day Paper Turnout,,,-1,-90,-89,1,Nonpartisan Registration & Turnout,0,2,2,0,0,0,0,0,0,0
 CON DIST 3,Early Voting Paper Turnout,,,-1,-90,-89,2,Nonpartisan Registration & Turnout,0,2,2,0,0,0,0,0,0,0
 CON DIST 3,Early Voting Edge Turnout,,,-1,-90,-89,3,Nonpartisan Registration & Turnout,0,2,2,0,0,0,0,0,0,0
-CON DIST 3,Election Day Edge  Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,2,2,0,0,0,0,0,0,0
+CON DIST 3,Election Day Edge Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,2,2,0,0,0,0,0,0,0
 CON DIST 3,Election Day Paper Turnout,,,-1,-89,-88,1,REP Registration & Turnout,1815,2,2,0,0,0,24155,0,0,0
 CON DIST 3,Early Voting Paper Turnout,,,-1,-89,-88,2,REP Registration & Turnout,9261,2,2,0,0,0,24155,0,0,0
 CON DIST 3,Early Voting Edge Turnout,,,-1,-89,-88,3,REP Registration & Turnout,0,2,2,0,0,0,24155,0,0,0
-CON DIST 3,Election Day Edge  Turnout,,,-1,-89,-88,4,REP Registration & Turnout,0,2,2,0,0,0,24155,0,0,0
+CON DIST 3,Election Day Edge Turnout,,,-1,-89,-88,4,REP Registration & Turnout,0,2,2,0,0,0,24155,0,0,0
 CON DIST 3,Election Day Paper Turnout,,,-1,-88,-87,1,DEM Registration & Turnout,2004,2,2,0,0,0,31072,0,0,0
 CON DIST 3,Early Voting Paper Turnout,,,-1,-88,-87,2,DEM Registration & Turnout,9820,2,2,0,0,0,31072,0,0,0
 CON DIST 3,Early Voting Edge Turnout,,,-1,-88,-87,3,DEM Registration & Turnout,0,2,2,0,0,0,31072,0,0,0
-CON DIST 3,Election Day Edge  Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,2,2,0,0,0,31072,0,0,0
+CON DIST 3,Election Day Edge Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,2,2,0,0,0,31072,0,0,0
 CON DIST 3,Election Day Paper Turnout,,,-1,-87,-86,1,GRN Registration & Turnout,10,2,2,0,0,0,73,0,0,0
 CON DIST 3,Early Voting Paper Turnout,,,-1,-87,-86,2,GRN Registration & Turnout,6,2,2,0,0,0,73,0,0,0
 CON DIST 3,Early Voting Edge Turnout,,,-1,-87,-86,3,GRN Registration & Turnout,0,2,2,0,0,0,73,0,0,0
-CON DIST 3,Election Day Edge  Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,2,2,0,0,0,73,0,0,0
+CON DIST 3,Election Day Edge Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,2,2,0,0,0,73,0,0,0
 CON DIST 3,"SANTORUM, RICK",1,1,0,4,4,1,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,6,2,2,1,1,1,11035,0,14,27
 CON DIST 3,"COOK, TIM",1,1,0,4,4,2,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,1,2,2,1,1,1,11035,0,14,27
 CON DIST 3,"PAUL, RAND",1,1,0,4,4,3,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,45,2,2,1,1,1,11035,0,14,27
@@ -86,23 +86,23 @@ CON DIST 3,"STEIN, JILL",3,3,0,6,6,2,GRN - GREEN PARTY PRESIDENTIAL PREFERENCE,1
 CON DIST 4,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,1314,3,3,0,0,0,15178,0,0,0
 CON DIST 4,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,7093,3,3,0,0,0,15178,0,0,0
 CON DIST 4,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,3,3,0,0,0,15178,0,0,0
-CON DIST 4,Election Day Edge  Turnout,,,-2,0,-100,4,Registration & Turnout,0,3,3,0,0,0,15178,0,0,0
+CON DIST 4,Election Day Edge Turnout,,,-2,0,-100,4,Registration & Turnout,0,3,3,0,0,0,15178,0,0,0
 CON DIST 4,Election Day Paper Turnout,,,-1,-90,-89,1,Nonpartisan Registration & Turnout,0,3,3,0,0,0,0,0,0,0
 CON DIST 4,Early Voting Paper Turnout,,,-1,-90,-89,2,Nonpartisan Registration & Turnout,0,3,3,0,0,0,0,0,0,0
 CON DIST 4,Early Voting Edge Turnout,,,-1,-90,-89,3,Nonpartisan Registration & Turnout,0,3,3,0,0,0,0,0,0,0
-CON DIST 4,Election Day Edge  Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,3,3,0,0,0,0,0,0,0
+CON DIST 4,Election Day Edge Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,3,3,0,0,0,0,0,0,0
 CON DIST 4,Election Day Paper Turnout,,,-1,-89,-88,1,REP Registration & Turnout,954,3,3,0,0,0,10713,0,0,0
 CON DIST 4,Early Voting Paper Turnout,,,-1,-89,-88,2,REP Registration & Turnout,5237,3,3,0,0,0,10713,0,0,0
 CON DIST 4,Early Voting Edge Turnout,,,-1,-89,-88,3,REP Registration & Turnout,0,3,3,0,0,0,10713,0,0,0
-CON DIST 4,Election Day Edge  Turnout,,,-1,-89,-88,4,REP Registration & Turnout,0,3,3,0,0,0,10713,0,0,0
+CON DIST 4,Election Day Edge Turnout,,,-1,-89,-88,4,REP Registration & Turnout,0,3,3,0,0,0,10713,0,0,0
 CON DIST 4,Election Day Paper Turnout,,,-1,-88,-87,1,DEM Registration & Turnout,357,3,3,0,0,0,4448,0,0,0
 CON DIST 4,Early Voting Paper Turnout,,,-1,-88,-87,2,DEM Registration & Turnout,1852,3,3,0,0,0,4448,0,0,0
 CON DIST 4,Early Voting Edge Turnout,,,-1,-88,-87,3,DEM Registration & Turnout,0,3,3,0,0,0,4448,0,0,0
-CON DIST 4,Election Day Edge  Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,3,3,0,0,0,4448,0,0,0
+CON DIST 4,Election Day Edge Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,3,3,0,0,0,4448,0,0,0
 CON DIST 4,Election Day Paper Turnout,,,-1,-87,-86,1,GRN Registration & Turnout,3,3,3,0,0,0,17,0,0,0
 CON DIST 4,Early Voting Paper Turnout,,,-1,-87,-86,2,GRN Registration & Turnout,4,3,3,0,0,0,17,0,0,0
 CON DIST 4,Early Voting Edge Turnout,,,-1,-87,-86,3,GRN Registration & Turnout,0,3,3,0,0,0,17,0,0,0
-CON DIST 4,Election Day Edge  Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,3,3,0,0,0,17,0,0,0
+CON DIST 4,Election Day Edge Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,3,3,0,0,0,17,0,0,0
 CON DIST 4,"SANTORUM, RICK",1,1,0,4,4,1,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,3,3,3,1,1,1,6175,0,5,11
 CON DIST 4,"COOK, TIM",1,1,0,4,4,2,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,1,3,3,1,1,1,6175,0,5,11
 CON DIST 4,"PAUL, RAND",1,1,0,4,4,3,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,18,3,3,1,1,1,6175,0,5,11
@@ -128,23 +128,23 @@ CON DIST 4,"STEIN, JILL",3,3,0,6,6,2,GRN - GREEN PARTY PRESIDENTIAL PREFERENCE,7
 CON DIST 5,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,20303,4,4,0,0,0,265723,0,0,0
 CON DIST 5,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,115124,4,4,0,0,0,265723,0,0,0
 CON DIST 5,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,4,4,0,0,0,265723,0,0,0
-CON DIST 5,Election Day Edge  Turnout,,,-2,0,-100,4,Registration & Turnout,1,4,4,0,0,0,265723,0,0,0
+CON DIST 5,Election Day Edge Turnout,,,-2,0,-100,4,Registration & Turnout,1,4,4,0,0,0,265723,0,0,0
 CON DIST 5,Election Day Paper Turnout,,,-1,-90,-89,1,Nonpartisan Registration & Turnout,0,4,4,0,0,0,0,0,0,0
 CON DIST 5,Early Voting Paper Turnout,,,-1,-90,-89,2,Nonpartisan Registration & Turnout,0,4,4,0,0,0,0,0,0,0
 CON DIST 5,Early Voting Edge Turnout,,,-1,-90,-89,3,Nonpartisan Registration & Turnout,0,4,4,0,0,0,0,0,0,0
-CON DIST 5,Election Day Edge  Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,4,4,0,0,0,0,0,0,0
+CON DIST 5,Election Day Edge Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,4,4,0,0,0,0,0,0,0
 CON DIST 5,Election Day Paper Turnout,,,-1,-89,-88,1,REP Registration & Turnout,14489,4,4,0,0,0,180294,0,0,0
 CON DIST 5,Early Voting Paper Turnout,,,-1,-89,-88,2,REP Registration & Turnout,79853,4,4,0,0,0,180294,0,0,0
 CON DIST 5,Early Voting Edge Turnout,,,-1,-89,-88,3,REP Registration & Turnout,0,4,4,0,0,0,180294,0,0,0
-CON DIST 5,Election Day Edge  Turnout,,,-1,-89,-88,4,REP Registration & Turnout,1,4,4,0,0,0,180294,0,0,0
+CON DIST 5,Election Day Edge Turnout,,,-1,-89,-88,4,REP Registration & Turnout,1,4,4,0,0,0,180294,0,0,0
 CON DIST 5,Election Day Paper Turnout,,,-1,-88,-87,1,DEM Registration & Turnout,5808,4,4,0,0,0,85102,0,0,0
 CON DIST 5,Early Voting Paper Turnout,,,-1,-88,-87,2,DEM Registration & Turnout,35225,4,4,0,0,0,85102,0,0,0
 CON DIST 5,Early Voting Edge Turnout,,,-1,-88,-87,3,DEM Registration & Turnout,0,4,4,0,0,0,85102,0,0,0
-CON DIST 5,Election Day Edge  Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,4,4,0,0,0,85102,0,0,0
+CON DIST 5,Election Day Edge Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,4,4,0,0,0,85102,0,0,0
 CON DIST 5,Election Day Paper Turnout,,,-1,-87,-86,1,GRN Registration & Turnout,6,4,4,0,0,0,327,0,0,0
 CON DIST 5,Early Voting Paper Turnout,,,-1,-87,-86,2,GRN Registration & Turnout,46,4,4,0,0,0,327,0,0,0
 CON DIST 5,Early Voting Edge Turnout,,,-1,-87,-86,3,GRN Registration & Turnout,0,4,4,0,0,0,327,0,0,0
-CON DIST 5,Election Day Edge  Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,4,4,0,0,0,327,0,0,0
+CON DIST 5,Election Day Edge Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,4,4,0,0,0,327,0,0,0
 CON DIST 5,"SANTORUM, RICK",1,1,0,4,4,1,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,83,4,4,1,1,1,94057,0,71,215
 CON DIST 5,"COOK, TIM",1,1,0,4,4,2,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,22,4,4,1,1,1,94057,0,71,215
 CON DIST 5,"PAUL, RAND",1,1,0,4,4,3,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,387,4,4,1,1,1,94057,0,71,215
@@ -170,23 +170,23 @@ CON DIST 5,"STEIN, JILL",3,3,0,6,6,2,GRN - GREEN PARTY PRESIDENTIAL PREFERENCE,3
 CON DIST 6,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,21078,5,5,0,0,0,268983,0,0,0
 CON DIST 6,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,124091,5,5,0,0,0,268983,0,0,0
 CON DIST 6,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,5,5,0,0,0,268983,0,0,0
-CON DIST 6,Election Day Edge  Turnout,,,-2,0,-100,4,Registration & Turnout,2,5,5,0,0,0,268983,0,0,0
+CON DIST 6,Election Day Edge Turnout,,,-2,0,-100,4,Registration & Turnout,2,5,5,0,0,0,268983,0,0,0
 CON DIST 6,Election Day Paper Turnout,,,-1,-90,-89,1,Nonpartisan Registration & Turnout,0,5,5,0,0,0,0,0,0,0
 CON DIST 6,Early Voting Paper Turnout,,,-1,-90,-89,2,Nonpartisan Registration & Turnout,0,5,5,0,0,0,0,0,0,0
 CON DIST 6,Early Voting Edge Turnout,,,-1,-90,-89,3,Nonpartisan Registration & Turnout,0,5,5,0,0,0,0,0,0,0
-CON DIST 6,Election Day Edge  Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,5,5,0,0,0,0,0,0,0
+CON DIST 6,Election Day Edge Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,5,5,0,0,0,0,0,0,0
 CON DIST 6,Election Day Paper Turnout,,,-1,-89,-88,1,REP Registration & Turnout,13928,5,5,0,0,0,170347,0,0,0
 CON DIST 6,Early Voting Paper Turnout,,,-1,-89,-88,2,REP Registration & Turnout,80505,5,5,0,0,0,170347,0,0,0
 CON DIST 6,Early Voting Edge Turnout,,,-1,-89,-88,3,REP Registration & Turnout,0,5,5,0,0,0,170347,0,0,0
-CON DIST 6,Election Day Edge  Turnout,,,-1,-89,-88,4,REP Registration & Turnout,2,5,5,0,0,0,170347,0,0,0
+CON DIST 6,Election Day Edge Turnout,,,-1,-89,-88,4,REP Registration & Turnout,2,5,5,0,0,0,170347,0,0,0
 CON DIST 6,Election Day Paper Turnout,,,-1,-88,-87,1,DEM Registration & Turnout,7147,5,5,0,0,0,98202,0,0,0
 CON DIST 6,Early Voting Paper Turnout,,,-1,-88,-87,2,DEM Registration & Turnout,43532,5,5,0,0,0,98202,0,0,0
 CON DIST 6,Early Voting Edge Turnout,,,-1,-88,-87,3,DEM Registration & Turnout,0,5,5,0,0,0,98202,0,0,0
-CON DIST 6,Election Day Edge  Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,5,5,0,0,0,98202,0,0,0
+CON DIST 6,Election Day Edge Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,0,5,5,0,0,0,98202,0,0,0
 CON DIST 6,Election Day Paper Turnout,,,-1,-87,-86,1,GRN Registration & Turnout,3,5,5,0,0,0,434,0,0,0
 CON DIST 6,Early Voting Paper Turnout,,,-1,-87,-86,2,GRN Registration & Turnout,54,5,5,0,0,0,434,0,0,0
 CON DIST 6,Early Voting Edge Turnout,,,-1,-87,-86,3,GRN Registration & Turnout,0,5,5,0,0,0,434,0,0,0
-CON DIST 6,Election Day Edge  Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,5,5,0,0,0,434,0,0,0
+CON DIST 6,Election Day Edge Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,5,5,0,0,0,434,0,0,0
 CON DIST 6,"SANTORUM, RICK",1,1,0,4,4,1,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,61,5,5,1,1,1,94181,0,80,174
 CON DIST 6,"COOK, TIM",1,1,0,4,4,2,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,32,5,5,1,1,1,94181,0,80,174
 CON DIST 6,"PAUL, RAND",1,1,0,4,4,3,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,305,5,5,1,1,1,94181,0,80,174
@@ -212,23 +212,23 @@ CON DIST 6,"STEIN, JILL",3,3,0,6,6,2,GRN - GREEN PARTY PRESIDENTIAL PREFERENCE,4
 CON DIST 7,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,10200,6,6,0,0,0,142198,0,0,0
 CON DIST 7,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,48772,6,6,0,0,0,142198,0,0,0
 CON DIST 7,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,6,6,0,0,0,142198,0,0,0
-CON DIST 7,Election Day Edge  Turnout,,,-2,0,-100,4,Registration & Turnout,1,6,6,0,0,0,142198,0,0,0
+CON DIST 7,Election Day Edge Turnout,,,-2,0,-100,4,Registration & Turnout,1,6,6,0,0,0,142198,0,0,0
 CON DIST 7,Election Day Paper Turnout,,,-1,-90,-89,1,Nonpartisan Registration & Turnout,0,6,6,0,0,0,0,0,0,0
 CON DIST 7,Early Voting Paper Turnout,,,-1,-90,-89,2,Nonpartisan Registration & Turnout,0,6,6,0,0,0,0,0,0,0
 CON DIST 7,Early Voting Edge Turnout,,,-1,-90,-89,3,Nonpartisan Registration & Turnout,0,6,6,0,0,0,0,0,0,0
-CON DIST 7,Election Day Edge  Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,6,6,0,0,0,0,0,0,0
+CON DIST 7,Election Day Edge Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,6,6,0,0,0,0,0,0,0
 CON DIST 7,Election Day Paper Turnout,,,-1,-89,-88,1,REP Registration & Turnout,2945,6,6,0,0,0,38537,0,0,0
 CON DIST 7,Early Voting Paper Turnout,,,-1,-89,-88,2,REP Registration & Turnout,13594,6,6,0,0,0,38537,0,0,0
 CON DIST 7,Early Voting Edge Turnout,,,-1,-89,-88,3,REP Registration & Turnout,0,6,6,0,0,0,38537,0,0,0
-CON DIST 7,Election Day Edge  Turnout,,,-1,-89,-88,4,REP Registration & Turnout,0,6,6,0,0,0,38537,0,0,0
+CON DIST 7,Election Day Edge Turnout,,,-1,-89,-88,4,REP Registration & Turnout,0,6,6,0,0,0,38537,0,0,0
 CON DIST 7,Election Day Paper Turnout,,,-1,-88,-87,1,DEM Registration & Turnout,7250,6,6,0,0,0,103356,0,0,0
 CON DIST 7,Early Voting Paper Turnout,,,-1,-88,-87,2,DEM Registration & Turnout,35130,6,6,0,0,0,103356,0,0,0
 CON DIST 7,Early Voting Edge Turnout,,,-1,-88,-87,3,DEM Registration & Turnout,0,6,6,0,0,0,103356,0,0,0
-CON DIST 7,Election Day Edge  Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,1,6,6,0,0,0,103356,0,0,0
+CON DIST 7,Election Day Edge Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,1,6,6,0,0,0,103356,0,0,0
 CON DIST 7,Election Day Paper Turnout,,,-1,-87,-86,1,GRN Registration & Turnout,5,6,6,0,0,0,305,0,0,0
 CON DIST 7,Early Voting Paper Turnout,,,-1,-87,-86,2,GRN Registration & Turnout,48,6,6,0,0,0,305,0,0,0
 CON DIST 7,Early Voting Edge Turnout,,,-1,-87,-86,3,GRN Registration & Turnout,0,6,6,0,0,0,305,0,0,0
-CON DIST 7,Election Day Edge  Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,6,6,0,0,0,305,0,0,0
+CON DIST 7,Election Day Edge Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,6,6,0,0,0,305,0,0,0
 CON DIST 7,"SANTORUM, RICK",1,1,0,4,4,1,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,17,6,6,1,1,1,16462,0,32,45
 CON DIST 7,"COOK, TIM",1,1,0,4,4,2,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,11,6,6,1,1,1,16462,0,32,45
 CON DIST 7,"PAUL, RAND",1,1,0,4,4,3,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,94,6,6,1,1,1,16462,0,32,45
@@ -254,23 +254,23 @@ CON DIST 7,"STEIN, JILL",3,3,0,6,6,2,GRN - GREEN PARTY PRESIDENTIAL PREFERENCE,4
 CON DIST 8,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,17742,7,7,0,0,0,263620,0,0,0
 CON DIST 8,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,121111,7,7,0,0,0,263620,0,0,0
 CON DIST 8,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,7,7,0,0,0,263620,0,0,0
-CON DIST 8,Election Day Edge  Turnout,,,-2,0,-100,4,Registration & Turnout,2,7,7,0,0,0,263620,0,0,0
+CON DIST 8,Election Day Edge Turnout,,,-2,0,-100,4,Registration & Turnout,2,7,7,0,0,0,263620,0,0,0
 CON DIST 8,Election Day Paper Turnout,,,-1,-90,-89,1,Nonpartisan Registration & Turnout,0,7,7,0,0,0,0,0,0,0
 CON DIST 8,Early Voting Paper Turnout,,,-1,-90,-89,2,Nonpartisan Registration & Turnout,0,7,7,0,0,0,0,0,0,0
 CON DIST 8,Early Voting Edge Turnout,,,-1,-90,-89,3,Nonpartisan Registration & Turnout,0,7,7,0,0,0,0,0,0,0
-CON DIST 8,Election Day Edge  Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,7,7,0,0,0,0,0,0,0
+CON DIST 8,Election Day Edge Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,7,7,0,0,0,0,0,0,0
 CON DIST 8,Election Day Paper Turnout,,,-1,-89,-88,1,REP Registration & Turnout,12060,7,7,0,0,0,166869,0,0,0
 CON DIST 8,Early Voting Paper Turnout,,,-1,-89,-88,2,REP Registration & Turnout,79999,7,7,0,0,0,166869,0,0,0
 CON DIST 8,Early Voting Edge Turnout,,,-1,-89,-88,3,REP Registration & Turnout,0,7,7,0,0,0,166869,0,0,0
-CON DIST 8,Election Day Edge  Turnout,,,-1,-89,-88,4,REP Registration & Turnout,1,7,7,0,0,0,166869,0,0,0
+CON DIST 8,Election Day Edge Turnout,,,-1,-89,-88,4,REP Registration & Turnout,1,7,7,0,0,0,166869,0,0,0
 CON DIST 8,Election Day Paper Turnout,,,-1,-88,-87,1,DEM Registration & Turnout,5673,7,7,0,0,0,96413,0,0,0
 CON DIST 8,Early Voting Paper Turnout,,,-1,-88,-87,2,DEM Registration & Turnout,41054,7,7,0,0,0,96413,0,0,0
 CON DIST 8,Early Voting Edge Turnout,,,-1,-88,-87,3,DEM Registration & Turnout,0,7,7,0,0,0,96413,0,0,0
-CON DIST 8,Election Day Edge  Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,1,7,7,0,0,0,96413,0,0,0
+CON DIST 8,Election Day Edge Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,1,7,7,0,0,0,96413,0,0,0
 CON DIST 8,Election Day Paper Turnout,,,-1,-87,-86,1,GRN Registration & Turnout,9,7,7,0,0,0,338,0,0,0
 CON DIST 8,Early Voting Paper Turnout,,,-1,-87,-86,2,GRN Registration & Turnout,58,7,7,0,0,0,338,0,0,0
 CON DIST 8,Early Voting Edge Turnout,,,-1,-87,-86,3,GRN Registration & Turnout,0,7,7,0,0,0,338,0,0,0
-CON DIST 8,Election Day Edge  Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,7,7,0,0,0,338,0,0,0
+CON DIST 8,Election Day Edge Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,7,7,0,0,0,338,0,0,0
 CON DIST 8,"SANTORUM, RICK",1,1,0,4,4,1,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,65,7,7,1,1,1,91746,0,107,207
 CON DIST 8,"COOK, TIM",1,1,0,4,4,2,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,24,7,7,1,1,1,91746,0,107,207
 CON DIST 8,"PAUL, RAND",1,1,0,4,4,3,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,271,7,7,1,1,1,91746,0,107,207
@@ -296,23 +296,23 @@ CON DIST 8,"STEIN, JILL",3,3,0,6,6,2,GRN - GREEN PARTY PRESIDENTIAL PREFERENCE,4
 CON DIST 9,Election Day Paper Turnout,,,-2,0,-100,1,Registration & Turnout,13649,8,8,0,0,0,227276,0,0,0
 CON DIST 9,Early Voting Paper Turnout,,,-2,0,-100,2,Registration & Turnout,98453,8,8,0,0,0,227276,0,0,0
 CON DIST 9,Early Voting Edge Turnout,,,-2,0,-100,3,Registration & Turnout,0,8,8,0,0,0,227276,0,0,0
-CON DIST 9,Election Day Edge  Turnout,,,-2,0,-100,4,Registration & Turnout,11,8,8,0,0,0,227276,0,0,0
+CON DIST 9,Election Day Edge Turnout,,,-2,0,-100,4,Registration & Turnout,11,8,8,0,0,0,227276,0,0,0
 CON DIST 9,Election Day Paper Turnout,,,-1,-90,-89,1,Nonpartisan Registration & Turnout,0,8,8,0,0,0,0,0,0,0
 CON DIST 9,Early Voting Paper Turnout,,,-1,-90,-89,2,Nonpartisan Registration & Turnout,0,8,8,0,0,0,0,0,0,0
 CON DIST 9,Early Voting Edge Turnout,,,-1,-90,-89,3,Nonpartisan Registration & Turnout,0,8,8,0,0,0,0,0,0,0
-CON DIST 9,Election Day Edge  Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,8,8,0,0,0,0,0,0,0
+CON DIST 9,Election Day Edge Turnout,,,-1,-90,-89,4,Nonpartisan Registration & Turnout,0,8,8,0,0,0,0,0,0,0
 CON DIST 9,Election Day Paper Turnout,,,-1,-89,-88,1,REP Registration & Turnout,6689,8,8,0,0,0,115323,0,0,0
 CON DIST 9,Early Voting Paper Turnout,,,-1,-89,-88,2,REP Registration & Turnout,49778,8,8,0,0,0,115323,0,0,0
 CON DIST 9,Early Voting Edge Turnout,,,-1,-89,-88,3,REP Registration & Turnout,0,8,8,0,0,0,115323,0,0,0
-CON DIST 9,Election Day Edge  Turnout,,,-1,-89,-88,4,REP Registration & Turnout,6,8,8,0,0,0,115323,0,0,0
+CON DIST 9,Election Day Edge Turnout,,,-1,-89,-88,4,REP Registration & Turnout,6,8,8,0,0,0,115323,0,0,0
 CON DIST 9,Election Day Paper Turnout,,,-1,-88,-87,1,DEM Registration & Turnout,6942,8,8,0,0,0,111345,0,0,0
 CON DIST 9,Early Voting Paper Turnout,,,-1,-88,-87,2,DEM Registration & Turnout,48593,8,8,0,0,0,111345,0,0,0
 CON DIST 9,Early Voting Edge Turnout,,,-1,-88,-87,3,DEM Registration & Turnout,0,8,8,0,0,0,111345,0,0,0
-CON DIST 9,Election Day Edge  Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,5,8,8,0,0,0,111345,0,0,0
+CON DIST 9,Election Day Edge Turnout,,,-1,-88,-87,4,DEM Registration & Turnout,5,8,8,0,0,0,111345,0,0,0
 CON DIST 9,Election Day Paper Turnout,,,-1,-87,-86,1,GRN Registration & Turnout,18,8,8,0,0,0,608,0,0,0
 CON DIST 9,Early Voting Paper Turnout,,,-1,-87,-86,2,GRN Registration & Turnout,82,8,8,0,0,0,608,0,0,0
 CON DIST 9,Early Voting Edge Turnout,,,-1,-87,-86,3,GRN Registration & Turnout,0,8,8,0,0,0,608,0,0,0
-CON DIST 9,Election Day Edge  Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,8,8,0,0,0,608,0,0,0
+CON DIST 9,Election Day Edge Turnout,,,-1,-87,-86,4,GRN Registration & Turnout,0,8,8,0,0,0,608,0,0,0
 CON DIST 9,"SANTORUM, RICK",1,1,0,4,4,1,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,48,8,8,1,1,1,56277,0,77,119
 CON DIST 9,"COOK, TIM",1,1,0,4,4,2,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,33,8,8,1,1,1,56277,0,77,119
 CON DIST 9,"PAUL, RAND",1,1,0,4,4,3,REP - REPUBLICAN PARTY PRESIDENTIAL PREFERENCE,323,8,8,1,1,1,56277,0,77,119
