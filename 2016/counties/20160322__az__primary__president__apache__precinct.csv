@@ -1,1 +1,1513 @@
-contest,precinct_name,contest_id,contest_name,choice,choice_name,number20,02 Alpine,999999,Race Statistics,999999,Number of Precincts,120,02 Alpine,999999,Race Statistics,999998,Number of Precincts Reporting,120,02 Alpine,10,President - Dem,999999,Number of Precincts for Race,120,02 Alpine,10,President - Dem,999998,Number of Precincts Reporting,120,02 Alpine,10,President - Dem,999997,Registered Voters,8020,02 Alpine,10,President - Dem,999996,Times Counted,4120,02 Alpine,10,President - Dem,10,"De La Fuente, Roque",020,02 Alpine,10,President - Dem,20,"Steinberg, Michael",120,02 Alpine,10,President - Dem,30,"Sanders, Bernie",2020,02 Alpine,10,President - Dem,40,"O'Malley, Martin J.",220,02 Alpine,10,President - Dem,50,"Clinton, Hillary",1520,02 Alpine,10,President - Dem,60,"Hewes, Henry",020,02 Alpine,20,President - Rep,999999,Number of Precincts for Race,120,02 Alpine,20,President - Rep,999998,Number of Precincts Reporting,120,02 Alpine,20,President - Rep,999997,Registered Voters,18120,02 Alpine,20,President - Rep,999996,Times Counted,10720,02 Alpine,20,President - Rep,10,"Santorum, Rick",020,02 Alpine,20,President - Rep,20,"Cook, Tim",020,02 Alpine,20,President - Rep,30,"Paul, Rand",020,02 Alpine,20,President - Rep,40,"Rubio, Marco",220,02 Alpine,20,President - Rep,50,"Graham, Lindsey",020,02 Alpine,20,President - Rep,60,"Kasich, John R.",1320,02 Alpine,20,President - Rep,70,"Bush, Jeb",020,02 Alpine,20,President - Rep,80,"Trump, Donald J.",5520,02 Alpine,20,President - Rep,90,"Fiorina, Carly",020,02 Alpine,20,President - Rep,100,"Pataki, George E.",020,02 Alpine,20,President - Rep,110,"Cruz, Ted",3720,02 Alpine,20,President - Rep,120,"Huckabee, Mike",020,02 Alpine,20,President - Rep,130,"Christie, Chris",020,02 Alpine,20,President - Rep,140,"Carson, Ben",020,02 Alpine,30,President - Gre,999999,Number of Precincts for Race,120,02 Alpine,30,President - Gre,999998,Number of Precincts Reporting,120,02 Alpine,30,President - Gre,999997,Registered Voters,020,02 Alpine,30,President - Gre,999996,Times Counted,020,02 Alpine,30,President - Gre,10,"Mesplay, Kent",020,02 Alpine,30,President - Gre,20,"Stein, Jill",030,03 Canyon De Chelly,999999,Race Statistics,999999,Number of Precincts,130,03 Canyon De Chelly,999999,Race Statistics,999998,Number of Precincts Reporting,130,03 Canyon De Chelly,10,President - Dem,999999,Number of Precincts for Race,130,03 Canyon De Chelly,10,President - Dem,999998,Number of Precincts Reporting,130,03 Canyon De Chelly,10,President - Dem,999997,Registered Voters,193930,03 Canyon De Chelly,10,President - Dem,999996,Times Counted,51530,03 Canyon De Chelly,10,President - Dem,10,"De La Fuente, Roque",330,03 Canyon De Chelly,10,President - Dem,20,"Steinberg, Michael",930,03 Canyon De Chelly,10,President - Dem,30,"Sanders, Bernie",14330,03 Canyon De Chelly,10,President - Dem,40,"O'Malley, Martin J.",430,03 Canyon De Chelly,10,President - Dem,50,"Clinton, Hillary",35130,03 Canyon De Chelly,10,President - Dem,60,"Hewes, Henry",430,03 Canyon De Chelly,20,President - Rep,999999,Number of Precincts for Race,130,03 Canyon De Chelly,20,President - Rep,999998,Number of Precincts Reporting,130,03 Canyon De Chelly,20,President - Rep,999997,Registered Voters,33030,03 Canyon De Chelly,20,President - Rep,999996,Times Counted,5330,03 Canyon De Chelly,20,President - Rep,10,"Santorum, Rick",030,03 Canyon De Chelly,20,President - Rep,20,"Cook, Tim",130,03 Canyon De Chelly,20,President - Rep,30,"Paul, Rand",330,03 Canyon De Chelly,20,President - Rep,40,"Rubio, Marco",530,03 Canyon De Chelly,20,President - Rep,50,"Graham, Lindsey",130,03 Canyon De Chelly,20,President - Rep,60,"Kasich, John R.",030,03 Canyon De Chelly,20,President - Rep,70,"Bush, Jeb",230,03 Canyon De Chelly,20,President - Rep,80,"Trump, Donald J.",1330,03 Canyon De Chelly,20,President - Rep,90,"Fiorina, Carly",030,03 Canyon De Chelly,20,President - Rep,100,"Pataki, George E.",030,03 Canyon De Chelly,20,President - Rep,110,"Cruz, Ted",2230,03 Canyon De Chelly,20,President - Rep,120,"Huckabee, Mike",030,03 Canyon De Chelly,20,President - Rep,130,"Christie, Chris",330,03 Canyon De Chelly,20,President - Rep,140,"Carson, Ben",330,03 Canyon De Chelly,30,President - Gre,999999,Number of Precincts for Race,130,03 Canyon De Chelly,30,President - Gre,999998,Number of Precincts Reporting,130,03 Canyon De Chelly,30,President - Gre,999997,Registered Voters,130,03 Canyon De Chelly,30,President - Gre,999996,Times Counted,030,03 Canyon De Chelly,30,President - Gre,10,"Mesplay, Kent",030,03 Canyon De Chelly,30,President - Gre,20,"Stein, Jill",050,05 Chinle,999999,Race Statistics,999999,Number of Precincts,150,05 Chinle,999999,Race Statistics,999998,Number of Precincts Reporting,150,05 Chinle,10,President - Dem,999999,Number of Precincts for Race,150,05 Chinle,10,President - Dem,999998,Number of Precincts Reporting,150,05 Chinle,10,President - Dem,999997,Registered Voters,97950,05 Chinle,10,President - Dem,999996,Times Counted,26350,05 Chinle,10,President - Dem,10,"De La Fuente, Roque",050,05 Chinle,10,President - Dem,20,"Steinberg, Michael",150,05 Chinle,10,President - Dem,30,"Sanders, Bernie",7950,05 Chinle,10,President - Dem,40,"O'Malley, Martin J.",550,05 Chinle,10,President - Dem,50,"Clinton, Hillary",17850,05 Chinle,10,President - Dem,60,"Hewes, Henry",050,05 Chinle,20,President - Rep,999999,Number of Precincts for Race,150,05 Chinle,20,President - Rep,999998,Number of Precincts Reporting,150,05 Chinle,20,President - Rep,999997,Registered Voters,17950,05 Chinle,20,President - Rep,999996,Times Counted,4150,05 Chinle,20,President - Rep,10,"Santorum, Rick",150,05 Chinle,20,President - Rep,20,"Cook, Tim",050,05 Chinle,20,President - Rep,30,"Paul, Rand",050,05 Chinle,20,President - Rep,40,"Rubio, Marco",250,05 Chinle,20,President - Rep,50,"Graham, Lindsey",050,05 Chinle,20,President - Rep,60,"Kasich, John R.",750,05 Chinle,20,President - Rep,70,"Bush, Jeb",450,05 Chinle,20,President - Rep,80,"Trump, Donald J.",1350,05 Chinle,20,President - Rep,90,"Fiorina, Carly",050,05 Chinle,20,President - Rep,100,"Pataki, George E.",050,05 Chinle,20,President - Rep,110,"Cruz, Ted",1250,05 Chinle,20,President - Rep,120,"Huckabee, Mike",050,05 Chinle,20,President - Rep,130,"Christie, Chris",050,05 Chinle,20,President - Rep,140,"Carson, Ben",150,05 Chinle,30,President - Gre,999999,Number of Precincts for Race,150,05 Chinle,30,President - Gre,999998,Number of Precincts Reporting,150,05 Chinle,30,President - Gre,999997,Registered Voters,250,05 Chinle,30,President - Gre,999996,Times Counted,050,05 Chinle,30,President - Gre,10,"Mesplay, Kent",050,05 Chinle,30,President - Gre,20,"Stein, Jill",090,09 Concho ,999999,Race Statistics,999999,Number of Precincts,190,09 Concho ,999999,Race Statistics,999998,Number of Precincts Reporting,190,09 Concho ,10,President - Dem,999999,Number of Precincts for Race,190,09 Concho ,10,President - Dem,999998,Number of Precincts Reporting,190,09 Concho ,10,President - Dem,999997,Registered Voters,31290,09 Concho ,10,President - Dem,999996,Times Counted,12290,09 Concho ,10,President - Dem,10,"De La Fuente, Roque",390,09 Concho ,10,President - Dem,20,"Steinberg, Michael",190,09 Concho ,10,President - Dem,30,"Sanders, Bernie",7390,09 Concho ,10,President - Dem,40,"O'Malley, Martin J.",290,09 Concho ,10,President - Dem,50,"Clinton, Hillary",4290,09 Concho ,10,President - Dem,60,"Hewes, Henry",190,09 Concho ,20,President - Rep,999999,Number of Precincts for Race,190,09 Concho ,20,President - Rep,999998,Number of Precincts Reporting,190,09 Concho ,20,President - Rep,999997,Registered Voters,77490,09 Concho ,20,President - Rep,999996,Times Counted,47190,09 Concho ,20,President - Rep,10,"Santorum, Rick",090,09 Concho ,20,President - Rep,20,"Cook, Tim",090,09 Concho ,20,President - Rep,30,"Paul, Rand",090,09 Concho ,20,President - Rep,40,"Rubio, Marco",890,09 Concho ,20,President - Rep,50,"Graham, Lindsey",090,09 Concho ,20,President - Rep,60,"Kasich, John R.",1690,09 Concho ,20,President - Rep,70,"Bush, Jeb",090,09 Concho ,20,President - Rep,80,"Trump, Donald J.",28590,09 Concho ,20,President - Rep,90,"Fiorina, Carly",190,09 Concho ,20,President - Rep,100,"Pataki, George E.",090,09 Concho ,20,President - Rep,110,"Cruz, Ted",15790,09 Concho ,20,President - Rep,120,"Huckabee, Mike",090,09 Concho ,20,President - Rep,130,"Christie, Chris",090,09 Concho ,20,President - Rep,140,"Carson, Ben",490,09 Concho ,30,President - Gre,999999,Number of Precincts for Race,190,09 Concho ,30,President - Gre,999998,Number of Precincts Reporting,190,09 Concho ,30,President - Gre,999997,Registered Voters,590,09 Concho ,30,President - Gre,999996,Times Counted,490,09 Concho ,30,President - Gre,10,"Mesplay, Kent",090,09 Concho ,30,President - Gre,20,"Stein, Jill",4100,10 Cornfields,999999,Race Statistics,999999,Number of Precincts,1100,10 Cornfields,999999,Race Statistics,999998,Number of Precincts Reporting,1100,10 Cornfields,10,President - Dem,999999,Number of Precincts for Race,1100,10 Cornfields,10,President - Dem,999998,Number of Precincts Reporting,1100,10 Cornfields,10,President - Dem,999997,Registered Voters,540100,10 Cornfields,10,President - Dem,999996,Times Counted,190100,10 Cornfields,10,President - Dem,10,"De La Fuente, Roque",0100,10 Cornfields,10,President - Dem,20,"Steinberg, Michael",4100,10 Cornfields,10,President - Dem,30,"Sanders, Bernie",53100,10 Cornfields,10,President - Dem,40,"O'Malley, Martin J.",2100,10 Cornfields,10,President - Dem,50,"Clinton, Hillary",129100,10 Cornfields,10,President - Dem,60,"Hewes, Henry",2100,10 Cornfields,20,President - Rep,999999,Number of Precincts for Race,1100,10 Cornfields,20,President - Rep,999998,Number of Precincts Reporting,1100,10 Cornfields,20,President - Rep,999997,Registered Voters,53100,10 Cornfields,20,President - Rep,999996,Times Counted,12100,10 Cornfields,20,President - Rep,10,"Santorum, Rick",1100,10 Cornfields,20,President - Rep,20,"Cook, Tim",0100,10 Cornfields,20,President - Rep,30,"Paul, Rand",0100,10 Cornfields,20,President - Rep,40,"Rubio, Marco",1100,10 Cornfields,20,President - Rep,50,"Graham, Lindsey",0100,10 Cornfields,20,President - Rep,60,"Kasich, John R.",2100,10 Cornfields,20,President - Rep,70,"Bush, Jeb",0100,10 Cornfields,20,President - Rep,80,"Trump, Donald J.",1100,10 Cornfields,20,President - Rep,90,"Fiorina, Carly",0100,10 Cornfields,20,President - Rep,100,"Pataki, George E.",0100,10 Cornfields,20,President - Rep,110,"Cruz, Ted",5100,10 Cornfields,20,President - Rep,120,"Huckabee, Mike",1100,10 Cornfields,20,President - Rep,130,"Christie, Chris",0100,10 Cornfields,20,President - Rep,140,"Carson, Ben",1100,10 Cornfields,30,President - Gre,999999,Number of Precincts for Race,1100,10 Cornfields,30,President - Gre,999998,Number of Precincts Reporting,1100,10 Cornfields,30,President - Gre,999997,Registered Voters,0100,10 Cornfields,30,President - Gre,999996,Times Counted,0100,10 Cornfields,30,President - Gre,10,"Mesplay, Kent",0100,10 Cornfields,30,President - Gre,20,"Stein, Jill",0110,11 Cottonwood,999999,Race Statistics,999999,Number of Precincts,1110,11 Cottonwood,999999,Race Statistics,999998,Number of Precincts Reporting,1110,11 Cottonwood,10,President - Dem,999999,Number of Precincts for Race,1110,11 Cottonwood,10,President - Dem,999998,Number of Precincts Reporting,1110,11 Cottonwood,10,President - Dem,999997,Registered Voters,822110,11 Cottonwood,10,President - Dem,999996,Times Counted,265110,11 Cottonwood,10,President - Dem,10,"De La Fuente, Roque",0110,11 Cottonwood,10,President - Dem,20,"Steinberg, Michael",8110,11 Cottonwood,10,President - Dem,30,"Sanders, Bernie",52110,11 Cottonwood,10,President - Dem,40,"O'Malley, Martin J.",1110,11 Cottonwood,10,President - Dem,50,"Clinton, Hillary",202110,11 Cottonwood,10,President - Dem,60,"Hewes, Henry",1110,11 Cottonwood,20,President - Rep,999999,Number of Precincts for Race,1110,11 Cottonwood,20,President - Rep,999998,Number of Precincts Reporting,1110,11 Cottonwood,20,President - Rep,999997,Registered Voters,84110,11 Cottonwood,20,President - Rep,999996,Times Counted,18110,11 Cottonwood,20,President - Rep,10,"Santorum, Rick",1110,11 Cottonwood,20,President - Rep,20,"Cook, Tim",0110,11 Cottonwood,20,President - Rep,30,"Paul, Rand",0110,11 Cottonwood,20,President - Rep,40,"Rubio, Marco",0110,11 Cottonwood,20,President - Rep,50,"Graham, Lindsey",0110,11 Cottonwood,20,President - Rep,60,"Kasich, John R.",0110,11 Cottonwood,20,President - Rep,70,"Bush, Jeb",2110,11 Cottonwood,20,President - Rep,80,"Trump, Donald J.",4110,11 Cottonwood,20,President - Rep,90,"Fiorina, Carly",1110,11 Cottonwood,20,President - Rep,100,"Pataki, George E.",0110,11 Cottonwood,20,President - Rep,110,"Cruz, Ted",6110,11 Cottonwood,20,President - Rep,120,"Huckabee, Mike",0110,11 Cottonwood,20,President - Rep,130,"Christie, Chris",3110,11 Cottonwood,20,President - Rep,140,"Carson, Ben",0110,11 Cottonwood,30,President - Gre,999999,Number of Precincts for Race,1110,11 Cottonwood,30,President - Gre,999998,Number of Precincts Reporting,1110,11 Cottonwood,30,President - Gre,999997,Registered Voters,0110,11 Cottonwood,30,President - Gre,999996,Times Counted,0110,11 Cottonwood,30,President - Gre,10,"Mesplay, Kent",0110,11 Cottonwood,30,President - Gre,20,"Stein, Jill",0130,13 Dennehotso,999999,Race Statistics,999999,Number of Precincts,1130,13 Dennehotso,999999,Race Statistics,999998,Number of Precincts Reporting,1130,13 Dennehotso,10,President - Dem,999999,Number of Precincts for Race,1130,13 Dennehotso,10,President - Dem,999998,Number of Precincts Reporting,1130,13 Dennehotso,10,President - Dem,999997,Registered Voters,626130,13 Dennehotso,10,President - Dem,999996,Times Counted,172130,13 Dennehotso,10,President - Dem,10,"De La Fuente, Roque",1130,13 Dennehotso,10,President - Dem,20,"Steinberg, Michael",1130,13 Dennehotso,10,President - Dem,30,"Sanders, Bernie",29130,13 Dennehotso,10,President - Dem,40,"O'Malley, Martin J.",3130,13 Dennehotso,10,President - Dem,50,"Clinton, Hillary",135130,13 Dennehotso,10,President - Dem,60,"Hewes, Henry",3130,13 Dennehotso,20,President - Rep,999999,Number of Precincts for Race,1130,13 Dennehotso,20,President - Rep,999998,Number of Precincts Reporting,1130,13 Dennehotso,20,President - Rep,999997,Registered Voters,135130,13 Dennehotso,20,President - Rep,999996,Times Counted,34130,13 Dennehotso,20,President - Rep,10,"Santorum, Rick",1130,13 Dennehotso,20,President - Rep,20,"Cook, Tim",1130,13 Dennehotso,20,President - Rep,30,"Paul, Rand",1130,13 Dennehotso,20,President - Rep,40,"Rubio, Marco",0130,13 Dennehotso,20,President - Rep,50,"Graham, Lindsey",1130,13 Dennehotso,20,President - Rep,60,"Kasich, John R.",2130,13 Dennehotso,20,President - Rep,70,"Bush, Jeb",6130,13 Dennehotso,20,President - Rep,80,"Trump, Donald J.",5130,13 Dennehotso,20,President - Rep,90,"Fiorina, Carly",1130,13 Dennehotso,20,President - Rep,100,"Pataki, George E.",0130,13 Dennehotso,20,President - Rep,110,"Cruz, Ted",10130,13 Dennehotso,20,President - Rep,120,"Huckabee, Mike",1130,13 Dennehotso,20,President - Rep,130,"Christie, Chris",3130,13 Dennehotso,20,President - Rep,140,"Carson, Ben",2130,13 Dennehotso,30,President - Gre,999999,Number of Precincts for Race,1130,13 Dennehotso,30,President - Gre,999998,Number of Precincts Reporting,1130,13 Dennehotso,30,President - Gre,999997,Registered Voters,0130,13 Dennehotso,30,President - Gre,999996,Times Counted,0130,13 Dennehotso,30,President - Gre,10,"Mesplay, Kent",0130,13 Dennehotso,30,President - Gre,20,"Stein, Jill",0160,16 Eagar & 17 Flat Top,999999,Race Statistics,999999,Number of Precincts,1160,16 Eagar & 17 Flat Top,999999,Race Statistics,999998,Number of Precincts Reporting,1160,16 Eagar & 17 Flat Top,10,President - Dem,999999,Number of Precincts for Race,1160,16 Eagar & 17 Flat Top,10,President - Dem,999998,Number of Precincts Reporting,1160,16 Eagar & 17 Flat Top,10,President - Dem,999997,Registered Voters,393160,16 Eagar & 17 Flat Top,10,President - Dem,999996,Times Counted,154160,16 Eagar & 17 Flat Top,10,President - Dem,10,"De La Fuente, Roque",3160,16 Eagar & 17 Flat Top,10,President - Dem,20,"Steinberg, Michael",4160,16 Eagar & 17 Flat Top,10,President - Dem,30,"Sanders, Bernie",78160,16 Eagar & 17 Flat Top,10,President - Dem,40,"O'Malley, Martin J.",7160,16 Eagar & 17 Flat Top,10,President - Dem,50,"Clinton, Hillary",49160,16 Eagar & 17 Flat Top,10,President - Dem,60,"Hewes, Henry",10160,16 Eagar & 17 Flat Top,20,President - Rep,999999,Number of Precincts for Race,1160,16 Eagar & 17 Flat Top,20,President - Rep,999998,Number of Precincts Reporting,1160,16 Eagar & 17 Flat Top,20,President - Rep,999997,Registered Voters,1025160,16 Eagar & 17 Flat Top,20,President - Rep,999996,Times Counted,577160,16 Eagar & 17 Flat Top,20,President - Rep,10,"Santorum, Rick",0160,16 Eagar & 17 Flat Top,20,President - Rep,20,"Cook, Tim",0160,16 Eagar & 17 Flat Top,20,President - Rep,30,"Paul, Rand",3160,16 Eagar & 17 Flat Top,20,President - Rep,40,"Rubio, Marco",24160,16 Eagar & 17 Flat Top,20,President - Rep,50,"Graham, Lindsey",0160,16 Eagar & 17 Flat Top,20,President - Rep,60,"Kasich, John R.",48160,16 Eagar & 17 Flat Top,20,President - Rep,70,"Bush, Jeb",5160,16 Eagar & 17 Flat Top,20,President - Rep,80,"Trump, Donald J.",211160,16 Eagar & 17 Flat Top,20,President - Rep,90,"Fiorina, Carly",1160,16 Eagar & 17 Flat Top,20,President - Rep,100,"Pataki, George E.",0160,16 Eagar & 17 Flat Top,20,President - Rep,110,"Cruz, Ted",272160,16 Eagar & 17 Flat Top,20,President - Rep,120,"Huckabee, Mike",0160,16 Eagar & 17 Flat Top,20,President - Rep,130,"Christie, Chris",0160,16 Eagar & 17 Flat Top,20,President - Rep,140,"Carson, Ben",13160,16 Eagar & 17 Flat Top,30,President - Gre,999999,Number of Precincts for Race,1160,16 Eagar & 17 Flat Top,30,President - Gre,999998,Number of Precincts Reporting,1160,16 Eagar & 17 Flat Top,30,President - Gre,999997,Registered Voters,1160,16 Eagar & 17 Flat Top,30,President - Gre,999996,Times Counted,0160,16 Eagar & 17 Flat Top,30,President - Gre,10,"Mesplay, Kent",0160,16 Eagar & 17 Flat Top,30,President - Gre,20,"Stein, Jill",0190,19 Fort Defiance,999999,Race Statistics,999999,Number of Precincts,1190,19 Fort Defiance,999999,Race Statistics,999998,Number of Precincts Reporting,1190,19 Fort Defiance,10,President - Dem,999999,Number of Precincts for Race,1190,19 Fort Defiance,10,President - Dem,999998,Number of Precincts Reporting,1190,19 Fort Defiance,10,President - Dem,999997,Registered Voters,1749190,19 Fort Defiance,10,President - Dem,999996,Times Counted,607190,19 Fort Defiance,10,President - Dem,10,"De La Fuente, Roque",7190,19 Fort Defiance,10,President - Dem,20,"Steinberg, Michael",5190,19 Fort Defiance,10,President - Dem,30,"Sanders, Bernie",218190,19 Fort Defiance,10,President - Dem,40,"O'Malley, Martin J.",8190,19 Fort Defiance,10,President - Dem,50,"Clinton, Hillary",365190,19 Fort Defiance,10,President - Dem,60,"Hewes, Henry",3190,19 Fort Defiance,20,President - Rep,999999,Number of Precincts for Race,1190,19 Fort Defiance,20,President - Rep,999998,Number of Precincts Reporting,1190,19 Fort Defiance,20,President - Rep,999997,Registered Voters,390190,19 Fort Defiance,20,President - Rep,999996,Times Counted,116190,19 Fort Defiance,20,President - Rep,10,"Santorum, Rick",1190,19 Fort Defiance,20,President - Rep,20,"Cook, Tim",1190,19 Fort Defiance,20,President - Rep,30,"Paul, Rand",2190,19 Fort Defiance,20,President - Rep,40,"Rubio, Marco",7190,19 Fort Defiance,20,President - Rep,50,"Graham, Lindsey",0190,19 Fort Defiance,20,President - Rep,60,"Kasich, John R.",8190,19 Fort Defiance,20,President - Rep,70,"Bush, Jeb",6190,19 Fort Defiance,20,President - Rep,80,"Trump, Donald J.",28190,19 Fort Defiance,20,President - Rep,90,"Fiorina, Carly",1190,19 Fort Defiance,20,President - Rep,100,"Pataki, George E.",1190,19 Fort Defiance,20,President - Rep,110,"Cruz, Ted",52190,19 Fort Defiance,20,President - Rep,120,"Huckabee, Mike",2190,19 Fort Defiance,20,President - Rep,130,"Christie, Chris",1190,19 Fort Defiance,20,President - Rep,140,"Carson, Ben",5190,19 Fort Defiance,30,President - Gre,999999,Number of Precincts for Race,1190,19 Fort Defiance,30,President - Gre,999998,Number of Precincts Reporting,1190,19 Fort Defiance,30,President - Gre,999997,Registered Voters,3190,19 Fort Defiance,30,President - Gre,999996,Times Counted,1190,19 Fort Defiance,30,President - Gre,10,"Mesplay, Kent",0190,19 Fort Defiance,30,President - Gre,20,"Stein, Jill",1220,22 Ganado North,999999,Race Statistics,999999,Number of Precincts,1220,22 Ganado North,999999,Race Statistics,999998,Number of Precincts Reporting,1220,22 Ganado North,10,President - Dem,999999,Number of Precincts for Race,1220,22 Ganado North,10,President - Dem,999998,Number of Precincts Reporting,1220,22 Ganado North,10,President - Dem,999997,Registered Voters,505220,22 Ganado North,10,President - Dem,999996,Times Counted,162220,22 Ganado North,10,President - Dem,10,"De La Fuente, Roque",2220,22 Ganado North,10,President - Dem,20,"Steinberg, Michael",2220,22 Ganado North,10,President - Dem,30,"Sanders, Bernie",34220,22 Ganado North,10,President - Dem,40,"O'Malley, Martin J.",3220,22 Ganado North,10,President - Dem,50,"Clinton, Hillary",120220,22 Ganado North,10,President - Dem,60,"Hewes, Henry",0220,22 Ganado North,20,President - Rep,999999,Number of Precincts for Race,1220,22 Ganado North,20,President - Rep,999998,Number of Precincts Reporting,1220,22 Ganado North,20,President - Rep,999997,Registered Voters,63220,22 Ganado North,20,President - Rep,999996,Times Counted,6220,22 Ganado North,20,President - Rep,10,"Santorum, Rick",0220,22 Ganado North,20,President - Rep,20,"Cook, Tim",0220,22 Ganado North,20,President - Rep,30,"Paul, Rand",0220,22 Ganado North,20,President - Rep,40,"Rubio, Marco",0220,22 Ganado North,20,President - Rep,50,"Graham, Lindsey",0220,22 Ganado North,20,President - Rep,60,"Kasich, John R.",0220,22 Ganado North,20,President - Rep,70,"Bush, Jeb",0220,22 Ganado North,20,President - Rep,80,"Trump, Donald J.",3220,22 Ganado North,20,President - Rep,90,"Fiorina, Carly",0220,22 Ganado North,20,President - Rep,100,"Pataki, George E.",0220,22 Ganado North,20,President - Rep,110,"Cruz, Ted",3220,22 Ganado North,20,President - Rep,120,"Huckabee, Mike",0220,22 Ganado North,20,President - Rep,130,"Christie, Chris",0220,22 Ganado North,20,President - Rep,140,"Carson, Ben",0220,22 Ganado North,30,President - Gre,999999,Number of Precincts for Race,1220,22 Ganado North,30,President - Gre,999998,Number of Precincts Reporting,1220,22 Ganado North,30,President - Gre,999997,Registered Voters,1220,22 Ganado North,30,President - Gre,999996,Times Counted,0220,22 Ganado North,30,President - Gre,10,"Mesplay, Kent",0220,22 Ganado North,30,President - Gre,20,"Stein, Jill",0230,23 Ganado South,999999,Race Statistics,999999,Number of Precincts,1230,23 Ganado South,999999,Race Statistics,999998,Number of Precincts Reporting,1230,23 Ganado South,10,President - Dem,999999,Number of Precincts for Race,1230,23 Ganado South,10,President - Dem,999998,Number of Precincts Reporting,1230,23 Ganado South,10,President - Dem,999997,Registered Voters,809230,23 Ganado South,10,President - Dem,999996,Times Counted,234230,23 Ganado South,10,President - Dem,10,"De La Fuente, Roque",1230,23 Ganado South,10,President - Dem,20,"Steinberg, Michael",5230,23 Ganado South,10,President - Dem,30,"Sanders, Bernie",59230,23 Ganado South,10,President - Dem,40,"O'Malley, Martin J.",0230,23 Ganado South,10,President - Dem,50,"Clinton, Hillary",167230,23 Ganado South,10,President - Dem,60,"Hewes, Henry",2230,23 Ganado South,20,President - Rep,999999,Number of Precincts for Race,1230,23 Ganado South,20,President - Rep,999998,Number of Precincts Reporting,1230,23 Ganado South,20,President - Rep,999997,Registered Voters,111230,23 Ganado South,20,President - Rep,999996,Times Counted,20230,23 Ganado South,20,President - Rep,10,"Santorum, Rick",0230,23 Ganado South,20,President - Rep,20,"Cook, Tim",0230,23 Ganado South,20,President - Rep,30,"Paul, Rand",0230,23 Ganado South,20,President - Rep,40,"Rubio, Marco",1230,23 Ganado South,20,President - Rep,50,"Graham, Lindsey",0230,23 Ganado South,20,President - Rep,60,"Kasich, John R.",2230,23 Ganado South,20,President - Rep,70,"Bush, Jeb",1230,23 Ganado South,20,President - Rep,80,"Trump, Donald J.",6230,23 Ganado South,20,President - Rep,90,"Fiorina, Carly",0230,23 Ganado South,20,President - Rep,100,"Pataki, George E.",0230,23 Ganado South,20,President - Rep,110,"Cruz, Ted",9230,23 Ganado South,20,President - Rep,120,"Huckabee, Mike",0230,23 Ganado South,20,President - Rep,130,"Christie, Chris",0230,23 Ganado South,20,President - Rep,140,"Carson, Ben",0230,23 Ganado South,30,President - Gre,999999,Number of Precincts for Race,1230,23 Ganado South,30,President - Gre,999998,Number of Precincts Reporting,1230,23 Ganado South,30,President - Gre,999997,Registered Voters,0230,23 Ganado South,30,President - Gre,999996,Times Counted,0230,23 Ganado South,30,President - Gre,10,"Mesplay, Kent",0230,23 Ganado South,30,President - Gre,20,"Stein, Jill",0250,25 Greer,999999,Race Statistics,999999,Number of Precincts,1250,25 Greer,999999,Race Statistics,999998,Number of Precincts Reporting,1250,25 Greer,10,President - Dem,999999,Number of Precincts for Race,1250,25 Greer,10,President - Dem,999998,Number of Precincts Reporting,1250,25 Greer,10,President - Dem,999997,Registered Voters,34250,25 Greer,10,President - Dem,999996,Times Counted,17250,25 Greer,10,President - Dem,10,"De La Fuente, Roque",1250,25 Greer,10,President - Dem,20,"Steinberg, Michael",0250,25 Greer,10,President - Dem,30,"Sanders, Bernie",9250,25 Greer,10,President - Dem,40,"O'Malley, Martin J.",0250,25 Greer,10,President - Dem,50,"Clinton, Hillary",7250,25 Greer,10,President - Dem,60,"Hewes, Henry",0250,25 Greer,20,President - Rep,999999,Number of Precincts for Race,1250,25 Greer,20,President - Rep,999998,Number of Precincts Reporting,1250,25 Greer,20,President - Rep,999997,Registered Voters,72250,25 Greer,20,President - Rep,999996,Times Counted,41250,25 Greer,20,President - Rep,10,"Santorum, Rick",0250,25 Greer,20,President - Rep,20,"Cook, Tim",0250,25 Greer,20,President - Rep,30,"Paul, Rand",0250,25 Greer,20,President - Rep,40,"Rubio, Marco",0250,25 Greer,20,President - Rep,50,"Graham, Lindsey",0250,25 Greer,20,President - Rep,60,"Kasich, John R.",5250,25 Greer,20,President - Rep,70,"Bush, Jeb",0250,25 Greer,20,President - Rep,80,"Trump, Donald J.",23250,25 Greer,20,President - Rep,90,"Fiorina, Carly",0250,25 Greer,20,President - Rep,100,"Pataki, George E.",0250,25 Greer,20,President - Rep,110,"Cruz, Ted",13250,25 Greer,20,President - Rep,120,"Huckabee, Mike",0250,25 Greer,20,President - Rep,130,"Christie, Chris",0250,25 Greer,20,President - Rep,140,"Carson, Ben",0250,25 Greer,30,President - Gre,999999,Number of Precincts for Race,1250,25 Greer,30,President - Gre,999998,Number of Precincts Reporting,1250,25 Greer,30,President - Gre,999997,Registered Voters,0250,25 Greer,30,President - Gre,999996,Times Counted,0250,25 Greer,30,President - Gre,10,"Mesplay, Kent",0250,25 Greer,30,President - Gre,20,"Stein, Jill",0270,27 Houck,999999,Race Statistics,999999,Number of Precincts,1270,27 Houck,999999,Race Statistics,999998,Number of Precincts Reporting,1270,27 Houck,10,President - Dem,999999,Number of Precincts for Race,1270,27 Houck,10,President - Dem,999998,Number of Precincts Reporting,1270,27 Houck,10,President - Dem,999997,Registered Voters,776270,27 Houck,10,President - Dem,999996,Times Counted,250270,27 Houck,10,President - Dem,10,"De La Fuente, Roque",4270,27 Houck,10,President - Dem,20,"Steinberg, Michael",3270,27 Houck,10,President - Dem,30,"Sanders, Bernie",72270,27 Houck,10,President - Dem,40,"O'Malley, Martin J.",2270,27 Houck,10,President - Dem,50,"Clinton, Hillary",162270,27 Houck,10,President - Dem,60,"Hewes, Henry",5270,27 Houck,20,President - Rep,999999,Number of Precincts for Race,1270,27 Houck,20,President - Rep,999998,Number of Precincts Reporting,1270,27 Houck,20,President - Rep,999997,Registered Voters,115270,27 Houck,20,President - Rep,999996,Times Counted,26270,27 Houck,20,President - Rep,10,"Santorum, Rick",0270,27 Houck,20,President - Rep,20,"Cook, Tim",0270,27 Houck,20,President - Rep,30,"Paul, Rand",0270,27 Houck,20,President - Rep,40,"Rubio, Marco",1270,27 Houck,20,President - Rep,50,"Graham, Lindsey",1270,27 Houck,20,President - Rep,60,"Kasich, John R.",0270,27 Houck,20,President - Rep,70,"Bush, Jeb",1270,27 Houck,20,President - Rep,80,"Trump, Donald J.",7270,27 Houck,20,President - Rep,90,"Fiorina, Carly",0270,27 Houck,20,President - Rep,100,"Pataki, George E.",0270,27 Houck,20,President - Rep,110,"Cruz, Ted",14270,27 Houck,20,President - Rep,120,"Huckabee, Mike",0270,27 Houck,20,President - Rep,130,"Christie, Chris",0270,27 Houck,20,President - Rep,140,"Carson, Ben",2270,27 Houck,30,President - Gre,999999,Number of Precincts for Race,1270,27 Houck,30,President - Gre,999998,Number of Precincts Reporting,1270,27 Houck,30,President - Gre,999997,Registered Voters,3270,27 Houck,30,President - Gre,999996,Times Counted,0270,27 Houck,30,President - Gre,10,"Mesplay, Kent",0270,27 Houck,30,President - Gre,20,"Stein, Jill",0290,29 Kinlichee,999999,Race Statistics,999999,Number of Precincts,1290,29 Kinlichee,999999,Race Statistics,999998,Number of Precincts Reporting,1290,29 Kinlichee,10,President - Dem,999999,Number of Precincts for Race,1290,29 Kinlichee,10,President - Dem,999998,Number of Precincts Reporting,1290,29 Kinlichee,10,President - Dem,999997,Registered Voters,724290,29 Kinlichee,10,President - Dem,999996,Times Counted,265290,29 Kinlichee,10,President - Dem,10,"De La Fuente, Roque",1290,29 Kinlichee,10,President - Dem,20,"Steinberg, Michael",5290,29 Kinlichee,10,President - Dem,30,"Sanders, Bernie",61290,29 Kinlichee,10,President - Dem,40,"O'Malley, Martin J.",2290,29 Kinlichee,10,President - Dem,50,"Clinton, Hillary",192290,29 Kinlichee,10,President - Dem,60,"Hewes, Henry",2290,29 Kinlichee,20,President - Rep,999999,Number of Precincts for Race,1290,29 Kinlichee,20,President - Rep,999998,Number of Precincts Reporting,1290,29 Kinlichee,20,President - Rep,999997,Registered Voters,61290,29 Kinlichee,20,President - Rep,999996,Times Counted,12290,29 Kinlichee,20,President - Rep,10,"Santorum, Rick",0290,29 Kinlichee,20,President - Rep,20,"Cook, Tim",1290,29 Kinlichee,20,President - Rep,30,"Paul, Rand",0290,29 Kinlichee,20,President - Rep,40,"Rubio, Marco",0290,29 Kinlichee,20,President - Rep,50,"Graham, Lindsey",1290,29 Kinlichee,20,President - Rep,60,"Kasich, John R.",0290,29 Kinlichee,20,President - Rep,70,"Bush, Jeb",1290,29 Kinlichee,20,President - Rep,80,"Trump, Donald J.",2290,29 Kinlichee,20,President - Rep,90,"Fiorina, Carly",0290,29 Kinlichee,20,President - Rep,100,"Pataki, George E.",0290,29 Kinlichee,20,President - Rep,110,"Cruz, Ted",2290,29 Kinlichee,20,President - Rep,120,"Huckabee, Mike",0290,29 Kinlichee,20,President - Rep,130,"Christie, Chris",2290,29 Kinlichee,20,President - Rep,140,"Carson, Ben",2290,29 Kinlichee,30,President - Gre,999999,Number of Precincts for Race,1290,29 Kinlichee,30,President - Gre,999998,Number of Precincts Reporting,1290,29 Kinlichee,30,President - Gre,999997,Registered Voters,1290,29 Kinlichee,30,President - Gre,999996,Times Counted,0290,29 Kinlichee,30,President - Gre,10,"Mesplay, Kent",0290,29 Kinlichee,30,President - Gre,20,"Stein, Jill",0310,31 Klagetoh,999999,Race Statistics,999999,Number of Precincts,1310,31 Klagetoh,999999,Race Statistics,999998,Number of Precincts Reporting,1310,31 Klagetoh,10,President - Dem,999999,Number of Precincts for Race,1310,31 Klagetoh,10,President - Dem,999998,Number of Precincts Reporting,1310,31 Klagetoh,10,President - Dem,999997,Registered Voters,600310,31 Klagetoh,10,President - Dem,999996,Times Counted,196310,31 Klagetoh,10,President - Dem,10,"De La Fuente, Roque",3310,31 Klagetoh,10,President - Dem,20,"Steinberg, Michael",3310,31 Klagetoh,10,President - Dem,30,"Sanders, Bernie",55310,31 Klagetoh,10,President - Dem,40,"O'Malley, Martin J.",4310,31 Klagetoh,10,President - Dem,50,"Clinton, Hillary",129310,31 Klagetoh,10,President - Dem,60,"Hewes, Henry",1310,31 Klagetoh,20,President - Rep,999999,Number of Precincts for Race,1310,31 Klagetoh,20,President - Rep,999998,Number of Precincts Reporting,1310,31 Klagetoh,20,President - Rep,999997,Registered Voters,93310,31 Klagetoh,20,President - Rep,999996,Times Counted,19310,31 Klagetoh,20,President - Rep,10,"Santorum, Rick",0310,31 Klagetoh,20,President - Rep,20,"Cook, Tim",0310,31 Klagetoh,20,President - Rep,30,"Paul, Rand",0310,31 Klagetoh,20,President - Rep,40,"Rubio, Marco",1310,31 Klagetoh,20,President - Rep,50,"Graham, Lindsey",0310,31 Klagetoh,20,President - Rep,60,"Kasich, John R.",0310,31 Klagetoh,20,President - Rep,70,"Bush, Jeb",1310,31 Klagetoh,20,President - Rep,80,"Trump, Donald J.",5310,31 Klagetoh,20,President - Rep,90,"Fiorina, Carly",1310,31 Klagetoh,20,President - Rep,100,"Pataki, George E.",0310,31 Klagetoh,20,President - Rep,110,"Cruz, Ted",6310,31 Klagetoh,20,President - Rep,120,"Huckabee, Mike",1310,31 Klagetoh,20,President - Rep,130,"Christie, Chris",0310,31 Klagetoh,20,President - Rep,140,"Carson, Ben",3310,31 Klagetoh,30,President - Gre,999999,Number of Precincts for Race,1310,31 Klagetoh,30,President - Gre,999998,Number of Precincts Reporting,1310,31 Klagetoh,30,President - Gre,999997,Registered Voters,0310,31 Klagetoh,30,President - Gre,999996,Times Counted,0310,31 Klagetoh,30,President - Gre,10,"Mesplay, Kent",0310,31 Klagetoh,30,President - Gre,20,"Stein, Jill",0330,33 Lukachukai,999999,Race Statistics,999999,Number of Precincts,1330,33 Lukachukai,999999,Race Statistics,999998,Number of Precincts Reporting,1330,33 Lukachukai,10,President - Dem,999999,Number of Precincts for Race,1330,33 Lukachukai,10,President - Dem,999998,Number of Precincts Reporting,1330,33 Lukachukai,10,President - Dem,999997,Registered Voters,1183330,33 Lukachukai,10,President - Dem,999996,Times Counted,225330,33 Lukachukai,10,President - Dem,10,"De La Fuente, Roque",1330,33 Lukachukai,10,President - Dem,20,"Steinberg, Michael",1330,33 Lukachukai,10,President - Dem,30,"Sanders, Bernie",40330,33 Lukachukai,10,President - Dem,40,"O'Malley, Martin J.",5330,33 Lukachukai,10,President - Dem,50,"Clinton, Hillary",175330,33 Lukachukai,10,President - Dem,60,"Hewes, Henry",2330,33 Lukachukai,20,President - Rep,999999,Number of Precincts for Race,1330,33 Lukachukai,20,President - Rep,999998,Number of Precincts Reporting,1330,33 Lukachukai,20,President - Rep,999997,Registered Voters,86330,33 Lukachukai,20,President - Rep,999996,Times Counted,13330,33 Lukachukai,20,President - Rep,10,"Santorum, Rick",0330,33 Lukachukai,20,President - Rep,20,"Cook, Tim",0330,33 Lukachukai,20,President - Rep,30,"Paul, Rand",0330,33 Lukachukai,20,President - Rep,40,"Rubio, Marco",2330,33 Lukachukai,20,President - Rep,50,"Graham, Lindsey",2330,33 Lukachukai,20,President - Rep,60,"Kasich, John R.",1330,33 Lukachukai,20,President - Rep,70,"Bush, Jeb",1330,33 Lukachukai,20,President - Rep,80,"Trump, Donald J.",2330,33 Lukachukai,20,President - Rep,90,"Fiorina, Carly",0330,33 Lukachukai,20,President - Rep,100,"Pataki, George E.",0330,33 Lukachukai,20,President - Rep,110,"Cruz, Ted",5330,33 Lukachukai,20,President - Rep,120,"Huckabee, Mike",0330,33 Lukachukai,20,President - Rep,130,"Christie, Chris",0330,33 Lukachukai,20,President - Rep,140,"Carson, Ben",0330,33 Lukachukai,30,President - Gre,999999,Number of Precincts for Race,1330,33 Lukachukai,30,President - Gre,999998,Number of Precincts Reporting,1330,33 Lukachukai,30,President - Gre,999997,Registered Voters,1330,33 Lukachukai,30,President - Gre,999996,Times Counted,0330,33 Lukachukai,30,President - Gre,10,"Mesplay, Kent",0330,33 Lukachukai,30,President - Gre,20,"Stein, Jill",0350,35 Lupton,999999,Race Statistics,999999,Number of Precincts,1350,35 Lupton,999999,Race Statistics,999998,Number of Precincts Reporting,1350,35 Lupton,10,President - Dem,999999,Number of Precincts for Race,1350,35 Lupton,10,President - Dem,999998,Number of Precincts Reporting,1350,35 Lupton,10,President - Dem,999997,Registered Voters,491350,35 Lupton,10,President - Dem,999996,Times Counted,155350,35 Lupton,10,President - Dem,10,"De La Fuente, Roque",1350,35 Lupton,10,President - Dem,20,"Steinberg, Michael",1350,35 Lupton,10,President - Dem,30,"Sanders, Bernie",43350,35 Lupton,10,President - Dem,40,"O'Malley, Martin J.",1350,35 Lupton,10,President - Dem,50,"Clinton, Hillary",107350,35 Lupton,10,President - Dem,60,"Hewes, Henry",0350,35 Lupton,20,President - Rep,999999,Number of Precincts for Race,1350,35 Lupton,20,President - Rep,999998,Number of Precincts Reporting,1350,35 Lupton,20,President - Rep,999997,Registered Voters,65350,35 Lupton,20,President - Rep,999996,Times Counted,10350,35 Lupton,20,President - Rep,10,"Santorum, Rick",0350,35 Lupton,20,President - Rep,20,"Cook, Tim",0350,35 Lupton,20,President - Rep,30,"Paul, Rand",0350,35 Lupton,20,President - Rep,40,"Rubio, Marco",1350,35 Lupton,20,President - Rep,50,"Graham, Lindsey",0350,35 Lupton,20,President - Rep,60,"Kasich, John R.",0350,35 Lupton,20,President - Rep,70,"Bush, Jeb",1350,35 Lupton,20,President - Rep,80,"Trump, Donald J.",2350,35 Lupton,20,President - Rep,90,"Fiorina, Carly",1350,35 Lupton,20,President - Rep,100,"Pataki, George E.",0350,35 Lupton,20,President - Rep,110,"Cruz, Ted",4350,35 Lupton,20,President - Rep,120,"Huckabee, Mike",0350,35 Lupton,20,President - Rep,130,"Christie, Chris",0350,35 Lupton,20,President - Rep,140,"Carson, Ben",1350,35 Lupton,30,President - Gre,999999,Number of Precincts for Race,1350,35 Lupton,30,President - Gre,999998,Number of Precincts Reporting,1350,35 Lupton,30,President - Gre,999997,Registered Voters,1350,35 Lupton,30,President - Gre,999996,Times Counted,0350,35 Lupton,30,President - Gre,10,"Mesplay, Kent",0350,35 Lupton,30,President - Gre,20,"Stein, Jill",0370,37 McNary,999999,Race Statistics,999999,Number of Precincts,1370,37 McNary,999999,Race Statistics,999998,Number of Precincts Reporting,1370,37 McNary,10,President - Dem,999999,Number of Precincts for Race,1370,37 McNary,10,President - Dem,999998,Number of Precincts Reporting,1370,37 McNary,10,President - Dem,999997,Registered Voters,97370,37 McNary,10,President - Dem,999996,Times Counted,23370,37 McNary,10,President - Dem,10,"De La Fuente, Roque",0370,37 McNary,10,President - Dem,20,"Steinberg, Michael",0370,37 McNary,10,President - Dem,30,"Sanders, Bernie",3370,37 McNary,10,President - Dem,40,"O'Malley, Martin J.",0370,37 McNary,10,President - Dem,50,"Clinton, Hillary",19370,37 McNary,10,President - Dem,60,"Hewes, Henry",1370,37 McNary,20,President - Rep,999999,Number of Precincts for Race,1370,37 McNary,20,President - Rep,999998,Number of Precincts Reporting,1370,37 McNary,20,President - Rep,999997,Registered Voters,16370,37 McNary,20,President - Rep,999996,Times Counted,0370,37 McNary,20,President - Rep,10,"Santorum, Rick",0370,37 McNary,20,President - Rep,20,"Cook, Tim",0370,37 McNary,20,President - Rep,30,"Paul, Rand",0370,37 McNary,20,President - Rep,40,"Rubio, Marco",0370,37 McNary,20,President - Rep,50,"Graham, Lindsey",0370,37 McNary,20,President - Rep,60,"Kasich, John R.",0370,37 McNary,20,President - Rep,70,"Bush, Jeb",0370,37 McNary,20,President - Rep,80,"Trump, Donald J.",0370,37 McNary,20,President - Rep,90,"Fiorina, Carly",0370,37 McNary,20,President - Rep,100,"Pataki, George E.",0370,37 McNary,20,President - Rep,110,"Cruz, Ted",0370,37 McNary,20,President - Rep,120,"Huckabee, Mike",0370,37 McNary,20,President - Rep,130,"Christie, Chris",0370,37 McNary,20,President - Rep,140,"Carson, Ben",0370,37 McNary,30,President - Gre,999999,Number of Precincts for Race,1370,37 McNary,30,President - Gre,999998,Number of Precincts Reporting,1370,37 McNary,30,President - Gre,999997,Registered Voters,0370,37 McNary,30,President - Gre,999996,Times Counted,0370,37 McNary,30,President - Gre,10,"Mesplay, Kent",0370,37 McNary,30,President - Gre,20,"Stein, Jill",0390,39 Many Farms,999999,Race Statistics,999999,Number of Precincts,1390,39 Many Farms,999999,Race Statistics,999998,Number of Precincts Reporting,1390,39 Many Farms,10,President - Dem,999999,Number of Precincts for Race,1390,39 Many Farms,10,President - Dem,999998,Number of Precincts Reporting,1390,39 Many Farms,10,President - Dem,999997,Registered Voters,1111390,39 Many Farms,10,President - Dem,999996,Times Counted,349390,39 Many Farms,10,President - Dem,10,"De La Fuente, Roque",3390,39 Many Farms,10,President - Dem,20,"Steinberg, Michael",4390,39 Many Farms,10,President - Dem,30,"Sanders, Bernie",69390,39 Many Farms,10,President - Dem,40,"O'Malley, Martin J.",1390,39 Many Farms,10,President - Dem,50,"Clinton, Hillary",265390,39 Many Farms,10,President - Dem,60,"Hewes, Henry",7390,39 Many Farms,20,President - Rep,999999,Number of Precincts for Race,1390,39 Many Farms,20,President - Rep,999998,Number of Precincts Reporting,1390,39 Many Farms,20,President - Rep,999997,Registered Voters,90390,39 Many Farms,20,President - Rep,999996,Times Counted,11390,39 Many Farms,20,President - Rep,10,"Santorum, Rick",0390,39 Many Farms,20,President - Rep,20,"Cook, Tim",0390,39 Many Farms,20,President - Rep,30,"Paul, Rand",0390,39 Many Farms,20,President - Rep,40,"Rubio, Marco",2390,39 Many Farms,20,President - Rep,50,"Graham, Lindsey",0390,39 Many Farms,20,President - Rep,60,"Kasich, John R.",0390,39 Many Farms,20,President - Rep,70,"Bush, Jeb",2390,39 Many Farms,20,President - Rep,80,"Trump, Donald J.",1390,39 Many Farms,20,President - Rep,90,"Fiorina, Carly",0390,39 Many Farms,20,President - Rep,100,"Pataki, George E.",0390,39 Many Farms,20,President - Rep,110,"Cruz, Ted",6390,39 Many Farms,20,President - Rep,120,"Huckabee, Mike",0390,39 Many Farms,20,President - Rep,130,"Christie, Chris",0390,39 Many Farms,20,President - Rep,140,"Carson, Ben",0390,39 Many Farms,30,President - Gre,999999,Number of Precincts for Race,1390,39 Many Farms,30,President - Gre,999998,Number of Precincts Reporting,1390,39 Many Farms,30,President - Gre,999997,Registered Voters,2390,39 Many Farms,30,President - Gre,999996,Times Counted,0390,39 Many Farms,30,President - Gre,10,"Mesplay, Kent",0390,39 Many Farms,30,President - Gre,20,"Stein, Jill",0410,41 Mexican Water,999999,Race Statistics,999999,Number of Precincts,1410,41 Mexican Water,999999,Race Statistics,999998,Number of Precincts Reporting,1410,41 Mexican Water,10,President - Dem,999999,Number of Precincts for Race,1410,41 Mexican Water,10,President - Dem,999998,Number of Precincts Reporting,1410,41 Mexican Water,10,President - Dem,999997,Registered Voters,143410,41 Mexican Water,10,President - Dem,999996,Times Counted,24410,41 Mexican Water,10,President - Dem,10,"De La Fuente, Roque",0410,41 Mexican Water,10,President - Dem,20,"Steinberg, Michael",0410,41 Mexican Water,10,President - Dem,30,"Sanders, Bernie",1410,41 Mexican Water,10,President - Dem,40,"O'Malley, Martin J.",0410,41 Mexican Water,10,President - Dem,50,"Clinton, Hillary",23410,41 Mexican Water,10,President - Dem,60,"Hewes, Henry",0410,41 Mexican Water,20,President - Rep,999999,Number of Precincts for Race,1410,41 Mexican Water,20,President - Rep,999998,Number of Precincts Reporting,1410,41 Mexican Water,20,President - Rep,999997,Registered Voters,33410,41 Mexican Water,20,President - Rep,999996,Times Counted,5410,41 Mexican Water,20,President - Rep,10,"Santorum, Rick",0410,41 Mexican Water,20,President - Rep,20,"Cook, Tim",0410,41 Mexican Water,20,President - Rep,30,"Paul, Rand",0410,41 Mexican Water,20,President - Rep,40,"Rubio, Marco",0410,41 Mexican Water,20,President - Rep,50,"Graham, Lindsey",0410,41 Mexican Water,20,President - Rep,60,"Kasich, John R.",0410,41 Mexican Water,20,President - Rep,70,"Bush, Jeb",1410,41 Mexican Water,20,President - Rep,80,"Trump, Donald J.",0410,41 Mexican Water,20,President - Rep,90,"Fiorina, Carly",1410,41 Mexican Water,20,President - Rep,100,"Pataki, George E.",0410,41 Mexican Water,20,President - Rep,110,"Cruz, Ted",3410,41 Mexican Water,20,President - Rep,120,"Huckabee, Mike",0410,41 Mexican Water,20,President - Rep,130,"Christie, Chris",0410,41 Mexican Water,20,President - Rep,140,"Carson, Ben",0410,41 Mexican Water,30,President - Gre,999999,Number of Precincts for Race,1410,41 Mexican Water,30,President - Gre,999998,Number of Precincts Reporting,1410,41 Mexican Water,30,President - Gre,999997,Registered Voters,0410,41 Mexican Water,30,President - Gre,999996,Times Counted,0410,41 Mexican Water,30,President - Gre,10,"Mesplay, Kent",0410,41 Mexican Water,30,President - Gre,20,"Stein, Jill",0430,43 Nazlini,999999,Race Statistics,999999,Number of Precincts,1430,43 Nazlini,999999,Race Statistics,999998,Number of Precincts Reporting,1430,43 Nazlini,10,President - Dem,999999,Number of Precincts for Race,1430,43 Nazlini,10,President - Dem,999998,Number of Precincts Reporting,1430,43 Nazlini,10,President - Dem,999997,Registered Voters,668430,43 Nazlini,10,President - Dem,999996,Times Counted,219430,43 Nazlini,10,President - Dem,10,"De La Fuente, Roque",1430,43 Nazlini,10,President - Dem,20,"Steinberg, Michael",2430,43 Nazlini,10,President - Dem,30,"Sanders, Bernie",66430,43 Nazlini,10,President - Dem,40,"O'Malley, Martin J.",10430,43 Nazlini,10,President - Dem,50,"Clinton, Hillary",139430,43 Nazlini,10,President - Dem,60,"Hewes, Henry",0430,43 Nazlini,20,President - Rep,999999,Number of Precincts for Race,1430,43 Nazlini,20,President - Rep,999998,Number of Precincts Reporting,1430,43 Nazlini,20,President - Rep,999997,Registered Voters,78430,43 Nazlini,20,President - Rep,999996,Times Counted,14430,43 Nazlini,20,President - Rep,10,"Santorum, Rick",0430,43 Nazlini,20,President - Rep,20,"Cook, Tim",0430,43 Nazlini,20,President - Rep,30,"Paul, Rand",1430,43 Nazlini,20,President - Rep,40,"Rubio, Marco",0430,43 Nazlini,20,President - Rep,50,"Graham, Lindsey",1430,43 Nazlini,20,President - Rep,60,"Kasich, John R.",1430,43 Nazlini,20,President - Rep,70,"Bush, Jeb",5430,43 Nazlini,20,President - Rep,80,"Trump, Donald J.",2430,43 Nazlini,20,President - Rep,90,"Fiorina, Carly",0430,43 Nazlini,20,President - Rep,100,"Pataki, George E.",0430,43 Nazlini,20,President - Rep,110,"Cruz, Ted",2430,43 Nazlini,20,President - Rep,120,"Huckabee, Mike",0430,43 Nazlini,20,President - Rep,130,"Christie, Chris",0430,43 Nazlini,20,President - Rep,140,"Carson, Ben",2430,43 Nazlini,30,President - Gre,999999,Number of Precincts for Race,1430,43 Nazlini,30,President - Gre,999998,Number of Precincts Reporting,1430,43 Nazlini,30,President - Gre,999997,Registered Voters,1430,43 Nazlini,30,President - Gre,999996,Times Counted,0430,43 Nazlini,30,President - Gre,10,"Mesplay, Kent",0430,43 Nazlini,30,President - Gre,20,"Stein, Jill",0450,45 Nutrioso,999999,Race Statistics,999999,Number of Precincts,1450,45 Nutrioso,999999,Race Statistics,999998,Number of Precincts Reporting,1450,45 Nutrioso,10,President - Dem,999999,Number of Precincts for Race,1450,45 Nutrioso,10,President - Dem,999998,Number of Precincts Reporting,1450,45 Nutrioso,10,President - Dem,999997,Registered Voters,65450,45 Nutrioso,10,President - Dem,999996,Times Counted,40450,45 Nutrioso,10,President - Dem,10,"De La Fuente, Roque",0450,45 Nutrioso,10,President - Dem,20,"Steinberg, Michael",0450,45 Nutrioso,10,President - Dem,30,"Sanders, Bernie",25450,45 Nutrioso,10,President - Dem,40,"O'Malley, Martin J.",2450,45 Nutrioso,10,President - Dem,50,"Clinton, Hillary",13450,45 Nutrioso,10,President - Dem,60,"Hewes, Henry",0450,45 Nutrioso,20,President - Rep,999999,Number of Precincts for Race,1450,45 Nutrioso,20,President - Rep,999998,Number of Precincts Reporting,1450,45 Nutrioso,20,President - Rep,999997,Registered Voters,131450,45 Nutrioso,20,President - Rep,999996,Times Counted,87450,45 Nutrioso,20,President - Rep,10,"Santorum, Rick",1450,45 Nutrioso,20,President - Rep,20,"Cook, Tim",0450,45 Nutrioso,20,President - Rep,30,"Paul, Rand",0450,45 Nutrioso,20,President - Rep,40,"Rubio, Marco",3450,45 Nutrioso,20,President - Rep,50,"Graham, Lindsey",0450,45 Nutrioso,20,President - Rep,60,"Kasich, John R.",8450,45 Nutrioso,20,President - Rep,70,"Bush, Jeb",0450,45 Nutrioso,20,President - Rep,80,"Trump, Donald J.",51450,45 Nutrioso,20,President - Rep,90,"Fiorina, Carly",0450,45 Nutrioso,20,President - Rep,100,"Pataki, George E.",0450,45 Nutrioso,20,President - Rep,110,"Cruz, Ted",24450,45 Nutrioso,20,President - Rep,120,"Huckabee, Mike",0450,45 Nutrioso,20,President - Rep,130,"Christie, Chris",0450,45 Nutrioso,20,President - Rep,140,"Carson, Ben",0450,45 Nutrioso,30,President - Gre,999999,Number of Precincts for Race,1450,45 Nutrioso,30,President - Gre,999998,Number of Precincts Reporting,1450,45 Nutrioso,30,President - Gre,999997,Registered Voters,1450,45 Nutrioso,30,President - Gre,999996,Times Counted,1450,45 Nutrioso,30,President - Gre,10,"Mesplay, Kent",1450,45 Nutrioso,30,President - Gre,20,"Stein, Jill",0460,46 Oak Springs,999999,Race Statistics,999999,Number of Precincts,1460,46 Oak Springs,999999,Race Statistics,999998,Number of Precincts Reporting,1460,46 Oak Springs,10,President - Dem,999999,Number of Precincts for Race,1460,46 Oak Springs,10,President - Dem,999998,Number of Precincts Reporting,1460,46 Oak Springs,10,President - Dem,999997,Registered Voters,345460,46 Oak Springs,10,President - Dem,999996,Times Counted,131460,46 Oak Springs,10,President - Dem,10,"De La Fuente, Roque",0460,46 Oak Springs,10,President - Dem,20,"Steinberg, Michael",1460,46 Oak Springs,10,President - Dem,30,"Sanders, Bernie",30460,46 Oak Springs,10,President - Dem,40,"O'Malley, Martin J.",1460,46 Oak Springs,10,President - Dem,50,"Clinton, Hillary",97460,46 Oak Springs,10,President - Dem,60,"Hewes, Henry",2460,46 Oak Springs,20,President - Rep,999999,Number of Precincts for Race,1460,46 Oak Springs,20,President - Rep,999998,Number of Precincts Reporting,1460,46 Oak Springs,20,President - Rep,999997,Registered Voters,36460,46 Oak Springs,20,President - Rep,999996,Times Counted,9460,46 Oak Springs,20,President - Rep,10,"Santorum, Rick",0460,46 Oak Springs,20,President - Rep,20,"Cook, Tim",0460,46 Oak Springs,20,President - Rep,30,"Paul, Rand",0460,46 Oak Springs,20,President - Rep,40,"Rubio, Marco",0460,46 Oak Springs,20,President - Rep,50,"Graham, Lindsey",0460,46 Oak Springs,20,President - Rep,60,"Kasich, John R.",0460,46 Oak Springs,20,President - Rep,70,"Bush, Jeb",0460,46 Oak Springs,20,President - Rep,80,"Trump, Donald J.",2460,46 Oak Springs,20,President - Rep,90,"Fiorina, Carly",0460,46 Oak Springs,20,President - Rep,100,"Pataki, George E.",0460,46 Oak Springs,20,President - Rep,110,"Cruz, Ted",5460,46 Oak Springs,20,President - Rep,120,"Huckabee, Mike",0460,46 Oak Springs,20,President - Rep,130,"Christie, Chris",0460,46 Oak Springs,20,President - Rep,140,"Carson, Ben",0460,46 Oak Springs,30,President - Gre,999999,Number of Precincts for Race,1460,46 Oak Springs,30,President - Gre,999998,Number of Precincts Reporting,1460,46 Oak Springs,30,President - Gre,999997,Registered Voters,0460,46 Oak Springs,30,President - Gre,999996,Times Counted,0460,46 Oak Springs,30,President - Gre,10,"Mesplay, Kent",0460,46 Oak Springs,30,President - Gre,20,"Stein, Jill",0480,48 Puerco East & 49 Puerco West,999999,Race Statistics,999999,Number of Precincts,1480,48 Puerco East & 49 Puerco West,999999,Race Statistics,999998,Number of Precincts Reporting,1480,48 Puerco East & 49 Puerco West,10,President - Dem,999999,Number of Precincts for Race,1480,48 Puerco East & 49 Puerco West,10,President - Dem,999998,Number of Precincts Reporting,1480,48 Puerco East & 49 Puerco West,10,President - Dem,999997,Registered Voters,813480,48 Puerco East & 49 Puerco West,10,President - Dem,999996,Times Counted,262480,48 Puerco East & 49 Puerco West,10,President - Dem,10,"De La Fuente, Roque",1480,48 Puerco East & 49 Puerco West,10,President - Dem,20,"Steinberg, Michael",6480,48 Puerco East & 49 Puerco West,10,President - Dem,30,"Sanders, Bernie",99480,48 Puerco East & 49 Puerco West,10,President - Dem,40,"O'Malley, Martin J.",6480,48 Puerco East & 49 Puerco West,10,President - Dem,50,"Clinton, Hillary",146480,48 Puerco East & 49 Puerco West,10,President - Dem,60,"Hewes, Henry",2480,48 Puerco East & 49 Puerco West,20,President - Rep,999999,Number of Precincts for Race,1480,48 Puerco East & 49 Puerco West,20,President - Rep,999998,Number of Precincts Reporting,1480,48 Puerco East & 49 Puerco West,20,President - Rep,999997,Registered Voters,200480,48 Puerco East & 49 Puerco West,20,President - Rep,999996,Times Counted,75480,48 Puerco East & 49 Puerco West,20,President - Rep,10,"Santorum, Rick",0480,48 Puerco East & 49 Puerco West,20,President - Rep,20,"Cook, Tim",2480,48 Puerco East & 49 Puerco West,20,President - Rep,30,"Paul, Rand",1480,48 Puerco East & 49 Puerco West,20,President - Rep,40,"Rubio, Marco",6480,48 Puerco East & 49 Puerco West,20,President - Rep,50,"Graham, Lindsey",1480,48 Puerco East & 49 Puerco West,20,President - Rep,60,"Kasich, John R.",6480,48 Puerco East & 49 Puerco West,20,President - Rep,70,"Bush, Jeb",1480,48 Puerco East & 49 Puerco West,20,President - Rep,80,"Trump, Donald J.",28480,48 Puerco East & 49 Puerco West,20,President - Rep,90,"Fiorina, Carly",0480,48 Puerco East & 49 Puerco West,20,President - Rep,100,"Pataki, George E.",1480,48 Puerco East & 49 Puerco West,20,President - Rep,110,"Cruz, Ted",22480,48 Puerco East & 49 Puerco West,20,President - Rep,120,"Huckabee, Mike",0480,48 Puerco East & 49 Puerco West,20,President - Rep,130,"Christie, Chris",0480,48 Puerco East & 49 Puerco West,20,President - Rep,140,"Carson, Ben",6480,48 Puerco East & 49 Puerco West,30,President - Gre,999999,Number of Precincts for Race,1480,48 Puerco East & 49 Puerco West,30,President - Gre,999998,Number of Precincts Reporting,1480,48 Puerco East & 49 Puerco West,30,President - Gre,999997,Registered Voters,2480,48 Puerco East & 49 Puerco West,30,President - Gre,999996,Times Counted,0480,48 Puerco East & 49 Puerco West,30,President - Gre,10,"Mesplay, Kent",0480,48 Puerco East & 49 Puerco West,30,President - Gre,20,"Stein, Jill",0510,51 Red Mesa,999999,Race Statistics,999999,Number of Precincts,1510,51 Red Mesa,999999,Race Statistics,999998,Number of Precincts Reporting,1510,51 Red Mesa,10,President - Dem,999999,Number of Precincts for Race,1510,51 Red Mesa,10,President - Dem,999998,Number of Precincts Reporting,1510,51 Red Mesa,10,President - Dem,999997,Registered Voters,227510,51 Red Mesa,10,President - Dem,999996,Times Counted,30510,51 Red Mesa,10,President - Dem,10,"De La Fuente, Roque",1510,51 Red Mesa,10,President - Dem,20,"Steinberg, Michael",1510,51 Red Mesa,10,President - Dem,30,"Sanders, Bernie",17510,51 Red Mesa,10,President - Dem,40,"O'Malley, Martin J.",0510,51 Red Mesa,10,President - Dem,50,"Clinton, Hillary",11510,51 Red Mesa,10,President - Dem,60,"Hewes, Henry",0510,51 Red Mesa,20,President - Rep,999999,Number of Precincts for Race,1510,51 Red Mesa,20,President - Rep,999998,Number of Precincts Reporting,1510,51 Red Mesa,20,President - Rep,999997,Registered Voters,72510,51 Red Mesa,20,President - Rep,999996,Times Counted,8510,51 Red Mesa,20,President - Rep,10,"Santorum, Rick",0510,51 Red Mesa,20,President - Rep,20,"Cook, Tim",0510,51 Red Mesa,20,President - Rep,30,"Paul, Rand",0510,51 Red Mesa,20,President - Rep,40,"Rubio, Marco",0510,51 Red Mesa,20,President - Rep,50,"Graham, Lindsey",0510,51 Red Mesa,20,President - Rep,60,"Kasich, John R.",1510,51 Red Mesa,20,President - Rep,70,"Bush, Jeb",0510,51 Red Mesa,20,President - Rep,80,"Trump, Donald J.",2510,51 Red Mesa,20,President - Rep,90,"Fiorina, Carly",0510,51 Red Mesa,20,President - Rep,100,"Pataki, George E.",0510,51 Red Mesa,20,President - Rep,110,"Cruz, Ted",4510,51 Red Mesa,20,President - Rep,120,"Huckabee, Mike",0510,51 Red Mesa,20,President - Rep,130,"Christie, Chris",0510,51 Red Mesa,20,President - Rep,140,"Carson, Ben",1510,51 Red Mesa,30,President - Gre,999999,Number of Precincts for Race,1510,51 Red Mesa,30,President - Gre,999998,Number of Precincts Reporting,1510,51 Red Mesa,30,President - Gre,999997,Registered Voters,0510,51 Red Mesa,30,President - Gre,999996,Times Counted,0510,51 Red Mesa,30,President - Gre,10,"Mesplay, Kent",0510,51 Red Mesa,30,President - Gre,20,"Stein, Jill",0520,52 Red Valley,999999,Race Statistics,999999,Number of Precincts,1520,52 Red Valley,999999,Race Statistics,999998,Number of Precincts Reporting,1520,52 Red Valley,10,President - Dem,999999,Number of Precincts for Race,1520,52 Red Valley,10,President - Dem,999998,Number of Precincts Reporting,1520,52 Red Valley,10,President - Dem,999997,Registered Voters,560520,52 Red Valley,10,President - Dem,999996,Times Counted,91520,52 Red Valley,10,President - Dem,10,"De La Fuente, Roque",5520,52 Red Valley,10,President - Dem,20,"Steinberg, Michael",1520,52 Red Valley,10,President - Dem,30,"Sanders, Bernie",25520,52 Red Valley,10,President - Dem,40,"O'Malley, Martin J.",0520,52 Red Valley,10,President - Dem,50,"Clinton, Hillary",58520,52 Red Valley,10,President - Dem,60,"Hewes, Henry",1520,52 Red Valley,20,President - Rep,999999,Number of Precincts for Race,1520,52 Red Valley,20,President - Rep,999998,Number of Precincts Reporting,1520,52 Red Valley,20,President - Rep,999997,Registered Voters,171520,52 Red Valley,20,President - Rep,999996,Times Counted,25520,52 Red Valley,20,President - Rep,10,"Santorum, Rick",0520,52 Red Valley,20,President - Rep,20,"Cook, Tim",1520,52 Red Valley,20,President - Rep,30,"Paul, Rand",1520,52 Red Valley,20,President - Rep,40,"Rubio, Marco",6520,52 Red Valley,20,President - Rep,50,"Graham, Lindsey",0520,52 Red Valley,20,President - Rep,60,"Kasich, John R.",2520,52 Red Valley,20,President - Rep,70,"Bush, Jeb",1520,52 Red Valley,20,President - Rep,80,"Trump, Donald J.",3520,52 Red Valley,20,President - Rep,90,"Fiorina, Carly",0520,52 Red Valley,20,President - Rep,100,"Pataki, George E.",0520,52 Red Valley,20,President - Rep,110,"Cruz, Ted",8520,52 Red Valley,20,President - Rep,120,"Huckabee, Mike",1520,52 Red Valley,20,President - Rep,130,"Christie, Chris",1520,52 Red Valley,20,President - Rep,140,"Carson, Ben",1520,52 Red Valley,30,President - Gre,999999,Number of Precincts for Race,1520,52 Red Valley,30,President - Gre,999998,Number of Precincts Reporting,1520,52 Red Valley,30,President - Gre,999997,Registered Voters,1520,52 Red Valley,30,President - Gre,999996,Times Counted,0520,52 Red Valley,30,President - Gre,10,"Mesplay, Kent",0520,52 Red Valley,30,President - Gre,20,"Stein, Jill",0540,54 Rock Point,999999,Race Statistics,999999,Number of Precincts,1540,54 Rock Point,999999,Race Statistics,999998,Number of Precincts Reporting,1540,54 Rock Point,10,President - Dem,999999,Number of Precincts for Race,1540,54 Rock Point,10,President - Dem,999998,Number of Precincts Reporting,1540,54 Rock Point,10,President - Dem,999997,Registered Voters,842540,54 Rock Point,10,President - Dem,999996,Times Counted,230540,54 Rock Point,10,President - Dem,10,"De La Fuente, Roque",0540,54 Rock Point,10,President - Dem,20,"Steinberg, Michael",0540,54 Rock Point,10,President - Dem,30,"Sanders, Bernie",60540,54 Rock Point,10,President - Dem,40,"O'Malley, Martin J.",2540,54 Rock Point,10,President - Dem,50,"Clinton, Hillary",167540,54 Rock Point,10,President - Dem,60,"Hewes, Henry",1540,54 Rock Point,20,President - Rep,999999,Number of Precincts for Race,1540,54 Rock Point,20,President - Rep,999998,Number of Precincts Reporting,1540,54 Rock Point,20,President - Rep,999997,Registered Voters,88540,54 Rock Point,20,President - Rep,999996,Times Counted,13540,54 Rock Point,20,President - Rep,10,"Santorum, Rick",1540,54 Rock Point,20,President - Rep,20,"Cook, Tim",1540,54 Rock Point,20,President - Rep,30,"Paul, Rand",1540,54 Rock Point,20,President - Rep,40,"Rubio, Marco",0540,54 Rock Point,20,President - Rep,50,"Graham, Lindsey",0540,54 Rock Point,20,President - Rep,60,"Kasich, John R.",0540,54 Rock Point,20,President - Rep,70,"Bush, Jeb",1540,54 Rock Point,20,President - Rep,80,"Trump, Donald J.",1540,54 Rock Point,20,President - Rep,90,"Fiorina, Carly",0540,54 Rock Point,20,President - Rep,100,"Pataki, George E.",0540,54 Rock Point,20,President - Rep,110,"Cruz, Ted",5540,54 Rock Point,20,President - Rep,120,"Huckabee, Mike",1540,54 Rock Point,20,President - Rep,130,"Christie, Chris",0540,54 Rock Point,20,President - Rep,140,"Carson, Ben",2540,54 Rock Point,30,President - Gre,999999,Number of Precincts for Race,1540,54 Rock Point,30,President - Gre,999998,Number of Precincts Reporting,1540,54 Rock Point,30,President - Gre,999997,Registered Voters,1540,54 Rock Point,30,President - Gre,999996,Times Counted,14540,54 Rock Point,30,President - Gre,10,"Mesplay, Kent",4540,54 Rock Point,30,President - Gre,20,"Stein, Jill",10560,56 Rough Rock,999999,Race Statistics,999999,Number of Precincts,1560,56 Rough Rock,999999,Race Statistics,999998,Number of Precincts Reporting,1560,56 Rough Rock,10,President - Dem,999999,Number of Precincts for Race,1560,56 Rough Rock,10,President - Dem,999998,Number of Precincts Reporting,1560,56 Rough Rock,10,President - Dem,999997,Registered Voters,532560,56 Rough Rock,10,President - Dem,999996,Times Counted,138560,56 Rough Rock,10,President - Dem,10,"De La Fuente, Roque",1560,56 Rough Rock,10,President - Dem,20,"Steinberg, Michael",3560,56 Rough Rock,10,President - Dem,30,"Sanders, Bernie",39560,56 Rough Rock,10,President - Dem,40,"O'Malley, Martin J.",0560,56 Rough Rock,10,President - Dem,50,"Clinton, Hillary",93560,56 Rough Rock,10,President - Dem,60,"Hewes, Henry",2560,56 Rough Rock,20,President - Rep,999999,Number of Precincts for Race,1560,56 Rough Rock,20,President - Rep,999998,Number of Precincts Reporting,1560,56 Rough Rock,20,President - Rep,999997,Registered Voters,52560,56 Rough Rock,20,President - Rep,999996,Times Counted,9560,56 Rough Rock,20,President - Rep,10,"Santorum, Rick",0560,56 Rough Rock,20,President - Rep,20,"Cook, Tim",0560,56 Rough Rock,20,President - Rep,30,"Paul, Rand",0560,56 Rough Rock,20,President - Rep,40,"Rubio, Marco",0560,56 Rough Rock,20,President - Rep,50,"Graham, Lindsey",1560,56 Rough Rock,20,President - Rep,60,"Kasich, John R.",0560,56 Rough Rock,20,President - Rep,70,"Bush, Jeb",1560,56 Rough Rock,20,President - Rep,80,"Trump, Donald J.",1560,56 Rough Rock,20,President - Rep,90,"Fiorina, Carly",0560,56 Rough Rock,20,President - Rep,100,"Pataki, George E.",0560,56 Rough Rock,20,President - Rep,110,"Cruz, Ted",4560,56 Rough Rock,20,President - Rep,120,"Huckabee, Mike",0560,56 Rough Rock,20,President - Rep,130,"Christie, Chris",1560,56 Rough Rock,20,President - Rep,140,"Carson, Ben",1560,56 Rough Rock,30,President - Gre,999999,Number of Precincts for Race,1560,56 Rough Rock,30,President - Gre,999998,Number of Precincts Reporting,1560,56 Rough Rock,30,President - Gre,999997,Registered Voters,0560,56 Rough Rock,30,President - Gre,999996,Times Counted,0560,56 Rough Rock,30,President - Gre,10,"Mesplay, Kent",0560,56 Rough Rock,30,President - Gre,20,"Stein, Jill",0580,58 Round Rock,999999,Race Statistics,999999,Number of Precincts,1580,58 Round Rock,999999,Race Statistics,999998,Number of Precincts Reporting,1580,58 Round Rock,10,President - Dem,999999,Number of Precincts for Race,1580,58 Round Rock,10,President - Dem,999998,Number of Precincts Reporting,1580,58 Round Rock,10,President - Dem,999997,Registered Voters,638580,58 Round Rock,10,President - Dem,999996,Times Counted,169580,58 Round Rock,10,President - Dem,10,"De La Fuente, Roque",1580,58 Round Rock,10,President - Dem,20,"Steinberg, Michael",2580,58 Round Rock,10,President - Dem,30,"Sanders, Bernie",27580,58 Round Rock,10,President - Dem,40,"O'Malley, Martin J.",3580,58 Round Rock,10,President - Dem,50,"Clinton, Hillary",135580,58 Round Rock,10,President - Dem,60,"Hewes, Henry",1580,58 Round Rock,20,President - Rep,999999,Number of Precincts for Race,1580,58 Round Rock,20,President - Rep,999998,Number of Precincts Reporting,1580,58 Round Rock,20,President - Rep,999997,Registered Voters,51580,58 Round Rock,20,President - Rep,999996,Times Counted,9580,58 Round Rock,20,President - Rep,10,"Santorum, Rick",1580,58 Round Rock,20,President - Rep,20,"Cook, Tim",0580,58 Round Rock,20,President - Rep,30,"Paul, Rand",1580,58 Round Rock,20,President - Rep,40,"Rubio, Marco",0580,58 Round Rock,20,President - Rep,50,"Graham, Lindsey",0580,58 Round Rock,20,President - Rep,60,"Kasich, John R.",0580,58 Round Rock,20,President - Rep,70,"Bush, Jeb",2580,58 Round Rock,20,President - Rep,80,"Trump, Donald J.",1580,58 Round Rock,20,President - Rep,90,"Fiorina, Carly",0580,58 Round Rock,20,President - Rep,100,"Pataki, George E.",0580,58 Round Rock,20,President - Rep,110,"Cruz, Ted",2580,58 Round Rock,20,President - Rep,120,"Huckabee, Mike",0580,58 Round Rock,20,President - Rep,130,"Christie, Chris",2580,58 Round Rock,20,President - Rep,140,"Carson, Ben",0580,58 Round Rock,30,President - Gre,999999,Number of Precincts for Race,1580,58 Round Rock,30,President - Gre,999998,Number of Precincts Reporting,1580,58 Round Rock,30,President - Gre,999997,Registered Voters,0580,58 Round Rock,30,President - Gre,999996,Times Counted,0580,58 Round Rock,30,President - Gre,10,"Mesplay, Kent",0580,58 Round Rock,30,President - Gre,20,"Stein, Jill",0610,61 St. Johns & 12 Coronado,999999,Race Statistics,999999,Number of Precincts,1610,61 St. Johns & 12 Coronado,999999,Race Statistics,999998,Number of Precincts Reporting,1610,61 St. Johns & 12 Coronado,10,President - Dem,999999,Number of Precincts for Race,1610,61 St. Johns & 12 Coronado,10,President - Dem,999998,Number of Precincts Reporting,1610,61 St. Johns & 12 Coronado,10,President - Dem,999997,Registered Voters,722610,61 St. Johns & 12 Coronado,10,President - Dem,999996,Times Counted,241610,61 St. Johns & 12 Coronado,10,President - Dem,10,"De La Fuente, Roque",14610,61 St. Johns & 12 Coronado,10,President - Dem,20,"Steinberg, Michael",7610,61 St. Johns & 12 Coronado,10,President - Dem,30,"Sanders, Bernie",124610,61 St. Johns & 12 Coronado,10,President - Dem,40,"O'Malley, Martin J.",9610,61 St. Johns & 12 Coronado,10,President - Dem,50,"Clinton, Hillary",81610,61 St. Johns & 12 Coronado,10,President - Dem,60,"Hewes, Henry",2610,61 St. Johns & 12 Coronado,20,President - Rep,999999,Number of Precincts for Race,1610,61 St. Johns & 12 Coronado,20,President - Rep,999998,Number of Precincts Reporting,1610,61 St. Johns & 12 Coronado,20,President - Rep,999997,Registered Voters,757610,61 St. Johns & 12 Coronado,20,President - Rep,999996,Times Counted,447610,61 St. Johns & 12 Coronado,20,President - Rep,10,"Santorum, Rick",2610,61 St. Johns & 12 Coronado,20,President - Rep,20,"Cook, Tim",0610,61 St. Johns & 12 Coronado,20,President - Rep,30,"Paul, Rand",4610,61 St. Johns & 12 Coronado,20,President - Rep,40,"Rubio, Marco",14610,61 St. Johns & 12 Coronado,20,President - Rep,50,"Graham, Lindsey",0610,61 St. Johns & 12 Coronado,20,President - Rep,60,"Kasich, John R.",17610,61 St. Johns & 12 Coronado,20,President - Rep,70,"Bush, Jeb",8610,61 St. Johns & 12 Coronado,20,President - Rep,80,"Trump, Donald J.",175610,61 St. Johns & 12 Coronado,20,President - Rep,90,"Fiorina, Carly",0610,61 St. Johns & 12 Coronado,20,President - Rep,100,"Pataki, George E.",1610,61 St. Johns & 12 Coronado,20,President - Rep,110,"Cruz, Ted",218610,61 St. Johns & 12 Coronado,20,President - Rep,120,"Huckabee, Mike",0610,61 St. Johns & 12 Coronado,20,President - Rep,130,"Christie, Chris",1610,61 St. Johns & 12 Coronado,20,President - Rep,140,"Carson, Ben",7610,61 St. Johns & 12 Coronado,30,President - Gre,999999,Number of Precincts for Race,1610,61 St. Johns & 12 Coronado,30,President - Gre,999998,Number of Precincts Reporting,1610,61 St. Johns & 12 Coronado,30,President - Gre,999997,Registered Voters,3610,61 St. Johns & 12 Coronado,30,President - Gre,999996,Times Counted,2610,61 St. Johns & 12 Coronado,30,President - Gre,10,"Mesplay, Kent",1610,61 St. Johns & 12 Coronado,30,President - Gre,20,"Stein, Jill",1650,65 St. Michaels,999999,Race Statistics,999999,Number of Precincts,1650,65 St. Michaels,999999,Race Statistics,999998,Number of Precincts Reporting,1650,65 St. Michaels,10,President - Dem,999999,Number of Precincts for Race,1650,65 St. Michaels,10,President - Dem,999998,Number of Precincts Reporting,1650,65 St. Michaels,10,President - Dem,999997,Registered Voters,1220650,65 St. Michaels,10,President - Dem,999996,Times Counted,423650,65 St. Michaels,10,President - Dem,10,"De La Fuente, Roque",5650,65 St. Michaels,10,President - Dem,20,"Steinberg, Michael",4650,65 St. Michaels,10,President - Dem,30,"Sanders, Bernie",143650,65 St. Michaels,10,President - Dem,40,"O'Malley, Martin J.",2650,65 St. Michaels,10,President - Dem,50,"Clinton, Hillary",267650,65 St. Michaels,10,President - Dem,60,"Hewes, Henry",2650,65 St. Michaels,20,President - Rep,999999,Number of Precincts for Race,1650,65 St. Michaels,20,President - Rep,999998,Number of Precincts Reporting,1650,65 St. Michaels,20,President - Rep,999997,Registered Voters,201650,65 St. Michaels,20,President - Rep,999996,Times Counted,54650,65 St. Michaels,20,President - Rep,10,"Santorum, Rick",0650,65 St. Michaels,20,President - Rep,20,"Cook, Tim",1650,65 St. Michaels,20,President - Rep,30,"Paul, Rand",2650,65 St. Michaels,20,President - Rep,40,"Rubio, Marco",6650,65 St. Michaels,20,President - Rep,50,"Graham, Lindsey",0650,65 St. Michaels,20,President - Rep,60,"Kasich, John R.",1650,65 St. Michaels,20,President - Rep,70,"Bush, Jeb",4650,65 St. Michaels,20,President - Rep,80,"Trump, Donald J.",13650,65 St. Michaels,20,President - Rep,90,"Fiorina, Carly",0650,65 St. Michaels,20,President - Rep,100,"Pataki, George E.",0650,65 St. Michaels,20,President - Rep,110,"Cruz, Ted",21650,65 St. Michaels,20,President - Rep,120,"Huckabee, Mike",1650,65 St. Michaels,20,President - Rep,130,"Christie, Chris",1650,65 St. Michaels,20,President - Rep,140,"Carson, Ben",4650,65 St. Michaels,30,President - Gre,999999,Number of Precincts for Race,1650,65 St. Michaels,30,President - Gre,999998,Number of Precincts Reporting,1650,65 St. Michaels,30,President - Gre,999997,Registered Voters,1650,65 St. Michaels,30,President - Gre,999996,Times Counted,0650,65 St. Michaels,30,President - Gre,10,"Mesplay, Kent",0650,65 St. Michaels,30,President - Gre,20,"Stein, Jill",0670,67 Sawmill,999999,Race Statistics,999999,Number of Precincts,1670,67 Sawmill,999999,Race Statistics,999998,Number of Precincts Reporting,1670,67 Sawmill,10,President - Dem,999999,Number of Precincts for Race,1670,67 Sawmill,10,President - Dem,999998,Number of Precincts Reporting,1670,67 Sawmill,10,President - Dem,999997,Registered Voters,528670,67 Sawmill,10,President - Dem,999996,Times Counted,173670,67 Sawmill,10,President - Dem,10,"De La Fuente, Roque",0670,67 Sawmill,10,President - Dem,20,"Steinberg, Michael",6670,67 Sawmill,10,President - Dem,30,"Sanders, Bernie",52670,67 Sawmill,10,President - Dem,40,"O'Malley, Martin J.",1670,67 Sawmill,10,President - Dem,50,"Clinton, Hillary",114670,67 Sawmill,10,President - Dem,60,"Hewes, Henry",0670,67 Sawmill,20,President - Rep,999999,Number of Precincts for Race,1670,67 Sawmill,20,President - Rep,999998,Number of Precincts Reporting,1670,67 Sawmill,20,President - Rep,999997,Registered Voters,59670,67 Sawmill,20,President - Rep,999996,Times Counted,15670,67 Sawmill,20,President - Rep,10,"Santorum, Rick",0670,67 Sawmill,20,President - Rep,20,"Cook, Tim",0670,67 Sawmill,20,President - Rep,30,"Paul, Rand",0670,67 Sawmill,20,President - Rep,40,"Rubio, Marco",4670,67 Sawmill,20,President - Rep,50,"Graham, Lindsey",0670,67 Sawmill,20,President - Rep,60,"Kasich, John R.",0670,67 Sawmill,20,President - Rep,70,"Bush, Jeb",2670,67 Sawmill,20,President - Rep,80,"Trump, Donald J.",3670,67 Sawmill,20,President - Rep,90,"Fiorina, Carly",1670,67 Sawmill,20,President - Rep,100,"Pataki, George E.",0670,67 Sawmill,20,President - Rep,110,"Cruz, Ted",3670,67 Sawmill,20,President - Rep,120,"Huckabee, Mike",0670,67 Sawmill,20,President - Rep,130,"Christie, Chris",0670,67 Sawmill,20,President - Rep,140,"Carson, Ben",2670,67 Sawmill,30,President - Gre,999999,Number of Precincts for Race,1670,67 Sawmill,30,President - Gre,999998,Number of Precincts Reporting,1670,67 Sawmill,30,President - Gre,999997,Registered Voters,0670,67 Sawmill,30,President - Gre,999996,Times Counted,0670,67 Sawmill,30,President - Gre,10,"Mesplay, Kent",0670,67 Sawmill,30,President - Gre,20,"Stein, Jill",0700,70 Springerville & 59 Round Valley,999999,Race Statistics,999999,Number of Precincts,1700,70 Springerville & 59 Round Valley,999999,Race Statistics,999998,Number of Precincts Reporting,1700,70 Springerville & 59 Round Valley,10,President - Dem,999999,Number of Precincts for Race,1700,70 Springerville & 59 Round Valley,10,President - Dem,999998,Number of Precincts Reporting,1700,70 Springerville & 59 Round Valley,10,President - Dem,999997,Registered Voters,410700,70 Springerville & 59 Round Valley,10,President - Dem,999996,Times Counted,164700,70 Springerville & 59 Round Valley,10,President - Dem,10,"De La Fuente, Roque",8700,70 Springerville & 59 Round Valley,10,President - Dem,20,"Steinberg, Michael",5700,70 Springerville & 59 Round Valley,10,President - Dem,30,"Sanders, Bernie",73700,70 Springerville & 59 Round Valley,10,President - Dem,40,"O'Malley, Martin J.",8700,70 Springerville & 59 Round Valley,10,President - Dem,50,"Clinton, Hillary",63700,70 Springerville & 59 Round Valley,10,President - Dem,60,"Hewes, Henry",5700,70 Springerville & 59 Round Valley,20,President - Rep,999999,Number of Precincts for Race,1700,70 Springerville & 59 Round Valley,20,President - Rep,999998,Number of Precincts Reporting,1700,70 Springerville & 59 Round Valley,20,President - Rep,999997,Registered Voters,689700,70 Springerville & 59 Round Valley,20,President - Rep,999996,Times Counted,354700,70 Springerville & 59 Round Valley,20,President - Rep,10,"Santorum, Rick",2700,70 Springerville & 59 Round Valley,20,President - Rep,20,"Cook, Tim",0700,70 Springerville & 59 Round Valley,20,President - Rep,30,"Paul, Rand",1700,70 Springerville & 59 Round Valley,20,President - Rep,40,"Rubio, Marco",11700,70 Springerville & 59 Round Valley,20,President - Rep,50,"Graham, Lindsey",0700,70 Springerville & 59 Round Valley,20,President - Rep,60,"Kasich, John R.",17700,70 Springerville & 59 Round Valley,20,President - Rep,70,"Bush, Jeb",3700,70 Springerville & 59 Round Valley,20,President - Rep,80,"Trump, Donald J.",176700,70 Springerville & 59 Round Valley,20,President - Rep,90,"Fiorina, Carly",0700,70 Springerville & 59 Round Valley,20,President - Rep,100,"Pataki, George E.",0700,70 Springerville & 59 Round Valley,20,President - Rep,110,"Cruz, Ted",135700,70 Springerville & 59 Round Valley,20,President - Rep,120,"Huckabee, Mike",1700,70 Springerville & 59 Round Valley,20,President - Rep,130,"Christie, Chris",0700,70 Springerville & 59 Round Valley,20,President - Rep,140,"Carson, Ben",8700,70 Springerville & 59 Round Valley,30,President - Gre,999999,Number of Precincts for Race,1700,70 Springerville & 59 Round Valley,30,President - Gre,999998,Number of Precincts Reporting,1700,70 Springerville & 59 Round Valley,30,President - Gre,999997,Registered Voters,0700,70 Springerville & 59 Round Valley,30,President - Gre,999996,Times Counted,0700,70 Springerville & 59 Round Valley,30,President - Gre,10,"Mesplay, Kent",0700,70 Springerville & 59 Round Valley,30,President - Gre,20,"Stein, Jill",0740,74 Steamboat,999999,Race Statistics,999999,Number of Precincts,1740,74 Steamboat,999999,Race Statistics,999998,Number of Precincts Reporting,1740,74 Steamboat,10,President - Dem,999999,Number of Precincts for Race,1740,74 Steamboat,10,President - Dem,999998,Number of Precincts Reporting,1740,74 Steamboat,10,President - Dem,999997,Registered Voters,955740,74 Steamboat,10,President - Dem,999996,Times Counted,297740,74 Steamboat,10,President - Dem,10,"De La Fuente, Roque",0740,74 Steamboat,10,President - Dem,20,"Steinberg, Michael",4740,74 Steamboat,10,President - Dem,30,"Sanders, Bernie",69740,74 Steamboat,10,President - Dem,40,"O'Malley, Martin J.",2740,74 Steamboat,10,President - Dem,50,"Clinton, Hillary",218740,74 Steamboat,10,President - Dem,60,"Hewes, Henry",3740,74 Steamboat,20,President - Rep,999999,Number of Precincts for Race,1740,74 Steamboat,20,President - Rep,999998,Number of Precincts Reporting,1740,74 Steamboat,20,President - Rep,999997,Registered Voters,72740,74 Steamboat,20,President - Rep,999996,Times Counted,11740,74 Steamboat,20,President - Rep,10,"Santorum, Rick",1740,74 Steamboat,20,President - Rep,20,"Cook, Tim",0740,74 Steamboat,20,President - Rep,30,"Paul, Rand",0740,74 Steamboat,20,President - Rep,40,"Rubio, Marco",1740,74 Steamboat,20,President - Rep,50,"Graham, Lindsey",0740,74 Steamboat,20,President - Rep,60,"Kasich, John R.",0740,74 Steamboat,20,President - Rep,70,"Bush, Jeb",0740,74 Steamboat,20,President - Rep,80,"Trump, Donald J.",4740,74 Steamboat,20,President - Rep,90,"Fiorina, Carly",0740,74 Steamboat,20,President - Rep,100,"Pataki, George E.",0740,74 Steamboat,20,President - Rep,110,"Cruz, Ted",4740,74 Steamboat,20,President - Rep,120,"Huckabee, Mike",0740,74 Steamboat,20,President - Rep,130,"Christie, Chris",0740,74 Steamboat,20,President - Rep,140,"Carson, Ben",1740,74 Steamboat,30,President - Gre,999999,Number of Precincts for Race,1740,74 Steamboat,30,President - Gre,999998,Number of Precincts Reporting,1740,74 Steamboat,30,President - Gre,999997,Registered Voters,0740,74 Steamboat,30,President - Gre,999996,Times Counted,0740,74 Steamboat,30,President - Gre,10,"Mesplay, Kent",0740,74 Steamboat,30,President - Gre,20,"Stein, Jill",0760,76 Sweetwater,999999,Race Statistics,999999,Number of Precincts,1760,76 Sweetwater,999999,Race Statistics,999998,Number of Precincts Reporting,1760,76 Sweetwater,10,President - Dem,999999,Number of Precincts for Race,1760,76 Sweetwater,10,President - Dem,999998,Number of Precincts Reporting,1760,76 Sweetwater,10,President - Dem,999997,Registered Voters,506760,76 Sweetwater,10,President - Dem,999996,Times Counted,113760,76 Sweetwater,10,President - Dem,10,"De La Fuente, Roque",0760,76 Sweetwater,10,President - Dem,20,"Steinberg, Michael",4760,76 Sweetwater,10,President - Dem,30,"Sanders, Bernie",37760,76 Sweetwater,10,President - Dem,40,"O'Malley, Martin J.",2760,76 Sweetwater,10,President - Dem,50,"Clinton, Hillary",70760,76 Sweetwater,10,President - Dem,60,"Hewes, Henry",0760,76 Sweetwater,20,President - Rep,999999,Number of Precincts for Race,1760,76 Sweetwater,20,President - Rep,999998,Number of Precincts Reporting,1760,76 Sweetwater,20,President - Rep,999997,Registered Voters,124760,76 Sweetwater,20,President - Rep,999996,Times Counted,20760,76 Sweetwater,20,President - Rep,10,"Santorum, Rick",0760,76 Sweetwater,20,President - Rep,20,"Cook, Tim",1760,76 Sweetwater,20,President - Rep,30,"Paul, Rand",0760,76 Sweetwater,20,President - Rep,40,"Rubio, Marco",0760,76 Sweetwater,20,President - Rep,50,"Graham, Lindsey",1760,76 Sweetwater,20,President - Rep,60,"Kasich, John R.",1760,76 Sweetwater,20,President - Rep,70,"Bush, Jeb",1760,76 Sweetwater,20,President - Rep,80,"Trump, Donald J.",3760,76 Sweetwater,20,President - Rep,90,"Fiorina, Carly",0760,76 Sweetwater,20,President - Rep,100,"Pataki, George E.",0760,76 Sweetwater,20,President - Rep,110,"Cruz, Ted",10760,76 Sweetwater,20,President - Rep,120,"Huckabee, Mike",0760,76 Sweetwater,20,President - Rep,130,"Christie, Chris",1760,76 Sweetwater,20,President - Rep,140,"Carson, Ben",2760,76 Sweetwater,30,President - Gre,999999,Number of Precincts for Race,1760,76 Sweetwater,30,President - Gre,999998,Number of Precincts Reporting,1760,76 Sweetwater,30,President - Gre,999997,Registered Voters,0760,76 Sweetwater,30,President - Gre,999996,Times Counted,0760,76 Sweetwater,30,President - Gre,10,"Mesplay, Kent",0760,76 Sweetwater,30,President - Gre,20,"Stein, Jill",0780,78 Tachee,999999,Race Statistics,999999,Number of Precincts,1780,78 Tachee,999999,Race Statistics,999998,Number of Precincts Reporting,1780,78 Tachee,10,President - Dem,999999,Number of Precincts for Race,1780,78 Tachee,10,President - Dem,999998,Number of Precincts Reporting,1780,78 Tachee,10,President - Dem,999997,Registered Voters,398780,78 Tachee,10,President - Dem,999996,Times Counted,110780,78 Tachee,10,President - Dem,10,"De La Fuente, Roque",1780,78 Tachee,10,President - Dem,20,"Steinberg, Michael",2780,78 Tachee,10,President - Dem,30,"Sanders, Bernie",32780,78 Tachee,10,President - Dem,40,"O'Malley, Martin J.",1780,78 Tachee,10,President - Dem,50,"Clinton, Hillary",71780,78 Tachee,10,President - Dem,60,"Hewes, Henry",3780,78 Tachee,20,President - Rep,999999,Number of Precincts for Race,1780,78 Tachee,20,President - Rep,999998,Number of Precincts Reporting,1780,78 Tachee,20,President - Rep,999997,Registered Voters,35780,78 Tachee,20,President - Rep,999996,Times Counted,7780,78 Tachee,20,President - Rep,10,"Santorum, Rick",0780,78 Tachee,20,President - Rep,20,"Cook, Tim",1780,78 Tachee,20,President - Rep,30,"Paul, Rand",0780,78 Tachee,20,President - Rep,40,"Rubio, Marco",0780,78 Tachee,20,President - Rep,50,"Graham, Lindsey",1780,78 Tachee,20,President - Rep,60,"Kasich, John R.",0780,78 Tachee,20,President - Rep,70,"Bush, Jeb",0780,78 Tachee,20,President - Rep,80,"Trump, Donald J.",4780,78 Tachee,20,President - Rep,90,"Fiorina, Carly",0780,78 Tachee,20,President - Rep,100,"Pataki, George E.",0780,78 Tachee,20,President - Rep,110,"Cruz, Ted",1780,78 Tachee,20,President - Rep,120,"Huckabee, Mike",0780,78 Tachee,20,President - Rep,130,"Christie, Chris",0780,78 Tachee,20,President - Rep,140,"Carson, Ben",0780,78 Tachee,30,President - Gre,999999,Number of Precincts for Race,1780,78 Tachee,30,President - Gre,999998,Number of Precincts Reporting,1780,78 Tachee,30,President - Gre,999997,Registered Voters,0780,78 Tachee,30,President - Gre,999996,Times Counted,0780,78 Tachee,30,President - Gre,10,"Mesplay, Kent",0780,78 Tachee,30,President - Gre,20,"Stein, Jill",0800,80 Teec Nos Pos,999999,Race Statistics,999999,Number of Precincts,1800,80 Teec Nos Pos,999999,Race Statistics,999998,Number of Precincts Reporting,1800,80 Teec Nos Pos,10,President - Dem,999999,Number of Precincts for Race,1800,80 Teec Nos Pos,10,President - Dem,999998,Number of Precincts Reporting,1800,80 Teec Nos Pos,10,President - Dem,999997,Registered Voters,570800,80 Teec Nos Pos,10,President - Dem,999996,Times Counted,91800,80 Teec Nos Pos,10,President - Dem,10,"De La Fuente, Roque",0800,80 Teec Nos Pos,10,President - Dem,20,"Steinberg, Michael",1800,80 Teec Nos Pos,10,President - Dem,30,"Sanders, Bernie",22800,80 Teec Nos Pos,10,President - Dem,40,"O'Malley, Martin J.",2800,80 Teec Nos Pos,10,President - Dem,50,"Clinton, Hillary",65800,80 Teec Nos Pos,10,President - Dem,60,"Hewes, Henry",1800,80 Teec Nos Pos,20,President - Rep,999999,Number of Precincts for Race,1800,80 Teec Nos Pos,20,President - Rep,999998,Number of Precincts Reporting,1800,80 Teec Nos Pos,20,President - Rep,999997,Registered Voters,110800,80 Teec Nos Pos,20,President - Rep,999996,Times Counted,17800,80 Teec Nos Pos,20,President - Rep,10,"Santorum, Rick",1800,80 Teec Nos Pos,20,President - Rep,20,"Cook, Tim",0800,80 Teec Nos Pos,20,President - Rep,30,"Paul, Rand",0800,80 Teec Nos Pos,20,President - Rep,40,"Rubio, Marco",3800,80 Teec Nos Pos,20,President - Rep,50,"Graham, Lindsey",1800,80 Teec Nos Pos,20,President - Rep,60,"Kasich, John R.",3800,80 Teec Nos Pos,20,President - Rep,70,"Bush, Jeb",0800,80 Teec Nos Pos,20,President - Rep,80,"Trump, Donald J.",4800,80 Teec Nos Pos,20,President - Rep,90,"Fiorina, Carly",0800,80 Teec Nos Pos,20,President - Rep,100,"Pataki, George E.",0800,80 Teec Nos Pos,20,President - Rep,110,"Cruz, Ted",5800,80 Teec Nos Pos,20,President - Rep,120,"Huckabee, Mike",0800,80 Teec Nos Pos,20,President - Rep,130,"Christie, Chris",0800,80 Teec Nos Pos,20,President - Rep,140,"Carson, Ben",0800,80 Teec Nos Pos,30,President - Gre,999999,Number of Precincts for Race,1800,80 Teec Nos Pos,30,President - Gre,999998,Number of Precincts Reporting,1800,80 Teec Nos Pos,30,President - Gre,999997,Registered Voters,0800,80 Teec Nos Pos,30,President - Gre,999996,Times Counted,0800,80 Teec Nos Pos,30,President - Gre,10,"Mesplay, Kent",0800,80 Teec Nos Pos,30,President - Gre,20,"Stein, Jill",0820,82 Vernon,999999,Race Statistics,999999,Number of Precincts,1820,82 Vernon,999999,Race Statistics,999998,Number of Precincts Reporting,1820,82 Vernon,10,President - Dem,999999,Number of Precincts for Race,1820,82 Vernon,10,President - Dem,999998,Number of Precincts Reporting,1820,82 Vernon,10,President - Dem,999997,Registered Voters,217820,82 Vernon,10,President - Dem,999996,Times Counted,114820,82 Vernon,10,President - Dem,10,"De La Fuente, Roque",2820,82 Vernon,10,President - Dem,20,"Steinberg, Michael",0820,82 Vernon,10,President - Dem,30,"Sanders, Bernie",50820,82 Vernon,10,President - Dem,40,"O'Malley, Martin J.",2820,82 Vernon,10,President - Dem,50,"Clinton, Hillary",58820,82 Vernon,10,President - Dem,60,"Hewes, Henry",0820,82 Vernon,20,President - Rep,999999,Number of Precincts for Race,1820,82 Vernon,20,President - Rep,999998,Number of Precincts Reporting,1820,82 Vernon,20,President - Rep,999997,Registered Voters,638820,82 Vernon,20,President - Rep,999996,Times Counted,404820,82 Vernon,20,President - Rep,10,"Santorum, Rick",0820,82 Vernon,20,President - Rep,20,"Cook, Tim",0820,82 Vernon,20,President - Rep,30,"Paul, Rand",0820,82 Vernon,20,President - Rep,40,"Rubio, Marco",9820,82 Vernon,20,President - Rep,50,"Graham, Lindsey",0820,82 Vernon,20,President - Rep,60,"Kasich, John R.",21820,82 Vernon,20,President - Rep,70,"Bush, Jeb",2820,82 Vernon,20,President - Rep,80,"Trump, Donald J.",227820,82 Vernon,20,President - Rep,90,"Fiorina, Carly",1820,82 Vernon,20,President - Rep,100,"Pataki, George E.",1820,82 Vernon,20,President - Rep,110,"Cruz, Ted",135820,82 Vernon,20,President - Rep,120,"Huckabee, Mike",1820,82 Vernon,20,President - Rep,130,"Christie, Chris",0820,82 Vernon,20,President - Rep,140,"Carson, Ben",7820,82 Vernon,30,President - Gre,999999,Number of Precincts for Race,1820,82 Vernon,30,President - Gre,999998,Number of Precincts Reporting,1820,82 Vernon,30,President - Gre,999997,Registered Voters,1820,82 Vernon,30,President - Gre,999996,Times Counted,0820,82 Vernon,30,President - Gre,10,"Mesplay, Kent",0820,82 Vernon,30,President - Gre,20,"Stein, Jill",0840,84 Wheatfields,999999,Race Statistics,999999,Number of Precincts,1840,84 Wheatfields,999999,Race Statistics,999998,Number of Precincts Reporting,1840,84 Wheatfields,10,President - Dem,999999,Number of Precincts for Race,1840,84 Wheatfields,10,President - Dem,999998,Number of Precincts Reporting,1840,84 Wheatfields,10,President - Dem,999997,Registered Voters,993840,84 Wheatfields,10,President - Dem,999996,Times Counted,306840,84 Wheatfields,10,President - Dem,10,"De La Fuente, Roque",3840,84 Wheatfields,10,President - Dem,20,"Steinberg, Michael",5840,84 Wheatfields,10,President - Dem,30,"Sanders, Bernie",62840,84 Wheatfields,10,President - Dem,40,"O'Malley, Martin J.",6840,84 Wheatfields,10,President - Dem,50,"Clinton, Hillary",226840,84 Wheatfields,10,President - Dem,60,"Hewes, Henry",4840,84 Wheatfields,20,President - Rep,999999,Number of Precincts for Race,1840,84 Wheatfields,20,President - Rep,999998,Number of Precincts Reporting,1840,84 Wheatfields,20,President - Rep,999997,Registered Voters,79840,84 Wheatfields,20,President - Rep,999996,Times Counted,11840,84 Wheatfields,20,President - Rep,10,"Santorum, Rick",0840,84 Wheatfields,20,President - Rep,20,"Cook, Tim",0840,84 Wheatfields,20,President - Rep,30,"Paul, Rand",0840,84 Wheatfields,20,President - Rep,40,"Rubio, Marco",1840,84 Wheatfields,20,President - Rep,50,"Graham, Lindsey",0840,84 Wheatfields,20,President - Rep,60,"Kasich, John R.",2840,84 Wheatfields,20,President - Rep,70,"Bush, Jeb",0840,84 Wheatfields,20,President - Rep,80,"Trump, Donald J.",4840,84 Wheatfields,20,President - Rep,90,"Fiorina, Carly",0840,84 Wheatfields,20,President - Rep,100,"Pataki, George E.",0840,84 Wheatfields,20,President - Rep,110,"Cruz, Ted",2840,84 Wheatfields,20,President - Rep,120,"Huckabee, Mike",2840,84 Wheatfields,20,President - Rep,130,"Christie, Chris",0840,84 Wheatfields,20,President - Rep,140,"Carson, Ben",0840,84 Wheatfields,30,President - Gre,999999,Number of Precincts for Race,1840,84 Wheatfields,30,President - Gre,999998,Number of Precincts Reporting,1840,84 Wheatfields,30,President - Gre,999997,Registered Voters,1840,84 Wheatfields,30,President - Gre,999996,Times Counted,0840,84 Wheatfields,30,President - Gre,10,"Mesplay, Kent",0840,84 Wheatfields,30,President - Gre,20,"Stein, Jill",0860,86 Wide Ruins,999999,Race Statistics,999999,Number of Precincts,1860,86 Wide Ruins,999999,Race Statistics,999998,Number of Precincts Reporting,1860,86 Wide Ruins,10,President - Dem,999999,Number of Precincts for Race,1860,86 Wide Ruins,10,President - Dem,999998,Number of Precincts Reporting,1860,86 Wide Ruins,10,President - Dem,999997,Registered Voters,530860,86 Wide Ruins,10,President - Dem,999996,Times Counted,162860,86 Wide Ruins,10,President - Dem,10,"De La Fuente, Roque",1860,86 Wide Ruins,10,President - Dem,20,"Steinberg, Michael",4860,86 Wide Ruins,10,President - Dem,30,"Sanders, Bernie",34860,86 Wide Ruins,10,President - Dem,40,"O'Malley, Martin J.",1860,86 Wide Ruins,10,President - Dem,50,"Clinton, Hillary",121860,86 Wide Ruins,10,President - Dem,60,"Hewes, Henry",1860,86 Wide Ruins,20,President - Rep,999999,Number of Precincts for Race,1860,86 Wide Ruins,20,President - Rep,999998,Number of Precincts Reporting,1860,86 Wide Ruins,20,President - Rep,999997,Registered Voters,51860,86 Wide Ruins,20,President - Rep,999996,Times Counted,9860,86 Wide Ruins,20,President - Rep,10,"Santorum, Rick",0860,86 Wide Ruins,20,President - Rep,20,"Cook, Tim",0860,86 Wide Ruins,20,President - Rep,30,"Paul, Rand",0860,86 Wide Ruins,20,President - Rep,40,"Rubio, Marco",1860,86 Wide Ruins,20,President - Rep,50,"Graham, Lindsey",0860,86 Wide Ruins,20,President - Rep,60,"Kasich, John R.",1860,86 Wide Ruins,20,President - Rep,70,"Bush, Jeb",0860,86 Wide Ruins,20,President - Rep,80,"Trump, Donald J.",3860,86 Wide Ruins,20,President - Rep,90,"Fiorina, Carly",0860,86 Wide Ruins,20,President - Rep,100,"Pataki, George E.",0860,86 Wide Ruins,20,President - Rep,110,"Cruz, Ted",2860,86 Wide Ruins,20,President - Rep,120,"Huckabee, Mike",0860,86 Wide Ruins,20,President - Rep,130,"Christie, Chris",0860,86 Wide Ruins,20,President - Rep,140,"Carson, Ben",2860,86 Wide Ruins,30,President - Gre,999999,Number of Precincts for Race,1860,86 Wide Ruins,30,President - Gre,999998,Number of Precincts Reporting,1860,86 Wide Ruins,30,President - Gre,999997,Registered Voters,0860,86 Wide Ruins,30,President - Gre,999996,Times Counted,0860,86 Wide Ruins,30,President - Gre,10,"Mesplay, Kent",0860,86 Wide Ruins,30,President - Gre,20,"Stein, Jill",0880,88 Window Rock,999999,Race Statistics,999999,Number of Precincts,1880,88 Window Rock,999999,Race Statistics,999998,Number of Precincts Reporting,1880,88 Window Rock,10,President - Dem,999999,Number of Precincts for Race,1880,88 Window Rock,10,President - Dem,999998,Number of Precincts Reporting,1880,88 Window Rock,10,President - Dem,999997,Registered Voters,1079880,88 Window Rock,10,President - Dem,999996,Times Counted,360880,88 Window Rock,10,President - Dem,10,"De La Fuente, Roque",0880,88 Window Rock,10,President - Dem,20,"Steinberg, Michael",0880,88 Window Rock,10,President - Dem,30,"Sanders, Bernie",138880,88 Window Rock,10,President - Dem,40,"O'Malley, Martin J.",0880,88 Window Rock,10,President - Dem,50,"Clinton, Hillary",219880,88 Window Rock,10,President - Dem,60,"Hewes, Henry",1880,88 Window Rock,20,President - Rep,999999,Number of Precincts for Race,1880,88 Window Rock,20,President - Rep,999998,Number of Precincts Reporting,1880,88 Window Rock,20,President - Rep,999997,Registered Voters,220880,88 Window Rock,20,President - Rep,999996,Times Counted,54880,88 Window Rock,20,President - Rep,10,"Santorum, Rick",0880,88 Window Rock,20,President - Rep,20,"Cook, Tim",0880,88 Window Rock,20,President - Rep,30,"Paul, Rand",3880,88 Window Rock,20,President - Rep,40,"Rubio, Marco",2880,88 Window Rock,20,President - Rep,50,"Graham, Lindsey",0880,88 Window Rock,20,President - Rep,60,"Kasich, John R.",4880,88 Window Rock,20,President - Rep,70,"Bush, Jeb",3880,88 Window Rock,20,President - Rep,80,"Trump, Donald J.",16880,88 Window Rock,20,President - Rep,90,"Fiorina, Carly",0880,88 Window Rock,20,President - Rep,100,"Pataki, George E.",0880,88 Window Rock,20,President - Rep,110,"Cruz, Ted",21880,88 Window Rock,20,President - Rep,120,"Huckabee, Mike",1880,88 Window Rock,20,President - Rep,130,"Christie, Chris",1880,88 Window Rock,20,President - Rep,140,"Carson, Ben",1880,88 Window Rock,30,President - Gre,999999,Number of Precincts for Race,1880,88 Window Rock,30,President - Gre,999998,Number of Precincts Reporting,1880,88 Window Rock,30,President - Gre,999997,Registered Voters,1880,88 Window Rock,30,President - Gre,999996,Times Counted,1880,88 Window Rock,30,President - Gre,10,"Mesplay, Kent",1880,88 Window Rock,30,President - Gre,20,"Stein, Jill",0999999,Election Total,999999,Race Statistics,999999,Number of Precincts,41999999,Election Total,999999,Race Statistics,999998,Number of Precincts Reporting,41999999,Election Total,10,President - Dem,999999,Number of Precincts for Race,41999999,Election Total,10,President - Dem,999998,Number of Precincts Reporting,41999999,Election Total,10,President - Dem,999997,Registered Voters,26731999999,Election Total,10,President - Dem,999996,Times Counted,8093999999,Election Total,10,President - Dem,10,"De La Fuente, Roque",78999999,Election Total,10,President - Dem,20,"Steinberg, Michael",116999999,Election Total,10,President - Dem,30,"Sanders, Bernie",2415999999,Election Total,10,President - Dem,40,"O'Malley, Martin J.",112999999,Election Total,10,President - Dem,50,"Clinton, Hillary",5264999999,Election Total,10,President - Dem,60,"Hewes, Henry",75999999,Election Total,20,President - Rep,999999,Number of Precincts for Race,41999999,Election Total,20,President - Rep,999998,Number of Precincts Reporting,41999999,Election Total,20,President - Rep,999997,Registered Voters,7870999999,Election Total,20,President - Rep,999996,Times Counted,3244999999,Election Total,20,President - Rep,10,"Santorum, Rick",14999999,Election Total,20,President - Rep,20,"Cook, Tim",11999999,Election Total,20,President - Rep,30,"Paul, Rand",24999999,Election Total,20,President - Rep,40,"Rubio, Marco",124999999,Election Total,20,President - Rep,50,"Graham, Lindsey",12999999,Election Total,20,President - Rep,60,"Kasich, John R.",189999999,Election Total,20,President - Rep,70,"Bush, Jeb",68999999,Election Total,20,President - Rep,80,"Trump, Donald J.",1389999999,Election Total,20,President - Rep,90,"Fiorina, Carly",10999999,Election Total,20,President - Rep,100,"Pataki, George E.",4999999,Election Total,20,President - Rep,110,"Cruz, Ted",1271999999,Election Total,20,President - Rep,120,"Huckabee, Mike",13999999,Election Total,20,President - Rep,130,"Christie, Chris",20999999,Election Total,20,President - Rep,140,"Carson, Ben",84999999,Election Total,30,President - Gre,999999,Number of Precincts for Race,41999999,Election Total,30,President - Gre,999998,Number of Precincts Reporting,41999999,Election Total,30,President - Gre,999997,Registered Voters,34999999,Election Total,30,President - Gre,999996,Times Counted,23999999,Election Total,30,President - Gre,10,"Mesplay, Kent",7999999,Election Total,30,President - Gre,20,"Stein, Jill",16
+contest,precinct_name,contest_id,contest_name,choice,choice_name,number
+20,02 Alpine,999999,Race Statistics,999999,Number of Precincts,1
+20,02 Alpine,999999,Race Statistics,999998,Number of Precincts Reporting,1
+20,02 Alpine,10,President - Dem,999999,Number of Precincts for Race,1
+20,02 Alpine,10,President - Dem,999998,Number of Precincts Reporting,1
+20,02 Alpine,10,President - Dem,999997,Registered Voters,80
+20,02 Alpine,10,President - Dem,999996,Times Counted,41
+20,02 Alpine,10,President - Dem,10,"De La Fuente, Roque",0
+20,02 Alpine,10,President - Dem,20,"Steinberg, Michael",1
+20,02 Alpine,10,President - Dem,30,"Sanders, Bernie",20
+20,02 Alpine,10,President - Dem,40,"O'Malley, Martin J.",2
+20,02 Alpine,10,President - Dem,50,"Clinton, Hillary",15
+20,02 Alpine,10,President - Dem,60,"Hewes, Henry",0
+20,02 Alpine,20,President - Rep,999999,Number of Precincts for Race,1
+20,02 Alpine,20,President - Rep,999998,Number of Precincts Reporting,1
+20,02 Alpine,20,President - Rep,999997,Registered Voters,181
+20,02 Alpine,20,President - Rep,999996,Times Counted,107
+20,02 Alpine,20,President - Rep,10,"Santorum, Rick",0
+20,02 Alpine,20,President - Rep,20,"Cook, Tim",0
+20,02 Alpine,20,President - Rep,30,"Paul, Rand",0
+20,02 Alpine,20,President - Rep,40,"Rubio, Marco",2
+20,02 Alpine,20,President - Rep,50,"Graham, Lindsey",0
+20,02 Alpine,20,President - Rep,60,"Kasich, John R.",13
+20,02 Alpine,20,President - Rep,70,"Bush, Jeb",0
+20,02 Alpine,20,President - Rep,80,"Trump, Donald J.",55
+20,02 Alpine,20,President - Rep,90,"Fiorina, Carly",0
+20,02 Alpine,20,President - Rep,100,"Pataki, George E.",0
+20,02 Alpine,20,President - Rep,110,"Cruz, Ted",37
+20,02 Alpine,20,President - Rep,120,"Huckabee, Mike",0
+20,02 Alpine,20,President - Rep,130,"Christie, Chris",0
+20,02 Alpine,20,President - Rep,140,"Carson, Ben",0
+20,02 Alpine,30,President - Gre,999999,Number of Precincts for Race,1
+20,02 Alpine,30,President - Gre,999998,Number of Precincts Reporting,1
+20,02 Alpine,30,President - Gre,999997,Registered Voters,0
+20,02 Alpine,30,President - Gre,999996,Times Counted,0
+20,02 Alpine,30,President - Gre,10,"Mesplay, Kent",0
+20,02 Alpine,30,President - Gre,20,"Stein, Jill",0
+30,03 Canyon De Chelly,999999,Race Statistics,999999,Number of Precincts,1
+30,03 Canyon De Chelly,999999,Race Statistics,999998,Number of Precincts Reporting,1
+30,03 Canyon De Chelly,10,President - Dem,999999,Number of Precincts for Race,1
+30,03 Canyon De Chelly,10,President - Dem,999998,Number of Precincts Reporting,1
+30,03 Canyon De Chelly,10,President - Dem,999997,Registered Voters,1939
+30,03 Canyon De Chelly,10,President - Dem,999996,Times Counted,515
+30,03 Canyon De Chelly,10,President - Dem,10,"De La Fuente, Roque",3
+30,03 Canyon De Chelly,10,President - Dem,20,"Steinberg, Michael",9
+30,03 Canyon De Chelly,10,President - Dem,30,"Sanders, Bernie",143
+30,03 Canyon De Chelly,10,President - Dem,40,"O'Malley, Martin J.",4
+30,03 Canyon De Chelly,10,President - Dem,50,"Clinton, Hillary",351
+30,03 Canyon De Chelly,10,President - Dem,60,"Hewes, Henry",4
+30,03 Canyon De Chelly,20,President - Rep,999999,Number of Precincts for Race,1
+30,03 Canyon De Chelly,20,President - Rep,999998,Number of Precincts Reporting,1
+30,03 Canyon De Chelly,20,President - Rep,999997,Registered Voters,330
+30,03 Canyon De Chelly,20,President - Rep,999996,Times Counted,53
+30,03 Canyon De Chelly,20,President - Rep,10,"Santorum, Rick",0
+30,03 Canyon De Chelly,20,President - Rep,20,"Cook, Tim",1
+30,03 Canyon De Chelly,20,President - Rep,30,"Paul, Rand",3
+30,03 Canyon De Chelly,20,President - Rep,40,"Rubio, Marco",5
+30,03 Canyon De Chelly,20,President - Rep,50,"Graham, Lindsey",1
+30,03 Canyon De Chelly,20,President - Rep,60,"Kasich, John R.",0
+30,03 Canyon De Chelly,20,President - Rep,70,"Bush, Jeb",2
+30,03 Canyon De Chelly,20,President - Rep,80,"Trump, Donald J.",13
+30,03 Canyon De Chelly,20,President - Rep,90,"Fiorina, Carly",0
+30,03 Canyon De Chelly,20,President - Rep,100,"Pataki, George E.",0
+30,03 Canyon De Chelly,20,President - Rep,110,"Cruz, Ted",22
+30,03 Canyon De Chelly,20,President - Rep,120,"Huckabee, Mike",0
+30,03 Canyon De Chelly,20,President - Rep,130,"Christie, Chris",3
+30,03 Canyon De Chelly,20,President - Rep,140,"Carson, Ben",3
+30,03 Canyon De Chelly,30,President - Gre,999999,Number of Precincts for Race,1
+30,03 Canyon De Chelly,30,President - Gre,999998,Number of Precincts Reporting,1
+30,03 Canyon De Chelly,30,President - Gre,999997,Registered Voters,1
+30,03 Canyon De Chelly,30,President - Gre,999996,Times Counted,0
+30,03 Canyon De Chelly,30,President - Gre,10,"Mesplay, Kent",0
+30,03 Canyon De Chelly,30,President - Gre,20,"Stein, Jill",0
+50,05 Chinle,999999,Race Statistics,999999,Number of Precincts,1
+50,05 Chinle,999999,Race Statistics,999998,Number of Precincts Reporting,1
+50,05 Chinle,10,President - Dem,999999,Number of Precincts for Race,1
+50,05 Chinle,10,President - Dem,999998,Number of Precincts Reporting,1
+50,05 Chinle,10,President - Dem,999997,Registered Voters,979
+50,05 Chinle,10,President - Dem,999996,Times Counted,263
+50,05 Chinle,10,President - Dem,10,"De La Fuente, Roque",0
+50,05 Chinle,10,President - Dem,20,"Steinberg, Michael",1
+50,05 Chinle,10,President - Dem,30,"Sanders, Bernie",79
+50,05 Chinle,10,President - Dem,40,"O'Malley, Martin J.",5
+50,05 Chinle,10,President - Dem,50,"Clinton, Hillary",178
+50,05 Chinle,10,President - Dem,60,"Hewes, Henry",0
+50,05 Chinle,20,President - Rep,999999,Number of Precincts for Race,1
+50,05 Chinle,20,President - Rep,999998,Number of Precincts Reporting,1
+50,05 Chinle,20,President - Rep,999997,Registered Voters,179
+50,05 Chinle,20,President - Rep,999996,Times Counted,41
+50,05 Chinle,20,President - Rep,10,"Santorum, Rick",1
+50,05 Chinle,20,President - Rep,20,"Cook, Tim",0
+50,05 Chinle,20,President - Rep,30,"Paul, Rand",0
+50,05 Chinle,20,President - Rep,40,"Rubio, Marco",2
+50,05 Chinle,20,President - Rep,50,"Graham, Lindsey",0
+50,05 Chinle,20,President - Rep,60,"Kasich, John R.",7
+50,05 Chinle,20,President - Rep,70,"Bush, Jeb",4
+50,05 Chinle,20,President - Rep,80,"Trump, Donald J.",13
+50,05 Chinle,20,President - Rep,90,"Fiorina, Carly",0
+50,05 Chinle,20,President - Rep,100,"Pataki, George E.",0
+50,05 Chinle,20,President - Rep,110,"Cruz, Ted",12
+50,05 Chinle,20,President - Rep,120,"Huckabee, Mike",0
+50,05 Chinle,20,President - Rep,130,"Christie, Chris",0
+50,05 Chinle,20,President - Rep,140,"Carson, Ben",1
+50,05 Chinle,30,President - Gre,999999,Number of Precincts for Race,1
+50,05 Chinle,30,President - Gre,999998,Number of Precincts Reporting,1
+50,05 Chinle,30,President - Gre,999997,Registered Voters,2
+50,05 Chinle,30,President - Gre,999996,Times Counted,0
+50,05 Chinle,30,President - Gre,10,"Mesplay, Kent",0
+50,05 Chinle,30,President - Gre,20,"Stein, Jill",0
+90,09 Concho,999999,Race Statistics,999999,Number of Precincts,1
+90,09 Concho,999999,Race Statistics,999998,Number of Precincts Reporting,1
+90,09 Concho,10,President - Dem,999999,Number of Precincts for Race,1
+90,09 Concho,10,President - Dem,999998,Number of Precincts Reporting,1
+90,09 Concho,10,President - Dem,999997,Registered Voters,312
+90,09 Concho,10,President - Dem,999996,Times Counted,122
+90,09 Concho,10,President - Dem,10,"De La Fuente, Roque",3
+90,09 Concho,10,President - Dem,20,"Steinberg, Michael",1
+90,09 Concho,10,President - Dem,30,"Sanders, Bernie",73
+90,09 Concho,10,President - Dem,40,"O'Malley, Martin J.",2
+90,09 Concho,10,President - Dem,50,"Clinton, Hillary",42
+90,09 Concho,10,President - Dem,60,"Hewes, Henry",1
+90,09 Concho,20,President - Rep,999999,Number of Precincts for Race,1
+90,09 Concho,20,President - Rep,999998,Number of Precincts Reporting,1
+90,09 Concho,20,President - Rep,999997,Registered Voters,774
+90,09 Concho,20,President - Rep,999996,Times Counted,471
+90,09 Concho,20,President - Rep,10,"Santorum, Rick",0
+90,09 Concho,20,President - Rep,20,"Cook, Tim",0
+90,09 Concho,20,President - Rep,30,"Paul, Rand",0
+90,09 Concho,20,President - Rep,40,"Rubio, Marco",8
+90,09 Concho,20,President - Rep,50,"Graham, Lindsey",0
+90,09 Concho,20,President - Rep,60,"Kasich, John R.",16
+90,09 Concho,20,President - Rep,70,"Bush, Jeb",0
+90,09 Concho,20,President - Rep,80,"Trump, Donald J.",285
+90,09 Concho,20,President - Rep,90,"Fiorina, Carly",1
+90,09 Concho,20,President - Rep,100,"Pataki, George E.",0
+90,09 Concho,20,President - Rep,110,"Cruz, Ted",157
+90,09 Concho,20,President - Rep,120,"Huckabee, Mike",0
+90,09 Concho,20,President - Rep,130,"Christie, Chris",0
+90,09 Concho,20,President - Rep,140,"Carson, Ben",4
+90,09 Concho,30,President - Gre,999999,Number of Precincts for Race,1
+90,09 Concho,30,President - Gre,999998,Number of Precincts Reporting,1
+90,09 Concho,30,President - Gre,999997,Registered Voters,5
+90,09 Concho,30,President - Gre,999996,Times Counted,4
+90,09 Concho,30,President - Gre,10,"Mesplay, Kent",0
+90,09 Concho,30,President - Gre,20,"Stein, Jill",4
+100,10 Cornfields,999999,Race Statistics,999999,Number of Precincts,1
+100,10 Cornfields,999999,Race Statistics,999998,Number of Precincts Reporting,1
+100,10 Cornfields,10,President - Dem,999999,Number of Precincts for Race,1
+100,10 Cornfields,10,President - Dem,999998,Number of Precincts Reporting,1
+100,10 Cornfields,10,President - Dem,999997,Registered Voters,540
+100,10 Cornfields,10,President - Dem,999996,Times Counted,190
+100,10 Cornfields,10,President - Dem,10,"De La Fuente, Roque",0
+100,10 Cornfields,10,President - Dem,20,"Steinberg, Michael",4
+100,10 Cornfields,10,President - Dem,30,"Sanders, Bernie",53
+100,10 Cornfields,10,President - Dem,40,"O'Malley, Martin J.",2
+100,10 Cornfields,10,President - Dem,50,"Clinton, Hillary",129
+100,10 Cornfields,10,President - Dem,60,"Hewes, Henry",2
+100,10 Cornfields,20,President - Rep,999999,Number of Precincts for Race,1
+100,10 Cornfields,20,President - Rep,999998,Number of Precincts Reporting,1
+100,10 Cornfields,20,President - Rep,999997,Registered Voters,53
+100,10 Cornfields,20,President - Rep,999996,Times Counted,12
+100,10 Cornfields,20,President - Rep,10,"Santorum, Rick",1
+100,10 Cornfields,20,President - Rep,20,"Cook, Tim",0
+100,10 Cornfields,20,President - Rep,30,"Paul, Rand",0
+100,10 Cornfields,20,President - Rep,40,"Rubio, Marco",1
+100,10 Cornfields,20,President - Rep,50,"Graham, Lindsey",0
+100,10 Cornfields,20,President - Rep,60,"Kasich, John R.",2
+100,10 Cornfields,20,President - Rep,70,"Bush, Jeb",0
+100,10 Cornfields,20,President - Rep,80,"Trump, Donald J.",1
+100,10 Cornfields,20,President - Rep,90,"Fiorina, Carly",0
+100,10 Cornfields,20,President - Rep,100,"Pataki, George E.",0
+100,10 Cornfields,20,President - Rep,110,"Cruz, Ted",5
+100,10 Cornfields,20,President - Rep,120,"Huckabee, Mike",1
+100,10 Cornfields,20,President - Rep,130,"Christie, Chris",0
+100,10 Cornfields,20,President - Rep,140,"Carson, Ben",1
+100,10 Cornfields,30,President - Gre,999999,Number of Precincts for Race,1
+100,10 Cornfields,30,President - Gre,999998,Number of Precincts Reporting,1
+100,10 Cornfields,30,President - Gre,999997,Registered Voters,0
+100,10 Cornfields,30,President - Gre,999996,Times Counted,0
+100,10 Cornfields,30,President - Gre,10,"Mesplay, Kent",0
+100,10 Cornfields,30,President - Gre,20,"Stein, Jill",0
+110,11 Cottonwood,999999,Race Statistics,999999,Number of Precincts,1
+110,11 Cottonwood,999999,Race Statistics,999998,Number of Precincts Reporting,1
+110,11 Cottonwood,10,President - Dem,999999,Number of Precincts for Race,1
+110,11 Cottonwood,10,President - Dem,999998,Number of Precincts Reporting,1
+110,11 Cottonwood,10,President - Dem,999997,Registered Voters,822
+110,11 Cottonwood,10,President - Dem,999996,Times Counted,265
+110,11 Cottonwood,10,President - Dem,10,"De La Fuente, Roque",0
+110,11 Cottonwood,10,President - Dem,20,"Steinberg, Michael",8
+110,11 Cottonwood,10,President - Dem,30,"Sanders, Bernie",52
+110,11 Cottonwood,10,President - Dem,40,"O'Malley, Martin J.",1
+110,11 Cottonwood,10,President - Dem,50,"Clinton, Hillary",202
+110,11 Cottonwood,10,President - Dem,60,"Hewes, Henry",1
+110,11 Cottonwood,20,President - Rep,999999,Number of Precincts for Race,1
+110,11 Cottonwood,20,President - Rep,999998,Number of Precincts Reporting,1
+110,11 Cottonwood,20,President - Rep,999997,Registered Voters,84
+110,11 Cottonwood,20,President - Rep,999996,Times Counted,18
+110,11 Cottonwood,20,President - Rep,10,"Santorum, Rick",1
+110,11 Cottonwood,20,President - Rep,20,"Cook, Tim",0
+110,11 Cottonwood,20,President - Rep,30,"Paul, Rand",0
+110,11 Cottonwood,20,President - Rep,40,"Rubio, Marco",0
+110,11 Cottonwood,20,President - Rep,50,"Graham, Lindsey",0
+110,11 Cottonwood,20,President - Rep,60,"Kasich, John R.",0
+110,11 Cottonwood,20,President - Rep,70,"Bush, Jeb",2
+110,11 Cottonwood,20,President - Rep,80,"Trump, Donald J.",4
+110,11 Cottonwood,20,President - Rep,90,"Fiorina, Carly",1
+110,11 Cottonwood,20,President - Rep,100,"Pataki, George E.",0
+110,11 Cottonwood,20,President - Rep,110,"Cruz, Ted",6
+110,11 Cottonwood,20,President - Rep,120,"Huckabee, Mike",0
+110,11 Cottonwood,20,President - Rep,130,"Christie, Chris",3
+110,11 Cottonwood,20,President - Rep,140,"Carson, Ben",0
+110,11 Cottonwood,30,President - Gre,999999,Number of Precincts for Race,1
+110,11 Cottonwood,30,President - Gre,999998,Number of Precincts Reporting,1
+110,11 Cottonwood,30,President - Gre,999997,Registered Voters,0
+110,11 Cottonwood,30,President - Gre,999996,Times Counted,0
+110,11 Cottonwood,30,President - Gre,10,"Mesplay, Kent",0
+110,11 Cottonwood,30,President - Gre,20,"Stein, Jill",0
+130,13 Dennehotso,999999,Race Statistics,999999,Number of Precincts,1
+130,13 Dennehotso,999999,Race Statistics,999998,Number of Precincts Reporting,1
+130,13 Dennehotso,10,President - Dem,999999,Number of Precincts for Race,1
+130,13 Dennehotso,10,President - Dem,999998,Number of Precincts Reporting,1
+130,13 Dennehotso,10,President - Dem,999997,Registered Voters,626
+130,13 Dennehotso,10,President - Dem,999996,Times Counted,172
+130,13 Dennehotso,10,President - Dem,10,"De La Fuente, Roque",1
+130,13 Dennehotso,10,President - Dem,20,"Steinberg, Michael",1
+130,13 Dennehotso,10,President - Dem,30,"Sanders, Bernie",29
+130,13 Dennehotso,10,President - Dem,40,"O'Malley, Martin J.",3
+130,13 Dennehotso,10,President - Dem,50,"Clinton, Hillary",135
+130,13 Dennehotso,10,President - Dem,60,"Hewes, Henry",3
+130,13 Dennehotso,20,President - Rep,999999,Number of Precincts for Race,1
+130,13 Dennehotso,20,President - Rep,999998,Number of Precincts Reporting,1
+130,13 Dennehotso,20,President - Rep,999997,Registered Voters,135
+130,13 Dennehotso,20,President - Rep,999996,Times Counted,34
+130,13 Dennehotso,20,President - Rep,10,"Santorum, Rick",1
+130,13 Dennehotso,20,President - Rep,20,"Cook, Tim",1
+130,13 Dennehotso,20,President - Rep,30,"Paul, Rand",1
+130,13 Dennehotso,20,President - Rep,40,"Rubio, Marco",0
+130,13 Dennehotso,20,President - Rep,50,"Graham, Lindsey",1
+130,13 Dennehotso,20,President - Rep,60,"Kasich, John R.",2
+130,13 Dennehotso,20,President - Rep,70,"Bush, Jeb",6
+130,13 Dennehotso,20,President - Rep,80,"Trump, Donald J.",5
+130,13 Dennehotso,20,President - Rep,90,"Fiorina, Carly",1
+130,13 Dennehotso,20,President - Rep,100,"Pataki, George E.",0
+130,13 Dennehotso,20,President - Rep,110,"Cruz, Ted",10
+130,13 Dennehotso,20,President - Rep,120,"Huckabee, Mike",1
+130,13 Dennehotso,20,President - Rep,130,"Christie, Chris",3
+130,13 Dennehotso,20,President - Rep,140,"Carson, Ben",2
+130,13 Dennehotso,30,President - Gre,999999,Number of Precincts for Race,1
+130,13 Dennehotso,30,President - Gre,999998,Number of Precincts Reporting,1
+130,13 Dennehotso,30,President - Gre,999997,Registered Voters,0
+130,13 Dennehotso,30,President - Gre,999996,Times Counted,0
+130,13 Dennehotso,30,President - Gre,10,"Mesplay, Kent",0
+130,13 Dennehotso,30,President - Gre,20,"Stein, Jill",0
+160,16 Eagar & 17 Flat Top,999999,Race Statistics,999999,Number of Precincts,1
+160,16 Eagar & 17 Flat Top,999999,Race Statistics,999998,Number of Precincts Reporting,1
+160,16 Eagar & 17 Flat Top,10,President - Dem,999999,Number of Precincts for Race,1
+160,16 Eagar & 17 Flat Top,10,President - Dem,999998,Number of Precincts Reporting,1
+160,16 Eagar & 17 Flat Top,10,President - Dem,999997,Registered Voters,393
+160,16 Eagar & 17 Flat Top,10,President - Dem,999996,Times Counted,154
+160,16 Eagar & 17 Flat Top,10,President - Dem,10,"De La Fuente, Roque",3
+160,16 Eagar & 17 Flat Top,10,President - Dem,20,"Steinberg, Michael",4
+160,16 Eagar & 17 Flat Top,10,President - Dem,30,"Sanders, Bernie",78
+160,16 Eagar & 17 Flat Top,10,President - Dem,40,"O'Malley, Martin J.",7
+160,16 Eagar & 17 Flat Top,10,President - Dem,50,"Clinton, Hillary",49
+160,16 Eagar & 17 Flat Top,10,President - Dem,60,"Hewes, Henry",10
+160,16 Eagar & 17 Flat Top,20,President - Rep,999999,Number of Precincts for Race,1
+160,16 Eagar & 17 Flat Top,20,President - Rep,999998,Number of Precincts Reporting,1
+160,16 Eagar & 17 Flat Top,20,President - Rep,999997,Registered Voters,1025
+160,16 Eagar & 17 Flat Top,20,President - Rep,999996,Times Counted,577
+160,16 Eagar & 17 Flat Top,20,President - Rep,10,"Santorum, Rick",0
+160,16 Eagar & 17 Flat Top,20,President - Rep,20,"Cook, Tim",0
+160,16 Eagar & 17 Flat Top,20,President - Rep,30,"Paul, Rand",3
+160,16 Eagar & 17 Flat Top,20,President - Rep,40,"Rubio, Marco",24
+160,16 Eagar & 17 Flat Top,20,President - Rep,50,"Graham, Lindsey",0
+160,16 Eagar & 17 Flat Top,20,President - Rep,60,"Kasich, John R.",48
+160,16 Eagar & 17 Flat Top,20,President - Rep,70,"Bush, Jeb",5
+160,16 Eagar & 17 Flat Top,20,President - Rep,80,"Trump, Donald J.",211
+160,16 Eagar & 17 Flat Top,20,President - Rep,90,"Fiorina, Carly",1
+160,16 Eagar & 17 Flat Top,20,President - Rep,100,"Pataki, George E.",0
+160,16 Eagar & 17 Flat Top,20,President - Rep,110,"Cruz, Ted",272
+160,16 Eagar & 17 Flat Top,20,President - Rep,120,"Huckabee, Mike",0
+160,16 Eagar & 17 Flat Top,20,President - Rep,130,"Christie, Chris",0
+160,16 Eagar & 17 Flat Top,20,President - Rep,140,"Carson, Ben",13
+160,16 Eagar & 17 Flat Top,30,President - Gre,999999,Number of Precincts for Race,1
+160,16 Eagar & 17 Flat Top,30,President - Gre,999998,Number of Precincts Reporting,1
+160,16 Eagar & 17 Flat Top,30,President - Gre,999997,Registered Voters,1
+160,16 Eagar & 17 Flat Top,30,President - Gre,999996,Times Counted,0
+160,16 Eagar & 17 Flat Top,30,President - Gre,10,"Mesplay, Kent",0
+160,16 Eagar & 17 Flat Top,30,President - Gre,20,"Stein, Jill",0
+190,19 Fort Defiance,999999,Race Statistics,999999,Number of Precincts,1
+190,19 Fort Defiance,999999,Race Statistics,999998,Number of Precincts Reporting,1
+190,19 Fort Defiance,10,President - Dem,999999,Number of Precincts for Race,1
+190,19 Fort Defiance,10,President - Dem,999998,Number of Precincts Reporting,1
+190,19 Fort Defiance,10,President - Dem,999997,Registered Voters,1749
+190,19 Fort Defiance,10,President - Dem,999996,Times Counted,607
+190,19 Fort Defiance,10,President - Dem,10,"De La Fuente, Roque",7
+190,19 Fort Defiance,10,President - Dem,20,"Steinberg, Michael",5
+190,19 Fort Defiance,10,President - Dem,30,"Sanders, Bernie",218
+190,19 Fort Defiance,10,President - Dem,40,"O'Malley, Martin J.",8
+190,19 Fort Defiance,10,President - Dem,50,"Clinton, Hillary",365
+190,19 Fort Defiance,10,President - Dem,60,"Hewes, Henry",3
+190,19 Fort Defiance,20,President - Rep,999999,Number of Precincts for Race,1
+190,19 Fort Defiance,20,President - Rep,999998,Number of Precincts Reporting,1
+190,19 Fort Defiance,20,President - Rep,999997,Registered Voters,390
+190,19 Fort Defiance,20,President - Rep,999996,Times Counted,116
+190,19 Fort Defiance,20,President - Rep,10,"Santorum, Rick",1
+190,19 Fort Defiance,20,President - Rep,20,"Cook, Tim",1
+190,19 Fort Defiance,20,President - Rep,30,"Paul, Rand",2
+190,19 Fort Defiance,20,President - Rep,40,"Rubio, Marco",7
+190,19 Fort Defiance,20,President - Rep,50,"Graham, Lindsey",0
+190,19 Fort Defiance,20,President - Rep,60,"Kasich, John R.",8
+190,19 Fort Defiance,20,President - Rep,70,"Bush, Jeb",6
+190,19 Fort Defiance,20,President - Rep,80,"Trump, Donald J.",28
+190,19 Fort Defiance,20,President - Rep,90,"Fiorina, Carly",1
+190,19 Fort Defiance,20,President - Rep,100,"Pataki, George E.",1
+190,19 Fort Defiance,20,President - Rep,110,"Cruz, Ted",52
+190,19 Fort Defiance,20,President - Rep,120,"Huckabee, Mike",2
+190,19 Fort Defiance,20,President - Rep,130,"Christie, Chris",1
+190,19 Fort Defiance,20,President - Rep,140,"Carson, Ben",5
+190,19 Fort Defiance,30,President - Gre,999999,Number of Precincts for Race,1
+190,19 Fort Defiance,30,President - Gre,999998,Number of Precincts Reporting,1
+190,19 Fort Defiance,30,President - Gre,999997,Registered Voters,3
+190,19 Fort Defiance,30,President - Gre,999996,Times Counted,1
+190,19 Fort Defiance,30,President - Gre,10,"Mesplay, Kent",0
+190,19 Fort Defiance,30,President - Gre,20,"Stein, Jill",1
+220,22 Ganado North,999999,Race Statistics,999999,Number of Precincts,1
+220,22 Ganado North,999999,Race Statistics,999998,Number of Precincts Reporting,1
+220,22 Ganado North,10,President - Dem,999999,Number of Precincts for Race,1
+220,22 Ganado North,10,President - Dem,999998,Number of Precincts Reporting,1
+220,22 Ganado North,10,President - Dem,999997,Registered Voters,505
+220,22 Ganado North,10,President - Dem,999996,Times Counted,162
+220,22 Ganado North,10,President - Dem,10,"De La Fuente, Roque",2
+220,22 Ganado North,10,President - Dem,20,"Steinberg, Michael",2
+220,22 Ganado North,10,President - Dem,30,"Sanders, Bernie",34
+220,22 Ganado North,10,President - Dem,40,"O'Malley, Martin J.",3
+220,22 Ganado North,10,President - Dem,50,"Clinton, Hillary",120
+220,22 Ganado North,10,President - Dem,60,"Hewes, Henry",0
+220,22 Ganado North,20,President - Rep,999999,Number of Precincts for Race,1
+220,22 Ganado North,20,President - Rep,999998,Number of Precincts Reporting,1
+220,22 Ganado North,20,President - Rep,999997,Registered Voters,63
+220,22 Ganado North,20,President - Rep,999996,Times Counted,6
+220,22 Ganado North,20,President - Rep,10,"Santorum, Rick",0
+220,22 Ganado North,20,President - Rep,20,"Cook, Tim",0
+220,22 Ganado North,20,President - Rep,30,"Paul, Rand",0
+220,22 Ganado North,20,President - Rep,40,"Rubio, Marco",0
+220,22 Ganado North,20,President - Rep,50,"Graham, Lindsey",0
+220,22 Ganado North,20,President - Rep,60,"Kasich, John R.",0
+220,22 Ganado North,20,President - Rep,70,"Bush, Jeb",0
+220,22 Ganado North,20,President - Rep,80,"Trump, Donald J.",3
+220,22 Ganado North,20,President - Rep,90,"Fiorina, Carly",0
+220,22 Ganado North,20,President - Rep,100,"Pataki, George E.",0
+220,22 Ganado North,20,President - Rep,110,"Cruz, Ted",3
+220,22 Ganado North,20,President - Rep,120,"Huckabee, Mike",0
+220,22 Ganado North,20,President - Rep,130,"Christie, Chris",0
+220,22 Ganado North,20,President - Rep,140,"Carson, Ben",0
+220,22 Ganado North,30,President - Gre,999999,Number of Precincts for Race,1
+220,22 Ganado North,30,President - Gre,999998,Number of Precincts Reporting,1
+220,22 Ganado North,30,President - Gre,999997,Registered Voters,1
+220,22 Ganado North,30,President - Gre,999996,Times Counted,0
+220,22 Ganado North,30,President - Gre,10,"Mesplay, Kent",0
+220,22 Ganado North,30,President - Gre,20,"Stein, Jill",0
+230,23 Ganado South,999999,Race Statistics,999999,Number of Precincts,1
+230,23 Ganado South,999999,Race Statistics,999998,Number of Precincts Reporting,1
+230,23 Ganado South,10,President - Dem,999999,Number of Precincts for Race,1
+230,23 Ganado South,10,President - Dem,999998,Number of Precincts Reporting,1
+230,23 Ganado South,10,President - Dem,999997,Registered Voters,809
+230,23 Ganado South,10,President - Dem,999996,Times Counted,234
+230,23 Ganado South,10,President - Dem,10,"De La Fuente, Roque",1
+230,23 Ganado South,10,President - Dem,20,"Steinberg, Michael",5
+230,23 Ganado South,10,President - Dem,30,"Sanders, Bernie",59
+230,23 Ganado South,10,President - Dem,40,"O'Malley, Martin J.",0
+230,23 Ganado South,10,President - Dem,50,"Clinton, Hillary",167
+230,23 Ganado South,10,President - Dem,60,"Hewes, Henry",2
+230,23 Ganado South,20,President - Rep,999999,Number of Precincts for Race,1
+230,23 Ganado South,20,President - Rep,999998,Number of Precincts Reporting,1
+230,23 Ganado South,20,President - Rep,999997,Registered Voters,111
+230,23 Ganado South,20,President - Rep,999996,Times Counted,20
+230,23 Ganado South,20,President - Rep,10,"Santorum, Rick",0
+230,23 Ganado South,20,President - Rep,20,"Cook, Tim",0
+230,23 Ganado South,20,President - Rep,30,"Paul, Rand",0
+230,23 Ganado South,20,President - Rep,40,"Rubio, Marco",1
+230,23 Ganado South,20,President - Rep,50,"Graham, Lindsey",0
+230,23 Ganado South,20,President - Rep,60,"Kasich, John R.",2
+230,23 Ganado South,20,President - Rep,70,"Bush, Jeb",1
+230,23 Ganado South,20,President - Rep,80,"Trump, Donald J.",6
+230,23 Ganado South,20,President - Rep,90,"Fiorina, Carly",0
+230,23 Ganado South,20,President - Rep,100,"Pataki, George E.",0
+230,23 Ganado South,20,President - Rep,110,"Cruz, Ted",9
+230,23 Ganado South,20,President - Rep,120,"Huckabee, Mike",0
+230,23 Ganado South,20,President - Rep,130,"Christie, Chris",0
+230,23 Ganado South,20,President - Rep,140,"Carson, Ben",0
+230,23 Ganado South,30,President - Gre,999999,Number of Precincts for Race,1
+230,23 Ganado South,30,President - Gre,999998,Number of Precincts Reporting,1
+230,23 Ganado South,30,President - Gre,999997,Registered Voters,0
+230,23 Ganado South,30,President - Gre,999996,Times Counted,0
+230,23 Ganado South,30,President - Gre,10,"Mesplay, Kent",0
+230,23 Ganado South,30,President - Gre,20,"Stein, Jill",0
+250,25 Greer,999999,Race Statistics,999999,Number of Precincts,1
+250,25 Greer,999999,Race Statistics,999998,Number of Precincts Reporting,1
+250,25 Greer,10,President - Dem,999999,Number of Precincts for Race,1
+250,25 Greer,10,President - Dem,999998,Number of Precincts Reporting,1
+250,25 Greer,10,President - Dem,999997,Registered Voters,34
+250,25 Greer,10,President - Dem,999996,Times Counted,17
+250,25 Greer,10,President - Dem,10,"De La Fuente, Roque",1
+250,25 Greer,10,President - Dem,20,"Steinberg, Michael",0
+250,25 Greer,10,President - Dem,30,"Sanders, Bernie",9
+250,25 Greer,10,President - Dem,40,"O'Malley, Martin J.",0
+250,25 Greer,10,President - Dem,50,"Clinton, Hillary",7
+250,25 Greer,10,President - Dem,60,"Hewes, Henry",0
+250,25 Greer,20,President - Rep,999999,Number of Precincts for Race,1
+250,25 Greer,20,President - Rep,999998,Number of Precincts Reporting,1
+250,25 Greer,20,President - Rep,999997,Registered Voters,72
+250,25 Greer,20,President - Rep,999996,Times Counted,41
+250,25 Greer,20,President - Rep,10,"Santorum, Rick",0
+250,25 Greer,20,President - Rep,20,"Cook, Tim",0
+250,25 Greer,20,President - Rep,30,"Paul, Rand",0
+250,25 Greer,20,President - Rep,40,"Rubio, Marco",0
+250,25 Greer,20,President - Rep,50,"Graham, Lindsey",0
+250,25 Greer,20,President - Rep,60,"Kasich, John R.",5
+250,25 Greer,20,President - Rep,70,"Bush, Jeb",0
+250,25 Greer,20,President - Rep,80,"Trump, Donald J.",23
+250,25 Greer,20,President - Rep,90,"Fiorina, Carly",0
+250,25 Greer,20,President - Rep,100,"Pataki, George E.",0
+250,25 Greer,20,President - Rep,110,"Cruz, Ted",13
+250,25 Greer,20,President - Rep,120,"Huckabee, Mike",0
+250,25 Greer,20,President - Rep,130,"Christie, Chris",0
+250,25 Greer,20,President - Rep,140,"Carson, Ben",0
+250,25 Greer,30,President - Gre,999999,Number of Precincts for Race,1
+250,25 Greer,30,President - Gre,999998,Number of Precincts Reporting,1
+250,25 Greer,30,President - Gre,999997,Registered Voters,0
+250,25 Greer,30,President - Gre,999996,Times Counted,0
+250,25 Greer,30,President - Gre,10,"Mesplay, Kent",0
+250,25 Greer,30,President - Gre,20,"Stein, Jill",0
+270,27 Houck,999999,Race Statistics,999999,Number of Precincts,1
+270,27 Houck,999999,Race Statistics,999998,Number of Precincts Reporting,1
+270,27 Houck,10,President - Dem,999999,Number of Precincts for Race,1
+270,27 Houck,10,President - Dem,999998,Number of Precincts Reporting,1
+270,27 Houck,10,President - Dem,999997,Registered Voters,776
+270,27 Houck,10,President - Dem,999996,Times Counted,250
+270,27 Houck,10,President - Dem,10,"De La Fuente, Roque",4
+270,27 Houck,10,President - Dem,20,"Steinberg, Michael",3
+270,27 Houck,10,President - Dem,30,"Sanders, Bernie",72
+270,27 Houck,10,President - Dem,40,"O'Malley, Martin J.",2
+270,27 Houck,10,President - Dem,50,"Clinton, Hillary",162
+270,27 Houck,10,President - Dem,60,"Hewes, Henry",5
+270,27 Houck,20,President - Rep,999999,Number of Precincts for Race,1
+270,27 Houck,20,President - Rep,999998,Number of Precincts Reporting,1
+270,27 Houck,20,President - Rep,999997,Registered Voters,115
+270,27 Houck,20,President - Rep,999996,Times Counted,26
+270,27 Houck,20,President - Rep,10,"Santorum, Rick",0
+270,27 Houck,20,President - Rep,20,"Cook, Tim",0
+270,27 Houck,20,President - Rep,30,"Paul, Rand",0
+270,27 Houck,20,President - Rep,40,"Rubio, Marco",1
+270,27 Houck,20,President - Rep,50,"Graham, Lindsey",1
+270,27 Houck,20,President - Rep,60,"Kasich, John R.",0
+270,27 Houck,20,President - Rep,70,"Bush, Jeb",1
+270,27 Houck,20,President - Rep,80,"Trump, Donald J.",7
+270,27 Houck,20,President - Rep,90,"Fiorina, Carly",0
+270,27 Houck,20,President - Rep,100,"Pataki, George E.",0
+270,27 Houck,20,President - Rep,110,"Cruz, Ted",14
+270,27 Houck,20,President - Rep,120,"Huckabee, Mike",0
+270,27 Houck,20,President - Rep,130,"Christie, Chris",0
+270,27 Houck,20,President - Rep,140,"Carson, Ben",2
+270,27 Houck,30,President - Gre,999999,Number of Precincts for Race,1
+270,27 Houck,30,President - Gre,999998,Number of Precincts Reporting,1
+270,27 Houck,30,President - Gre,999997,Registered Voters,3
+270,27 Houck,30,President - Gre,999996,Times Counted,0
+270,27 Houck,30,President - Gre,10,"Mesplay, Kent",0
+270,27 Houck,30,President - Gre,20,"Stein, Jill",0
+290,29 Kinlichee,999999,Race Statistics,999999,Number of Precincts,1
+290,29 Kinlichee,999999,Race Statistics,999998,Number of Precincts Reporting,1
+290,29 Kinlichee,10,President - Dem,999999,Number of Precincts for Race,1
+290,29 Kinlichee,10,President - Dem,999998,Number of Precincts Reporting,1
+290,29 Kinlichee,10,President - Dem,999997,Registered Voters,724
+290,29 Kinlichee,10,President - Dem,999996,Times Counted,265
+290,29 Kinlichee,10,President - Dem,10,"De La Fuente, Roque",1
+290,29 Kinlichee,10,President - Dem,20,"Steinberg, Michael",5
+290,29 Kinlichee,10,President - Dem,30,"Sanders, Bernie",61
+290,29 Kinlichee,10,President - Dem,40,"O'Malley, Martin J.",2
+290,29 Kinlichee,10,President - Dem,50,"Clinton, Hillary",192
+290,29 Kinlichee,10,President - Dem,60,"Hewes, Henry",2
+290,29 Kinlichee,20,President - Rep,999999,Number of Precincts for Race,1
+290,29 Kinlichee,20,President - Rep,999998,Number of Precincts Reporting,1
+290,29 Kinlichee,20,President - Rep,999997,Registered Voters,61
+290,29 Kinlichee,20,President - Rep,999996,Times Counted,12
+290,29 Kinlichee,20,President - Rep,10,"Santorum, Rick",0
+290,29 Kinlichee,20,President - Rep,20,"Cook, Tim",1
+290,29 Kinlichee,20,President - Rep,30,"Paul, Rand",0
+290,29 Kinlichee,20,President - Rep,40,"Rubio, Marco",0
+290,29 Kinlichee,20,President - Rep,50,"Graham, Lindsey",1
+290,29 Kinlichee,20,President - Rep,60,"Kasich, John R.",0
+290,29 Kinlichee,20,President - Rep,70,"Bush, Jeb",1
+290,29 Kinlichee,20,President - Rep,80,"Trump, Donald J.",2
+290,29 Kinlichee,20,President - Rep,90,"Fiorina, Carly",0
+290,29 Kinlichee,20,President - Rep,100,"Pataki, George E.",0
+290,29 Kinlichee,20,President - Rep,110,"Cruz, Ted",2
+290,29 Kinlichee,20,President - Rep,120,"Huckabee, Mike",0
+290,29 Kinlichee,20,President - Rep,130,"Christie, Chris",2
+290,29 Kinlichee,20,President - Rep,140,"Carson, Ben",2
+290,29 Kinlichee,30,President - Gre,999999,Number of Precincts for Race,1
+290,29 Kinlichee,30,President - Gre,999998,Number of Precincts Reporting,1
+290,29 Kinlichee,30,President - Gre,999997,Registered Voters,1
+290,29 Kinlichee,30,President - Gre,999996,Times Counted,0
+290,29 Kinlichee,30,President - Gre,10,"Mesplay, Kent",0
+290,29 Kinlichee,30,President - Gre,20,"Stein, Jill",0
+310,31 Klagetoh,999999,Race Statistics,999999,Number of Precincts,1
+310,31 Klagetoh,999999,Race Statistics,999998,Number of Precincts Reporting,1
+310,31 Klagetoh,10,President - Dem,999999,Number of Precincts for Race,1
+310,31 Klagetoh,10,President - Dem,999998,Number of Precincts Reporting,1
+310,31 Klagetoh,10,President - Dem,999997,Registered Voters,600
+310,31 Klagetoh,10,President - Dem,999996,Times Counted,196
+310,31 Klagetoh,10,President - Dem,10,"De La Fuente, Roque",3
+310,31 Klagetoh,10,President - Dem,20,"Steinberg, Michael",3
+310,31 Klagetoh,10,President - Dem,30,"Sanders, Bernie",55
+310,31 Klagetoh,10,President - Dem,40,"O'Malley, Martin J.",4
+310,31 Klagetoh,10,President - Dem,50,"Clinton, Hillary",129
+310,31 Klagetoh,10,President - Dem,60,"Hewes, Henry",1
+310,31 Klagetoh,20,President - Rep,999999,Number of Precincts for Race,1
+310,31 Klagetoh,20,President - Rep,999998,Number of Precincts Reporting,1
+310,31 Klagetoh,20,President - Rep,999997,Registered Voters,93
+310,31 Klagetoh,20,President - Rep,999996,Times Counted,19
+310,31 Klagetoh,20,President - Rep,10,"Santorum, Rick",0
+310,31 Klagetoh,20,President - Rep,20,"Cook, Tim",0
+310,31 Klagetoh,20,President - Rep,30,"Paul, Rand",0
+310,31 Klagetoh,20,President - Rep,40,"Rubio, Marco",1
+310,31 Klagetoh,20,President - Rep,50,"Graham, Lindsey",0
+310,31 Klagetoh,20,President - Rep,60,"Kasich, John R.",0
+310,31 Klagetoh,20,President - Rep,70,"Bush, Jeb",1
+310,31 Klagetoh,20,President - Rep,80,"Trump, Donald J.",5
+310,31 Klagetoh,20,President - Rep,90,"Fiorina, Carly",1
+310,31 Klagetoh,20,President - Rep,100,"Pataki, George E.",0
+310,31 Klagetoh,20,President - Rep,110,"Cruz, Ted",6
+310,31 Klagetoh,20,President - Rep,120,"Huckabee, Mike",1
+310,31 Klagetoh,20,President - Rep,130,"Christie, Chris",0
+310,31 Klagetoh,20,President - Rep,140,"Carson, Ben",3
+310,31 Klagetoh,30,President - Gre,999999,Number of Precincts for Race,1
+310,31 Klagetoh,30,President - Gre,999998,Number of Precincts Reporting,1
+310,31 Klagetoh,30,President - Gre,999997,Registered Voters,0
+310,31 Klagetoh,30,President - Gre,999996,Times Counted,0
+310,31 Klagetoh,30,President - Gre,10,"Mesplay, Kent",0
+310,31 Klagetoh,30,President - Gre,20,"Stein, Jill",0
+330,33 Lukachukai,999999,Race Statistics,999999,Number of Precincts,1
+330,33 Lukachukai,999999,Race Statistics,999998,Number of Precincts Reporting,1
+330,33 Lukachukai,10,President - Dem,999999,Number of Precincts for Race,1
+330,33 Lukachukai,10,President - Dem,999998,Number of Precincts Reporting,1
+330,33 Lukachukai,10,President - Dem,999997,Registered Voters,1183
+330,33 Lukachukai,10,President - Dem,999996,Times Counted,225
+330,33 Lukachukai,10,President - Dem,10,"De La Fuente, Roque",1
+330,33 Lukachukai,10,President - Dem,20,"Steinberg, Michael",1
+330,33 Lukachukai,10,President - Dem,30,"Sanders, Bernie",40
+330,33 Lukachukai,10,President - Dem,40,"O'Malley, Martin J.",5
+330,33 Lukachukai,10,President - Dem,50,"Clinton, Hillary",175
+330,33 Lukachukai,10,President - Dem,60,"Hewes, Henry",2
+330,33 Lukachukai,20,President - Rep,999999,Number of Precincts for Race,1
+330,33 Lukachukai,20,President - Rep,999998,Number of Precincts Reporting,1
+330,33 Lukachukai,20,President - Rep,999997,Registered Voters,86
+330,33 Lukachukai,20,President - Rep,999996,Times Counted,13
+330,33 Lukachukai,20,President - Rep,10,"Santorum, Rick",0
+330,33 Lukachukai,20,President - Rep,20,"Cook, Tim",0
+330,33 Lukachukai,20,President - Rep,30,"Paul, Rand",0
+330,33 Lukachukai,20,President - Rep,40,"Rubio, Marco",2
+330,33 Lukachukai,20,President - Rep,50,"Graham, Lindsey",2
+330,33 Lukachukai,20,President - Rep,60,"Kasich, John R.",1
+330,33 Lukachukai,20,President - Rep,70,"Bush, Jeb",1
+330,33 Lukachukai,20,President - Rep,80,"Trump, Donald J.",2
+330,33 Lukachukai,20,President - Rep,90,"Fiorina, Carly",0
+330,33 Lukachukai,20,President - Rep,100,"Pataki, George E.",0
+330,33 Lukachukai,20,President - Rep,110,"Cruz, Ted",5
+330,33 Lukachukai,20,President - Rep,120,"Huckabee, Mike",0
+330,33 Lukachukai,20,President - Rep,130,"Christie, Chris",0
+330,33 Lukachukai,20,President - Rep,140,"Carson, Ben",0
+330,33 Lukachukai,30,President - Gre,999999,Number of Precincts for Race,1
+330,33 Lukachukai,30,President - Gre,999998,Number of Precincts Reporting,1
+330,33 Lukachukai,30,President - Gre,999997,Registered Voters,1
+330,33 Lukachukai,30,President - Gre,999996,Times Counted,0
+330,33 Lukachukai,30,President - Gre,10,"Mesplay, Kent",0
+330,33 Lukachukai,30,President - Gre,20,"Stein, Jill",0
+350,35 Lupton,999999,Race Statistics,999999,Number of Precincts,1
+350,35 Lupton,999999,Race Statistics,999998,Number of Precincts Reporting,1
+350,35 Lupton,10,President - Dem,999999,Number of Precincts for Race,1
+350,35 Lupton,10,President - Dem,999998,Number of Precincts Reporting,1
+350,35 Lupton,10,President - Dem,999997,Registered Voters,491
+350,35 Lupton,10,President - Dem,999996,Times Counted,155
+350,35 Lupton,10,President - Dem,10,"De La Fuente, Roque",1
+350,35 Lupton,10,President - Dem,20,"Steinberg, Michael",1
+350,35 Lupton,10,President - Dem,30,"Sanders, Bernie",43
+350,35 Lupton,10,President - Dem,40,"O'Malley, Martin J.",1
+350,35 Lupton,10,President - Dem,50,"Clinton, Hillary",107
+350,35 Lupton,10,President - Dem,60,"Hewes, Henry",0
+350,35 Lupton,20,President - Rep,999999,Number of Precincts for Race,1
+350,35 Lupton,20,President - Rep,999998,Number of Precincts Reporting,1
+350,35 Lupton,20,President - Rep,999997,Registered Voters,65
+350,35 Lupton,20,President - Rep,999996,Times Counted,10
+350,35 Lupton,20,President - Rep,10,"Santorum, Rick",0
+350,35 Lupton,20,President - Rep,20,"Cook, Tim",0
+350,35 Lupton,20,President - Rep,30,"Paul, Rand",0
+350,35 Lupton,20,President - Rep,40,"Rubio, Marco",1
+350,35 Lupton,20,President - Rep,50,"Graham, Lindsey",0
+350,35 Lupton,20,President - Rep,60,"Kasich, John R.",0
+350,35 Lupton,20,President - Rep,70,"Bush, Jeb",1
+350,35 Lupton,20,President - Rep,80,"Trump, Donald J.",2
+350,35 Lupton,20,President - Rep,90,"Fiorina, Carly",1
+350,35 Lupton,20,President - Rep,100,"Pataki, George E.",0
+350,35 Lupton,20,President - Rep,110,"Cruz, Ted",4
+350,35 Lupton,20,President - Rep,120,"Huckabee, Mike",0
+350,35 Lupton,20,President - Rep,130,"Christie, Chris",0
+350,35 Lupton,20,President - Rep,140,"Carson, Ben",1
+350,35 Lupton,30,President - Gre,999999,Number of Precincts for Race,1
+350,35 Lupton,30,President - Gre,999998,Number of Precincts Reporting,1
+350,35 Lupton,30,President - Gre,999997,Registered Voters,1
+350,35 Lupton,30,President - Gre,999996,Times Counted,0
+350,35 Lupton,30,President - Gre,10,"Mesplay, Kent",0
+350,35 Lupton,30,President - Gre,20,"Stein, Jill",0
+370,37 McNary,999999,Race Statistics,999999,Number of Precincts,1
+370,37 McNary,999999,Race Statistics,999998,Number of Precincts Reporting,1
+370,37 McNary,10,President - Dem,999999,Number of Precincts for Race,1
+370,37 McNary,10,President - Dem,999998,Number of Precincts Reporting,1
+370,37 McNary,10,President - Dem,999997,Registered Voters,97
+370,37 McNary,10,President - Dem,999996,Times Counted,23
+370,37 McNary,10,President - Dem,10,"De La Fuente, Roque",0
+370,37 McNary,10,President - Dem,20,"Steinberg, Michael",0
+370,37 McNary,10,President - Dem,30,"Sanders, Bernie",3
+370,37 McNary,10,President - Dem,40,"O'Malley, Martin J.",0
+370,37 McNary,10,President - Dem,50,"Clinton, Hillary",19
+370,37 McNary,10,President - Dem,60,"Hewes, Henry",1
+370,37 McNary,20,President - Rep,999999,Number of Precincts for Race,1
+370,37 McNary,20,President - Rep,999998,Number of Precincts Reporting,1
+370,37 McNary,20,President - Rep,999997,Registered Voters,16
+370,37 McNary,20,President - Rep,999996,Times Counted,0
+370,37 McNary,20,President - Rep,10,"Santorum, Rick",0
+370,37 McNary,20,President - Rep,20,"Cook, Tim",0
+370,37 McNary,20,President - Rep,30,"Paul, Rand",0
+370,37 McNary,20,President - Rep,40,"Rubio, Marco",0
+370,37 McNary,20,President - Rep,50,"Graham, Lindsey",0
+370,37 McNary,20,President - Rep,60,"Kasich, John R.",0
+370,37 McNary,20,President - Rep,70,"Bush, Jeb",0
+370,37 McNary,20,President - Rep,80,"Trump, Donald J.",0
+370,37 McNary,20,President - Rep,90,"Fiorina, Carly",0
+370,37 McNary,20,President - Rep,100,"Pataki, George E.",0
+370,37 McNary,20,President - Rep,110,"Cruz, Ted",0
+370,37 McNary,20,President - Rep,120,"Huckabee, Mike",0
+370,37 McNary,20,President - Rep,130,"Christie, Chris",0
+370,37 McNary,20,President - Rep,140,"Carson, Ben",0
+370,37 McNary,30,President - Gre,999999,Number of Precincts for Race,1
+370,37 McNary,30,President - Gre,999998,Number of Precincts Reporting,1
+370,37 McNary,30,President - Gre,999997,Registered Voters,0
+370,37 McNary,30,President - Gre,999996,Times Counted,0
+370,37 McNary,30,President - Gre,10,"Mesplay, Kent",0
+370,37 McNary,30,President - Gre,20,"Stein, Jill",0
+390,39 Many Farms,999999,Race Statistics,999999,Number of Precincts,1
+390,39 Many Farms,999999,Race Statistics,999998,Number of Precincts Reporting,1
+390,39 Many Farms,10,President - Dem,999999,Number of Precincts for Race,1
+390,39 Many Farms,10,President - Dem,999998,Number of Precincts Reporting,1
+390,39 Many Farms,10,President - Dem,999997,Registered Voters,1111
+390,39 Many Farms,10,President - Dem,999996,Times Counted,349
+390,39 Many Farms,10,President - Dem,10,"De La Fuente, Roque",3
+390,39 Many Farms,10,President - Dem,20,"Steinberg, Michael",4
+390,39 Many Farms,10,President - Dem,30,"Sanders, Bernie",69
+390,39 Many Farms,10,President - Dem,40,"O'Malley, Martin J.",1
+390,39 Many Farms,10,President - Dem,50,"Clinton, Hillary",265
+390,39 Many Farms,10,President - Dem,60,"Hewes, Henry",7
+390,39 Many Farms,20,President - Rep,999999,Number of Precincts for Race,1
+390,39 Many Farms,20,President - Rep,999998,Number of Precincts Reporting,1
+390,39 Many Farms,20,President - Rep,999997,Registered Voters,90
+390,39 Many Farms,20,President - Rep,999996,Times Counted,11
+390,39 Many Farms,20,President - Rep,10,"Santorum, Rick",0
+390,39 Many Farms,20,President - Rep,20,"Cook, Tim",0
+390,39 Many Farms,20,President - Rep,30,"Paul, Rand",0
+390,39 Many Farms,20,President - Rep,40,"Rubio, Marco",2
+390,39 Many Farms,20,President - Rep,50,"Graham, Lindsey",0
+390,39 Many Farms,20,President - Rep,60,"Kasich, John R.",0
+390,39 Many Farms,20,President - Rep,70,"Bush, Jeb",2
+390,39 Many Farms,20,President - Rep,80,"Trump, Donald J.",1
+390,39 Many Farms,20,President - Rep,90,"Fiorina, Carly",0
+390,39 Many Farms,20,President - Rep,100,"Pataki, George E.",0
+390,39 Many Farms,20,President - Rep,110,"Cruz, Ted",6
+390,39 Many Farms,20,President - Rep,120,"Huckabee, Mike",0
+390,39 Many Farms,20,President - Rep,130,"Christie, Chris",0
+390,39 Many Farms,20,President - Rep,140,"Carson, Ben",0
+390,39 Many Farms,30,President - Gre,999999,Number of Precincts for Race,1
+390,39 Many Farms,30,President - Gre,999998,Number of Precincts Reporting,1
+390,39 Many Farms,30,President - Gre,999997,Registered Voters,2
+390,39 Many Farms,30,President - Gre,999996,Times Counted,0
+390,39 Many Farms,30,President - Gre,10,"Mesplay, Kent",0
+390,39 Many Farms,30,President - Gre,20,"Stein, Jill",0
+410,41 Mexican Water,999999,Race Statistics,999999,Number of Precincts,1
+410,41 Mexican Water,999999,Race Statistics,999998,Number of Precincts Reporting,1
+410,41 Mexican Water,10,President - Dem,999999,Number of Precincts for Race,1
+410,41 Mexican Water,10,President - Dem,999998,Number of Precincts Reporting,1
+410,41 Mexican Water,10,President - Dem,999997,Registered Voters,143
+410,41 Mexican Water,10,President - Dem,999996,Times Counted,24
+410,41 Mexican Water,10,President - Dem,10,"De La Fuente, Roque",0
+410,41 Mexican Water,10,President - Dem,20,"Steinberg, Michael",0
+410,41 Mexican Water,10,President - Dem,30,"Sanders, Bernie",1
+410,41 Mexican Water,10,President - Dem,40,"O'Malley, Martin J.",0
+410,41 Mexican Water,10,President - Dem,50,"Clinton, Hillary",23
+410,41 Mexican Water,10,President - Dem,60,"Hewes, Henry",0
+410,41 Mexican Water,20,President - Rep,999999,Number of Precincts for Race,1
+410,41 Mexican Water,20,President - Rep,999998,Number of Precincts Reporting,1
+410,41 Mexican Water,20,President - Rep,999997,Registered Voters,33
+410,41 Mexican Water,20,President - Rep,999996,Times Counted,5
+410,41 Mexican Water,20,President - Rep,10,"Santorum, Rick",0
+410,41 Mexican Water,20,President - Rep,20,"Cook, Tim",0
+410,41 Mexican Water,20,President - Rep,30,"Paul, Rand",0
+410,41 Mexican Water,20,President - Rep,40,"Rubio, Marco",0
+410,41 Mexican Water,20,President - Rep,50,"Graham, Lindsey",0
+410,41 Mexican Water,20,President - Rep,60,"Kasich, John R.",0
+410,41 Mexican Water,20,President - Rep,70,"Bush, Jeb",1
+410,41 Mexican Water,20,President - Rep,80,"Trump, Donald J.",0
+410,41 Mexican Water,20,President - Rep,90,"Fiorina, Carly",1
+410,41 Mexican Water,20,President - Rep,100,"Pataki, George E.",0
+410,41 Mexican Water,20,President - Rep,110,"Cruz, Ted",3
+410,41 Mexican Water,20,President - Rep,120,"Huckabee, Mike",0
+410,41 Mexican Water,20,President - Rep,130,"Christie, Chris",0
+410,41 Mexican Water,20,President - Rep,140,"Carson, Ben",0
+410,41 Mexican Water,30,President - Gre,999999,Number of Precincts for Race,1
+410,41 Mexican Water,30,President - Gre,999998,Number of Precincts Reporting,1
+410,41 Mexican Water,30,President - Gre,999997,Registered Voters,0
+410,41 Mexican Water,30,President - Gre,999996,Times Counted,0
+410,41 Mexican Water,30,President - Gre,10,"Mesplay, Kent",0
+410,41 Mexican Water,30,President - Gre,20,"Stein, Jill",0
+430,43 Nazlini,999999,Race Statistics,999999,Number of Precincts,1
+430,43 Nazlini,999999,Race Statistics,999998,Number of Precincts Reporting,1
+430,43 Nazlini,10,President - Dem,999999,Number of Precincts for Race,1
+430,43 Nazlini,10,President - Dem,999998,Number of Precincts Reporting,1
+430,43 Nazlini,10,President - Dem,999997,Registered Voters,668
+430,43 Nazlini,10,President - Dem,999996,Times Counted,219
+430,43 Nazlini,10,President - Dem,10,"De La Fuente, Roque",1
+430,43 Nazlini,10,President - Dem,20,"Steinberg, Michael",2
+430,43 Nazlini,10,President - Dem,30,"Sanders, Bernie",66
+430,43 Nazlini,10,President - Dem,40,"O'Malley, Martin J.",10
+430,43 Nazlini,10,President - Dem,50,"Clinton, Hillary",139
+430,43 Nazlini,10,President - Dem,60,"Hewes, Henry",0
+430,43 Nazlini,20,President - Rep,999999,Number of Precincts for Race,1
+430,43 Nazlini,20,President - Rep,999998,Number of Precincts Reporting,1
+430,43 Nazlini,20,President - Rep,999997,Registered Voters,78
+430,43 Nazlini,20,President - Rep,999996,Times Counted,14
+430,43 Nazlini,20,President - Rep,10,"Santorum, Rick",0
+430,43 Nazlini,20,President - Rep,20,"Cook, Tim",0
+430,43 Nazlini,20,President - Rep,30,"Paul, Rand",1
+430,43 Nazlini,20,President - Rep,40,"Rubio, Marco",0
+430,43 Nazlini,20,President - Rep,50,"Graham, Lindsey",1
+430,43 Nazlini,20,President - Rep,60,"Kasich, John R.",1
+430,43 Nazlini,20,President - Rep,70,"Bush, Jeb",5
+430,43 Nazlini,20,President - Rep,80,"Trump, Donald J.",2
+430,43 Nazlini,20,President - Rep,90,"Fiorina, Carly",0
+430,43 Nazlini,20,President - Rep,100,"Pataki, George E.",0
+430,43 Nazlini,20,President - Rep,110,"Cruz, Ted",2
+430,43 Nazlini,20,President - Rep,120,"Huckabee, Mike",0
+430,43 Nazlini,20,President - Rep,130,"Christie, Chris",0
+430,43 Nazlini,20,President - Rep,140,"Carson, Ben",2
+430,43 Nazlini,30,President - Gre,999999,Number of Precincts for Race,1
+430,43 Nazlini,30,President - Gre,999998,Number of Precincts Reporting,1
+430,43 Nazlini,30,President - Gre,999997,Registered Voters,1
+430,43 Nazlini,30,President - Gre,999996,Times Counted,0
+430,43 Nazlini,30,President - Gre,10,"Mesplay, Kent",0
+430,43 Nazlini,30,President - Gre,20,"Stein, Jill",0
+450,45 Nutrioso,999999,Race Statistics,999999,Number of Precincts,1
+450,45 Nutrioso,999999,Race Statistics,999998,Number of Precincts Reporting,1
+450,45 Nutrioso,10,President - Dem,999999,Number of Precincts for Race,1
+450,45 Nutrioso,10,President - Dem,999998,Number of Precincts Reporting,1
+450,45 Nutrioso,10,President - Dem,999997,Registered Voters,65
+450,45 Nutrioso,10,President - Dem,999996,Times Counted,40
+450,45 Nutrioso,10,President - Dem,10,"De La Fuente, Roque",0
+450,45 Nutrioso,10,President - Dem,20,"Steinberg, Michael",0
+450,45 Nutrioso,10,President - Dem,30,"Sanders, Bernie",25
+450,45 Nutrioso,10,President - Dem,40,"O'Malley, Martin J.",2
+450,45 Nutrioso,10,President - Dem,50,"Clinton, Hillary",13
+450,45 Nutrioso,10,President - Dem,60,"Hewes, Henry",0
+450,45 Nutrioso,20,President - Rep,999999,Number of Precincts for Race,1
+450,45 Nutrioso,20,President - Rep,999998,Number of Precincts Reporting,1
+450,45 Nutrioso,20,President - Rep,999997,Registered Voters,131
+450,45 Nutrioso,20,President - Rep,999996,Times Counted,87
+450,45 Nutrioso,20,President - Rep,10,"Santorum, Rick",1
+450,45 Nutrioso,20,President - Rep,20,"Cook, Tim",0
+450,45 Nutrioso,20,President - Rep,30,"Paul, Rand",0
+450,45 Nutrioso,20,President - Rep,40,"Rubio, Marco",3
+450,45 Nutrioso,20,President - Rep,50,"Graham, Lindsey",0
+450,45 Nutrioso,20,President - Rep,60,"Kasich, John R.",8
+450,45 Nutrioso,20,President - Rep,70,"Bush, Jeb",0
+450,45 Nutrioso,20,President - Rep,80,"Trump, Donald J.",51
+450,45 Nutrioso,20,President - Rep,90,"Fiorina, Carly",0
+450,45 Nutrioso,20,President - Rep,100,"Pataki, George E.",0
+450,45 Nutrioso,20,President - Rep,110,"Cruz, Ted",24
+450,45 Nutrioso,20,President - Rep,120,"Huckabee, Mike",0
+450,45 Nutrioso,20,President - Rep,130,"Christie, Chris",0
+450,45 Nutrioso,20,President - Rep,140,"Carson, Ben",0
+450,45 Nutrioso,30,President - Gre,999999,Number of Precincts for Race,1
+450,45 Nutrioso,30,President - Gre,999998,Number of Precincts Reporting,1
+450,45 Nutrioso,30,President - Gre,999997,Registered Voters,1
+450,45 Nutrioso,30,President - Gre,999996,Times Counted,1
+450,45 Nutrioso,30,President - Gre,10,"Mesplay, Kent",1
+450,45 Nutrioso,30,President - Gre,20,"Stein, Jill",0
+460,46 Oak Springs,999999,Race Statistics,999999,Number of Precincts,1
+460,46 Oak Springs,999999,Race Statistics,999998,Number of Precincts Reporting,1
+460,46 Oak Springs,10,President - Dem,999999,Number of Precincts for Race,1
+460,46 Oak Springs,10,President - Dem,999998,Number of Precincts Reporting,1
+460,46 Oak Springs,10,President - Dem,999997,Registered Voters,345
+460,46 Oak Springs,10,President - Dem,999996,Times Counted,131
+460,46 Oak Springs,10,President - Dem,10,"De La Fuente, Roque",0
+460,46 Oak Springs,10,President - Dem,20,"Steinberg, Michael",1
+460,46 Oak Springs,10,President - Dem,30,"Sanders, Bernie",30
+460,46 Oak Springs,10,President - Dem,40,"O'Malley, Martin J.",1
+460,46 Oak Springs,10,President - Dem,50,"Clinton, Hillary",97
+460,46 Oak Springs,10,President - Dem,60,"Hewes, Henry",2
+460,46 Oak Springs,20,President - Rep,999999,Number of Precincts for Race,1
+460,46 Oak Springs,20,President - Rep,999998,Number of Precincts Reporting,1
+460,46 Oak Springs,20,President - Rep,999997,Registered Voters,36
+460,46 Oak Springs,20,President - Rep,999996,Times Counted,9
+460,46 Oak Springs,20,President - Rep,10,"Santorum, Rick",0
+460,46 Oak Springs,20,President - Rep,20,"Cook, Tim",0
+460,46 Oak Springs,20,President - Rep,30,"Paul, Rand",0
+460,46 Oak Springs,20,President - Rep,40,"Rubio, Marco",0
+460,46 Oak Springs,20,President - Rep,50,"Graham, Lindsey",0
+460,46 Oak Springs,20,President - Rep,60,"Kasich, John R.",0
+460,46 Oak Springs,20,President - Rep,70,"Bush, Jeb",0
+460,46 Oak Springs,20,President - Rep,80,"Trump, Donald J.",2
+460,46 Oak Springs,20,President - Rep,90,"Fiorina, Carly",0
+460,46 Oak Springs,20,President - Rep,100,"Pataki, George E.",0
+460,46 Oak Springs,20,President - Rep,110,"Cruz, Ted",5
+460,46 Oak Springs,20,President - Rep,120,"Huckabee, Mike",0
+460,46 Oak Springs,20,President - Rep,130,"Christie, Chris",0
+460,46 Oak Springs,20,President - Rep,140,"Carson, Ben",0
+460,46 Oak Springs,30,President - Gre,999999,Number of Precincts for Race,1
+460,46 Oak Springs,30,President - Gre,999998,Number of Precincts Reporting,1
+460,46 Oak Springs,30,President - Gre,999997,Registered Voters,0
+460,46 Oak Springs,30,President - Gre,999996,Times Counted,0
+460,46 Oak Springs,30,President - Gre,10,"Mesplay, Kent",0
+460,46 Oak Springs,30,President - Gre,20,"Stein, Jill",0
+480,48 Puerco East & 49 Puerco West,999999,Race Statistics,999999,Number of Precincts,1
+480,48 Puerco East & 49 Puerco West,999999,Race Statistics,999998,Number of Precincts Reporting,1
+480,48 Puerco East & 49 Puerco West,10,President - Dem,999999,Number of Precincts for Race,1
+480,48 Puerco East & 49 Puerco West,10,President - Dem,999998,Number of Precincts Reporting,1
+480,48 Puerco East & 49 Puerco West,10,President - Dem,999997,Registered Voters,813
+480,48 Puerco East & 49 Puerco West,10,President - Dem,999996,Times Counted,262
+480,48 Puerco East & 49 Puerco West,10,President - Dem,10,"De La Fuente, Roque",1
+480,48 Puerco East & 49 Puerco West,10,President - Dem,20,"Steinberg, Michael",6
+480,48 Puerco East & 49 Puerco West,10,President - Dem,30,"Sanders, Bernie",99
+480,48 Puerco East & 49 Puerco West,10,President - Dem,40,"O'Malley, Martin J.",6
+480,48 Puerco East & 49 Puerco West,10,President - Dem,50,"Clinton, Hillary",146
+480,48 Puerco East & 49 Puerco West,10,President - Dem,60,"Hewes, Henry",2
+480,48 Puerco East & 49 Puerco West,20,President - Rep,999999,Number of Precincts for Race,1
+480,48 Puerco East & 49 Puerco West,20,President - Rep,999998,Number of Precincts Reporting,1
+480,48 Puerco East & 49 Puerco West,20,President - Rep,999997,Registered Voters,200
+480,48 Puerco East & 49 Puerco West,20,President - Rep,999996,Times Counted,75
+480,48 Puerco East & 49 Puerco West,20,President - Rep,10,"Santorum, Rick",0
+480,48 Puerco East & 49 Puerco West,20,President - Rep,20,"Cook, Tim",2
+480,48 Puerco East & 49 Puerco West,20,President - Rep,30,"Paul, Rand",1
+480,48 Puerco East & 49 Puerco West,20,President - Rep,40,"Rubio, Marco",6
+480,48 Puerco East & 49 Puerco West,20,President - Rep,50,"Graham, Lindsey",1
+480,48 Puerco East & 49 Puerco West,20,President - Rep,60,"Kasich, John R.",6
+480,48 Puerco East & 49 Puerco West,20,President - Rep,70,"Bush, Jeb",1
+480,48 Puerco East & 49 Puerco West,20,President - Rep,80,"Trump, Donald J.",28
+480,48 Puerco East & 49 Puerco West,20,President - Rep,90,"Fiorina, Carly",0
+480,48 Puerco East & 49 Puerco West,20,President - Rep,100,"Pataki, George E.",1
+480,48 Puerco East & 49 Puerco West,20,President - Rep,110,"Cruz, Ted",22
+480,48 Puerco East & 49 Puerco West,20,President - Rep,120,"Huckabee, Mike",0
+480,48 Puerco East & 49 Puerco West,20,President - Rep,130,"Christie, Chris",0
+480,48 Puerco East & 49 Puerco West,20,President - Rep,140,"Carson, Ben",6
+480,48 Puerco East & 49 Puerco West,30,President - Gre,999999,Number of Precincts for Race,1
+480,48 Puerco East & 49 Puerco West,30,President - Gre,999998,Number of Precincts Reporting,1
+480,48 Puerco East & 49 Puerco West,30,President - Gre,999997,Registered Voters,2
+480,48 Puerco East & 49 Puerco West,30,President - Gre,999996,Times Counted,0
+480,48 Puerco East & 49 Puerco West,30,President - Gre,10,"Mesplay, Kent",0
+480,48 Puerco East & 49 Puerco West,30,President - Gre,20,"Stein, Jill",0
+510,51 Red Mesa,999999,Race Statistics,999999,Number of Precincts,1
+510,51 Red Mesa,999999,Race Statistics,999998,Number of Precincts Reporting,1
+510,51 Red Mesa,10,President - Dem,999999,Number of Precincts for Race,1
+510,51 Red Mesa,10,President - Dem,999998,Number of Precincts Reporting,1
+510,51 Red Mesa,10,President - Dem,999997,Registered Voters,227
+510,51 Red Mesa,10,President - Dem,999996,Times Counted,30
+510,51 Red Mesa,10,President - Dem,10,"De La Fuente, Roque",1
+510,51 Red Mesa,10,President - Dem,20,"Steinberg, Michael",1
+510,51 Red Mesa,10,President - Dem,30,"Sanders, Bernie",17
+510,51 Red Mesa,10,President - Dem,40,"O'Malley, Martin J.",0
+510,51 Red Mesa,10,President - Dem,50,"Clinton, Hillary",11
+510,51 Red Mesa,10,President - Dem,60,"Hewes, Henry",0
+510,51 Red Mesa,20,President - Rep,999999,Number of Precincts for Race,1
+510,51 Red Mesa,20,President - Rep,999998,Number of Precincts Reporting,1
+510,51 Red Mesa,20,President - Rep,999997,Registered Voters,72
+510,51 Red Mesa,20,President - Rep,999996,Times Counted,8
+510,51 Red Mesa,20,President - Rep,10,"Santorum, Rick",0
+510,51 Red Mesa,20,President - Rep,20,"Cook, Tim",0
+510,51 Red Mesa,20,President - Rep,30,"Paul, Rand",0
+510,51 Red Mesa,20,President - Rep,40,"Rubio, Marco",0
+510,51 Red Mesa,20,President - Rep,50,"Graham, Lindsey",0
+510,51 Red Mesa,20,President - Rep,60,"Kasich, John R.",1
+510,51 Red Mesa,20,President - Rep,70,"Bush, Jeb",0
+510,51 Red Mesa,20,President - Rep,80,"Trump, Donald J.",2
+510,51 Red Mesa,20,President - Rep,90,"Fiorina, Carly",0
+510,51 Red Mesa,20,President - Rep,100,"Pataki, George E.",0
+510,51 Red Mesa,20,President - Rep,110,"Cruz, Ted",4
+510,51 Red Mesa,20,President - Rep,120,"Huckabee, Mike",0
+510,51 Red Mesa,20,President - Rep,130,"Christie, Chris",0
+510,51 Red Mesa,20,President - Rep,140,"Carson, Ben",1
+510,51 Red Mesa,30,President - Gre,999999,Number of Precincts for Race,1
+510,51 Red Mesa,30,President - Gre,999998,Number of Precincts Reporting,1
+510,51 Red Mesa,30,President - Gre,999997,Registered Voters,0
+510,51 Red Mesa,30,President - Gre,999996,Times Counted,0
+510,51 Red Mesa,30,President - Gre,10,"Mesplay, Kent",0
+510,51 Red Mesa,30,President - Gre,20,"Stein, Jill",0
+520,52 Red Valley,999999,Race Statistics,999999,Number of Precincts,1
+520,52 Red Valley,999999,Race Statistics,999998,Number of Precincts Reporting,1
+520,52 Red Valley,10,President - Dem,999999,Number of Precincts for Race,1
+520,52 Red Valley,10,President - Dem,999998,Number of Precincts Reporting,1
+520,52 Red Valley,10,President - Dem,999997,Registered Voters,560
+520,52 Red Valley,10,President - Dem,999996,Times Counted,91
+520,52 Red Valley,10,President - Dem,10,"De La Fuente, Roque",5
+520,52 Red Valley,10,President - Dem,20,"Steinberg, Michael",1
+520,52 Red Valley,10,President - Dem,30,"Sanders, Bernie",25
+520,52 Red Valley,10,President - Dem,40,"O'Malley, Martin J.",0
+520,52 Red Valley,10,President - Dem,50,"Clinton, Hillary",58
+520,52 Red Valley,10,President - Dem,60,"Hewes, Henry",1
+520,52 Red Valley,20,President - Rep,999999,Number of Precincts for Race,1
+520,52 Red Valley,20,President - Rep,999998,Number of Precincts Reporting,1
+520,52 Red Valley,20,President - Rep,999997,Registered Voters,171
+520,52 Red Valley,20,President - Rep,999996,Times Counted,25
+520,52 Red Valley,20,President - Rep,10,"Santorum, Rick",0
+520,52 Red Valley,20,President - Rep,20,"Cook, Tim",1
+520,52 Red Valley,20,President - Rep,30,"Paul, Rand",1
+520,52 Red Valley,20,President - Rep,40,"Rubio, Marco",6
+520,52 Red Valley,20,President - Rep,50,"Graham, Lindsey",0
+520,52 Red Valley,20,President - Rep,60,"Kasich, John R.",2
+520,52 Red Valley,20,President - Rep,70,"Bush, Jeb",1
+520,52 Red Valley,20,President - Rep,80,"Trump, Donald J.",3
+520,52 Red Valley,20,President - Rep,90,"Fiorina, Carly",0
+520,52 Red Valley,20,President - Rep,100,"Pataki, George E.",0
+520,52 Red Valley,20,President - Rep,110,"Cruz, Ted",8
+520,52 Red Valley,20,President - Rep,120,"Huckabee, Mike",1
+520,52 Red Valley,20,President - Rep,130,"Christie, Chris",1
+520,52 Red Valley,20,President - Rep,140,"Carson, Ben",1
+520,52 Red Valley,30,President - Gre,999999,Number of Precincts for Race,1
+520,52 Red Valley,30,President - Gre,999998,Number of Precincts Reporting,1
+520,52 Red Valley,30,President - Gre,999997,Registered Voters,1
+520,52 Red Valley,30,President - Gre,999996,Times Counted,0
+520,52 Red Valley,30,President - Gre,10,"Mesplay, Kent",0
+520,52 Red Valley,30,President - Gre,20,"Stein, Jill",0
+540,54 Rock Point,999999,Race Statistics,999999,Number of Precincts,1
+540,54 Rock Point,999999,Race Statistics,999998,Number of Precincts Reporting,1
+540,54 Rock Point,10,President - Dem,999999,Number of Precincts for Race,1
+540,54 Rock Point,10,President - Dem,999998,Number of Precincts Reporting,1
+540,54 Rock Point,10,President - Dem,999997,Registered Voters,842
+540,54 Rock Point,10,President - Dem,999996,Times Counted,230
+540,54 Rock Point,10,President - Dem,10,"De La Fuente, Roque",0
+540,54 Rock Point,10,President - Dem,20,"Steinberg, Michael",0
+540,54 Rock Point,10,President - Dem,30,"Sanders, Bernie",60
+540,54 Rock Point,10,President - Dem,40,"O'Malley, Martin J.",2
+540,54 Rock Point,10,President - Dem,50,"Clinton, Hillary",167
+540,54 Rock Point,10,President - Dem,60,"Hewes, Henry",1
+540,54 Rock Point,20,President - Rep,999999,Number of Precincts for Race,1
+540,54 Rock Point,20,President - Rep,999998,Number of Precincts Reporting,1
+540,54 Rock Point,20,President - Rep,999997,Registered Voters,88
+540,54 Rock Point,20,President - Rep,999996,Times Counted,13
+540,54 Rock Point,20,President - Rep,10,"Santorum, Rick",1
+540,54 Rock Point,20,President - Rep,20,"Cook, Tim",1
+540,54 Rock Point,20,President - Rep,30,"Paul, Rand",1
+540,54 Rock Point,20,President - Rep,40,"Rubio, Marco",0
+540,54 Rock Point,20,President - Rep,50,"Graham, Lindsey",0
+540,54 Rock Point,20,President - Rep,60,"Kasich, John R.",0
+540,54 Rock Point,20,President - Rep,70,"Bush, Jeb",1
+540,54 Rock Point,20,President - Rep,80,"Trump, Donald J.",1
+540,54 Rock Point,20,President - Rep,90,"Fiorina, Carly",0
+540,54 Rock Point,20,President - Rep,100,"Pataki, George E.",0
+540,54 Rock Point,20,President - Rep,110,"Cruz, Ted",5
+540,54 Rock Point,20,President - Rep,120,"Huckabee, Mike",1
+540,54 Rock Point,20,President - Rep,130,"Christie, Chris",0
+540,54 Rock Point,20,President - Rep,140,"Carson, Ben",2
+540,54 Rock Point,30,President - Gre,999999,Number of Precincts for Race,1
+540,54 Rock Point,30,President - Gre,999998,Number of Precincts Reporting,1
+540,54 Rock Point,30,President - Gre,999997,Registered Voters,1
+540,54 Rock Point,30,President - Gre,999996,Times Counted,14
+540,54 Rock Point,30,President - Gre,10,"Mesplay, Kent",4
+540,54 Rock Point,30,President - Gre,20,"Stein, Jill",10
+560,56 Rough Rock,999999,Race Statistics,999999,Number of Precincts,1
+560,56 Rough Rock,999999,Race Statistics,999998,Number of Precincts Reporting,1
+560,56 Rough Rock,10,President - Dem,999999,Number of Precincts for Race,1
+560,56 Rough Rock,10,President - Dem,999998,Number of Precincts Reporting,1
+560,56 Rough Rock,10,President - Dem,999997,Registered Voters,532
+560,56 Rough Rock,10,President - Dem,999996,Times Counted,138
+560,56 Rough Rock,10,President - Dem,10,"De La Fuente, Roque",1
+560,56 Rough Rock,10,President - Dem,20,"Steinberg, Michael",3
+560,56 Rough Rock,10,President - Dem,30,"Sanders, Bernie",39
+560,56 Rough Rock,10,President - Dem,40,"O'Malley, Martin J.",0
+560,56 Rough Rock,10,President - Dem,50,"Clinton, Hillary",93
+560,56 Rough Rock,10,President - Dem,60,"Hewes, Henry",2
+560,56 Rough Rock,20,President - Rep,999999,Number of Precincts for Race,1
+560,56 Rough Rock,20,President - Rep,999998,Number of Precincts Reporting,1
+560,56 Rough Rock,20,President - Rep,999997,Registered Voters,52
+560,56 Rough Rock,20,President - Rep,999996,Times Counted,9
+560,56 Rough Rock,20,President - Rep,10,"Santorum, Rick",0
+560,56 Rough Rock,20,President - Rep,20,"Cook, Tim",0
+560,56 Rough Rock,20,President - Rep,30,"Paul, Rand",0
+560,56 Rough Rock,20,President - Rep,40,"Rubio, Marco",0
+560,56 Rough Rock,20,President - Rep,50,"Graham, Lindsey",1
+560,56 Rough Rock,20,President - Rep,60,"Kasich, John R.",0
+560,56 Rough Rock,20,President - Rep,70,"Bush, Jeb",1
+560,56 Rough Rock,20,President - Rep,80,"Trump, Donald J.",1
+560,56 Rough Rock,20,President - Rep,90,"Fiorina, Carly",0
+560,56 Rough Rock,20,President - Rep,100,"Pataki, George E.",0
+560,56 Rough Rock,20,President - Rep,110,"Cruz, Ted",4
+560,56 Rough Rock,20,President - Rep,120,"Huckabee, Mike",0
+560,56 Rough Rock,20,President - Rep,130,"Christie, Chris",1
+560,56 Rough Rock,20,President - Rep,140,"Carson, Ben",1
+560,56 Rough Rock,30,President - Gre,999999,Number of Precincts for Race,1
+560,56 Rough Rock,30,President - Gre,999998,Number of Precincts Reporting,1
+560,56 Rough Rock,30,President - Gre,999997,Registered Voters,0
+560,56 Rough Rock,30,President - Gre,999996,Times Counted,0
+560,56 Rough Rock,30,President - Gre,10,"Mesplay, Kent",0
+560,56 Rough Rock,30,President - Gre,20,"Stein, Jill",0
+580,58 Round Rock,999999,Race Statistics,999999,Number of Precincts,1
+580,58 Round Rock,999999,Race Statistics,999998,Number of Precincts Reporting,1
+580,58 Round Rock,10,President - Dem,999999,Number of Precincts for Race,1
+580,58 Round Rock,10,President - Dem,999998,Number of Precincts Reporting,1
+580,58 Round Rock,10,President - Dem,999997,Registered Voters,638
+580,58 Round Rock,10,President - Dem,999996,Times Counted,169
+580,58 Round Rock,10,President - Dem,10,"De La Fuente, Roque",1
+580,58 Round Rock,10,President - Dem,20,"Steinberg, Michael",2
+580,58 Round Rock,10,President - Dem,30,"Sanders, Bernie",27
+580,58 Round Rock,10,President - Dem,40,"O'Malley, Martin J.",3
+580,58 Round Rock,10,President - Dem,50,"Clinton, Hillary",135
+580,58 Round Rock,10,President - Dem,60,"Hewes, Henry",1
+580,58 Round Rock,20,President - Rep,999999,Number of Precincts for Race,1
+580,58 Round Rock,20,President - Rep,999998,Number of Precincts Reporting,1
+580,58 Round Rock,20,President - Rep,999997,Registered Voters,51
+580,58 Round Rock,20,President - Rep,999996,Times Counted,9
+580,58 Round Rock,20,President - Rep,10,"Santorum, Rick",1
+580,58 Round Rock,20,President - Rep,20,"Cook, Tim",0
+580,58 Round Rock,20,President - Rep,30,"Paul, Rand",1
+580,58 Round Rock,20,President - Rep,40,"Rubio, Marco",0
+580,58 Round Rock,20,President - Rep,50,"Graham, Lindsey",0
+580,58 Round Rock,20,President - Rep,60,"Kasich, John R.",0
+580,58 Round Rock,20,President - Rep,70,"Bush, Jeb",2
+580,58 Round Rock,20,President - Rep,80,"Trump, Donald J.",1
+580,58 Round Rock,20,President - Rep,90,"Fiorina, Carly",0
+580,58 Round Rock,20,President - Rep,100,"Pataki, George E.",0
+580,58 Round Rock,20,President - Rep,110,"Cruz, Ted",2
+580,58 Round Rock,20,President - Rep,120,"Huckabee, Mike",0
+580,58 Round Rock,20,President - Rep,130,"Christie, Chris",2
+580,58 Round Rock,20,President - Rep,140,"Carson, Ben",0
+580,58 Round Rock,30,President - Gre,999999,Number of Precincts for Race,1
+580,58 Round Rock,30,President - Gre,999998,Number of Precincts Reporting,1
+580,58 Round Rock,30,President - Gre,999997,Registered Voters,0
+580,58 Round Rock,30,President - Gre,999996,Times Counted,0
+580,58 Round Rock,30,President - Gre,10,"Mesplay, Kent",0
+580,58 Round Rock,30,President - Gre,20,"Stein, Jill",0
+610,61 St. Johns & 12 Coronado,999999,Race Statistics,999999,Number of Precincts,1
+610,61 St. Johns & 12 Coronado,999999,Race Statistics,999998,Number of Precincts Reporting,1
+610,61 St. Johns & 12 Coronado,10,President - Dem,999999,Number of Precincts for Race,1
+610,61 St. Johns & 12 Coronado,10,President - Dem,999998,Number of Precincts Reporting,1
+610,61 St. Johns & 12 Coronado,10,President - Dem,999997,Registered Voters,722
+610,61 St. Johns & 12 Coronado,10,President - Dem,999996,Times Counted,241
+610,61 St. Johns & 12 Coronado,10,President - Dem,10,"De La Fuente, Roque",14
+610,61 St. Johns & 12 Coronado,10,President - Dem,20,"Steinberg, Michael",7
+610,61 St. Johns & 12 Coronado,10,President - Dem,30,"Sanders, Bernie",124
+610,61 St. Johns & 12 Coronado,10,President - Dem,40,"O'Malley, Martin J.",9
+610,61 St. Johns & 12 Coronado,10,President - Dem,50,"Clinton, Hillary",81
+610,61 St. Johns & 12 Coronado,10,President - Dem,60,"Hewes, Henry",2
+610,61 St. Johns & 12 Coronado,20,President - Rep,999999,Number of Precincts for Race,1
+610,61 St. Johns & 12 Coronado,20,President - Rep,999998,Number of Precincts Reporting,1
+610,61 St. Johns & 12 Coronado,20,President - Rep,999997,Registered Voters,757
+610,61 St. Johns & 12 Coronado,20,President - Rep,999996,Times Counted,447
+610,61 St. Johns & 12 Coronado,20,President - Rep,10,"Santorum, Rick",2
+610,61 St. Johns & 12 Coronado,20,President - Rep,20,"Cook, Tim",0
+610,61 St. Johns & 12 Coronado,20,President - Rep,30,"Paul, Rand",4
+610,61 St. Johns & 12 Coronado,20,President - Rep,40,"Rubio, Marco",14
+610,61 St. Johns & 12 Coronado,20,President - Rep,50,"Graham, Lindsey",0
+610,61 St. Johns & 12 Coronado,20,President - Rep,60,"Kasich, John R.",17
+610,61 St. Johns & 12 Coronado,20,President - Rep,70,"Bush, Jeb",8
+610,61 St. Johns & 12 Coronado,20,President - Rep,80,"Trump, Donald J.",175
+610,61 St. Johns & 12 Coronado,20,President - Rep,90,"Fiorina, Carly",0
+610,61 St. Johns & 12 Coronado,20,President - Rep,100,"Pataki, George E.",1
+610,61 St. Johns & 12 Coronado,20,President - Rep,110,"Cruz, Ted",218
+610,61 St. Johns & 12 Coronado,20,President - Rep,120,"Huckabee, Mike",0
+610,61 St. Johns & 12 Coronado,20,President - Rep,130,"Christie, Chris",1
+610,61 St. Johns & 12 Coronado,20,President - Rep,140,"Carson, Ben",7
+610,61 St. Johns & 12 Coronado,30,President - Gre,999999,Number of Precincts for Race,1
+610,61 St. Johns & 12 Coronado,30,President - Gre,999998,Number of Precincts Reporting,1
+610,61 St. Johns & 12 Coronado,30,President - Gre,999997,Registered Voters,3
+610,61 St. Johns & 12 Coronado,30,President - Gre,999996,Times Counted,2
+610,61 St. Johns & 12 Coronado,30,President - Gre,10,"Mesplay, Kent",1
+610,61 St. Johns & 12 Coronado,30,President - Gre,20,"Stein, Jill",1
+650,65 St. Michaels,999999,Race Statistics,999999,Number of Precincts,1
+650,65 St. Michaels,999999,Race Statistics,999998,Number of Precincts Reporting,1
+650,65 St. Michaels,10,President - Dem,999999,Number of Precincts for Race,1
+650,65 St. Michaels,10,President - Dem,999998,Number of Precincts Reporting,1
+650,65 St. Michaels,10,President - Dem,999997,Registered Voters,1220
+650,65 St. Michaels,10,President - Dem,999996,Times Counted,423
+650,65 St. Michaels,10,President - Dem,10,"De La Fuente, Roque",5
+650,65 St. Michaels,10,President - Dem,20,"Steinberg, Michael",4
+650,65 St. Michaels,10,President - Dem,30,"Sanders, Bernie",143
+650,65 St. Michaels,10,President - Dem,40,"O'Malley, Martin J.",2
+650,65 St. Michaels,10,President - Dem,50,"Clinton, Hillary",267
+650,65 St. Michaels,10,President - Dem,60,"Hewes, Henry",2
+650,65 St. Michaels,20,President - Rep,999999,Number of Precincts for Race,1
+650,65 St. Michaels,20,President - Rep,999998,Number of Precincts Reporting,1
+650,65 St. Michaels,20,President - Rep,999997,Registered Voters,201
+650,65 St. Michaels,20,President - Rep,999996,Times Counted,54
+650,65 St. Michaels,20,President - Rep,10,"Santorum, Rick",0
+650,65 St. Michaels,20,President - Rep,20,"Cook, Tim",1
+650,65 St. Michaels,20,President - Rep,30,"Paul, Rand",2
+650,65 St. Michaels,20,President - Rep,40,"Rubio, Marco",6
+650,65 St. Michaels,20,President - Rep,50,"Graham, Lindsey",0
+650,65 St. Michaels,20,President - Rep,60,"Kasich, John R.",1
+650,65 St. Michaels,20,President - Rep,70,"Bush, Jeb",4
+650,65 St. Michaels,20,President - Rep,80,"Trump, Donald J.",13
+650,65 St. Michaels,20,President - Rep,90,"Fiorina, Carly",0
+650,65 St. Michaels,20,President - Rep,100,"Pataki, George E.",0
+650,65 St. Michaels,20,President - Rep,110,"Cruz, Ted",21
+650,65 St. Michaels,20,President - Rep,120,"Huckabee, Mike",1
+650,65 St. Michaels,20,President - Rep,130,"Christie, Chris",1
+650,65 St. Michaels,20,President - Rep,140,"Carson, Ben",4
+650,65 St. Michaels,30,President - Gre,999999,Number of Precincts for Race,1
+650,65 St. Michaels,30,President - Gre,999998,Number of Precincts Reporting,1
+650,65 St. Michaels,30,President - Gre,999997,Registered Voters,1
+650,65 St. Michaels,30,President - Gre,999996,Times Counted,0
+650,65 St. Michaels,30,President - Gre,10,"Mesplay, Kent",0
+650,65 St. Michaels,30,President - Gre,20,"Stein, Jill",0
+670,67 Sawmill,999999,Race Statistics,999999,Number of Precincts,1
+670,67 Sawmill,999999,Race Statistics,999998,Number of Precincts Reporting,1
+670,67 Sawmill,10,President - Dem,999999,Number of Precincts for Race,1
+670,67 Sawmill,10,President - Dem,999998,Number of Precincts Reporting,1
+670,67 Sawmill,10,President - Dem,999997,Registered Voters,528
+670,67 Sawmill,10,President - Dem,999996,Times Counted,173
+670,67 Sawmill,10,President - Dem,10,"De La Fuente, Roque",0
+670,67 Sawmill,10,President - Dem,20,"Steinberg, Michael",6
+670,67 Sawmill,10,President - Dem,30,"Sanders, Bernie",52
+670,67 Sawmill,10,President - Dem,40,"O'Malley, Martin J.",1
+670,67 Sawmill,10,President - Dem,50,"Clinton, Hillary",114
+670,67 Sawmill,10,President - Dem,60,"Hewes, Henry",0
+670,67 Sawmill,20,President - Rep,999999,Number of Precincts for Race,1
+670,67 Sawmill,20,President - Rep,999998,Number of Precincts Reporting,1
+670,67 Sawmill,20,President - Rep,999997,Registered Voters,59
+670,67 Sawmill,20,President - Rep,999996,Times Counted,15
+670,67 Sawmill,20,President - Rep,10,"Santorum, Rick",0
+670,67 Sawmill,20,President - Rep,20,"Cook, Tim",0
+670,67 Sawmill,20,President - Rep,30,"Paul, Rand",0
+670,67 Sawmill,20,President - Rep,40,"Rubio, Marco",4
+670,67 Sawmill,20,President - Rep,50,"Graham, Lindsey",0
+670,67 Sawmill,20,President - Rep,60,"Kasich, John R.",0
+670,67 Sawmill,20,President - Rep,70,"Bush, Jeb",2
+670,67 Sawmill,20,President - Rep,80,"Trump, Donald J.",3
+670,67 Sawmill,20,President - Rep,90,"Fiorina, Carly",1
+670,67 Sawmill,20,President - Rep,100,"Pataki, George E.",0
+670,67 Sawmill,20,President - Rep,110,"Cruz, Ted",3
+670,67 Sawmill,20,President - Rep,120,"Huckabee, Mike",0
+670,67 Sawmill,20,President - Rep,130,"Christie, Chris",0
+670,67 Sawmill,20,President - Rep,140,"Carson, Ben",2
+670,67 Sawmill,30,President - Gre,999999,Number of Precincts for Race,1
+670,67 Sawmill,30,President - Gre,999998,Number of Precincts Reporting,1
+670,67 Sawmill,30,President - Gre,999997,Registered Voters,0
+670,67 Sawmill,30,President - Gre,999996,Times Counted,0
+670,67 Sawmill,30,President - Gre,10,"Mesplay, Kent",0
+670,67 Sawmill,30,President - Gre,20,"Stein, Jill",0
+700,70 Springerville & 59 Round Valley,999999,Race Statistics,999999,Number of Precincts,1
+700,70 Springerville & 59 Round Valley,999999,Race Statistics,999998,Number of Precincts Reporting,1
+700,70 Springerville & 59 Round Valley,10,President - Dem,999999,Number of Precincts for Race,1
+700,70 Springerville & 59 Round Valley,10,President - Dem,999998,Number of Precincts Reporting,1
+700,70 Springerville & 59 Round Valley,10,President - Dem,999997,Registered Voters,410
+700,70 Springerville & 59 Round Valley,10,President - Dem,999996,Times Counted,164
+700,70 Springerville & 59 Round Valley,10,President - Dem,10,"De La Fuente, Roque",8
+700,70 Springerville & 59 Round Valley,10,President - Dem,20,"Steinberg, Michael",5
+700,70 Springerville & 59 Round Valley,10,President - Dem,30,"Sanders, Bernie",73
+700,70 Springerville & 59 Round Valley,10,President - Dem,40,"O'Malley, Martin J.",8
+700,70 Springerville & 59 Round Valley,10,President - Dem,50,"Clinton, Hillary",63
+700,70 Springerville & 59 Round Valley,10,President - Dem,60,"Hewes, Henry",5
+700,70 Springerville & 59 Round Valley,20,President - Rep,999999,Number of Precincts for Race,1
+700,70 Springerville & 59 Round Valley,20,President - Rep,999998,Number of Precincts Reporting,1
+700,70 Springerville & 59 Round Valley,20,President - Rep,999997,Registered Voters,689
+700,70 Springerville & 59 Round Valley,20,President - Rep,999996,Times Counted,354
+700,70 Springerville & 59 Round Valley,20,President - Rep,10,"Santorum, Rick",2
+700,70 Springerville & 59 Round Valley,20,President - Rep,20,"Cook, Tim",0
+700,70 Springerville & 59 Round Valley,20,President - Rep,30,"Paul, Rand",1
+700,70 Springerville & 59 Round Valley,20,President - Rep,40,"Rubio, Marco",11
+700,70 Springerville & 59 Round Valley,20,President - Rep,50,"Graham, Lindsey",0
+700,70 Springerville & 59 Round Valley,20,President - Rep,60,"Kasich, John R.",17
+700,70 Springerville & 59 Round Valley,20,President - Rep,70,"Bush, Jeb",3
+700,70 Springerville & 59 Round Valley,20,President - Rep,80,"Trump, Donald J.",176
+700,70 Springerville & 59 Round Valley,20,President - Rep,90,"Fiorina, Carly",0
+700,70 Springerville & 59 Round Valley,20,President - Rep,100,"Pataki, George E.",0
+700,70 Springerville & 59 Round Valley,20,President - Rep,110,"Cruz, Ted",135
+700,70 Springerville & 59 Round Valley,20,President - Rep,120,"Huckabee, Mike",1
+700,70 Springerville & 59 Round Valley,20,President - Rep,130,"Christie, Chris",0
+700,70 Springerville & 59 Round Valley,20,President - Rep,140,"Carson, Ben",8
+700,70 Springerville & 59 Round Valley,30,President - Gre,999999,Number of Precincts for Race,1
+700,70 Springerville & 59 Round Valley,30,President - Gre,999998,Number of Precincts Reporting,1
+700,70 Springerville & 59 Round Valley,30,President - Gre,999997,Registered Voters,0
+700,70 Springerville & 59 Round Valley,30,President - Gre,999996,Times Counted,0
+700,70 Springerville & 59 Round Valley,30,President - Gre,10,"Mesplay, Kent",0
+700,70 Springerville & 59 Round Valley,30,President - Gre,20,"Stein, Jill",0
+740,74 Steamboat,999999,Race Statistics,999999,Number of Precincts,1
+740,74 Steamboat,999999,Race Statistics,999998,Number of Precincts Reporting,1
+740,74 Steamboat,10,President - Dem,999999,Number of Precincts for Race,1
+740,74 Steamboat,10,President - Dem,999998,Number of Precincts Reporting,1
+740,74 Steamboat,10,President - Dem,999997,Registered Voters,955
+740,74 Steamboat,10,President - Dem,999996,Times Counted,297
+740,74 Steamboat,10,President - Dem,10,"De La Fuente, Roque",0
+740,74 Steamboat,10,President - Dem,20,"Steinberg, Michael",4
+740,74 Steamboat,10,President - Dem,30,"Sanders, Bernie",69
+740,74 Steamboat,10,President - Dem,40,"O'Malley, Martin J.",2
+740,74 Steamboat,10,President - Dem,50,"Clinton, Hillary",218
+740,74 Steamboat,10,President - Dem,60,"Hewes, Henry",3
+740,74 Steamboat,20,President - Rep,999999,Number of Precincts for Race,1
+740,74 Steamboat,20,President - Rep,999998,Number of Precincts Reporting,1
+740,74 Steamboat,20,President - Rep,999997,Registered Voters,72
+740,74 Steamboat,20,President - Rep,999996,Times Counted,11
+740,74 Steamboat,20,President - Rep,10,"Santorum, Rick",1
+740,74 Steamboat,20,President - Rep,20,"Cook, Tim",0
+740,74 Steamboat,20,President - Rep,30,"Paul, Rand",0
+740,74 Steamboat,20,President - Rep,40,"Rubio, Marco",1
+740,74 Steamboat,20,President - Rep,50,"Graham, Lindsey",0
+740,74 Steamboat,20,President - Rep,60,"Kasich, John R.",0
+740,74 Steamboat,20,President - Rep,70,"Bush, Jeb",0
+740,74 Steamboat,20,President - Rep,80,"Trump, Donald J.",4
+740,74 Steamboat,20,President - Rep,90,"Fiorina, Carly",0
+740,74 Steamboat,20,President - Rep,100,"Pataki, George E.",0
+740,74 Steamboat,20,President - Rep,110,"Cruz, Ted",4
+740,74 Steamboat,20,President - Rep,120,"Huckabee, Mike",0
+740,74 Steamboat,20,President - Rep,130,"Christie, Chris",0
+740,74 Steamboat,20,President - Rep,140,"Carson, Ben",1
+740,74 Steamboat,30,President - Gre,999999,Number of Precincts for Race,1
+740,74 Steamboat,30,President - Gre,999998,Number of Precincts Reporting,1
+740,74 Steamboat,30,President - Gre,999997,Registered Voters,0
+740,74 Steamboat,30,President - Gre,999996,Times Counted,0
+740,74 Steamboat,30,President - Gre,10,"Mesplay, Kent",0
+740,74 Steamboat,30,President - Gre,20,"Stein, Jill",0
+760,76 Sweetwater,999999,Race Statistics,999999,Number of Precincts,1
+760,76 Sweetwater,999999,Race Statistics,999998,Number of Precincts Reporting,1
+760,76 Sweetwater,10,President - Dem,999999,Number of Precincts for Race,1
+760,76 Sweetwater,10,President - Dem,999998,Number of Precincts Reporting,1
+760,76 Sweetwater,10,President - Dem,999997,Registered Voters,506
+760,76 Sweetwater,10,President - Dem,999996,Times Counted,113
+760,76 Sweetwater,10,President - Dem,10,"De La Fuente, Roque",0
+760,76 Sweetwater,10,President - Dem,20,"Steinberg, Michael",4
+760,76 Sweetwater,10,President - Dem,30,"Sanders, Bernie",37
+760,76 Sweetwater,10,President - Dem,40,"O'Malley, Martin J.",2
+760,76 Sweetwater,10,President - Dem,50,"Clinton, Hillary",70
+760,76 Sweetwater,10,President - Dem,60,"Hewes, Henry",0
+760,76 Sweetwater,20,President - Rep,999999,Number of Precincts for Race,1
+760,76 Sweetwater,20,President - Rep,999998,Number of Precincts Reporting,1
+760,76 Sweetwater,20,President - Rep,999997,Registered Voters,124
+760,76 Sweetwater,20,President - Rep,999996,Times Counted,20
+760,76 Sweetwater,20,President - Rep,10,"Santorum, Rick",0
+760,76 Sweetwater,20,President - Rep,20,"Cook, Tim",1
+760,76 Sweetwater,20,President - Rep,30,"Paul, Rand",0
+760,76 Sweetwater,20,President - Rep,40,"Rubio, Marco",0
+760,76 Sweetwater,20,President - Rep,50,"Graham, Lindsey",1
+760,76 Sweetwater,20,President - Rep,60,"Kasich, John R.",1
+760,76 Sweetwater,20,President - Rep,70,"Bush, Jeb",1
+760,76 Sweetwater,20,President - Rep,80,"Trump, Donald J.",3
+760,76 Sweetwater,20,President - Rep,90,"Fiorina, Carly",0
+760,76 Sweetwater,20,President - Rep,100,"Pataki, George E.",0
+760,76 Sweetwater,20,President - Rep,110,"Cruz, Ted",10
+760,76 Sweetwater,20,President - Rep,120,"Huckabee, Mike",0
+760,76 Sweetwater,20,President - Rep,130,"Christie, Chris",1
+760,76 Sweetwater,20,President - Rep,140,"Carson, Ben",2
+760,76 Sweetwater,30,President - Gre,999999,Number of Precincts for Race,1
+760,76 Sweetwater,30,President - Gre,999998,Number of Precincts Reporting,1
+760,76 Sweetwater,30,President - Gre,999997,Registered Voters,0
+760,76 Sweetwater,30,President - Gre,999996,Times Counted,0
+760,76 Sweetwater,30,President - Gre,10,"Mesplay, Kent",0
+760,76 Sweetwater,30,President - Gre,20,"Stein, Jill",0
+780,78 Tachee,999999,Race Statistics,999999,Number of Precincts,1
+780,78 Tachee,999999,Race Statistics,999998,Number of Precincts Reporting,1
+780,78 Tachee,10,President - Dem,999999,Number of Precincts for Race,1
+780,78 Tachee,10,President - Dem,999998,Number of Precincts Reporting,1
+780,78 Tachee,10,President - Dem,999997,Registered Voters,398
+780,78 Tachee,10,President - Dem,999996,Times Counted,110
+780,78 Tachee,10,President - Dem,10,"De La Fuente, Roque",1
+780,78 Tachee,10,President - Dem,20,"Steinberg, Michael",2
+780,78 Tachee,10,President - Dem,30,"Sanders, Bernie",32
+780,78 Tachee,10,President - Dem,40,"O'Malley, Martin J.",1
+780,78 Tachee,10,President - Dem,50,"Clinton, Hillary",71
+780,78 Tachee,10,President - Dem,60,"Hewes, Henry",3
+780,78 Tachee,20,President - Rep,999999,Number of Precincts for Race,1
+780,78 Tachee,20,President - Rep,999998,Number of Precincts Reporting,1
+780,78 Tachee,20,President - Rep,999997,Registered Voters,35
+780,78 Tachee,20,President - Rep,999996,Times Counted,7
+780,78 Tachee,20,President - Rep,10,"Santorum, Rick",0
+780,78 Tachee,20,President - Rep,20,"Cook, Tim",1
+780,78 Tachee,20,President - Rep,30,"Paul, Rand",0
+780,78 Tachee,20,President - Rep,40,"Rubio, Marco",0
+780,78 Tachee,20,President - Rep,50,"Graham, Lindsey",1
+780,78 Tachee,20,President - Rep,60,"Kasich, John R.",0
+780,78 Tachee,20,President - Rep,70,"Bush, Jeb",0
+780,78 Tachee,20,President - Rep,80,"Trump, Donald J.",4
+780,78 Tachee,20,President - Rep,90,"Fiorina, Carly",0
+780,78 Tachee,20,President - Rep,100,"Pataki, George E.",0
+780,78 Tachee,20,President - Rep,110,"Cruz, Ted",1
+780,78 Tachee,20,President - Rep,120,"Huckabee, Mike",0
+780,78 Tachee,20,President - Rep,130,"Christie, Chris",0
+780,78 Tachee,20,President - Rep,140,"Carson, Ben",0
+780,78 Tachee,30,President - Gre,999999,Number of Precincts for Race,1
+780,78 Tachee,30,President - Gre,999998,Number of Precincts Reporting,1
+780,78 Tachee,30,President - Gre,999997,Registered Voters,0
+780,78 Tachee,30,President - Gre,999996,Times Counted,0
+780,78 Tachee,30,President - Gre,10,"Mesplay, Kent",0
+780,78 Tachee,30,President - Gre,20,"Stein, Jill",0
+800,80 Teec Nos Pos,999999,Race Statistics,999999,Number of Precincts,1
+800,80 Teec Nos Pos,999999,Race Statistics,999998,Number of Precincts Reporting,1
+800,80 Teec Nos Pos,10,President - Dem,999999,Number of Precincts for Race,1
+800,80 Teec Nos Pos,10,President - Dem,999998,Number of Precincts Reporting,1
+800,80 Teec Nos Pos,10,President - Dem,999997,Registered Voters,570
+800,80 Teec Nos Pos,10,President - Dem,999996,Times Counted,91
+800,80 Teec Nos Pos,10,President - Dem,10,"De La Fuente, Roque",0
+800,80 Teec Nos Pos,10,President - Dem,20,"Steinberg, Michael",1
+800,80 Teec Nos Pos,10,President - Dem,30,"Sanders, Bernie",22
+800,80 Teec Nos Pos,10,President - Dem,40,"O'Malley, Martin J.",2
+800,80 Teec Nos Pos,10,President - Dem,50,"Clinton, Hillary",65
+800,80 Teec Nos Pos,10,President - Dem,60,"Hewes, Henry",1
+800,80 Teec Nos Pos,20,President - Rep,999999,Number of Precincts for Race,1
+800,80 Teec Nos Pos,20,President - Rep,999998,Number of Precincts Reporting,1
+800,80 Teec Nos Pos,20,President - Rep,999997,Registered Voters,110
+800,80 Teec Nos Pos,20,President - Rep,999996,Times Counted,17
+800,80 Teec Nos Pos,20,President - Rep,10,"Santorum, Rick",1
+800,80 Teec Nos Pos,20,President - Rep,20,"Cook, Tim",0
+800,80 Teec Nos Pos,20,President - Rep,30,"Paul, Rand",0
+800,80 Teec Nos Pos,20,President - Rep,40,"Rubio, Marco",3
+800,80 Teec Nos Pos,20,President - Rep,50,"Graham, Lindsey",1
+800,80 Teec Nos Pos,20,President - Rep,60,"Kasich, John R.",3
+800,80 Teec Nos Pos,20,President - Rep,70,"Bush, Jeb",0
+800,80 Teec Nos Pos,20,President - Rep,80,"Trump, Donald J.",4
+800,80 Teec Nos Pos,20,President - Rep,90,"Fiorina, Carly",0
+800,80 Teec Nos Pos,20,President - Rep,100,"Pataki, George E.",0
+800,80 Teec Nos Pos,20,President - Rep,110,"Cruz, Ted",5
+800,80 Teec Nos Pos,20,President - Rep,120,"Huckabee, Mike",0
+800,80 Teec Nos Pos,20,President - Rep,130,"Christie, Chris",0
+800,80 Teec Nos Pos,20,President - Rep,140,"Carson, Ben",0
+800,80 Teec Nos Pos,30,President - Gre,999999,Number of Precincts for Race,1
+800,80 Teec Nos Pos,30,President - Gre,999998,Number of Precincts Reporting,1
+800,80 Teec Nos Pos,30,President - Gre,999997,Registered Voters,0
+800,80 Teec Nos Pos,30,President - Gre,999996,Times Counted,0
+800,80 Teec Nos Pos,30,President - Gre,10,"Mesplay, Kent",0
+800,80 Teec Nos Pos,30,President - Gre,20,"Stein, Jill",0
+820,82 Vernon,999999,Race Statistics,999999,Number of Precincts,1
+820,82 Vernon,999999,Race Statistics,999998,Number of Precincts Reporting,1
+820,82 Vernon,10,President - Dem,999999,Number of Precincts for Race,1
+820,82 Vernon,10,President - Dem,999998,Number of Precincts Reporting,1
+820,82 Vernon,10,President - Dem,999997,Registered Voters,217
+820,82 Vernon,10,President - Dem,999996,Times Counted,114
+820,82 Vernon,10,President - Dem,10,"De La Fuente, Roque",2
+820,82 Vernon,10,President - Dem,20,"Steinberg, Michael",0
+820,82 Vernon,10,President - Dem,30,"Sanders, Bernie",50
+820,82 Vernon,10,President - Dem,40,"O'Malley, Martin J.",2
+820,82 Vernon,10,President - Dem,50,"Clinton, Hillary",58
+820,82 Vernon,10,President - Dem,60,"Hewes, Henry",0
+820,82 Vernon,20,President - Rep,999999,Number of Precincts for Race,1
+820,82 Vernon,20,President - Rep,999998,Number of Precincts Reporting,1
+820,82 Vernon,20,President - Rep,999997,Registered Voters,638
+820,82 Vernon,20,President - Rep,999996,Times Counted,404
+820,82 Vernon,20,President - Rep,10,"Santorum, Rick",0
+820,82 Vernon,20,President - Rep,20,"Cook, Tim",0
+820,82 Vernon,20,President - Rep,30,"Paul, Rand",0
+820,82 Vernon,20,President - Rep,40,"Rubio, Marco",9
+820,82 Vernon,20,President - Rep,50,"Graham, Lindsey",0
+820,82 Vernon,20,President - Rep,60,"Kasich, John R.",21
+820,82 Vernon,20,President - Rep,70,"Bush, Jeb",2
+820,82 Vernon,20,President - Rep,80,"Trump, Donald J.",227
+820,82 Vernon,20,President - Rep,90,"Fiorina, Carly",1
+820,82 Vernon,20,President - Rep,100,"Pataki, George E.",1
+820,82 Vernon,20,President - Rep,110,"Cruz, Ted",135
+820,82 Vernon,20,President - Rep,120,"Huckabee, Mike",1
+820,82 Vernon,20,President - Rep,130,"Christie, Chris",0
+820,82 Vernon,20,President - Rep,140,"Carson, Ben",7
+820,82 Vernon,30,President - Gre,999999,Number of Precincts for Race,1
+820,82 Vernon,30,President - Gre,999998,Number of Precincts Reporting,1
+820,82 Vernon,30,President - Gre,999997,Registered Voters,1
+820,82 Vernon,30,President - Gre,999996,Times Counted,0
+820,82 Vernon,30,President - Gre,10,"Mesplay, Kent",0
+820,82 Vernon,30,President - Gre,20,"Stein, Jill",0
+840,84 Wheatfields,999999,Race Statistics,999999,Number of Precincts,1
+840,84 Wheatfields,999999,Race Statistics,999998,Number of Precincts Reporting,1
+840,84 Wheatfields,10,President - Dem,999999,Number of Precincts for Race,1
+840,84 Wheatfields,10,President - Dem,999998,Number of Precincts Reporting,1
+840,84 Wheatfields,10,President - Dem,999997,Registered Voters,993
+840,84 Wheatfields,10,President - Dem,999996,Times Counted,306
+840,84 Wheatfields,10,President - Dem,10,"De La Fuente, Roque",3
+840,84 Wheatfields,10,President - Dem,20,"Steinberg, Michael",5
+840,84 Wheatfields,10,President - Dem,30,"Sanders, Bernie",62
+840,84 Wheatfields,10,President - Dem,40,"O'Malley, Martin J.",6
+840,84 Wheatfields,10,President - Dem,50,"Clinton, Hillary",226
+840,84 Wheatfields,10,President - Dem,60,"Hewes, Henry",4
+840,84 Wheatfields,20,President - Rep,999999,Number of Precincts for Race,1
+840,84 Wheatfields,20,President - Rep,999998,Number of Precincts Reporting,1
+840,84 Wheatfields,20,President - Rep,999997,Registered Voters,79
+840,84 Wheatfields,20,President - Rep,999996,Times Counted,11
+840,84 Wheatfields,20,President - Rep,10,"Santorum, Rick",0
+840,84 Wheatfields,20,President - Rep,20,"Cook, Tim",0
+840,84 Wheatfields,20,President - Rep,30,"Paul, Rand",0
+840,84 Wheatfields,20,President - Rep,40,"Rubio, Marco",1
+840,84 Wheatfields,20,President - Rep,50,"Graham, Lindsey",0
+840,84 Wheatfields,20,President - Rep,60,"Kasich, John R.",2
+840,84 Wheatfields,20,President - Rep,70,"Bush, Jeb",0
+840,84 Wheatfields,20,President - Rep,80,"Trump, Donald J.",4
+840,84 Wheatfields,20,President - Rep,90,"Fiorina, Carly",0
+840,84 Wheatfields,20,President - Rep,100,"Pataki, George E.",0
+840,84 Wheatfields,20,President - Rep,110,"Cruz, Ted",2
+840,84 Wheatfields,20,President - Rep,120,"Huckabee, Mike",2
+840,84 Wheatfields,20,President - Rep,130,"Christie, Chris",0
+840,84 Wheatfields,20,President - Rep,140,"Carson, Ben",0
+840,84 Wheatfields,30,President - Gre,999999,Number of Precincts for Race,1
+840,84 Wheatfields,30,President - Gre,999998,Number of Precincts Reporting,1
+840,84 Wheatfields,30,President - Gre,999997,Registered Voters,1
+840,84 Wheatfields,30,President - Gre,999996,Times Counted,0
+840,84 Wheatfields,30,President - Gre,10,"Mesplay, Kent",0
+840,84 Wheatfields,30,President - Gre,20,"Stein, Jill",0
+860,86 Wide Ruins,999999,Race Statistics,999999,Number of Precincts,1
+860,86 Wide Ruins,999999,Race Statistics,999998,Number of Precincts Reporting,1
+860,86 Wide Ruins,10,President - Dem,999999,Number of Precincts for Race,1
+860,86 Wide Ruins,10,President - Dem,999998,Number of Precincts Reporting,1
+860,86 Wide Ruins,10,President - Dem,999997,Registered Voters,530
+860,86 Wide Ruins,10,President - Dem,999996,Times Counted,162
+860,86 Wide Ruins,10,President - Dem,10,"De La Fuente, Roque",1
+860,86 Wide Ruins,10,President - Dem,20,"Steinberg, Michael",4
+860,86 Wide Ruins,10,President - Dem,30,"Sanders, Bernie",34
+860,86 Wide Ruins,10,President - Dem,40,"O'Malley, Martin J.",1
+860,86 Wide Ruins,10,President - Dem,50,"Clinton, Hillary",121
+860,86 Wide Ruins,10,President - Dem,60,"Hewes, Henry",1
+860,86 Wide Ruins,20,President - Rep,999999,Number of Precincts for Race,1
+860,86 Wide Ruins,20,President - Rep,999998,Number of Precincts Reporting,1
+860,86 Wide Ruins,20,President - Rep,999997,Registered Voters,51
+860,86 Wide Ruins,20,President - Rep,999996,Times Counted,9
+860,86 Wide Ruins,20,President - Rep,10,"Santorum, Rick",0
+860,86 Wide Ruins,20,President - Rep,20,"Cook, Tim",0
+860,86 Wide Ruins,20,President - Rep,30,"Paul, Rand",0
+860,86 Wide Ruins,20,President - Rep,40,"Rubio, Marco",1
+860,86 Wide Ruins,20,President - Rep,50,"Graham, Lindsey",0
+860,86 Wide Ruins,20,President - Rep,60,"Kasich, John R.",1
+860,86 Wide Ruins,20,President - Rep,70,"Bush, Jeb",0
+860,86 Wide Ruins,20,President - Rep,80,"Trump, Donald J.",3
+860,86 Wide Ruins,20,President - Rep,90,"Fiorina, Carly",0
+860,86 Wide Ruins,20,President - Rep,100,"Pataki, George E.",0
+860,86 Wide Ruins,20,President - Rep,110,"Cruz, Ted",2
+860,86 Wide Ruins,20,President - Rep,120,"Huckabee, Mike",0
+860,86 Wide Ruins,20,President - Rep,130,"Christie, Chris",0
+860,86 Wide Ruins,20,President - Rep,140,"Carson, Ben",2
+860,86 Wide Ruins,30,President - Gre,999999,Number of Precincts for Race,1
+860,86 Wide Ruins,30,President - Gre,999998,Number of Precincts Reporting,1
+860,86 Wide Ruins,30,President - Gre,999997,Registered Voters,0
+860,86 Wide Ruins,30,President - Gre,999996,Times Counted,0
+860,86 Wide Ruins,30,President - Gre,10,"Mesplay, Kent",0
+860,86 Wide Ruins,30,President - Gre,20,"Stein, Jill",0
+880,88 Window Rock,999999,Race Statistics,999999,Number of Precincts,1
+880,88 Window Rock,999999,Race Statistics,999998,Number of Precincts Reporting,1
+880,88 Window Rock,10,President - Dem,999999,Number of Precincts for Race,1
+880,88 Window Rock,10,President - Dem,999998,Number of Precincts Reporting,1
+880,88 Window Rock,10,President - Dem,999997,Registered Voters,1079
+880,88 Window Rock,10,President - Dem,999996,Times Counted,360
+880,88 Window Rock,10,President - Dem,10,"De La Fuente, Roque",0
+880,88 Window Rock,10,President - Dem,20,"Steinberg, Michael",0
+880,88 Window Rock,10,President - Dem,30,"Sanders, Bernie",138
+880,88 Window Rock,10,President - Dem,40,"O'Malley, Martin J.",0
+880,88 Window Rock,10,President - Dem,50,"Clinton, Hillary",219
+880,88 Window Rock,10,President - Dem,60,"Hewes, Henry",1
+880,88 Window Rock,20,President - Rep,999999,Number of Precincts for Race,1
+880,88 Window Rock,20,President - Rep,999998,Number of Precincts Reporting,1
+880,88 Window Rock,20,President - Rep,999997,Registered Voters,220
+880,88 Window Rock,20,President - Rep,999996,Times Counted,54
+880,88 Window Rock,20,President - Rep,10,"Santorum, Rick",0
+880,88 Window Rock,20,President - Rep,20,"Cook, Tim",0
+880,88 Window Rock,20,President - Rep,30,"Paul, Rand",3
+880,88 Window Rock,20,President - Rep,40,"Rubio, Marco",2
+880,88 Window Rock,20,President - Rep,50,"Graham, Lindsey",0
+880,88 Window Rock,20,President - Rep,60,"Kasich, John R.",4
+880,88 Window Rock,20,President - Rep,70,"Bush, Jeb",3
+880,88 Window Rock,20,President - Rep,80,"Trump, Donald J.",16
+880,88 Window Rock,20,President - Rep,90,"Fiorina, Carly",0
+880,88 Window Rock,20,President - Rep,100,"Pataki, George E.",0
+880,88 Window Rock,20,President - Rep,110,"Cruz, Ted",21
+880,88 Window Rock,20,President - Rep,120,"Huckabee, Mike",1
+880,88 Window Rock,20,President - Rep,130,"Christie, Chris",1
+880,88 Window Rock,20,President - Rep,140,"Carson, Ben",1
+880,88 Window Rock,30,President - Gre,999999,Number of Precincts for Race,1
+880,88 Window Rock,30,President - Gre,999998,Number of Precincts Reporting,1
+880,88 Window Rock,30,President - Gre,999997,Registered Voters,1
+880,88 Window Rock,30,President - Gre,999996,Times Counted,1
+880,88 Window Rock,30,President - Gre,10,"Mesplay, Kent",1
+880,88 Window Rock,30,President - Gre,20,"Stein, Jill",0
+999999,Election Total,999999,Race Statistics,999999,Number of Precincts,41
+999999,Election Total,999999,Race Statistics,999998,Number of Precincts Reporting,41
+999999,Election Total,10,President - Dem,999999,Number of Precincts for Race,41
+999999,Election Total,10,President - Dem,999998,Number of Precincts Reporting,41
+999999,Election Total,10,President - Dem,999997,Registered Voters,26731
+999999,Election Total,10,President - Dem,999996,Times Counted,8093
+999999,Election Total,10,President - Dem,10,"De La Fuente, Roque",78
+999999,Election Total,10,President - Dem,20,"Steinberg, Michael",116
+999999,Election Total,10,President - Dem,30,"Sanders, Bernie",2415
+999999,Election Total,10,President - Dem,40,"O'Malley, Martin J.",112
+999999,Election Total,10,President - Dem,50,"Clinton, Hillary",5264
+999999,Election Total,10,President - Dem,60,"Hewes, Henry",75
+999999,Election Total,20,President - Rep,999999,Number of Precincts for Race,41
+999999,Election Total,20,President - Rep,999998,Number of Precincts Reporting,41
+999999,Election Total,20,President - Rep,999997,Registered Voters,7870
+999999,Election Total,20,President - Rep,999996,Times Counted,3244
+999999,Election Total,20,President - Rep,10,"Santorum, Rick",14
+999999,Election Total,20,President - Rep,20,"Cook, Tim",11
+999999,Election Total,20,President - Rep,30,"Paul, Rand",24
+999999,Election Total,20,President - Rep,40,"Rubio, Marco",124
+999999,Election Total,20,President - Rep,50,"Graham, Lindsey",12
+999999,Election Total,20,President - Rep,60,"Kasich, John R.",189
+999999,Election Total,20,President - Rep,70,"Bush, Jeb",68
+999999,Election Total,20,President - Rep,80,"Trump, Donald J.",1389
+999999,Election Total,20,President - Rep,90,"Fiorina, Carly",10
+999999,Election Total,20,President - Rep,100,"Pataki, George E.",4
+999999,Election Total,20,President - Rep,110,"Cruz, Ted",1271
+999999,Election Total,20,President - Rep,120,"Huckabee, Mike",13
+999999,Election Total,20,President - Rep,130,"Christie, Chris",20
+999999,Election Total,20,President - Rep,140,"Carson, Ben",84
+999999,Election Total,30,President - Gre,999999,Number of Precincts for Race,41
+999999,Election Total,30,President - Gre,999998,Number of Precincts Reporting,41
+999999,Election Total,30,President - Gre,999997,Registered Voters,34
+999999,Election Total,30,President - Gre,999996,Times Counted,23
+999999,Election Total,30,President - Gre,10,"Mesplay, Kent",7
+999999,Election Total,30,President - Gre,20,"Stein, Jill",16
