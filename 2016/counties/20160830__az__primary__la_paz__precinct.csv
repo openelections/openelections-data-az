@@ -1175,42 +1175,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 51,051 PARKER,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 51,051 PARKER,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 51,051 PARKER,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,2
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-51,051 PARKER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,2
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+51,051 PARKER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 51,051 PARKER,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 51,051 PARKER,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 51,051 PARKER,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -2475,42 +2475,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 52,052 POSTON,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 52,052 POSTON,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 52,052 POSTON,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-52,052 POSTON,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+52,052 POSTON,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 52,052 POSTON,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 52,052 POSTON,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 52,052 POSTON,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -3731,42 +3731,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 60,054 UPRIVER,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,1
 60,054 UPRIVER,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 60,054 UPRIVER,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,2
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,3
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,5
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,3
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,4
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,2
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,3
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,1
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-60,054 UPRIVER,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,2
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,3
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,5
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,3
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,4
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,2
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,3
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,1
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+60,054 UPRIVER,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,1
 60,054 UPRIVER,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 60,054 UPRIVER,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 60,054 UPRIVER,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -4987,42 +4987,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 70,055 BOUSE,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,1
 70,055 BOUSE,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 70,055 BOUSE,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-70,055 BOUSE,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+70,055 BOUSE,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 70,055 BOUSE,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 70,055 BOUSE,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 70,055 BOUSE,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -6227,42 +6227,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 80,056 WENDEN,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 80,056 WENDEN,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 80,056 WENDEN,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-80,056 WENDEN,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+80,056 WENDEN,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 80,056 WENDEN,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 80,056 WENDEN,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 80,056 WENDEN,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -7467,42 +7467,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 90,057 SALOME,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 90,057 SALOME,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 90,057 SALOME,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,2
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-90,057 SALOME,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,2
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+90,057 SALOME,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 90,057 SALOME,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 90,057 SALOME,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 90,057 SALOME,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -8723,42 +8723,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 100,058 QUARTZSITE 2,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 100,058 QUARTZSITE 2,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 100,058 QUARTZSITE 2,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,4
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,2
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,2
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,4
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,2
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,3
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,4
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,2
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,2
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,4
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,2
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,3
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+100,058 QUARTZSITE 2,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 100,058 QUARTZSITE 2,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 100,058 QUARTZSITE 2,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 100,058 QUARTZSITE 2,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -10059,42 +10059,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 110,059 CIBOLA,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 110,059 CIBOLA,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 110,059 CIBOLA,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-110,059 CIBOLA,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,1
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+110,059 CIBOLA,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 110,059 CIBOLA,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 110,059 CIBOLA,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 110,059 CIBOLA,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -11299,42 +11299,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 120,060 EHRENBERG,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 120,060 EHRENBERG,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 120,060 EHRENBERG,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,2
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,2
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,1
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,2
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+120,060 EHRENBERG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,2
 120,060 EHRENBERG,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 120,060 EHRENBERG,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 120,060 EHRENBERG,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -12555,42 +12555,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 130,062 VICKSBURG,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 130,062 VICKSBURG,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,0
 130,062 VICKSBURG,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+130,062 VICKSBURG,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 130,062 VICKSBURG,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 130,062 VICKSBURG,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 130,062 VICKSBURG,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -13795,42 +13795,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 140,064 QUARTZSITE 3,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,0
 140,064 QUARTZSITE 3,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,1
 140,064 QUARTZSITE 3,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,2
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,2
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,1
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,2
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,2
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,2
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,1
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,2
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+140,064 QUARTZSITE 3,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,0
 140,064 QUARTZSITE 3,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,1
 140,064 QUARTZSITE 3,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,1
 140,064 QUARTZSITE 3,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,1
@@ -15287,42 +15287,42 @@ precinct_id,precinct_name,,contest,contest_name,,,,,,,,choice,choice_name,,,part
 999999,Election Total,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,20,Early Voting,,2
 999999,Election Total,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,30,Central Count,,1
 999999,Election Total,,420,(GRN) State Senator Dist. 5,,4,GRN,4,0,NP,,10,Write-in,,0,NP,,999999,Total,,4
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,11
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,11
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,11
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,11
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,11
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,11
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,10
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,5
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,10
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,1
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,16
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,2
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,2
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,4
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,2
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,8
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,1
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,11
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,2
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,7
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,1
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,10
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,2
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,1
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
-999999,Election Total,,425,(GRN) State Representative Dist. 5  (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,3
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,11
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,999999,Total,,11
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,10,Polling,,11
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,20,Early Voting,,11
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,30,Central Count,,11
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999998,Number of Precincts Reporting,,0,NP,,999999,Total,,11
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,10,Polling,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,20,Early Voting,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,30,Central Count,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999997,Registered Voters,,0,NP,,999999,Total,,10
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,10,Polling,,5
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,20,Early Voting,,10
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,30,Central Count,,1
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999996,Times Counted,,0,NP,,999999,Total,,16
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,10,Polling,,2
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,20,Early Voting,,2
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,30,Central Count,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999995,Times Blank Voted,,0,NP,,999999,Total,,4
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,10,Polling,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,20,Early Voting,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,30,Central Count,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999994,Times Over Voted,,0,NP,,999999,Total,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,10,Polling,,2
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,20,Early Voting,,8
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,30,Central Count,,1
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,999993,Number of Under Votes,,0,NP,,999999,Total,,11
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,10,Polling,,2
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,20,Early Voting,,7
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,30,Central Count,,1
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,10,"BIASIUCCI, LEO",,0,NP,,999999,Total,,10
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,10,Polling,,2
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,20,Early Voting,,1
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,30,Central Count,,0
+999999,Election Total,,425,(GRN) State Representative Dist. 5 (Elect 2),,4,GRN,4,0,NP,,30,Write-in,,0,NP,,999999,Total,,3
 999999,Election Total,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,10,Polling,,11
 999999,Election Total,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,20,Early Voting,,0
 999999,Election Total,,430,(GRN) Corporation Commissioner (Elect 3),,4,GRN,4,0,NP,,999999,Number of Precincts for Race,,0,NP,,30,Central Count,,0
