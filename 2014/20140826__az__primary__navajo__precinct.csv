@@ -237,7 +237,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 10,01 BIRDSPRINGS - PREC #(s): 01.00,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 10,01 BIRDSPRINGS - PREC #(s): 01.00,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,189
 10,01 BIRDSPRINGS - PREC #(s): 01.00,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,68
-10,01 BIRDSPRINGS - PREC #(s): 01.00,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",56
+10,01 BIRDSPRINGS - PREC #(s): 01.00,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",56
 20,02 BLACK MESA - PREC #(s): 02.00 / 02.01,999999,Race Statistics,999999,Number of Precincts,1
 20,02 BLACK MESA - PREC #(s): 02.00 / 02.01,999999,Race Statistics,999998,Number of Precincts Reporting,1
 20,02 BLACK MESA - PREC #(s): 02.00 / 02.01,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -1677,7 +1677,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 70,07 DILKON - PREC #(s): 07.00 / 07.01 / 07.02 / 07.03,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 70,07 DILKON - PREC #(s): 07.00 / 07.01 / 07.02 / 07.03,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,780
 70,07 DILKON - PREC #(s): 07.00 / 07.01 / 07.02 / 07.03,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,297
-70,07 DILKON - PREC #(s): 07.00 / 07.01 / 07.02 / 07.03,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",255
+70,07 DILKON - PREC #(s): 07.00 / 07.01 / 07.02 / 07.03,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",255
 80,08 EAST FOREST LAKE - PREC #(s): 08.00 / 08.01,999999,Race Statistics,999999,Number of Precincts,1
 80,08 EAST FOREST LAKE - PREC #(s): 08.00 / 08.01,999999,Race Statistics,999998,Number of Precincts Reporting,1
 80,08 EAST FOREST LAKE - PREC #(s): 08.00 / 08.01,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -5966,7 +5966,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 250,25 KEAMS CANYON - PREC #(s): 25.00,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 250,25 KEAMS CANYON - PREC #(s): 25.00,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,104
 250,25 KEAMS CANYON - PREC #(s): 25.00,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,29
-250,25 KEAMS CANYON - PREC #(s): 25.00,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",28
+250,25 KEAMS CANYON - PREC #(s): 25.00,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",28
 260,26 WEST LAKESIDE - PREC #(s): 26.00 / 26.01 / 26.02 / 26.03 / 26.04,999999,Race Statistics,999999,Number of Precincts,1
 260,26 WEST LAKESIDE - PREC #(s): 26.00 / 26.01 / 26.02 / 26.03 / 26.04,999999,Race Statistics,999998,Number of Precincts Reporting,1
 260,26 WEST LAKESIDE - PREC #(s): 26.00 / 26.01 / 26.02 / 26.03 / 26.04,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -7466,7 +7466,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 310,31 ORAIBI - PREC #(s): 31.01,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 310,31 ORAIBI - PREC #(s): 31.01,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,289
 310,31 ORAIBI - PREC #(s): 31.01,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,41
-310,31 ORAIBI - PREC #(s): 31.01,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",34
+310,31 ORAIBI - PREC #(s): 31.01,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",34
 320,32 PINEDALE - PREC #(s): 32.01 / 32.02,999999,Race Statistics,999999,Number of Precincts,1
 320,32 PINEDALE - PREC #(s): 32.01 / 32.02,999999,Race Statistics,999998,Number of Precincts Reporting,1
 320,32 PINEDALE - PREC #(s): 32.01 / 32.02,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -8656,7 +8656,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 360,36 POLACCA - PREC #(s): 36.01,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 360,36 POLACCA - PREC #(s): 36.01,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,264
 360,36 POLACCA - PREC #(s): 36.01,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,13
-360,36 POLACCA - PREC #(s): 36.01,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",11
+360,36 POLACCA - PREC #(s): 36.01,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",11
 370,37 SHONTO - PREC #(s): 37.00,999999,Race Statistics,999999,Number of Precincts,1
 370,37 SHONTO - PREC #(s): 37.00,999999,Race Statistics,999998,Number of Precincts Reporting,1
 370,37 SHONTO - PREC #(s): 37.00,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -11842,7 +11842,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 490,49 TEESTO - PREC #(s): 49.00 / 49.01 / 49.02 / 49.03,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 490,49 TEESTO - PREC #(s): 49.00 / 49.01 / 49.02 / 49.03,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,554
 490,49 TEESTO - PREC #(s): 49.00 / 49.01 / 49.02 / 49.03,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,279
-490,49 TEESTO - PREC #(s): 49.00 / 49.01 / 49.02 / 49.03,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",214
+490,49 TEESTO - PREC #(s): 49.00 / 49.01 / 49.02 / 49.03,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",214
 500,50 TOREVA - PREC #(s): 50.01 / 50.02,999999,Race Statistics,999999,Number of Precincts,1
 500,50 TOREVA - PREC #(s): 50.01 / 50.02,999999,Race Statistics,999998,Number of Precincts Reporting,1
 500,50 TOREVA - PREC #(s): 50.01 / 50.02,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -12081,7 +12081,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 500,50 TOREVA - PREC #(s): 50.01 / 50.02,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 500,50 TOREVA - PREC #(s): 50.01 / 50.02,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,217
 500,50 TOREVA - PREC #(s): 50.01 / 50.02,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,26
-500,50 TOREVA - PREC #(s): 50.01 / 50.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",20
+500,50 TOREVA - PREC #(s): 50.01 / 50.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",20
 510,51 WHIPPOORWILL SPRINGS - PREC #(s): 51.00,999999,Race Statistics,999999,Number of Precincts,1
 510,51 WHIPPOORWILL SPRINGS - PREC #(s): 51.00,999999,Race Statistics,999998,Number of Precincts Reporting,1
 510,51 WHIPPOORWILL SPRINGS - PREC #(s): 51.00,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -13749,7 +13749,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 570,57 SOUTH WINSLOW - PREC #(s): 57.01 / 57.02,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 570,57 SOUTH WINSLOW - PREC #(s): 57.01 / 57.02,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,725
 570,57 SOUTH WINSLOW - PREC #(s): 57.01 / 57.02,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,290
-570,57 SOUTH WINSLOW - PREC #(s): 57.01 / 57.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",264
+570,57 SOUTH WINSLOW - PREC #(s): 57.01 / 57.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",264
 580,58 EAST WINSLOW - PREC #(s): 58.01 / 58.02,999999,Race Statistics,999999,Number of Precincts,1
 580,58 EAST WINSLOW - PREC #(s): 58.01 / 58.02,999999,Race Statistics,999998,Number of Precincts Reporting,1
 580,58 EAST WINSLOW - PREC #(s): 58.01 / 58.02,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -13988,7 +13988,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 580,58 EAST WINSLOW - PREC #(s): 58.01 / 58.02,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 580,58 EAST WINSLOW - PREC #(s): 58.01 / 58.02,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,82
 580,58 EAST WINSLOW - PREC #(s): 58.01 / 58.02,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,37
-580,58 EAST WINSLOW - PREC #(s): 58.01 / 58.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",31
+580,58 EAST WINSLOW - PREC #(s): 58.01 / 58.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",31
 590,59 NORTH WINSLOW - PREC #(s): 59.01 / 59.02,999999,Race Statistics,999999,Number of Precincts,1
 590,59 NORTH WINSLOW - PREC #(s): 59.01 / 59.02,999999,Race Statistics,999998,Number of Precincts Reporting,1
 590,59 NORTH WINSLOW - PREC #(s): 59.01 / 59.02,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -14227,7 +14227,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 590,59 NORTH WINSLOW - PREC #(s): 59.01 / 59.02,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 590,59 NORTH WINSLOW - PREC #(s): 59.01 / 59.02,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,664
 590,59 NORTH WINSLOW - PREC #(s): 59.01 / 59.02,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,344
-590,59 NORTH WINSLOW - PREC #(s): 59.01 / 59.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",292
+590,59 NORTH WINSLOW - PREC #(s): 59.01 / 59.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",292
 600,60 WEST WINSLOW - PREC #(s): 60.01 / 60.02,999999,Race Statistics,999999,Number of Precincts,1
 600,60 WEST WINSLOW - PREC #(s): 60.01 / 60.02,999999,Race Statistics,999998,Number of Precincts Reporting,1
 600,60 WEST WINSLOW - PREC #(s): 60.01 / 60.02,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
@@ -14466,7 +14466,7 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 600,60 WEST WINSLOW - PREC #(s): 60.01 / 60.02,690,CONSTABLE - PREC. 2 (DEM),999998,Number of Precincts Reporting,1
 600,60 WEST WINSLOW - PREC #(s): 60.01 / 60.02,690,CONSTABLE - PREC. 2 (DEM),999997,Registered Voters,371
 600,60 WEST WINSLOW - PREC #(s): 60.01 / 60.02,690,CONSTABLE - PREC. 2 (DEM),999996,Times Counted,186
-600,60 WEST WINSLOW - PREC #(s): 60.01 / 60.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE ",146
+600,60 WEST WINSLOW - PREC #(s): 60.01 / 60.02,690,CONSTABLE - PREC. 2 (DEM),10,"HERNANDEZ, MADELINE",146
 610,61 WOODRUFF - PREC #(s): 61.00 / 61.01 / 61.02 / 61.03,999999,Race Statistics,999999,Number of Precincts,1
 610,61 WOODRUFF - PREC #(s): 61.00 / 61.01 / 61.02 / 61.03,999999,Race Statistics,999998,Number of Precincts Reporting,1
 610,61 WOODRUFF - PREC #(s): 61.00 / 61.01 / 61.02 / 61.03,105,U.S. REP. IN CONGRESS - DIST. 1 (REP),999999,Number of Precincts for Race,1
