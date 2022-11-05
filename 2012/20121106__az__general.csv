@@ -1,4 +1,4 @@
-county,office,district,party,candidate,votes,winner,write-in
+csvcounty,office,district,party,candidate,votes,winner,write-in
 Apache,President,,CON,Virgil Goode,9,,
 Cochise,President,,CON,Virgil Goode,12,,
 Coconino,President,,CON,Virgil Goode,6,,
@@ -143,22 +143,22 @@ Santa Cruz,President,,IAP,Will Christensen,0,,TRUE
 Yavapai,President,,IAP,Will Christensen,2,,TRUE
 Yuma,President,,IAP,Will Christensen,0,,TRUE
 ,President,,IAP,Will Christensen,14,,TRUE
-Apache,President,,DEM,Richard Carmona,16455,,
-Cochise,President,,DEM,Richard Carmona,19736,,
-Coconino,President,,DEM,Richard Carmona,28723,,
-Gila,President,,DEM,Richard Carmona,8099,,
-Graham,President,,DEM,Richard Carmona,3771,,
-Greenlee,President,,DEM,Richard Carmona,1342,,
-La Paz,President,,DEM,Richard Carmona,1961,,
-Maricopa,President,,DEM,Richard Carmona,602809,,
-Mohave,President,,DEM,Richard Carmona,20865,,
-Navajo,President,,DEM,Richard Carmona,16881,,
-Pima,President,,DEM,Richard Carmona,207578,,
-Pinal,President,,DEM,Richard Carmona,45558,,
-Santa Cruz,President,,DEM,Richard Carmona,9454,,
-Yavapai,President,,DEM,Richard Carmona,34902,,
-Yuma,President,,DEM,Richard Carmona,18408,,
-,President,,DEM,Richard Carmona,1036542,,
+Apache,U.S. Senate,,DEM,Richard Carmona,16455,,
+Cochise,U.S. Senate,,DEM,Richard Carmona,19736,,
+Coconino,U.S. Senate,,DEM,Richard Carmona,28723,,
+Gila,U.S. Senate,,DEM,Richard Carmona,8099,,
+Graham,U.S. Senate,,DEM,Richard Carmona,3771,,
+Greenlee,U.S. Senate,,DEM,Richard Carmona,1342,,
+La Paz,U.S. Senate,,DEM,Richard Carmona,1961,,
+Maricopa,U.S. Senate,,DEM,Richard Carmona,602809,,
+Mohave,U.S. Senate,,DEM,Richard Carmona,20865,,
+Navajo,U.S. Senate,,DEM,Richard Carmona,16881,,
+Pima,U.S. Senate,,DEM,Richard Carmona,207578,,
+Pinal,U.S. Senate,,DEM,Richard Carmona,45558,,
+Santa Cruz,U.S. Senate,,DEM,Richard Carmona,9454,,
+Yavapai,U.S. Senate,,DEM,Richard Carmona,34902,,
+Yuma,U.S. Senate,,DEM,Richard Carmona,18408,,
+,U.S. Senate,,DEM,Richard Carmona,1036542,,
 Apache,U.S. Senate,,IND,Don Manspeaker,0,,TRUE
 Cochise,U.S. Senate,,IND,Don Manspeaker,6,,TRUE
 Coconino,U.S. Senate,,IND,Don Manspeaker,2,,TRUE
