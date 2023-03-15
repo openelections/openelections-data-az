@@ -1,0 +1,820 @@
+county,precinct,office,district,party,candidate,votes
+Navajo,01 Red Butte,Registered Voters,,,,11775
+Navajo,02 Painted Desert,Registered Voters,,,,4723
+Navajo,03 Hubbell,Registered Voters,,,,233
+Navajo,04 Black Buttes,Registered Voters,,,,9198
+Navajo,05 Cedar Valley,Registered Voters,,,,1917
+Navajo,06 Stone Butte,Registered Voters,,,,767
+Navajo,07 Pioneer,Registered Voters,,,,8567
+Navajo,08 Antelope,Registered Voters,,,,340
+Navajo,09 Juniper,Registered Voters,,,,1964
+Navajo,10 Bison,Registered Voters,,,,1139
+Navajo,11 Mogollon,Registered Voters,,,,3578
+Navajo,12 Woodland,Registered Voters,,,,8917
+Navajo,13 Sitgreaves,Registered Voters,,,,10118
+Navajo,14 Sunrise,Registered Voters,,,,5804
+Navajo,01 Red Butte,Ballots Cast,,,,5707
+Navajo,02 Painted Desert,Ballots Cast,,,,2770
+Navajo,03 Hubbell,Ballots Cast,,,,138
+Navajo,04 Black Buttes,Ballots Cast,,,,4564
+Navajo,05 Cedar Valley,Ballots Cast,,,,1045
+Navajo,06 Stone Butte,Ballots Cast,,,,407
+Navajo,07 Pioneer,Ballots Cast,,,,5838
+Navajo,08 Antelope,Ballots Cast,,,,241
+Navajo,09 Juniper,Ballots Cast,,,,1305
+Navajo,10 Bison,Ballots Cast,,,,867
+Navajo,11 Mogollon,Ballots Cast,,,,2697
+Navajo,12 Woodland,Ballots Cast,,,,6354
+Navajo,13 Sitgreaves,Ballots Cast,,,,6950
+Navajo,14 Sunrise,Ballots Cast,,,,2091
+Navajo,01 Red Butte,U.S. Senate,,DEM,Mark Kelly,4934
+Navajo,02 Painted Desert,U.S. Senate,,DEM,Mark Kelly,1450
+Navajo,03 Hubbell,U.S. Senate,,DEM,Mark Kelly,46
+Navajo,04 Black Buttes,U.S. Senate,,DEM,Mark Kelly,3300
+Navajo,05 Cedar Valley,U.S. Senate,,DEM,Mark Kelly,913
+Navajo,06 Stone Butte,U.S. Senate,,DEM,Mark Kelly,350
+Navajo,07 Pioneer,U.S. Senate,,DEM,Mark Kelly,814
+Navajo,08 Antelope,U.S. Senate,,DEM,Mark Kelly,38
+Navajo,09 Juniper,U.S. Senate,,DEM,Mark Kelly,330
+Navajo,10 Bison,U.S. Senate,,DEM,Mark Kelly,144
+Navajo,11 Mogollon,U.S. Senate,,DEM,Mark Kelly,673
+Navajo,12 Woodland,U.S. Senate,,DEM,Mark Kelly,2052
+Navajo,13 Sitgreaves,U.S. Senate,,DEM,Mark Kelly,1793
+Navajo,14 Sunrise,U.S. Senate,,DEM,Mark Kelly,1887
+Navajo,01 Red Butte,U.S. Senate,,REP,Blake Masters,610
+Navajo,02 Painted Desert,U.S. Senate,,REP,Blake Masters,1234
+Navajo,03 Hubbell,U.S. Senate,,REP,Blake Masters,82
+Navajo,04 Black Buttes,U.S. Senate,,REP,Blake Masters,1094
+Navajo,05 Cedar Valley,U.S. Senate,,REP,Blake Masters,102
+Navajo,06 Stone Butte,U.S. Senate,,REP,Blake Masters,40
+Navajo,07 Pioneer,U.S. Senate,,REP,Blake Masters,4850
+Navajo,08 Antelope,U.S. Senate,,REP,Blake Masters,193
+Navajo,09 Juniper,U.S. Senate,,REP,Blake Masters,929
+Navajo,10 Bison,U.S. Senate,,REP,Blake Masters,691
+Navajo,11 Mogollon,U.S. Senate,,REP,Blake Masters,1922
+Navajo,12 Woodland,U.S. Senate,,REP,Blake Masters,4085
+Navajo,13 Sitgreaves,U.S. Senate,,REP,Blake Masters,4960
+Navajo,14 Sunrise,U.S. Senate,,REP,Blake Masters,178
+Navajo,01 Red Butte,U.S. Senate,,LIB,Marc J. Victor,120
+Navajo,02 Painted Desert,U.S. Senate,,LIB,Marc J. Victor,66
+Navajo,03 Hubbell,U.S. Senate,,LIB,Marc J. Victor,6
+Navajo,04 Black Buttes,U.S. Senate,,LIB,Marc J. Victor,121
+Navajo,05 Cedar Valley,U.S. Senate,,LIB,Marc J. Victor,22
+Navajo,06 Stone Butte,U.S. Senate,,LIB,Marc J. Victor,9
+Navajo,07 Pioneer,U.S. Senate,,LIB,Marc J. Victor,118
+Navajo,08 Antelope,U.S. Senate,,LIB,Marc J. Victor,8
+Navajo,09 Juniper,U.S. Senate,,LIB,Marc J. Victor,38
+Navajo,10 Bison,U.S. Senate,,LIB,Marc J. Victor,23
+Navajo,11 Mogollon,U.S. Senate,,LIB,Marc J. Victor,75
+Navajo,12 Woodland,U.S. Senate,,LIB,Marc J. Victor,164
+Navajo,13 Sitgreaves,U.S. Senate,,LIB,Marc J. Victor,141
+Navajo,14 Sunrise,U.S. Senate,,LIB,Marc J. Victor,16
+Navajo,01 Red Butte,U.S. Senate,,,Write-ins,1
+Navajo,02 Painted Desert,U.S. Senate,,,Write-ins,2
+Navajo,03 Hubbell,U.S. Senate,,,Write-ins,0
+Navajo,04 Black Buttes,U.S. Senate,,,Write-ins,8
+Navajo,05 Cedar Valley,U.S. Senate,,,Write-ins,0
+Navajo,06 Stone Butte,U.S. Senate,,,Write-ins,0
+Navajo,07 Pioneer,U.S. Senate,,,Write-ins,11
+Navajo,08 Antelope,U.S. Senate,,,Write-ins,1
+Navajo,09 Juniper,U.S. Senate,,,Write-ins,1
+Navajo,10 Bison,U.S. Senate,,,Write-ins,2
+Navajo,11 Mogollon,U.S. Senate,,,Write-ins,1
+Navajo,12 Woodland,U.S. Senate,,,Write-ins,4
+Navajo,13 Sitgreaves,U.S. Senate,,,Write-ins,9
+Navajo,14 Sunrise,U.S. Senate,,,Write-ins,0
+Navajo,01 Red Butte,U.S. Senate,,,Over Votes,4
+Navajo,02 Painted Desert,U.S. Senate,,,Over Votes,1
+Navajo,03 Hubbell,U.S. Senate,,,Over Votes,0
+Navajo,04 Black Buttes,U.S. Senate,,,Over Votes,3
+Navajo,05 Cedar Valley,U.S. Senate,,,Over Votes,0
+Navajo,06 Stone Butte,U.S. Senate,,,Over Votes,0
+Navajo,07 Pioneer,U.S. Senate,,,Over Votes,1
+Navajo,08 Antelope,U.S. Senate,,,Over Votes,0
+Navajo,09 Juniper,U.S. Senate,,,Over Votes,0
+Navajo,10 Bison,U.S. Senate,,,Over Votes,0
+Navajo,11 Mogollon,U.S. Senate,,,Over Votes,1
+Navajo,12 Woodland,U.S. Senate,,,Over Votes,0
+Navajo,13 Sitgreaves,U.S. Senate,,,Over Votes,1
+Navajo,14 Sunrise,U.S. Senate,,,Over Votes,1
+Navajo,01 Red Butte,U.S. Senate,,,Under Votes,38
+Navajo,02 Painted Desert,U.S. Senate,,,Under Votes,17
+Navajo,03 Hubbell,U.S. Senate,,,Under Votes,4
+Navajo,04 Black Buttes,U.S. Senate,,,Under Votes,38
+Navajo,05 Cedar Valley,U.S. Senate,,,Under Votes,8
+Navajo,06 Stone Butte,U.S. Senate,,,Under Votes,8
+Navajo,07 Pioneer,U.S. Senate,,,Under Votes,44
+Navajo,08 Antelope,U.S. Senate,,,Under Votes,1
+Navajo,09 Juniper,U.S. Senate,,,Under Votes,7
+Navajo,10 Bison,U.S. Senate,,,Under Votes,7
+Navajo,11 Mogollon,U.S. Senate,,,Under Votes,25
+Navajo,12 Woodland,U.S. Senate,,,Under Votes,49
+Navajo,13 Sitgreaves,U.S. Senate,,,Under Votes,46
+Navajo,14 Sunrise,U.S. Senate,,,Under Votes,9
+Navajo,01 Red Butte,U.S. House,2,DEM,Tom O'Halleran,4967
+Navajo,02 Painted Desert,U.S. House,2,DEM,Tom O'Halleran,1429
+Navajo,03 Hubbell,U.S. House,2,DEM,Tom O'Halleran,47
+Navajo,04 Black Buttes,U.S. House,2,DEM,Tom O'Halleran,3320
+Navajo,05 Cedar Valley,U.S. House,2,DEM,Tom O'Halleran,915
+Navajo,06 Stone Butte,U.S. House,2,DEM,Tom O'Halleran,357
+Navajo,07 Pioneer,U.S. House,2,DEM,Tom O'Halleran,799
+Navajo,08 Antelope,U.S. House,2,DEM,Tom O'Halleran,49
+Navajo,09 Juniper,U.S. House,2,DEM,Tom O'Halleran,296
+Navajo,10 Bison,U.S. House,2,DEM,Tom O'Halleran,145
+Navajo,11 Mogollon,U.S. House,2,DEM,Tom O'Halleran,622
+Navajo,12 Woodland,U.S. House,2,DEM,Tom O'Halleran,1965
+Navajo,13 Sitgreaves,U.S. House,2,DEM,Tom O'Halleran,1679
+Navajo,14 Sunrise,U.S. House,2,DEM,Tom O'Halleran,1890
+Navajo,01 Red Butte,U.S. House,2,REP,Eli Crane,638
+Navajo,02 Painted Desert,U.S. House,2,REP,Eli Crane,1275
+Navajo,03 Hubbell,U.S. House,2,REP,Eli Crane,85
+Navajo,04 Black Buttes,U.S. House,2,REP,Eli Crane,1151
+Navajo,05 Cedar Valley,U.S. House,2,REP,Eli Crane,114
+Navajo,06 Stone Butte,U.S. House,2,REP,Eli Crane,41
+Navajo,07 Pioneer,U.S. House,2,REP,Eli Crane,4934
+Navajo,08 Antelope,U.S. House,2,REP,Eli Crane,187
+Navajo,09 Juniper,U.S. House,2,REP,Eli Crane,977
+Navajo,10 Bison,U.S. House,2,REP,Eli Crane,698
+Navajo,11 Mogollon,U.S. House,2,REP,Eli Crane,2002
+Navajo,12 Woodland,U.S. House,2,REP,Eli Crane,4265
+Navajo,13 Sitgreaves,U.S. House,2,REP,Eli Crane,5128
+Navajo,14 Sunrise,U.S. House,2,REP,Eli Crane,172
+Navajo,01 Red Butte,U.S. House,2,,Write-ins,18
+Navajo,02 Painted Desert,U.S. House,2,,Write-ins,12
+Navajo,03 Hubbell,U.S. House,2,,Write-ins,1
+Navajo,04 Black Buttes,U.S. House,2,,Write-ins,13
+Navajo,05 Cedar Valley,U.S. House,2,,Write-ins,4
+Navajo,06 Stone Butte,U.S. House,2,,Write-ins,0
+Navajo,07 Pioneer,U.S. House,2,,Write-ins,14
+Navajo,08 Antelope,U.S. House,2,,Write-ins,2
+Navajo,09 Juniper,U.S. House,2,,Write-ins,7
+Navajo,10 Bison,U.S. House,2,,Write-ins,4
+Navajo,11 Mogollon,U.S. House,2,,Write-ins,3
+Navajo,12 Woodland,U.S. House,2,,Write-ins,11
+Navajo,13 Sitgreaves,U.S. House,2,,Write-ins,10
+Navajo,14 Sunrise,U.S. House,2,,Write-ins,5
+Navajo,01 Red Butte,U.S. House,2,,Over Votes,7
+Navajo,02 Painted Desert,U.S. House,2,,Over Votes,0
+Navajo,03 Hubbell,U.S. House,2,,Over Votes,0
+Navajo,04 Black Buttes,U.S. House,2,,Over Votes,1
+Navajo,05 Cedar Valley,U.S. House,2,,Over Votes,0
+Navajo,06 Stone Butte,U.S. House,2,,Over Votes,0
+Navajo,07 Pioneer,U.S. House,2,,Over Votes,2
+Navajo,08 Antelope,U.S. House,2,,Over Votes,0
+Navajo,09 Juniper,U.S. House,2,,Over Votes,0
+Navajo,10 Bison,U.S. House,2,,Over Votes,0
+Navajo,11 Mogollon,U.S. House,2,,Over Votes,2
+Navajo,12 Woodland,U.S. House,2,,Over Votes,0
+Navajo,13 Sitgreaves,U.S. House,2,,Over Votes,2
+Navajo,14 Sunrise,U.S. House,2,,Over Votes,0
+Navajo,01 Red Butte,U.S. House,2,,Under Votes,77
+Navajo,02 Painted Desert,U.S. House,2,,Under Votes,54
+Navajo,03 Hubbell,U.S. House,2,,Under Votes,5
+Navajo,04 Black Buttes,U.S. House,2,,Under Votes,79
+Navajo,05 Cedar Valley,U.S. House,2,,Under Votes,12
+Navajo,06 Stone Butte,U.S. House,2,,Under Votes,9
+Navajo,07 Pioneer,U.S. House,2,,Under Votes,89
+Navajo,08 Antelope,U.S. House,2,,Under Votes,3
+Navajo,09 Juniper,U.S. House,2,,Under Votes,25
+Navajo,10 Bison,U.S. House,2,,Under Votes,20
+Navajo,11 Mogollon,U.S. House,2,,Under Votes,68
+Navajo,12 Woodland,U.S. House,2,,Under Votes,113
+Navajo,13 Sitgreaves,U.S. House,2,,Under Votes,131
+Navajo,14 Sunrise,U.S. House,2,,Under Votes,24
+Navajo,01 Red Butte,Governor,,DEM,Katie Hobbs,4765
+Navajo,02 Painted Desert,Governor,,DEM,Katie Hobbs,1380
+Navajo,03 Hubbell,Governor,,DEM,Katie Hobbs,42
+Navajo,04 Black Buttes,Governor,,DEM,Katie Hobbs,3228
+Navajo,05 Cedar Valley,Governor,,DEM,Katie Hobbs,890
+Navajo,06 Stone Butte,Governor,,DEM,Katie Hobbs,344
+Navajo,07 Pioneer,Governor,,DEM,Katie Hobbs,788
+Navajo,08 Antelope,Governor,,DEM,Katie Hobbs,37
+Navajo,09 Juniper,Governor,,DEM,Katie Hobbs,305
+Navajo,10 Bison,Governor,,DEM,Katie Hobbs,148
+Navajo,11 Mogollon,Governor,,DEM,Katie Hobbs,623
+Navajo,12 Woodland,Governor,,DEM,Katie Hobbs,1997
+Navajo,13 Sitgreaves,Governor,,DEM,Katie Hobbs,1728
+Navajo,14 Sunrise,Governor,,DEM,Katie Hobbs,1783
+Navajo,01 Red Butte,Governor,,REP,Kari Lake,849
+Navajo,02 Painted Desert,Governor,,REP,Kari Lake,1341
+Navajo,03 Hubbell,Governor,,REP,Kari Lake,94
+Navajo,04 Black Buttes,Governor,,REP,Kari Lake,1265
+Navajo,05 Cedar Valley,Governor,,REP,Kari Lake,142
+Navajo,06 Stone Butte,Governor,,REP,Kari Lake,50
+Navajo,07 Pioneer,Governor,,REP,Kari Lake,4987
+Navajo,08 Antelope,Governor,,REP,Kari Lake,198
+Navajo,09 Juniper,Governor,,REP,Kari Lake,988
+Navajo,10 Bison,Governor,,REP,Kari Lake,712
+Navajo,11 Mogollon,Governor,,REP,Kari Lake,2035
+Navajo,12 Woodland,Governor,,REP,Kari Lake,4266
+Navajo,13 Sitgreaves,Governor,,REP,Kari Lake,5133
+Navajo,14 Sunrise,Governor,,REP,Kari Lake,280
+Navajo,01 Red Butte,Governor,,,Write-ins,14
+Navajo,02 Painted Desert,Governor,,,Write-ins,9
+Navajo,03 Hubbell,Governor,,,Write-ins,0
+Navajo,04 Black Buttes,Governor,,,Write-ins,11
+Navajo,05 Cedar Valley,Governor,,,Write-ins,3
+Navajo,06 Stone Butte,Governor,,,Write-ins,0
+Navajo,07 Pioneer,Governor,,,Write-ins,19
+Navajo,08 Antelope,Governor,,,Write-ins,2
+Navajo,09 Juniper,Governor,,,Write-ins,3
+Navajo,10 Bison,Governor,,,Write-ins,1
+Navajo,11 Mogollon,Governor,,,Write-ins,16
+Navajo,12 Woodland,Governor,,,Write-ins,13
+Navajo,13 Sitgreaves,Governor,,,Write-ins,18
+Navajo,14 Sunrise,Governor,,,Write-ins,1
+Navajo,01 Red Butte,Governor,,,Over Votes,4
+Navajo,02 Painted Desert,Governor,,,Over Votes,1
+Navajo,03 Hubbell,Governor,,,Over Votes,0
+Navajo,04 Black Buttes,Governor,,,Over Votes,1
+Navajo,05 Cedar Valley,Governor,,,Over Votes,0
+Navajo,06 Stone Butte,Governor,,,Over Votes,0
+Navajo,07 Pioneer,Governor,,,Over Votes,0
+Navajo,08 Antelope,Governor,,,Over Votes,0
+Navajo,09 Juniper,Governor,,,Over Votes,0
+Navajo,10 Bison,Governor,,,Over Votes,0
+Navajo,11 Mogollon,Governor,,,Over Votes,0
+Navajo,12 Woodland,Governor,,,Over Votes,0
+Navajo,13 Sitgreaves,Governor,,,Over Votes,0
+Navajo,14 Sunrise,Governor,,,Over Votes,0
+Navajo,01 Red Butte,Governor,,,Under Votes,74
+Navajo,02 Painted Desert,Governor,,,Under Votes,39
+Navajo,03 Hubbell,Governor,,,Under Votes,2
+Navajo,04 Black Buttes,Governor,,,Under Votes,59
+Navajo,05 Cedar Valley,Governor,,,Under Votes,10
+Navajo,06 Stone Butte,Governor,,,Under Votes,13
+Navajo,07 Pioneer,Governor,,,Under Votes,44
+Navajo,08 Antelope,Governor,,,Under Votes,4
+Navajo,09 Juniper,Governor,,,Under Votes,9
+Navajo,10 Bison,Governor,,,Under Votes,5
+Navajo,11 Mogollon,Governor,,,Under Votes,22
+Navajo,12 Woodland,Governor,,,Under Votes,77
+Navajo,13 Sitgreaves,Governor,,,Under Votes,71
+Navajo,14 Sunrise,Governor,,,Under Votes,26
+Navajo,01 Red Butte,Secretary of State,,DEM,Adrian Fontes,4748
+Navajo,02 Painted Desert,Secretary of State,,DEM,Adrian Fontes,1433
+Navajo,03 Hubbell,Secretary of State,,DEM,Adrian Fontes,46
+Navajo,04 Black Buttes,Secretary of State,,DEM,Adrian Fontes,3280
+Navajo,05 Cedar Valley,Secretary of State,,DEM,Adrian Fontes,892
+Navajo,06 Stone Butte,Secretary of State,,DEM,Adrian Fontes,338
+Navajo,07 Pioneer,Secretary of State,,DEM,Adrian Fontes,912
+Navajo,08 Antelope,Secretary of State,,DEM,Adrian Fontes,44
+Navajo,09 Juniper,Secretary of State,,DEM,Adrian Fontes,325
+Navajo,10 Bison,Secretary of State,,DEM,Adrian Fontes,160
+Navajo,11 Mogollon,Secretary of State,,DEM,Adrian Fontes,697
+Navajo,12 Woodland,Secretary of State,,DEM,Adrian Fontes,2125
+Navajo,13 Sitgreaves,Secretary of State,,DEM,Adrian Fontes,1866
+Navajo,14 Sunrise,Secretary of State,,DEM,Adrian Fontes,1835
+Navajo,01 Red Butte,Secretary of State,,REP,Mark Finchem,809
+Navajo,02 Painted Desert,Secretary of State,,REP,Mark Finchem,1271
+Navajo,03 Hubbell,Secretary of State,,REP,Mark Finchem,84
+Navajo,04 Black Buttes,Secretary of State,,REP,Mark Finchem,1188
+Navajo,05 Cedar Valley,Secretary of State,,REP,Mark Finchem,132
+Navajo,06 Stone Butte,Secretary of State,,REP,Mark Finchem,56
+Navajo,07 Pioneer,Secretary of State,,REP,Mark Finchem,4811
+Navajo,08 Antelope,Secretary of State,,REP,Mark Finchem,190
+Navajo,09 Juniper,Secretary of State,,REP,Mark Finchem,940
+Navajo,10 Bison,Secretary of State,,REP,Mark Finchem,694
+Navajo,11 Mogollon,Secretary of State,,REP,Mark Finchem,1917
+Navajo,12 Woodland,Secretary of State,,REP,Mark Finchem,4070
+Navajo,13 Sitgreaves,Secretary of State,,REP,Mark Finchem,4910
+Navajo,14 Sunrise,Secretary of State,,REP,Mark Finchem,208
+Navajo,01 Red Butte,Secretary of State,,,Write-ins,20
+Navajo,02 Painted Desert,Secretary of State,,,Write-ins,9
+Navajo,03 Hubbell,Secretary of State,,,Write-ins,0
+Navajo,04 Black Buttes,Secretary of State,,,Write-ins,9
+Navajo,05 Cedar Valley,Secretary of State,,,Write-ins,4
+Navajo,06 Stone Butte,Secretary of State,,,Write-ins,0
+Navajo,07 Pioneer,Secretary of State,,,Write-ins,8
+Navajo,08 Antelope,Secretary of State,,,Write-ins,1
+Navajo,09 Juniper,Secretary of State,,,Write-ins,3
+Navajo,10 Bison,Secretary of State,,,Write-ins,0
+Navajo,11 Mogollon,Secretary of State,,,Write-ins,1
+Navajo,12 Woodland,Secretary of State,,,Write-ins,9
+Navajo,13 Sitgreaves,Secretary of State,,,Write-ins,5
+Navajo,14 Sunrise,Secretary of State,,,Write-ins,3
+Navajo,01 Red Butte,Secretary of State,,,Over Votes,1
+Navajo,02 Painted Desert,Secretary of State,,,Over Votes,1
+Navajo,03 Hubbell,Secretary of State,,,Over Votes,0
+Navajo,04 Black Buttes,Secretary of State,,,Over Votes,2
+Navajo,05 Cedar Valley,Secretary of State,,,Over Votes,0
+Navajo,06 Stone Butte,Secretary of State,,,Over Votes,1
+Navajo,07 Pioneer,Secretary of State,,,Over Votes,3
+Navajo,08 Antelope,Secretary of State,,,Over Votes,0
+Navajo,09 Juniper,Secretary of State,,,Over Votes,0
+Navajo,10 Bison,Secretary of State,,,Over Votes,0
+Navajo,11 Mogollon,Secretary of State,,,Over Votes,1
+Navajo,12 Woodland,Secretary of State,,,Over Votes,2
+Navajo,13 Sitgreaves,Secretary of State,,,Over Votes,1
+Navajo,14 Sunrise,Secretary of State,,,Over Votes,3
+Navajo,01 Red Butte,Secretary of State,,,Under Votes,128
+Navajo,02 Painted Desert,Secretary of State,,,Under Votes,56
+Navajo,03 Hubbell,Secretary of State,,,Under Votes,8
+Navajo,04 Black Buttes,Secretary of State,,,Under Votes,85
+Navajo,05 Cedar Valley,Secretary of State,,,Under Votes,17
+Navajo,06 Stone Butte,Secretary of State,,,Under Votes,12
+Navajo,07 Pioneer,Secretary of State,,,Under Votes,104
+Navajo,08 Antelope,Secretary of State,,,Under Votes,6
+Navajo,09 Juniper,Secretary of State,,,Under Votes,37
+Navajo,10 Bison,Secretary of State,,,Under Votes,12
+Navajo,11 Mogollon,Secretary of State,,,Under Votes,80
+Navajo,12 Woodland,Secretary of State,,,Under Votes,147
+Navajo,13 Sitgreaves,Secretary of State,,,Under Votes,168
+Navajo,14 Sunrise,Secretary of State,,,Under Votes,41
+Navajo,01 Red Butte,Attorney General,,DEM,Kris Mayes,4845
+Navajo,02 Painted Desert,Attorney General,,DEM,Kris Mayes,1386
+Navajo,03 Hubbell,Attorney General,,DEM,Kris Mayes,43
+Navajo,04 Black Buttes,Attorney General,,DEM,Kris Mayes,3250
+Navajo,05 Cedar Valley,Attorney General,,DEM,Kris Mayes,902
+Navajo,06 Stone Butte,Attorney General,,DEM,Kris Mayes,354
+Navajo,07 Pioneer,Attorney General,,DEM,Kris Mayes,768
+Navajo,08 Antelope,Attorney General,,DEM,Kris Mayes,37
+Navajo,09 Juniper,Attorney General,,DEM,Kris Mayes,307
+Navajo,10 Bison,Attorney General,,DEM,Kris Mayes,150
+Navajo,11 Mogollon,Attorney General,,DEM,Kris Mayes,624
+Navajo,12 Woodland,Attorney General,,DEM,Kris Mayes,1948
+Navajo,13 Sitgreaves,Attorney General,,DEM,Kris Mayes,1662
+Navajo,14 Sunrise,Attorney General,,DEM,Kris Mayes,1843
+Navajo,01 Red Butte,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",697
+Navajo,02 Painted Desert,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1289
+Navajo,03 Hubbell,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",85
+Navajo,04 Black Buttes,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1171
+Navajo,05 Cedar Valley,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",113
+Navajo,06 Stone Butte,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",43
+Navajo,07 Pioneer,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",4949
+Navajo,08 Antelope,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",199
+Navajo,09 Juniper,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",960
+Navajo,10 Bison,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",696
+Navajo,11 Mogollon,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",2008
+Navajo,12 Woodland,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",4248
+Navajo,13 Sitgreaves,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",5099
+Navajo,14 Sunrise,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",191
+Navajo,01 Red Butte,Attorney General,,,Write-ins,19
+Navajo,02 Painted Desert,Attorney General,,,Write-ins,10
+Navajo,03 Hubbell,Attorney General,,,Write-ins,0
+Navajo,04 Black Buttes,Attorney General,,,Write-ins,12
+Navajo,05 Cedar Valley,Attorney General,,,Write-ins,5
+Navajo,06 Stone Butte,Attorney General,,,Write-ins,1
+Navajo,07 Pioneer,Attorney General,,,Write-ins,12
+Navajo,08 Antelope,Attorney General,,,Write-ins,1
+Navajo,09 Juniper,Attorney General,,,Write-ins,4
+Navajo,10 Bison,Attorney General,,,Write-ins,0
+Navajo,11 Mogollon,Attorney General,,,Write-ins,5
+Navajo,12 Woodland,Attorney General,,,Write-ins,8
+Navajo,13 Sitgreaves,Attorney General,,,Write-ins,9
+Navajo,14 Sunrise,Attorney General,,,Write-ins,3
+Navajo,01 Red Butte,Attorney General,,,Over Votes,0
+Navajo,02 Painted Desert,Attorney General,,,Over Votes,0
+Navajo,03 Hubbell,Attorney General,,,Over Votes,0
+Navajo,04 Black Buttes,Attorney General,,,Over Votes,2
+Navajo,05 Cedar Valley,Attorney General,,,Over Votes,0
+Navajo,06 Stone Butte,Attorney General,,,Over Votes,0
+Navajo,07 Pioneer,Attorney General,,,Over Votes,0
+Navajo,08 Antelope,Attorney General,,,Over Votes,0
+Navajo,09 Juniper,Attorney General,,,Over Votes,0
+Navajo,10 Bison,Attorney General,,,Over Votes,0
+Navajo,11 Mogollon,Attorney General,,,Over Votes,0
+Navajo,12 Woodland,Attorney General,,,Over Votes,0
+Navajo,13 Sitgreaves,Attorney General,,,Over Votes,0
+Navajo,14 Sunrise,Attorney General,,,Over Votes,2
+Navajo,01 Red Butte,Attorney General,,,Under Votes,145
+Navajo,02 Painted Desert,Attorney General,,,Under Votes,85
+Navajo,03 Hubbell,Attorney General,,,Under Votes,10
+Navajo,04 Black Buttes,Attorney General,,,Under Votes,129
+Navajo,05 Cedar Valley,Attorney General,,,Under Votes,25
+Navajo,06 Stone Butte,Attorney General,,,Under Votes,9
+Navajo,07 Pioneer,Attorney General,,,Under Votes,109
+Navajo,08 Antelope,Attorney General,,,Under Votes,4
+Navajo,09 Juniper,Attorney General,,,Under Votes,34
+Navajo,10 Bison,Attorney General,,,Under Votes,20
+Navajo,11 Mogollon,Attorney General,,,Under Votes,59
+Navajo,12 Woodland,Attorney General,,,Under Votes,149
+Navajo,13 Sitgreaves,Attorney General,,,Under Votes,180
+Navajo,14 Sunrise,Attorney General,,,Under Votes,51
+Navajo,01 Red Butte,State Treasurer,,DEM,Martin Quezada,4500
+Navajo,02 Painted Desert,State Treasurer,,DEM,Martin Quezada,1279
+Navajo,03 Hubbell,State Treasurer,,DEM,Martin Quezada,40
+Navajo,04 Black Buttes,State Treasurer,,DEM,Martin Quezada,3042
+Navajo,05 Cedar Valley,State Treasurer,,DEM,Martin Quezada,842
+Navajo,06 Stone Butte,State Treasurer,,DEM,Martin Quezada,329
+Navajo,07 Pioneer,State Treasurer,,DEM,Martin Quezada,617
+Navajo,08 Antelope,State Treasurer,,DEM,Martin Quezada,33
+Navajo,09 Juniper,State Treasurer,,DEM,Martin Quezada,271
+Navajo,10 Bison,State Treasurer,,DEM,Martin Quezada,102
+Navajo,11 Mogollon,State Treasurer,,DEM,Martin Quezada,498
+Navajo,12 Woodland,State Treasurer,,DEM,Martin Quezada,1593
+Navajo,13 Sitgreaves,State Treasurer,,DEM,Martin Quezada,1363
+Navajo,14 Sunrise,State Treasurer,,DEM,Martin Quezada,1810
+Navajo,01 Red Butte,State Treasurer,,REP,Kimberly Yee,1043
+Navajo,02 Painted Desert,State Treasurer,,REP,Kimberly Yee,1401
+Navajo,03 Hubbell,State Treasurer,,REP,Kimberly Yee,89
+Navajo,04 Black Buttes,State Treasurer,,REP,Kimberly Yee,1378
+Navajo,05 Cedar Valley,State Treasurer,,REP,Kimberly Yee,177
+Navajo,06 Stone Butte,State Treasurer,,REP,Kimberly Yee,64
+Navajo,07 Pioneer,State Treasurer,,REP,Kimberly Yee,5091
+Navajo,08 Antelope,State Treasurer,,REP,Kimberly Yee,204
+Navajo,09 Juniper,State Treasurer,,REP,Kimberly Yee,994
+Navajo,10 Bison,State Treasurer,,REP,Kimberly Yee,738
+Navajo,11 Mogollon,State Treasurer,,REP,Kimberly Yee,2139
+Navajo,12 Woodland,State Treasurer,,REP,Kimberly Yee,4574
+Navajo,13 Sitgreaves,State Treasurer,,REP,Kimberly Yee,5374
+Navajo,14 Sunrise,State Treasurer,,REP,Kimberly Yee,226
+Navajo,01 Red Butte,State Treasurer,,,Write-ins,11
+Navajo,02 Painted Desert,State Treasurer,,,Write-ins,6
+Navajo,03 Hubbell,State Treasurer,,,Write-ins,0
+Navajo,04 Black Buttes,State Treasurer,,,Write-ins,10
+Navajo,05 Cedar Valley,State Treasurer,,,Write-ins,4
+Navajo,06 Stone Butte,State Treasurer,,,Write-ins,1
+Navajo,07 Pioneer,State Treasurer,,,Write-ins,3
+Navajo,08 Antelope,State Treasurer,,,Write-ins,0
+Navajo,09 Juniper,State Treasurer,,,Write-ins,2
+Navajo,10 Bison,State Treasurer,,,Write-ins,1
+Navajo,11 Mogollon,State Treasurer,,,Write-ins,2
+Navajo,12 Woodland,State Treasurer,,,Write-ins,6
+Navajo,13 Sitgreaves,State Treasurer,,,Write-ins,5
+Navajo,14 Sunrise,State Treasurer,,,Write-ins,2
+Navajo,01 Red Butte,State Treasurer,,,Over Votes,0
+Navajo,02 Painted Desert,State Treasurer,,,Over Votes,2
+Navajo,03 Hubbell,State Treasurer,,,Over Votes,0
+Navajo,04 Black Buttes,State Treasurer,,,Over Votes,2
+Navajo,05 Cedar Valley,State Treasurer,,,Over Votes,0
+Navajo,06 Stone Butte,State Treasurer,,,Over Votes,1
+Navajo,07 Pioneer,State Treasurer,,,Over Votes,0
+Navajo,08 Antelope,State Treasurer,,,Over Votes,0
+Navajo,09 Juniper,State Treasurer,,,Over Votes,0
+Navajo,10 Bison,State Treasurer,,,Over Votes,0
+Navajo,11 Mogollon,State Treasurer,,,Over Votes,1
+Navajo,12 Woodland,State Treasurer,,,Over Votes,0
+Navajo,13 Sitgreaves,State Treasurer,,,Over Votes,0
+Navajo,14 Sunrise,State Treasurer,,,Over Votes,0
+Navajo,01 Red Butte,State Treasurer,,,Under Votes,152
+Navajo,02 Painted Desert,State Treasurer,,,Under Votes,82
+Navajo,03 Hubbell,State Treasurer,,,Under Votes,9
+Navajo,04 Black Buttes,State Treasurer,,,Under Votes,132
+Navajo,05 Cedar Valley,State Treasurer,,,Under Votes,22
+Navajo,06 Stone Butte,State Treasurer,,,Under Votes,12
+Navajo,07 Pioneer,State Treasurer,,,Under Votes,127
+Navajo,08 Antelope,State Treasurer,,,Under Votes,4
+Navajo,09 Juniper,State Treasurer,,,Under Votes,38
+Navajo,10 Bison,State Treasurer,,,Under Votes,25
+Navajo,11 Mogollon,State Treasurer,,,Under Votes,56
+Navajo,12 Woodland,State Treasurer,,,Under Votes,180
+Navajo,13 Sitgreaves,State Treasurer,,,Under Votes,208
+Navajo,14 Sunrise,State Treasurer,,,Under Votes,52
+Navajo,01 Red Butte,Superintendent of Public Instruction,,DEM,Kathy Hoffman,4702
+Navajo,02 Painted Desert,Superintendent of Public Instruction,,DEM,Kathy Hoffman,1430
+Navajo,03 Hubbell,Superintendent of Public Instruction,,DEM,Kathy Hoffman,45
+Navajo,04 Black Buttes,Superintendent of Public Instruction,,DEM,Kathy Hoffman,3210
+Navajo,05 Cedar Valley,Superintendent of Public Instruction,,DEM,Kathy Hoffman,874
+Navajo,06 Stone Butte,Superintendent of Public Instruction,,DEM,Kathy Hoffman,341
+Navajo,07 Pioneer,Superintendent of Public Instruction,,DEM,Kathy Hoffman,904
+Navajo,08 Antelope,Superintendent of Public Instruction,,DEM,Kathy Hoffman,41
+Navajo,09 Juniper,Superintendent of Public Instruction,,DEM,Kathy Hoffman,316
+Navajo,10 Bison,Superintendent of Public Instruction,,DEM,Kathy Hoffman,152
+Navajo,11 Mogollon,Superintendent of Public Instruction,,DEM,Kathy Hoffman,662
+Navajo,12 Woodland,Superintendent of Public Instruction,,DEM,Kathy Hoffman,2006
+Navajo,13 Sitgreaves,Superintendent of Public Instruction,,DEM,Kathy Hoffman,1788
+Navajo,14 Sunrise,Superintendent of Public Instruction,,DEM,Kathy Hoffman,1813
+Navajo,01 Red Butte,Superintendent of Public Instruction,,REP,Tom Horne,869
+Navajo,02 Painted Desert,Superintendent of Public Instruction,,REP,Tom Horne,1270
+Navajo,03 Hubbell,Superintendent of Public Instruction,,REP,Tom Horne,85
+Navajo,04 Black Buttes,Superintendent of Public Instruction,,REP,Tom Horne,1256
+Navajo,05 Cedar Valley,Superintendent of Public Instruction,,REP,Tom Horne,149
+Navajo,06 Stone Butte,Superintendent of Public Instruction,,REP,Tom Horne,53
+Navajo,07 Pioneer,Superintendent of Public Instruction,,REP,Tom Horne,4795
+Navajo,08 Antelope,Superintendent of Public Instruction,,REP,Tom Horne,191
+Navajo,09 Juniper,Superintendent of Public Instruction,,REP,Tom Horne,954
+Navajo,10 Bison,Superintendent of Public Instruction,,REP,Tom Horne,699
+Navajo,11 Mogollon,Superintendent of Public Instruction,,REP,Tom Horne,1968
+Navajo,12 Woodland,Superintendent of Public Instruction,,REP,Tom Horne,4178
+Navajo,13 Sitgreaves,Superintendent of Public Instruction,,REP,Tom Horne,4991
+Navajo,14 Sunrise,Superintendent of Public Instruction,,REP,Tom Horne,230
+Navajo,01 Red Butte,Superintendent of Public Instruction,,,Write-ins,13
+Navajo,02 Painted Desert,Superintendent of Public Instruction,,,Write-ins,8
+Navajo,03 Hubbell,Superintendent of Public Instruction,,,Write-ins,0
+Navajo,04 Black Buttes,Superintendent of Public Instruction,,,Write-ins,6
+Navajo,05 Cedar Valley,Superintendent of Public Instruction,,,Write-ins,5
+Navajo,06 Stone Butte,Superintendent of Public Instruction,,,Write-ins,1
+Navajo,07 Pioneer,Superintendent of Public Instruction,,,Write-ins,9
+Navajo,08 Antelope,Superintendent of Public Instruction,,,Write-ins,2
+Navajo,09 Juniper,Superintendent of Public Instruction,,,Write-ins,5
+Navajo,10 Bison,Superintendent of Public Instruction,,,Write-ins,1
+Navajo,11 Mogollon,Superintendent of Public Instruction,,,Write-ins,4
+Navajo,12 Woodland,Superintendent of Public Instruction,,,Write-ins,9
+Navajo,13 Sitgreaves,Superintendent of Public Instruction,,,Write-ins,16
+Navajo,14 Sunrise,Superintendent of Public Instruction,,,Write-ins,3
+Navajo,01 Red Butte,Superintendent of Public Instruction,,,Over Votes,2
+Navajo,02 Painted Desert,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,03 Hubbell,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,04 Black Buttes,Superintendent of Public Instruction,,,Over Votes,3
+Navajo,05 Cedar Valley,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,06 Stone Butte,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,07 Pioneer,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,08 Antelope,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,09 Juniper,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,10 Bison,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,11 Mogollon,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,12 Woodland,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,13 Sitgreaves,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,14 Sunrise,Superintendent of Public Instruction,,,Over Votes,0
+Navajo,01 Red Butte,Superintendent of Public Instruction,,,Under Votes,120
+Navajo,02 Painted Desert,Superintendent of Public Instruction,,,Under Votes,62
+Navajo,03 Hubbell,Superintendent of Public Instruction,,,Under Votes,8
+Navajo,04 Black Buttes,Superintendent of Public Instruction,,,Under Votes,89
+Navajo,05 Cedar Valley,Superintendent of Public Instruction,,,Under Votes,17
+Navajo,06 Stone Butte,Superintendent of Public Instruction,,,Under Votes,12
+Navajo,07 Pioneer,Superintendent of Public Instruction,,,Under Votes,130
+Navajo,08 Antelope,Superintendent of Public Instruction,,,Under Votes,7
+Navajo,09 Juniper,Superintendent of Public Instruction,,,Under Votes,30
+Navajo,10 Bison,Superintendent of Public Instruction,,,Under Votes,14
+Navajo,11 Mogollon,Superintendent of Public Instruction,,,Under Votes,62
+Navajo,12 Woodland,Superintendent of Public Instruction,,,Under Votes,160
+Navajo,13 Sitgreaves,Superintendent of Public Instruction,,,Under Votes,155
+Navajo,14 Sunrise,Superintendent of Public Instruction,,,Under Votes,44
+Navajo,01 Red Butte,State Mine Inspector,,REP,Paul Marsh,3202
+Navajo,02 Painted Desert,State Mine Inspector,,REP,Paul Marsh,1921
+Navajo,03 Hubbell,State Mine Inspector,,REP,Paul Marsh,105
+Navajo,04 Black Buttes,State Mine Inspector,,REP,Paul Marsh,2749
+Navajo,05 Cedar Valley,State Mine Inspector,,REP,Paul Marsh,553
+Navajo,06 Stone Butte,State Mine Inspector,,REP,Paul Marsh,229
+Navajo,07 Pioneer,State Mine Inspector,,REP,Paul Marsh,5106
+Navajo,08 Antelope,State Mine Inspector,,REP,Paul Marsh,214
+Navajo,09 Juniper,State Mine Inspector,,REP,Paul Marsh,1034
+Navajo,10 Bison,State Mine Inspector,,REP,Paul Marsh,738
+Navajo,11 Mogollon,State Mine Inspector,,REP,Paul Marsh,2235
+Navajo,12 Woodland,State Mine Inspector,,REP,Paul Marsh,4950
+Navajo,13 Sitgreaves,State Mine Inspector,,REP,Paul Marsh,5653
+Navajo,14 Sunrise,State Mine Inspector,,REP,Paul Marsh,918
+Navajo,01 Red Butte,State Mine Inspector,,,Write-ins,289
+Navajo,02 Painted Desert,State Mine Inspector,,,Write-ins,88
+Navajo,03 Hubbell,State Mine Inspector,,,Write-ins,3
+Navajo,04 Black Buttes,State Mine Inspector,,,Write-ins,195
+Navajo,05 Cedar Valley,State Mine Inspector,,,Write-ins,73
+Navajo,06 Stone Butte,State Mine Inspector,,,Write-ins,24
+Navajo,07 Pioneer,State Mine Inspector,,,Write-ins,50
+Navajo,08 Antelope,State Mine Inspector,,,Write-ins,6
+Navajo,09 Juniper,State Mine Inspector,,,Write-ins,18
+Navajo,10 Bison,State Mine Inspector,,,Write-ins,5
+Navajo,11 Mogollon,State Mine Inspector,,,Write-ins,22
+Navajo,12 Woodland,State Mine Inspector,,,Write-ins,73
+Navajo,13 Sitgreaves,State Mine Inspector,,,Write-ins,75
+Navajo,14 Sunrise,State Mine Inspector,,,Write-ins,84
+Navajo,01 Red Butte,State Mine Inspector,,,Over Votes,2
+Navajo,02 Painted Desert,State Mine Inspector,,,Over Votes,2
+Navajo,03 Hubbell,State Mine Inspector,,,Over Votes,0
+Navajo,04 Black Buttes,State Mine Inspector,,,Over Votes,1
+Navajo,05 Cedar Valley,State Mine Inspector,,,Over Votes,0
+Navajo,06 Stone Butte,State Mine Inspector,,,Over Votes,0
+Navajo,07 Pioneer,State Mine Inspector,,,Over Votes,0
+Navajo,08 Antelope,State Mine Inspector,,,Over Votes,0
+Navajo,09 Juniper,State Mine Inspector,,,Over Votes,0
+Navajo,10 Bison,State Mine Inspector,,,Over Votes,0
+Navajo,11 Mogollon,State Mine Inspector,,,Over Votes,0
+Navajo,12 Woodland,State Mine Inspector,,,Over Votes,0
+Navajo,13 Sitgreaves,State Mine Inspector,,,Over Votes,0
+Navajo,14 Sunrise,State Mine Inspector,,,Over Votes,1
+Navajo,01 Red Butte,State Mine Inspector,,,Under Votes,2213
+Navajo,02 Painted Desert,State Mine Inspector,,,Under Votes,759
+Navajo,03 Hubbell,State Mine Inspector,,,Under Votes,30
+Navajo,04 Black Buttes,State Mine Inspector,,,Under Votes,1619
+Navajo,05 Cedar Valley,State Mine Inspector,,,Under Votes,419
+Navajo,06 Stone Butte,State Mine Inspector,,,Under Votes,154
+Navajo,07 Pioneer,State Mine Inspector,,,Under Votes,682
+Navajo,08 Antelope,State Mine Inspector,,,Under Votes,21
+Navajo,09 Juniper,State Mine Inspector,,,Under Votes,253
+Navajo,10 Bison,State Mine Inspector,,,Under Votes,123
+Navajo,11 Mogollon,State Mine Inspector,,,Under Votes,439
+Navajo,12 Woodland,State Mine Inspector,,,Under Votes,1330
+Navajo,13 Sitgreaves,State Mine Inspector,,,Under Votes,1222
+Navajo,14 Sunrise,State Mine Inspector,,,Under Votes,1087
+Navajo,01 Red Butte,Corporation Commissioner,,DEM,Lauren Kuby,3171
+Navajo,02 Painted Desert,Corporation Commissioner,,DEM,Lauren Kuby,921
+Navajo,03 Hubbell,Corporation Commissioner,,DEM,Lauren Kuby,36
+Navajo,04 Black Buttes,Corporation Commissioner,,DEM,Lauren Kuby,2517
+Navajo,05 Cedar Valley,Corporation Commissioner,,DEM,Lauren Kuby,537
+Navajo,06 Stone Butte,Corporation Commissioner,,DEM,Lauren Kuby,242
+Navajo,07 Pioneer,Corporation Commissioner,,DEM,Lauren Kuby,603
+Navajo,08 Antelope,Corporation Commissioner,,DEM,Lauren Kuby,20
+Navajo,09 Juniper,Corporation Commissioner,,DEM,Lauren Kuby,251
+Navajo,10 Bison,Corporation Commissioner,,DEM,Lauren Kuby,115
+Navajo,11 Mogollon,Corporation Commissioner,,DEM,Lauren Kuby,507
+Navajo,12 Woodland,Corporation Commissioner,,DEM,Lauren Kuby,1649
+Navajo,13 Sitgreaves,Corporation Commissioner,,DEM,Lauren Kuby,1320
+Navajo,14 Sunrise,Corporation Commissioner,,DEM,Lauren Kuby,1566
+Navajo,01 Red Butte,Corporation Commissioner,,DEM,Sandra Kennedy,4243
+Navajo,02 Painted Desert,Corporation Commissioner,,DEM,Sandra Kennedy,1210
+Navajo,03 Hubbell,Corporation Commissioner,,DEM,Sandra Kennedy,36
+Navajo,04 Black Buttes,Corporation Commissioner,,DEM,Sandra Kennedy,2865
+Navajo,05 Cedar Valley,Corporation Commissioner,,DEM,Sandra Kennedy,789
+Navajo,06 Stone Butte,Corporation Commissioner,,DEM,Sandra Kennedy,297
+Navajo,07 Pioneer,Corporation Commissioner,,DEM,Sandra Kennedy,706
+Navajo,08 Antelope,Corporation Commissioner,,DEM,Sandra Kennedy,35
+Navajo,09 Juniper,Corporation Commissioner,,DEM,Sandra Kennedy,291
+Navajo,10 Bison,Corporation Commissioner,,DEM,Sandra Kennedy,122
+Navajo,11 Mogollon,Corporation Commissioner,,DEM,Sandra Kennedy,570
+Navajo,12 Woodland,Corporation Commissioner,,DEM,Sandra Kennedy,1705
+Navajo,13 Sitgreaves,Corporation Commissioner,,DEM,Sandra Kennedy,1505
+Navajo,14 Sunrise,Corporation Commissioner,,DEM,Sandra Kennedy,1666
+Navajo,01 Red Butte,Corporation Commissioner,,REP,Kevin Thompson,621
+Navajo,02 Painted Desert,Corporation Commissioner,,REP,Kevin Thompson,1225
+Navajo,03 Hubbell,Corporation Commissioner,,REP,Kevin Thompson,76
+Navajo,04 Black Buttes,Corporation Commissioner,,REP,Kevin Thompson,1096
+Navajo,05 Cedar Valley,Corporation Commissioner,,REP,Kevin Thompson,117
+Navajo,06 Stone Butte,Corporation Commissioner,,REP,Kevin Thompson,42
+Navajo,07 Pioneer,Corporation Commissioner,,REP,Kevin Thompson,4495
+Navajo,08 Antelope,Corporation Commissioner,,REP,Kevin Thompson,188
+Navajo,09 Juniper,Corporation Commissioner,,REP,Kevin Thompson,782
+Navajo,10 Bison,Corporation Commissioner,,REP,Kevin Thompson,654
+Navajo,11 Mogollon,Corporation Commissioner,,REP,Kevin Thompson,1818
+Navajo,12 Woodland,Corporation Commissioner,,REP,Kevin Thompson,3944
+Navajo,13 Sitgreaves,Corporation Commissioner,,REP,Kevin Thompson,4488
+Navajo,14 Sunrise,Corporation Commissioner,,REP,Kevin Thompson,186
+Navajo,01 Red Butte,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",521
+Navajo,02 Painted Desert,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1161
+Navajo,03 Hubbell,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",79
+Navajo,04 Black Buttes,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1047
+Navajo,05 Cedar Valley,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",86
+Navajo,06 Stone Butte,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",36
+Navajo,07 Pioneer,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",4587
+Navajo,08 Antelope,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",189
+Navajo,09 Juniper,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",851
+Navajo,10 Bison,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",631
+Navajo,11 Mogollon,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1888
+Navajo,12 Woodland,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",3849
+Navajo,13 Sitgreaves,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",4680
+Navajo,14 Sunrise,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",170
+Navajo,01 Red Butte,Corporation Commissioner,,,Write-ins,16
+Navajo,02 Painted Desert,Corporation Commissioner,,,Write-ins,8
+Navajo,03 Hubbell,Corporation Commissioner,,,Write-ins,1
+Navajo,04 Black Buttes,Corporation Commissioner,,,Write-ins,11
+Navajo,05 Cedar Valley,Corporation Commissioner,,,Write-ins,4
+Navajo,06 Stone Butte,Corporation Commissioner,,,Write-ins,2
+Navajo,07 Pioneer,Corporation Commissioner,,,Write-ins,3
+Navajo,08 Antelope,Corporation Commissioner,,,Write-ins,2
+Navajo,09 Juniper,Corporation Commissioner,,,Write-ins,3
+Navajo,10 Bison,Corporation Commissioner,,,Write-ins,3
+Navajo,11 Mogollon,Corporation Commissioner,,,Write-ins,1
+Navajo,12 Woodland,Corporation Commissioner,,,Write-ins,13
+Navajo,13 Sitgreaves,Corporation Commissioner,,,Write-ins,20
+Navajo,14 Sunrise,Corporation Commissioner,,,Write-ins,2
+Navajo,01 Red Butte,Corporation Commissioner,,,Over Votes,2
+Navajo,02 Painted Desert,Corporation Commissioner,,,Over Votes,4
+Navajo,03 Hubbell,Corporation Commissioner,,,Over Votes,0
+Navajo,04 Black Buttes,Corporation Commissioner,,,Over Votes,8
+Navajo,05 Cedar Valley,Corporation Commissioner,,,Over Votes,4
+Navajo,06 Stone Butte,Corporation Commissioner,,,Over Votes,0
+Navajo,07 Pioneer,Corporation Commissioner,,,Over Votes,4
+Navajo,08 Antelope,Corporation Commissioner,,,Over Votes,0
+Navajo,09 Juniper,Corporation Commissioner,,,Over Votes,2
+Navajo,10 Bison,Corporation Commissioner,,,Over Votes,0
+Navajo,11 Mogollon,Corporation Commissioner,,,Over Votes,0
+Navajo,12 Woodland,Corporation Commissioner,,,Over Votes,0
+Navajo,13 Sitgreaves,Corporation Commissioner,,,Over Votes,2
+Navajo,14 Sunrise,Corporation Commissioner,,,Over Votes,2
+Navajo,01 Red Butte,Corporation Commissioner,,,Under Votes,2838
+Navajo,02 Painted Desert,Corporation Commissioner,,,Under Votes,1011
+Navajo,03 Hubbell,Corporation Commissioner,,,Under Votes,48
+Navajo,04 Black Buttes,Corporation Commissioner,,,Under Votes,1584
+Navajo,05 Cedar Valley,Corporation Commissioner,,,Under Votes,553
+Navajo,06 Stone Butte,Corporation Commissioner,,,Under Votes,195
+Navajo,07 Pioneer,Corporation Commissioner,,,Under Votes,1278
+Navajo,08 Antelope,Corporation Commissioner,,,Under Votes,48
+Navajo,09 Juniper,Corporation Commissioner,,,Under Votes,430
+Navajo,10 Bison,Corporation Commissioner,,,Under Votes,207
+Navajo,11 Mogollon,Corporation Commissioner,,,Under Votes,608
+Navajo,12 Woodland,Corporation Commissioner,,,Under Votes,1546
+Navajo,13 Sitgreaves,Corporation Commissioner,,,Under Votes,1885
+Navajo,14 Sunrise,Corporation Commissioner,,,Under Votes,588
+Navajo,01 Red Butte,State Senate,6,DEM,Theresa Hatathlie,5210
+Navajo,02 Painted Desert,State Senate,6,DEM,Theresa Hatathlie,1771
+Navajo,03 Hubbell,State Senate,6,DEM,Theresa Hatathlie,71
+Navajo,04 Black Buttes,State Senate,6,DEM,Theresa Hatathlie,3597
+Navajo,05 Cedar Valley,State Senate,6,DEM,Theresa Hatathlie,965
+Navajo,06 Stone Butte,State Senate,6,DEM,Theresa Hatathlie,374
+Navajo,14 Sunrise,State Senate,6,DEM,Theresa Hatathlie,1843
+Navajo,01 Red Butte,State Senate,6,,Write-ins,56
+Navajo,02 Painted Desert,State Senate,6,,Write-ins,209
+Navajo,03 Hubbell,State Senate,6,,Write-ins,11
+Navajo,04 Black Buttes,State Senate,6,,Write-ins,202
+Navajo,05 Cedar Valley,State Senate,6,,Write-ins,13
+Navajo,06 Stone Butte,State Senate,6,,Write-ins,5
+Navajo,14 Sunrise,State Senate,6,,Write-ins,25
+Navajo,01 Red Butte,State Senate,6,,Over Votes,1
+Navajo,02 Painted Desert,State Senate,6,,Over Votes,0
+Navajo,03 Hubbell,State Senate,6,,Over Votes,0
+Navajo,04 Black Buttes,State Senate,6,,Over Votes,1
+Navajo,05 Cedar Valley,State Senate,6,,Over Votes,0
+Navajo,06 Stone Butte,State Senate,6,,Over Votes,0
+Navajo,14 Sunrise,State Senate,6,,Over Votes,0
+Navajo,01 Red Butte,State Senate,6,,Under Votes,439
+Navajo,02 Painted Desert,State Senate,6,,Under Votes,790
+Navajo,03 Hubbell,State Senate,6,,Under Votes,56
+Navajo,04 Black Buttes,State Senate,6,,Under Votes,764
+Navajo,05 Cedar Valley,State Senate,6,,Under Votes,67
+Navajo,06 Stone Butte,State Senate,6,,Under Votes,28
+Navajo,14 Sunrise,State Senate,6,,Under Votes,222
+Navajo,07 Pioneer,State Senate,7,DEM,Kyle Nitschke,759
+Navajo,08 Antelope,State Senate,7,DEM,Kyle Nitschke,34
+Navajo,09 Juniper,State Senate,7,DEM,Kyle Nitschke,291
+Navajo,10 Bison,State Senate,7,DEM,Kyle Nitschke,140
+Navajo,11 Mogollon,State Senate,7,DEM,Kyle Nitschke,583
+Navajo,12 Woodland,State Senate,7,DEM,Kyle Nitschke,1860
+Navajo,13 Sitgreaves,State Senate,7,DEM,Kyle Nitschke,1627
+Navajo,07 Pioneer,State Senate,7,REP,Wendy Rogers,4925
+Navajo,08 Antelope,State Senate,7,REP,Wendy Rogers,198
+Navajo,09 Juniper,State Senate,7,REP,Wendy Rogers,986
+Navajo,10 Bison,State Senate,7,REP,Wendy Rogers,708
+Navajo,11 Mogollon,State Senate,7,REP,Wendy Rogers,2046
+Navajo,12 Woodland,State Senate,7,REP,Wendy Rogers,4334
+Navajo,13 Sitgreaves,State Senate,7,REP,Wendy Rogers,5193
+Navajo,07 Pioneer,State Senate,7,,Write-ins,16
+Navajo,08 Antelope,State Senate,7,,Write-ins,3
+Navajo,09 Juniper,State Senate,7,,Write-ins,3
+Navajo,10 Bison,State Senate,7,,Write-ins,5
+Navajo,11 Mogollon,State Senate,7,,Write-ins,3
+Navajo,12 Woodland,State Senate,7,,Write-ins,13
+Navajo,13 Sitgreaves,State Senate,7,,Write-ins,13
+Navajo,07 Pioneer,State Senate,7,,Over Votes,1
+Navajo,08 Antelope,State Senate,7,,Over Votes,0
+Navajo,09 Juniper,State Senate,7,,Over Votes,0
+Navajo,10 Bison,State Senate,7,,Over Votes,0
+Navajo,11 Mogollon,State Senate,7,,Over Votes,0
+Navajo,12 Woodland,State Senate,7,,Over Votes,0
+Navajo,13 Sitgreaves,State Senate,7,,Over Votes,0
+Navajo,07 Pioneer,State Senate,7,,Under Votes,137
+Navajo,08 Antelope,State Senate,7,,Under Votes,6
+Navajo,09 Juniper,State Senate,7,,Under Votes,25
+Navajo,10 Bison,State Senate,7,,Under Votes,13
+Navajo,11 Mogollon,State Senate,7,,Under Votes,64
+Navajo,12 Woodland,State Senate,7,,Under Votes,146
+Navajo,13 Sitgreaves,State Senate,7,,Under Votes,117
+Navajo,01 Red Butte,State House,6,DEM,Mae Peshlakai,3633
+Navajo,02 Painted Desert,State House,6,DEM,Mae Peshlakai,1365
+Navajo,03 Hubbell,State House,6,DEM,Mae Peshlakai,52
+Navajo,04 Black Buttes,State House,6,DEM,Mae Peshlakai,2867
+Navajo,05 Cedar Valley,State House,6,DEM,Mae Peshlakai,737
+Navajo,06 Stone Butte,State House,6,DEM,Mae Peshlakai,258
+Navajo,14 Sunrise,State House,6,DEM,Mae Peshlakai,1417
+Navajo,01 Red Butte,State House,6,DEM,Myron Tsosie,3869
+Navajo,02 Painted Desert,State House,6,DEM,Myron Tsosie,1304
+Navajo,03 Hubbell,State House,6,DEM,Myron Tsosie,51
+Navajo,04 Black Buttes,State House,6,DEM,Myron Tsosie,2699
+Navajo,05 Cedar Valley,State House,6,DEM,Myron Tsosie,685
+Navajo,06 Stone Butte,State House,6,DEM,Myron Tsosie,265
+Navajo,14 Sunrise,State House,6,DEM,Myron Tsosie,1581
+Navajo,01 Red Butte,State House,6,,Write-ins,29
+Navajo,02 Painted Desert,State House,6,,Write-ins,165
+Navajo,03 Hubbell,State House,6,,Write-ins,4
+Navajo,04 Black Buttes,State House,6,,Write-ins,133
+Navajo,05 Cedar Valley,State House,6,,Write-ins,8
+Navajo,06 Stone Butte,State House,6,,Write-ins,2
+Navajo,14 Sunrise,State House,6,,Write-ins,21
+Navajo,01 Red Butte,State House,6,,Over Votes,2
+Navajo,02 Painted Desert,State House,6,,Over Votes,0
+Navajo,03 Hubbell,State House,6,,Over Votes,0
+Navajo,04 Black Buttes,State House,6,,Over Votes,0
+Navajo,05 Cedar Valley,State House,6,,Over Votes,0
+Navajo,06 Stone Butte,State House,6,,Over Votes,0
+Navajo,14 Sunrise,State House,6,,Over Votes,0
+Navajo,01 Red Butte,State House,6,,Under Votes,3879
+Navajo,02 Painted Desert,State House,6,,Under Votes,2706
+Navajo,03 Hubbell,State House,6,,Under Votes,169
+Navajo,04 Black Buttes,State House,6,,Under Votes,3429
+Navajo,05 Cedar Valley,State House,6,,Under Votes,660
+Navajo,06 Stone Butte,State House,6,,Under Votes,289
+Navajo,14 Sunrise,State House,6,,Under Votes,1161
+Navajo,07 Pioneer,State House,7,REP,David Cook,4235
+Navajo,08 Antelope,State House,7,REP,David Cook,196
+Navajo,09 Juniper,State House,7,REP,David Cook,854
+Navajo,10 Bison,State House,7,REP,David Cook,648
+Navajo,11 Mogollon,State House,7,REP,David Cook,1936
+Navajo,12 Woodland,State House,7,REP,David Cook,4171
+Navajo,13 Sitgreaves,State House,7,REP,David Cook,4825
+Navajo,07 Pioneer,State House,7,REP,David Marshall Sr.,3843
+Navajo,08 Antelope,State House,7,REP,David Marshall Sr.,150
+Navajo,09 Juniper,State House,7,REP,David Marshall Sr.,654
+Navajo,10 Bison,State House,7,REP,David Marshall Sr.,546
+Navajo,11 Mogollon,State House,7,REP,David Marshall Sr.,1479
+Navajo,12 Woodland,State House,7,REP,David Marshall Sr.,3209
+Navajo,13 Sitgreaves,State House,7,REP,David Marshall Sr.,3686
+Navajo,07 Pioneer,State House,7,,Write-ins,67
+Navajo,08 Antelope,State House,7,,Write-ins,8
+Navajo,09 Juniper,State House,7,,Write-ins,30
+Navajo,10 Bison,State House,7,,Write-ins,18
+Navajo,11 Mogollon,State House,7,,Write-ins,44
+Navajo,12 Woodland,State House,7,,Write-ins,136
+Navajo,13 Sitgreaves,State House,7,,Write-ins,139
+Navajo,07 Pioneer,State House,7,,Over Votes,0
+Navajo,08 Antelope,State House,7,,Over Votes,0
+Navajo,09 Juniper,State House,7,,Over Votes,0
+Navajo,10 Bison,State House,7,,Over Votes,0
+Navajo,11 Mogollon,State House,7,,Over Votes,0
+Navajo,12 Woodland,State House,7,,Over Votes,0
+Navajo,13 Sitgreaves,State House,7,,Over Votes,2
+Navajo,07 Pioneer,State House,7,,Under Votes,3531
+Navajo,08 Antelope,State House,7,,Under Votes,128
+Navajo,09 Juniper,State House,7,,Under Votes,1072
+Navajo,10 Bison,State House,7,,Under Votes,520
+Navajo,11 Mogollon,State House,7,,Under Votes,1933
+Navajo,12 Woodland,State House,7,,Under Votes,5190
+Navajo,13 Sitgreaves,State House,7,,Under Votes,5248

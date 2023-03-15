@@ -1,0 +1,2536 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Yavapai,EAGLE (201.00),Registered Voters,,,,8798,,,
+Yavapai,COURT (202.00),Registered Voters,,,,6598,,,
+Yavapai,FAIR (203.00),Registered Voters,,,,5017,,,
+Yavapai,GOLF (204.00),Registered Voters,,,,7005,,,
+Yavapai,MINE (205.00),Registered Voters,,,,1010,,,
+Yavapai,HILL (206.00),Registered Voters,,,,87,,,
+Yavapai,MESQUITE (207.00),Registered Voters,,,,1513,,,
+Yavapai,YARN (208.00),Registered Voters,,,,893,,,
+Yavapai,WICK (209.00),Registered Voters,,,,1293,,,
+Yavapai,WALNUT (210.00),Registered Voters,,,,65,,,
+Yavapai,SPRINGS (211.00),Registered Voters,,,,34,,,
+Yavapai,PLEASANT (212.00),Registered Voters,,,,0,,,
+Yavapai,SKULL (213.00),Registered Voters,,,,392,,,
+Yavapai,KIRK (214.00),Registered Voters,,,,795,,,
+Yavapai,BUCK (215.00),Registered Voters,,,,4721,,,
+Yavapai,CREEK (216.00),Registered Voters,,,,2733,,,
+Yavapai,WIND (217.00),Registered Voters,,,,129,,,
+Yavapai,WELL (218.00),Registered Voters,,,,3052,,,
+Yavapai,FORT (219.00),Registered Voters,,,,7439,,,
+Yavapai,RIM (220.00),Registered Voters,,,,39,,,
+Yavapai,SALT (221.00),Registered Voters,,,,423,,,
+Yavapai,BUG (222.00),Registered Voters,,,,3852,,,
+Yavapai,SUNSET (223.00),Registered Voters,,,,2003,,,
+Yavapai,TOWERS (224.00),Registered Voters,,,,119,,,
+Yavapai,IRON (225.00),Registered Voters,,,,7405,,,
+Yavapai,SPIRIT (226.00),Registered Voters,,,,68,,,
+Yavapai,RUBY (227.00),Registered Voters,,,,5986,,,
+Yavapai,SCARLET (228.00),Registered Voters,,,,5099,,,
+Yavapai,ONYX (229.00),Registered Voters,,,,8421,,,
+Yavapai,AZURE (230.00),Registered Voters,,,,7365,,,
+Yavapai,QUAIL (231.00),Registered Voters,,,,421,,,
+Yavapai,GHOST (232.00),Registered Voters,,,,2812,,,
+Yavapai,BRIDGE (233.00),Registered Voters,,,,83,,,
+Yavapai,WATSON (234.00),Registered Voters,,,,9709,,,
+Yavapai,RANCH (235.00),Registered Voters,,,,5146,,,
+Yavapai,CAMP (236.00),Registered Voters,,,,696,,,
+Yavapai,BASIN (237.00),Registered Voters,,,,7167,,,
+Yavapai,GRAZE (238.00),Registered Voters,,,,8836,,,
+Yavapai,COYOTE (239.00),Registered Voters,,,,4060,,,
+Yavapai,CARS (240.00),Registered Voters,,,,1081,,,
+Yavapai,STONE (241.00),Registered Voters,,,,677,,,
+Yavapai,WATER (242.00),Registered Voters,,,,6836,,,
+Yavapai,BURRO (243.00),Registered Voters,,,,8554,,,
+Yavapai,BISON (244.00),Registered Voters,,,,11543,,,
+Yavapai,BIGHORN (245.00),Registered Voters,,,,5823,,,
+Yavapai,LASSO (246.00),Registered Voters,,,,252,,,
+Yavapai,CHAPS (247.00),Registered Voters,,,,2,,,
+Yavapai,SPURS (248.00),Registered Voters,,,,0,,,
+Yavapai,EAGLE (201.00),Ballots Cast,,,,7179,692,6476,11
+Yavapai,COURT (202.00),Ballots Cast,,,,4847,635,4203,9
+Yavapai,FAIR (203.00),Ballots Cast,,,,3932,417,3502,13
+Yavapai,GOLF (204.00),Ballots Cast,,,,5768,582,5179,7
+Yavapai,MINE (205.00),Ballots Cast,,,,530,285,239,6
+Yavapai,HILL (206.00),Ballots Cast,,,,66,15,51,0
+Yavapai,MESQUITE (207.00),Ballots Cast,,,,1198,274,924,0
+Yavapai,YARN (208.00),Ballots Cast,,,,714,193,519,2
+Yavapai,WICK (209.00),Ballots Cast,,,,1191,240,949,2
+Yavapai,WALNUT (210.00),Ballots Cast,,,,58,7,50,1
+Yavapai,SPRINGS (211.00),Ballots Cast,,,,26,0,26,0
+Yavapai,PLEASANT (212.00),Ballots Cast,,,,0,0,0,0
+Yavapai,SKULL (213.00),Ballots Cast,,,,317,46,271,0
+Yavapai,KIRK (214.00),Ballots Cast,,,,565,104,461,0
+Yavapai,BUCK (215.00),Ballots Cast,,,,3844,471,3368,5
+Yavapai,CREEK (216.00),Ballots Cast,,,,2006,450,1552,4
+Yavapai,WIND (217.00),Ballots Cast,,,,97,20,77,0
+Yavapai,WELL (218.00),Ballots Cast,,,,2106,558,1546,2
+Yavapai,FORT (219.00),Ballots Cast,,,,5033,1083,3933,17
+Yavapai,RIM (220.00),Ballots Cast,,,,23,7,16,0
+Yavapai,SALT (221.00),Ballots Cast,,,,316,59,257,0
+Yavapai,BUG (222.00),Ballots Cast,,,,2553,670,1869,14
+Yavapai,SUNSET (223.00),Ballots Cast,,,,1335,459,873,3
+Yavapai,TOWERS (224.00),Ballots Cast,,,,84,6,78,0
+Yavapai,IRON (225.00),Ballots Cast,,,,5659,1129,4520,10
+Yavapai,SPIRIT (226.00),Ballots Cast,,,,49,15,34,0
+Yavapai,RUBY (227.00),Ballots Cast,,,,4784,773,4004,7
+Yavapai,SCARLET (228.00),Ballots Cast,,,,4190,621,3563,6
+Yavapai,ONYX (229.00),Ballots Cast,,,,6154,984,5157,13
+Yavapai,AZURE (230.00),Ballots Cast,,,,4978,901,4068,9
+Yavapai,QUAIL (231.00),Ballots Cast,,,,360,61,299,0
+Yavapai,GHOST (232.00),Ballots Cast,,,,2096,429,1666,1
+Yavapai,BRIDGE (233.00),Ballots Cast,,,,58,13,45,0
+Yavapai,WATSON (234.00),Ballots Cast,,,,8016,816,7188,12
+Yavapai,RANCH (235.00),Ballots Cast,,,,4500,698,3797,5
+Yavapai,CAMP (236.00),Ballots Cast,,,,563,94,469,0
+Yavapai,BASIN (237.00),Ballots Cast,,,,5027,1246,3771,10
+Yavapai,GRAZE (238.00),Ballots Cast,,,,6542,1535,4980,27
+Yavapai,COYOTE (239.00),Ballots Cast,,,,3220,593,2620,7
+Yavapai,CARS (240.00),Ballots Cast,,,,740,228,511,1
+Yavapai,STONE (241.00),Ballots Cast,,,,435,157,275,3
+Yavapai,WATER (242.00),Ballots Cast,,,,5542,663,4868,11
+Yavapai,BURRO (243.00),Ballots Cast,,,,6312,962,5342,8
+Yavapai,BISON (244.00),Ballots Cast,,,,8069,1321,6734,14
+Yavapai,BIGHORN (245.00),Ballots Cast,,,,3586,643,2931,12
+Yavapai,LASSO (246.00),Ballots Cast,,,,193,45,148,0
+Yavapai,CHAPS (247.00),Ballots Cast,,,,2,2,0,0
+Yavapai,SPURS (248.00),Ballots Cast,,,,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,REP,Blake Masters,4133,576,3547,10
+Yavapai,COURT (202.00),U.S. Senate,,REP,Blake Masters,2448,464,1977,7
+Yavapai,FAIR (203.00),U.S. Senate,,REP,Blake Masters,2147,330,1810,7
+Yavapai,GOLF (204.00),U.S. Senate,,REP,Blake Masters,3070,441,2623,6
+Yavapai,MINE (205.00),U.S. Senate,,REP,Blake Masters,386,224,158,4
+Yavapai,HILL (206.00),U.S. Senate,,REP,Blake Masters,60,15,45,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,REP,Blake Masters,843,243,600,0
+Yavapai,YARN (208.00),U.S. Senate,,REP,Blake Masters,472,158,313,1
+Yavapai,WICK (209.00),U.S. Senate,,REP,Blake Masters,855,206,647,2
+Yavapai,WALNUT (210.00),U.S. Senate,,REP,Blake Masters,40,5,35,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,REP,Blake Masters,21,0,21,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,REP,Blake Masters,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,REP,Blake Masters,217,38,179,0
+Yavapai,KIRK (214.00),U.S. Senate,,REP,Blake Masters,413,89,324,0
+Yavapai,BUCK (215.00),U.S. Senate,,REP,Blake Masters,2479,414,2060,5
+Yavapai,CREEK (216.00),U.S. Senate,,REP,Blake Masters,1112,352,757,3
+Yavapai,WIND (217.00),U.S. Senate,,REP,Blake Masters,59,14,45,0
+Yavapai,WELL (218.00),U.S. Senate,,REP,Blake Masters,1221,441,779,1
+Yavapai,FORT (219.00),U.S. Senate,,REP,Blake Masters,3266,919,2334,13
+Yavapai,RIM (220.00),U.S. Senate,,REP,Blake Masters,11,6,5,0
+Yavapai,SALT (221.00),U.S. Senate,,REP,Blake Masters,217,47,170,0
+Yavapai,BUG (222.00),U.S. Senate,,REP,Blake Masters,1708,567,1130,11
+Yavapai,SUNSET (223.00),U.S. Senate,,REP,Blake Masters,937,391,543,3
+Yavapai,TOWERS (224.00),U.S. Senate,,REP,Blake Masters,66,6,60,0
+Yavapai,IRON (225.00),U.S. Senate,,REP,Blake Masters,3903,1013,2881,9
+Yavapai,SPIRIT (226.00),U.S. Senate,,REP,Blake Masters,30,15,15,0
+Yavapai,RUBY (227.00),U.S. Senate,,REP,Blake Masters,1764,528,1232,4
+Yavapai,SCARLET (228.00),U.S. Senate,,REP,Blake Masters,1627,466,1156,5
+Yavapai,ONYX (229.00),U.S. Senate,,REP,Blake Masters,3182,761,2410,11
+Yavapai,AZURE (230.00),U.S. Senate,,REP,Blake Masters,2484,686,1793,5
+Yavapai,QUAIL (231.00),U.S. Senate,,REP,Blake Masters,240,54,186,0
+Yavapai,GHOST (232.00),U.S. Senate,,REP,Blake Masters,898,284,613,1
+Yavapai,BRIDGE (233.00),U.S. Senate,,REP,Blake Masters,27,6,21,0
+Yavapai,WATSON (234.00),U.S. Senate,,REP,Blake Masters,4916,712,4193,11
+Yavapai,RANCH (235.00),U.S. Senate,,REP,Blake Masters,3201,642,2555,4
+Yavapai,CAMP (236.00),U.S. Senate,,REP,Blake Masters,423,86,337,0
+Yavapai,BASIN (237.00),U.S. Senate,,REP,Blake Masters,3731,1125,2599,7
+Yavapai,GRAZE (238.00),U.S. Senate,,REP,Blake Masters,4684,1384,3278,22
+Yavapai,COYOTE (239.00),U.S. Senate,,REP,Blake Masters,2589,554,2030,5
+Yavapai,CARS (240.00),U.S. Senate,,REP,Blake Masters,569,202,366,1
+Yavapai,STONE (241.00),U.S. Senate,,REP,Blake Masters,310,130,178,2
+Yavapai,WATER (242.00),U.S. Senate,,REP,Blake Masters,3617,580,3033,4
+Yavapai,BURRO (243.00),U.S. Senate,,REP,Blake Masters,4014,809,3201,4
+Yavapai,BISON (244.00),U.S. Senate,,REP,Blake Masters,5047,1127,3910,10
+Yavapai,BIGHORN (245.00),U.S. Senate,,REP,Blake Masters,2167,521,1634,12
+Yavapai,LASSO (246.00),U.S. Senate,,REP,Blake Masters,146,41,105,0
+Yavapai,CHAPS (247.00),U.S. Senate,,REP,Blake Masters,2,2,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,REP,Blake Masters,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,DEM,Mark Kelly,2847,102,2745,0
+Yavapai,COURT (202.00),U.S. Senate,,DEM,Mark Kelly,2258,154,2102,2
+Yavapai,FAIR (203.00),U.S. Senate,,DEM,Mark Kelly,1666,72,1590,4
+Yavapai,GOLF (204.00),U.S. Senate,,DEM,Mark Kelly,2555,130,2424,1
+Yavapai,MINE (205.00),U.S. Senate,,DEM,Mark Kelly,122,46,74,2
+Yavapai,HILL (206.00),U.S. Senate,,DEM,Mark Kelly,3,0,3,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,DEM,Mark Kelly,319,23,296,0
+Yavapai,YARN (208.00),U.S. Senate,,DEM,Mark Kelly,206,29,176,1
+Yavapai,WICK (209.00),U.S. Senate,,DEM,Mark Kelly,310,32,278,0
+Yavapai,WALNUT (210.00),U.S. Senate,,DEM,Mark Kelly,16,2,13,1
+Yavapai,SPRINGS (211.00),U.S. Senate,,DEM,Mark Kelly,5,0,5,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,DEM,Mark Kelly,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,DEM,Mark Kelly,86,4,82,0
+Yavapai,KIRK (214.00),U.S. Senate,,DEM,Mark Kelly,126,13,113,0
+Yavapai,BUCK (215.00),U.S. Senate,,DEM,Mark Kelly,1261,46,1215,0
+Yavapai,CREEK (216.00),U.S. Senate,,DEM,Mark Kelly,841,89,751,1
+Yavapai,WIND (217.00),U.S. Senate,,DEM,Mark Kelly,36,6,30,0
+Yavapai,WELL (218.00),U.S. Senate,,DEM,Mark Kelly,826,101,724,1
+Yavapai,FORT (219.00),U.S. Senate,,DEM,Mark Kelly,1584,138,1442,4
+Yavapai,RIM (220.00),U.S. Senate,,DEM,Mark Kelly,10,1,9,0
+Yavapai,SALT (221.00),U.S. Senate,,DEM,Mark Kelly,91,9,82,0
+Yavapai,BUG (222.00),U.S. Senate,,DEM,Mark Kelly,736,81,653,2
+Yavapai,SUNSET (223.00),U.S. Senate,,DEM,Mark Kelly,336,45,291,0
+Yavapai,TOWERS (224.00),U.S. Senate,,DEM,Mark Kelly,18,0,18,0
+Yavapai,IRON (225.00),U.S. Senate,,DEM,Mark Kelly,1559,89,1469,1
+Yavapai,SPIRIT (226.00),U.S. Senate,,DEM,Mark Kelly,17,0,17,0
+Yavapai,RUBY (227.00),U.S. Senate,,DEM,Mark Kelly,2901,218,2680,3
+Yavapai,SCARLET (228.00),U.S. Senate,,DEM,Mark Kelly,2472,140,2331,1
+Yavapai,ONYX (229.00),U.S. Senate,,DEM,Mark Kelly,2753,195,2556,2
+Yavapai,AZURE (230.00),U.S. Senate,,DEM,Mark Kelly,2330,196,2131,3
+Yavapai,QUAIL (231.00),U.S. Senate,,DEM,Mark Kelly,112,6,106,0
+Yavapai,GHOST (232.00),U.S. Senate,,DEM,Mark Kelly,1128,134,994,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,DEM,Mark Kelly,30,7,23,0
+Yavapai,WATSON (234.00),U.S. Senate,,DEM,Mark Kelly,2849,82,2767,0
+Yavapai,RANCH (235.00),U.S. Senate,,DEM,Mark Kelly,1193,42,1150,1
+Yavapai,CAMP (236.00),U.S. Senate,,DEM,Mark Kelly,129,6,123,0
+Yavapai,BASIN (237.00),U.S. Senate,,DEM,Mark Kelly,1125,102,1021,2
+Yavapai,GRAZE (238.00),U.S. Senate,,DEM,Mark Kelly,1610,118,1487,5
+Yavapai,COYOTE (239.00),U.S. Senate,,DEM,Mark Kelly,560,27,531,2
+Yavapai,CARS (240.00),U.S. Senate,,DEM,Mark Kelly,150,22,128,0
+Yavapai,STONE (241.00),U.S. Senate,,DEM,Mark Kelly,111,21,89,1
+Yavapai,WATER (242.00),U.S. Senate,,DEM,Mark Kelly,1789,73,1711,5
+Yavapai,BURRO (243.00),U.S. Senate,,DEM,Mark Kelly,2083,135,1945,3
+Yavapai,BISON (244.00),U.S. Senate,,DEM,Mark Kelly,2773,166,2604,3
+Yavapai,BIGHORN (245.00),U.S. Senate,,DEM,Mark Kelly,1285,104,1181,0
+Yavapai,LASSO (246.00),U.S. Senate,,DEM,Mark Kelly,41,2,39,0
+Yavapai,CHAPS (247.00),U.S. Senate,,DEM,Mark Kelly,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,DEM,Mark Kelly,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,LIB,Marc J. Victor,115,9,106,0
+Yavapai,COURT (202.00),U.S. Senate,,LIB,Marc J. Victor,89,13,76,0
+Yavapai,FAIR (203.00),U.S. Senate,,LIB,Marc J. Victor,83,9,73,1
+Yavapai,GOLF (204.00),U.S. Senate,,LIB,Marc J. Victor,91,5,86,0
+Yavapai,MINE (205.00),U.S. Senate,,LIB,Marc J. Victor,17,10,7,0
+Yavapai,HILL (206.00),U.S. Senate,,LIB,Marc J. Victor,1,0,1,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,LIB,Marc J. Victor,28,2,26,0
+Yavapai,YARN (208.00),U.S. Senate,,LIB,Marc J. Victor,24,3,21,0
+Yavapai,WICK (209.00),U.S. Senate,,LIB,Marc J. Victor,17,0,17,0
+Yavapai,WALNUT (210.00),U.S. Senate,,LIB,Marc J. Victor,2,0,2,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,LIB,Marc J. Victor,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,LIB,Marc J. Victor,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,LIB,Marc J. Victor,9,2,7,0
+Yavapai,KIRK (214.00),U.S. Senate,,LIB,Marc J. Victor,23,2,21,0
+Yavapai,BUCK (215.00),U.S. Senate,,LIB,Marc J. Victor,71,6,65,0
+Yavapai,CREEK (216.00),U.S. Senate,,LIB,Marc J. Victor,35,4,31,0
+Yavapai,WIND (217.00),U.S. Senate,,LIB,Marc J. Victor,2,0,2,0
+Yavapai,WELL (218.00),U.S. Senate,,LIB,Marc J. Victor,41,10,31,0
+Yavapai,FORT (219.00),U.S. Senate,,LIB,Marc J. Victor,132,14,118,0
+Yavapai,RIM (220.00),U.S. Senate,,LIB,Marc J. Victor,1,0,1,0
+Yavapai,SALT (221.00),U.S. Senate,,LIB,Marc J. Victor,4,1,3,0
+Yavapai,BUG (222.00),U.S. Senate,,LIB,Marc J. Victor,74,10,64,0
+Yavapai,SUNSET (223.00),U.S. Senate,,LIB,Marc J. Victor,47,11,36,0
+Yavapai,TOWERS (224.00),U.S. Senate,,LIB,Marc J. Victor,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,LIB,Marc J. Victor,140,17,123,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,LIB,Marc J. Victor,2,0,2,0
+Yavapai,RUBY (227.00),U.S. Senate,,LIB,Marc J. Victor,72,10,62,0
+Yavapai,SCARLET (228.00),U.S. Senate,,LIB,Marc J. Victor,60,10,50,0
+Yavapai,ONYX (229.00),U.S. Senate,,LIB,Marc J. Victor,164,14,150,0
+Yavapai,AZURE (230.00),U.S. Senate,,LIB,Marc J. Victor,117,13,103,1
+Yavapai,QUAIL (231.00),U.S. Senate,,LIB,Marc J. Victor,8,1,7,0
+Yavapai,GHOST (232.00),U.S. Senate,,LIB,Marc J. Victor,36,5,31,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,LIB,Marc J. Victor,1,0,1,0
+Yavapai,WATSON (234.00),U.S. Senate,,LIB,Marc J. Victor,172,16,156,0
+Yavapai,RANCH (235.00),U.S. Senate,,LIB,Marc J. Victor,70,4,66,0
+Yavapai,CAMP (236.00),U.S. Senate,,LIB,Marc J. Victor,6,1,5,0
+Yavapai,BASIN (237.00),U.S. Senate,,LIB,Marc J. Victor,122,11,110,1
+Yavapai,GRAZE (238.00),U.S. Senate,,LIB,Marc J. Victor,173,20,153,0
+Yavapai,COYOTE (239.00),U.S. Senate,,LIB,Marc J. Victor,47,9,38,0
+Yavapai,CARS (240.00),U.S. Senate,,LIB,Marc J. Victor,11,3,8,0
+Yavapai,STONE (241.00),U.S. Senate,,LIB,Marc J. Victor,10,3,7,0
+Yavapai,WATER (242.00),U.S. Senate,,LIB,Marc J. Victor,90,3,86,1
+Yavapai,BURRO (243.00),U.S. Senate,,LIB,Marc J. Victor,146,9,136,1
+Yavapai,BISON (244.00),U.S. Senate,,LIB,Marc J. Victor,177,17,159,1
+Yavapai,BIGHORN (245.00),U.S. Senate,,LIB,Marc J. Victor,98,13,85,0
+Yavapai,LASSO (246.00),U.S. Senate,,LIB,Marc J. Victor,5,1,4,0
+Yavapai,CHAPS (247.00),U.S. Senate,,LIB,Marc J. Victor,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,LIB,Marc J. Victor,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,COURT (202.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,FAIR (203.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,GOLF (204.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,MINE (205.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,CREEK (216.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,WIND (217.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,RIM (220.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,AZURE (230.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,RANCH (235.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,COYOTE (239.00),U.S. Senate,,Write-in,Sherrise Bordes,1,0,1,0
+Yavapai,CARS (240.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,BURRO (243.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,BISON (244.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,LASSO (246.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,Write-in,Sherrise Bordes,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,COURT (202.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,FAIR (203.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,GOLF (204.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,MINE (205.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,Write-in,Christopher Bullock,1,0,1,0
+Yavapai,CREEK (216.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,WIND (217.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,RIM (220.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,AZURE (230.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,RANCH (235.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,Write-in,Christopher Bullock,1,0,1,0
+Yavapai,COYOTE (239.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,CARS (240.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,BURRO (243.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,BISON (244.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,LASSO (246.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,Write-in,Christopher Bullock,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,COURT (202.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,FAIR (203.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,GOLF (204.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,MINE (205.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,CREEK (216.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,WIND (217.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,RIM (220.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,AZURE (230.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,RANCH (235.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,COYOTE (239.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,CARS (240.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,BURRO (243.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,BISON (244.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,LASSO (246.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,Write-in,Edward Davida,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,COURT (202.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,FAIR (203.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,GOLF (204.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,MINE (205.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,CREEK (216.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,WIND (217.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,RIM (220.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,AZURE (230.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,RANCH (235.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,COYOTE (239.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,CARS (240.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,BURRO (243.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,BISON (244.00),U.S. Senate,,Write-in,Renee Roxanne,1,1,0,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,LASSO (246.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,Write-in,Renee Roxanne,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,COURT (202.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",1,0,1,0
+Yavapai,FAIR (203.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,GOLF (204.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,MINE (205.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,CREEK (216.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,WIND (217.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,RIM (220.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,AZURE (230.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,RANCH (235.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",1,0,1,0
+Yavapai,COYOTE (239.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,CARS (240.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,BURRO (243.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,BISON (244.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,LASSO (246.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,Write-in,"Richard Ty McLean, Jr.",0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,COURT (202.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,FAIR (203.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,GOLF (204.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,MINE (205.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,CREEK (216.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,WIND (217.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,RIM (220.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,AZURE (230.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,RANCH (235.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,COYOTE (239.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,CARS (240.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,BURRO (243.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,BISON (244.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,LASSO (246.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,Write-in,Todd James Smeltzer,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,COURT (202.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,FAIR (203.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,GOLF (204.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,MINE (205.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,CREEK (216.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,WIND (217.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,RIM (220.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,AZURE (230.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,RANCH (235.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,COYOTE (239.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,CARS (240.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,BURRO (243.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,BISON (244.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,LASSO (246.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,Write-in,William Michael Taylor,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,COURT (202.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,FAIR (203.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,GOLF (204.00),U.S. Senate,,Write-in,Lester Maul,2,0,2,0
+Yavapai,MINE (205.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,CREEK (216.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,WIND (217.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,RIM (220.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,AZURE (230.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,RANCH (235.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,COYOTE (239.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,CARS (240.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,BURRO (243.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,BISON (244.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,LASSO (246.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,Write-in,Lester Maul,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,,Write-in,7,1,6,0
+Yavapai,COURT (202.00),U.S. Senate,,,Write-in,4,0,4,0
+Yavapai,FAIR (203.00),U.S. Senate,,,Write-in,1,0,1,0
+Yavapai,GOLF (204.00),U.S. Senate,,,Write-in,6,2,4,0
+Yavapai,MINE (205.00),U.S. Senate,,,Write-in,1,1,0,0
+Yavapai,HILL (206.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,,Write-in,1,0,1,0
+Yavapai,WICK (209.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,,Write-in,1,0,1,0
+Yavapai,BUCK (215.00),U.S. Senate,,,Write-in,2,0,2,0
+Yavapai,CREEK (216.00),U.S. Senate,,,Write-in,2,0,2,0
+Yavapai,WIND (217.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,,Write-in,2,1,1,0
+Yavapai,FORT (219.00),U.S. Senate,,,Write-in,5,0,5,0
+Yavapai,RIM (220.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,,Write-in,1,0,1,0
+Yavapai,BUG (222.00),U.S. Senate,,,Write-in,6,1,5,0
+Yavapai,SUNSET (223.00),U.S. Senate,,,Write-in,3,1,2,0
+Yavapai,TOWERS (224.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,,Write-in,5,1,4,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,,Write-in,2,1,1,0
+Yavapai,SCARLET (228.00),U.S. Senate,,,Write-in,1,0,1,0
+Yavapai,ONYX (229.00),U.S. Senate,,,Write-in,7,1,6,0
+Yavapai,AZURE (230.00),U.S. Senate,,,Write-in,2,0,2,0
+Yavapai,QUAIL (231.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,,Write-in,2,0,2,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,,Write-in,9,1,8,0
+Yavapai,RANCH (235.00),U.S. Senate,,,Write-in,1,0,1,0
+Yavapai,CAMP (236.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,,Write-in,8,3,5,0
+Yavapai,GRAZE (238.00),U.S. Senate,,,Write-in,5,1,4,0
+Yavapai,COYOTE (239.00),U.S. Senate,,,Write-in,2,0,2,0
+Yavapai,CARS (240.00),U.S. Senate,,,Write-in,2,0,2,0
+Yavapai,STONE (241.00),U.S. Senate,,,Write-in,1,1,0,0
+Yavapai,WATER (242.00),U.S. Senate,,,Write-in,7,2,5,0
+Yavapai,BURRO (243.00),U.S. Senate,,,Write-in,12,5,7,0
+Yavapai,BISON (244.00),U.S. Senate,,,Write-in,8,0,8,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,,Write-in,5,0,5,0
+Yavapai,LASSO (246.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,,Write-in,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,,Over Votes,3,0,3,0
+Yavapai,COURT (202.00),U.S. Senate,,,Over Votes,4,0,4,0
+Yavapai,FAIR (203.00),U.S. Senate,,,Over Votes,1,0,1,0
+Yavapai,GOLF (204.00),U.S. Senate,,,Over Votes,1,0,1,0
+Yavapai,MINE (205.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,HILL (206.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,YARN (208.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,WICK (209.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,KIRK (214.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,BUCK (215.00),U.S. Senate,,,Over Votes,2,0,2,0
+Yavapai,CREEK (216.00),U.S. Senate,,,Over Votes,1,0,1,0
+Yavapai,WIND (217.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,FORT (219.00),U.S. Senate,,,Over Votes,1,0,1,0
+Yavapai,RIM (220.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,SALT (221.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,BUG (222.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,SUNSET (223.00),U.S. Senate,,,Over Votes,1,0,1,0
+Yavapai,TOWERS (224.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,,Over Votes,1,1,0,0
+Yavapai,SCARLET (228.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,ONYX (229.00),U.S. Senate,,,Over Votes,6,4,2,0
+Yavapai,AZURE (230.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,QUAIL (231.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,,Over Votes,2,0,2,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,,Over Votes,1,0,1,0
+Yavapai,RANCH (235.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,CAMP (236.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,BASIN (237.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. Senate,,,Over Votes,3,0,3,0
+Yavapai,COYOTE (239.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,CARS (240.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,STONE (241.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,WATER (242.00),U.S. Senate,,,Over Votes,2,0,2,0
+Yavapai,BURRO (243.00),U.S. Senate,,,Over Votes,2,0,2,0
+Yavapai,BISON (244.00),U.S. Senate,,,Over Votes,1,0,1,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,,Over Votes,2,0,2,0
+Yavapai,LASSO (246.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,,Over Votes,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. Senate,,,Under Votes,74,4,69,1
+Yavapai,COURT (202.00),U.S. Senate,,,Under Votes,43,4,39,0
+Yavapai,FAIR (203.00),U.S. Senate,,,Under Votes,34,6,27,1
+Yavapai,GOLF (204.00),U.S. Senate,,,Under Votes,43,4,39,0
+Yavapai,MINE (205.00),U.S. Senate,,,Under Votes,4,4,0,0
+Yavapai,HILL (206.00),U.S. Senate,,,Under Votes,2,0,2,0
+Yavapai,MESQUITE (207.00),U.S. Senate,,,Under Votes,8,6,2,0
+Yavapai,YARN (208.00),U.S. Senate,,,Under Votes,11,3,8,0
+Yavapai,WICK (209.00),U.S. Senate,,,Under Votes,9,2,7,0
+Yavapai,WALNUT (210.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,SKULL (213.00),U.S. Senate,,,Under Votes,5,2,3,0
+Yavapai,KIRK (214.00),U.S. Senate,,,Under Votes,2,0,2,0
+Yavapai,BUCK (215.00),U.S. Senate,,,Under Votes,28,5,23,0
+Yavapai,CREEK (216.00),U.S. Senate,,,Under Votes,15,5,10,0
+Yavapai,WIND (217.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,WELL (218.00),U.S. Senate,,,Under Votes,16,5,11,0
+Yavapai,FORT (219.00),U.S. Senate,,,Under Votes,45,12,33,0
+Yavapai,RIM (220.00),U.S. Senate,,,Under Votes,1,0,1,0
+Yavapai,SALT (221.00),U.S. Senate,,,Under Votes,3,2,1,0
+Yavapai,BUG (222.00),U.S. Senate,,,Under Votes,29,11,17,1
+Yavapai,SUNSET (223.00),U.S. Senate,,,Under Votes,11,11,0,0
+Yavapai,TOWERS (224.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,IRON (225.00),U.S. Senate,,,Under Votes,52,9,43,0
+Yavapai,SPIRIT (226.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,RUBY (227.00),U.S. Senate,,,Under Votes,44,15,29,0
+Yavapai,SCARLET (228.00),U.S. Senate,,,Under Votes,30,5,25,0
+Yavapai,ONYX (229.00),U.S. Senate,,,Under Votes,42,9,33,0
+Yavapai,AZURE (230.00),U.S. Senate,,,Under Votes,45,6,39,0
+Yavapai,QUAIL (231.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,GHOST (232.00),U.S. Senate,,,Under Votes,30,6,24,0
+Yavapai,BRIDGE (233.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,WATSON (234.00),U.S. Senate,,,Under Votes,69,5,63,1
+Yavapai,RANCH (235.00),U.S. Senate,,,Under Votes,35,10,25,0
+Yavapai,CAMP (236.00),U.S. Senate,,,Under Votes,5,1,4,0
+Yavapai,BASIN (237.00),U.S. Senate,,,Under Votes,41,5,36,0
+Yavapai,GRAZE (238.00),U.S. Senate,,,Under Votes,65,12,53,0
+Yavapai,COYOTE (239.00),U.S. Senate,,,Under Votes,21,3,18,0
+Yavapai,CARS (240.00),U.S. Senate,,,Under Votes,8,1,7,0
+Yavapai,STONE (241.00),U.S. Senate,,,Under Votes,3,2,1,0
+Yavapai,WATER (242.00),U.S. Senate,,,Under Votes,37,5,31,1
+Yavapai,BURRO (243.00),U.S. Senate,,,Under Votes,55,4,51,0
+Yavapai,BISON (244.00),U.S. Senate,,,Under Votes,62,10,52,0
+Yavapai,BIGHORN (245.00),U.S. Senate,,,Under Votes,29,5,24,0
+Yavapai,LASSO (246.00),U.S. Senate,,,Under Votes,1,1,0,0
+Yavapai,CHAPS (247.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,SPURS (248.00),U.S. Senate,,,Under Votes,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. House,2,REP,Eli Crane,4271,589,3671,11
+Yavapai,COURT (202.00),U.S. House,2,REP,Eli Crane,2509,471,2031,7
+Yavapai,FAIR (203.00),U.S. House,2,REP,Eli Crane,2224,341,1877,6
+Yavapai,GOLF (204.00),U.S. House,2,REP,Eli Crane,3146,443,2698,5
+Yavapai,MINE (205.00),U.S. House,2,REP,Eli Crane,411,238,168,5
+Yavapai,HILL (206.00),U.S. House,2,REP,Eli Crane,58,13,45,0
+Yavapai,MESQUITE (207.00),U.S. House,2,REP,Eli Crane,863,238,625,0
+Yavapai,YARN (208.00),U.S. House,2,REP,Eli Crane,491,164,327,0
+Yavapai,WICK (209.00),U.S. House,2,REP,Eli Crane,872,202,668,2
+Yavapai,WALNUT (210.00),U.S. House,2,REP,Eli Crane,38,4,34,0
+Yavapai,SPRINGS (211.00),U.S. House,2,REP,Eli Crane,22,0,22,0
+Yavapai,PLEASANT (212.00),U.S. House,2,REP,Eli Crane,0,0,0,0
+Yavapai,SKULL (213.00),U.S. House,2,REP,Eli Crane,230,39,191,0
+Yavapai,KIRK (214.00),U.S. House,2,REP,Eli Crane,429,91,338,0
+Yavapai,BUCK (215.00),U.S. House,2,REP,Eli Crane,2575,416,2154,5
+Yavapai,CREEK (216.00),U.S. House,2,REP,Eli Crane,1156,359,793,4
+Yavapai,WIND (217.00),U.S. House,2,REP,Eli Crane,58,13,45,0
+Yavapai,WELL (218.00),U.S. House,2,REP,Eli Crane,1252,441,810,1
+Yavapai,FORT (219.00),U.S. House,2,REP,Eli Crane,3389,920,2456,13
+Yavapai,RIM (220.00),U.S. House,2,REP,Eli Crane,12,6,6,0
+Yavapai,SALT (221.00),U.S. House,2,REP,Eli Crane,220,49,171,0
+Yavapai,BUG (222.00),U.S. House,2,REP,Eli Crane,1774,572,1191,11
+Yavapai,SUNSET (223.00),U.S. House,2,REP,Eli Crane,969,400,566,3
+Yavapai,TOWERS (224.00),U.S. House,2,REP,Eli Crane,65,5,60,0
+Yavapai,IRON (225.00),U.S. House,2,REP,Eli Crane,4001,1022,2970,9
+Yavapai,SPIRIT (226.00),U.S. House,2,REP,Eli Crane,30,15,15,0
+Yavapai,RUBY (227.00),U.S. House,2,REP,Eli Crane,1804,535,1265,4
+Yavapai,SCARLET (228.00),U.S. House,2,REP,Eli Crane,1698,476,1217,5
+Yavapai,ONYX (229.00),U.S. House,2,REP,Eli Crane,3350,768,2571,11
+Yavapai,AZURE (230.00),U.S. House,2,REP,Eli Crane,2640,698,1936,6
+Yavapai,QUAIL (231.00),U.S. House,2,REP,Eli Crane,248,57,191,0
+Yavapai,GHOST (232.00),U.S. House,2,REP,Eli Crane,957,294,662,1
+Yavapai,BRIDGE (233.00),U.S. House,2,REP,Eli Crane,28,8,20,0
+Yavapai,WATSON (234.00),U.S. House,2,REP,Eli Crane,5090,713,4365,12
+Yavapai,RANCH (235.00),U.S. House,2,REP,Eli Crane,3274,646,2624,4
+Yavapai,CAMP (236.00),U.S. House,2,REP,Eli Crane,429,87,342,0
+Yavapai,BASIN (237.00),U.S. House,2,REP,Eli Crane,3822,1129,2684,9
+Yavapai,GRAZE (238.00),U.S. House,2,REP,Eli Crane,4851,1393,3435,23
+Yavapai,COYOTE (239.00),U.S. House,2,REP,Eli Crane,2645,561,2078,6
+Yavapai,CARS (240.00),U.S. House,2,REP,Eli Crane,579,203,375,1
+Yavapai,STONE (241.00),U.S. House,2,REP,Eli Crane,321,130,189,2
+Yavapai,WATER (242.00),U.S. House,2,REP,Eli Crane,3728,582,3141,5
+Yavapai,BURRO (243.00),U.S. House,2,REP,Eli Crane,4189,823,3362,4
+Yavapai,BISON (244.00),U.S. House,2,REP,Eli Crane,5264,1129,4124,11
+Yavapai,BIGHORN (245.00),U.S. House,2,REP,Eli Crane,2276,533,1731,12
+Yavapai,LASSO (246.00),U.S. House,2,REP,Eli Crane,149,41,108,0
+Yavapai,CHAPS (247.00),U.S. House,2,REP,Eli Crane,2,2,0,0
+Yavapai,SPURS (248.00),U.S. House,2,REP,Eli Crane,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. House,2,DEM,Tom O'Halleran,2748,87,2661,0
+Yavapai,COURT (202.00),U.S. House,2,DEM,Tom O'Halleran,2216,150,2064,2
+Yavapai,FAIR (203.00),U.S. House,2,DEM,Tom O'Halleran,1623,71,1546,6
+Yavapai,GOLF (204.00),U.S. House,2,DEM,Tom O'Halleran,2486,125,2359,2
+Yavapai,MINE (205.00),U.S. House,2,DEM,Tom O'Halleran,110,41,68,1
+Yavapai,HILL (206.00),U.S. House,2,DEM,Tom O'Halleran,3,1,2,0
+Yavapai,MESQUITE (207.00),U.S. House,2,DEM,Tom O'Halleran,312,32,280,0
+Yavapai,YARN (208.00),U.S. House,2,DEM,Tom O'Halleran,205,25,179,1
+Yavapai,WICK (209.00),U.S. House,2,DEM,Tom O'Halleran,304,33,271,0
+Yavapai,WALNUT (210.00),U.S. House,2,DEM,Tom O'Halleran,19,3,15,1
+Yavapai,SPRINGS (211.00),U.S. House,2,DEM,Tom O'Halleran,4,0,4,0
+Yavapai,PLEASANT (212.00),U.S. House,2,DEM,Tom O'Halleran,0,0,0,0
+Yavapai,SKULL (213.00),U.S. House,2,DEM,Tom O'Halleran,82,5,77,0
+Yavapai,KIRK (214.00),U.S. House,2,DEM,Tom O'Halleran,121,12,109,0
+Yavapai,BUCK (215.00),U.S. House,2,DEM,Tom O'Halleran,1199,44,1155,0
+Yavapai,CREEK (216.00),U.S. House,2,DEM,Tom O'Halleran,824,86,738,0
+Yavapai,WIND (217.00),U.S. House,2,DEM,Tom O'Halleran,38,6,32,0
+Yavapai,WELL (218.00),U.S. House,2,DEM,Tom O'Halleran,817,103,713,1
+Yavapai,FORT (219.00),U.S. House,2,DEM,Tom O'Halleran,1558,145,1409,4
+Yavapai,RIM (220.00),U.S. House,2,DEM,Tom O'Halleran,9,1,8,0
+Yavapai,SALT (221.00),U.S. House,2,DEM,Tom O'Halleran,91,8,83,0
+Yavapai,BUG (222.00),U.S. House,2,DEM,Tom O'Halleran,719,77,639,3
+Yavapai,SUNSET (223.00),U.S. House,2,DEM,Tom O'Halleran,330,41,289,0
+Yavapai,TOWERS (224.00),U.S. House,2,DEM,Tom O'Halleran,16,0,16,0
+Yavapai,IRON (225.00),U.S. House,2,DEM,Tom O'Halleran,1524,84,1439,1
+Yavapai,SPIRIT (226.00),U.S. House,2,DEM,Tom O'Halleran,19,0,19,0
+Yavapai,RUBY (227.00),U.S. House,2,DEM,Tom O'Halleran,2878,211,2665,2
+Yavapai,SCARLET (228.00),U.S. House,2,DEM,Tom O'Halleran,2436,134,2301,1
+Yavapai,ONYX (229.00),U.S. House,2,DEM,Tom O'Halleran,2690,195,2493,2
+Yavapai,AZURE (230.00),U.S. House,2,DEM,Tom O'Halleran,2243,186,2054,3
+Yavapai,QUAIL (231.00),U.S. House,2,DEM,Tom O'Halleran,108,3,105,0
+Yavapai,GHOST (232.00),U.S. House,2,DEM,Tom O'Halleran,1084,125,959,0
+Yavapai,BRIDGE (233.00),U.S. House,2,DEM,Tom O'Halleran,30,5,25,0
+Yavapai,WATSON (234.00),U.S. House,2,DEM,Tom O'Halleran,2736,83,2653,0
+Yavapai,RANCH (235.00),U.S. House,2,DEM,Tom O'Halleran,1148,37,1110,1
+Yavapai,CAMP (236.00),U.S. House,2,DEM,Tom O'Halleran,126,7,119,0
+Yavapai,BASIN (237.00),U.S. House,2,DEM,Tom O'Halleran,1116,107,1008,1
+Yavapai,GRAZE (238.00),U.S. House,2,DEM,Tom O'Halleran,1551,116,1431,4
+Yavapai,COYOTE (239.00),U.S. House,2,DEM,Tom O'Halleran,534,26,507,1
+Yavapai,CARS (240.00),U.S. House,2,DEM,Tom O'Halleran,145,24,121,0
+Yavapai,STONE (241.00),U.S. House,2,DEM,Tom O'Halleran,107,25,82,0
+Yavapai,WATER (242.00),U.S. House,2,DEM,Tom O'Halleran,1713,71,1637,5
+Yavapai,BURRO (243.00),U.S. House,2,DEM,Tom O'Halleran,1994,123,1868,3
+Yavapai,BISON (244.00),U.S. House,2,DEM,Tom O'Halleran,2655,168,2485,2
+Yavapai,BIGHORN (245.00),U.S. House,2,DEM,Tom O'Halleran,1229,100,1129,0
+Yavapai,LASSO (246.00),U.S. House,2,DEM,Tom O'Halleran,43,3,40,0
+Yavapai,CHAPS (247.00),U.S. House,2,DEM,Tom O'Halleran,0,0,0,0
+Yavapai,SPURS (248.00),U.S. House,2,DEM,Tom O'Halleran,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,COURT (202.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,FAIR (203.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,GOLF (204.00),U.S. House,2,Write-in,Chris Sarappo,2,0,2,0
+Yavapai,MINE (205.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,HILL (206.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,YARN (208.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,WICK (209.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,SKULL (213.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,KIRK (214.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,BUCK (215.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,CREEK (216.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,WIND (217.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,WELL (218.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,FORT (219.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,RIM (220.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,SALT (221.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,BUG (222.00),U.S. House,2,Write-in,Chris Sarappo,1,1,0,0
+Yavapai,SUNSET (223.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,IRON (225.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,SPIRIT (226.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,RUBY (227.00),U.S. House,2,Write-in,Chris Sarappo,3,0,3,0
+Yavapai,SCARLET (228.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,ONYX (229.00),U.S. House,2,Write-in,Chris Sarappo,2,0,2,0
+Yavapai,AZURE (230.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,QUAIL (231.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,GHOST (232.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,BRIDGE (233.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,WATSON (234.00),U.S. House,2,Write-in,Chris Sarappo,3,0,3,0
+Yavapai,RANCH (235.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,CAMP (236.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,BASIN (237.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,GRAZE (238.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,COYOTE (239.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,CARS (240.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,STONE (241.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,WATER (242.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,BURRO (243.00),U.S. House,2,Write-in,Chris Sarappo,4,1,3,0
+Yavapai,BISON (244.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,BIGHORN (245.00),U.S. House,2,Write-in,Chris Sarappo,1,0,1,0
+Yavapai,LASSO (246.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,SPURS (248.00),U.S. House,2,Write-in,Chris Sarappo,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. House,2,,Write-in,6,2,4,0
+Yavapai,COURT (202.00),U.S. House,2,,Write-in,4,0,4,0
+Yavapai,FAIR (203.00),U.S. House,2,,Write-in,7,1,6,0
+Yavapai,GOLF (204.00),U.S. House,2,,Write-in,7,1,6,0
+Yavapai,MINE (205.00),U.S. House,2,,Write-in,1,1,0,0
+Yavapai,HILL (206.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. House,2,,Write-in,1,0,1,0
+Yavapai,YARN (208.00),U.S. House,2,,Write-in,1,0,1,0
+Yavapai,WICK (209.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,SKULL (213.00),U.S. House,2,,Write-in,1,1,0,0
+Yavapai,KIRK (214.00),U.S. House,2,,Write-in,1,0,1,0
+Yavapai,BUCK (215.00),U.S. House,2,,Write-in,4,1,3,0
+Yavapai,CREEK (216.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,WIND (217.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,WELL (218.00),U.S. House,2,,Write-in,1,1,0,0
+Yavapai,FORT (219.00),U.S. House,2,,Write-in,2,0,2,0
+Yavapai,RIM (220.00),U.S. House,2,,Write-in,1,0,1,0
+Yavapai,SALT (221.00),U.S. House,2,,Write-in,1,0,1,0
+Yavapai,BUG (222.00),U.S. House,2,,Write-in,7,1,6,0
+Yavapai,SUNSET (223.00),U.S. House,2,,Write-in,3,2,1,0
+Yavapai,TOWERS (224.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,IRON (225.00),U.S. House,2,,Write-in,7,3,4,0
+Yavapai,SPIRIT (226.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,RUBY (227.00),U.S. House,2,,Write-in,4,1,3,0
+Yavapai,SCARLET (228.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,ONYX (229.00),U.S. House,2,,Write-in,7,3,4,0
+Yavapai,AZURE (230.00),U.S. House,2,,Write-in,7,1,6,0
+Yavapai,QUAIL (231.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,GHOST (232.00),U.S. House,2,,Write-in,2,0,2,0
+Yavapai,BRIDGE (233.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,WATSON (234.00),U.S. House,2,,Write-in,11,5,6,0
+Yavapai,RANCH (235.00),U.S. House,2,,Write-in,2,0,2,0
+Yavapai,CAMP (236.00),U.S. House,2,,Write-in,1,0,1,0
+Yavapai,BASIN (237.00),U.S. House,2,,Write-in,4,2,2,0
+Yavapai,GRAZE (238.00),U.S. House,2,,Write-in,10,2,8,0
+Yavapai,COYOTE (239.00),U.S. House,2,,Write-in,2,0,2,0
+Yavapai,CARS (240.00),U.S. House,2,,Write-in,1,0,1,0
+Yavapai,STONE (241.00),U.S. House,2,,Write-in,1,0,1,0
+Yavapai,WATER (242.00),U.S. House,2,,Write-in,2,0,2,0
+Yavapai,BURRO (243.00),U.S. House,2,,Write-in,10,0,9,1
+Yavapai,BISON (244.00),U.S. House,2,,Write-in,4,0,4,0
+Yavapai,BIGHORN (245.00),U.S. House,2,,Write-in,9,0,9,0
+Yavapai,LASSO (246.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,SPURS (248.00),U.S. House,2,,Write-in,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,COURT (202.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,FAIR (203.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,GOLF (204.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,MINE (205.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,HILL (206.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,MESQUITE (207.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,YARN (208.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,WICK (209.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,WALNUT (210.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,SPRINGS (211.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,SKULL (213.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,KIRK (214.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,BUCK (215.00),U.S. House,2,,Over Votes,3,0,3,0
+Yavapai,CREEK (216.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,WIND (217.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,WELL (218.00),U.S. House,2,,Over Votes,3,2,1,0
+Yavapai,FORT (219.00),U.S. House,2,,Over Votes,2,1,1,0
+Yavapai,RIM (220.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,SALT (221.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,BUG (222.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,SUNSET (223.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,TOWERS (224.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,IRON (225.00),U.S. House,2,,Over Votes,2,0,2,0
+Yavapai,SPIRIT (226.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,RUBY (227.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,SCARLET (228.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,ONYX (229.00),U.S. House,2,,Over Votes,1,1,0,0
+Yavapai,AZURE (230.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,QUAIL (231.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,GHOST (232.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,BRIDGE (233.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,WATSON (234.00),U.S. House,2,,Over Votes,2,0,2,0
+Yavapai,RANCH (235.00),U.S. House,2,,Over Votes,2,0,2,0
+Yavapai,CAMP (236.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,BASIN (237.00),U.S. House,2,,Over Votes,2,0,2,0
+Yavapai,GRAZE (238.00),U.S. House,2,,Over Votes,7,1,6,0
+Yavapai,COYOTE (239.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,CARS (240.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,STONE (241.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,WATER (242.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,BURRO (243.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,BISON (244.00),U.S. House,2,,Over Votes,1,0,1,0
+Yavapai,BIGHORN (245.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,LASSO (246.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,CHAPS (247.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,SPURS (248.00),U.S. House,2,,Over Votes,0,0,0,0
+Yavapai,EAGLE (201.00),U.S. House,2,,Under Votes,153,14,139,0
+Yavapai,COURT (202.00),U.S. House,2,,Under Votes,116,14,102,0
+Yavapai,FAIR (203.00),U.S. House,2,,Under Votes,77,4,72,1
+Yavapai,GOLF (204.00),U.S. House,2,,Under Votes,126,13,113,0
+Yavapai,MINE (205.00),U.S. House,2,,Under Votes,8,5,3,0
+Yavapai,HILL (206.00),U.S. House,2,,Under Votes,5,1,4,0
+Yavapai,MESQUITE (207.00),U.S. House,2,,Under Votes,21,4,17,0
+Yavapai,YARN (208.00),U.S. House,2,,Under Votes,17,4,12,1
+Yavapai,WICK (209.00),U.S. House,2,,Under Votes,15,5,10,0
+Yavapai,WALNUT (210.00),U.S. House,2,,Under Votes,1,0,1,0
+Yavapai,SPRINGS (211.00),U.S. House,2,,Under Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),U.S. House,2,,Under Votes,0,0,0,0
+Yavapai,SKULL (213.00),U.S. House,2,,Under Votes,3,1,2,0
+Yavapai,KIRK (214.00),U.S. House,2,,Under Votes,13,1,12,0
+Yavapai,BUCK (215.00),U.S. House,2,,Under Votes,62,10,52,0
+Yavapai,CREEK (216.00),U.S. House,2,,Under Votes,25,5,20,0
+Yavapai,WIND (217.00),U.S. House,2,,Under Votes,1,1,0,0
+Yavapai,WELL (218.00),U.S. House,2,,Under Votes,33,11,22,0
+Yavapai,FORT (219.00),U.S. House,2,,Under Votes,82,17,65,0
+Yavapai,RIM (220.00),U.S. House,2,,Under Votes,1,0,1,0
+Yavapai,SALT (221.00),U.S. House,2,,Under Votes,4,2,2,0
+Yavapai,BUG (222.00),U.S. House,2,,Under Votes,51,19,32,0
+Yavapai,SUNSET (223.00),U.S. House,2,,Under Votes,33,16,17,0
+Yavapai,TOWERS (224.00),U.S. House,2,,Under Votes,3,1,2,0
+Yavapai,IRON (225.00),U.S. House,2,,Under Votes,124,20,104,0
+Yavapai,SPIRIT (226.00),U.S. House,2,,Under Votes,0,0,0,0
+Yavapai,RUBY (227.00),U.S. House,2,,Under Votes,94,26,67,1
+Yavapai,SCARLET (228.00),U.S. House,2,,Under Votes,55,11,44,0
+Yavapai,ONYX (229.00),U.S. House,2,,Under Votes,104,17,87,0
+Yavapai,AZURE (230.00),U.S. House,2,,Under Votes,86,16,70,0
+Yavapai,QUAIL (231.00),U.S. House,2,,Under Votes,4,1,3,0
+Yavapai,GHOST (232.00),U.S. House,2,,Under Votes,52,10,42,0
+Yavapai,BRIDGE (233.00),U.S. House,2,,Under Votes,0,0,0,0
+Yavapai,WATSON (234.00),U.S. House,2,,Under Votes,174,15,159,0
+Yavapai,RANCH (235.00),U.S. House,2,,Under Votes,74,15,59,0
+Yavapai,CAMP (236.00),U.S. House,2,,Under Votes,7,0,7,0
+Yavapai,BASIN (237.00),U.S. House,2,,Under Votes,83,8,75,0
+Yavapai,GRAZE (238.00),U.S. House,2,,Under Votes,123,23,100,0
+Yavapai,COYOTE (239.00),U.S. House,2,,Under Votes,38,6,32,0
+Yavapai,CARS (240.00),U.S. House,2,,Under Votes,15,1,14,0
+Yavapai,STONE (241.00),U.S. House,2,,Under Votes,6,2,3,1
+Yavapai,WATER (242.00),U.S. House,2,,Under Votes,98,10,87,1
+Yavapai,BURRO (243.00),U.S. House,2,,Under Votes,114,15,99,0
+Yavapai,BISON (244.00),U.S. House,2,,Under Votes,145,24,120,1
+Yavapai,BIGHORN (245.00),U.S. House,2,,Under Votes,71,10,61,0
+Yavapai,LASSO (246.00),U.S. House,2,,Under Votes,1,1,0,0
+Yavapai,CHAPS (247.00),U.S. House,2,,Under Votes,0,0,0,0
+Yavapai,SPURS (248.00),U.S. House,2,,Under Votes,0,0,0,0
+Yavapai,EAGLE (201.00),Governor,,REP,Kari Lake,4265,592,3664,9
+Yavapai,COURT (202.00),Governor,,REP,Kari Lake,2528,477,2044,7
+Yavapai,FAIR (203.00),Governor,,REP,Kari Lake,2217,344,1865,8
+Yavapai,GOLF (204.00),Governor,,REP,Kari Lake,3170,445,2719,6
+Yavapai,MINE (205.00),Governor,,REP,Kari Lake,422,247,170,5
+Yavapai,HILL (206.00),Governor,,REP,Kari Lake,62,15,47,0
+Yavapai,MESQUITE (207.00),Governor,,REP,Kari Lake,870,244,626,0
+Yavapai,YARN (208.00),Governor,,REP,Kari Lake,491,162,329,0
+Yavapai,WICK (209.00),Governor,,REP,Kari Lake,873,207,664,2
+Yavapai,WALNUT (210.00),Governor,,REP,Kari Lake,40,5,35,0
+Yavapai,SPRINGS (211.00),Governor,,REP,Kari Lake,20,0,20,0
+Yavapai,PLEASANT (212.00),Governor,,REP,Kari Lake,0,0,0,0
+Yavapai,SKULL (213.00),Governor,,REP,Kari Lake,235,39,196,0
+Yavapai,KIRK (214.00),Governor,,REP,Kari Lake,429,90,339,0
+Yavapai,BUCK (215.00),Governor,,REP,Kari Lake,2557,420,2132,5
+Yavapai,CREEK (216.00),Governor,,REP,Kari Lake,1161,362,796,3
+Yavapai,WIND (217.00),Governor,,REP,Kari Lake,59,14,45,0
+Yavapai,WELL (218.00),Governor,,REP,Kari Lake,1287,450,836,1
+Yavapai,FORT (219.00),Governor,,REP,Kari Lake,3419,938,2467,14
+Yavapai,RIM (220.00),Governor,,REP,Kari Lake,15,6,9,0
+Yavapai,SALT (221.00),Governor,,REP,Kari Lake,219,48,171,0
+Yavapai,BUG (222.00),Governor,,REP,Kari Lake,1797,577,1208,12
+Yavapai,SUNSET (223.00),Governor,,REP,Kari Lake,975,398,574,3
+Yavapai,TOWERS (224.00),Governor,,REP,Kari Lake,65,6,59,0
+Yavapai,IRON (225.00),Governor,,REP,Kari Lake,4057,1025,3023,9
+Yavapai,SPIRIT (226.00),Governor,,REP,Kari Lake,33,15,18,0
+Yavapai,RUBY (227.00),Governor,,REP,Kari Lake,1854,542,1308,4
+Yavapai,SCARLET (228.00),Governor,,REP,Kari Lake,1689,474,1210,5
+Yavapai,ONYX (229.00),Governor,,REP,Kari Lake,3382,789,2582,11
+Yavapai,AZURE (230.00),Governor,,REP,Kari Lake,2647,708,1934,5
+Yavapai,QUAIL (231.00),Governor,,REP,Kari Lake,246,54,192,0
+Yavapai,GHOST (232.00),Governor,,REP,Kari Lake,954,291,662,1
+Yavapai,BRIDGE (233.00),Governor,,REP,Kari Lake,30,9,21,0
+Yavapai,WATSON (234.00),Governor,,REP,Kari Lake,5075,731,4332,12
+Yavapai,RANCH (235.00),Governor,,REP,Kari Lake,3290,647,2639,4
+Yavapai,CAMP (236.00),Governor,,REP,Kari Lake,437,88,349,0
+Yavapai,BASIN (237.00),Governor,,REP,Kari Lake,3853,1127,2717,9
+Yavapai,GRAZE (238.00),Governor,,REP,Kari Lake,4897,1409,3467,21
+Yavapai,COYOTE (239.00),Governor,,REP,Kari Lake,2665,566,2093,6
+Yavapai,CARS (240.00),Governor,,REP,Kari Lake,590,203,386,1
+Yavapai,STONE (241.00),Governor,,REP,Kari Lake,320,133,185,2
+Yavapai,WATER (242.00),Governor,,REP,Kari Lake,3739,593,3140,6
+Yavapai,BURRO (243.00),Governor,,REP,Kari Lake,4203,836,3362,5
+Yavapai,BISON (244.00),Governor,,REP,Kari Lake,5268,1150,4106,12
+Yavapai,BIGHORN (245.00),Governor,,REP,Kari Lake,2276,532,1732,12
+Yavapai,LASSO (246.00),Governor,,REP,Kari Lake,149,42,107,0
+Yavapai,CHAPS (247.00),Governor,,REP,Kari Lake,2,2,0,0
+Yavapai,SPURS (248.00),Governor,,REP,Kari Lake,0,0,0,0
+Yavapai,EAGLE (201.00),Governor,,DEM,Katie Hobbs,2797,94,2702,1
+Yavapai,COURT (202.00),Governor,,DEM,Katie Hobbs,2245,151,2092,2
+Yavapai,FAIR (203.00),Governor,,DEM,Katie Hobbs,1661,68,1590,3
+Yavapai,GOLF (204.00),Governor,,DEM,Katie Hobbs,2532,131,2400,1
+Yavapai,MINE (205.00),Governor,,DEM,Katie Hobbs,104,35,68,1
+Yavapai,HILL (206.00),Governor,,DEM,Katie Hobbs,2,0,2,0
+Yavapai,MESQUITE (207.00),Governor,,DEM,Katie Hobbs,307,24,283,0
+Yavapai,YARN (208.00),Governor,,DEM,Katie Hobbs,212,29,181,2
+Yavapai,WICK (209.00),Governor,,DEM,Katie Hobbs,309,31,278,0
+Yavapai,WALNUT (210.00),Governor,,DEM,Katie Hobbs,18,2,15,1
+Yavapai,SPRINGS (211.00),Governor,,DEM,Katie Hobbs,6,0,6,0
+Yavapai,PLEASANT (212.00),Governor,,DEM,Katie Hobbs,0,0,0,0
+Yavapai,SKULL (213.00),Governor,,DEM,Katie Hobbs,76,5,71,0
+Yavapai,KIRK (214.00),Governor,,DEM,Katie Hobbs,130,13,117,0
+Yavapai,BUCK (215.00),Governor,,DEM,Katie Hobbs,1232,45,1187,0
+Yavapai,CREEK (216.00),Governor,,DEM,Katie Hobbs,823,85,737,1
+Yavapai,WIND (217.00),Governor,,DEM,Katie Hobbs,37,6,31,0
+Yavapai,WELL (218.00),Governor,,DEM,Katie Hobbs,794,104,689,1
+Yavapai,FORT (219.00),Governor,,DEM,Katie Hobbs,1538,131,1404,3
+Yavapai,RIM (220.00),Governor,,DEM,Katie Hobbs,8,1,7,0
+Yavapai,SALT (221.00),Governor,,DEM,Katie Hobbs,92,9,83,0
+Yavapai,BUG (222.00),Governor,,DEM,Katie Hobbs,712,79,631,2
+Yavapai,SUNSET (223.00),Governor,,DEM,Katie Hobbs,331,46,285,0
+Yavapai,TOWERS (224.00),Governor,,DEM,Katie Hobbs,18,0,18,0
+Yavapai,IRON (225.00),Governor,,DEM,Katie Hobbs,1506,87,1418,1
+Yavapai,SPIRIT (226.00),Governor,,DEM,Katie Hobbs,16,0,16,0
+Yavapai,RUBY (227.00),Governor,,DEM,Katie Hobbs,2857,210,2645,2
+Yavapai,SCARLET (228.00),Governor,,DEM,Katie Hobbs,2460,143,2316,1
+Yavapai,ONYX (229.00),Governor,,DEM,Katie Hobbs,2686,182,2502,2
+Yavapai,AZURE (230.00),Governor,,DEM,Katie Hobbs,2265,187,2074,4
+Yavapai,QUAIL (231.00),Governor,,DEM,Katie Hobbs,112,7,105,0
+Yavapai,GHOST (232.00),Governor,,DEM,Katie Hobbs,1104,133,971,0
+Yavapai,BRIDGE (233.00),Governor,,DEM,Katie Hobbs,27,4,23,0
+Yavapai,WATSON (234.00),Governor,,DEM,Katie Hobbs,2832,76,2756,0
+Yavapai,RANCH (235.00),Governor,,DEM,Katie Hobbs,1156,41,1114,1
+Yavapai,CAMP (236.00),Governor,,DEM,Katie Hobbs,123,6,117,0
+Yavapai,BASIN (237.00),Governor,,DEM,Katie Hobbs,1103,108,994,1
+Yavapai,GRAZE (238.00),Governor,,DEM,Katie Hobbs,1554,109,1439,6
+Yavapai,COYOTE (239.00),Governor,,DEM,Katie Hobbs,526,24,501,1
+Yavapai,CARS (240.00),Governor,,DEM,Katie Hobbs,143,23,120,0
+Yavapai,STONE (241.00),Governor,,DEM,Katie Hobbs,109,23,85,1
+Yavapai,WATER (242.00),Governor,,DEM,Katie Hobbs,1746,63,1679,4
+Yavapai,BURRO (243.00),Governor,,DEM,Katie Hobbs,2017,119,1895,3
+Yavapai,BISON (244.00),Governor,,DEM,Katie Hobbs,2688,160,2526,2
+Yavapai,BIGHORN (245.00),Governor,,DEM,Katie Hobbs,1260,102,1158,0
+Yavapai,LASSO (246.00),Governor,,DEM,Katie Hobbs,42,2,40,0
+Yavapai,CHAPS (247.00),Governor,,DEM,Katie Hobbs,0,0,0,0
+Yavapai,SPURS (248.00),Governor,,DEM,Katie Hobbs,0,0,0,0
+Yavapai,EAGLE (201.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,COURT (202.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,FAIR (203.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,GOLF (204.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,MINE (205.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,HILL (206.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,MESQUITE (207.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,YARN (208.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,WICK (209.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,WALNUT (210.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,SPRINGS (211.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,PLEASANT (212.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,SKULL (213.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,KIRK (214.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,BUCK (215.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,CREEK (216.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,WIND (217.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,WELL (218.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,FORT (219.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,RIM (220.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,SALT (221.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,BUG (222.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,SUNSET (223.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,TOWERS (224.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,IRON (225.00),Governor,,Write-in,Steph Noelle Denny,1,0,1,0
+Yavapai,SPIRIT (226.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,RUBY (227.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,SCARLET (228.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,ONYX (229.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,AZURE (230.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,QUAIL (231.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,GHOST (232.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,BRIDGE (233.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,WATSON (234.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,RANCH (235.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,CAMP (236.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,BASIN (237.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,GRAZE (238.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,COYOTE (239.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,CARS (240.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,STONE (241.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,WATER (242.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,BURRO (243.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,BISON (244.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,BIGHORN (245.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,LASSO (246.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,CHAPS (247.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,SPURS (248.00),Governor,,Write-in,Steph Noelle Denny,0,0,0,0
+Yavapai,EAGLE (201.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,COURT (202.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,FAIR (203.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,GOLF (204.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,MINE (205.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,HILL (206.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,MESQUITE (207.00),Governor,,Write-in,Alice Novoa,1,0,1,0
+Yavapai,YARN (208.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,WICK (209.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,WALNUT (210.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,SPRINGS (211.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,PLEASANT (212.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,SKULL (213.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,KIRK (214.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,BUCK (215.00),Governor,,Write-in,Alice Novoa,3,0,3,0
+Yavapai,CREEK (216.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,WIND (217.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,WELL (218.00),Governor,,Write-in,Alice Novoa,1,0,1,0
+Yavapai,FORT (219.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,RIM (220.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,SALT (221.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,BUG (222.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,SUNSET (223.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,TOWERS (224.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,IRON (225.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,SPIRIT (226.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,RUBY (227.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,SCARLET (228.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,ONYX (229.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,AZURE (230.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,QUAIL (231.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,GHOST (232.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,BRIDGE (233.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,WATSON (234.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,RANCH (235.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,CAMP (236.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,BASIN (237.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,GRAZE (238.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,COYOTE (239.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,CARS (240.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,STONE (241.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,WATER (242.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,BURRO (243.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,BISON (244.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,BIGHORN (245.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,LASSO (246.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,CHAPS (247.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,SPURS (248.00),Governor,,Write-in,Alice Novoa,0,0,0,0
+Yavapai,EAGLE (201.00),Governor,,Write-in,Mikaela Lutes-Burton,1,0,1,0
+Yavapai,COURT (202.00),Governor,,Write-in,Mikaela Lutes-Burton,1,0,1,0
+Yavapai,FAIR (203.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,GOLF (204.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,MINE (205.00),Governor,,Write-in,Mikaela Lutes-Burton,1,0,1,0
+Yavapai,HILL (206.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,MESQUITE (207.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,YARN (208.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,WICK (209.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,WALNUT (210.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,SPRINGS (211.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,PLEASANT (212.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,SKULL (213.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,KIRK (214.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,BUCK (215.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,CREEK (216.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,WIND (217.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,WELL (218.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,FORT (219.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,RIM (220.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,SALT (221.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,BUG (222.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,SUNSET (223.00),Governor,,Write-in,Mikaela Lutes-Burton,1,0,1,0
+Yavapai,TOWERS (224.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,IRON (225.00),Governor,,Write-in,Mikaela Lutes-Burton,2,0,2,0
+Yavapai,SPIRIT (226.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,RUBY (227.00),Governor,,Write-in,Mikaela Lutes-Burton,1,0,1,0
+Yavapai,SCARLET (228.00),Governor,,Write-in,Mikaela Lutes-Burton,1,0,1,0
+Yavapai,ONYX (229.00),Governor,,Write-in,Mikaela Lutes-Burton,2,0,2,0
+Yavapai,AZURE (230.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,QUAIL (231.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,GHOST (232.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,BRIDGE (233.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,WATSON (234.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,RANCH (235.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,CAMP (236.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,BASIN (237.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,GRAZE (238.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,COYOTE (239.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,CARS (240.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,STONE (241.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,WATER (242.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,BURRO (243.00),Governor,,Write-in,Mikaela Lutes-Burton,1,1,0,0
+Yavapai,BISON (244.00),Governor,,Write-in,Mikaela Lutes-Burton,1,1,0,0
+Yavapai,BIGHORN (245.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,LASSO (246.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,CHAPS (247.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,SPURS (248.00),Governor,,Write-in,Mikaela Lutes-Burton,0,0,0,0
+Yavapai,EAGLE (201.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,COURT (202.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,FAIR (203.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,GOLF (204.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,MINE (205.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,HILL (206.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,MESQUITE (207.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,YARN (208.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,WICK (209.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,WALNUT (210.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,SPRINGS (211.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,PLEASANT (212.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,SKULL (213.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,KIRK (214.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,BUCK (215.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,CREEK (216.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,WIND (217.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,WELL (218.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,FORT (219.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,RIM (220.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,SALT (221.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,BUG (222.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,SUNSET (223.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,TOWERS (224.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,IRON (225.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,SPIRIT (226.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,RUBY (227.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,SCARLET (228.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,ONYX (229.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,AZURE (230.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,QUAIL (231.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,GHOST (232.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,BRIDGE (233.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,WATSON (234.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,RANCH (235.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,CAMP (236.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,BASIN (237.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,GRAZE (238.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,COYOTE (239.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,CARS (240.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,STONE (241.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,WATER (242.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,BURRO (243.00),Governor,,Write-in,Anthony Camboni,1,0,1,0
+Yavapai,BISON (244.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,BIGHORN (245.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,LASSO (246.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,CHAPS (247.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,SPURS (248.00),Governor,,Write-in,Anthony Camboni,0,0,0,0
+Yavapai,EAGLE (201.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,COURT (202.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,FAIR (203.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,GOLF (204.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,MINE (205.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,HILL (206.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,MESQUITE (207.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,YARN (208.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,WICK (209.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,WALNUT (210.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,SPRINGS (211.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,PLEASANT (212.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,SKULL (213.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,KIRK (214.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,BUCK (215.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,CREEK (216.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,WIND (217.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,WELL (218.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,FORT (219.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,RIM (220.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,SALT (221.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,BUG (222.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,SUNSET (223.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,TOWERS (224.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,IRON (225.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,SPIRIT (226.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,RUBY (227.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,SCARLET (228.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,ONYX (229.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,AZURE (230.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,QUAIL (231.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,GHOST (232.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,BRIDGE (233.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,WATSON (234.00),Governor,,Write-in,Rayshawn Merrill,1,0,1,0
+Yavapai,RANCH (235.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,CAMP (236.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,BASIN (237.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,GRAZE (238.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,COYOTE (239.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,CARS (240.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,STONE (241.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,WATER (242.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,BURRO (243.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,BISON (244.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,BIGHORN (245.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,LASSO (246.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,CHAPS (247.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,SPURS (248.00),Governor,,Write-in,Rayshawn Merrill,0,0,0,0
+Yavapai,EAGLE (201.00),Governor,,Write-in,William Josue Pounds IV,2,0,2,0
+Yavapai,COURT (202.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,FAIR (203.00),Governor,,Write-in,William Josue Pounds IV,1,0,1,0
+Yavapai,GOLF (204.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,MINE (205.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,HILL (206.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,MESQUITE (207.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,YARN (208.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,WICK (209.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,WALNUT (210.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,SPRINGS (211.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,PLEASANT (212.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,SKULL (213.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,KIRK (214.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,BUCK (215.00),Governor,,Write-in,William Josue Pounds IV,1,0,1,0
+Yavapai,CREEK (216.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,WIND (217.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,WELL (218.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,FORT (219.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,RIM (220.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,SALT (221.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,BUG (222.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,SUNSET (223.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,TOWERS (224.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,IRON (225.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,SPIRIT (226.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,RUBY (227.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,SCARLET (228.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,ONYX (229.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,AZURE (230.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,QUAIL (231.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,GHOST (232.00),Governor,,Write-in,William Josue Pounds IV,1,0,1,0
+Yavapai,BRIDGE (233.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,WATSON (234.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,RANCH (235.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,CAMP (236.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,BASIN (237.00),Governor,,Write-in,William Josue Pounds IV,2,0,2,0
+Yavapai,GRAZE (238.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,COYOTE (239.00),Governor,,Write-in,William Josue Pounds IV,1,0,1,0
+Yavapai,CARS (240.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,STONE (241.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,WATER (242.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,BURRO (243.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,BISON (244.00),Governor,,Write-in,William Josue Pounds IV,2,0,2,0
+Yavapai,BIGHORN (245.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,LASSO (246.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,CHAPS (247.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,SPURS (248.00),Governor,,Write-in,William Josue Pounds IV,0,0,0,0
+Yavapai,EAGLE (201.00),State Senate,1,REP,Ken Bennett,4657,600,4047,10
+Yavapai,COURT (202.00),State Senate,1,REP,Ken Bennett,2698,471,2220,7
+Yavapai,FAIR (203.00),State Senate,1,REP,Ken Bennett,2374,339,2027,8
+Yavapai,GOLF (204.00),State Senate,1,REP,Ken Bennett,3405,455,2944,6
+Yavapai,MINE (205.00),State Senate,1,REP,Ken Bennett,427,246,177,4
+Yavapai,HILL (206.00),State Senate,1,REP,Ken Bennett,61,14,47,0
+Yavapai,MESQUITE (207.00),State Senate,1,REP,Ken Bennett,909,244,665,0
+Yavapai,YARN (208.00),State Senate,1,REP,Ken Bennett,511,164,347,0
+Yavapai,WALNUT (210.00),State Senate,1,REP,Ken Bennett,41,5,36,0
+Yavapai,SPRINGS (211.00),State Senate,1,REP,Ken Bennett,22,0,22,0
+Yavapai,PLEASANT (212.00),State Senate,1,REP,Ken Bennett,0,0,0,0
+Yavapai,SKULL (213.00),State Senate,1,REP,Ken Bennett,238,37,201,0
+Yavapai,KIRK (214.00),State Senate,1,REP,Ken Bennett,434,93,341,0
+Yavapai,BUCK (215.00),State Senate,1,REP,Ken Bennett,2711,419,2287,5
+Yavapai,CREEK (216.00),State Senate,1,REP,Ken Bennett,1187,362,822,3
+Yavapai,WIND (217.00),State Senate,1,REP,Ken Bennett,58,13,45,0
+Yavapai,WELL (218.00),State Senate,1,REP,Ken Bennett,1319,452,866,1
+Yavapai,FORT (219.00),State Senate,1,REP,Ken Bennett,3517,929,2574,14
+Yavapai,RIM (220.00),State Senate,1,REP,Ken Bennett,16,6,10,0
+Yavapai,SALT (221.00),State Senate,1,REP,Ken Bennett,228,47,181,0
+Yavapai,BUG (222.00),State Senate,1,REP,Ken Bennett,1851,582,1258,11
+Yavapai,SUNSET (223.00),State Senate,1,REP,Ken Bennett,985,392,590,3
+Yavapai,TOWERS (224.00),State Senate,1,REP,Ken Bennett,68,5,63,0
+Yavapai,IRON (225.00),State Senate,1,REP,Ken Bennett,4202,1019,3174,9
+Yavapai,SPIRIT (226.00),State Senate,1,REP,Ken Bennett,31,15,16,0
+Yavapai,RUBY (227.00),State Senate,1,REP,Ken Bennett,1889,536,1349,4
+Yavapai,SCARLET (228.00),State Senate,1,REP,Ken Bennett,1780,476,1299,5
+Yavapai,ONYX (229.00),State Senate,1,REP,Ken Bennett,3542,770,2761,11
+Yavapai,AZURE (230.00),State Senate,1,REP,Ken Bennett,2781,711,2064,6
+Yavapai,QUAIL (231.00),State Senate,1,REP,Ken Bennett,254,57,197,0
+Yavapai,GHOST (232.00),State Senate,1,REP,Ken Bennett,1005,291,713,1
+Yavapai,BRIDGE (233.00),State Senate,1,REP,Ken Bennett,35,9,26,0
+Yavapai,WATSON (234.00),State Senate,1,REP,Ken Bennett,5424,720,4692,12
+Yavapai,RANCH (235.00),State Senate,1,REP,Ken Bennett,3453,646,2803,4
+Yavapai,CAMP (236.00),State Senate,1,REP,Ken Bennett,447,88,359,0
+Yavapai,BASIN (237.00),State Senate,1,REP,Ken Bennett,3955,1129,2817,9
+Yavapai,GRAZE (238.00),State Senate,1,REP,Ken Bennett,5028,1411,3594,23
+Yavapai,COYOTE (239.00),State Senate,1,REP,Ken Bennett,2713,560,2146,7
+Yavapai,CARS (240.00),State Senate,1,REP,Ken Bennett,592,204,387,1
+Yavapai,STONE (241.00),State Senate,1,REP,Ken Bennett,322,133,187,2
+Yavapai,WATER (242.00),State Senate,1,REP,Ken Bennett,3895,591,3298,6
+Yavapai,BURRO (243.00),State Senate,1,REP,Ken Bennett,4381,832,3544,5
+Yavapai,BISON (244.00),State Senate,1,REP,Ken Bennett,5504,1147,4347,10
+Yavapai,BIGHORN (245.00),State Senate,1,REP,Ken Bennett,2380,534,1834,12
+Yavapai,LASSO (246.00),State Senate,1,REP,Ken Bennett,149,41,108,0
+Yavapai,EAGLE (201.00),State Senate,1,DEM,Mike Fogel,2371,80,2291,0
+Yavapai,COURT (202.00),State Senate,1,DEM,Mike Fogel,2013,141,1870,2
+Yavapai,FAIR (203.00),State Senate,1,DEM,Mike Fogel,1459,65,1391,3
+Yavapai,GOLF (204.00),State Senate,1,DEM,Mike Fogel,2233,110,2122,1
+Yavapai,MINE (205.00),State Senate,1,DEM,Mike Fogel,93,34,57,2
+Yavapai,HILL (206.00),State Senate,1,DEM,Mike Fogel,1,0,1,0
+Yavapai,MESQUITE (207.00),State Senate,1,DEM,Mike Fogel,263,21,242,0
+Yavapai,YARN (208.00),State Senate,1,DEM,Mike Fogel,190,24,164,2
+Yavapai,WALNUT (210.00),State Senate,1,DEM,Mike Fogel,13,2,10,1
+Yavapai,SPRINGS (211.00),State Senate,1,DEM,Mike Fogel,4,0,4,0
+Yavapai,PLEASANT (212.00),State Senate,1,DEM,Mike Fogel,0,0,0,0
+Yavapai,SKULL (213.00),State Senate,1,DEM,Mike Fogel,69,5,64,0
+Yavapai,KIRK (214.00),State Senate,1,DEM,Mike Fogel,113,11,102,0
+Yavapai,BUCK (215.00),State Senate,1,DEM,Mike Fogel,1044,35,1009,0
+Yavapai,CREEK (216.00),State Senate,1,DEM,Mike Fogel,769,79,689,1
+Yavapai,WIND (217.00),State Senate,1,DEM,Mike Fogel,37,6,31,0
+Yavapai,WELL (218.00),State Senate,1,DEM,Mike Fogel,733,87,645,1
+Yavapai,FORT (219.00),State Senate,1,DEM,Mike Fogel,1386,128,1255,3
+Yavapai,RIM (220.00),State Senate,1,DEM,Mike Fogel,6,1,5,0
+Yavapai,SALT (221.00),State Senate,1,DEM,Mike Fogel,78,9,69,0
+Yavapai,BUG (222.00),State Senate,1,DEM,Mike Fogel,631,66,562,3
+Yavapai,SUNSET (223.00),State Senate,1,DEM,Mike Fogel,308,43,265,0
+Yavapai,TOWERS (224.00),State Senate,1,DEM,Mike Fogel,14,0,14,0
+Yavapai,IRON (225.00),State Senate,1,DEM,Mike Fogel,1309,81,1227,1
+Yavapai,SPIRIT (226.00),State Senate,1,DEM,Mike Fogel,17,0,17,0
+Yavapai,RUBY (227.00),State Senate,1,DEM,Mike Fogel,2726,191,2533,2
+Yavapai,SCARLET (228.00),State Senate,1,DEM,Mike Fogel,2317,127,2189,1
+Yavapai,ONYX (229.00),State Senate,1,DEM,Mike Fogel,2467,183,2282,2
+Yavapai,AZURE (230.00),State Senate,1,DEM,Mike Fogel,2052,166,1883,3
+Yavapai,QUAIL (231.00),State Senate,1,DEM,Mike Fogel,99,3,96,0
+Yavapai,GHOST (232.00),State Senate,1,DEM,Mike Fogel,1024,123,901,0
+Yavapai,BRIDGE (233.00),State Senate,1,DEM,Mike Fogel,23,4,19,0
+Yavapai,WATSON (234.00),State Senate,1,DEM,Mike Fogel,2402,72,2330,0
+Yavapai,RANCH (235.00),State Senate,1,DEM,Mike Fogel,955,32,922,1
+Yavapai,CAMP (236.00),State Senate,1,DEM,Mike Fogel,104,5,99,0
+Yavapai,BASIN (237.00),State Senate,1,DEM,Mike Fogel,964,88,875,1
+Yavapai,GRAZE (238.00),State Senate,1,DEM,Mike Fogel,1361,94,1263,4
+Yavapai,COYOTE (239.00),State Senate,1,DEM,Mike Fogel,445,24,421,0
+Yavapai,CARS (240.00),State Senate,1,DEM,Mike Fogel,129,20,109,0
+Yavapai,STONE (241.00),State Senate,1,DEM,Mike Fogel,101,20,80,1
+Yavapai,WATER (242.00),State Senate,1,DEM,Mike Fogel,1516,51,1461,4
+Yavapai,BURRO (243.00),State Senate,1,DEM,Mike Fogel,1782,110,1669,3
+Yavapai,BISON (244.00),State Senate,1,DEM,Mike Fogel,2373,147,2224,2
+Yavapai,BIGHORN (245.00),State Senate,1,DEM,Mike Fogel,1123,92,1031,0
+Yavapai,LASSO (246.00),State Senate,1,DEM,Mike Fogel,38,3,35,0
+Yavapai,EAGLE (201.00),State Senate,1,,Write-in,4,1,3,0
+Yavapai,COURT (202.00),State Senate,1,,Write-in,10,4,6,0
+Yavapai,FAIR (203.00),State Senate,1,,Write-in,7,4,3,0
+Yavapai,GOLF (204.00),State Senate,1,,Write-in,9,3,6,0
+Yavapai,MINE (205.00),State Senate,1,,Write-in,1,0,1,0
+Yavapai,HILL (206.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,MESQUITE (207.00),State Senate,1,,Write-in,3,0,3,0
+Yavapai,YARN (208.00),State Senate,1,,Write-in,1,0,1,0
+Yavapai,WALNUT (210.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,SPRINGS (211.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,PLEASANT (212.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,SKULL (213.00),State Senate,1,,Write-in,1,1,0,0
+Yavapai,KIRK (214.00),State Senate,1,,Write-in,1,0,1,0
+Yavapai,BUCK (215.00),State Senate,1,,Write-in,1,0,1,0
+Yavapai,CREEK (216.00),State Senate,1,,Write-in,1,1,0,0
+Yavapai,WIND (217.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,WELL (218.00),State Senate,1,,Write-in,3,2,1,0
+Yavapai,FORT (219.00),State Senate,1,,Write-in,10,2,8,0
+Yavapai,RIM (220.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,SALT (221.00),State Senate,1,,Write-in,3,0,3,0
+Yavapai,BUG (222.00),State Senate,1,,Write-in,7,2,5,0
+Yavapai,SUNSET (223.00),State Senate,1,,Write-in,2,2,0,0
+Yavapai,TOWERS (224.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,IRON (225.00),State Senate,1,,Write-in,10,7,3,0
+Yavapai,SPIRIT (226.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,RUBY (227.00),State Senate,1,,Write-in,4,1,3,0
+Yavapai,SCARLET (228.00),State Senate,1,,Write-in,6,2,4,0
+Yavapai,ONYX (229.00),State Senate,1,,Write-in,8,4,4,0
+Yavapai,AZURE (230.00),State Senate,1,,Write-in,10,4,6,0
+Yavapai,QUAIL (231.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,GHOST (232.00),State Senate,1,,Write-in,2,2,0,0
+Yavapai,BRIDGE (233.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,WATSON (234.00),State Senate,1,,Write-in,11,5,6,0
+Yavapai,RANCH (235.00),State Senate,1,,Write-in,6,1,5,0
+Yavapai,CAMP (236.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,BASIN (237.00),State Senate,1,,Write-in,10,6,4,0
+Yavapai,GRAZE (238.00),State Senate,1,,Write-in,13,4,9,0
+Yavapai,COYOTE (239.00),State Senate,1,,Write-in,3,0,3,0
+Yavapai,CARS (240.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,STONE (241.00),State Senate,1,,Write-in,4,1,3,0
+Yavapai,WATER (242.00),State Senate,1,,Write-in,2,2,0,0
+Yavapai,BURRO (243.00),State Senate,1,,Write-in,5,2,3,0
+Yavapai,BISON (244.00),State Senate,1,,Write-in,9,4,5,0
+Yavapai,BIGHORN (245.00),State Senate,1,,Write-in,7,2,5,0
+Yavapai,LASSO (246.00),State Senate,1,,Write-in,0,0,0,0
+Yavapai,EAGLE (201.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,COURT (202.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,FAIR (203.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,GOLF (204.00),State Senate,1,,Over Votes,1,1,0,0
+Yavapai,MINE (205.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,HILL (206.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,MESQUITE (207.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,YARN (208.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,WALNUT (210.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,SPRINGS (211.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,SKULL (213.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,KIRK (214.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,BUCK (215.00),State Senate,1,,Over Votes,2,1,1,0
+Yavapai,CREEK (216.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,WIND (217.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,WELL (218.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,FORT (219.00),State Senate,1,,Over Votes,1,0,1,0
+Yavapai,RIM (220.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,SALT (221.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,BUG (222.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,SUNSET (223.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,TOWERS (224.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,IRON (225.00),State Senate,1,,Over Votes,1,0,1,0
+Yavapai,SPIRIT (226.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,RUBY (227.00),State Senate,1,,Over Votes,2,0,2,0
+Yavapai,SCARLET (228.00),State Senate,1,,Over Votes,1,0,1,0
+Yavapai,ONYX (229.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,AZURE (230.00),State Senate,1,,Over Votes,1,0,1,0
+Yavapai,QUAIL (231.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,GHOST (232.00),State Senate,1,,Over Votes,1,0,1,0
+Yavapai,BRIDGE (233.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,WATSON (234.00),State Senate,1,,Over Votes,3,0,3,0
+Yavapai,RANCH (235.00),State Senate,1,,Over Votes,2,0,2,0
+Yavapai,CAMP (236.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,BASIN (237.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,GRAZE (238.00),State Senate,1,,Over Votes,3,0,3,0
+Yavapai,COYOTE (239.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,CARS (240.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,STONE (241.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,WATER (242.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,BURRO (243.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,BISON (244.00),State Senate,1,,Over Votes,1,0,1,0
+Yavapai,BIGHORN (245.00),State Senate,1,,Over Votes,1,0,1,0
+Yavapai,LASSO (246.00),State Senate,1,,Over Votes,0,0,0,0
+Yavapai,EAGLE (201.00),State Senate,1,,Under Votes,145,11,133,1
+Yavapai,COURT (202.00),State Senate,1,,Under Votes,122,17,105,0
+Yavapai,FAIR (203.00),State Senate,1,,Under Votes,87,8,78,1
+Yavapai,GOLF (204.00),State Senate,1,,Under Votes,119,13,106,0
+Yavapai,MINE (205.00),State Senate,1,,Under Votes,9,5,4,0
+Yavapai,HILL (206.00),State Senate,1,,Under Votes,4,1,3,0
+Yavapai,MESQUITE (207.00),State Senate,1,,Under Votes,23,9,14,0
+Yavapai,YARN (208.00),State Senate,1,,Under Votes,12,5,7,0
+Yavapai,WALNUT (210.00),State Senate,1,,Under Votes,4,0,4,0
+Yavapai,SPRINGS (211.00),State Senate,1,,Under Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),State Senate,1,,Under Votes,0,0,0,0
+Yavapai,SKULL (213.00),State Senate,1,,Under Votes,9,3,6,0
+Yavapai,KIRK (214.00),State Senate,1,,Under Votes,17,0,17,0
+Yavapai,BUCK (215.00),State Senate,1,,Under Votes,85,16,69,0
+Yavapai,CREEK (216.00),State Senate,1,,Under Votes,48,8,40,0
+Yavapai,WIND (217.00),State Senate,1,,Under Votes,2,1,1,0
+Yavapai,WELL (218.00),State Senate,1,,Under Votes,51,17,34,0
+Yavapai,FORT (219.00),State Senate,1,,Under Votes,116,23,93,0
+Yavapai,RIM (220.00),State Senate,1,,Under Votes,1,0,1,0
+Yavapai,SALT (221.00),State Senate,1,,Under Votes,7,3,4,0
+Yavapai,BUG (222.00),State Senate,1,,Under Votes,62,20,42,0
+Yavapai,SUNSET (223.00),State Senate,1,,Under Votes,38,21,17,0
+Yavapai,TOWERS (224.00),State Senate,1,,Under Votes,2,1,1,0
+Yavapai,IRON (225.00),State Senate,1,,Under Votes,134,21,113,0
+Yavapai,SPIRIT (226.00),State Senate,1,,Under Votes,1,0,1,0
+Yavapai,RUBY (227.00),State Senate,1,,Under Votes,151,40,110,1
+Yavapai,SCARLET (228.00),State Senate,1,,Under Votes,83,16,67,0
+Yavapai,ONYX (229.00),State Senate,1,,Under Votes,134,25,109,0
+Yavapai,AZURE (230.00),State Senate,1,,Under Votes,132,20,112,0
+Yavapai,QUAIL (231.00),State Senate,1,,Under Votes,7,1,6,0
+Yavapai,GHOST (232.00),State Senate,1,,Under Votes,64,13,51,0
+Yavapai,BRIDGE (233.00),State Senate,1,,Under Votes,0,0,0,0
+Yavapai,WATSON (234.00),State Senate,1,,Under Votes,169,17,152,0
+Yavapai,RANCH (235.00),State Senate,1,,Under Votes,83,19,64,0
+Yavapai,CAMP (236.00),State Senate,1,,Under Votes,12,1,11,0
+Yavapai,BASIN (237.00),State Senate,1,,Under Votes,97,22,75,0
+Yavapai,GRAZE (238.00),State Senate,1,,Under Votes,135,24,111,0
+Yavapai,COYOTE (239.00),State Senate,1,,Under Votes,59,9,50,0
+Yavapai,CARS (240.00),State Senate,1,,Under Votes,18,3,15,0
+Yavapai,STONE (241.00),State Senate,1,,Under Votes,7,3,4,0
+Yavapai,WATER (242.00),State Senate,1,,Under Votes,128,18,109,1
+Yavapai,BURRO (243.00),State Senate,1,,Under Votes,144,18,126,0
+Yavapai,BISON (244.00),State Senate,1,,Under Votes,178,22,154,2
+Yavapai,BIGHORN (245.00),State Senate,1,,Under Votes,74,15,59,0
+Yavapai,LASSO (246.00),State Senate,1,,Under Votes,6,1,5,0
+Yavapai,EAGLE (201.00),State House,1,REP,Selina Bliss,4288,545,3735,8
+Yavapai,COURT (202.00),State House,1,REP,Selina Bliss,2391,415,1970,6
+Yavapai,FAIR (203.00),State House,1,REP,Selina Bliss,2165,305,1854,6
+Yavapai,GOLF (204.00),State House,1,REP,Selina Bliss,3093,401,2687,5
+Yavapai,MINE (205.00),State House,1,REP,Selina Bliss,379,213,161,5
+Yavapai,HILL (206.00),State House,1,REP,Selina Bliss,55,12,43,0
+Yavapai,MESQUITE (207.00),State House,1,REP,Selina Bliss,839,228,611,0
+Yavapai,YARN (208.00),State House,1,REP,Selina Bliss,452,131,321,0
+Yavapai,WALNUT (210.00),State House,1,REP,Selina Bliss,37,4,33,0
+Yavapai,SPRINGS (211.00),State House,1,REP,Selina Bliss,19,0,19,0
+Yavapai,PLEASANT (212.00),State House,1,REP,Selina Bliss,0,0,0,0
+Yavapai,SKULL (213.00),State House,1,REP,Selina Bliss,202,31,171,0
+Yavapai,KIRK (214.00),State House,1,REP,Selina Bliss,405,86,319,0
+Yavapai,BUCK (215.00),State House,1,REP,Selina Bliss,2454,371,2078,5
+Yavapai,CREEK (216.00),State House,1,REP,Selina Bliss,1086,325,760,1
+Yavapai,WIND (217.00),State House,1,REP,Selina Bliss,55,13,42,0
+Yavapai,WELL (218.00),State House,1,REP,Selina Bliss,1195,400,794,1
+Yavapai,FORT (219.00),State House,1,REP,Selina Bliss,3198,827,2360,11
+Yavapai,RIM (220.00),State House,1,REP,Selina Bliss,15,5,10,0
+Yavapai,SALT (221.00),State House,1,REP,Selina Bliss,196,39,157,0
+Yavapai,BUG (222.00),State House,1,REP,Selina Bliss,1683,512,1160,11
+Yavapai,SUNSET (223.00),State House,1,REP,Selina Bliss,882,338,542,2
+Yavapai,TOWERS (224.00),State House,1,REP,Selina Bliss,61,4,57,0
+Yavapai,IRON (225.00),State House,1,REP,Selina Bliss,3716,884,2826,6
+Yavapai,SPIRIT (226.00),State House,1,REP,Selina Bliss,28,13,15,0
+Yavapai,RUBY (227.00),State House,1,REP,Selina Bliss,1729,486,1239,4
+Yavapai,SCARLET (228.00),State House,1,REP,Selina Bliss,1664,449,1210,5
+Yavapai,ONYX (229.00),State House,1,REP,Selina Bliss,3198,672,2515,11
+Yavapai,AZURE (230.00),State House,1,REP,Selina Bliss,2562,640,1917,5
+Yavapai,QUAIL (231.00),State House,1,REP,Selina Bliss,234,49,185,0
+Yavapai,GHOST (232.00),State House,1,REP,Selina Bliss,930,272,657,1
+Yavapai,BRIDGE (233.00),State House,1,REP,Selina Bliss,27,7,20,0
+Yavapai,WATSON (234.00),State House,1,REP,Selina Bliss,4961,655,4295,11
+Yavapai,RANCH (235.00),State House,1,REP,Selina Bliss,3096,553,2540,3
+Yavapai,CAMP (236.00),State House,1,REP,Selina Bliss,402,71,331,0
+Yavapai,BASIN (237.00),State House,1,REP,Selina Bliss,3507,966,2533,8
+Yavapai,GRAZE (238.00),State House,1,REP,Selina Bliss,4595,1268,3307,20
+Yavapai,COYOTE (239.00),State House,1,REP,Selina Bliss,2451,500,1945,6
+Yavapai,CARS (240.00),State House,1,REP,Selina Bliss,544,187,357,0
+Yavapai,STONE (241.00),State House,1,REP,Selina Bliss,290,111,177,2
+Yavapai,WATER (242.00),State House,1,REP,Selina Bliss,3630,525,3099,6
+Yavapai,BURRO (243.00),State House,1,REP,Selina Bliss,3995,734,3257,4
+Yavapai,BISON (244.00),State House,1,REP,Selina Bliss,5027,1027,3989,11
+Yavapai,BIGHORN (245.00),State House,1,REP,Selina Bliss,2146,485,1649,12
+Yavapai,LASSO (246.00),State House,1,REP,Selina Bliss,142,41,101,0
+Yavapai,EAGLE (201.00),State House,1,REP,Quang Nguyen,4311,534,3768,9
+Yavapai,COURT (202.00),State House,1,REP,Quang Nguyen,2476,438,2032,6
+Yavapai,FAIR (203.00),State House,1,REP,Quang Nguyen,2173,318,1850,5
+Yavapai,GOLF (204.00),State House,1,REP,Quang Nguyen,3177,421,2751,5
+Yavapai,MINE (205.00),State House,1,REP,Quang Nguyen,348,195,150,3
+Yavapai,HILL (206.00),State House,1,REP,Quang Nguyen,55,12,43,0
+Yavapai,MESQUITE (207.00),State House,1,REP,Quang Nguyen,802,212,590,0
+Yavapai,YARN (208.00),State House,1,REP,Quang Nguyen,458,153,305,0
+Yavapai,WALNUT (210.00),State House,1,REP,Quang Nguyen,40,5,35,0
+Yavapai,SPRINGS (211.00),State House,1,REP,Quang Nguyen,20,0,20,0
+Yavapai,PLEASANT (212.00),State House,1,REP,Quang Nguyen,0,0,0,0
+Yavapai,SKULL (213.00),State House,1,REP,Quang Nguyen,224,36,188,0
+Yavapai,KIRK (214.00),State House,1,REP,Quang Nguyen,393,81,312,0
+Yavapai,BUCK (215.00),State House,1,REP,Quang Nguyen,2522,381,2136,5
+Yavapai,CREEK (216.00),State House,1,REP,Quang Nguyen,1047,311,734,2
+Yavapai,WIND (217.00),State House,1,REP,Quang Nguyen,56,13,43,0
+Yavapai,WELL (218.00),State House,1,REP,Quang Nguyen,1139,370,768,1
+Yavapai,FORT (219.00),State House,1,REP,Quang Nguyen,3172,819,2344,9
+Yavapai,RIM (220.00),State House,1,REP,Quang Nguyen,11,5,6,0
+Yavapai,SALT (221.00),State House,1,REP,Quang Nguyen,205,41,164,0
+Yavapai,BUG (222.00),State House,1,REP,Quang Nguyen,1613,496,1108,9
+Yavapai,SUNSET (223.00),State House,1,REP,Quang Nguyen,886,353,530,3
+Yavapai,TOWERS (224.00),State House,1,REP,Quang Nguyen,56,5,51,0
+Yavapai,IRON (225.00),State House,1,REP,Quang Nguyen,3860,915,2938,7
+Yavapai,SPIRIT (226.00),State House,1,REP,Quang Nguyen,24,13,11,0
+Yavapai,RUBY (227.00),State House,1,REP,Quang Nguyen,1709,477,1231,1
+Yavapai,SCARLET (228.00),State House,1,REP,Quang Nguyen,1615,433,1179,3
+Yavapai,ONYX (229.00),State House,1,REP,Quang Nguyen,3166,694,2462,10
+Yavapai,AZURE (230.00),State House,1,REP,Quang Nguyen,2385,582,1800,3
+Yavapai,QUAIL (231.00),State House,1,REP,Quang Nguyen,237,52,185,0
+Yavapai,GHOST (232.00),State House,1,REP,Quang Nguyen,882,251,631,0
+Yavapai,BRIDGE (233.00),State House,1,REP,Quang Nguyen,29,8,21,0
+Yavapai,WATSON (234.00),State House,1,REP,Quang Nguyen,5026,671,4345,10
+Yavapai,RANCH (235.00),State House,1,REP,Quang Nguyen,3277,608,2665,4
+Yavapai,CAMP (236.00),State House,1,REP,Quang Nguyen,412,82,330,0
+Yavapai,BASIN (237.00),State House,1,REP,Quang Nguyen,3667,1019,2640,8
+Yavapai,GRAZE (238.00),State House,1,REP,Quang Nguyen,4584,1242,3326,16
+Yavapai,COYOTE (239.00),State House,1,REP,Quang Nguyen,2551,527,2017,7
+Yavapai,CARS (240.00),State House,1,REP,Quang Nguyen,508,160,347,1
+Yavapai,STONE (241.00),State House,1,REP,Quang Nguyen,287,113,172,2
+Yavapai,WATER (242.00),State House,1,REP,Quang Nguyen,3598,523,3071,4
+Yavapai,BURRO (243.00),State House,1,REP,Quang Nguyen,4097,757,3335,5
+Yavapai,BISON (244.00),State House,1,REP,Quang Nguyen,5035,1020,4005,10
+Yavapai,BIGHORN (245.00),State House,1,REP,Quang Nguyen,2160,466,1682,12
+Yavapai,LASSO (246.00),State House,1,REP,Quang Nguyen,139,37,102,0
+Yavapai,EAGLE (201.00),State House,1,DEM,Cathy Ransom,2426,79,2347,0
+Yavapai,COURT (202.00),State House,1,DEM,Cathy Ransom,1980,129,1849,2
+Yavapai,FAIR (203.00),State House,1,DEM,Cathy Ransom,1473,57,1414,2
+Yavapai,GOLF (204.00),State House,1,DEM,Cathy Ransom,2218,104,2113,1
+Yavapai,MINE (205.00),State House,1,DEM,Cathy Ransom,89,32,56,1
+Yavapai,HILL (206.00),State House,1,DEM,Cathy Ransom,1,0,1,0
+Yavapai,MESQUITE (207.00),State House,1,DEM,Cathy Ransom,250,20,230,0
+Yavapai,YARN (208.00),State House,1,DEM,Cathy Ransom,186,23,161,2
+Yavapai,WALNUT (210.00),State House,1,DEM,Cathy Ransom,16,3,12,1
+Yavapai,SPRINGS (211.00),State House,1,DEM,Cathy Ransom,5,0,5,0
+Yavapai,PLEASANT (212.00),State House,1,DEM,Cathy Ransom,0,0,0,0
+Yavapai,SKULL (213.00),State House,1,DEM,Cathy Ransom,72,5,67,0
+Yavapai,KIRK (214.00),State House,1,DEM,Cathy Ransom,104,8,96,0
+Yavapai,BUCK (215.00),State House,1,DEM,Cathy Ransom,1030,29,1001,0
+Yavapai,CREEK (216.00),State House,1,DEM,Cathy Ransom,759,79,679,1
+Yavapai,WIND (217.00),State House,1,DEM,Cathy Ransom,33,4,29,0
+Yavapai,WELL (218.00),State House,1,DEM,Cathy Ransom,745,92,652,1
+Yavapai,FORT (219.00),State House,1,DEM,Cathy Ransom,1373,117,1254,2
+Yavapai,RIM (220.00),State House,1,DEM,Cathy Ransom,7,1,6,0
+Yavapai,SALT (221.00),State House,1,DEM,Cathy Ransom,79,9,70,0
+Yavapai,BUG (222.00),State House,1,DEM,Cathy Ransom,608,60,547,1
+Yavapai,SUNSET (223.00),State House,1,DEM,Cathy Ransom,294,35,259,0
+Yavapai,TOWERS (224.00),State House,1,DEM,Cathy Ransom,15,0,15,0
+Yavapai,IRON (225.00),State House,1,DEM,Cathy Ransom,1297,71,1225,1
+Yavapai,SPIRIT (226.00),State House,1,DEM,Cathy Ransom,14,0,14,0
+Yavapai,RUBY (227.00),State House,1,DEM,Cathy Ransom,2674,178,2494,2
+Yavapai,SCARLET (228.00),State House,1,DEM,Cathy Ransom,2288,120,2167,1
+Yavapai,ONYX (229.00),State House,1,DEM,Cathy Ransom,2435,172,2261,2
+Yavapai,AZURE (230.00),State House,1,DEM,Cathy Ransom,2056,161,1893,2
+Yavapai,QUAIL (231.00),State House,1,DEM,Cathy Ransom,97,5,92,0
+Yavapai,GHOST (232.00),State House,1,DEM,Cathy Ransom,1033,122,911,0
+Yavapai,BRIDGE (233.00),State House,1,DEM,Cathy Ransom,27,4,23,0
+Yavapai,WATSON (234.00),State House,1,DEM,Cathy Ransom,2437,73,2364,0
+Yavapai,RANCH (235.00),State House,1,DEM,Cathy Ransom,950,35,915,0
+Yavapai,CAMP (236.00),State House,1,DEM,Cathy Ransom,110,7,103,0
+Yavapai,BASIN (237.00),State House,1,DEM,Cathy Ransom,907,79,825,3
+Yavapai,GRAZE (238.00),State House,1,DEM,Cathy Ransom,1316,89,1225,2
+Yavapai,COYOTE (239.00),State House,1,DEM,Cathy Ransom,427,20,407,0
+Yavapai,CARS (240.00),State House,1,DEM,Cathy Ransom,123,19,104,0
+Yavapai,STONE (241.00),State House,1,DEM,Cathy Ransom,95,19,75,1
+Yavapai,WATER (242.00),State House,1,DEM,Cathy Ransom,1543,51,1488,4
+Yavapai,BURRO (243.00),State House,1,DEM,Cathy Ransom,1737,90,1644,3
+Yavapai,BISON (244.00),State House,1,DEM,Cathy Ransom,2335,132,2201,2
+Yavapai,BIGHORN (245.00),State House,1,DEM,Cathy Ransom,1079,70,1009,0
+Yavapai,LASSO (246.00),State House,1,DEM,Cathy Ransom,37,3,34,0
+Yavapai,EAGLE (201.00),State House,1,DEM,Neil Sinclair,2276,67,2209,0
+Yavapai,COURT (202.00),State House,1,DEM,Neil Sinclair,1883,128,1753,2
+Yavapai,FAIR (203.00),State House,1,DEM,Neil Sinclair,1364,55,1305,4
+Yavapai,GOLF (204.00),State House,1,DEM,Neil Sinclair,2089,97,1991,1
+Yavapai,MINE (205.00),State House,1,DEM,Neil Sinclair,83,30,52,1
+Yavapai,HILL (206.00),State House,1,DEM,Neil Sinclair,1,0,1,0
+Yavapai,MESQUITE (207.00),State House,1,DEM,Neil Sinclair,207,13,194,0
+Yavapai,YARN (208.00),State House,1,DEM,Neil Sinclair,171,21,148,2
+Yavapai,WALNUT (210.00),State House,1,DEM,Neil Sinclair,14,1,12,1
+Yavapai,SPRINGS (211.00),State House,1,DEM,Neil Sinclair,3,0,3,0
+Yavapai,PLEASANT (212.00),State House,1,DEM,Neil Sinclair,0,0,0,0
+Yavapai,SKULL (213.00),State House,1,DEM,Neil Sinclair,67,3,64,0
+Yavapai,KIRK (214.00),State House,1,DEM,Neil Sinclair,98,8,90,0
+Yavapai,BUCK (215.00),State House,1,DEM,Neil Sinclair,950,28,922,0
+Yavapai,CREEK (216.00),State House,1,DEM,Neil Sinclair,700,65,635,0
+Yavapai,WIND (217.00),State House,1,DEM,Neil Sinclair,34,5,29,0
+Yavapai,WELL (218.00),State House,1,DEM,Neil Sinclair,674,77,596,1
+Yavapai,FORT (219.00),State House,1,DEM,Neil Sinclair,1256,99,1154,3
+Yavapai,RIM (220.00),State House,1,DEM,Neil Sinclair,6,1,5,0
+Yavapai,SALT (221.00),State House,1,DEM,Neil Sinclair,70,8,62,0
+Yavapai,BUG (222.00),State House,1,DEM,Neil Sinclair,552,52,500,0
+Yavapai,SUNSET (223.00),State House,1,DEM,Neil Sinclair,266,29,237,0
+Yavapai,TOWERS (224.00),State House,1,DEM,Neil Sinclair,13,0,13,0
+Yavapai,IRON (225.00),State House,1,DEM,Neil Sinclair,1220,66,1153,1
+Yavapai,SPIRIT (226.00),State House,1,DEM,Neil Sinclair,17,0,17,0
+Yavapai,RUBY (227.00),State House,1,DEM,Neil Sinclair,2563,172,2389,2
+Yavapai,SCARLET (228.00),State House,1,DEM,Neil Sinclair,2195,114,2080,1
+Yavapai,ONYX (229.00),State House,1,DEM,Neil Sinclair,2262,164,2096,2
+Yavapai,AZURE (230.00),State House,1,DEM,Neil Sinclair,1875,148,1725,2
+Yavapai,QUAIL (231.00),State House,1,DEM,Neil Sinclair,91,4,87,0
+Yavapai,GHOST (232.00),State House,1,DEM,Neil Sinclair,936,101,835,0
+Yavapai,BRIDGE (233.00),State House,1,DEM,Neil Sinclair,22,4,18,0
+Yavapai,WATSON (234.00),State House,1,DEM,Neil Sinclair,2268,57,2211,0
+Yavapai,RANCH (235.00),State House,1,DEM,Neil Sinclair,903,34,868,1
+Yavapai,CAMP (236.00),State House,1,DEM,Neil Sinclair,97,4,93,0
+Yavapai,BASIN (237.00),State House,1,DEM,Neil Sinclair,840,68,771,1
+Yavapai,GRAZE (238.00),State House,1,DEM,Neil Sinclair,1190,77,1111,2
+Yavapai,COYOTE (239.00),State House,1,DEM,Neil Sinclair,393,17,376,0
+Yavapai,CARS (240.00),State House,1,DEM,Neil Sinclair,106,16,90,0
+Yavapai,STONE (241.00),State House,1,DEM,Neil Sinclair,88,17,70,1
+Yavapai,WATER (242.00),State House,1,DEM,Neil Sinclair,1431,47,1380,4
+Yavapai,BURRO (243.00),State House,1,DEM,Neil Sinclair,1609,89,1516,4
+Yavapai,BISON (244.00),State House,1,DEM,Neil Sinclair,2091,119,1972,0
+Yavapai,BIGHORN (245.00),State House,1,DEM,Neil Sinclair,1002,71,931,0
+Yavapai,LASSO (246.00),State House,1,DEM,Neil Sinclair,34,1,33,0
+Yavapai,EAGLE (201.00),State House,1,,Write-in,4,0,4,0
+Yavapai,COURT (202.00),State House,1,,Write-in,11,2,9,0
+Yavapai,FAIR (203.00),State House,1,,Write-in,4,1,3,0
+Yavapai,GOLF (204.00),State House,1,,Write-in,3,1,2,0
+Yavapai,MINE (205.00),State House,1,,Write-in,2,2,0,0
+Yavapai,HILL (206.00),State House,1,,Write-in,0,0,0,0
+Yavapai,MESQUITE (207.00),State House,1,,Write-in,4,1,3,0
+Yavapai,YARN (208.00),State House,1,,Write-in,1,1,0,0
+Yavapai,WALNUT (210.00),State House,1,,Write-in,0,0,0,0
+Yavapai,SPRINGS (211.00),State House,1,,Write-in,0,0,0,0
+Yavapai,PLEASANT (212.00),State House,1,,Write-in,0,0,0,0
+Yavapai,SKULL (213.00),State House,1,,Write-in,2,2,0,0
+Yavapai,KIRK (214.00),State House,1,,Write-in,2,0,2,0
+Yavapai,BUCK (215.00),State House,1,,Write-in,2,0,2,0
+Yavapai,CREEK (216.00),State House,1,,Write-in,2,0,2,0
+Yavapai,WIND (217.00),State House,1,,Write-in,0,0,0,0
+Yavapai,WELL (218.00),State House,1,,Write-in,7,5,2,0
+Yavapai,FORT (219.00),State House,1,,Write-in,5,2,3,0
+Yavapai,RIM (220.00),State House,1,,Write-in,0,0,0,0
+Yavapai,SALT (221.00),State House,1,,Write-in,2,0,2,0
+Yavapai,BUG (222.00),State House,1,,Write-in,10,3,7,0
+Yavapai,SUNSET (223.00),State House,1,,Write-in,6,2,4,0
+Yavapai,TOWERS (224.00),State House,1,,Write-in,0,0,0,0
+Yavapai,IRON (225.00),State House,1,,Write-in,14,7,7,0
+Yavapai,SPIRIT (226.00),State House,1,,Write-in,0,0,0,0
+Yavapai,RUBY (227.00),State House,1,,Write-in,7,5,2,0
+Yavapai,SCARLET (228.00),State House,1,,Write-in,3,1,2,0
+Yavapai,ONYX (229.00),State House,1,,Write-in,14,6,8,0
+Yavapai,AZURE (230.00),State House,1,,Write-in,3,1,2,0
+Yavapai,QUAIL (231.00),State House,1,,Write-in,0,0,0,0
+Yavapai,GHOST (232.00),State House,1,,Write-in,2,2,0,0
+Yavapai,BRIDGE (233.00),State House,1,,Write-in,0,0,0,0
+Yavapai,WATSON (234.00),State House,1,,Write-in,11,6,5,0
+Yavapai,RANCH (235.00),State House,1,,Write-in,2,0,2,0
+Yavapai,CAMP (236.00),State House,1,,Write-in,2,0,2,0
+Yavapai,BASIN (237.00),State House,1,,Write-in,9,7,2,0
+Yavapai,GRAZE (238.00),State House,1,,Write-in,12,0,11,1
+Yavapai,COYOTE (239.00),State House,1,,Write-in,2,1,1,0
+Yavapai,CARS (240.00),State House,1,,Write-in,0,0,0,0
+Yavapai,STONE (241.00),State House,1,,Write-in,4,3,1,0
+Yavapai,WATER (242.00),State House,1,,Write-in,0,0,0,0
+Yavapai,BURRO (243.00),State House,1,,Write-in,10,3,7,0
+Yavapai,BISON (244.00),State House,1,,Write-in,5,0,5,0
+Yavapai,BIGHORN (245.00),State House,1,,Write-in,8,2,6,0
+Yavapai,LASSO (246.00),State House,1,,Write-in,0,0,0,0
+Yavapai,EAGLE (201.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,COURT (202.00),State House,1,,Over Votes,4,0,4,0
+Yavapai,FAIR (203.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,GOLF (204.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,MINE (205.00),State House,1,,Over Votes,2,2,0,0
+Yavapai,HILL (206.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,MESQUITE (207.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,YARN (208.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,WALNUT (210.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,SPRINGS (211.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,SKULL (213.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,KIRK (214.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,BUCK (215.00),State House,1,,Over Votes,2,0,2,0
+Yavapai,CREEK (216.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,WIND (217.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,WELL (218.00),State House,1,,Over Votes,2,0,2,0
+Yavapai,FORT (219.00),State House,1,,Over Votes,2,0,2,0
+Yavapai,RIM (220.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,SALT (221.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,BUG (222.00),State House,1,,Over Votes,4,0,4,0
+Yavapai,SUNSET (223.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,TOWERS (224.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,IRON (225.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,SPIRIT (226.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,RUBY (227.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,SCARLET (228.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,ONYX (229.00),State House,1,,Over Votes,8,0,8,0
+Yavapai,AZURE (230.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,QUAIL (231.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,GHOST (232.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,BRIDGE (233.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,WATSON (234.00),State House,1,,Over Votes,2,2,0,0
+Yavapai,RANCH (235.00),State House,1,,Over Votes,2,0,2,0
+Yavapai,CAMP (236.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,BASIN (237.00),State House,1,,Over Votes,2,0,2,0
+Yavapai,GRAZE (238.00),State House,1,,Over Votes,6,2,4,0
+Yavapai,COYOTE (239.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,CARS (240.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,STONE (241.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,WATER (242.00),State House,1,,Over Votes,2,0,2,0
+Yavapai,BURRO (243.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,BISON (244.00),State House,1,,Over Votes,4,0,4,0
+Yavapai,BIGHORN (245.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,LASSO (246.00),State House,1,,Over Votes,0,0,0,0
+Yavapai,EAGLE (201.00),State House,1,,Under Votes,1049,159,885,5
+Yavapai,COURT (202.00),State House,1,,Under Votes,941,154,785,2
+Yavapai,FAIR (203.00),State House,1,,Under Votes,675,96,572,7
+Yavapai,GOLF (204.00),State House,1,,Under Votes,954,140,812,2
+Yavapai,MINE (205.00),State House,1,,Under Votes,157,96,59,2
+Yavapai,HILL (206.00),State House,1,,Under Votes,20,6,14,0
+Yavapai,MESQUITE (207.00),State House,1,,Under Votes,294,74,220,0
+Yavapai,YARN (208.00),State House,1,,Under Votes,160,57,103,0
+Yavapai,WALNUT (210.00),State House,1,,Under Votes,9,1,8,0
+Yavapai,SPRINGS (211.00),State House,1,,Under Votes,5,0,5,0
+Yavapai,PLEASANT (212.00),State House,1,,Under Votes,0,0,0,0
+Yavapai,SKULL (213.00),State House,1,,Under Votes,67,15,52,0
+Yavapai,KIRK (214.00),State House,1,,Under Votes,128,25,103,0
+Yavapai,BUCK (215.00),State House,1,,Under Votes,726,133,593,0
+Yavapai,CREEK (216.00),State House,1,,Under Votes,416,120,292,4
+Yavapai,WIND (217.00),State House,1,,Under Votes,16,5,11,0
+Yavapai,WELL (218.00),State House,1,,Under Votes,450,172,278,0
+Yavapai,FORT (219.00),State House,1,,Under Votes,1054,300,745,9
+Yavapai,RIM (220.00),State House,1,,Under Votes,7,2,5,0
+Yavapai,SALT (221.00),State House,1,,Under Votes,80,21,59,0
+Yavapai,BUG (222.00),State House,1,,Under Votes,632,217,408,7
+Yavapai,SUNSET (223.00),State House,1,,Under Votes,332,159,172,1
+Yavapai,TOWERS (224.00),State House,1,,Under Votes,23,3,20,0
+Yavapai,IRON (225.00),State House,1,,Under Votes,1205,313,887,5
+Yavapai,SPIRIT (226.00),State House,1,,Under Votes,15,4,11,0
+Yavapai,RUBY (227.00),State House,1,,Under Votes,862,218,639,5
+Yavapai,SCARLET (228.00),State House,1,,Under Votes,609,125,482,2
+Yavapai,ONYX (229.00),State House,1,,Under Votes,1219,256,962,1
+Yavapai,AZURE (230.00),State House,1,,Under Votes,1071,270,795,6
+Yavapai,QUAIL (231.00),State House,1,,Under Votes,61,12,49,0
+Yavapai,GHOST (232.00),State House,1,,Under Votes,409,110,298,1
+Yavapai,BRIDGE (233.00),State House,1,,Under Votes,11,3,8,0
+Yavapai,WATSON (234.00),State House,1,,Under Votes,1313,164,1146,3
+Yavapai,RANCH (235.00),State House,1,,Under Votes,768,166,600,2
+Yavapai,CAMP (236.00),State House,1,,Under Votes,103,24,79,0
+Yavapai,BASIN (237.00),State House,1,,Under Votes,1120,351,769,0
+Yavapai,GRAZE (238.00),State House,1,,Under Votes,1377,388,976,13
+Yavapai,COYOTE (239.00),State House,1,,Under Votes,616,121,494,1
+Yavapai,CARS (240.00),State House,1,,Under Votes,197,72,124,1
+Yavapai,STONE (241.00),State House,1,,Under Votes,104,51,53,0
+Yavapai,WATER (242.00),State House,1,,Under Votes,878,178,696,4
+Yavapai,BURRO (243.00),State House,1,,Under Votes,1176,251,925,0
+Yavapai,BISON (244.00),State House,1,,Under Votes,1633,342,1286,5
+Yavapai,BIGHORN (245.00),State House,1,,Under Votes,775,192,583,0
+Yavapai,LASSO (246.00),State House,1,,Under Votes,34,8,26,0
+Yavapai,WICK (209.00),State Senate,30,REP,Sonny Borrelli,958,219,737,2
+Yavapai,CHAPS (247.00),State Senate,30,REP,Sonny Borrelli,2,2,0,0
+Yavapai,SPURS (248.00),State Senate,30,REP,Sonny Borrelli,0,0,0,0
+Yavapai,WICK (209.00),State Senate,30,,Write-in,12,3,9,0
+Yavapai,CHAPS (247.00),State Senate,30,,Write-in,0,0,0,0
+Yavapai,SPURS (248.00),State Senate,30,,Write-in,0,0,0,0
+Yavapai,WICK (209.00),State Senate,30,,Over Votes,0,0,0,0
+Yavapai,CHAPS (247.00),State Senate,30,,Over Votes,0,0,0,0
+Yavapai,SPURS (248.00),State Senate,30,,Over Votes,0,0,0,0
+Yavapai,WICK (209.00),State Senate,30,,Under Votes,221,18,203,0
+Yavapai,CHAPS (247.00),State Senate,30,,Under Votes,0,0,0,0
+Yavapai,SPURS (248.00),State Senate,30,,Under Votes,0,0,0,0
+Yavapai,WICK (209.00),State House,30,REP,Leo Bisiucci,895,208,685,2
+Yavapai,CHAPS (247.00),State House,30,REP,Leo Bisiucci,1,1,0,0
+Yavapai,SPURS (248.00),State House,30,REP,Leo Bisiucci,0,0,0,0
+Yavapai,WICK (209.00),State House,30,REP,John Gillette,752,158,593,1
+Yavapai,CHAPS (247.00),State House,30,REP,John Gillette,1,1,0,0
+Yavapai,SPURS (248.00),State House,30,REP,John Gillette,0,0,0,0
+Yavapai,WICK (209.00),State House,30,,Write-in,20,6,14,0
+Yavapai,CHAPS (247.00),State House,30,,Write-in,0,0,0,0
+Yavapai,SPURS (248.00),State House,30,,Write-in,0,0,0,0
+Yavapai,WICK (209.00),State House,30,,Over Votes,0,0,0,0
+Yavapai,CHAPS (247.00),State House,30,,Over Votes,0,0,0,0
+Yavapai,SPURS (248.00),State House,30,,Over Votes,0,0,0,0
+Yavapai,WICK (209.00),State House,30,,Under Votes,715,108,606,1
+Yavapai,CHAPS (247.00),State House,30,,Under Votes,2,2,0,0
+Yavapai,SPURS (248.00),State House,30,,Under Votes,0,0,0,0
+Yavapai,EAGLE (201.00),Secretary of State,,REP,Mark Finchem,4121,575,3537,9
+Yavapai,COURT (202.00),Secretary of State,,REP,Mark Finchem,2425,474,1944,7
+Yavapai,FAIR (203.00),Secretary of State,,REP,Mark Finchem,2150,339,1803,8
+Yavapai,GOLF (204.00),Secretary of State,,REP,Mark Finchem,3047,429,2612,6
+Yavapai,MINE (205.00),Secretary of State,,REP,Mark Finchem,405,238,162,5
+Yavapai,HILL (206.00),Secretary of State,,REP,Mark Finchem,57,15,42,0
+Yavapai,MESQUITE (207.00),Secretary of State,,REP,Mark Finchem,850,244,606,0
+Yavapai,YARN (208.00),Secretary of State,,REP,Mark Finchem,482,156,326,0
+Yavapai,WICK (209.00),Secretary of State,,REP,Mark Finchem,837,203,632,2
+Yavapai,WALNUT (210.00),Secretary of State,,REP,Mark Finchem,38,5,33,0
+Yavapai,SPRINGS (211.00),Secretary of State,,REP,Mark Finchem,19,0,19,0
+Yavapai,PLEASANT (212.00),Secretary of State,,REP,Mark Finchem,0,0,0,0
+Yavapai,SKULL (213.00),Secretary of State,,REP,Mark Finchem,224,39,185,0
+Yavapai,KIRK (214.00),Secretary of State,,REP,Mark Finchem,424,92,332,0
+Yavapai,BUCK (215.00),Secretary of State,,REP,Mark Finchem,2480,409,2066,5
+Yavapai,CREEK (216.00),Secretary of State,,REP,Mark Finchem,1103,350,750,3
+Yavapai,WIND (217.00),Secretary of State,,REP,Mark Finchem,58,13,45,0
+Yavapai,WELL (218.00),Secretary of State,,REP,Mark Finchem,1234,442,791,1
+Yavapai,FORT (219.00),Secretary of State,,REP,Mark Finchem,3293,922,2358,13
+Yavapai,RIM (220.00),Secretary of State,,REP,Mark Finchem,12,6,6,0
+Yavapai,SALT (221.00),Secretary of State,,REP,Mark Finchem,213,46,167,0
+Yavapai,BUG (222.00),Secretary of State,,REP,Mark Finchem,1755,563,1180,12
+Yavapai,SUNSET (223.00),Secretary of State,,REP,Mark Finchem,940,395,542,3
+Yavapai,TOWERS (224.00),Secretary of State,,REP,Mark Finchem,64,5,59,0
+Yavapai,IRON (225.00),Secretary of State,,REP,Mark Finchem,3919,1008,2902,9
+Yavapai,SPIRIT (226.00),Secretary of State,,REP,Mark Finchem,26,15,11,0
+Yavapai,RUBY (227.00),Secretary of State,,REP,Mark Finchem,1757,524,1229,4
+Yavapai,SCARLET (228.00),Secretary of State,,REP,Mark Finchem,1643,467,1171,5
+Yavapai,ONYX (229.00),Secretary of State,,REP,Mark Finchem,3255,768,2476,11
+Yavapai,AZURE (230.00),Secretary of State,,REP,Mark Finchem,2542,692,1845,5
+Yavapai,QUAIL (231.00),Secretary of State,,REP,Mark Finchem,234,52,182,0
+Yavapai,GHOST (232.00),Secretary of State,,REP,Mark Finchem,921,287,633,1
+Yavapai,BRIDGE (233.00),Secretary of State,,REP,Mark Finchem,30,9,21,0
+Yavapai,WATSON (234.00),Secretary of State,,REP,Mark Finchem,4882,706,4164,12
+Yavapai,RANCH (235.00),Secretary of State,,REP,Mark Finchem,3159,635,2520,4
+Yavapai,CAMP (236.00),Secretary of State,,REP,Mark Finchem,425,87,338,0
+Yavapai,BASIN (237.00),Secretary of State,,REP,Mark Finchem,3758,1128,2622,8
+Yavapai,GRAZE (238.00),Secretary of State,,REP,Mark Finchem,4750,1394,3334,22
+Yavapai,COYOTE (239.00),Secretary of State,,REP,Mark Finchem,2606,564,2036,6
+Yavapai,CARS (240.00),Secretary of State,,REP,Mark Finchem,568,196,372,0
+Yavapai,STONE (241.00),Secretary of State,,REP,Mark Finchem,319,132,185,2
+Yavapai,WATER (242.00),Secretary of State,,REP,Mark Finchem,3628,577,3045,6
+Yavapai,BURRO (243.00),Secretary of State,,REP,Mark Finchem,4038,804,3229,5
+Yavapai,BISON (244.00),Secretary of State,,REP,Mark Finchem,5109,1133,3965,11
+Yavapai,BIGHORN (245.00),Secretary of State,,REP,Mark Finchem,2217,531,1674,12
+Yavapai,LASSO (246.00),Secretary of State,,REP,Mark Finchem,143,40,103,0
+Yavapai,CHAPS (247.00),Secretary of State,,REP,Mark Finchem,2,2,0,0
+Yavapai,SPURS (248.00),Secretary of State,,REP,Mark Finchem,0,0,0,0
+Yavapai,EAGLE (201.00),Secretary of State,,DEM,Adrian Fontes,2886,98,2786,2
+Yavapai,COURT (202.00),Secretary of State,,DEM,Adrian Fontes,2284,146,2136,2
+Yavapai,FAIR (203.00),Secretary of State,,DEM,Adrian Fontes,1700,73,1624,3
+Yavapai,GOLF (204.00),Secretary of State,,DEM,Adrian Fontes,2596,140,2455,1
+Yavapai,MINE (205.00),Secretary of State,,DEM,Adrian Fontes,112,39,72,1
+Yavapai,HILL (206.00),Secretary of State,,DEM,Adrian Fontes,5,0,5,0
+Yavapai,MESQUITE (207.00),Secretary of State,,DEM,Adrian Fontes,330,26,304,0
+Yavapai,YARN (208.00),Secretary of State,,DEM,Adrian Fontes,221,33,186,2
+Yavapai,WICK (209.00),Secretary of State,,DEM,Adrian Fontes,323,32,291,0
+Yavapai,WALNUT (210.00),Secretary of State,,DEM,Adrian Fontes,17,2,14,1
+Yavapai,SPRINGS (211.00),Secretary of State,,DEM,Adrian Fontes,7,0,7,0
+Yavapai,PLEASANT (212.00),Secretary of State,,DEM,Adrian Fontes,0,0,0,0
+Yavapai,SKULL (213.00),Secretary of State,,DEM,Adrian Fontes,88,6,82,0
+Yavapai,KIRK (214.00),Secretary of State,,DEM,Adrian Fontes,130,12,118,0
+Yavapai,BUCK (215.00),Secretary of State,,DEM,Adrian Fontes,1285,46,1239,0
+Yavapai,CREEK (216.00),Secretary of State,,DEM,Adrian Fontes,859,92,766,1
+Yavapai,WIND (217.00),Secretary of State,,DEM,Adrian Fontes,37,5,32,0
+Yavapai,WELL (218.00),Secretary of State,,DEM,Adrian Fontes,829,104,724,1
+Yavapai,FORT (219.00),Secretary of State,,DEM,Adrian Fontes,1624,137,1483,4
+Yavapai,RIM (220.00),Secretary of State,,DEM,Adrian Fontes,9,1,8,0
+Yavapai,SALT (221.00),Secretary of State,,DEM,Adrian Fontes,95,10,85,0
+Yavapai,BUG (222.00),Secretary of State,,DEM,Adrian Fontes,737,83,652,2
+Yavapai,SUNSET (223.00),Secretary of State,,DEM,Adrian Fontes,361,46,315,0
+Yavapai,TOWERS (224.00),Secretary of State,,DEM,Adrian Fontes,17,0,17,0
+Yavapai,IRON (225.00),Secretary of State,,DEM,Adrian Fontes,1598,95,1502,1
+Yavapai,SPIRIT (226.00),Secretary of State,,DEM,Adrian Fontes,23,0,23,0
+Yavapai,RUBY (227.00),Secretary of State,,DEM,Adrian Fontes,2882,206,2674,2
+Yavapai,SCARLET (228.00),Secretary of State,,DEM,Adrian Fontes,2471,139,2331,1
+Yavapai,ONYX (229.00),Secretary of State,,DEM,Adrian Fontes,2771,188,2581,2
+Yavapai,AZURE (230.00),Secretary of State,,DEM,Adrian Fontes,2321,187,2131,3
+Yavapai,QUAIL (231.00),Secretary of State,,DEM,Adrian Fontes,117,8,109,0
+Yavapai,GHOST (232.00),Secretary of State,,DEM,Adrian Fontes,1129,130,999,0
+Yavapai,BRIDGE (233.00),Secretary of State,,DEM,Adrian Fontes,28,4,24,0
+Yavapai,WATSON (234.00),Secretary of State,,DEM,Adrian Fontes,2914,86,2828,0
+Yavapai,RANCH (235.00),Secretary of State,,DEM,Adrian Fontes,1239,47,1191,1
+Yavapai,CAMP (236.00),Secretary of State,,DEM,Adrian Fontes,133,7,126,0
+Yavapai,BASIN (237.00),Secretary of State,,DEM,Adrian Fontes,1164,102,1060,2
+Yavapai,GRAZE (238.00),Secretary of State,,DEM,Adrian Fontes,1650,116,1530,4
+Yavapai,COYOTE (239.00),Secretary of State,,DEM,Adrian Fontes,565,25,539,1
+Yavapai,CARS (240.00),Secretary of State,,DEM,Adrian Fontes,146,23,122,1
+Yavapai,STONE (241.00),Secretary of State,,DEM,Adrian Fontes,106,20,85,1
+Yavapai,WATER (242.00),Secretary of State,,DEM,Adrian Fontes,1825,72,1749,4
+Yavapai,BURRO (243.00),Secretary of State,,DEM,Adrian Fontes,2108,127,1978,3
+Yavapai,BISON (244.00),Secretary of State,,DEM,Adrian Fontes,2799,166,2631,2
+Yavapai,BIGHORN (245.00),Secretary of State,,DEM,Adrian Fontes,1286,101,1185,0
+Yavapai,LASSO (246.00),Secretary of State,,DEM,Adrian Fontes,49,4,45,0
+Yavapai,CHAPS (247.00),Secretary of State,,DEM,Adrian Fontes,0,0,0,0
+Yavapai,SPURS (248.00),Secretary of State,,DEM,Adrian Fontes,0,0,0,0
+Yavapai,EAGLE (201.00),Secretary of State,,,Write-in,8,2,6,0
+Yavapai,COURT (202.00),Secretary of State,,,Write-in,3,1,2,0
+Yavapai,FAIR (203.00),Secretary of State,,,Write-in,3,0,3,0
+Yavapai,GOLF (204.00),Secretary of State,,,Write-in,5,1,4,0
+Yavapai,MINE (205.00),Secretary of State,,,Write-in,1,1,0,0
+Yavapai,HILL (206.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,MESQUITE (207.00),Secretary of State,,,Write-in,1,0,1,0
+Yavapai,YARN (208.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,WICK (209.00),Secretary of State,,,Write-in,1,0,1,0
+Yavapai,WALNUT (210.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,SPRINGS (211.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,PLEASANT (212.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,SKULL (213.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,KIRK (214.00),Secretary of State,,,Write-in,1,0,1,0
+Yavapai,BUCK (215.00),Secretary of State,,,Write-in,5,0,5,0
+Yavapai,CREEK (216.00),Secretary of State,,,Write-in,1,0,1,0
+Yavapai,WIND (217.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,WELL (218.00),Secretary of State,,,Write-in,3,1,2,0
+Yavapai,FORT (219.00),Secretary of State,,,Write-in,5,1,4,0
+Yavapai,RIM (220.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,SALT (221.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,BUG (222.00),Secretary of State,,,Write-in,5,2,3,0
+Yavapai,SUNSET (223.00),Secretary of State,,,Write-in,3,2,1,0
+Yavapai,TOWERS (224.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,IRON (225.00),Secretary of State,,,Write-in,8,5,3,0
+Yavapai,SPIRIT (226.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,RUBY (227.00),Secretary of State,,,Write-in,2,1,1,0
+Yavapai,SCARLET (228.00),Secretary of State,,,Write-in,3,0,3,0
+Yavapai,ONYX (229.00),Secretary of State,,,Write-in,4,2,2,0
+Yavapai,AZURE (230.00),Secretary of State,,,Write-in,2,1,1,0
+Yavapai,QUAIL (231.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,GHOST (232.00),Secretary of State,,,Write-in,2,0,2,0
+Yavapai,BRIDGE (233.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,WATSON (234.00),Secretary of State,,,Write-in,8,2,6,0
+Yavapai,RANCH (235.00),Secretary of State,,,Write-in,7,1,6,0
+Yavapai,CAMP (236.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,BASIN (237.00),Secretary of State,,,Write-in,4,1,3,0
+Yavapai,GRAZE (238.00),Secretary of State,,,Write-in,9,0,8,1
+Yavapai,COYOTE (239.00),Secretary of State,,,Write-in,1,0,1,0
+Yavapai,CARS (240.00),Secretary of State,,,Write-in,5,2,3,0
+Yavapai,STONE (241.00),Secretary of State,,,Write-in,3,2,1,0
+Yavapai,WATER (242.00),Secretary of State,,,Write-in,2,1,1,0
+Yavapai,BURRO (243.00),Secretary of State,,,Write-in,10,0,10,0
+Yavapai,BISON (244.00),Secretary of State,,,Write-in,6,1,5,0
+Yavapai,BIGHORN (245.00),Secretary of State,,,Write-in,5,0,5,0
+Yavapai,LASSO (246.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,CHAPS (247.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,SPURS (248.00),Secretary of State,,,Write-in,0,0,0,0
+Yavapai,EAGLE (201.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,COURT (202.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,FAIR (203.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,GOLF (204.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,MINE (205.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,HILL (206.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,MESQUITE (207.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,YARN (208.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,WICK (209.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,WALNUT (210.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,SPRINGS (211.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,SKULL (213.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,KIRK (214.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,BUCK (215.00),Secretary of State,,,Over Votes,2,0,2,0
+Yavapai,CREEK (216.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,WIND (217.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,WELL (218.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,FORT (219.00),Secretary of State,,,Over Votes,2,0,2,0
+Yavapai,RIM (220.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,SALT (221.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,BUG (222.00),Secretary of State,,,Over Votes,3,1,2,0
+Yavapai,SUNSET (223.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,TOWERS (224.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,IRON (225.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,SPIRIT (226.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,RUBY (227.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,SCARLET (228.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,ONYX (229.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,AZURE (230.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,QUAIL (231.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,GHOST (232.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,BRIDGE (233.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,WATSON (234.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,RANCH (235.00),Secretary of State,,,Over Votes,2,0,2,0
+Yavapai,CAMP (236.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,BASIN (237.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,GRAZE (238.00),Secretary of State,,,Over Votes,2,0,2,0
+Yavapai,COYOTE (239.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,CARS (240.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,STONE (241.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,WATER (242.00),Secretary of State,,,Over Votes,2,0,2,0
+Yavapai,BURRO (243.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,BISON (244.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,BIGHORN (245.00),Secretary of State,,,Over Votes,1,0,1,0
+Yavapai,LASSO (246.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,CHAPS (247.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,SPURS (248.00),Secretary of State,,,Over Votes,0,0,0,0
+Yavapai,EAGLE (201.00),Secretary of State,,,Under Votes,161,17,144,0
+Yavapai,COURT (202.00),Secretary of State,,,Under Votes,130,12,118,0
+Yavapai,FAIR (203.00),Secretary of State,,,Under Votes,74,4,69,1
+Yavapai,GOLF (204.00),Secretary of State,,,Under Votes,118,12,106,0
+Yavapai,MINE (205.00),Secretary of State,,,Under Votes,12,7,5,0
+Yavapai,HILL (206.00),Secretary of State,,,Under Votes,4,0,4,0
+Yavapai,MESQUITE (207.00),Secretary of State,,,Under Votes,17,4,13,0
+Yavapai,YARN (208.00),Secretary of State,,,Under Votes,11,4,7,0
+Yavapai,WICK (209.00),Secretary of State,,,Under Votes,29,5,24,0
+Yavapai,WALNUT (210.00),Secretary of State,,,Under Votes,2,0,2,0
+Yavapai,SPRINGS (211.00),Secretary of State,,,Under Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),Secretary of State,,,Under Votes,0,0,0,0
+Yavapai,SKULL (213.00),Secretary of State,,,Under Votes,5,1,4,0
+Yavapai,KIRK (214.00),Secretary of State,,,Under Votes,10,0,10,0
+Yavapai,BUCK (215.00),Secretary of State,,,Under Votes,71,16,55,0
+Yavapai,CREEK (216.00),Secretary of State,,,Under Votes,42,8,34,0
+Yavapai,WIND (217.00),Secretary of State,,,Under Votes,2,2,0,0
+Yavapai,WELL (218.00),Secretary of State,,,Under Votes,40,11,29,0
+Yavapai,FORT (219.00),Secretary of State,,,Under Votes,106,22,84,0
+Yavapai,RIM (220.00),Secretary of State,,,Under Votes,2,0,2,0
+Yavapai,SALT (221.00),Secretary of State,,,Under Votes,8,3,5,0
+Yavapai,BUG (222.00),Secretary of State,,,Under Votes,51,21,30,0
+Yavapai,SUNSET (223.00),Secretary of State,,,Under Votes,29,15,14,0
+Yavapai,TOWERS (224.00),Secretary of State,,,Under Votes,3,1,2,0
+Yavapai,IRON (225.00),Secretary of State,,,Under Votes,130,20,110,0
+Yavapai,SPIRIT (226.00),Secretary of State,,,Under Votes,0,0,0,0
+Yavapai,RUBY (227.00),Secretary of State,,,Under Votes,131,37,93,1
+Yavapai,SCARLET (228.00),Secretary of State,,,Under Votes,69,15,54,0
+Yavapai,ONYX (229.00),Secretary of State,,,Under Votes,120,24,96,0
+Yavapai,AZURE (230.00),Secretary of State,,,Under Votes,111,21,89,1
+Yavapai,QUAIL (231.00),Secretary of State,,,Under Votes,9,1,8,0
+Yavapai,GHOST (232.00),Secretary of State,,,Under Votes,44,12,32,0
+Yavapai,BRIDGE (233.00),Secretary of State,,,Under Votes,0,0,0,0
+Yavapai,WATSON (234.00),Secretary of State,,,Under Votes,204,20,184,0
+Yavapai,RANCH (235.00),Secretary of State,,,Under Votes,92,15,77,0
+Yavapai,CAMP (236.00),Secretary of State,,,Under Votes,5,0,5,0
+Yavapai,BASIN (237.00),Secretary of State,,,Under Votes,100,14,86,0
+Yavapai,GRAZE (238.00),Secretary of State,,,Under Votes,129,23,106,0
+Yavapai,COYOTE (239.00),Secretary of State,,,Under Votes,48,4,44,0
+Yavapai,CARS (240.00),Secretary of State,,,Under Votes,20,6,14,0
+Yavapai,STONE (241.00),Secretary of State,,,Under Votes,6,3,3,0
+Yavapai,WATER (242.00),Secretary of State,,,Under Votes,84,12,71,1
+Yavapai,BURRO (243.00),Secretary of State,,,Under Votes,156,31,125,0
+Yavapai,BISON (244.00),Secretary of State,,,Under Votes,151,20,130,1
+Yavapai,BIGHORN (245.00),Secretary of State,,,Under Votes,76,11,65,0
+Yavapai,LASSO (246.00),Secretary of State,,,Under Votes,1,1,0,0
+Yavapai,CHAPS (247.00),Secretary of State,,,Under Votes,0,0,0,0
+Yavapai,SPURS (248.00),Secretary of State,,,Under Votes,0,0,0,0
+Yavapai,EAGLE (201.00),Attorney General,,REP,Abraham Hamadeh,4204,584,3611,9
+Yavapai,COURT (202.00),Attorney General,,REP,Abraham Hamadeh,2426,471,1948,7
+Yavapai,FAIR (203.00),Attorney General,,REP,Abraham Hamadeh,2175,339,1828,8
+Yavapai,GOLF (204.00),Attorney General,,REP,Abraham Hamadeh,3088,438,2644,6
+Yavapai,MINE (205.00),Attorney General,,REP,Abraham Hamadeh,415,243,167,5
+Yavapai,HILL (206.00),Attorney General,,REP,Abraham Hamadeh,58,13,45,0
+Yavapai,MESQUITE (207.00),Attorney General,,REP,Abraham Hamadeh,855,243,612,0
+Yavapai,YARN (208.00),Attorney General,,REP,Abraham Hamadeh,494,164,330,0
+Yavapai,WICK (209.00),Attorney General,,REP,Abraham Hamadeh,872,208,662,2
+Yavapai,WALNUT (210.00),Attorney General,,REP,Abraham Hamadeh,36,4,32,0
+Yavapai,SPRINGS (211.00),Attorney General,,REP,Abraham Hamadeh,18,0,18,0
+Yavapai,PLEASANT (212.00),Attorney General,,REP,Abraham Hamadeh,0,0,0,0
+Yavapai,SKULL (213.00),Attorney General,,REP,Abraham Hamadeh,229,39,190,0
+Yavapai,KIRK (214.00),Attorney General,,REP,Abraham Hamadeh,425,91,334,0
+Yavapai,BUCK (215.00),Attorney General,,REP,Abraham Hamadeh,2506,408,2093,5
+Yavapai,CREEK (216.00),Attorney General,,REP,Abraham Hamadeh,1132,356,773,3
+Yavapai,WIND (217.00),Attorney General,,REP,Abraham Hamadeh,59,13,46,0
+Yavapai,WELL (218.00),Attorney General,,REP,Abraham Hamadeh,1269,448,820,1
+Yavapai,FORT (219.00),Attorney General,,REP,Abraham Hamadeh,3353,929,2410,14
+Yavapai,RIM (220.00),Attorney General,,REP,Abraham Hamadeh,14,6,8,0
+Yavapai,SALT (221.00),Attorney General,,REP,Abraham Hamadeh,224,48,176,0
+Yavapai,BUG (222.00),Attorney General,,REP,Abraham Hamadeh,1754,574,1168,12
+Yavapai,SUNSET (223.00),Attorney General,,REP,Abraham Hamadeh,956,397,556,3
+Yavapai,TOWERS (224.00),Attorney General,,REP,Abraham Hamadeh,64,6,58,0
+Yavapai,IRON (225.00),Attorney General,,REP,Abraham Hamadeh,4026,1015,3002,9
+Yavapai,SPIRIT (226.00),Attorney General,,REP,Abraham Hamadeh,31,15,16,0
+Yavapai,RUBY (227.00),Attorney General,,REP,Abraham Hamadeh,1790,527,1259,4
+Yavapai,SCARLET (228.00),Attorney General,,REP,Abraham Hamadeh,1679,469,1205,5
+Yavapai,ONYX (229.00),Attorney General,,REP,Abraham Hamadeh,3330,767,2552,11
+Yavapai,AZURE (230.00),Attorney General,,REP,Abraham Hamadeh,2610,699,1905,6
+Yavapai,QUAIL (231.00),Attorney General,,REP,Abraham Hamadeh,242,55,187,0
+Yavapai,GHOST (232.00),Attorney General,,REP,Abraham Hamadeh,950,293,656,1
+Yavapai,BRIDGE (233.00),Attorney General,,REP,Abraham Hamadeh,29,7,22,0
+Yavapai,WATSON (234.00),Attorney General,,REP,Abraham Hamadeh,4983,722,4249,12
+Yavapai,RANCH (235.00),Attorney General,,REP,Abraham Hamadeh,3246,644,2598,4
+Yavapai,CAMP (236.00),Attorney General,,REP,Abraham Hamadeh,423,87,336,0
+Yavapai,BASIN (237.00),Attorney General,,REP,Abraham Hamadeh,3784,1122,2654,8
+Yavapai,GRAZE (238.00),Attorney General,,REP,Abraham Hamadeh,4809,1395,3391,23
+Yavapai,COYOTE (239.00),Attorney General,,REP,Abraham Hamadeh,2615,561,2048,6
+Yavapai,CARS (240.00),Attorney General,,REP,Abraham Hamadeh,573,200,372,1
+Yavapai,STONE (241.00),Attorney General,,REP,Abraham Hamadeh,315,133,180,2
+Yavapai,WATER (242.00),Attorney General,,REP,Abraham Hamadeh,3669,581,3083,5
+Yavapai,BURRO (243.00),Attorney General,,REP,Abraham Hamadeh,4162,828,3330,4
+Yavapai,BISON (244.00),Attorney General,,REP,Abraham Hamadeh,5198,1143,4044,11
+Yavapai,BIGHORN (245.00),Attorney General,,REP,Abraham Hamadeh,2245,535,1698,12
+Yavapai,LASSO (246.00),Attorney General,,REP,Abraham Hamadeh,144,41,103,0
+Yavapai,CHAPS (247.00),Attorney General,,REP,Abraham Hamadeh,2,2,0,0
+Yavapai,SPURS (248.00),Attorney General,,REP,Abraham Hamadeh,0,0,0,0
+Yavapai,EAGLE (201.00),Attorney General,,DEM,Kris Mayes,2689,92,2596,1
+Yavapai,COURT (202.00),Attorney General,,DEM,Kris Mayes,2177,147,2028,2
+Yavapai,FAIR (203.00),Attorney General,,DEM,Kris Mayes,1603,68,1532,3
+Yavapai,GOLF (204.00),Attorney General,,DEM,Kris Mayes,2428,130,2297,1
+Yavapai,MINE (205.00),Attorney General,,DEM,Kris Mayes,101,36,64,1
+Yavapai,HILL (206.00),Attorney General,,DEM,Kris Mayes,1,0,1,0
+Yavapai,MESQUITE (207.00),Attorney General,,DEM,Kris Mayes,297,26,271,0
+Yavapai,YARN (208.00),Attorney General,,DEM,Kris Mayes,200,25,173,2
+Yavapai,WICK (209.00),Attorney General,,DEM,Kris Mayes,298,30,268,0
+Yavapai,WALNUT (210.00),Attorney General,,DEM,Kris Mayes,17,3,13,1
+Yavapai,SPRINGS (211.00),Attorney General,,DEM,Kris Mayes,6,0,6,0
+Yavapai,PLEASANT (212.00),Attorney General,,DEM,Kris Mayes,0,0,0,0
+Yavapai,SKULL (213.00),Attorney General,,DEM,Kris Mayes,74,4,70,0
+Yavapai,KIRK (214.00),Attorney General,,DEM,Kris Mayes,120,12,108,0
+Yavapai,BUCK (215.00),Attorney General,,DEM,Kris Mayes,1199,46,1153,0
+Yavapai,CREEK (216.00),Attorney General,,DEM,Kris Mayes,796,85,710,1
+Yavapai,WIND (217.00),Attorney General,,DEM,Kris Mayes,35,5,30,0
+Yavapai,WELL (218.00),Attorney General,,DEM,Kris Mayes,772,98,673,1
+Yavapai,FORT (219.00),Attorney General,,DEM,Kris Mayes,1490,126,1361,3
+Yavapai,RIM (220.00),Attorney General,,DEM,Kris Mayes,8,1,7,0
+Yavapai,SALT (221.00),Attorney General,,DEM,Kris Mayes,86,9,77,0
+Yavapai,BUG (222.00),Attorney General,,DEM,Kris Mayes,690,71,617,2
+Yavapai,SUNSET (223.00),Attorney General,,DEM,Kris Mayes,324,43,281,0
+Yavapai,TOWERS (224.00),Attorney General,,DEM,Kris Mayes,15,0,15,0
+Yavapai,IRON (225.00),Attorney General,,DEM,Kris Mayes,1440,89,1350,1
+Yavapai,SPIRIT (226.00),Attorney General,,DEM,Kris Mayes,18,0,18,0
+Yavapai,RUBY (227.00),Attorney General,,DEM,Kris Mayes,2776,206,2567,3
+Yavapai,SCARLET (228.00),Attorney General,,DEM,Kris Mayes,2363,137,2225,1
+Yavapai,ONYX (229.00),Attorney General,,DEM,Kris Mayes,2586,193,2391,2
+Yavapai,AZURE (230.00),Attorney General,,DEM,Kris Mayes,2169,178,1989,2
+Yavapai,QUAIL (231.00),Attorney General,,DEM,Kris Mayes,105,3,102,0
+Yavapai,GHOST (232.00),Attorney General,,DEM,Kris Mayes,1061,127,934,0
+Yavapai,BRIDGE (233.00),Attorney General,,DEM,Kris Mayes,27,6,21,0
+Yavapai,WATSON (234.00),Attorney General,,DEM,Kris Mayes,2704,71,2633,0
+Yavapai,RANCH (235.00),Attorney General,,DEM,Kris Mayes,1124,35,1088,1
+Yavapai,CAMP (236.00),Attorney General,,DEM,Kris Mayes,125,7,118,0
+Yavapai,BASIN (237.00),Attorney General,,DEM,Kris Mayes,1070,106,962,2
+Yavapai,GRAZE (238.00),Attorney General,,DEM,Kris Mayes,1518,111,1404,3
+Yavapai,COYOTE (239.00),Attorney General,,DEM,Kris Mayes,512,26,485,1
+Yavapai,CARS (240.00),Attorney General,,DEM,Kris Mayes,137,21,116,0
+Yavapai,STONE (241.00),Attorney General,,DEM,Kris Mayes,110,21,88,1
+Yavapai,WATER (242.00),Attorney General,,DEM,Kris Mayes,1688,69,1614,5
+Yavapai,BURRO (243.00),Attorney General,,DEM,Kris Mayes,1968,114,1850,4
+Yavapai,BISON (244.00),Attorney General,,DEM,Kris Mayes,2622,154,2465,3
+Yavapai,BIGHORN (245.00),Attorney General,,DEM,Kris Mayes,1219,97,1122,0
+Yavapai,LASSO (246.00),Attorney General,,DEM,Kris Mayes,42,3,39,0
+Yavapai,CHAPS (247.00),Attorney General,,DEM,Kris Mayes,0,0,0,0
+Yavapai,SPURS (248.00),Attorney General,,DEM,Kris Mayes,0,0,0,0
+Yavapai,EAGLE (201.00),Attorney General,,Write-in,Samantha Severson,3,2,1,0
+Yavapai,COURT (202.00),Attorney General,,Write-in,Samantha Severson,1,0,1,0
+Yavapai,FAIR (203.00),Attorney General,,Write-in,Samantha Severson,1,0,1,0
+Yavapai,GOLF (204.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,MINE (205.00),Attorney General,,Write-in,Samantha Severson,1,0,1,0
+Yavapai,HILL (206.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,MESQUITE (207.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,YARN (208.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,WICK (209.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,WALNUT (210.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,SPRINGS (211.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,PLEASANT (212.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,SKULL (213.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,KIRK (214.00),Attorney General,,Write-in,Samantha Severson,2,0,2,0
+Yavapai,BUCK (215.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,CREEK (216.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,WIND (217.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,WELL (218.00),Attorney General,,Write-in,Samantha Severson,1,1,0,0
+Yavapai,FORT (219.00),Attorney General,,Write-in,Samantha Severson,1,0,1,0
+Yavapai,RIM (220.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,SALT (221.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,BUG (222.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,SUNSET (223.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,TOWERS (224.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,IRON (225.00),Attorney General,,Write-in,Samantha Severson,1,0,1,0
+Yavapai,SPIRIT (226.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,RUBY (227.00),Attorney General,,Write-in,Samantha Severson,1,0,1,0
+Yavapai,SCARLET (228.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,ONYX (229.00),Attorney General,,Write-in,Samantha Severson,2,0,2,0
+Yavapai,AZURE (230.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,QUAIL (231.00),Attorney General,,Write-in,Samantha Severson,1,0,1,0
+Yavapai,GHOST (232.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,BRIDGE (233.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,WATSON (234.00),Attorney General,,Write-in,Samantha Severson,1,0,1,0
+Yavapai,RANCH (235.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,CAMP (236.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,BASIN (237.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,GRAZE (238.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,COYOTE (239.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,CARS (240.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,STONE (241.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,WATER (242.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,BURRO (243.00),Attorney General,,Write-in,Samantha Severson,2,1,1,0
+Yavapai,BISON (244.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,BIGHORN (245.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,LASSO (246.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,CHAPS (247.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,SPURS (248.00),Attorney General,,Write-in,Samantha Severson,0,0,0,0
+Yavapai,EAGLE (201.00),Attorney General,,,Write-in,8,1,7,0
+Yavapai,COURT (202.00),Attorney General,,,Write-in,4,0,4,0
+Yavapai,FAIR (203.00),Attorney General,,,Write-in,2,0,2,0
+Yavapai,GOLF (204.00),Attorney General,,,Write-in,4,1,3,0
+Yavapai,MINE (205.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,HILL (206.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,MESQUITE (207.00),Attorney General,,,Write-in,2,0,2,0
+Yavapai,YARN (208.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,WICK (209.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,WALNUT (210.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,SPRINGS (211.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,PLEASANT (212.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,SKULL (213.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,KIRK (214.00),Attorney General,,,Write-in,1,0,1,0
+Yavapai,BUCK (215.00),Attorney General,,,Write-in,1,0,1,0
+Yavapai,CREEK (216.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,WIND (217.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,WELL (218.00),Attorney General,,,Write-in,1,1,0,0
+Yavapai,FORT (219.00),Attorney General,,,Write-in,5,1,4,0
+Yavapai,RIM (220.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,SALT (221.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,BUG (222.00),Attorney General,,,Write-in,6,2,4,0
+Yavapai,SUNSET (223.00),Attorney General,,,Write-in,4,1,3,0
+Yavapai,TOWERS (224.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,IRON (225.00),Attorney General,,,Write-in,7,2,5,0
+Yavapai,SPIRIT (226.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,RUBY (227.00),Attorney General,,,Write-in,5,2,3,0
+Yavapai,SCARLET (228.00),Attorney General,,,Write-in,1,0,1,0
+Yavapai,ONYX (229.00),Attorney General,,,Write-in,4,1,3,0
+Yavapai,AZURE (230.00),Attorney General,,,Write-in,3,1,2,0
+Yavapai,QUAIL (231.00),Attorney General,,,Write-in,1,1,0,0
+Yavapai,GHOST (232.00),Attorney General,,,Write-in,1,0,1,0
+Yavapai,BRIDGE (233.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,WATSON (234.00),Attorney General,,,Write-in,8,2,6,0
+Yavapai,RANCH (235.00),Attorney General,,,Write-in,2,0,2,0
+Yavapai,CAMP (236.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,BASIN (237.00),Attorney General,,,Write-in,6,3,3,0
+Yavapai,GRAZE (238.00),Attorney General,,,Write-in,6,0,5,1
+Yavapai,COYOTE (239.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,CARS (240.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,STONE (241.00),Attorney General,,,Write-in,2,1,1,0
+Yavapai,WATER (242.00),Attorney General,,,Write-in,5,0,5,0
+Yavapai,BURRO (243.00),Attorney General,,,Write-in,6,3,3,0
+Yavapai,BISON (244.00),Attorney General,,,Write-in,3,0,3,0
+Yavapai,BIGHORN (245.00),Attorney General,,,Write-in,7,0,7,0
+Yavapai,LASSO (246.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,CHAPS (247.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,SPURS (248.00),Attorney General,,,Write-in,0,0,0,0
+Yavapai,EAGLE (201.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,COURT (202.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,FAIR (203.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,GOLF (204.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,MINE (205.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,HILL (206.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,MESQUITE (207.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,YARN (208.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,WICK (209.00),Attorney General,,,Over Votes,1,0,1,0
+Yavapai,WALNUT (210.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,SPRINGS (211.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,PLEASANT (212.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,SKULL (213.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,KIRK (214.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,BUCK (215.00),Attorney General,,,Over Votes,1,0,1,0
+Yavapai,CREEK (216.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,WIND (217.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,WELL (218.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,FORT (219.00),Attorney General,,,Over Votes,1,0,1,0
+Yavapai,RIM (220.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,SALT (221.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,BUG (222.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,SUNSET (223.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,TOWERS (224.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,IRON (225.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,SPIRIT (226.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,RUBY (227.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,SCARLET (228.00),Attorney General,,,Over Votes,1,1,0,0
+Yavapai,ONYX (229.00),Attorney General,,,Over Votes,1,1,0,0
+Yavapai,AZURE (230.00),Attorney General,,,Over Votes,1,0,1,0
+Yavapai,QUAIL (231.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,GHOST (232.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,BRIDGE (233.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,WATSON (234.00),Attorney General,,,Over Votes,2,0,2,0
+Yavapai,RANCH (235.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,CAMP (236.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,BASIN (237.00),Attorney General,,,Over Votes,1,0,1,0
+Yavapai,GRAZE (238.00),Attorney General,,,Over Votes,1,0,1,0
+Yavapai,COYOTE (239.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,CARS (240.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,STONE (241.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,WATER (242.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,BURRO (243.00),Attorney General,,,Over Votes,1,0,1,0
+Yavapai,BISON (244.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,BIGHORN (245.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,LASSO (246.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,CHAPS (247.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,SPURS (248.00),Attorney General,,,Over Votes,0,0,0,0
+Yavapai,EAGLE (201.00),Attorney General,,,Under Votes,273,13,259,1
+Yavapai,COURT (202.00),Attorney General,,,Under Votes,235,15,220,0
+Yavapai,FAIR (203.00),Attorney General,,,Under Votes,146,9,136,1
+Yavapai,GOLF (204.00),Attorney General,,,Under Votes,247,13,234,0
+Yavapai,MINE (205.00),Attorney General,,,Under Votes,13,6,7,0
+Yavapai,HILL (206.00),Attorney General,,,Under Votes,7,2,5,0
+Yavapai,MESQUITE (207.00),Attorney General,,,Under Votes,44,5,39,0
+Yavapai,YARN (208.00),Attorney General,,,Under Votes,20,4,16,0
+Yavapai,WICK (209.00),Attorney General,,,Under Votes,20,2,18,0
+Yavapai,WALNUT (210.00),Attorney General,,,Under Votes,5,0,5,0
+Yavapai,SPRINGS (211.00),Attorney General,,,Under Votes,2,0,2,0
+Yavapai,PLEASANT (212.00),Attorney General,,,Under Votes,0,0,0,0
+Yavapai,SKULL (213.00),Attorney General,,,Under Votes,14,3,11,0
+Yavapai,KIRK (214.00),Attorney General,,,Under Votes,17,1,16,0
+Yavapai,BUCK (215.00),Attorney General,,,Under Votes,136,17,119,0
+Yavapai,CREEK (216.00),Attorney General,,,Under Votes,77,9,68,0
+Yavapai,WIND (217.00),Attorney General,,,Under Votes,3,2,1,0
+Yavapai,WELL (218.00),Attorney General,,,Under Votes,63,10,53,0
+Yavapai,FORT (219.00),Attorney General,,,Under Votes,180,26,154,0
+Yavapai,RIM (220.00),Attorney General,,,Under Votes,1,0,1,0
+Yavapai,SALT (221.00),Attorney General,,,Under Votes,6,2,4,0
+Yavapai,BUG (222.00),Attorney General,,,Under Votes,101,23,78,0
+Yavapai,SUNSET (223.00),Attorney General,,,Under Votes,49,17,32,0
+Yavapai,TOWERS (224.00),Attorney General,,,Under Votes,5,0,5,0
+Yavapai,IRON (225.00),Attorney General,,,Under Votes,182,22,160,0
+Yavapai,SPIRIT (226.00),Attorney General,,,Under Votes,0,0,0,0
+Yavapai,RUBY (227.00),Attorney General,,,Under Votes,200,33,167,0
+Yavapai,SCARLET (228.00),Attorney General,,,Under Votes,143,14,129,0
+Yavapai,ONYX (229.00),Attorney General,,,Under Votes,228,20,208,0
+Yavapai,AZURE (230.00),Attorney General,,,Under Votes,193,23,169,1
+Yavapai,QUAIL (231.00),Attorney General,,,Under Votes,11,2,9,0
+Yavapai,GHOST (232.00),Attorney General,,,Under Votes,84,9,75,0
+Yavapai,BRIDGE (233.00),Attorney General,,,Under Votes,2,0,2,0
+Yavapai,WATSON (234.00),Attorney General,,,Under Votes,311,19,292,0
+Yavapai,RANCH (235.00),Attorney General,,,Under Votes,127,19,108,0
+Yavapai,CAMP (236.00),Attorney General,,,Under Votes,15,0,15,0
+Yavapai,BASIN (237.00),Attorney General,,,Under Votes,165,14,151,0
+Yavapai,GRAZE (238.00),Attorney General,,,Under Votes,206,27,179,0
+Yavapai,COYOTE (239.00),Attorney General,,,Under Votes,93,6,87,0
+Yavapai,CARS (240.00),Attorney General,,,Under Votes,29,6,23,0
+Yavapai,STONE (241.00),Attorney General,,,Under Votes,7,2,5,0
+Yavapai,WATER (242.00),Attorney General,,,Under Votes,179,12,166,1
+Yavapai,BURRO (243.00),Attorney General,,,Under Votes,173,16,157,0
+Yavapai,BISON (244.00),Attorney General,,,Under Votes,242,23,219,0
+Yavapai,BIGHORN (245.00),Attorney General,,,Under Votes,114,11,103,0
+Yavapai,LASSO (246.00),Attorney General,,,Under Votes,7,1,6,0
+Yavapai,CHAPS (247.00),Attorney General,,,Under Votes,0,0,0,0
+Yavapai,SPURS (248.00),Attorney General,,,Under Votes,0,0,0,0

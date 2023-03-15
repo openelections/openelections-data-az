@@ -1,0 +1,297 @@
+county,precinct,office,district,party,candidate,votes
+Greenlee,001 Eagle,Registered Voters,,,,17
+Greenlee,002 Blue,Registered Voters,,,,35
+Greenlee,003 Clifton 1,Registered Voters,,,,946
+Greenlee,004 Clifton 2,Registered Voters,,,,560
+Greenlee,005 Morenci,Registered Voters,,,,1155
+Greenlee,006 East Plantsite,Registered Voters,,,,299
+Greenlee,007 York/Sheldon,Registered Voters,,,,752
+Greenlee,008 Duncan,Registered Voters,,,,905
+Greenlee,001 Eagle,Ballots Cast,,,,16
+Greenlee,002 Blue,Ballots Cast,,,,32
+Greenlee,003 Clifton 1,Ballots Cast,,,,474
+Greenlee,004 Clifton 2,Ballots Cast,,,,348
+Greenlee,005 Morenci,Ballots Cast,,,,486
+Greenlee,006 East Plantsite,Ballots Cast,,,,109
+Greenlee,007 York/Sheldon,Ballots Cast,,,,469
+Greenlee,008 Duncan,Ballots Cast,,,,553
+Greenlee,001 Eagle,U.S. Senate,,DEM,Mark Kelly,0
+Greenlee,002 Blue,U.S. Senate,,DEM,Mark Kelly,4
+Greenlee,003 Clifton 1,U.S. Senate,,DEM,Mark Kelly,249
+Greenlee,004 Clifton 2,U.S. Senate,,DEM,Mark Kelly,195
+Greenlee,005 Morenci,U.S. Senate,,DEM,Mark Kelly,186
+Greenlee,006 East Plantsite,U.S. Senate,,DEM,Mark Kelly,34
+Greenlee,007 York/Sheldon,U.S. Senate,,DEM,Mark Kelly,154
+Greenlee,008 Duncan,U.S. Senate,,DEM,Mark Kelly,148
+Greenlee,001 Eagle,U.S. Senate,,REP,Blake Masters,16
+Greenlee,002 Blue,U.S. Senate,,REP,Blake Masters,28
+Greenlee,003 Clifton 1,U.S. Senate,,REP,Blake Masters,194
+Greenlee,004 Clifton 2,U.S. Senate,,REP,Blake Masters,138
+Greenlee,005 Morenci,U.S. Senate,,REP,Blake Masters,278
+Greenlee,006 East Plantsite,U.S. Senate,,REP,Blake Masters,71
+Greenlee,007 York/Sheldon,U.S. Senate,,REP,Blake Masters,297
+Greenlee,008 Duncan,U.S. Senate,,REP,Blake Masters,370
+Greenlee,001 Eagle,U.S. Senate,,LIB,Marc J. Victor,0
+Greenlee,002 Blue,U.S. Senate,,LIB,Marc J. Victor,0
+Greenlee,003 Clifton 1,U.S. Senate,,LIB,Marc J. Victor,24
+Greenlee,004 Clifton 2,U.S. Senate,,LIB,Marc J. Victor,12
+Greenlee,005 Morenci,U.S. Senate,,LIB,Marc J. Victor,18
+Greenlee,006 East Plantsite,U.S. Senate,,LIB,Marc J. Victor,3
+Greenlee,007 York/Sheldon,U.S. Senate,,LIB,Marc J. Victor,14
+Greenlee,008 Duncan,U.S. Senate,,LIB,Marc J. Victor,29
+Greenlee,001 Eagle,U.S. Senate,,,Write-ins,0
+Greenlee,002 Blue,U.S. Senate,,,Write-ins,0
+Greenlee,003 Clifton 1,U.S. Senate,,,Write-ins,1
+Greenlee,004 Clifton 2,U.S. Senate,,,Write-ins,0
+Greenlee,005 Morenci,U.S. Senate,,,Write-ins,0
+Greenlee,006 East Plantsite,U.S. Senate,,,Write-ins,0
+Greenlee,007 York/Sheldon,U.S. Senate,,,Write-ins,0
+Greenlee,008 Duncan,U.S. Senate,,,Write-ins,1
+Greenlee,001 Eagle,U.S. House,6,DEM,Kirsten Engel,0
+Greenlee,002 Blue,U.S. House,6,DEM,Kirsten Engel,4
+Greenlee,003 Clifton 1,U.S. House,6,DEM,Kirsten Engel,232
+Greenlee,004 Clifton 2,U.S. House,6,DEM,Kirsten Engel,177
+Greenlee,005 Morenci,U.S. House,6,DEM,Kirsten Engel,170
+Greenlee,006 East Plantsite,U.S. House,6,DEM,Kirsten Engel,28
+Greenlee,007 York/Sheldon,U.S. House,6,DEM,Kirsten Engel,138
+Greenlee,008 Duncan,U.S. House,6,DEM,Kirsten Engel,129
+Greenlee,001 Eagle,U.S. House,6,REP,Juan Ciscomani,16
+Greenlee,002 Blue,U.S. House,6,REP,Juan Ciscomani,28
+Greenlee,003 Clifton 1,U.S. House,6,REP,Juan Ciscomani,224
+Greenlee,004 Clifton 2,U.S. House,6,REP,Juan Ciscomani,161
+Greenlee,005 Morenci,U.S. House,6,REP,Juan Ciscomani,305
+Greenlee,006 East Plantsite,U.S. House,6,REP,Juan Ciscomani,78
+Greenlee,007 York/Sheldon,U.S. House,6,REP,Juan Ciscomani,317
+Greenlee,008 Duncan,U.S. House,6,REP,Juan Ciscomani,411
+Greenlee,001 Eagle,U.S. House,6,,Write-ins,0
+Greenlee,002 Blue,U.S. House,6,,Write-ins,0
+Greenlee,003 Clifton 1,U.S. House,6,,Write-ins,0
+Greenlee,004 Clifton 2,U.S. House,6,,Write-ins,1
+Greenlee,005 Morenci,U.S. House,6,,Write-ins,1
+Greenlee,006 East Plantsite,U.S. House,6,,Write-ins,0
+Greenlee,007 York/Sheldon,U.S. House,6,,Write-ins,1
+Greenlee,008 Duncan,U.S. House,6,,Write-ins,2
+Greenlee,001 Eagle,Governor,,DEM,Katie Hobbs,0
+Greenlee,002 Blue,Governor,,DEM,Katie Hobbs,4
+Greenlee,003 Clifton 1,Governor,,DEM,Katie Hobbs,235
+Greenlee,004 Clifton 2,Governor,,DEM,Katie Hobbs,188
+Greenlee,005 Morenci,Governor,,DEM,Katie Hobbs,184
+Greenlee,006 East Plantsite,Governor,,DEM,Katie Hobbs,32
+Greenlee,007 York/Sheldon,Governor,,DEM,Katie Hobbs,140
+Greenlee,008 Duncan,Governor,,DEM,Katie Hobbs,137
+Greenlee,001 Eagle,Governor,,REP,Kari Lake,16
+Greenlee,002 Blue,Governor,,REP,Kari Lake,28
+Greenlee,003 Clifton 1,Governor,,REP,Kari Lake,228
+Greenlee,004 Clifton 2,Governor,,REP,Kari Lake,157
+Greenlee,005 Morenci,Governor,,REP,Kari Lake,299
+Greenlee,006 East Plantsite,Governor,,REP,Kari Lake,77
+Greenlee,007 York/Sheldon,Governor,,REP,Kari Lake,314
+Greenlee,008 Duncan,Governor,,REP,Kari Lake,407
+Greenlee,001 Eagle,Governor,,,Write-ins,0
+Greenlee,002 Blue,Governor,,,,0
+Greenlee,003 Clifton 1,Governor,,,,1
+Greenlee,004 Clifton 2,Governor,,,,1
+Greenlee,005 Morenci,Governor,,,,0
+Greenlee,006 East Plantsite,Governor,,,,0
+Greenlee,007 York/Sheldon,Governor,,,,1
+Greenlee,008 Duncan,Governor,,,,3
+Greenlee,001 Eagle,Secretary of State,,DEM,Adrian Fontes,1
+Greenlee,002 Blue,Secretary of State,,DEM,Adrian Fontes,4
+Greenlee,003 Clifton 1,Secretary of State,,DEM,Adrian Fontes,249
+Greenlee,004 Clifton 2,Secretary of State,,DEM,Adrian Fontes,192
+Greenlee,005 Morenci,Secretary of State,,DEM,Adrian Fontes,181
+Greenlee,006 East Plantsite,Secretary of State,,DEM,Adrian Fontes,37
+Greenlee,007 York/Sheldon,Secretary of State,,DEM,Adrian Fontes,159
+Greenlee,008 Duncan,Secretary of State,,DEM,Adrian Fontes,155
+Greenlee,001 Eagle,Secretary of State,,REP,Mark Finchem,15
+Greenlee,002 Blue,Secretary of State,,REP,Mark Finchem,28
+Greenlee,003 Clifton 1,Secretary of State,,REP,Mark Finchem,206
+Greenlee,004 Clifton 2,Secretary of State,,REP,Mark Finchem,146
+Greenlee,005 Morenci,Secretary of State,,REP,Mark Finchem,286
+Greenlee,006 East Plantsite,Secretary of State,,REP,Mark Finchem,71
+Greenlee,007 York/Sheldon,Secretary of State,,REP,Mark Finchem,295
+Greenlee,008 Duncan,Secretary of State,,REP,Mark Finchem,382
+Greenlee,001 Eagle,Secretary of State,,,Write-ins,0
+Greenlee,002 Blue,Secretary of State,,,Write-ins,0
+Greenlee,003 Clifton 1,Secretary of State,,,Write-ins,1
+Greenlee,004 Clifton 2,Secretary of State,,,Write-ins,0
+Greenlee,005 Morenci,Secretary of State,,,Write-ins,1
+Greenlee,006 East Plantsite,Secretary of State,,,Write-ins,0
+Greenlee,007 York/Sheldon,Secretary of State,,,Write-ins,1
+Greenlee,008 Duncan,Secretary of State,,,Write-ins,2
+Greenlee,001 Eagle,Attorney General,,DEM,Kris Mayes,1
+Greenlee,002 Blue,Attorney General,,DEM,Kris Mayes,4
+Greenlee,003 Clifton 1,Attorney General,,DEM,Kris Mayes,240
+Greenlee,004 Clifton 2,Attorney General,,DEM,Kris Mayes,190
+Greenlee,005 Morenci,Attorney General,,DEM,Kris Mayes,181
+Greenlee,006 East Plantsite,Attorney General,,DEM,Kris Mayes,36
+Greenlee,007 York/Sheldon,Attorney General,,DEM,Kris Mayes,150
+Greenlee,008 Duncan,Attorney General,,DEM,Kris Mayes,136
+Greenlee,001 Eagle,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",15
+Greenlee,002 Blue,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",28
+Greenlee,003 Clifton 1,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",212
+Greenlee,004 Clifton 2,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",146
+Greenlee,005 Morenci,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",290
+Greenlee,006 East Plantsite,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",73
+Greenlee,007 York/Sheldon,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",301
+Greenlee,008 Duncan,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",397
+Greenlee,001 Eagle,Attorney General,,,Write-ins,0
+Greenlee,002 Blue,Attorney General,,,Write-ins,0
+Greenlee,003 Clifton 1,Attorney General,,,Write-ins,2
+Greenlee,004 Clifton 2,Attorney General,,,Write-ins,1
+Greenlee,005 Morenci,Attorney General,,,Write-ins,2
+Greenlee,006 East Plantsite,Attorney General,,,Write-ins,0
+Greenlee,007 York/Sheldon,Attorney General,,,Write-ins,0
+Greenlee,008 Duncan,Attorney General,,,Write-ins,2
+Greenlee,001 Eagle,State Treasurer,,DEM,Martin Quezada,1
+Greenlee,002 Blue,State Treasurer,,DEM,Martin Quezada,2
+Greenlee,003 Clifton 1,State Treasurer,,DEM,Martin Quezada,229
+Greenlee,004 Clifton 2,State Treasurer,,DEM,Martin Quezada,176
+Greenlee,005 Morenci,State Treasurer,,DEM,Martin Quezada,164
+Greenlee,006 East Plantsite,State Treasurer,,DEM,Martin Quezada,27
+Greenlee,007 York/Sheldon,State Treasurer,,DEM,Martin Quezada,135
+Greenlee,008 Duncan,State Treasurer,,DEM,Martin Quezada,119
+Greenlee,001 Eagle,State Treasurer,,REP,Kimberly Yee,15
+Greenlee,002 Blue,State Treasurer,,REP,Kimberly Yee,30
+Greenlee,003 Clifton 1,State Treasurer,,REP,Kimberly Yee,224
+Greenlee,004 Clifton 2,State Treasurer,,REP,Kimberly Yee,158
+Greenlee,005 Morenci,State Treasurer,,REP,Kimberly Yee,307
+Greenlee,006 East Plantsite,State Treasurer,,REP,Kimberly Yee,81
+Greenlee,007 York/Sheldon,State Treasurer,,REP,Kimberly Yee,314
+Greenlee,008 Duncan,State Treasurer,,REP,Kimberly Yee,416
+Greenlee,001 Eagle,State Treasurer,,,Write-ins,0
+Greenlee,002 Blue,State Treasurer,,,Write-ins,0
+Greenlee,003 Clifton 1,State Treasurer,,,Write-ins,1
+Greenlee,004 Clifton 2,State Treasurer,,,Write-ins,1
+Greenlee,005 Morenci,State Treasurer,,,Write-ins,0
+Greenlee,006 East Plantsite,State Treasurer,,,Write-ins,0
+Greenlee,007 York/Sheldon,State Treasurer,,,Write-ins,0
+Greenlee,008 Duncan,State Treasurer,,,Write-ins,2
+Greenlee,001 Eagle,Superintendent of Public Instruction,,DEM,Kathy Hoffman,2
+Greenlee,002 Blue,Superintendent of Public Instruction,,DEM,Kathy Hoffman,4
+Greenlee,003 Clifton 1,Superintendent of Public Instruction,,DEM,Kathy Hoffman,232
+Greenlee,004 Clifton 2,Superintendent of Public Instruction,,DEM,Kathy Hoffman,188
+Greenlee,005 Morenci,Superintendent of Public Instruction,,DEM,Kathy Hoffman,179
+Greenlee,006 East Plantsite,Superintendent of Public Instruction,,DEM,Kathy Hoffman,31
+Greenlee,007 York/Sheldon,Superintendent of Public Instruction,,DEM,Kathy Hoffman,153
+Greenlee,008 Duncan,Superintendent of Public Instruction,,DEM,Kathy Hoffman,152
+Greenlee,001 Eagle,Superintendent of Public Instruction,,REP,Tom Horne,14
+Greenlee,002 Blue,Superintendent of Public Instruction,,REP,Tom Horne,27
+Greenlee,003 Clifton 1,Superintendent of Public Instruction,,REP,Tom Horne,224
+Greenlee,004 Clifton 2,Superintendent of Public Instruction,,REP,Tom Horne,152
+Greenlee,005 Morenci,Superintendent of Public Instruction,,REP,Tom Horne,292
+Greenlee,006 East Plantsite,Superintendent of Public Instruction,,REP,Tom Horne,77
+Greenlee,007 York/Sheldon,Superintendent of Public Instruction,,REP,Tom Horne,300
+Greenlee,008 Duncan,Superintendent of Public Instruction,,REP,Tom Horne,379
+Greenlee,001 Eagle,Superintendent of Public Instruction,,,Write-ins,0
+Greenlee,002 Blue,Superintendent of Public Instruction,,,Write-ins,0
+Greenlee,003 Clifton 1,Superintendent of Public Instruction,,,Write-ins,1
+Greenlee,004 Clifton 2,Superintendent of Public Instruction,,,Write-ins,0
+Greenlee,005 Morenci,Superintendent of Public Instruction,,,Write-ins,0
+Greenlee,006 East Plantsite,Superintendent of Public Instruction,,,Write-ins,0
+Greenlee,007 York/Sheldon,Superintendent of Public Instruction,,,Write-ins,0
+Greenlee,008 Duncan,Superintendent of Public Instruction,,,Write-ins,3
+Greenlee,001 Eagle,State Mine Inspector,,REP,Paul Marsh,14
+Greenlee,002 Blue,State Mine Inspector,,REP,Paul Marsh,30
+Greenlee,003 Clifton 1,State Mine Inspector,,REP,Paul Marsh,306
+Greenlee,004 Clifton 2,State Mine Inspector,,REP,Paul Marsh,224
+Greenlee,005 Morenci,State Mine Inspector,,REP,Paul Marsh,396
+Greenlee,006 East Plantsite,State Mine Inspector,,REP,Paul Marsh,93
+Greenlee,007 York/Sheldon,State Mine Inspector,,REP,Paul Marsh,364
+Greenlee,008 Duncan,State Mine Inspector,,REP,Paul Marsh,465
+Greenlee,001 Eagle,State Mine Inspector,,,Write-ins,0
+Greenlee,002 Blue,State Mine Inspector,,,Write-ins,0
+Greenlee,003 Clifton 1,State Mine Inspector,,,Write-ins,6
+Greenlee,004 Clifton 2,State Mine Inspector,,,Write-ins,9
+Greenlee,005 Morenci,State Mine Inspector,,,Write-ins,10
+Greenlee,006 East Plantsite,State Mine Inspector,,,Write-ins,0
+Greenlee,007 York/Sheldon,State Mine Inspector,,,Write-ins,3
+Greenlee,008 Duncan,State Mine Inspector,,,Write-ins,6
+Greenlee,001 Eagle,Corporation Commissioner,,DEM,Sandra Kennedy,1
+Greenlee,002 Blue,Corporation Commissioner,,DEM,Sandra Kennedy,4
+Greenlee,003 Clifton 1,Corporation Commissioner,,DEM,Sandra Kennedy,238
+Greenlee,004 Clifton 2,Corporation Commissioner,,DEM,Sandra Kennedy,175
+Greenlee,005 Morenci,Corporation Commissioner,,DEM,Sandra Kennedy,172
+Greenlee,006 East Plantsite,Corporation Commissioner,,DEM,Sandra Kennedy,32
+Greenlee,007 York/Sheldon,Corporation Commissioner,,DEM,Sandra Kennedy,138
+Greenlee,008 Duncan,Corporation Commissioner,,DEM,Sandra Kennedy,126
+Greenlee,001 Eagle,Corporation Commissioner,,DEM,Lauren Kuby,1
+Greenlee,002 Blue,Corporation Commissioner,,DEM,Lauren Kuby,3
+Greenlee,003 Clifton 1,Corporation Commissioner,,DEM,Lauren Kuby,200
+Greenlee,004 Clifton 2,Corporation Commissioner,,DEM,Lauren Kuby,155
+Greenlee,005 Morenci,Corporation Commissioner,,DEM,Lauren Kuby,137
+Greenlee,006 East Plantsite,Corporation Commissioner,,DEM,Lauren Kuby,23
+Greenlee,007 York/Sheldon,Corporation Commissioner,,DEM,Lauren Kuby,108
+Greenlee,008 Duncan,Corporation Commissioner,,DEM,Lauren Kuby,115
+Greenlee,001 Eagle,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",15
+Greenlee,002 Blue,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",28
+Greenlee,003 Clifton 1,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",195
+Greenlee,004 Clifton 2,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",144
+Greenlee,005 Morenci,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",279
+Greenlee,006 East Plantsite,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",68
+Greenlee,007 York/Sheldon,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",288
+Greenlee,008 Duncan,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",374
+Greenlee,001 Eagle,Corporation Commissioner,,REP,Kevin Thompson,14
+Greenlee,002 Blue,Corporation Commissioner,,REP,Kevin Thompson,27
+Greenlee,003 Clifton 1,Corporation Commissioner,,REP,Kevin Thompson,197
+Greenlee,004 Clifton 2,Corporation Commissioner,,REP,Kevin Thompson,141
+Greenlee,005 Morenci,Corporation Commissioner,,REP,Kevin Thompson,277
+Greenlee,006 East Plantsite,Corporation Commissioner,,REP,Kevin Thompson,73
+Greenlee,007 York/Sheldon,Corporation Commissioner,,REP,Kevin Thompson,283
+Greenlee,008 Duncan,Corporation Commissioner,,REP,Kevin Thompson,381
+Greenlee,001 Eagle,Corporation Commissioner,,,Write-ins,0
+Greenlee,002 Blue,Corporation Commissioner,,,Write-ins,0
+Greenlee,003 Clifton 1,Corporation Commissioner,,,Write-ins,3
+Greenlee,004 Clifton 2,Corporation Commissioner,,,Write-ins,1
+Greenlee,005 Morenci,Corporation Commissioner,,,Write-ins,0
+Greenlee,006 East Plantsite,Corporation Commissioner,,,Write-ins,0
+Greenlee,007 York/Sheldon,Corporation Commissioner,,,Write-ins,0
+Greenlee,008 Duncan,Corporation Commissioner,,,Write-ins,6
+Greenlee,001 Eagle,State Senate,19,REP,David Gowan,15
+Greenlee,002 Blue,State Senate,19,REP,David Gowan,30
+Greenlee,003 Clifton 1,State Senate,19,REP,David Gowan,302
+Greenlee,004 Clifton 2,State Senate,19,REP,David Gowan,212
+Greenlee,005 Morenci,State Senate,19,REP,David Gowan,371
+Greenlee,006 East Plantsite,State Senate,19,REP,David Gowan,90
+Greenlee,007 York/Sheldon,State Senate,19,REP,David Gowan,354
+Greenlee,008 Duncan,State Senate,19,REP,David Gowan,465
+Greenlee,001 Eagle,State Senate,19,,Write-ins,0
+Greenlee,002 Blue,State Senate,19,,Write-ins,0
+Greenlee,003 Clifton 1,State Senate,19,,Write-ins,4
+Greenlee,004 Clifton 2,State Senate,19,,Write-ins,10
+Greenlee,005 Morenci,State Senate,19,,Write-ins,14
+Greenlee,006 East Plantsite,State Senate,19,,Write-ins,1
+Greenlee,007 York/Sheldon,State Senate,19,,Write-ins,3
+Greenlee,008 Duncan,State Senate,19,,Write-ins,5
+Greenlee,001 Eagle,State House,19,DEM,Sanda Clark,1
+Greenlee,002 Blue,State House,19,DEM,Sanda Clark,4
+Greenlee,003 Clifton 1,State House,19,DEM,Sanda Clark,236
+Greenlee,004 Clifton 2,State House,19,DEM,Sanda Clark,178
+Greenlee,005 Morenci,State House,19,DEM,Sanda Clark,165
+Greenlee,006 East Plantsite,State House,19,DEM,Sanda Clark,34
+Greenlee,007 York/Sheldon,State House,19,DEM,Sanda Clark,149
+Greenlee,008 Duncan,State House,19,DEM,Sanda Clark,142
+Greenlee,001 Eagle,State House,19,REP,Lupe Diaz,15
+Greenlee,002 Blue,State House,19,REP,Lupe Diaz,23
+Greenlee,003 Clifton 1,State House,19,REP,Lupe Diaz,223
+Greenlee,004 Clifton 2,State House,19,REP,Lupe Diaz,156
+Greenlee,005 Morenci,State House,19,REP,Lupe Diaz,294
+Greenlee,006 East Plantsite,State House,19,REP,Lupe Diaz,70
+Greenlee,007 York/Sheldon,State House,19,REP,Lupe Diaz,272
+Greenlee,008 Duncan,State House,19,REP,Lupe Diaz,361
+Greenlee,001 Eagle,State House,19,REP,Gail Griffin,14
+Greenlee,002 Blue,State House,19,REP,Gail Griffin,30
+Greenlee,003 Clifton 1,State House,19,REP,Gail Griffin,199
+Greenlee,004 Clifton 2,State House,19,REP,Gail Griffin,158
+Greenlee,005 Morenci,State House,19,REP,Gail Griffin,284
+Greenlee,006 East Plantsite,State House,19,REP,Gail Griffin,74
+Greenlee,007 York/Sheldon,State House,19,REP,Gail Griffin,299
+Greenlee,008 Duncan,State House,19,REP,Gail Griffin,399
+Greenlee,001 Eagle,State House,19,,Write-ins,0
+Greenlee,002 Blue,State House,19,,Write-ins,0
+Greenlee,003 Clifton 1,State House,19,,Write-ins,5
+Greenlee,004 Clifton 2,State House,19,,Write-ins,4
+Greenlee,005 Morenci,State House,19,,Write-ins,3
+Greenlee,006 East Plantsite,State House,19,,Write-ins,1
+Greenlee,007 York/Sheldon,State House,19,,Write-ins,0
+Greenlee,008 Duncan,State House,19,,Write-ins,7

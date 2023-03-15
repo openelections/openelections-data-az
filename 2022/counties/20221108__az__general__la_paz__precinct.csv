@@ -1,0 +1,364 @@
+county,precinct,office,district,candidate,party,votes
+La Paz,051 Parker,U.S. Senate,,Blake Masters,REP,629
+La Paz,052 Poston,U.S. Senate,,Blake Masters,REP,52
+La Paz,054 Upriver,U.S. Senate,,Blake Masters,REP,858
+La Paz,055 Bouse,U.S. Senate,,Blake Masters,REP,280
+La Paz,056 Wenden,U.S. Senate,,Blake Masters,REP,64
+La Paz,057 Salome,U.S. Senate,,Blake Masters,REP,509
+La Paz,058 Quartzsite Two,U.S. Senate,,Blake Masters,REP,561
+La Paz,059 Cibola,U.S. Senate,,Blake Masters,REP,59
+La Paz,060 Ehrenberg,U.S. Senate,,Blake Masters,REP,175
+La Paz,062 Vicksburg,U.S. Senate,,Blake Masters,REP,167
+La Paz,064 Quartzsite Three,U.S. Senate,,Blake Masters,REP,302
+La Paz,051 Parker,U.S. Senate,,Mark Kelly,DEM,631
+La Paz,052 Poston,U.S. Senate,,Mark Kelly,DEM,115
+La Paz,054 Upriver,U.S. Senate,,Mark Kelly,DEM,260
+La Paz,055 Bouse,U.S. Senate,,Mark Kelly,DEM,76
+La Paz,056 Wenden,U.S. Senate,,Mark Kelly,DEM,30
+La Paz,057 Salome,U.S. Senate,,Mark Kelly,DEM,156
+La Paz,058 Quartzsite Two,U.S. Senate,,Mark Kelly,DEM,220
+La Paz,059 Cibola,U.S. Senate,,Mark Kelly,DEM,12
+La Paz,060 Ehrenberg,U.S. Senate,,Mark Kelly,DEM,36
+La Paz,062 Vicksburg,U.S. Senate,,Mark Kelly,DEM,57
+La Paz,064 Quartzsite Three,U.S. Senate,,Mark Kelly,DEM,118
+La Paz,051 Parker,U.S. Senate,,Marc J. Victor,LBT,51
+La Paz,052 Poston,U.S. Senate,,Marc J. Victor,LBT,3
+La Paz,054 Upriver,U.S. Senate,,Marc J. Victor,LBT,24
+La Paz,055 Bouse,U.S. Senate,,Marc J. Victor,LBT,12
+La Paz,056 Wenden,U.S. Senate,,Marc J. Victor,LBT,3
+La Paz,057 Salome,U.S. Senate,,Marc J. Victor,LBT,20
+La Paz,058 Quartzsite Two,U.S. Senate,,Marc J. Victor,LBT,21
+La Paz,059 Cibola,U.S. Senate,,Marc J. Victor,LBT,3
+La Paz,060 Ehrenberg,U.S. Senate,,Marc J. Victor,LBT,9
+La Paz,062 Vicksburg,U.S. Senate,,Marc J. Victor,LBT,3
+La Paz,064 Quartzsite Three,U.S. Senate,,Marc J. Victor,LBT,11
+La Paz,051 Parker,U.S. Senate,,Write-ins,,0
+La Paz,052 Poston,U.S. Senate,,Write-ins,,1
+La Paz,054 Upriver,U.S. Senate,,Write-ins,,0
+La Paz,055 Bouse,U.S. Senate,,Write-ins,,0
+La Paz,056 Wenden,U.S. Senate,,Write-ins,,1
+La Paz,057 Salome,U.S. Senate,,Write-ins,,0
+La Paz,058 Quartzsite Two,U.S. Senate,,Write-ins,,2
+La Paz,059 Cibola,U.S. Senate,,Write-ins,,0
+La Paz,060 Ehrenberg,U.S. Senate,,Write-ins,,2
+La Paz,062 Vicksburg,U.S. Senate,,Write-ins,,0
+La Paz,064 Quartzsite Three,U.S. Senate,,Write-ins,,0
+La Paz,051 Parker,U.S. House,9,Paul Gosar,REP,864
+La Paz,052 Poston,U.S. House,9,Paul Gosar,REP,96
+La Paz,054 Upriver,U.S. House,9,Paul Gosar,REP,936
+La Paz,055 Bouse,U.S. House,9,Paul Gosar,REP,308
+La Paz,056 Wenden,U.S. House,9,Paul Gosar,REP,79
+La Paz,057 Salome,U.S. House,9,Paul Gosar,REP,552
+La Paz,058 Quartzsite Two,U.S. House,9,Paul Gosar,REP,647
+La Paz,059 Cibola,U.S. House,9,Paul Gosar,REP,68
+La Paz,060 Ehrenberg,U.S. House,9,Paul Gosar,REP,196
+La Paz,062 Vicksburg,U.S. House,9,Paul Gosar,REP,178
+La Paz,064 Quartzsite Three,U.S. House,9,Paul Gosar,REP,336
+La Paz,051 Parker,U.S. House,9,Write-ins,,78
+La Paz,052 Poston,U.S. House,9,Write-ins,,17
+La Paz,054 Upriver,U.S. House,9,Write-ins,,31
+La Paz,055 Bouse,U.S. House,9,Write-ins,,14
+La Paz,056 Wenden,U.S. House,9,Write-ins,,2
+La Paz,057 Salome,U.S. House,9,Write-ins,,16
+La Paz,058 Quartzsite Two,U.S. House,9,Write-ins,,23
+La Paz,059 Cibola,U.S. House,9,Write-ins,,1
+La Paz,060 Ehrenberg,U.S. House,9,Write-ins,,5
+La Paz,062 Vicksburg,U.S. House,9,Write-ins,,9
+La Paz,064 Quartzsite Three,U.S. House,9,Write-ins,,11
+La Paz,051 Parker,Governor,,Kari Lake,REP,705
+La Paz,052 Poston,Governor,,Kari Lake,REP,60
+La Paz,054 Upriver,Governor,,Kari Lake,REP,897
+La Paz,055 Bouse,Governor,,Kari Lake,REP,286
+La Paz,056 Wenden,Governor,,Kari Lake,REP,65
+La Paz,057 Salome,Governor,,Kari Lake,REP,522
+La Paz,058 Quartzsite Two,Governor,,Kari Lake,REP,580
+La Paz,059 Cibola,Governor,,Kari Lake,REP,64
+La Paz,060 Ehrenberg,Governor,,Kari Lake,REP,186
+La Paz,062 Vicksburg,Governor,,Kari Lake,REP,173
+La Paz,064 Quartzsite Three,Governor,,Kari Lake,REP,309
+La Paz,051 Parker,Governor,,Katie Hobbs,DEM,592
+La Paz,052 Poston,Governor,,Katie Hobbs,DEM,110
+La Paz,054 Upriver,Governor,,Katie Hobbs,DEM,242
+La Paz,055 Bouse,Governor,,Katie Hobbs,DEM,79
+La Paz,056 Wenden,Governor,,Katie Hobbs,DEM,31
+La Paz,057 Salome,Governor,,Katie Hobbs,DEM,154
+La Paz,058 Quartzsite Two,Governor,,Katie Hobbs,DEM,222
+La Paz,059 Cibola,Governor,,Katie Hobbs,DEM,11
+La Paz,060 Ehrenberg,Governor,,Katie Hobbs,DEM,32
+La Paz,062 Vicksburg,Governor,,Katie Hobbs,DEM,54
+La Paz,064 Quartzsite Three,Governor,,Katie Hobbs,DEM,119
+La Paz,051 Parker,Governor,,Write-ins,,6
+La Paz,052 Poston,Governor,,Write-ins,,1
+La Paz,054 Upriver,Governor,,Write-ins,,4
+La Paz,055 Bouse,Governor,,Write-ins,,0
+La Paz,056 Wenden,Governor,,Write-ins,,2
+La Paz,057 Salome,Governor,,Write-ins,,5
+La Paz,058 Quartzsite Two,Governor,,Write-ins,,3
+La Paz,059 Cibola,Governor,,Write-ins,,0
+La Paz,060 Ehrenberg,Governor,,Write-ins,,4
+La Paz,062 Vicksburg,Governor,,Write-ins,,0
+La Paz,064 Quartzsite Three,Governor,,Write-ins,,0
+La Paz,051 Parker,State Senate,30,Sonny Borrelli,REP,896
+La Paz,052 Poston,State Senate,30,Sonny Borrelli,REP,92
+La Paz,054 Upriver,State Senate,30,Sonny Borrelli,REP,961
+La Paz,055 Bouse,State Senate,30,Sonny Borrelli,REP,316
+La Paz,056 Wenden,State Senate,30,Sonny Borrelli,REP,85
+La Paz,057 Salome,State Senate,30,Sonny Borrelli,REP,566
+La Paz,058 Quartzsite Two,State Senate,30,Sonny Borrelli,REP,661
+La Paz,059 Cibola,State Senate,30,Sonny Borrelli,REP,68
+La Paz,060 Ehrenberg,State Senate,30,Sonny Borrelli,REP,194
+La Paz,062 Vicksburg,State Senate,30,Sonny Borrelli,REP,184
+La Paz,064 Quartzsite Three,State Senate,30,Sonny Borrelli,REP,334
+La Paz,051 Parker,State Senate,30,Write-ins,,46
+La Paz,052 Poston,State Senate,30,Write-ins,,9
+La Paz,054 Upriver,State Senate,30,Write-ins,,12
+La Paz,055 Bouse,State Senate,30,Write-ins,,7
+La Paz,056 Wenden,State Senate,30,Write-ins,,0
+La Paz,057 Salome,State Senate,30,Write-ins,,6
+La Paz,058 Quartzsite Two,State Senate,30,Write-ins,,11
+La Paz,059 Cibola,State Senate,30,Write-ins,,1
+La Paz,060 Ehrenberg,State Senate,30,Write-ins,,5
+La Paz,062 Vicksburg,State Senate,30,Write-ins,,2
+La Paz,064 Quartzsite Three,State Senate,30,Write-ins,,7
+La Paz,051 Parker,State House,30,Leo Biasiucci,REP,722
+La Paz,052 Poston,State House,30,Leo Biasiucci,REP,74
+La Paz,054 Upriver,State House,30,Leo Biasiucci,REP,779
+La Paz,055 Bouse,State House,30,Leo Biasiucci,REP,264
+La Paz,056 Wenden,State House,30,Leo Biasiucci,REP,58
+La Paz,057 Salome,State House,30,Leo Biasiucci,REP,441
+La Paz,058 Quartzsite Two,State House,30,Leo Biasiucci,REP,532
+La Paz,059 Cibola,State House,30,Leo Biasiucci,REP,49
+La Paz,060 Ehrenberg,State House,30,Leo Biasiucci,REP,141
+La Paz,062 Vicksburg,State House,30,Leo Biasiucci,REP,148
+La Paz,064 Quartzsite Three,State House,30,Leo Biasiucci,REP,282
+La Paz,051 Parker,State House,30,John Gillette,REP,641
+La Paz,052 Poston,State House,30,John Gillette,REP,83
+La Paz,054 Upriver,State House,30,John Gillette,REP,653
+La Paz,055 Bouse,State House,30,John Gillette,REP,236
+La Paz,056 Wenden,State House,30,John Gillette,REP,61
+La Paz,057 Salome,State House,30,John Gillette,REP,428
+La Paz,058 Quartzsite Two,State House,30,John Gillette,REP,472
+La Paz,059 Cibola,State House,30,John Gillette,REP,43
+La Paz,060 Ehrenberg,State House,30,John Gillette,REP,137
+La Paz,062 Vicksburg,State House,30,John Gillette,REP,132
+La Paz,064 Quartzsite Three,State House,30,John Gillette,REP,245
+La Paz,051 Parker,State House,30,Write-ins,,32
+La Paz,052 Poston,State House,30,Write-ins,,10
+La Paz,054 Upriver,State House,30,Write-ins,,17
+La Paz,055 Bouse,State House,30,Write-ins,,16
+La Paz,056 Wenden,State House,30,Write-ins,,0
+La Paz,057 Salome,State House,30,Write-ins,,9
+La Paz,058 Quartzsite Two,State House,30,Write-ins,,10
+La Paz,059 Cibola,State House,30,Write-ins,,2
+La Paz,060 Ehrenberg,State House,30,Write-ins,,7
+La Paz,062 Vicksburg,State House,30,Write-ins,,4
+La Paz,064 Quartzsite Three,State House,30,Write-ins,,7
+La Paz,051 Parker,Secretary of State,,Mark Finchem,REP,653
+La Paz,052 Poston,Secretary of State,,Mark Finchem,REP,51
+La Paz,054 Upriver,Secretary of State,,Mark Finchem,REP,868
+La Paz,055 Bouse,Secretary of State,,Mark Finchem,REP,277
+La Paz,056 Wenden,Secretary of State,,Mark Finchem,REP,65
+La Paz,057 Salome,Secretary of State,,Mark Finchem,REP,499
+La Paz,058 Quartzsite Two,Secretary of State,,Mark Finchem,REP,570
+La Paz,059 Cibola,Secretary of State,,Mark Finchem,REP,62
+La Paz,060 Ehrenberg,Secretary of State,,Mark Finchem,REP,182
+La Paz,062 Vicksburg,Secretary of State,,Mark Finchem,REP,166
+La Paz,064 Quartzsite Three,Secretary of State,,Mark Finchem,REP,315
+La Paz,051 Parker,Secretary of State,,Adrian Fontes,DEM,630
+La Paz,052 Poston,Secretary of State,,Adrian Fontes,DEM,116
+La Paz,054 Upriver,Secretary of State,,Adrian Fontes,DEM,259
+La Paz,055 Bouse,Secretary of State,,Adrian Fontes,DEM,85
+La Paz,056 Wenden,Secretary of State,,Adrian Fontes,DEM,33
+La Paz,057 Salome,Secretary of State,,Adrian Fontes,DEM,173
+La Paz,058 Quartzsite Two,Secretary of State,,Adrian Fontes,DEM,228
+La Paz,059 Cibola,Secretary of State,,Adrian Fontes,DEM,12
+La Paz,060 Ehrenberg,Secretary of State,,Adrian Fontes,DEM,35
+La Paz,062 Vicksburg,Secretary of State,,Adrian Fontes,DEM,54
+La Paz,064 Quartzsite Three,Secretary of State,,Adrian Fontes,DEM,111
+La Paz,051 Parker,Secretary of State,,Write-ins,,3
+La Paz,052 Poston,Secretary of State,,Write-ins,,2
+La Paz,054 Upriver,Secretary of State,,Write-ins,,0
+La Paz,055 Bouse,Secretary of State,,Write-ins,,1
+La Paz,056 Wenden,Secretary of State,,Write-ins,,0
+La Paz,057 Salome,Secretary of State,,Write-ins,,0
+La Paz,058 Quartzsite Two,Secretary of State,,Write-ins,,0
+La Paz,059 Cibola,Secretary of State,,Write-ins,,0
+La Paz,060 Ehrenberg,Secretary of State,,Write-ins,,2
+La Paz,062 Vicksburg,Secretary of State,,Write-ins,,0
+La Paz,064 Quartzsite Three,Secretary of State,,Write-ins,,0
+La Paz,051 Parker,Attorney General,,Abraham Hamadeh,REP,676
+La Paz,052 Poston,Attorney General,,Abraham Hamadeh,REP,57
+La Paz,054 Upriver,Attorney General,,Abraham Hamadeh,REP,879
+La Paz,055 Bouse,Attorney General,,Abraham Hamadeh,REP,284
+La Paz,056 Wenden,Attorney General,,Abraham Hamadeh,REP,68
+La Paz,057 Salome,Attorney General,,Abraham Hamadeh,REP,512
+La Paz,058 Quartzsite Two,Attorney General,,Abraham Hamadeh,REP,578
+La Paz,059 Cibola,Attorney General,,Abraham Hamadeh,REP,57
+La Paz,060 Ehrenberg,Attorney General,,Abraham Hamadeh,REP,180
+La Paz,062 Vicksburg,Attorney General,,Abraham Hamadeh,REP,167
+La Paz,064 Quartzsite Three,Attorney General,,Abraham Hamadeh,REP,317
+La Paz,051 Parker,Attorney General,,Kris Mayes,DEM,596
+La Paz,052 Poston,Attorney General,,Kris Mayes,DEM,113
+La Paz,054 Upriver,Attorney General,,Kris Mayes,DEM,245
+La Paz,055 Bouse,Attorney General,,Kris Mayes,DEM,74
+La Paz,056 Wenden,Attorney General,,Kris Mayes,DEM,29
+La Paz,057 Salome,Attorney General,,Kris Mayes,DEM,159
+La Paz,058 Quartzsite Two,Attorney General,,Kris Mayes,DEM,211
+La Paz,059 Cibola,Attorney General,,Kris Mayes,DEM,17
+La Paz,060 Ehrenberg,Attorney General,,Kris Mayes,DEM,38
+La Paz,062 Vicksburg,Attorney General,,Kris Mayes,DEM,54
+La Paz,064 Quartzsite Three,Attorney General,,Kris Mayes,DEM,112
+La Paz,051 Parker,Attorney General,,Write-ins,,2
+La Paz,052 Poston,Attorney General,,Write-ins,,1
+La Paz,054 Upriver,Attorney General,,Write-ins,,0
+La Paz,055 Bouse,Attorney General,,Write-ins,,1
+La Paz,056 Wenden,Attorney General,,Write-ins,,0
+La Paz,057 Salome,Attorney General,,Write-ins,,0
+La Paz,058 Quartzsite Two,Attorney General,,Write-ins,,2
+La Paz,059 Cibola,Attorney General,,Write-ins,,0
+La Paz,060 Ehrenberg,Attorney General,,Write-ins,,3
+La Paz,062 Vicksburg,Attorney General,,Write-ins,,0
+La Paz,064 Quartzsite Three,Attorney General,,Write-ins,,0
+La Paz,051 Parker,State Treasurer,,Kimberly Yee,REP,735
+La Paz,052 Poston,State Treasurer,,Kimberly Yee,REP,66
+La Paz,054 Upriver,State Treasurer,,Kimberly Yee,REP,920
+La Paz,055 Bouse,State Treasurer,,Kimberly Yee,REP,299
+La Paz,056 Wenden,State Treasurer,,Kimberly Yee,REP,71
+La Paz,057 Salome,State Treasurer,,Kimberly Yee,REP,550
+La Paz,058 Quartzsite Two,State Treasurer,,Kimberly Yee,REP,620
+La Paz,059 Cibola,State Treasurer,,Kimberly Yee,REP,64
+La Paz,060 Ehrenberg,State Treasurer,,Kimberly Yee,REP,188
+La Paz,062 Vicksburg,State Treasurer,,Kimberly Yee,REP,177
+La Paz,064 Quartzsite Three,State Treasurer,,Kimberly Yee,REP,323
+La Paz,051 Parker,State Treasurer,,Martin Quezada,DEM,548
+La Paz,052 Poston,State Treasurer,,Martin Quezada,DEM,104
+La Paz,054 Upriver,State Treasurer,,Martin Quezada,DEM,200
+La Paz,055 Bouse,State Treasurer,,Martin Quezada,DEM,67
+La Paz,056 Wenden,State Treasurer,,Martin Quezada,DEM,26
+La Paz,057 Salome,State Treasurer,,Martin Quezada,DEM,117
+La Paz,058 Quartzsite Two,State Treasurer,,Martin Quezada,DEM,173
+La Paz,059 Cibola,State Treasurer,,Martin Quezada,DEM,10
+La Paz,060 Ehrenberg,State Treasurer,,Martin Quezada,DEM,31
+La Paz,062 Vicksburg,State Treasurer,,Martin Quezada,DEM,43
+La Paz,064 Quartzsite Three,State Treasurer,,Martin Quezada,DEM,100
+La Paz,051 Parker,State Treasurer,,Write-ins,,0
+La Paz,052 Poston,State Treasurer,,Write-ins,,0
+La Paz,054 Upriver,State Treasurer,,Write-ins,,1
+La Paz,055 Bouse,State Treasurer,,Write-ins,,0
+La Paz,056 Wenden,State Treasurer,,Write-ins,,0
+La Paz,057 Salome,State Treasurer,,Write-ins,,0
+La Paz,058 Quartzsite Two,State Treasurer,,Write-ins,,1
+La Paz,059 Cibola,State Treasurer,,Write-ins,,0
+La Paz,060 Ehrenberg,State Treasurer,,Write-ins,,1
+La Paz,062 Vicksburg,State Treasurer,,Write-ins,,0
+La Paz,064 Quartzsite Three,State Treasurer,,Write-ins,,0
+La Paz,051 Parker,Superintendent of Public Instruction,,Tom Horne,REP,677
+La Paz,052 Poston,Superintendent of Public Instruction,,Tom Horne,REP,61
+La Paz,054 Upriver,Superintendent of Public Instruction,,Tom Horne,REP,881
+La Paz,055 Bouse,Superintendent of Public Instruction,,Tom Horne,REP,295
+La Paz,056 Wenden,Superintendent of Public Instruction,,Tom Horne,REP,66
+La Paz,057 Salome,Superintendent of Public Instruction,,Tom Horne,REP,519
+La Paz,058 Quartzsite Two,Superintendent of Public Instruction,,Tom Horne,REP,585
+La Paz,059 Cibola,Superintendent of Public Instruction,,Tom Horne,REP,65
+La Paz,060 Ehrenberg,Superintendent of Public Instruction,,Tom Horne,REP,187
+La Paz,062 Vicksburg,Superintendent of Public Instruction,,Tom Horne,REP,169
+La Paz,064 Quartzsite Three,Superintendent of Public Instruction,,Tom Horne,REP,310
+La Paz,051 Parker,Superintendent of Public Instruction,,Kathy Hoffman,DEM,605
+La Paz,052 Poston,Superintendent of Public Instruction,,Kathy Hoffman,DEM,109
+La Paz,054 Upriver,Superintendent of Public Instruction,,Kathy Hoffman,DEM,241
+La Paz,055 Bouse,Superintendent of Public Instruction,,Kathy Hoffman,DEM,73
+La Paz,056 Wenden,Superintendent of Public Instruction,,Kathy Hoffman,DEM,31
+La Paz,057 Salome,Superintendent of Public Instruction,,Kathy Hoffman,DEM,152
+La Paz,058 Quartzsite Two,Superintendent of Public Instruction,,Kathy Hoffman,DEM,205
+La Paz,059 Cibola,Superintendent of Public Instruction,,Kathy Hoffman,DEM,10
+La Paz,060 Ehrenberg,Superintendent of Public Instruction,,Kathy Hoffman,DEM,33
+La Paz,062 Vicksburg,Superintendent of Public Instruction,,Kathy Hoffman,DEM,54
+La Paz,064 Quartzsite Three,Superintendent of Public Instruction,,Kathy Hoffman,DEM,114
+La Paz,051 Parker,Superintendent of Public Instruction,,Write-ins,,3
+La Paz,052 Poston,Superintendent of Public Instruction,,Write-ins,,0
+La Paz,054 Upriver,Superintendent of Public Instruction,,Write-ins,,0
+La Paz,055 Bouse,Superintendent of Public Instruction,,Write-ins,,0
+La Paz,056 Wenden,Superintendent of Public Instruction,,Write-ins,,0
+La Paz,057 Salome,Superintendent of Public Instruction,,Write-ins,,1
+La Paz,058 Quartzsite Two,Superintendent of Public Instruction,,Write-ins,,0
+La Paz,059 Cibola,Superintendent of Public Instruction,,Write-ins,,0
+La Paz,060 Ehrenberg,Superintendent of Public Instruction,,Write-ins,,2
+La Paz,062 Vicksburg,Superintendent of Public Instruction,,Write-ins,,0
+La Paz,064 Quartzsite Three,Superintendent of Public Instruction,,Write-ins,,0
+La Paz,051 Parker,State Mine Inspector,,Paul Marsh,REP,918
+La Paz,052 Poston,State Mine Inspector,,Paul Marsh,REP,104
+La Paz,054 Upriver,State Mine Inspector,,Paul Marsh,REP,957
+La Paz,055 Bouse,State Mine Inspector,,Paul Marsh,REP,318
+La Paz,056 Wenden,State Mine Inspector,,Paul Marsh,REP,80
+La Paz,057 Salome,State Mine Inspector,,Paul Marsh,REP,563
+La Paz,058 Quartzsite Two,State Mine Inspector,,Paul Marsh,REP,664
+La Paz,059 Cibola,State Mine Inspector,,Paul Marsh,REP,68
+La Paz,060 Ehrenberg,State Mine Inspector,,Paul Marsh,REP,194
+La Paz,062 Vicksburg,State Mine Inspector,,Paul Marsh,REP,186
+La Paz,064 Quartzsite Three,State Mine Inspector,,Paul Marsh,REP,333
+La Paz,051 Parker,State Mine Inspector,,Write-ins,,36
+La Paz,052 Poston,State Mine Inspector,,Write-ins,,15
+La Paz,054 Upriver,State Mine Inspector,,Write-ins,,10
+La Paz,055 Bouse,State Mine Inspector,,Write-ins,,8
+La Paz,056 Wenden,State Mine Inspector,,Write-ins,,1
+La Paz,057 Salome,State Mine Inspector,,Write-ins,,7
+La Paz,058 Quartzsite Two,State Mine Inspector,,Write-ins,,12
+La Paz,059 Cibola,State Mine Inspector,,Write-ins,,1
+La Paz,060 Ehrenberg,State Mine Inspector,,Write-ins,,5
+La Paz,062 Vicksburg,State Mine Inspector,,Write-ins,,2
+La Paz,064 Quartzsite Three,State Mine Inspector,,Write-ins,,7
+La Paz,051 Parker,Corporation Commissioner,,Nick Myers,REP,622
+La Paz,052 Poston,Corporation Commissioner,,Nick Myers,REP,50
+La Paz,054 Upriver,Corporation Commissioner,,Nick Myers,REP,797
+La Paz,055 Bouse,Corporation Commissioner,,Nick Myers,REP,258
+La Paz,056 Wenden,Corporation Commissioner,,Nick Myers,REP,65
+La Paz,057 Salome,Corporation Commissioner,,Nick Myers,REP,447
+La Paz,058 Quartzsite Two,Corporation Commissioner,,Nick Myers,REP,517
+La Paz,059 Cibola,Corporation Commissioner,,Nick Myers,REP,52
+La Paz,060 Ehrenberg,Corporation Commissioner,,Nick Myers,REP,147
+La Paz,062 Vicksburg,Corporation Commissioner,,Nick Myers,REP,157
+La Paz,064 Quartzsite Three,Corporation Commissioner,,Nick Myers,REP,273
+La Paz,051 Parker,Corporation Commissioner,,Kevin Thompson,REP,601
+La Paz,052 Poston,Corporation Commissioner,,Kevin Thompson,REP,58
+La Paz,054 Upriver,Corporation Commissioner,,Kevin Thompson,REP,781
+La Paz,055 Bouse,Corporation Commissioner,,Kevin Thompson,REP,261
+La Paz,056 Wenden,Corporation Commissioner,,Kevin Thompson,REP,62
+La Paz,057 Salome,Corporation Commissioner,,Kevin Thompson,REP,480
+La Paz,058 Quartzsite Two,Corporation Commissioner,,Kevin Thompson,REP,506
+La Paz,059 Cibola,Corporation Commissioner,,Kevin Thompson,REP,57
+La Paz,060 Ehrenberg,Corporation Commissioner,,Kevin Thompson,REP,140
+La Paz,062 Vicksburg,Corporation Commissioner,,Kevin Thompson,REP,154
+La Paz,064 Quartzsite Three,Corporation Commissioner,,Kevin Thompson,REP,288
+La Paz,051 Parker,Corporation Commissioner,,Sandra Kennedy,DEM,533
+La Paz,052 Poston,Corporation Commissioner,,Sandra Kennedy,DEM,105
+La Paz,054 Upriver,Corporation Commissioner,,Sandra Kennedy,DEM,216
+La Paz,055 Bouse,Corporation Commissioner,,Sandra Kennedy,DEM,70
+La Paz,056 Wenden,Corporation Commissioner,,Sandra Kennedy,DEM,28
+La Paz,057 Salome,Corporation Commissioner,,Sandra Kennedy,DEM,130
+La Paz,058 Quartzsite Two,Corporation Commissioner,,Sandra Kennedy,DEM,187
+La Paz,059 Cibola,Corporation Commissioner,,Sandra Kennedy,DEM,8
+La Paz,060 Ehrenberg,Corporation Commissioner,,Sandra Kennedy,DEM,34
+La Paz,062 Vicksburg,Corporation Commissioner,,Sandra Kennedy,DEM,46
+La Paz,064 Quartzsite Three,Corporation Commissioner,,Sandra Kennedy,DEM,98
+La Paz,051 Parker,Corporation Commissioner,,Lauren Kuby,DEM,443
+La Paz,052 Poston,Corporation Commissioner,,Lauren Kuby,DEM,94
+La Paz,054 Upriver,Corporation Commissioner,,Lauren Kuby,DEM,173
+La Paz,055 Bouse,Corporation Commissioner,,Lauren Kuby,DEM,58
+La Paz,056 Wenden,Corporation Commissioner,,Lauren Kuby,DEM,24
+La Paz,057 Salome,Corporation Commissioner,,Lauren Kuby,DEM,110
+La Paz,058 Quartzsite Two,Corporation Commissioner,,Lauren Kuby,DEM,160
+La Paz,059 Cibola,Corporation Commissioner,,Lauren Kuby,DEM,7
+La Paz,060 Ehrenberg,Corporation Commissioner,,Lauren Kuby,DEM,25
+La Paz,062 Vicksburg,Corporation Commissioner,,Lauren Kuby,DEM,42
+La Paz,064 Quartzsite Three,Corporation Commissioner,,Lauren Kuby,DEM,80
+La Paz,051 Parker,Corporation Commissioner,,Write-ins,,1
+La Paz,052 Poston,Corporation Commissioner,,Write-ins,,0
+La Paz,054 Upriver,Corporation Commissioner,,Write-ins,,0
+La Paz,055 Bouse,Corporation Commissioner,,Write-ins,,0
+La Paz,056 Wenden,Corporation Commissioner,,Write-ins,,0
+La Paz,057 Salome,Corporation Commissioner,,Write-ins,,2
+La Paz,058 Quartzsite Two,Corporation Commissioner,,Write-ins,,1
+La Paz,059 Cibola,Corporation Commissioner,,Write-ins,,1
+La Paz,060 Ehrenberg,Corporation Commissioner,,Write-ins,,3
+La Paz,062 Vicksburg,Corporation Commissioner,,Write-ins,,0
+La Paz,064 Quartzsite Three,Corporation Commissioner,,Write-ins,,0
