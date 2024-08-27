@@ -2997,7 +2997,7 @@ Cochise,25 SUNIZONA,Attorney General,,,DEM,Kris Mayes,123,13,110,0
 Cochise,26 SV AVENIDA DEL SOL,Attorney General,,,DEM,Kris Mayes,607,79,527,1
 Cochise,27 SV BUFFALO SOLDIER,Attorney General,,,DEM,Kris Mayes,692,74,617,1
 Cochise,28 SV BUSBY,Attorney General,,,DEM,Kris Mayes,461,62,397,2
-Cochise,29 SV CARMELITA,Attorney General,,,DEM,Kris Mayes,289,47,241,1
+Cochise,29 SV CARMELITA,Attorney General,,,DEM,Kris Mayes,288,47,240,1
 Cochise,30 SV CLOUD,Attorney General,,,DEM,Kris Mayes,208,24,184,0
 Cochise,31 SV COLLEGE,Attorney General,,,DEM,Kris Mayes,438,58,380,0
 Cochise,32 SV COUNTRY CLUB,Attorney General,,,DEM,Kris Mayes,646,30,616,0
@@ -3007,7 +3007,7 @@ Cochise,35 SV MOSON,Attorney General,,,DEM,Kris Mayes,365,49,315,1
 Cochise,36 SV PUEBLO DEL SOL,Attorney General,,,DEM,Kris Mayes,344,45,299,0
 Cochise,37 SV RAMSEY,Attorney General,,,DEM,Kris Mayes,374,30,344,0
 Cochise,38 SV SNYDER,Attorney General,,,DEM,Kris Mayes,318,46,272,0
-Cochise,39 SV SOLDIER CREEK,Attorney General,,,DEM,Kris Mayes,483,76,405,2
+Cochise,39 SV SOLDIER CREEK,Attorney General,,,DEM,Kris Mayes,482,76,404,2
 Cochise,40 SV TOWN & COUNTRY,Attorney General,,,DEM,Kris Mayes,469,43,426,0
 Cochise,41 SV VILLAGE MEADOWS,Attorney General,,,DEM,Kris Mayes,562,77,485,0
 Cochise,42 SV VISTA VILLAGE,Attorney General,,,DEM,Kris Mayes,414,51,363,0
@@ -3021,7 +3021,7 @@ Cochise,49 WI WILLCOX,Attorney General,,,DEM,Kris Mayes,185,35,148,2
 Cochise,50 DO GRAND,Attorney General,,,DEM,Kris Mayes,15,1,14,0
 Cochise,51 BI SACRAMENTO,Attorney General,,,DEM,Kris Mayes,17,0,17,0
 Cochise,52 THREE CANYONS,Attorney General,,,DEM,Kris Mayes,138,11,127,0
-Cochise,53 GREENBUSH,Attorney General,,,DEM,Kris Mayes,44,6,37,1
+Cochise,53 GREENBUSH,Attorney General,,,DEM,Kris Mayes,45,6,38,1
 Cochise,54 PARKER,Attorney General,,,DEM,Kris Mayes,4,0,4,0
 Cochise,55 MONTEZUMA,Attorney General,,,DEM,Kris Mayes,0,0,0,0
 Cochise,01 BE BENSON,Attorney General,,,,Write-in,0,0,0,0
@@ -3117,7 +3117,7 @@ Cochise,35 SV MOSON,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,36 SV PUEBLO DEL SOL,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,37 SV RAMSEY,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,38 SV SNYDER,Attorney General,,,,Over Votes,0,0,0,0
-Cochise,39 SV SOLDIER CREEK,Attorney General,,,,Over Votes,0,0,0,0
+Cochise,39 SV SOLDIER CREEK,Attorney General,,,,Over Votes,1,0,1,0
 Cochise,40 SV TOWN & COUNTRY,Attorney General,,,,Over Votes,1,0,1,0
 Cochise,41 SV VILLAGE MEADOWS,Attorney General,,,,Over Votes,1,0,1,0
 Cochise,42 SV VISTA VILLAGE,Attorney General,,,,Over Votes,0,0,0,0
@@ -3131,7 +3131,7 @@ Cochise,49 WI WILLCOX,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,50 DO GRAND,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,51 BI SACRAMENTO,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,52 THREE CANYONS,Attorney General,,,,Over Votes,0,0,0,0
-Cochise,53 GREENBUSH,Attorney General,,,,Over Votes,1,0,1,0
+Cochise,53 GREENBUSH,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,54 PARKER,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,55 MONTEZUMA,Attorney General,,,,Over Votes,0,0,0,0
 Cochise,01 BE BENSON,Attorney General,,,,Under Votes,16,3,13,0
@@ -3162,7 +3162,7 @@ Cochise,25 SUNIZONA,Attorney General,,,,Under Votes,10,3,7,0
 Cochise,26 SV AVENIDA DEL SOL,Attorney General,,,,Under Votes,40,3,37,0
 Cochise,27 SV BUFFALO SOLDIER,Attorney General,,,,Under Votes,39,1,38,0
 Cochise,28 SV BUSBY,Attorney General,,,,Under Votes,23,2,21,0
-Cochise,29 SV CARMELITA,Attorney General,,,,Under Votes,23,1,22,0
+Cochise,29 SV CARMELITA,Attorney General,,,,Under Votes,24,1,23,0
 Cochise,30 SV CLOUD,Attorney General,,,,Under Votes,13,1,12,0
 Cochise,31 SV COLLEGE,Attorney General,,,,Under Votes,14,0,14,0
 Cochise,32 SV COUNTRY CLUB,Attorney General,,,,Under Votes,42,3,39,0
@@ -3189,278 +3189,278 @@ Cochise,52 THREE CANYONS,Attorney General,,,,Under Votes,5,1,4,0
 Cochise,53 GREENBUSH,Attorney General,,,,Under Votes,3,0,3,0
 Cochise,54 PARKER,Attorney General,,,,Under Votes,0,0,0,0
 Cochise,55 MONTEZUMA,Attorney General,,,,Under Votes,0,0,0,0
-Cochise,01 BE BENSON,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",702,247,453,2
-Cochise,02 BE J-SIX,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",1016,362,649,5
-Cochise,03 BE SAN PEDRO,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",773,259,514,0
-Cochise,04 BI BISBEE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",184,50,134,0
-Cochise,05 BI DON LUIS,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",293,107,186,0
-Cochise,06 BI WARREN,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",286,96,187,3
-Cochise,07 BOWIE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",111,52,53,6
-Cochise,08 COCHISE STRONGHOLD,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",797,308,489,0
-Cochise,09 DO CALVARY,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",142,41,101,0
-Cochise,10 DO CARLSON,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",283,77,206,0
-Cochise,11 DO CASTRO PARK,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",131,42,89,0
-Cochise,12 DO GADSDEN,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",127,28,98,1
-Cochise,13 DO SUNNYSIDE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",192,59,132,1
-Cochise,14 GREATER SAN PEDRO,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",882,330,548,4
-Cochise,15 HEREFORD,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",751,247,502,2
-Cochise,16 HUACHUCA,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",309,139,166,4
-Cochise,17 MCNEAL,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",441,202,239,0
-Cochise,18 NACO,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",84,23,61,0
-Cochise,19 PALOMINAS,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",458,158,300,0
-Cochise,20 PIRTLEVILLE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",224,65,159,0
-Cochise,21 POMERENE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",549,190,359,0
-Cochise,22 PORTAL,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",131,13,118,0
-Cochise,23 SAN SIMON,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",107,31,74,2
-Cochise,24 ST DAVID,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",1032,392,640,0
-Cochise,25 SUNIZONA,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",261,109,152,0
-Cochise,26 SV AVENIDA DEL SOL,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",879,279,599,1
-Cochise,27 SV BUFFALO SOLDIER,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",1192,435,754,3
-Cochise,28 SV BUSBY,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",524,162,357,5
-Cochise,29 SV CARMELITA,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",355,114,237,4
-Cochise,30 SV CLOUD,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",271,88,180,3
-Cochise,31 SV COLLEGE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",635,193,440,2
-Cochise,32 SV COUNTRY CLUB,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",1074,254,819,1
-Cochise,33 SV ESTATES,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",701,245,455,1
-Cochise,34 SV HOPI,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",512,168,344,0
-Cochise,35 SV MOSON,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",990,393,595,2
-Cochise,36 SV PUEBLO DEL SOL,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",516,166,347,3
-Cochise,37 SV RAMSEY,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",738,236,501,1
-Cochise,38 SV SNYDER,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",438,176,258,4
-Cochise,39 SV SOLDIER CREEK,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",579,227,350,2
-Cochise,40 SV TOWN & COUNTRY,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",895,258,635,2
-Cochise,41 SV VILLAGE MEADOWS,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",1043,318,723,2
-Cochise,42 SV VISTA VILLAGE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",597,215,379,3
-Cochise,43 SV YAQUI,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",1150,334,814,2
-Cochise,44 TOMBSTONE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",781,378,400,3
-Cochise,45 WEBB,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",266,137,127,2
-Cochise,46 WHETSTONE,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",1102,443,656,3
-Cochise,47 WI KANSAS SETTLEMENT,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",629,281,343,5
-Cochise,48 WI STEWART,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",610,257,350,3
-Cochise,49 WI WILLCOX,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",363,172,188,3
-Cochise,50 DO GRAND,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",55,23,32,0
-Cochise,51 BI SACRAMENTO,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",39,9,30,0
-Cochise,52 THREE CANYONS,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",314,97,216,1
-Cochise,53 GREENBUSH,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",140,38,102,0
-Cochise,54 PARKER,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",10,2,8,0
-Cochise,55 MONTEZUMA,Attorney General,Recount,,REP,"Abraham ""Abe"" Hamadeh",0,0,0,0
-Cochise,01 BE BENSON,Attorney General,Recount,,DEM,Kris Mayes,358,34,324,0
-Cochise,02 BE J-SIX,Attorney General,Recount,,DEM,Kris Mayes,405,33,372,0
-Cochise,03 BE SAN PEDRO,Attorney General,Recount,,DEM,Kris Mayes,454,43,411,0
-Cochise,04 BI BISBEE,Attorney General,Recount,,DEM,Kris Mayes,794,81,711,2
-Cochise,05 BI DON LUIS,Attorney General,Recount,,DEM,Kris Mayes,534,53,481,0
-Cochise,06 BI WARREN,Attorney General,Recount,,DEM,Kris Mayes,658,46,612,0
-Cochise,07 BOWIE,Attorney General,Recount,,DEM,Kris Mayes,43,10,30,3
-Cochise,08 COCHISE STRONGHOLD,Attorney General,Recount,,DEM,Kris Mayes,393,61,332,0
-Cochise,09 DO CALVARY,Attorney General,Recount,,DEM,Kris Mayes,454,48,406,0
-Cochise,10 DO CARLSON,Attorney General,Recount,,DEM,Kris Mayes,602,53,549,0
-Cochise,11 DO CASTRO PARK,Attorney General,Recount,,DEM,Kris Mayes,499,61,437,1
-Cochise,12 DO GADSDEN,Attorney General,Recount,,DEM,Kris Mayes,365,43,322,0
-Cochise,13 DO SUNNYSIDE,Attorney General,Recount,,DEM,Kris Mayes,355,56,298,1
-Cochise,14 GREATER SAN PEDRO,Attorney General,Recount,,DEM,Kris Mayes,309,37,271,1
-Cochise,15 HEREFORD,Attorney General,Recount,,DEM,Kris Mayes,381,40,341,0
-Cochise,16 HUACHUCA,Attorney General,Recount,,DEM,Kris Mayes,229,40,187,2
-Cochise,17 MCNEAL,Attorney General,Recount,,DEM,Kris Mayes,220,33,187,0
-Cochise,18 NACO,Attorney General,Recount,,DEM,Kris Mayes,221,17,203,1
-Cochise,19 PALOMINAS,Attorney General,Recount,,DEM,Kris Mayes,247,31,216,0
-Cochise,20 PIRTLEVILLE,Attorney General,Recount,,DEM,Kris Mayes,371,34,336,1
-Cochise,21 POMERENE,Attorney General,Recount,,DEM,Kris Mayes,237,18,219,0
-Cochise,22 PORTAL,Attorney General,Recount,,DEM,Kris Mayes,134,2,132,0
-Cochise,23 SAN SIMON,Attorney General,Recount,,DEM,Kris Mayes,26,3,23,0
-Cochise,24 ST DAVID,Attorney General,Recount,,DEM,Kris Mayes,328,40,288,0
-Cochise,25 SUNIZONA,Attorney General,Recount,,DEM,Kris Mayes,123,13,110,0
-Cochise,26 SV AVENIDA DEL SOL,Attorney General,Recount,,DEM,Kris Mayes,607,79,527,1
-Cochise,27 SV BUFFALO SOLDIER,Attorney General,Recount,,DEM,Kris Mayes,692,74,617,1
-Cochise,28 SV BUSBY,Attorney General,Recount,,DEM,Kris Mayes,461,62,397,2
-Cochise,29 SV CARMELITA,Attorney General,Recount,,DEM,Kris Mayes,288,47,240,1
-Cochise,30 SV CLOUD,Attorney General,Recount,,DEM,Kris Mayes,208,24,184,0
-Cochise,31 SV COLLEGE,Attorney General,Recount,,DEM,Kris Mayes,438,58,380,0
-Cochise,32 SV COUNTRY CLUB,Attorney General,Recount,,DEM,Kris Mayes,646,30,616,0
-Cochise,33 SV ESTATES,Attorney General,Recount,,DEM,Kris Mayes,485,68,417,0
-Cochise,34 SV HOPI,Attorney General,Recount,,DEM,Kris Mayes,413,59,354,0
-Cochise,35 SV MOSON,Attorney General,Recount,,DEM,Kris Mayes,365,49,315,1
-Cochise,36 SV PUEBLO DEL SOL,Attorney General,Recount,,DEM,Kris Mayes,344,45,299,0
-Cochise,37 SV RAMSEY,Attorney General,Recount,,DEM,Kris Mayes,374,30,344,0
-Cochise,38 SV SNYDER,Attorney General,Recount,,DEM,Kris Mayes,318,46,272,0
-Cochise,39 SV SOLDIER CREEK,Attorney General,Recount,,DEM,Kris Mayes,482,76,404,2
-Cochise,40 SV TOWN & COUNTRY,Attorney General,Recount,,DEM,Kris Mayes,469,43,426,0
-Cochise,41 SV VILLAGE MEADOWS,Attorney General,Recount,,DEM,Kris Mayes,562,77,485,0
-Cochise,42 SV VISTA VILLAGE,Attorney General,Recount,,DEM,Kris Mayes,414,51,363,0
-Cochise,43 SV YAQUI,Attorney General,Recount,,DEM,Kris Mayes,546,43,503,0
-Cochise,44 TOMBSTONE,Attorney General,Recount,,DEM,Kris Mayes,295,58,237,0
-Cochise,45 WEBB,Attorney General,Recount,,DEM,Kris Mayes,113,14,98,1
-Cochise,46 WHETSTONE,Attorney General,Recount,,DEM,Kris Mayes,420,48,372,0
-Cochise,47 WI KANSAS SETTLEMENT,Attorney General,Recount,,DEM,Kris Mayes,231,37,194,0
-Cochise,48 WI STEWART,Attorney General,Recount,,DEM,Kris Mayes,165,29,136,0
-Cochise,49 WI WILLCOX,Attorney General,Recount,,DEM,Kris Mayes,185,35,148,2
-Cochise,50 DO GRAND,Attorney General,Recount,,DEM,Kris Mayes,15,1,14,0
-Cochise,51 BI SACRAMENTO,Attorney General,Recount,,DEM,Kris Mayes,17,0,17,0
-Cochise,52 THREE CANYONS,Attorney General,Recount,,DEM,Kris Mayes,138,11,127,0
-Cochise,53 GREENBUSH,Attorney General,Recount,,DEM,Kris Mayes,45,6,38,1
-Cochise,54 PARKER,Attorney General,Recount,,DEM,Kris Mayes,4,0,4,0
-Cochise,55 MONTEZUMA,Attorney General,Recount,,DEM,Kris Mayes,0,0,0,0
-Cochise,01 BE BENSON,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,02 BE J-SIX,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,03 BE SAN PEDRO,Attorney General,Recount,,,Write-in,4,0,4,0
-Cochise,04 BI BISBEE,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,05 BI DON LUIS,Attorney General,Recount,,,Write-in,3,0,3,0
-Cochise,06 BI WARREN,Attorney General,Recount,,,Write-in,5,0,5,0
-Cochise,07 BOWIE,Attorney General,Recount,,,Write-in,1,1,0,0
-Cochise,08 COCHISE STRONGHOLD,Attorney General,Recount,,,Write-in,4,3,1,0
-Cochise,09 DO CALVARY,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,10 DO CARLSON,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,11 DO CASTRO PARK,Attorney General,Recount,,,Write-in,2,0,2,0
-Cochise,12 DO GADSDEN,Attorney General,Recount,,,Write-in,1,0,1,0
-Cochise,13 DO SUNNYSIDE,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,14 GREATER SAN PEDRO,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,15 HEREFORD,Attorney General,Recount,,,Write-in,3,0,3,0
-Cochise,16 HUACHUCA,Attorney General,Recount,,,Write-in,1,0,1,0
-Cochise,17 MCNEAL,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,18 NACO,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,19 PALOMINAS,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,20 PIRTLEVILLE,Attorney General,Recount,,,Write-in,1,1,0,0
-Cochise,21 POMERENE,Attorney General,Recount,,,Write-in,2,1,1,0
-Cochise,22 PORTAL,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,23 SAN SIMON,Attorney General,Recount,,,Write-in,1,0,1,0
-Cochise,24 ST DAVID,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,25 SUNIZONA,Attorney General,Recount,,,Write-in,1,0,1,0
-Cochise,26 SV AVENIDA DEL SOL,Attorney General,Recount,,,Write-in,1,1,0,0
-Cochise,27 SV BUFFALO SOLDIER,Attorney General,Recount,,,Write-in,2,2,0,0
-Cochise,28 SV BUSBY,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,29 SV CARMELITA,Attorney General,Recount,,,Write-in,1,1,0,0
-Cochise,30 SV CLOUD,Attorney General,Recount,,,Write-in,2,1,1,0
-Cochise,31 SV COLLEGE,Attorney General,Recount,,,Write-in,1,1,0,0
-Cochise,32 SV COUNTRY CLUB,Attorney General,Recount,,,Write-in,4,2,2,0
-Cochise,33 SV ESTATES,Attorney General,Recount,,,Write-in,1,0,1,0
-Cochise,34 SV HOPI,Attorney General,Recount,,,Write-in,1,0,1,0
-Cochise,35 SV MOSON,Attorney General,Recount,,,Write-in,3,0,3,0
-Cochise,36 SV PUEBLO DEL SOL,Attorney General,Recount,,,Write-in,4,0,4,0
-Cochise,37 SV RAMSEY,Attorney General,Recount,,,Write-in,2,2,0,0
-Cochise,38 SV SNYDER,Attorney General,Recount,,,Write-in,1,0,1,0
-Cochise,39 SV SOLDIER CREEK,Attorney General,Recount,,,Write-in,2,0,2,0
-Cochise,40 SV TOWN & COUNTRY,Attorney General,Recount,,,Write-in,4,3,1,0
-Cochise,41 SV VILLAGE MEADOWS,Attorney General,Recount,,,Write-in,3,0,3,0
-Cochise,42 SV VISTA VILLAGE,Attorney General,Recount,,,Write-in,4,0,4,0
-Cochise,43 SV YAQUI,Attorney General,Recount,,,Write-in,2,0,2,0
-Cochise,44 TOMBSTONE,Attorney General,Recount,,,Write-in,3,3,0,0
-Cochise,45 WEBB,Attorney General,Recount,,,Write-in,1,1,0,0
-Cochise,46 WHETSTONE,Attorney General,Recount,,,Write-in,4,0,4,0
-Cochise,47 WI KANSAS SETTLEMENT,Attorney General,Recount,,,Write-in,1,1,0,0
-Cochise,48 WI STEWART,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,49 WI WILLCOX,Attorney General,Recount,,,Write-in,2,0,2,0
-Cochise,50 DO GRAND,Attorney General,Recount,,,Write-in,1,1,0,0
-Cochise,51 BI SACRAMENTO,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,52 THREE CANYONS,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,53 GREENBUSH,Attorney General,Recount,,,Write-in,1,0,1,0
-Cochise,54 PARKER,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,55 MONTEZUMA,Attorney General,Recount,,,Write-in,0,0,0,0
-Cochise,01 BE BENSON,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,02 BE J-SIX,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,03 BE SAN PEDRO,Attorney General,Recount,,,Over Votes,1,0,1,0
-Cochise,04 BI BISBEE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,05 BI DON LUIS,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,06 BI WARREN,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,07 BOWIE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,08 COCHISE STRONGHOLD,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,09 DO CALVARY,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,10 DO CARLSON,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,11 DO CASTRO PARK,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,12 DO GADSDEN,Attorney General,Recount,,,Over Votes,1,0,1,0
-Cochise,13 DO SUNNYSIDE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,14 GREATER SAN PEDRO,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,15 HEREFORD,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,16 HUACHUCA,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,17 MCNEAL,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,18 NACO,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,19 PALOMINAS,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,20 PIRTLEVILLE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,21 POMERENE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,22 PORTAL,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,23 SAN SIMON,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,24 ST DAVID,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,25 SUNIZONA,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,26 SV AVENIDA DEL SOL,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,27 SV BUFFALO SOLDIER,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,28 SV BUSBY,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,29 SV CARMELITA,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,30 SV CLOUD,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,31 SV COLLEGE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,32 SV COUNTRY CLUB,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,33 SV ESTATES,Attorney General,Recount,,,Over Votes,1,0,1,0
-Cochise,34 SV HOPI,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,35 SV MOSON,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,36 SV PUEBLO DEL SOL,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,37 SV RAMSEY,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,38 SV SNYDER,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,39 SV SOLDIER CREEK,Attorney General,Recount,,,Over Votes,1,0,1,0
-Cochise,40 SV TOWN & COUNTRY,Attorney General,Recount,,,Over Votes,1,0,1,0
-Cochise,41 SV VILLAGE MEADOWS,Attorney General,Recount,,,Over Votes,1,0,1,0
-Cochise,42 SV VISTA VILLAGE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,43 SV YAQUI,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,44 TOMBSTONE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,45 WEBB,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,46 WHETSTONE,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,47 WI KANSAS SETTLEMENT,Attorney General,Recount,,,Over Votes,1,0,1,0
-Cochise,48 WI STEWART,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,49 WI WILLCOX,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,50 DO GRAND,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,51 BI SACRAMENTO,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,52 THREE CANYONS,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,53 GREENBUSH,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,54 PARKER,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,55 MONTEZUMA,Attorney General,Recount,,,Over Votes,0,0,0,0
-Cochise,01 BE BENSON,Attorney General,Recount,,,Under Votes,16,3,13,0
-Cochise,02 BE J-SIX,Attorney General,Recount,,,Under Votes,29,3,26,0
-Cochise,03 BE SAN PEDRO,Attorney General,Recount,,,Under Votes,35,2,33,0
-Cochise,04 BI BISBEE,Attorney General,Recount,,,Under Votes,10,2,8,0
-Cochise,05 BI DON LUIS,Attorney General,Recount,,,Under Votes,13,0,13,0
-Cochise,06 BI WARREN,Attorney General,Recount,,,Under Votes,22,1,21,0
-Cochise,07 BOWIE,Attorney General,Recount,,,Under Votes,1,0,1,0
-Cochise,08 COCHISE STRONGHOLD,Attorney General,Recount,,,Under Votes,38,5,33,0
-Cochise,09 DO CALVARY,Attorney General,Recount,,,Under Votes,12,1,11,0
-Cochise,10 DO CARLSON,Attorney General,Recount,,,Under Votes,12,0,12,0
-Cochise,11 DO CASTRO PARK,Attorney General,Recount,,,Under Votes,23,4,19,0
-Cochise,12 DO GADSDEN,Attorney General,Recount,,,Under Votes,16,2,14,0
-Cochise,13 DO SUNNYSIDE,Attorney General,Recount,,,Under Votes,22,1,21,0
-Cochise,14 GREATER SAN PEDRO,Attorney General,Recount,,,Under Votes,22,1,21,0
-Cochise,15 HEREFORD,Attorney General,Recount,,,Under Votes,29,4,25,0
-Cochise,16 HUACHUCA,Attorney General,Recount,,,Under Votes,13,2,11,0
-Cochise,17 MCNEAL,Attorney General,Recount,,,Under Votes,19,2,17,0
-Cochise,18 NACO,Attorney General,Recount,,,Under Votes,3,0,3,0
-Cochise,19 PALOMINAS,Attorney General,Recount,,,Under Votes,12,2,10,0
-Cochise,20 PIRTLEVILLE,Attorney General,Recount,,,Under Votes,11,1,10,0
-Cochise,21 POMERENE,Attorney General,Recount,,,Under Votes,17,3,14,0
-Cochise,22 PORTAL,Attorney General,Recount,,,Under Votes,4,0,4,0
-Cochise,23 SAN SIMON,Attorney General,Recount,,,Under Votes,2,0,2,0
-Cochise,24 ST DAVID,Attorney General,Recount,,,Under Votes,28,3,25,0
-Cochise,25 SUNIZONA,Attorney General,Recount,,,Under Votes,10,3,7,0
-Cochise,26 SV AVENIDA DEL SOL,Attorney General,Recount,,,Under Votes,40,3,37,0
-Cochise,27 SV BUFFALO SOLDIER,Attorney General,Recount,,,Under Votes,39,1,38,0
-Cochise,28 SV BUSBY,Attorney General,Recount,,,Under Votes,23,2,21,0
-Cochise,29 SV CARMELITA,Attorney General,Recount,,,Under Votes,24,1,23,0
-Cochise,30 SV CLOUD,Attorney General,Recount,,,Under Votes,13,1,12,0
-Cochise,31 SV COLLEGE,Attorney General,Recount,,,Under Votes,14,0,14,0
-Cochise,32 SV COUNTRY CLUB,Attorney General,Recount,,,Under Votes,42,3,39,0
-Cochise,33 SV ESTATES,Attorney General,Recount,,,Under Votes,23,0,23,0
-Cochise,34 SV HOPI,Attorney General,Recount,,,Under Votes,24,1,23,0
-Cochise,35 SV MOSON,Attorney General,Recount,,,Under Votes,29,3,26,0
-Cochise,36 SV PUEBLO DEL SOL,Attorney General,Recount,,,Under Votes,23,3,20,0
-Cochise,37 SV RAMSEY,Attorney General,Recount,,,Under Votes,21,0,21,0
-Cochise,38 SV SNYDER,Attorney General,Recount,,,Under Votes,13,2,11,0
-Cochise,39 SV SOLDIER CREEK,Attorney General,Recount,,,Under Votes,26,3,23,0
-Cochise,40 SV TOWN & COUNTRY,Attorney General,Recount,,,Under Votes,25,4,21,0
-Cochise,41 SV VILLAGE MEADOWS,Attorney General,Recount,,,Under Votes,37,3,34,0
-Cochise,42 SV VISTA VILLAGE,Attorney General,Recount,,,Under Votes,16,2,14,0
-Cochise,43 SV YAQUI,Attorney General,Recount,,,Under Votes,36,0,36,0
-Cochise,44 TOMBSTONE,Attorney General,Recount,,,Under Votes,32,9,23,0
-Cochise,45 WEBB,Attorney General,Recount,,,Under Votes,9,3,6,0
-Cochise,46 WHETSTONE,Attorney General,Recount,,,Under Votes,34,6,28,0
-Cochise,47 WI KANSAS SETTLEMENT,Attorney General,Recount,,,Under Votes,21,3,17,1
-Cochise,48 WI STEWART,Attorney General,Recount,,,Under Votes,16,8,8,0
-Cochise,49 WI WILLCOX,Attorney General,Recount,,,Under Votes,18,1,17,0
-Cochise,50 DO GRAND,Attorney General,Recount,,,Under Votes,2,0,2,0
-Cochise,51 BI SACRAMENTO,Attorney General,Recount,,,Under Votes,1,0,1,0
-Cochise,52 THREE CANYONS,Attorney General,Recount,,,Under Votes,5,1,4,0
-Cochise,53 GREENBUSH,Attorney General,Recount,,,Under Votes,3,0,3,0
-Cochise,54 PARKER,Attorney General,Recount,,,Under Votes,0,0,0,0
-Cochise,55 MONTEZUMA,Attorney General,Recount,,,Under Votes,0,0,0,0
+Cochise,01 BE BENSON,State Treasurer,,,REP,Kimberly Yee,,255,474,2
+Cochise,01 BE BENSON,State Treasurer,,,DEM,Martin Quezada,,26,295,0
+Cochise,01 BE BENSON,State Treasurer,,,,Write-in,,0,0,0
+Cochise,01 BE BENSON,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,01 BE BENSON,State Treasurer,,,,Under Votes,,3,21,0
+Cochise,02 BE J-SIX,State Treasurer,,,REP,Kimberly Yee,,370,704,5
+Cochise,02 BE J-SIX,State Treasurer,,,DEM,Martin Quezada,,27,309,0
+Cochise,02 BE J-SIX,State Treasurer,,,,Write-in,,0,1,0
+Cochise,02 BE J-SIX,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,02 BE J-SIX,State Treasurer,,,,Under Votes,,1,33,0
+Cochise,03 BE SAN PEDRO,State Treasurer,,,REP,Kimberly Yee,,267,574,0
+Cochise,03 BE SAN PEDRO,State Treasurer,,,DEM,Martin Quezada,,36,363,0
+Cochise,03 BE SAN PEDRO,State Treasurer,,,,Write-in,,0,1,0
+Cochise,03 BE SAN PEDRO,State Treasurer,,,,Over Votes,,0,1,0
+Cochise,03 BE SAN PEDRO,State Treasurer,,,,Under Votes,,1,24,0
+Cochise,04 BI BISBEE,State Treasurer,,,REP,Kimberly Yee,,56,155,0
+Cochise,04 BI BISBEE,State Treasurer,,,DEM,Martin Quezada,,75,684,2
+Cochise,04 BI BISBEE,State Treasurer,,,,Write-in,,0,1,0
+Cochise,04 BI BISBEE,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,04 BI BISBEE,State Treasurer,,,,Under Votes,,2,13,0
+Cochise,05 BI DON LUIS,State Treasurer,,,REP,Kimberly Yee,,110,204,0
+Cochise,05 BI DON LUIS,State Treasurer,,,DEM,Martin Quezada,,48,465,0
+Cochise,05 BI DON LUIS,State Treasurer,,,,Write-in,,1,2,0
+Cochise,05 BI DON LUIS,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,05 BI DON LUIS,State Treasurer,,,,Under Votes,,1,12,0
+Cochise,06 BI WARREN,State Treasurer,,,REP,Kimberly Yee,,98,235,3
+Cochise,06 BI WARREN,State Treasurer,,,DEM,Martin Quezada,,45,560,0
+Cochise,06 BI WARREN,State Treasurer,,,,Write-in,,0,4,0
+Cochise,06 BI WARREN,State Treasurer,,,,Over Votes,,0,1,0
+Cochise,06 BI WARREN,State Treasurer,,,,Under Votes,,0,25,0
+Cochise,07 BOWIE,State Treasurer,,,REP,Kimberly Yee,,53,56,6
+Cochise,07 BOWIE,State Treasurer,,,DEM,Martin Quezada,,8,26,3
+Cochise,07 BOWIE,State Treasurer,,,,Write-in,,2,0,0
+Cochise,07 BOWIE,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,07 BOWIE,State Treasurer,,,,Under Votes,,0,2,0
+Cochise,08 COCHISE STRONGHOLD,State Treasurer,,,REP,Kimberly Yee,,328,522,0
+Cochise,08 COCHISE STRONGHOLD,State Treasurer,,,DEM,Martin Quezada,,45,297,0
+Cochise,08 COCHISE STRONGHOLD,State Treasurer,,,,Write-in,,1,0,0
+Cochise,08 COCHISE STRONGHOLD,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,08 COCHISE STRONGHOLD,State Treasurer,,,,Under Votes,,3,36,0
+Cochise,09 DO CALVARY,State Treasurer,,,REP,Kimberly Yee,,43,93,0
+Cochise,09 DO CALVARY,State Treasurer,,,DEM,Martin Quezada,,46,415,0
+Cochise,09 DO CALVARY,State Treasurer,,,,Write-in,,0,0,0
+Cochise,09 DO CALVARY,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,09 DO CALVARY,State Treasurer,,,,Under Votes,,1,10,0
+Cochise,10 DO CARLSON,State Treasurer,,,REP,Kimberly Yee,,75,217,0
+Cochise,10 DO CARLSON,State Treasurer,,,DEM,Martin Quezada,,53,539,0
+Cochise,10 DO CARLSON,State Treasurer,,,,Write-in,,1,0,0
+Cochise,10 DO CARLSON,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,10 DO CARLSON,State Treasurer,,,,Under Votes,,1,11,0
+Cochise,11 DO CASTRO PARK,State Treasurer,,,REP,Kimberly Yee,,39,83,0
+Cochise,11 DO CASTRO PARK,State Treasurer,,,DEM,Martin Quezada,,63,444,1
+Cochise,11 DO CASTRO PARK,State Treasurer,,,,Write-in,,0,3,0
+Cochise,11 DO CASTRO PARK,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,11 DO CASTRO PARK,State Treasurer,,,,Under Votes,,5,17,0
+Cochise,12 DO GADSDEN,State Treasurer,,,REP,Kimberly Yee,,28,95,1
+Cochise,12 DO GADSDEN,State Treasurer,,,DEM,Martin Quezada,,44,328,0
+Cochise,12 DO GADSDEN,State Treasurer,,,,Write-in,,0,0,0
+Cochise,12 DO GADSDEN,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,12 DO GADSDEN,State Treasurer,,,,Under Votes,,1,13,0
+Cochise,13 DO SUNNYSIDE,State Treasurer,,,REP,Kimberly Yee,,65,139,1
+Cochise,13 DO SUNNYSIDE,State Treasurer,,,DEM,Martin Quezada,,51,295,1
+Cochise,13 DO SUNNYSIDE,State Treasurer,,,,Write-in,,0,1,0
+Cochise,13 DO SUNNYSIDE,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,13 DO SUNNYSIDE,State Treasurer,,,,Under Votes,,0,16,0
+Cochise,14 GREATER SAN PEDRO,State Treasurer,,,REP,Kimberly Yee,,338,590,4
+Cochise,14 GREATER SAN PEDRO,State Treasurer,,,DEM,Martin Quezada,,27,225,1
+Cochise,14 GREATER SAN PEDRO,State Treasurer,,,,Write-in,,1,3,0
+Cochise,14 GREATER SAN PEDRO,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,14 GREATER SAN PEDRO,State Treasurer,,,,Under Votes,,2,22,0
+Cochise,15 HEREFORD,State Treasurer,,,REP,Kimberly Yee,,252,544,2
+Cochise,15 HEREFORD,State Treasurer,,,DEM,Martin Quezada,,34,303,0
+Cochise,15 HEREFORD,State Treasurer,,,,Write-in,,1,0,0
+Cochise,15 HEREFORD,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,15 HEREFORD,State Treasurer,,,,Under Votes,,4,24,0
+Cochise,16 HUACHUCA,State Treasurer,,,REP,Kimberly Yee,,147,194,4
+Cochise,16 HUACHUCA,State Treasurer,,,DEM,Martin Quezada,,32,158,2
+Cochise,16 HUACHUCA,State Treasurer,,,,Write-in,,0,0,0
+Cochise,16 HUACHUCA,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,16 HUACHUCA,State Treasurer,,,,Under Votes,,2,13,0
+Cochise,17 MCNEAL,State Treasurer,,,REP,Kimberly Yee,,210,253,0
+Cochise,17 MCNEAL,State Treasurer,,,DEM,Martin Quezada,,23,173,0
+Cochise,17 MCNEAL,State Treasurer,,,,Write-in,,0,1,0
+Cochise,17 MCNEAL,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,17 MCNEAL,State Treasurer,,,,Under Votes,,4,16,0
+Cochise,18 NACO,State Treasurer,,,REP,Kimberly Yee,,25,72,0
+Cochise,18 NACO,State Treasurer,,,DEM,Martin Quezada,,15,195,1
+Cochise,18 NACO,State Treasurer,,,,Write-in,,0,0,0
+Cochise,18 NACO,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,18 NACO,State Treasurer,,,,Under Votes,,0,0,0
+Cochise,19 PALOMINAS,State Treasurer,,,REP,Kimberly Yee,,163,332,0
+Cochise,19 PALOMINAS,State Treasurer,,,DEM,Martin Quezada,,27,185,0
+Cochise,19 PALOMINAS,State Treasurer,,,,Write-in,,0,0,0
+Cochise,19 PALOMINAS,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,19 PALOMINAS,State Treasurer,,,,Under Votes,,1,9,0
+Cochise,20 PIRTLEVILLE,State Treasurer,,,REP,Kimberly Yee,,69,174,0
+Cochise,20 PIRTLEVILLE,State Treasurer,,,DEM,Martin Quezada,,32,321,1
+Cochise,20 PIRTLEVILLE,State Treasurer,,,,Write-in,,0,0,0
+Cochise,20 PIRTLEVILLE,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,20 PIRTLEVILLE,State Treasurer,,,,Under Votes,,0,10,0
+Cochise,21 POMERENE,State Treasurer,,,REP,Kimberly Yee,,193,385,0
+Cochise,21 POMERENE,State Treasurer,,,DEM,Martin Quezada,,16,192,0
+Cochise,21 POMERENE,State Treasurer,,,,Write-in,,0,0,0
+Cochise,21 POMERENE,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,21 POMERENE,State Treasurer,,,,Under Votes,,3,16,0
+Cochise,22 PORTAL,State Treasurer,,,REP,Kimberly Yee,,13,127,0
+Cochise,22 PORTAL,State Treasurer,,,DEM,Martin Quezada,,2,119,0
+Cochise,22 PORTAL,State Treasurer,,,,Write-in,,0,0,0
+Cochise,22 PORTAL,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,22 PORTAL,State Treasurer,,,,Under Votes,,0,8,0
+Cochise,23 SAN SIMON,State Treasurer,,,REP,Kimberly Yee,,29,82,2
+Cochise,23 SAN SIMON,State Treasurer,,,DEM,Martin Quezada,,5,16,0
+Cochise,23 SAN SIMON,State Treasurer,,,,Write-in,,0,0,0
+Cochise,23 SAN SIMON,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,23 SAN SIMON,State Treasurer,,,,Under Votes,,0,2,0
+Cochise,24 ST DAVID,State Treasurer,,,REP,Kimberly Yee,,401,673,0
+Cochise,24 ST DAVID,State Treasurer,,,DEM,Martin Quezada,,33,253,0
+Cochise,24 ST DAVID,State Treasurer,,,,Write-in,,0,2,0
+Cochise,24 ST DAVID,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,24 ST DAVID,State Treasurer,,,,Under Votes,,1,25,0
+Cochise,25 SUNIZONA,State Treasurer,,,REP,Kimberly Yee,,112,163,0
+Cochise,25 SUNIZONA,State Treasurer,,,DEM,Martin Quezada,,11,99,0
+Cochise,25 SUNIZONA,State Treasurer,,,,Write-in,,0,0,0
+Cochise,25 SUNIZONA,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,25 SUNIZONA,State Treasurer,,,,Under Votes,,2,8,0
+Cochise,26 SV AVENIDA DEL SOL,State Treasurer,,,REP,Kimberly Yee,,303,670,2
+Cochise,26 SV AVENIDA DEL SOL,State Treasurer,,,DEM,Martin Quezada,,55,451,0
+Cochise,26 SV AVENIDA DEL SOL,State Treasurer,,,,Write-in,,0,1,0
+Cochise,26 SV AVENIDA DEL SOL,State Treasurer,,,,Over Votes,,0,1,0
+Cochise,26 SV AVENIDA DEL SOL,State Treasurer,,,,Under Votes,,4,40,0
+Cochise,27 SV BUFFALO SOLDIER,State Treasurer,,,REP,Kimberly Yee,,447,825,3
+Cochise,27 SV BUFFALO SOLDIER,State Treasurer,,,DEM,Martin Quezada,,63,545,1
+Cochise,27 SV BUFFALO SOLDIER,State Treasurer,,,,Write-in,,1,0,0
+Cochise,27 SV BUFFALO SOLDIER,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,27 SV BUFFALO SOLDIER,State Treasurer,,,,Under Votes,,1,39,0
+Cochise,28 SV BUSBY,State Treasurer,,,REP,Kimberly Yee,,172,398,5
+Cochise,28 SV BUSBY,State Treasurer,,,DEM,Martin Quezada,,52,357,2
+Cochise,28 SV BUSBY,State Treasurer,,,,Write-in,,0,1,0
+Cochise,28 SV BUSBY,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,28 SV BUSBY,State Treasurer,,,,Under Votes,,2,19,0
+Cochise,29 SV CARMELITA,State Treasurer,,,REP,Kimberly Yee,,121,264,5
+Cochise,29 SV CARMELITA,State Treasurer,,,DEM,Martin Quezada,,41,211,0
+Cochise,29 SV CARMELITA,State Treasurer,,,,Write-in,,0,0,0
+Cochise,29 SV CARMELITA,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,29 SV CARMELITA,State Treasurer,,,,Under Votes,,1,25,0
+Cochise,30 SV CLOUD,State Treasurer,,,REP,Kimberly Yee,,87,191,2
+Cochise,30 SV CLOUD,State Treasurer,,,DEM,Martin Quezada,,25,168,1
+Cochise,30 SV CLOUD,State Treasurer,,,,Write-in,,1,1,0
+Cochise,30 SV CLOUD,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,30 SV CLOUD,State Treasurer,,,,Under Votes,,1,17,0
+Cochise,31 SV COLLEGE,State Treasurer,,,REP,Kimberly Yee,,198,482,2
+Cochise,31 SV COLLEGE,State Treasurer,,,DEM,Martin Quezada,,54,334,0
+Cochise,31 SV COLLEGE,State Treasurer,,,,Write-in,,0,0,0
+Cochise,31 SV COLLEGE,State Treasurer,,,,Over Votes,,0,1,0
+Cochise,31 SV COLLEGE,State Treasurer,,,,Under Votes,,0,17,0
+Cochise,32 SV COUNTRY CLUB,State Treasurer,,,REP,Kimberly Yee,,267,917,1
+Cochise,32 SV COUNTRY CLUB,State Treasurer,,,DEM,Martin Quezada,,19,517,0
+Cochise,32 SV COUNTRY CLUB,State Treasurer,,,,Write-in,,0,0,0
+Cochise,32 SV COUNTRY CLUB,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,32 SV COUNTRY CLUB,State Treasurer,,,,Under Votes,,3,42,0
+Cochise,33 SV ESTATES,State Treasurer,,,REP,Kimberly Yee,,254,512,1
+Cochise,33 SV ESTATES,State Treasurer,,,DEM,Martin Quezada,,59,363,0
+Cochise,33 SV ESTATES,State Treasurer,,,,Write-in,,0,1,0
+Cochise,33 SV ESTATES,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,33 SV ESTATES,State Treasurer,,,,Under Votes,,0,21,0
+Cochise,34 SV HOPI,State Treasurer,,,REP,Kimberly Yee,,175,375,0
+Cochise,34 SV HOPI,State Treasurer,,,DEM,Martin Quezada,,51,318,0
+Cochise,34 SV HOPI,State Treasurer,,,,Write-in,,1,2,0
+Cochise,34 SV HOPI,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,34 SV HOPI,State Treasurer,,,,Under Votes,,1,27,0
+Cochise,35 SV MOSON,State Treasurer,,,REP,Kimberly Yee,,406,641,2
+Cochise,35 SV MOSON,State Treasurer,,,DEM,Martin Quezada,,35,280,1
+Cochise,35 SV MOSON,State Treasurer,,,,Write-in,,0,0,0
+Cochise,35 SV MOSON,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,35 SV MOSON,State Treasurer,,,,Under Votes,,4,18,0
+Cochise,36 SV PUEBLO DEL SOL,State Treasurer,,,REP,Kimberly Yee,,173,381,3
+Cochise,36 SV PUEBLO DEL SOL,State Treasurer,,,DEM,Martin Quezada,,37,270,0
+Cochise,36 SV PUEBLO DEL SOL,State Treasurer,,,,Write-in,,0,1,0
+Cochise,36 SV PUEBLO DEL SOL,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,36 SV PUEBLO DEL SOL,State Treasurer,,,,Under Votes,,4,18,0
+Cochise,37 SV RAMSEY,State Treasurer,,,REP,Kimberly Yee,,246,547,1
+Cochise,37 SV RAMSEY,State Treasurer,,,DEM,Martin Quezada,,19,294,0
+Cochise,37 SV RAMSEY,State Treasurer,,,,Write-in,,2,0,0
+Cochise,37 SV RAMSEY,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,37 SV RAMSEY,State Treasurer,,,,Under Votes,,1,25,0
+Cochise,38 SV SNYDER,State Treasurer,,,REP,Kimberly Yee,,188,290,4
+Cochise,38 SV SNYDER,State Treasurer,,,DEM,Martin Quezada,,35,235,0
+Cochise,38 SV SNYDER,State Treasurer,,,,Write-in,,1,0,0
+Cochise,38 SV SNYDER,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,38 SV SNYDER,State Treasurer,,,,Under Votes,,0,17,0
+Cochise,39 SV SOLDIER CREEK,State Treasurer,,,REP,Kimberly Yee,,240,389,3
+Cochise,39 SV SOLDIER CREEK,State Treasurer,,,DEM,Martin Quezada,,63,368,1
+Cochise,39 SV SOLDIER CREEK,State Treasurer,,,,Write-in,,1,0,0
+Cochise,39 SV SOLDIER CREEK,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,39 SV SOLDIER CREEK,State Treasurer,,,,Under Votes,,2,23,0
+Cochise,40 SV TOWN & COUNTRY,State Treasurer,,,REP,Kimberly Yee,,262,709,2
+Cochise,40 SV TOWN & COUNTRY,State Treasurer,,,DEM,Martin Quezada,,40,355,0
+Cochise,40 SV TOWN & COUNTRY,State Treasurer,,,,Write-in,,1,1,0
+Cochise,40 SV TOWN & COUNTRY,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,40 SV TOWN & COUNTRY,State Treasurer,,,,Under Votes,,5,19,0
+Cochise,41 SV VILLAGE MEADOWS,State Treasurer,,,REP,Kimberly Yee,,332,788,2
+Cochise,41 SV VILLAGE MEADOWS,State Treasurer,,,DEM,Martin Quezada,,62,424,0
+Cochise,41 SV VILLAGE MEADOWS,State Treasurer,,,,Write-in,,1,0,0
+Cochise,41 SV VILLAGE MEADOWS,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,41 SV VILLAGE MEADOWS,State Treasurer,,,,Under Votes,,3,34,0
+Cochise,42 SV VISTA VILLAGE,State Treasurer,,,REP,Kimberly Yee,,219,435,3
+Cochise,42 SV VISTA VILLAGE,State Treasurer,,,DEM,Martin Quezada,,46,306,0
+Cochise,42 SV VISTA VILLAGE,State Treasurer,,,,Write-in,,0,1,0
+Cochise,42 SV VISTA VILLAGE,State Treasurer,,,,Over Votes,,0,1,0
+Cochise,42 SV VISTA VILLAGE,State Treasurer,,,,Under Votes,,3,17,0
+Cochise,43 SV YAQUI,State Treasurer,,,REP,Kimberly Yee,,339,873,2
+Cochise,43 SV YAQUI,State Treasurer,,,DEM,Martin Quezada,,38,441,0
+Cochise,43 SV YAQUI,State Treasurer,,,,Write-in,,0,0,0
+Cochise,43 SV YAQUI,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,43 SV YAQUI,State Treasurer,,,,Under Votes,,0,41,0
+Cochise,44 TOMBSTONE,State Treasurer,,,REP,Kimberly Yee,,387,433,3
+Cochise,44 TOMBSTONE,State Treasurer,,,DEM,Martin Quezada,,53,200,0
+Cochise,44 TOMBSTONE,State Treasurer,,,,Write-in,,1,1,0
+Cochise,44 TOMBSTONE,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,44 TOMBSTONE,State Treasurer,,,,Under Votes,,7,26,0
+Cochise,45 WEBB,State Treasurer,,,REP,Kimberly Yee,,140,139,2
+Cochise,45 WEBB,State Treasurer,,,DEM,Martin Quezada,,14,82,1
+Cochise,45 WEBB,State Treasurer,,,,Write-in,,0,0,0
+Cochise,45 WEBB,State Treasurer,,,,Over Votes,,0,1,0
+Cochise,45 WEBB,State Treasurer,,,,Under Votes,,1,9,0
+Cochise,46 WHETSTONE,State Treasurer,,,REP,Kimberly Yee,,452,710,3
+Cochise,46 WHETSTONE,State Treasurer,,,DEM,Martin Quezada,,41,317,0
+Cochise,46 WHETSTONE,State Treasurer,,,,Write-in,,0,4,0
+Cochise,46 WHETSTONE,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,46 WHETSTONE,State Treasurer,,,,Under Votes,,4,29,0
+Cochise,47 WI KANSAS SETTLEMENT,State Treasurer,,,REP,Kimberly Yee,,287,378,5
+Cochise,47 WI KANSAS SETTLEMENT,State Treasurer,,,DEM,Martin Quezada,,32,159,0
+Cochise,47 WI KANSAS SETTLEMENT,State Treasurer,,,,Write-in,,0,3,0
+Cochise,47 WI KANSAS SETTLEMENT,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,47 WI KANSAS SETTLEMENT,State Treasurer,,,,Under Votes,,3,15,1
+Cochise,48 WI STEWART,State Treasurer,,,REP,Kimberly Yee,,258,369,3
+Cochise,48 WI STEWART,State Treasurer,,,DEM,Martin Quezada,,29,118,0
+Cochise,48 WI STEWART,State Treasurer,,,,Write-in,,0,0,0
+Cochise,48 WI STEWART,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,48 WI STEWART,State Treasurer,,,,Under Votes,,7,7,0
+Cochise,49 WI WILLCOX,State Treasurer,,,REP,Kimberly Yee,,177,221,3
+Cochise,49 WI WILLCOX,State Treasurer,,,DEM,Martin Quezada,,30,118,2
+Cochise,49 WI WILLCOX,State Treasurer,,,,Write-in,,0,1,0
+Cochise,49 WI WILLCOX,State Treasurer,,,,Over Votes,,0,1,0
+Cochise,49 WI WILLCOX,State Treasurer,,,,Under Votes,,1,14,0
+Cochise,50 DO GRAND,State Treasurer,,,REP,Kimberly Yee,,22,34,0
+Cochise,50 DO GRAND,State Treasurer,,,DEM,Martin Quezada,,3,13,0
+Cochise,50 DO GRAND,State Treasurer,,,,Write-in,,0,0,0
+Cochise,50 DO GRAND,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,50 DO GRAND,State Treasurer,,,,Under Votes,,0,1,0
+Cochise,51 BI SACRAMENTO,State Treasurer,,,REP,Kimberly Yee,,9,31,0
+Cochise,51 BI SACRAMENTO,State Treasurer,,,DEM,Martin Quezada,,0,15,0
+Cochise,51 BI SACRAMENTO,State Treasurer,,,,Write-in,,0,2,0
+Cochise,51 BI SACRAMENTO,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,51 BI SACRAMENTO,State Treasurer,,,,Under Votes,,0,0,0
+Cochise,52 THREE CANYONS,State Treasurer,,,REP,Kimberly Yee,,101,233,1
+Cochise,52 THREE CANYONS,State Treasurer,,,DEM,Martin Quezada,,8,110,0
+Cochise,52 THREE CANYONS,State Treasurer,,,,Write-in,,0,0,0
+Cochise,52 THREE CANYONS,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,52 THREE CANYONS,State Treasurer,,,,Under Votes,,0,4,0
+Cochise,53 GREENBUSH,State Treasurer,,,REP,Kimberly Yee,,39,106,0
+Cochise,53 GREENBUSH,State Treasurer,,,DEM,Martin Quezada,,5,37,1
+Cochise,53 GREENBUSH,State Treasurer,,,,Write-in,,0,0,0
+Cochise,53 GREENBUSH,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,53 GREENBUSH,State Treasurer,,,,Under Votes,,0,1,0
+Cochise,54 PARKER,State Treasurer,,,REP,Kimberly Yee,,2,8,0
+Cochise,54 PARKER,State Treasurer,,,DEM,Martin Quezada,,0,4,0
+Cochise,54 PARKER,State Treasurer,,,,Write-in,,0,0,0
+Cochise,54 PARKER,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,54 PARKER,State Treasurer,,,,Under Votes,,0,0,0
+Cochise,55 MONTEZUMA,State Treasurer,,,REP,Kimberly Yee,,0,0,0
+Cochise,55 MONTEZUMA,State Treasurer,,,DEM,Martin Quezada,,0,0,0
+Cochise,55 MONTEZUMA,State Treasurer,,,,Write-in,,0,0,0
+Cochise,55 MONTEZUMA,State Treasurer,,,,Over Votes,,0,0,0
+Cochise,55 MONTEZUMA,State Treasurer,,,,Under Votes,,0,0,0
