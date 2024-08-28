@@ -307,8 +307,8 @@ Pinal,91 Silverbell,U.S. Senate,,DEM,Mark Kelly,24,20,4,0
 Pinal,92 Eagle Crest,U.S. Senate,,DEM,Mark Kelly,1521,1385,130,6
 Pinal,93 Oracle South,U.S. Senate,,DEM,Mark Kelly,843,695,146,2
 Pinal,94 Skyline Ranch,U.S. Senate,,DEM,Mark Kelly,720,613,106,1
-Pinal,95 Queen South Creek,U.S. Senate,,DEM,Mark Kelly,671,591,80,0
-Pinal,96 San Tan Riches,U.S. Senate,,DEM,Mark Kelly,427,401,25,1
+Pinal,95 Queen Creek South,U.S. Senate,,DEM,Mark Kelly,671,591,80,0
+Pinal,96 San Tan Ranches,U.S. Senate,,DEM,Mark Kelly,427,401,25,1
 Pinal,97 Copper Basin Southeast,U.S. Senate,,DEM,Mark Kelly,965,778,186,1
 Pinal,98 Links Estates,U.S. Senate,,DEM,Mark Kelly,996,866,125,5
 Pinal,99 Mission Valley,U.S. Senate,,DEM,Mark Kelly,1023,882,138,3
@@ -416,8 +416,8 @@ Pinal,91 Silverbell,U.S. Senate,,REP,Blake Masters,66,41,25,0
 Pinal,92 Eagle Crest,U.S. Senate,,REP,Blake Masters,1555,1084,463,8
 Pinal,93 Oracle South,U.S. Senate,,REP,Blake Masters,779,463,312,4
 Pinal,94 Skyline Ranch,U.S. Senate,,REP,Blake Masters,996,641,349,6
-Pinal,95 Queen South Creek,U.S. Senate,,REP,Blake Masters,1151,814,334,3
-Pinal,96 San Tan Riches,U.S. Senate,,REP,Blake Masters,1238,898,332,8
+Pinal,95 Queen Creek South,U.S. Senate,,REP,Blake Masters,1151,814,334,3
+Pinal,96 San Tan Ranches,U.S. Senate,,REP,Blake Masters,1238,898,332,8
 Pinal,97 Copper Basin Southeast,U.S. Senate,,REP,Blake Masters,1228,753,472,3
 Pinal,98 Links Estates,U.S. Senate,,REP,Blake Masters,1529,1054,473,2
 Pinal,99 Mission Valley,U.S. Senate,,REP,Blake Masters,1126,782,337,7
@@ -525,8 +525,8 @@ Pinal,91 Silverbell,U.S. Senate,,LIB,Marc J. Victor,10,8,2,0
 Pinal,92 Eagle Crest,U.S. Senate,,LIB,Marc J. Victor,26,23,3,0
 Pinal,93 Oracle South,U.S. Senate,,LIB,Marc J. Victor,37,28,9,0
 Pinal,94 Skyline Ranch,U.S. Senate,,LIB,Marc J. Victor,32,20,12,0
-Pinal,95 Queen South Creek,U.S. Senate,,LIB,Marc J. Victor,45,42,3,0
-Pinal,96 San Tan Riches,U.S. Senate,,LIB,Marc J. Victor,45,37,8,0
+Pinal,95 Queen Creek South,U.S. Senate,,LIB,Marc J. Victor,45,42,3,0
+Pinal,96 San Tan Ranches,U.S. Senate,,LIB,Marc J. Victor,45,37,8,0
 Pinal,97 Copper Basin Southeast,U.S. Senate,,LIB,Marc J. Victor,62,46,16,0
 Pinal,98 Links Estates,U.S. Senate,,LIB,Marc J. Victor,70,55,15,0
 Pinal,99 Mission Valley,U.S. Senate,,LIB,Marc J. Victor,68,53,15,0
@@ -634,8 +634,8 @@ Pinal,91 Silverbell,U.S. Senate,,,Write-ins,0,0,0,0
 Pinal,92 Eagle Crest,U.S. Senate,,,Write-ins,2,1,1,0
 Pinal,93 Oracle South,U.S. Senate,,,Write-ins,0,0,0,0
 Pinal,94 Skyline Ranch,U.S. Senate,,,Write-ins,1,1,0,0
-Pinal,95 Queen South Creek,U.S. Senate,,,Write-ins,0,0,0,0
-Pinal,96 San Tan Riches,U.S. Senate,,,Write-ins,2,2,0,0
+Pinal,95 Queen Creek South,U.S. Senate,,,Write-ins,0,0,0,0
+Pinal,96 San Tan Ranches,U.S. Senate,,,Write-ins,2,2,0,0
 Pinal,97 Copper Basin Southeast,U.S. Senate,,,Write-ins,5,4,1,0
 Pinal,98 Links Estates,U.S. Senate,,,Write-ins,4,4,0,0
 Pinal,99 Mission Valley,U.S. Senate,,,Write-ins,3,2,1,0
@@ -827,8 +827,8 @@ Pinal,86 Circle Cross Ranch,U.S. House,5,DEM,Javier Garcia Ramos,995,882,109,4
 Pinal,87 Johnson Ranch East,U.S. House,5,DEM,Javier Garcia Ramos,640,540,98,2
 Pinal,88 Ironwood Crossing West,U.S. House,5,DEM,Javier Garcia Ramos,742,681,56,5
 Pinal,94 Skyline Ranch,U.S. House,5,DEM,Javier Garcia Ramos,612,525,85,2
-Pinal,95 Queen South Creek,U.S. House,5,DEM,Javier Garcia Ramos,563,497,66,0
-Pinal,96 San Tan Riches,U.S. House,5,DEM,Javier Garcia Ramos,352,329,23,0
+Pinal,95 Queen Creek South,U.S. House,5,DEM,Javier Garcia Ramos,563,497,66,0
+Pinal,96 San Tan Ranches,U.S. House,5,DEM,Javier Garcia Ramos,352,329,23,0
 Pinal,97 Copper Basin Southeast,U.S. House,5,DEM,Javier Garcia Ramos,860,698,161,1
 Pinal,98 Links Estates,U.S. House,5,DEM,Javier Garcia Ramos,874,761,110,3
 Pinal,108 Ironwood Crossing East,U.S. House,5,DEM,Javier Garcia Ramos,541,470,69,2
@@ -857,8 +857,8 @@ Pinal,86 Circle Cross Ranch,U.S. House,5,REP,Andy Biggs,1695,1182,503,10
 Pinal,87 Johnson Ranch East,U.S. House,5,REP,Andy Biggs,880,556,319,5
 Pinal,88 Ironwood Crossing West,U.S. House,5,REP,Andy Biggs,1658,1224,432,2
 Pinal,94 Skyline Ranch,U.S. House,5,REP,Andy Biggs,1022,661,356,5
-Pinal,95 Queen South Creek,U.S. House,5,REP,Andy Biggs,1185,846,337,2
-Pinal,96 San Tan Riches,U.S. House,5,REP,Andy Biggs,1256,923,326,7
+Pinal,95 Queen Creek South,U.S. House,5,REP,Andy Biggs,1185,846,337,2
+Pinal,96 San Tan Ranches,U.S. House,5,REP,Andy Biggs,1256,923,326,7
 Pinal,97 Copper Basin Southeast,U.S. House,5,REP,Andy Biggs,1261,778,480,3
 Pinal,98 Links Estates,U.S. House,5,REP,Andy Biggs,1590,1108,478,4
 Pinal,108 Ironwood Crossing East,U.S. House,5,REP,Andy Biggs,1466,979,480,7
@@ -887,8 +887,8 @@ Pinal,86 Circle Cross Ranch,U.S. House,5,IND,Clint William Smith,151,131,20,0
 Pinal,87 Johnson Ranch East,U.S. House,5,IND,Clint William Smith,61,51,10,0
 Pinal,88 Ironwood Crossing West,U.S. House,5,IND,Clint William Smith,129,113,16,0
 Pinal,94 Skyline Ranch,U.S. House,5,IND,Clint William Smith,90,70,20,0
-Pinal,95 Queen South Creek,U.S. House,5,IND,Clint William Smith,81,71,9,1
-Pinal,96 San Tan Riches,U.S. House,5,IND,Clint William Smith,94,80,12,2
+Pinal,95 Queen Creek South,U.S. House,5,IND,Clint William Smith,81,71,9,1
+Pinal,96 San Tan Ranches,U.S. House,5,IND,Clint William Smith,94,80,12,2
 Pinal,97 Copper Basin Southeast,U.S. House,5,IND,Clint William Smith,116,90,26,0
 Pinal,98 Links Estates,U.S. House,5,IND,Clint William Smith,106,85,21,0
 Pinal,108 Ironwood Crossing East,U.S. House,5,IND,Clint William Smith,147,123,24,0
@@ -917,8 +917,8 @@ Pinal,86 Circle Cross Ranch,U.S. House,5,,Write-ins,2,0,2,0
 Pinal,87 Johnson Ranch East,U.S. House,5,,Write-ins,5,4,1,0
 Pinal,88 Ironwood Crossing West,U.S. House,5,,Write-ins,6,3,3,0
 Pinal,94 Skyline Ranch,U.S. House,5,,Write-ins,0,0,0,0
-Pinal,95 Queen South Creek,U.S. House,5,,Write-ins,1,1,0,0
-Pinal,96 San Tan Riches,U.S. House,5,,Write-ins,2,1,1,0
+Pinal,95 Queen Creek South,U.S. House,5,,Write-ins,1,1,0,0
+Pinal,96 San Tan Ranches,U.S. House,5,,Write-ins,2,1,1,0
 Pinal,97 Copper Basin Southeast,U.S. House,5,,Write-ins,3,2,1,0
 Pinal,98 Links Estates,U.S. House,5,,Write-ins,1,1,0,0
 Pinal,108 Ironwood Crossing East,U.S. House,5,,Write-ins,2,2,0,0
@@ -1100,8 +1100,8 @@ Pinal,91 Silverbell,Governor,,DEM,Katie Hobbs,25,23,2,0
 Pinal,92 Eagle Crest,Governor,,DEM,Katie Hobbs,1464,1341,118,5
 Pinal,93 Oracle South,Governor,,DEM,Katie Hobbs,819,675,142,2
 Pinal,94 Skyline Ranch,Governor,,DEM,Katie Hobbs,687,589,97,1
-Pinal,95 Queen South Creek,Governor,,DEM,Katie Hobbs,651,575,76,0
-Pinal,96 San Tan Riches,Governor,,DEM,Katie Hobbs,422,393,28,1
+Pinal,95 Queen Creek South,Governor,,DEM,Katie Hobbs,651,575,76,0
+Pinal,96 San Tan Ranches,Governor,,DEM,Katie Hobbs,422,393,28,1
 Pinal,97 Copper Basin Southeast,Governor,,DEM,Katie Hobbs,953,763,189,1
 Pinal,98 Links Estates,Governor,,DEM,Katie Hobbs,964,834,125,5
 Pinal,99 Mission Valley,Governor,,DEM,Katie Hobbs,970,843,124,3
@@ -1209,8 +1209,8 @@ Pinal,91 Silverbell,Governor,,REP,Kari Lake,75,46,29,0
 Pinal,92 Eagle Crest,Governor,,REP,Kari Lake,1629,1145,477,7
 Pinal,93 Oracle South,Governor,,REP,Kari Lake,834,507,323,4
 Pinal,94 Skyline Ranch,Governor,,REP,Kari Lake,1050,682,362,6
-Pinal,95 Queen South Creek,Governor,,REP,Kari Lake,1212,869,340,3
-Pinal,96 San Tan Riches,Governor,,REP,Kari Lake,1288,944,336,8
+Pinal,95 Queen Creek South,Governor,,REP,Kari Lake,1212,869,340,3
+Pinal,96 San Tan Ranches,Governor,,REP,Kari Lake,1288,944,336,8
 Pinal,97 Copper Basin Southeast,Governor,,REP,Kari Lake,1295,809,483,3
 Pinal,98 Links Estates,Governor,,REP,Kari Lake,1626,1136,488,2
 Pinal,99 Mission Valley,Governor,,REP,Kari Lake,1228,855,366,7
@@ -1318,8 +1318,8 @@ Pinal,91 Silverbell,Governor,,,Write-ins,0,0,0,0
 Pinal,92 Eagle Crest,Governor,,,Write-ins,7,5,2,0
 Pinal,93 Oracle South,Governor,,,Write-ins,1,1,0,0
 Pinal,94 Skyline Ranch,Governor,,,Write-ins,3,1,2,0
-Pinal,95 Queen South Creek,Governor,,,Write-ins,4,4,0,0
-Pinal,96 San Tan Riches,Governor,,,Write-ins,3,3,0,0
+Pinal,95 Queen Creek South,Governor,,,Write-ins,4,4,0,0
+Pinal,96 San Tan Ranches,Governor,,,Write-ins,3,3,0,0
 Pinal,97 Copper Basin Southeast,Governor,,,Write-ins,9,7,2,0
 Pinal,98 Links Estates,Governor,,,Write-ins,12,11,1,0
 Pinal,99 Mission Valley,Governor,,,Write-ins,9,8,1,0
@@ -1427,8 +1427,8 @@ Pinal,91 Silverbell,Secretary of State,,DEM,Adrian Fontes,30,27,3,0
 Pinal,92 Eagle Crest,Secretary of State,,DEM,Adrian Fontes,1530,1391,135,4
 Pinal,93 Oracle South,Secretary of State,,DEM,Adrian Fontes,854,701,151,2
 Pinal,94 Skyline Ranch,Secretary of State,,DEM,Adrian Fontes,696,597,98,1
-Pinal,95 Queen South Creek,Secretary of State,,DEM,Adrian Fontes,664,592,72,0
-Pinal,96 San Tan Riches,Secretary of State,,DEM,Adrian Fontes,449,418,29,2
+Pinal,95 Queen Creek South,Secretary of State,,DEM,Adrian Fontes,664,592,72,0
+Pinal,96 San Tan Ranches,Secretary of State,,DEM,Adrian Fontes,449,418,29,2
 Pinal,97 Copper Basin Southeast,Secretary of State,,DEM,Adrian Fontes,978,797,179,2
 Pinal,98 Links Estates,Secretary of State,,DEM,Adrian Fontes,1008,875,129,4
 Pinal,99 Mission Valley,Secretary of State,,DEM,Adrian Fontes,1022,883,136,3
@@ -1536,8 +1536,8 @@ Pinal,91 Silverbell,Secretary of State,,REP,Mark Finchem,70,42,28,0
 Pinal,92 Eagle Crest,Secretary of State,,REP,Mark Finchem,1544,1081,455,8
 Pinal,93 Oracle South,Secretary of State,,REP,Mark Finchem,784,469,311,4
 Pinal,94 Skyline Ranch,Secretary of State,,REP,Mark Finchem,1013,650,357,6
-Pinal,95 Queen South Creek,Secretary of State,,REP,Mark Finchem,1161,821,337,3
-Pinal,96 San Tan Riches,Secretary of State,,REP,Mark Finchem,1238,899,332,7
+Pinal,95 Queen Creek South,Secretary of State,,REP,Mark Finchem,1161,821,337,3
+Pinal,96 San Tan Ranches,Secretary of State,,REP,Mark Finchem,1238,899,332,7
 Pinal,97 Copper Basin Southeast,Secretary of State,,REP,Mark Finchem,1238,754,482,2
 Pinal,98 Links Estates,Secretary of State,,REP,Mark Finchem,1541,1064,474,3
 Pinal,99 Mission Valley,Secretary of State,,REP,Mark Finchem,1180,818,355,7
@@ -1645,8 +1645,8 @@ Pinal,91 Silverbell,Secretary of State,,,Write-ins,0,0,0,0
 Pinal,92 Eagle Crest,Secretary of State,,,Write-ins,1,0,1,0
 Pinal,93 Oracle South,Secretary of State,,,Write-ins,0,0,0,0
 Pinal,94 Skyline Ranch,Secretary of State,,,Write-ins,4,2,2,0
-Pinal,95 Queen South Creek,Secretary of State,,,Write-ins,2,2,0,0
-Pinal,96 San Tan Riches,Secretary of State,,,Write-ins,1,1,0,0
+Pinal,95 Queen Creek South,Secretary of State,,,Write-ins,2,2,0,0
+Pinal,96 San Tan Ranches,Secretary of State,,,Write-ins,1,1,0,0
 Pinal,97 Copper Basin Southeast,Secretary of State,,,Write-ins,4,3,1,0
 Pinal,98 Links Estates,Secretary of State,,,Write-ins,4,2,2,0
 Pinal,99 Mission Valley,Secretary of State,,,Write-ins,5,5,0,0
@@ -1754,8 +1754,8 @@ Pinal,91 Silverbell,Attorney General,,DEM,Kris Mayes,27,25,2,0
 Pinal,92 Eagle Crest,Attorney General,,DEM,Kris Mayes,1428,1305,119,4
 Pinal,93 Oracle South,Attorney General,,DEM,Kris Mayes,807,665,140,2
 Pinal,94 Skyline Ranch,Attorney General,,DEM,Kris Mayes,671,574,96,1
-Pinal,95 Queen South Creek,Attorney General,,DEM,Kris Mayes,638,567,71,0
-Pinal,96 San Tan Riches,Attorney General,,DEM,Kris Mayes,420,392,28,0
+Pinal,95 Queen Creek South,Attorney General,,DEM,Kris Mayes,638,567,71,0
+Pinal,96 San Tan Ranches,Attorney General,,DEM,Kris Mayes,420,392,28,0
 Pinal,97 Copper Basin Southeast,Attorney General,,DEM,Kris Mayes,921,745,174,2
 Pinal,98 Links Estates,Attorney General,,DEM,Kris Mayes,949,814,130,5
 Pinal,99 Mission Valley,Attorney General,,DEM,Kris Mayes,964,833,128,3
@@ -1863,8 +1863,8 @@ Pinal,91 Silverbell,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",73,44,29,0
 Pinal,92 Eagle Crest,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1629,1150,471,8
 Pinal,93 Oracle South,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",815,492,319,4
 Pinal,94 Skyline Ranch,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1034,670,358,6
-Pinal,95 Queen South Creek,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1185,842,340,3
-Pinal,96 San Tan Riches,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1257,916,332,9
+Pinal,95 Queen Creek South,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1185,842,340,3
+Pinal,96 San Tan Ranches,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1257,916,332,9
 Pinal,97 Copper Basin Southeast,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1292,800,490,2
 Pinal,98 Links Estates,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1595,1117,476,2
 Pinal,99 Mission Valley,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1217,845,365,7
@@ -1972,8 +1972,8 @@ Pinal,91 Silverbell,Attorney General,,,Write-ins,0,0,0,0
 Pinal,92 Eagle Crest,Attorney General,,,Write-ins,2,1,1,0
 Pinal,93 Oracle South,Attorney General,,,Write-ins,0,0,0,0
 Pinal,94 Skyline Ranch,Attorney General,,,Write-ins,2,0,2,0
-Pinal,95 Queen South Creek,Attorney General,,,Write-ins,2,2,0,0
-Pinal,96 San Tan Riches,Attorney General,,,Write-ins,1,1,0,0
+Pinal,95 Queen Creek South,Attorney General,,,Write-ins,2,2,0,0
+Pinal,96 San Tan Ranches,Attorney General,,,Write-ins,1,1,0,0
 Pinal,97 Copper Basin Southeast,Attorney General,,,Write-ins,7,6,1,0
 Pinal,98 Links Estates,Attorney General,,,Write-ins,3,2,1,0
 Pinal,99 Mission Valley,Attorney General,,,Write-ins,5,4,1,0
@@ -2081,8 +2081,8 @@ Pinal,91 Silverbell,State Treasurer,,DEM,Martin Quezada,22,20,2,0
 Pinal,92 Eagle Crest,State Treasurer,,DEM,Martin Quezada,1243,1144,96,3
 Pinal,93 Oracle South,State Treasurer,,DEM,Martin Quezada,765,625,138,2
 Pinal,94 Skyline Ranch,State Treasurer,,DEM,Martin Quezada,608,519,89,0
-Pinal,95 Queen South Creek,State Treasurer,,DEM,Martin Quezada,543,479,64,0
-Pinal,96 San Tan Riches,State Treasurer,,DEM,Martin Quezada,359,338,21,0
+Pinal,95 Queen Creek South,State Treasurer,,DEM,Martin Quezada,543,479,64,0
+Pinal,96 San Tan Ranches,State Treasurer,,DEM,Martin Quezada,359,338,21,0
 Pinal,97 Copper Basin Southeast,State Treasurer,,DEM,Martin Quezada,840,672,167,1
 Pinal,98 Links Estates,State Treasurer,,DEM,Martin Quezada,824,712,109,3
 Pinal,99 Mission Valley,State Treasurer,,DEM,Martin Quezada,858,739,117,2
@@ -2190,8 +2190,8 @@ Pinal,91 Silverbell,State Treasurer,,REP,Kimberly Yee,78,49,29,0
 Pinal,92 Eagle Crest,State Treasurer,,REP,Kimberly Yee,1809,1304,496,9
 Pinal,93 Oracle South,State Treasurer,,REP,Kimberly Yee,859,537,318,4
 Pinal,94 Skyline Ranch,State Treasurer,,REP,Kimberly Yee,1093,721,365,7
-Pinal,95 Queen South Creek,State Treasurer,,REP,Kimberly Yee,1273,925,345,3
-Pinal,96 San Tan Riches,State Treasurer,,REP,Kimberly Yee,1322,976,337,9
+Pinal,95 Queen Creek South,State Treasurer,,REP,Kimberly Yee,1273,925,345,3
+Pinal,96 San Tan Ranches,State Treasurer,,REP,Kimberly Yee,1322,976,337,9
 Pinal,97 Copper Basin Southeast,State Treasurer,,REP,Kimberly Yee,1376,876,497,3
 Pinal,98 Links Estates,State Treasurer,,REP,Kimberly Yee,1704,1213,487,4
 Pinal,99 Mission Valley,State Treasurer,,REP,Kimberly Yee,1331,948,375,8
@@ -2299,8 +2299,8 @@ Pinal,91 Silverbell,State Treasurer,,,Write-ins,0,0,0,0
 Pinal,92 Eagle Crest,State Treasurer,,,Write-ins,0,0,0,0
 Pinal,93 Oracle South,State Treasurer,,,Write-ins,0,0,0,0
 Pinal,94 Skyline Ranch,State Treasurer,,,Write-ins,2,0,2,0
-Pinal,95 Queen South Creek,State Treasurer,,,Write-ins,1,1,0,0
-Pinal,96 San Tan Riches,State Treasurer,,,Write-ins,4,3,1,0
+Pinal,95 Queen Creek South,State Treasurer,,,Write-ins,1,1,0,0
+Pinal,96 San Tan Ranches,State Treasurer,,,Write-ins,4,3,1,0
 Pinal,97 Copper Basin Southeast,State Treasurer,,,Write-ins,4,4,0,0
 Pinal,98 Links Estates,State Treasurer,,,Write-ins,6,5,1,0
 Pinal,99 Mission Valley,State Treasurer,,,Write-ins,1,1,0,0
@@ -2408,8 +2408,8 @@ Pinal,91 Silverbell,Superintendent of Public Instruction,,DEM,Kathy Hoffman,23,2
 Pinal,92 Eagle Crest,Superintendent of Public Instruction,,DEM,Kathy Hoffman,1392,1274,114,4
 Pinal,93 Oracle South,Superintendent of Public Instruction,,DEM,Kathy Hoffman,842,691,149,2
 Pinal,94 Skyline Ranch,Superintendent of Public Instruction,,DEM,Kathy Hoffman,688,584,104,0
-Pinal,95 Queen South Creek,Superintendent of Public Instruction,,DEM,Kathy Hoffman,625,552,73,0
-Pinal,96 San Tan Riches,Superintendent of Public Instruction,,DEM,Kathy Hoffman,414,389,25,0
+Pinal,95 Queen Creek South,Superintendent of Public Instruction,,DEM,Kathy Hoffman,625,552,73,0
+Pinal,96 San Tan Ranches,Superintendent of Public Instruction,,DEM,Kathy Hoffman,414,389,25,0
 Pinal,97 Copper Basin Southeast,Superintendent of Public Instruction,,DEM,Kathy Hoffman,963,777,185,1
 Pinal,98 Links Estates,Superintendent of Public Instruction,,DEM,Kathy Hoffman,973,836,132,5
 Pinal,99 Mission Valley,Superintendent of Public Instruction,,DEM,Kathy Hoffman,958,823,132,3
@@ -2517,8 +2517,8 @@ Pinal,91 Silverbell,Superintendent of Public Instruction,,REP,Tom Horne,76,47,29
 Pinal,92 Eagle Crest,Superintendent of Public Instruction,,REP,Tom Horne,1656,1175,473,8
 Pinal,93 Oracle South,Superintendent of Public Instruction,,REP,Tom Horne,794,479,311,4
 Pinal,94 Skyline Ranch,Superintendent of Public Instruction,,REP,Tom Horne,1018,659,352,7
-Pinal,95 Queen South Creek,Superintendent of Public Instruction,,REP,Tom Horne,1191,851,337,3
-Pinal,96 San Tan Riches,Superintendent of Public Instruction,,REP,Tom Horne,1266,923,334,9
+Pinal,95 Queen Creek South,Superintendent of Public Instruction,,REP,Tom Horne,1191,851,337,3
+Pinal,96 San Tan Ranches,Superintendent of Public Instruction,,REP,Tom Horne,1266,923,334,9
 Pinal,97 Copper Basin Southeast,Superintendent of Public Instruction,,REP,Tom Horne,1253,774,476,3
 Pinal,98 Links Estates,Superintendent of Public Instruction,,REP,Tom Horne,1574,1101,471,2
 Pinal,99 Mission Valley,Superintendent of Public Instruction,,REP,Tom Horne,1239,873,359,7
@@ -2626,8 +2626,8 @@ Pinal,91 Silverbell,Superintendent of Public Instruction,,,Write-ins,0,0,0,0
 Pinal,92 Eagle Crest,Superintendent of Public Instruction,,,Write-ins,2,1,1,0
 Pinal,93 Oracle South,Superintendent of Public Instruction,,,Write-ins,1,1,0,0
 Pinal,94 Skyline Ranch,Superintendent of Public Instruction,,,Write-ins,1,0,1,0
-Pinal,95 Queen South Creek,Superintendent of Public Instruction,,,Write-ins,2,2,0,0
-Pinal,96 San Tan Riches,Superintendent of Public Instruction,,,Write-ins,2,2,0,0
+Pinal,95 Queen Creek South,Superintendent of Public Instruction,,,Write-ins,2,2,0,0
+Pinal,96 San Tan Ranches,Superintendent of Public Instruction,,,Write-ins,2,2,0,0
 Pinal,97 Copper Basin Southeast,Superintendent of Public Instruction,,,Write-ins,3,3,0,0
 Pinal,98 Links Estates,Superintendent of Public Instruction,,,Write-ins,4,3,1,0
 Pinal,99 Mission Valley,Superintendent of Public Instruction,,,Write-ins,4,4,0,0
@@ -2735,8 +2735,8 @@ Pinal,91 Silverbell,State Mine Inspector,,REP,Paul Marsh,84,55,29,0
 Pinal,92 Eagle Crest,State Mine Inspector,,REP,Paul Marsh,2079,1573,497,9
 Pinal,93 Oracle South,State Mine Inspector,,REP,Paul Marsh,1133,768,362,3
 Pinal,94 Skyline Ranch,State Mine Inspector,,REP,Paul Marsh,1304,909,389,6
-Pinal,95 Queen South Creek,State Mine Inspector,,REP,Paul Marsh,1421,1059,359,3
-Pinal,96 San Tan Riches,State Mine Inspector,,REP,Paul Marsh,1370,1033,328,9
+Pinal,95 Queen Creek South,State Mine Inspector,,REP,Paul Marsh,1421,1059,359,3
+Pinal,96 San Tan Ranches,State Mine Inspector,,REP,Paul Marsh,1370,1033,328,9
 Pinal,97 Copper Basin Southeast,State Mine Inspector,,REP,Paul Marsh,1646,1091,551,4
 Pinal,98 Links Estates,State Mine Inspector,,REP,Paul Marsh,1970,1434,530,6
 Pinal,99 Mission Valley,State Mine Inspector,,REP,Paul Marsh,1645,1233,403,9
@@ -2844,8 +2844,8 @@ Pinal,91 Silverbell,State Mine Inspector,,,Write-ins,1,1,0,0
 Pinal,92 Eagle Crest,State Mine Inspector,,,Write-ins,46,43,3,0
 Pinal,93 Oracle South,State Mine Inspector,,,Write-ins,31,23,8,0
 Pinal,94 Skyline Ranch,State Mine Inspector,,,Write-ins,29,18,11,0
-Pinal,95 Queen South Creek,State Mine Inspector,,,Write-ins,28,24,4,0
-Pinal,96 San Tan Riches,State Mine Inspector,,,Write-ins,30,26,4,0
+Pinal,95 Queen Creek South,State Mine Inspector,,,Write-ins,28,24,4,0
+Pinal,96 San Tan Ranches,State Mine Inspector,,,Write-ins,30,26,4,0
 Pinal,97 Copper Basin Southeast,State Mine Inspector,,,Write-ins,55,49,6,0
 Pinal,98 Links Estates,State Mine Inspector,,,Write-ins,31,25,6,0
 Pinal,99 Mission Valley,State Mine Inspector,,,Write-ins,56,40,16,0
@@ -3043,10 +3043,10 @@ Pinal,93 Oracle South,Corporation Commissioner,,DEM,Sandra Kennedy,736,626,110,0
 Pinal,93 Oracle South,Corporation Commissioner,,DEM,Lauren Kuby,724,602,120,2
 Pinal,94 Skyline Ranch,Corporation Commissioner,,DEM,Sandra Kennedy,590,510,79,1
 Pinal,94 Skyline Ranch,Corporation Commissioner,,DEM,Lauren Kuby,521,457,64,0
-Pinal,95 Queen South Creek,Corporation Commissioner,,DEM,Sandra Kennedy,539,479,60,0
-Pinal,95 Queen South Creek,Corporation Commissioner,,DEM,Lauren Kuby,514,455,59,0
-Pinal,96 San Tan Riches,Corporation Commissioner,,DEM,Sandra Kennedy,377,353,24,0
-Pinal,96 San Tan Riches,Corporation Commissioner,,DEM,Lauren Kuby,341,324,17,0
+Pinal,95 Queen Creek South,Corporation Commissioner,,DEM,Sandra Kennedy,539,479,60,0
+Pinal,95 Queen Creek South,Corporation Commissioner,,DEM,Lauren Kuby,514,455,59,0
+Pinal,96 San Tan Ranches,Corporation Commissioner,,DEM,Sandra Kennedy,377,353,24,0
+Pinal,96 San Tan Ranches,Corporation Commissioner,,DEM,Lauren Kuby,341,324,17,0
 Pinal,97 Copper Basin Southeast,Corporation Commissioner,,DEM,Sandra Kennedy,835,675,159,1
 Pinal,97 Copper Basin Southeast,Corporation Commissioner,,DEM,Lauren Kuby,720,595,123,2
 Pinal,98 Links Estates,Corporation Commissioner,,DEM,Sandra Kennedy,819,719,97,3
@@ -3261,10 +3261,10 @@ Pinal,93 Oracle South,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",76
 Pinal,93 Oracle South,Corporation Commissioner,,REP,Kevin Thompson,740,471,267,2
 Pinal,94 Skyline Ranch,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",909,617,287,5
 Pinal,94 Skyline Ranch,Corporation Commissioner,,REP,Kevin Thompson,910,614,295,1
-Pinal,95 Queen South Creek,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1051,767,282,2
-Pinal,95 Queen South Creek,Corporation Commissioner,,REP,Kevin Thompson,1073,791,280,2
-Pinal,96 San Tan Riches,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1160,860,292,8
-Pinal,96 San Tan Riches,Corporation Commissioner,,REP,Kevin Thompson,1126,844,274,8
+Pinal,95 Queen Creek South,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1051,767,282,2
+Pinal,95 Queen Creek South,Corporation Commissioner,,REP,Kevin Thompson,1073,791,280,2
+Pinal,96 San Tan Ranches,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1160,860,292,8
+Pinal,96 San Tan Ranches,Corporation Commissioner,,REP,Kevin Thompson,1126,844,274,8
 Pinal,97 Copper Basin Southeast,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1135,722,412,1
 Pinal,97 Copper Basin Southeast,Corporation Commissioner,,REP,Kevin Thompson,1094,709,382,3
 Pinal,98 Links Estates,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1412,1022,387,3
@@ -3389,8 +3389,8 @@ Pinal,91 Silverbell,Corporation Commissioner,,,Write-ins,0,0,0,0
 Pinal,92 Eagle Crest,Corporation Commissioner,,,Write-ins,4,4,0,0
 Pinal,93 Oracle South,Corporation Commissioner,,,Write-ins,4,4,0,0
 Pinal,94 Skyline Ranch,Corporation Commissioner,,,Write-ins,4,1,3,0
-Pinal,95 Queen South Creek,Corporation Commissioner,,,Write-ins,2,2,0,0
-Pinal,96 San Tan Riches,Corporation Commissioner,,,Write-ins,4,4,0,0
+Pinal,95 Queen Creek South,Corporation Commissioner,,,Write-ins,2,2,0,0
+Pinal,96 San Tan Ranches,Corporation Commissioner,,,Write-ins,4,4,0,0
 Pinal,97 Copper Basin Southeast,Corporation Commissioner,,,Write-ins,7,7,0,0
 Pinal,98 Links Estates,Corporation Commissioner,,,Write-ins,4,3,1,0
 Pinal,99 Mission Valley,Corporation Commissioner,,,Write-ins,0,0,0,0
@@ -3513,8 +3513,8 @@ Pinal,87 Johnson Ranch East,State Senate,15,DEM,Alan Smith,658,562,96,0
 Pinal,88 Ironwood Crossing West,State Senate,15,DEM,Alan Smith,794,729,60,5
 Pinal,89 Quail Hollow,State Senate,15,DEM,Alan Smith,0,0,0,0
 Pinal,94 Skyline Ranch,State Senate,15,DEM,Alan Smith,644,552,91,1
-Pinal,95 Queen South Creek,State Senate,15,DEM,Alan Smith,616,546,70,0
-Pinal,96 San Tan Riches,State Senate,15,DEM,Alan Smith,408,381,27,0
+Pinal,95 Queen Creek South,State Senate,15,DEM,Alan Smith,616,546,70,0
+Pinal,96 San Tan Ranches,State Senate,15,DEM,Alan Smith,408,381,27,0
 Pinal,97 Copper Basin Southeast,State Senate,15,DEM,Alan Smith,894,724,169,1
 Pinal,98 Links Estates,State Senate,15,DEM,Alan Smith,911,788,119,4
 Pinal,108 Ironwood Crossing East,State Senate,15,DEM,Alan Smith,604,525,78,1
@@ -3532,8 +3532,8 @@ Pinal,87 Johnson Ranch East,State Senate,15,REP,Jake Hoffman,913,578,332,3
 Pinal,88 Ironwood Crossing West,State Senate,15,REP,Jake Hoffman,1735,1290,443,2
 Pinal,89 Quail Hollow,State Senate,15,REP,Jake Hoffman,3,3,0,0
 Pinal,94 Skyline Ranch,State Senate,15,REP,Jake Hoffman,1069,698,365,6
-Pinal,95 Queen South Creek,State Senate,15,REP,Jake Hoffman,1210,871,336,3
-Pinal,96 San Tan Riches,State Senate,15,REP,Jake Hoffman,1290,946,335,9
+Pinal,95 Queen Creek South,State Senate,15,REP,Jake Hoffman,1210,871,336,3
+Pinal,96 San Tan Ranches,State Senate,15,REP,Jake Hoffman,1290,946,335,9
 Pinal,97 Copper Basin Southeast,State Senate,15,REP,Jake Hoffman,1334,835,496,3
 Pinal,98 Links Estates,State Senate,15,REP,Jake Hoffman,1653,1165,485,3
 Pinal,108 Ironwood Crossing East,State Senate,15,REP,Jake Hoffman,1548,1049,491,8
@@ -3551,8 +3551,8 @@ Pinal,87 Johnson Ranch East,State Senate,15,,Write-ins,4,4,0,0
 Pinal,88 Ironwood Crossing West,State Senate,15,,Write-ins,3,2,1,0
 Pinal,89 Quail Hollow,State Senate,15,,Write-ins,0,0,0,0
 Pinal,94 Skyline Ranch,State Senate,15,,Write-ins,5,3,2,0
-Pinal,95 Queen South Creek,State Senate,15,,Write-ins,4,3,1,0
-Pinal,96 San Tan Riches,State Senate,15,,Write-ins,2,1,1,0
+Pinal,95 Queen Creek South,State Senate,15,,Write-ins,4,3,1,0
+Pinal,96 San Tan Ranches,State Senate,15,,Write-ins,2,1,1,0
 Pinal,97 Copper Basin Southeast,State Senate,15,,Write-ins,6,6,0,0
 Pinal,98 Links Estates,State Senate,15,,Write-ins,3,2,1,0
 Pinal,108 Ironwood Crossing East,State Senate,15,,Write-ins,6,5,1,0
@@ -3856,10 +3856,10 @@ Pinal,89 Quail Hollow,State House,15,REP,Neal Carter,2,2,0,0
 Pinal,89 Quail Hollow,State House,15,REP,Jacqueline Parker,3,3,0,0
 Pinal,94 Skyline Ranch,State House,15,REP,Neal Carter,993,665,322,6
 Pinal,94 Skyline Ranch,State House,15,REP,Jacqueline Parker,895,629,265,1
-Pinal,95 Queen South Creek,State House,15,REP,Neal Carter,957,743,212,2
-Pinal,95 Queen South Creek,State House,15,REP,Jacqueline Parker,1233,910,321,2
-Pinal,96 San Tan Riches,State House,15,REP,Neal Carter,1015,765,244,6
-Pinal,96 San Tan Riches,State House,15,REP,Jacqueline Parker,1155,884,263,8
+Pinal,95 Queen Creek South,State House,15,REP,Neal Carter,957,743,212,2
+Pinal,95 Queen Creek South,State House,15,REP,Jacqueline Parker,1233,910,321,2
+Pinal,96 San Tan Ranches,State House,15,REP,Neal Carter,1015,765,244,6
+Pinal,96 San Tan Ranches,State House,15,REP,Jacqueline Parker,1155,884,263,8
 Pinal,97 Copper Basin Southeast,State House,15,REP,Neal Carter,1258,822,434,2
 Pinal,97 Copper Basin Southeast,State House,15,REP,Jacqueline Parker,1136,773,361,2
 Pinal,98 Links Estates,State House,15,REP,Neal Carter,1544,1117,425,2
@@ -3881,8 +3881,8 @@ Pinal,87 Johnson Ranch East,State House,15,,Write-ins,51,45,6,0
 Pinal,88 Ironwood Crossing West,State House,15,,Write-ins,29,26,3,0
 Pinal,89 Quail Hollow,State House,15,,Write-ins,0,0,0,0
 Pinal,94 Skyline Ranch,State House,15,,Write-ins,41,30,11,0
-Pinal,95 Queen South Creek,State House,15,,Write-ins,23,19,4,0
-Pinal,96 San Tan Riches,State House,15,,Write-ins,27,27,0,0
+Pinal,95 Queen Creek South,State House,15,,Write-ins,23,19,4,0
+Pinal,96 San Tan Ranches,State House,15,,Write-ins,27,27,0,0
 Pinal,97 Copper Basin Southeast,State House,15,,Write-ins,69,61,8,0
 Pinal,98 Links Estates,State House,15,,Write-ins,64,54,10,0
 Pinal,108 Ironwood Crossing East,State House,15,,Write-ins,31,26,5,0

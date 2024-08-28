@@ -188,8 +188,8 @@ Santa Cruz,Coronado 5 05.2/05.3/05.5,Corporation Commissioner,,"MYERS, NICHOLAS 
 Santa Cruz,Coronado 5 05.2/05.3/05.5,Corporation Commissioner,,"THOMPSON, KEVIN",REP,2,10,12,0
 Santa Cruz,Coronado 5 05.4,Registered Voters,,,,,,3,
 Santa Cruz,Coronado 5 05.4,Ballots Cast,,,,0,3,3,0
-Santa Cruz,Coronado 5 05.4,U.S. Senator,,"KELLY, MARK",DEM,0,2,2,0
-Santa Cruz,Coronado 5 05.4,U.S. Senator,,"MASTERS, BLAKE",REP,0,1,1,0
+Santa Cruz,Coronado 5 05.4,U.S. Senate,,"KELLY, MARK",DEM,0,2,2,0
+Santa Cruz,Coronado 5 05.4,U.S. Senate,,"MASTERS, BLAKE",REP,0,1,1,0
 Santa Cruz,Coronado 5 05.4,U.S. House,7,"GRIJALVA, RAUL",DEM,0,0,0,0
 Santa Cruz,Coronado 5 05.4,U.S. House,7,"POZZOLO, LUIS",REP,0,1,1,0
 Santa Cruz,Coronado 5 05.4,Governor,,"HOBBS, KATIE",DEM,0,2,2,0
@@ -780,7 +780,7 @@ Santa Cruz,Nogales 20,Governor,,"LAKE, KARI",REP,33,50,83,0
 Santa Cruz,Nogales 20,Governor,,Write-ins,,0,2,2,0
 Santa Cruz,Nogales 20,State Senate,21,"GABALD√ìN, ROSANNA",DEM,74,281,358,3
 Santa Cruz,Nogales 20,State Senate,21,"CLEVELAND, JIM",REP,24,39,63,0
-Santa Cruz,Nogales 20,State Senate 21,,Write-ins,,0,1,1,0
+Santa Cruz,Nogales 20,State Senate,21,Write-ins,,0,1,1,0
 Santa Cruz,Nogales 20,State House,21,"HERNANDEZ, CONSUELO",DEM,66,266,334,2
 Santa Cruz,Nogales 20,State House,21,"STAHL HAMILTON, STEPHANIE",DEM,38,191,232,3
 Santa Cruz,Nogales 20,State House,21,"KENNEDY, DAMIEN",REP,29,50,79,0

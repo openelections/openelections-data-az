@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional
-Apache,02 Apline,Registered Voters,,,,469,,,
+Apache,02 Alpine,Registered Voters,,,,469,,,
 Apache,03 Canyon De Chelly,Registered Voters,,,,3706,,,
 Apache,05 Chinle,Registered Voters,,,,1957,,,
 Apache,09 Concho,Registered Voters,,,,2355,,,
@@ -43,7 +43,7 @@ Apache,82 Vernon,Registered Voters,,,,1677,,,
 Apache,84 Wheatfields,Registered Voters,,,,1747,,,
 Apache,86 Wide Ruins,Registered Voters,,,,711,,,
 Apache,88 Window Rock,Registered Voters,,,,1800,,,
-Apache,02 Apline,Ballots Cast,,,,385,283,102,0
+Apache,02 Alpine,Ballots Cast,,,,385,283,102,0
 Apache,03 Canyon De Chelly,Ballots Cast,,,,1600,1004,588,8
 Apache,05 Chinle,Ballots Cast,,,,843,569,269,5
 Apache,09 Concho,Ballots Cast,,,,1594,1109,469,16
@@ -87,7 +87,7 @@ Apache,82 Vernon,Ballots Cast,,,,1303,921,370,12
 Apache,84 Wheatfields,Ballots Cast,,,,847,413,427,7
 Apache,86 Wide Ruins,Ballots Cast,,,,393,228,159,6
 Apache,88 Window Rock,Ballots Cast,,,,885,610,272,3
-Apache,02 Apline,U.S. Senate,,DEM,Mark Kelly,110,97,13,0
+Apache,02 Alpine,U.S. Senate,,DEM,Mark Kelly,110,97,13,0
 Apache,03 Canyon De Chelly,U.S. Senate,,DEM,Mark Kelly,1413,915,492,6
 Apache,05 Chinle,U.S. Senate,,DEM,Mark Kelly,734,505,225,4
 Apache,09 Concho,U.S. Senate,,DEM,Mark Kelly,313,275,37,1
@@ -131,7 +131,7 @@ Apache,82 Vernon,U.S. Senate,,DEM,Mark Kelly,259,231,27,1
 Apache,84 Wheatfields,U.S. Senate,,DEM,Mark Kelly,781,391,385,5
 Apache,86 Wide Ruins,U.S. Senate,,DEM,Mark Kelly,332,196,130,6
 Apache,88 Window Rock,U.S. Senate,,DEM,Mark Kelly,747,539,206,2
-Apache,02 Apline,U.S. Senate,,REP,Blake Masters,266,181,85,0
+Apache,02 Alpine,U.S. Senate,,REP,Blake Masters,266,181,85,0
 Apache,03 Canyon De Chelly,U.S. Senate,,REP,Blake Masters,148,70,76,2
 Apache,05 Chinle,U.S. Senate,,REP,Blake Masters,91,55,35,1
 Apache,09 Concho,U.S. Senate,,REP,Blake Masters,1219,789,415,15
@@ -175,7 +175,7 @@ Apache,82 Vernon,U.S. Senate,,REP,Blake Masters,992,649,333,10
 Apache,84 Wheatfields,U.S. Senate,,REP,Blake Masters,40,14,24,2
 Apache,86 Wide Ruins,U.S. Senate,,REP,Blake Masters,49,26,23,0
 Apache,88 Window Rock,U.S. Senate,,REP,Blake Masters,120,64,56,0
-Apache,02 Apline,U.S. Senate,,LIB,Marc J. Victor,5,3,2,0
+Apache,02 Alpine,U.S. Senate,,LIB,Marc J. Victor,5,3,2,0
 Apache,03 Canyon De Chelly,U.S. Senate,,LIB,Marc J. Victor,30,14,16,0
 Apache,05 Chinle,U.S. Senate,,LIB,Marc J. Victor,14,8,6,0
 Apache,09 Concho,U.S. Senate,,LIB,Marc J. Victor,49,37,12,0
@@ -219,7 +219,7 @@ Apache,82 Vernon,U.S. Senate,,LIB,Marc J. Victor,37,31,5,1
 Apache,84 Wheatfields,U.S. Senate,,LIB,Marc J. Victor,15,4,11,0
 Apache,86 Wide Ruins,U.S. Senate,,LIB,Marc J. Victor,11,5,6,0
 Apache,88 Window Rock,U.S. Senate,,LIB,Marc J. Victor,15,5,9,1
-Apache,02 Apline,U.S. Senate,,,Write-ins,0,0,0,0
+Apache,02 Alpine,U.S. Senate,,,Write-ins,0,0,0,0
 Apache,03 Canyon De Chelly,U.S. Senate,,,Write-ins,1,1,0,0
 Apache,05 Chinle,U.S. Senate,,,Write-ins,1,0,1,0
 Apache,09 Concho,U.S. Senate,,,Write-ins,2,1,1,0
@@ -263,7 +263,7 @@ Apache,82 Vernon,U.S. Senate,,,Write-ins,3,2,1,0
 Apache,84 Wheatfields,U.S. Senate,,,Write-ins,2,1,1,0
 Apache,86 Wide Ruins,U.S. Senate,,,Write-ins,0,0,0,0
 Apache,88 Window Rock,U.S. Senate,,,Write-ins,0,0,0,0
-Apache,02 Apline,U.S. Senate,,,Over Votes,0,0,0,0
+Apache,02 Alpine,U.S. Senate,,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,U.S. Senate,,,Over Votes,2,0,2,0
 Apache,05 Chinle,U.S. Senate,,,Over Votes,0,0,0,0
 Apache,09 Concho,U.S. Senate,,,Over Votes,2,1,1,0
@@ -307,7 +307,7 @@ Apache,82 Vernon,U.S. Senate,,,Over Votes,1,0,1,0
 Apache,84 Wheatfields,U.S. Senate,,,Over Votes,2,0,2,0
 Apache,86 Wide Ruins,U.S. Senate,,,Over Votes,1,1,0,0
 Apache,88 Window Rock,U.S. Senate,,,Over Votes,0,0,0,0
-Apache,02 Apline,U.S. Senate,,,Under Votes,4,2,2,0
+Apache,02 Alpine,U.S. Senate,,,Under Votes,4,2,2,0
 Apache,03 Canyon De Chelly,U.S. Senate,,,Under Votes,6,4,2,0
 Apache,05 Chinle,U.S. Senate,,,Under Votes,3,1,2,0
 Apache,09 Concho,U.S. Senate,,,Under Votes,9,6,3,0
@@ -351,7 +351,7 @@ Apache,82 Vernon,U.S. Senate,,,Under Votes,11,8,3,0
 Apache,84 Wheatfields,U.S. Senate,,,Under Votes,7,3,4,0
 Apache,86 Wide Ruins,U.S. Senate,,,Under Votes,0,0,0,0
 Apache,88 Window Rock,U.S. Senate,,,Under Votes,3,2,1,0
-Apache,02 Apline,U.S. House,2,DEM,Tom O'Halleran,95,82,13,0
+Apache,02 Alpine,U.S. House,2,DEM,Tom O'Halleran,95,82,13,0
 Apache,03 Canyon De Chelly,U.S. House,2,DEM,Tom O'Halleran,1403,915,482,6
 Apache,05 Chinle,U.S. House,2,DEM,Tom O'Halleran,735,505,226,4
 Apache,09 Concho,U.S. House,2,DEM,Tom O'Halleran,314,277,36,1
@@ -395,7 +395,7 @@ Apache,82 Vernon,U.S. House,2,DEM,Tom O'Halleran,256,224,31,1
 Apache,84 Wheatfields,U.S. House,2,DEM,Tom O'Halleran,774,385,384,5
 Apache,86 Wide Ruins,U.S. House,2,DEM,Tom O'Halleran,340,199,135,6
 Apache,88 Window Rock,U.S. House,2,DEM,Tom O'Halleran,750,532,216,2
-Apache,02 Apline,U.S. House,2,REP,Eli Crane,283,197,86,0
+Apache,02 Alpine,U.S. House,2,REP,Eli Crane,283,197,86,0
 Apache,03 Canyon De Chelly,U.S. House,2,REP,Eli Crane,171,72,97,2
 Apache,05 Chinle,U.S. House,2,REP,Eli Crane,101,61,39,1
 Apache,09 Concho,U.S. House,2,REP,Eli Crane,1246,812,419,15
@@ -439,7 +439,7 @@ Apache,82 Vernon,U.S. House,2,REP,Eli Crane,1025,683,332,10
 Apache,84 Wheatfields,U.S. House,2,REP,Eli Crane,57,21,34,2
 Apache,86 Wide Ruins,U.S. House,2,REP,Eli Crane,47,26,21,0
 Apache,88 Window Rock,U.S. House,2,REP,Eli Crane,128,74,53,1
-Apache,02 Apline,U.S. House,2,,Write-ins,0,0,0,0
+Apache,02 Alpine,U.S. House,2,,Write-ins,0,0,0,0
 Apache,03 Canyon De Chelly,U.S. House,2,,Write-ins,3,3,0,0
 Apache,05 Chinle,U.S. House,2,,Write-ins,1,0,1,0
 Apache,09 Concho,U.S. House,2,,Write-ins,5,3,2,0
@@ -483,7 +483,7 @@ Apache,82 Vernon,U.S. House,2,,Write-ins,1,1,0,0
 Apache,84 Wheatfields,U.S. House,2,,Write-ins,1,0,1,0
 Apache,86 Wide Ruins,U.S. House,2,,Write-ins,1,0,1,0
 Apache,88 Window Rock,U.S. House,2,,Write-ins,1,1,0,0
-Apache,02 Apline,U.S. House,2,,Over Votes,1,1,0,0
+Apache,02 Alpine,U.S. House,2,,Over Votes,1,1,0,0
 Apache,03 Canyon De Chelly,U.S. House,2,,Over Votes,3,1,2,0
 Apache,05 Chinle,U.S. House,2,,Over Votes,0,0,0,0
 Apache,09 Concho,U.S. House,2,,Over Votes,0,0,0,0
@@ -527,7 +527,7 @@ Apache,82 Vernon,U.S. House,2,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,U.S. House,2,,Over Votes,3,0,3,0
 Apache,86 Wide Ruins,U.S. House,2,,Over Votes,0,0,0,0
 Apache,88 Window Rock,U.S. House,2,,Over Votes,0,0,0,0
-Apache,02 Apline,U.S. House,2,,Under Votes,6,3,3,0
+Apache,02 Alpine,U.S. House,2,,Under Votes,6,3,3,0
 Apache,03 Canyon De Chelly,U.S. House,2,,Under Votes,20,13,7,0
 Apache,05 Chinle,U.S. House,2,,Under Votes,6,3,3,0
 Apache,09 Concho,U.S. House,2,,Under Votes,29,17,12,0
@@ -571,7 +571,7 @@ Apache,82 Vernon,U.S. House,2,,Under Votes,21,13,7,1
 Apache,84 Wheatfields,U.S. House,2,,Under Votes,12,7,5,0
 Apache,86 Wide Ruins,U.S. House,2,,Under Votes,5,3,2,0
 Apache,88 Window Rock,U.S. House,2,,Under Votes,6,3,3,0
-Apache,02 Apline,Governor,,DEM,Katie Hobbs,106,92,14,0
+Apache,02 Alpine,Governor,,DEM,Katie Hobbs,106,92,14,0
 Apache,03 Canyon De Chelly,Governor,,DEM,Katie Hobbs,1407,908,493,6
 Apache,05 Chinle,Governor,,DEM,Katie Hobbs,721,498,219,4
 Apache,09 Concho,Governor,,DEM,Katie Hobbs,312,278,33,1
@@ -615,7 +615,7 @@ Apache,82 Vernon,Governor,,DEM,Katie Hobbs,253,221,31,1
 Apache,84 Wheatfields,Governor,,DEM,Katie Hobbs,772,385,382,5
 Apache,86 Wide Ruins,Governor,,DEM,Katie Hobbs,323,192,125,6
 Apache,88 Window Rock,Governor,,DEM,Katie Hobbs,744,528,213,3
-Apache,02 Apline,Governor,,REP,Kari Lake,272,186,86,0
+Apache,02 Alpine,Governor,,REP,Kari Lake,272,186,86,0
 Apache,03 Canyon De Chelly,Governor,,REP,Kari Lake,178,86,90,2
 Apache,05 Chinle,Governor,,REP,Kari Lake,113,68,44,1
 Apache,09 Concho,Governor,,REP,Kari Lake,1260,815,430,15
@@ -659,7 +659,7 @@ Apache,82 Vernon,Governor,,REP,Kari Lake,1029,684,334,11
 Apache,84 Wheatfields,Governor,,REP,Kari Lake,57,20,35,2
 Apache,86 Wide Ruins,Governor,,REP,Kari Lake,67,35,32,0
 Apache,88 Window Rock,Governor,,REP,Kari Lake,133,77,56,0
-Apache,02 Apline,Governor,,,Write-ins,2,1,1,0
+Apache,02 Alpine,Governor,,,Write-ins,2,1,1,0
 Apache,03 Canyon De Chelly,Governor,,,Write-ins,4,4,0,0
 Apache,05 Chinle,Governor,,,Write-ins,2,1,1,0
 Apache,09 Concho,Governor,,,Write-ins,11,8,3,0
@@ -703,7 +703,7 @@ Apache,82 Vernon,Governor,,,Write-ins,10,9,1,0
 Apache,84 Wheatfields,Governor,,,Write-ins,1,0,1,0
 Apache,86 Wide Ruins,Governor,,,Write-ins,0,0,0,0
 Apache,88 Window Rock,Governor,,,Write-ins,1,0,1,0
-Apache,02 Apline,Governor,,,Over Votes,1,1,0,0
+Apache,02 Alpine,Governor,,,Over Votes,1,1,0,0
 Apache,03 Canyon De Chelly,Governor,,,Over Votes,0,0,0,0
 Apache,05 Chinle,Governor,,,Over Votes,0,0,0,0
 Apache,09 Concho,Governor,,,Over Votes,0,0,0,0
@@ -747,7 +747,7 @@ Apache,82 Vernon,Governor,,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,Governor,,,Over Votes,1,0,1,0
 Apache,86 Wide Ruins,Governor,,,Over Votes,0,0,0,0
 Apache,88 Window Rock,Governor,,,Over Votes,0,0,0,0
-Apache,02 Apline,Governor,,,Under Votes,3,2,1,0
+Apache,02 Alpine,Governor,,,Under Votes,3,2,1,0
 Apache,03 Canyon De Chelly,Governor,,,Under Votes,11,6,5,0
 Apache,05 Chinle,Governor,,,Under Votes,7,2,5,0
 Apache,09 Concho,Governor,,,Under Votes,10,7,3,0
@@ -791,7 +791,7 @@ Apache,82 Vernon,Governor,,,Under Votes,11,7,4,0
 Apache,84 Wheatfields,Governor,,,Under Votes,15,7,8,0
 Apache,86 Wide Ruins,Governor,,,Under Votes,3,1,2,0
 Apache,88 Window Rock,Governor,,,Under Votes,7,5,2,0
-Apache,02 Apline,Secretary of State,,DEM,Adrian Fontes,109,94,15,0
+Apache,02 Alpine,Secretary of State,,DEM,Adrian Fontes,109,94,15,0
 Apache,03 Canyon De Chelly,Secretary of State,,DEM,Adrian Fontes,1355,889,461,5
 Apache,05 Chinle,Secretary of State,,DEM,Adrian Fontes,708,495,209,4
 Apache,09 Concho,Secretary of State,,DEM,Adrian Fontes,325,289,35,1
@@ -835,7 +835,7 @@ Apache,82 Vernon,Secretary of State,,DEM,Adrian Fontes,265,236,28,1
 Apache,84 Wheatfields,Secretary of State,,DEM,Adrian Fontes,742,370,367,5
 Apache,86 Wide Ruins,Secretary of State,,DEM,Adrian Fontes,331,203,123,5
 Apache,88 Window Rock,Secretary of State,,DEM,Adrian Fontes,109,94,15,0
-Apache,02 Apline,Secretary of State,,REP,Mark Finchem,259,178,81,0
+Apache,02 Alpine,Secretary of State,,REP,Mark Finchem,259,178,81,0
 Apache,03 Canyon De Chelly,Secretary of State,,REP,Mark Finchem,210,93,115,2
 Apache,05 Chinle,Secretary of State,,REP,Mark Finchem,116,63,52,1
 Apache,09 Concho,Secretary of State,,REP,Mark Finchem,1231,793,423,15
@@ -879,7 +879,7 @@ Apache,82 Vernon,Secretary of State,,REP,Mark Finchem,1001,659,332,10
 Apache,84 Wheatfields,Secretary of State,,REP,Mark Finchem,75,26,47,2
 Apache,86 Wide Ruins,Secretary of State,,REP,Mark Finchem,60,25,35,0
 Apache,88 Window Rock,Secretary of State,,REP,Mark Finchem,259,178,81,0
-Apache,02 Apline,Secretary of State,,,Write-ins,0,0,0,0
+Apache,02 Alpine,Secretary of State,,,Write-ins,0,0,0,0
 Apache,03 Canyon De Chelly,Secretary of State,,,Write-ins,6,4,2,0
 Apache,05 Chinle,Secretary of State,,,Write-ins,1,0,1,0
 Apache,09 Concho,Secretary of State,,,Write-ins,7,4,3,0
@@ -923,7 +923,7 @@ Apache,82 Vernon,Secretary of State,,,Write-ins,1,1,0,0
 Apache,84 Wheatfields,Secretary of State,,,Write-ins,4,1,3,0
 Apache,86 Wide Ruins,Secretary of State,,,Write-ins,0,0,0,0
 Apache,88 Window Rock,Secretary of State,,,Write-ins,0,0,0,0
-Apache,02 Apline,Secretary of State,,,Over Votes,0,0,0,0
+Apache,02 Alpine,Secretary of State,,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,Secretary of State,,,Over Votes,1,1,0,0
 Apache,05 Chinle,Secretary of State,,,Over Votes,1,0,1,0
 Apache,09 Concho,Secretary of State,,,Over Votes,1,0,1,0
@@ -967,7 +967,7 @@ Apache,82 Vernon,Secretary of State,,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,Secretary of State,,,Over Votes,0,0,0,0
 Apache,86 Wide Ruins,Secretary of State,,,Over Votes,1,0,0,1
 Apache,88 Window Rock,Secretary of State,,,Over Votes,0,0,0,0
-Apache,02 Apline,Secretary of State,,,Under Votes,16,10,6,0
+Apache,02 Alpine,Secretary of State,,,Under Votes,16,10,6,0
 Apache,03 Canyon De Chelly,Secretary of State,,,Under Votes,28,17,10,1
 Apache,05 Chinle,Secretary of State,,,Under Votes,17,11,6,0
 Apache,09 Concho,Secretary of State,,,Under Votes,29,22,7,0
@@ -1011,7 +1011,7 @@ Apache,82 Vernon,Secretary of State,,,Under Votes,36,25,10,1
 Apache,84 Wheatfields,Secretary of State,,,Under Votes,25,15,10,0
 Apache,86 Wide Ruins,Secretary of State,,,Under Votes,1,0,1,0
 Apache,88 Window Rock,Secretary of State,,,Under Votes,16,10,6,0
-Apache,02 Apline,Attorney General,,DEM,Kris Mayes,96,84,12,0
+Apache,02 Alpine,Attorney General,,DEM,Kris Mayes,96,84,12,0
 Apache,03 Canyon De Chelly,Attorney General,,DEM,Kris Mayes,1412,918,488,6
 Apache,05 Chinle,Attorney General,,DEM,Kris Mayes,729,501,224,4
 Apache,09 Concho,Attorney General,,DEM,Kris Mayes,307,273,33,1
@@ -1055,7 +1055,7 @@ Apache,82 Vernon,Attorney General,,DEM,Kris Mayes,255,224,30,1
 Apache,84 Wheatfields,Attorney General,,DEM,Kris Mayes,770,379,386,5
 Apache,86 Wide Ruins,Attorney General,,DEM,Kris Mayes,341,201,134,6
 Apache,88 Window Rock,Attorney General,,DEM,Kris Mayes,96,84,12,0
-Apache,02 Apline,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",278,192,86,0
+Apache,02 Alpine,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",278,192,86,0
 Apache,03 Canyon De Chelly,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",168,75,91,2
 Apache,05 Chinle,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",103,64,38,1
 Apache,09 Concho,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1251,815,421,15
@@ -1099,7 +1099,7 @@ Apache,82 Vernon,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",1010,671,329,10
 Apache,84 Wheatfields,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",53,21,30,2
 Apache,86 Wide Ruins,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",47,26,21,0
 Apache,88 Window Rock,Attorney General,,REP,"Abraham ""Abe"" Hamadeh",278,192,86,0
-Apache,02 Apline,Attorney General,,,Write-ins,1,1,0,0
+Apache,02 Alpine,Attorney General,,,Write-ins,1,1,0,0
 Apache,03 Canyon De Chelly,Attorney General,,,Write-ins,4,3,1,0
 Apache,05 Chinle,Attorney General,,,Write-ins,0,0,0,0
 Apache,09 Concho,Attorney General,,,Write-ins,4,3,1,0
@@ -1143,7 +1143,7 @@ Apache,82 Vernon,Attorney General,,,Write-ins,4,4,0,0
 Apache,84 Wheatfields,Attorney General,,,Write-ins,1,0,1,0
 Apache,86 Wide Ruins,Attorney General,,,Write-ins,0,0,0,0
 Apache,88 Window Rock,Attorney General,,,Write-ins,1,1,0,0
-Apache,02 Apline,Attorney General,,,Over Votes,0,0,0,0
+Apache,02 Alpine,Attorney General,,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,Attorney General,,,Over Votes,0,0,0,0
 Apache,05 Chinle,Attorney General,,,Over Votes,0,0,0,0
 Apache,09 Concho,Attorney General,,,Over Votes,0,0,0,0
@@ -1187,7 +1187,7 @@ Apache,82 Vernon,Attorney General,,,Over Votes,1,0,1,0
 Apache,84 Wheatfields,Attorney General,,,Over Votes,0,0,0,0
 Apache,86 Wide Ruins,Attorney General,,,Over Votes,0,0,0,0
 Apache,88 Window Rock,Attorney General,,,Over Votes,0,0,0,0
-Apache,02 Apline,Attorney General,,,Under Votes,9,5,4,0
+Apache,02 Alpine,Attorney General,,,Under Votes,9,5,4,0
 Apache,03 Canyon De Chelly,Attorney General,,,Under Votes,16,8,8,0
 Apache,05 Chinle,Attorney General,,,Under Votes,11,4,7,0
 Apache,09 Concho,Attorney General,,,Under Votes,31,17,14,0
@@ -1231,7 +1231,7 @@ Apache,82 Vernon,Attorney General,,,Under Votes,33,22,10,1
 Apache,84 Wheatfields,Attorney General,,,Under Votes,22,12,10,0
 Apache,86 Wide Ruins,Attorney General,,,Under Votes,5,1,4,0
 Apache,88 Window Rock,Attorney General,,,Under Votes,9,5,4,0
-Apache,02 Apline,State Treasurer,,DEM,Martin Quezada,80,70,10,0
+Apache,02 Alpine,State Treasurer,,DEM,Martin Quezada,80,70,10,0
 Apache,03 Canyon De Chelly,State Treasurer,,DEM,Martin Quezada,1300,856,438,6
 Apache,05 Chinle,State Treasurer,,DEM,Martin Quezada,673,466,203,4
 Apache,09 Concho,State Treasurer,,DEM,Martin Quezada,267,238,28,1
@@ -1275,7 +1275,7 @@ Apache,82 Vernon,State Treasurer,,DEM,Martin Quezada,198,178,19,1
 Apache,84 Wheatfields,State Treasurer,,DEM,Martin Quezada,734,369,360,5
 Apache,86 Wide Ruins,State Treasurer,,DEM,Martin Quezada,322,189,127,6
 Apache,88 Window Rock,State Treasurer,,DEM,Martin Quezada,80,70,10,0
-Apache,02 Apline,State Treasurer,,REP,Kimberly Yee,286,203,83,0
+Apache,02 Alpine,State Treasurer,,REP,Kimberly Yee,286,203,83,0
 Apache,03 Canyon De Chelly,State Treasurer,,REP,Kimberly Yee,269,132,135,2
 Apache,05 Chinle,State Treasurer,,REP,Kimberly Yee,153,94,58,1
 Apache,09 Concho,State Treasurer,,REP,Kimberly Yee,1296,849,432,15
@@ -1319,7 +1319,7 @@ Apache,82 Vernon,State Treasurer,,REP,Kimberly Yee,1059,709,339,11
 Apache,84 Wheatfields,State Treasurer,,REP,Kimberly Yee,94,36,56,2
 Apache,86 Wide Ruins,State Treasurer,,REP,Kimberly Yee,63,35,28,0
 Apache,88 Window Rock,State Treasurer,,REP,Kimberly Yee,286,203,83,0
-Apache,02 Apline,State Treasurer,,,Write-ins,0,0,0,0
+Apache,02 Alpine,State Treasurer,,,Write-ins,0,0,0,0
 Apache,03 Canyon De Chelly,State Treasurer,,,Write-ins,4,3,1,0
 Apache,05 Chinle,State Treasurer,,,Write-ins,0,0,0,0
 Apache,09 Concho,State Treasurer,,,Write-ins,2,1,1,0
@@ -1363,7 +1363,7 @@ Apache,82 Vernon,State Treasurer,,,Write-ins,3,3,0,0
 Apache,84 Wheatfields,State Treasurer,,,Write-ins,4,1,3,0
 Apache,86 Wide Ruins,State Treasurer,,,Write-ins,2,1,1,0
 Apache,88 Window Rock,State Treasurer,,,Write-ins,0,0,0,0
-Apache,02 Apline,State Treasurer,,,Over Votes,0,0,0,0
+Apache,02 Alpine,State Treasurer,,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,State Treasurer,,,Over Votes,1,0,1,0
 Apache,05 Chinle,State Treasurer,,,Over Votes,0,0,0,0
 Apache,09 Concho,State Treasurer,,,Over Votes,0,0,0,0
@@ -1407,7 +1407,7 @@ Apache,82 Vernon,State Treasurer,,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,State Treasurer,,,Over Votes,0,0,0,0
 Apache,86 Wide Ruins,State Treasurer,,,Over Votes,0,0,0,0
 Apache,88 Window Rock,State Treasurer,,,Over Votes,0,0,0,0
-Apache,02 Apline,State Treasurer,,,Under Votes,18,9,9,0
+Apache,02 Alpine,State Treasurer,,,Under Votes,18,9,9,0
 Apache,03 Canyon De Chelly,State Treasurer,,,Under Votes,26,13,13,0
 Apache,05 Chinle,State Treasurer,,,Under Votes,17,9,8,0
 Apache,09 Concho,State Treasurer,,,Under Votes,28,20,8,0
@@ -1451,7 +1451,7 @@ Apache,82 Vernon,State Treasurer,,,Under Votes,43,31,12,0
 Apache,84 Wheatfields,State Treasurer,,,Under Votes,14,6,8,0
 Apache,86 Wide Ruins,State Treasurer,,,Under Votes,6,3,3,0
 Apache,88 Window Rock,State Treasurer,,,Under Votes,18,9,9,0
-Apache,02 Apline,Superintendent of Public Instruction,,DEM,Kathy Hoffman,103,90,13,0
+Apache,02 Alpine,Superintendent of Public Instruction,,DEM,Kathy Hoffman,103,90,13,0
 Apache,03 Canyon De Chelly,Superintendent of Public Instruction,,DEM,Kathy Hoffman,1344,875,464,5
 Apache,05 Chinle,Superintendent of Public Instruction,,DEM,Kathy Hoffman,714,490,220,4
 Apache,09 Concho,Superintendent of Public Instruction,,DEM,Kathy Hoffman,298,263,34,1
@@ -1495,7 +1495,7 @@ Apache,82 Vernon,Superintendent of Public Instruction,,DEM,Kathy Hoffman,247,218
 Apache,84 Wheatfields,Superintendent of Public Instruction,,DEM,Kathy Hoffman,756,380,371,5
 Apache,86 Wide Ruins,Superintendent of Public Instruction,,DEM,Kathy Hoffman,317,185,126,6
 Apache,88 Window Rock,Superintendent of Public Instruction,,DEM,Kathy Hoffman,103,90,13,0
-Apache,02 Apline,Superintendent of Public Instruction,,REP,Tom Horne,267,186,81,0
+Apache,02 Alpine,Superintendent of Public Instruction,,REP,Tom Horne,267,186,81,0
 Apache,03 Canyon De Chelly,Superintendent of Public Instruction,,REP,Tom Horne,235,117,115,3
 Apache,05 Chinle,Superintendent of Public Instruction,,REP,Tom Horne,119,74,44,1
 Apache,09 Concho,Superintendent of Public Instruction,,REP,Tom Horne,1251,820,416,15
@@ -1539,7 +1539,7 @@ Apache,82 Vernon,Superintendent of Public Instruction,,REP,Tom Horne,1017,675,33
 Apache,84 Wheatfields,Superintendent of Public Instruction,,REP,Tom Horne,71,22,47,2
 Apache,86 Wide Ruins,Superintendent of Public Instruction,,REP,Tom Horne,67,37,30,0
 Apache,88 Window Rock,Superintendent of Public Instruction,,REP,Tom Horne,267,186,81,0
-Apache,02 Apline,Superintendent of Public Instruction,,,Write-ins,1,0,1,0
+Apache,02 Alpine,Superintendent of Public Instruction,,,Write-ins,1,0,1,0
 Apache,03 Canyon De Chelly,Superintendent of Public Instruction,,,Write-ins,5,4,1,0
 Apache,05 Chinle,Superintendent of Public Instruction,,,Write-ins,0,0,0,0
 Apache,09 Concho,Superintendent of Public Instruction,,,Write-ins,6,2,4,0
@@ -1583,7 +1583,7 @@ Apache,82 Vernon,Superintendent of Public Instruction,,,Write-ins,2,0,2,0
 Apache,84 Wheatfields,Superintendent of Public Instruction,,,Write-ins,2,0,2,0
 Apache,86 Wide Ruins,Superintendent of Public Instruction,,,Write-ins,1,0,1,0
 Apache,88 Window Rock,Superintendent of Public Instruction,,,Write-ins,1,0,1,0
-Apache,02 Apline,Superintendent of Public Instruction,,,Over Votes,0,0,0,0
+Apache,02 Alpine,Superintendent of Public Instruction,,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,Superintendent of Public Instruction,,,Over Votes,0,0,0,0
 Apache,05 Chinle,Superintendent of Public Instruction,,,Over Votes,0,0,0,0
 Apache,09 Concho,Superintendent of Public Instruction,,,Over Votes,1,1,0,0
@@ -1627,7 +1627,7 @@ Apache,82 Vernon,Superintendent of Public Instruction,,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,Superintendent of Public Instruction,,,Over Votes,1,0,1,0
 Apache,86 Wide Ruins,Superintendent of Public Instruction,,,Over Votes,0,0,0,0
 Apache,88 Window Rock,Superintendent of Public Instruction,,,Over Votes,0,0,0,0
-Apache,02 Apline,Superintendent of Public Instruction,,,Under Votes,13,6,7,0
+Apache,02 Alpine,Superintendent of Public Instruction,,,Under Votes,13,6,7,0
 Apache,03 Canyon De Chelly,Superintendent of Public Instruction,,,Under Votes,16,8,8,0
 Apache,05 Chinle,Superintendent of Public Instruction,,,Under Votes,10,5,5,0
 Apache,09 Concho,Superintendent of Public Instruction,,,Under Votes,37,22,15,0
@@ -1671,7 +1671,7 @@ Apache,82 Vernon,Superintendent of Public Instruction,,,Under Votes,37,28,8,1
 Apache,84 Wheatfields,Superintendent of Public Instruction,,,Under Votes,16,10,6,0
 Apache,86 Wide Ruins,Superintendent of Public Instruction,,,Under Votes,8,6,2,0
 Apache,88 Window Rock,Superintendent of Public Instruction,,,Under Votes,13,6,7,0
-Apache,02 Apline,State Mine Inspector,,REP,Paul Marsh,314,231,83,0
+Apache,02 Alpine,State Mine Inspector,,REP,Paul Marsh,314,231,83,0
 Apache,03 Canyon De Chelly,State Mine Inspector,,REP,Paul Marsh,1043,655,380,8
 Apache,05 Chinle,State Mine Inspector,,REP,Paul Marsh,528,350,174,4
 Apache,09 Concho,State Mine Inspector,,REP,Paul Marsh,1354,914,426,14
@@ -1715,7 +1715,7 @@ Apache,82 Vernon,State Mine Inspector,,REP,Paul Marsh,1132,788,333,11
 Apache,84 Wheatfields,State Mine Inspector,,REP,Paul Marsh,489,242,241,6
 Apache,86 Wide Ruins,State Mine Inspector,,REP,Paul Marsh,240,138,98,4
 Apache,88 Window Rock,State Mine Inspector,,REP,Paul Marsh,314,231,83,0
-Apache,02 Apline,State Mine Inspector,,,Write-ins,2,1,1,0
+Apache,02 Alpine,State Mine Inspector,,,Write-ins,2,1,1,0
 Apache,03 Canyon De Chelly,State Mine Inspector,,,Write-ins,84,48,36,0
 Apache,05 Chinle,State Mine Inspector,,,Write-ins,49,38,11,0
 Apache,09 Concho,State Mine Inspector,,,Write-ins,25,22,3,0
@@ -1759,7 +1759,7 @@ Apache,82 Vernon,State Mine Inspector,,,Write-ins,7,5,2,0
 Apache,84 Wheatfields,State Mine Inspector,,,Write-ins,54,31,23,0
 Apache,86 Wide Ruins,State Mine Inspector,,,Write-ins,23,12,11,0
 Apache,88 Window Rock,State Mine Inspector,,,Write-ins,2,1,1,0
-Apache,02 Apline,State Mine Inspector,,,Over Votes,0,0,0,0
+Apache,02 Alpine,State Mine Inspector,,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,State Mine Inspector,,,Over Votes,1,0,1,0
 Apache,05 Chinle,State Mine Inspector,,,Over Votes,0,0,0,0
 Apache,09 Concho,State Mine Inspector,,,Over Votes,0,0,0,0
@@ -1803,7 +1803,7 @@ Apache,82 Vernon,State Mine Inspector,,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,State Mine Inspector,,,Over Votes,0,0,0,0
 Apache,86 Wide Ruins,State Mine Inspector,,,Over Votes,0,0,0,0
 Apache,88 Window Rock,State Mine Inspector,,,Over Votes,0,0,0,0
-Apache,02 Apline,State Mine Inspector,,,Under Votes,68,50,18,0
+Apache,02 Alpine,State Mine Inspector,,,Under Votes,68,50,18,0
 Apache,03 Canyon De Chelly,State Mine Inspector,,,Under Votes,472,301,171,0
 Apache,05 Chinle,State Mine Inspector,,,Under Votes,266,181,84,1
 Apache,09 Concho,State Mine Inspector,,,Under Votes,214,172,40,2
@@ -1847,7 +1847,7 @@ Apache,82 Vernon,State Mine Inspector,,,Under Votes,164,128,35,1
 Apache,84 Wheatfields,State Mine Inspector,,,Under Votes,303,139,163,1
 Apache,86 Wide Ruins,State Mine Inspector,,,Under Votes,130,78,50,2
 Apache,88 Window Rock,State Mine Inspector,,,Under Votes,68,50,18,0
-Apache,02 Apline,Corporation Commissioner,,DEM,Lauren Kuby,86,72,14,0
+Apache,02 Alpine,Corporation Commissioner,,DEM,Lauren Kuby,86,72,14,0
 Apache,03 Canyon De Chelly,Corporation Commissioner,,DEM,Lauren Kuby,948,666,280,2
 Apache,05 Chinle,Corporation Commissioner,,DEM,Lauren Kuby,517,380,135,2
 Apache,09 Concho,Corporation Commissioner,,DEM,Lauren Kuby,251,230,20,1
@@ -1891,7 +1891,7 @@ Apache,82 Vernon,Corporation Commissioner,,DEM,Lauren Kuby,192,177,14,1
 Apache,84 Wheatfields,Corporation Commissioner,,DEM,Lauren Kuby,500,293,203,4
 Apache,86 Wide Ruins,Corporation Commissioner,,DEM,Lauren Kuby,208,135,72,1
 Apache,88 Window Rock,Corporation Commissioner,,DEM,Lauren Kuby,86,72,14,0
-Apache,02 Apline,Corporation Commissioner,,DEM,Sandra Kennedy,93,82,11,0
+Apache,02 Alpine,Corporation Commissioner,,DEM,Sandra Kennedy,93,82,11,0
 Apache,03 Canyon De Chelly,Corporation Commissioner,,DEM,Sandra Kennedy,1131,776,350,5
 Apache,05 Chinle,Corporation Commissioner,,DEM,Sandra Kennedy,631,448,180,3
 Apache,09 Concho,Corporation Commissioner,,DEM,Sandra Kennedy,273,246,26,1
@@ -1935,7 +1935,7 @@ Apache,82 Vernon,Corporation Commissioner,,DEM,Sandra Kennedy,227,201,25,1
 Apache,84 Wheatfields,Corporation Commissioner,,DEM,Sandra Kennedy,632,343,285,4
 Apache,86 Wide Ruins,Corporation Commissioner,,DEM,Sandra Kennedy,299,177,116,6
 Apache,88 Window Rock,Corporation Commissioner,,DEM,Sandra Kennedy,93,82,11,0
-Apache,02 Apline,Corporation Commissioner,,REP,Kevin Thompson,260,190,70,0
+Apache,02 Alpine,Corporation Commissioner,,REP,Kevin Thompson,260,190,70,0
 Apache,03 Canyon De Chelly,Corporation Commissioner,,REP,Kevin Thompson,207,107,98,2
 Apache,05 Chinle,Corporation Commissioner,,REP,Kevin Thompson,100,70,29,1
 Apache,09 Concho,Corporation Commissioner,,REP,Kevin Thompson,1117,752,354,11
@@ -1979,7 +1979,7 @@ Apache,82 Vernon,Corporation Commissioner,,REP,Kevin Thompson,937,648,280,9
 Apache,84 Wheatfields,Corporation Commissioner,,REP,Kevin Thompson,66,27,38,1
 Apache,86 Wide Ruins,Corporation Commissioner,,REP,Kevin Thompson,50,31,19,0
 Apache,88 Window Rock,Corporation Commissioner,,REP,Kevin Thompson,260,190,70,0
-Apache,02 Apline,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",252,184,68,0
+Apache,02 Alpine,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",252,184,68,0
 Apache,03 Canyon De Chelly,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",123,76,47,0
 Apache,05 Chinle,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",86,59,27,0
 Apache,09 Concho,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",1106,740,354,12
@@ -2023,7 +2023,7 @@ Apache,82 Vernon,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",918,631
 Apache,84 Wheatfields,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",34,14,18,2
 Apache,86 Wide Ruins,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",39,26,13,0
 Apache,88 Window Rock,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",252,184,68,0
-Apache,02 Apline,Corporation Commissioner,,,Write-ins,0,0,0,0
+Apache,02 Alpine,Corporation Commissioner,,,Write-ins,0,0,0,0
 Apache,03 Canyon De Chelly,Corporation Commissioner,,,Write-ins,2410,1626,775,9
 Apache,05 Chinle,Corporation Commissioner,,,Write-ins,1,1,0,0
 Apache,09 Concho,Corporation Commissioner,,,Write-ins,8,2,6,0
@@ -2067,7 +2067,7 @@ Apache,82 Vernon,Corporation Commissioner,,,Write-ins,2,2,0,0
 Apache,84 Wheatfields,Corporation Commissioner,,,Write-ins,2,0,2,0
 Apache,86 Wide Ruins,Corporation Commissioner,,,Write-ins,0,0,0,0
 Apache,88 Window Rock,Corporation Commissioner,,,Write-ins,0,0,0,0
-Apache,02 Apline,Corporation Commissioner,,,Over Votes,0,0,0,0
+Apache,02 Alpine,Corporation Commissioner,,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,Corporation Commissioner,,,Over Votes,0,0,0,0
 Apache,05 Chinle,Corporation Commissioner,,,Over Votes,0,0,0,0
 Apache,09 Concho,Corporation Commissioner,,,Over Votes,4,4,0,0
@@ -2111,7 +2111,7 @@ Apache,82 Vernon,Corporation Commissioner,,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,Corporation Commissioner,,,Over Votes,2,0,2,0
 Apache,86 Wide Ruins,Corporation Commissioner,,,Over Votes,0,0,0,0
 Apache,88 Window Rock,Corporation Commissioner,,,Over Votes,0,0,0,0
-Apache,02 Apline,Corporation Commissioner,,,Under Votes,77,36,41,0
+Apache,02 Alpine,Corporation Commissioner,,,Under Votes,77,36,41,0
 Apache,03 Canyon De Chelly,Corporation Commissioner,,,Under Votes,790,382,401,7
 Apache,05 Chinle,Corporation Commissioner,,,Under Votes,351,180,167,4
 Apache,09 Concho,Corporation Commissioner,,,Under Votes,427,242,178,7
@@ -2155,7 +2155,7 @@ Apache,82 Vernon,Corporation Commissioner,,,Under Votes,330,183,142,5
 Apache,84 Wheatfields,Corporation Commissioner,,,Under Votes,456,147,306,3
 Apache,86 Wide Ruins,Corporation Commissioner,,,Under Votes,190,87,98,5
 Apache,88 Window Rock,Corporation Commissioner,,,Under Votes,77,36,41,0
-Apache,02 Apline,State Senate,6,DEM,Theresa Hatathlie,133,110,23,0
+Apache,02 Alpine,State Senate,6,DEM,Theresa Hatathlie,133,110,23,0
 Apache,03 Canyon De Chelly,State Senate,6,DEM,Theresa Hatathlie,1503,961,536,6
 Apache,05 Chinle,State Senate,6,DEM,Theresa Hatathlie,792,538,250,4
 Apache,09 Concho,State Senate,6,DEM,Theresa Hatathlie,454,375,76,3
@@ -2199,7 +2199,7 @@ Apache,82 Vernon,State Senate,6,DEM,Theresa Hatathlie,371,310,60,1
 Apache,84 Wheatfields,State Senate,6,DEM,Theresa Hatathlie,800,387,407,6
 Apache,86 Wide Ruins,State Senate,6,DEM,Theresa Hatathlie,359,207,146,6
 Apache,88 Window Rock,State Senate,6,DEM,Theresa Hatathlie,133,110,23,0
-Apache,02 Apline,State Senate,6,,Write-ins,57,42,15,0
+Apache,02 Alpine,State Senate,6,,Write-ins,57,42,15,0
 Apache,03 Canyon De Chelly,State Senate,6,,Write-ins,18,8,9,1
 Apache,05 Chinle,State Senate,6,,Write-ins,15,7,7,1
 Apache,09 Concho,State Senate,6,,Write-ins,302,170,124,8
@@ -2243,7 +2243,7 @@ Apache,82 Vernon,State Senate,6,,Write-ins,231,148,80,3
 Apache,84 Wheatfields,State Senate,6,,Write-ins,8,4,4,0
 Apache,86 Wide Ruins,State Senate,6,,Write-ins,10,5,5,0
 Apache,88 Window Rock,State Senate,6,,Write-ins,57,42,15,0
-Apache,02 Apline,State Senate,6,,Over Votes,0,0,0,0
+Apache,02 Alpine,State Senate,6,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,State Senate,6,,Over Votes,1,0,1,0
 Apache,05 Chinle,State Senate,6,,Over Votes,0,0,0,0
 Apache,09 Concho,State Senate,6,,Over Votes,0,0,0,0
@@ -2287,7 +2287,7 @@ Apache,82 Vernon,State Senate,6,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,State Senate,6,,Over Votes,0,0,0,0
 Apache,86 Wide Ruins,State Senate,6,,Over Votes,0,0,0,0
 Apache,88 Window Rock,State Senate,6,,Over Votes,0,0,0,0
-Apache,02 Apline,State Senate,6,,Under Votes,194,130,64,0
+Apache,02 Alpine,State Senate,6,,Under Votes,194,130,64,0
 Apache,03 Canyon De Chelly,State Senate,6,,Under Votes,78,35,42,1
 Apache,05 Chinle,State Senate,6,,Under Votes,36,24,12,0
 Apache,09 Concho,State Senate,6,,Under Votes,837,563,269,5
@@ -2331,7 +2331,7 @@ Apache,82 Vernon,State Senate,6,,Under Votes,701,463,230,8
 Apache,84 Wheatfields,State Senate,6,,Under Votes,38,21,16,1
 Apache,86 Wide Ruins,State Senate,6,,Under Votes,24,16,8,0
 Apache,88 Window Rock,State Senate,6,,Under Votes,194,130,64,0
-Apache,02 Apline,State House,6,DEM,Mae Peshlakai,117,94,23,0
+Apache,02 Alpine,State House,6,DEM,Mae Peshlakai,117,94,23,0
 Apache,03 Canyon De Chelly,State House,6,DEM,Mae Peshlakai,870,635,233,2
 Apache,05 Chinle,State House,6,DEM,Mae Peshlakai,525,404,118,3
 Apache,09 Concho,State House,6,DEM,Mae Peshlakai,387,334,51,2
@@ -2375,7 +2375,7 @@ Apache,82 Vernon,State House,6,DEM,Mae Peshlakai,316,264,50,2
 Apache,84 Wheatfields,State House,6,DEM,Mae Peshlakai,507,291,214,2
 Apache,86 Wide Ruins,State House,6,DEM,Mae Peshlakai,255,163,87,5
 Apache,88 Window Rock,State House,6,DEM,Mae Peshlakai,117,94,23,0
-Apache,02 Apline,State House,6,DEM,Myron Tsosie,108,90,18,0
+Apache,02 Alpine,State House,6,DEM,Myron Tsosie,108,90,18,0
 Apache,03 Canyon De Chelly,State House,6,DEM,Myron Tsosie,1251,806,439,6
 Apache,05 Chinle,State House,6,DEM,Myron Tsosie,650,448,200,2
 Apache,09 Concho,State House,6,DEM,Myron Tsosie,350,292,57,1
@@ -2419,7 +2419,7 @@ Apache,82 Vernon,State House,6,DEM,Myron Tsosie,268,224,43,1
 Apache,84 Wheatfields,State House,6,DEM,Myron Tsosie,630,330,294,6
 Apache,86 Wide Ruins,State House,6,DEM,Myron Tsosie,254,156,96,2
 Apache,88 Window Rock,State House,6,DEM,Myron Tsosie,108,90,18,0
-Apache,02 Apline,State House,6,,Write-ins,31,22,9,0
+Apache,02 Alpine,State House,6,,Write-ins,31,22,9,0
 Apache,03 Canyon De Chelly,State House,6,,Write-ins,18,10,7,1
 Apache,05 Chinle,State House,6,,Write-ins,15,8,7,0
 Apache,09 Concho,State House,6,,Write-ins,256,156,91,9
@@ -2463,7 +2463,7 @@ Apache,82 Vernon,State House,6,,Write-ins,164,98,64,2
 Apache,84 Wheatfields,State House,6,,Write-ins,4,3,1,0
 Apache,86 Wide Ruins,State House,6,,Write-ins,3,0,3,0
 Apache,88 Window Rock,State House,6,,Write-ins,31,22,9,0
-Apache,02 Apline,State House,6,,Over Votes,0,0,0,0
+Apache,02 Alpine,State House,6,,Over Votes,0,0,0,0
 Apache,03 Canyon De Chelly,State House,6,,Over Votes,0,0,0,0
 Apache,05 Chinle,State House,6,,Over Votes,0,0,0,0
 Apache,09 Concho,State House,6,,Over Votes,0,0,0,0
@@ -2507,7 +2507,7 @@ Apache,82 Vernon,State House,6,,Over Votes,0,0,0,0
 Apache,84 Wheatfields,State House,6,,Over Votes,0,0,0,0
 Apache,86 Wide Ruins,State House,6,,Over Votes,0,0,0,0
 Apache,88 Window Rock,State House,6,,Over Votes,0,0,0,0
-Apache,02 Apline,State House,6,,Under Votes,512,358,154,0
+Apache,02 Alpine,State House,6,,Under Votes,512,358,154,0
 Apache,03 Canyon De Chelly,State House,6,,Under Votes,1061,557,497,7
 Apache,05 Chinle,State House,6,,Under Votes,496,278,213,5
 Apache,09 Concho,State House,6,,Under Votes,2193,1434,739,20
