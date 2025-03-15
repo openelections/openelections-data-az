@@ -47,11 +47,11 @@ Apache,02 ALPINE,Corporation Commissioner,,,Write-In Totals,1
 Apache,02 ALPINE,Corporation Commissioner,,,Total Votes,1069
 Apache,02 ALPINE,Corporation Commissioner,,,Over Votes,3
 Apache,02 ALPINE,Corporation Commissioner,,,Under Votes,182
-Apache,02 ALPINE,Board of Supervisors,,REP,Nelson DAVIS,319
-Apache,02 ALPINE,Board of Supervisors,,,Write-In Totals,7
-Apache,02 ALPINE,Board of Supervisors,,,Total Votes,326
-Apache,02 ALPINE,Board of Supervisors,,,Over Votes,1
-Apache,02 ALPINE,Board of Supervisors,,,Under Votes,91
+Apache,02 ALPINE,Board of Supervisors,3,REP,Nelson DAVIS,319
+Apache,02 ALPINE,Board of Supervisors,3,,Write-In Totals,7
+Apache,02 ALPINE,Board of Supervisors,3,,Total Votes,326
+Apache,02 ALPINE,Board of Supervisors,3,,Over Votes,1
+Apache,02 ALPINE,Board of Supervisors,3,,Under Votes,91
 Apache,02 ALPINE,County Assessor,,DEM,Rodger DAHOZY,146
 Apache,02 ALPINE,County Assessor,,,Write-In Totals,21
 Apache,02 ALPINE,County Assessor,,,Total Votes,167
@@ -219,11 +219,11 @@ Apache,03 CANYON DE CHELLY,Corporation Commissioner,,,Write-In Totals,8
 Apache,03 CANYON DE CHELLY,Corporation Commissioner,,,Total Votes,3628
 Apache,03 CANYON DE CHELLY,Corporation Commissioner,,,Over Votes,6
 Apache,03 CANYON DE CHELLY,Corporation Commissioner,,,Under Votes,1898
-Apache,03 CANYON DE CHELLY,Board of Supervisors,,DEM,Joe SHIRLEY JR.,1515
-Apache,03 CANYON DE CHELLY,Board of Supervisors,,,Write-In Totals,69
-Apache,03 CANYON DE CHELLY,Board of Supervisors,,,Total Votes,1584
-Apache,03 CANYON DE CHELLY,Board of Supervisors,,,Over Votes,1
-Apache,03 CANYON DE CHELLY,Board of Supervisors,,,Under Votes,259
+Apache,03 CANYON DE CHELLY,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,1515
+Apache,03 CANYON DE CHELLY,Board of Supervisors,1,,Write-In Totals,69
+Apache,03 CANYON DE CHELLY,Board of Supervisors,1,,Total Votes,1584
+Apache,03 CANYON DE CHELLY,Board of Supervisors,1,,Over Votes,1
+Apache,03 CANYON DE CHELLY,Board of Supervisors,1,,Under Votes,259
 Apache,03 CANYON DE CHELLY,County Assessor,,DEM,Rodger DAHOZY,1689
 Apache,03 CANYON DE CHELLY,County Assessor,,,Write-In Totals,25
 Apache,03 CANYON DE CHELLY,County Assessor,,,Total Votes,1714
@@ -385,11 +385,11 @@ Apache,05 CHINLE,Corporation Commissioner,,,Write-In Totals,6
 Apache,05 CHINLE,Corporation Commissioner,,,Total Votes,2261
 Apache,05 CHINLE,Corporation Commissioner,,,Over Votes,0
 Apache,05 CHINLE,Corporation Commissioner,,,Under Votes,973
-Apache,05 CHINLE,Board of Supervisors,,DEM,Joe SHIRLEY JR.,900
-Apache,05 CHINLE,Board of Supervisors,,,Write-In Totals,32
-Apache,05 CHINLE,Board of Supervisors,,,Total Votes,932
-Apache,05 CHINLE,Board of Supervisors,,,Over Votes,1
-Apache,05 CHINLE,Board of Supervisors,,,Under Votes,145
+Apache,05 CHINLE,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,900
+Apache,05 CHINLE,Board of Supervisors,1,,Write-In Totals,32
+Apache,05 CHINLE,Board of Supervisors,1,,Total Votes,932
+Apache,05 CHINLE,Board of Supervisors,1,,Over Votes,1
+Apache,05 CHINLE,Board of Supervisors,1,,Under Votes,145
 Apache,05 CHINLE,County Assessor,,DEM,Rodger DAHOZY,956
 Apache,05 CHINLE,County Assessor,,,Write-In Totals,18
 Apache,05 CHINLE,County Assessor,,,Total Votes,974
@@ -551,11 +551,11 @@ Apache,09 CONCHO,Corporation Commissioner,,,Write-In Totals,5
 Apache,09 CONCHO,Corporation Commissioner,,,Total Votes,5032
 Apache,09 CONCHO,Corporation Commissioner,,,Over Votes,9
 Apache,09 CONCHO,Corporation Commissioner,,,Under Votes,1193
-Apache,09 CONCHO,Board of Supervisors,,REP,Nelson DAVIS,1593
-Apache,09 CONCHO,Board of Supervisors,,,Write-In Totals,40
-Apache,09 CONCHO,Board of Supervisors,,,Total Votes,1633
-Apache,09 CONCHO,Board of Supervisors,,,Over Votes,0
-Apache,09 CONCHO,Board of Supervisors,,,Under Votes,445
+Apache,09 CONCHO,Board of Supervisors,3,REP,Nelson DAVIS,1593
+Apache,09 CONCHO,Board of Supervisors,3,,Write-In Totals,40
+Apache,09 CONCHO,Board of Supervisors,3,,Total Votes,1633
+Apache,09 CONCHO,Board of Supervisors,3,,Over Votes,0
+Apache,09 CONCHO,Board of Supervisors,3,,Under Votes,445
 Apache,09 CONCHO,County Assessor,,DEM,Rodger DAHOZY,687
 Apache,09 CONCHO,County Assessor,,,Write-In Totals,166
 Apache,09 CONCHO,County Assessor,,,Total Votes,853
@@ -724,11 +724,11 @@ Apache,10 CORNFIELDS,Corporation Commissioner,,,Write-In Totals,0
 Apache,10 CORNFIELDS,Corporation Commissioner,,,Total Votes,914
 Apache,10 CORNFIELDS,Corporation Commissioner,,,Over Votes,0
 Apache,10 CORNFIELDS,Corporation Commissioner,,,Under Votes,409
-Apache,10 CORNFIELDS,Board of Supervisors,,DEM,Alton Joe SHEPHERD,357
-Apache,10 CORNFIELDS,Board of Supervisors,,,Write-In Totals,8
-Apache,10 CORNFIELDS,Board of Supervisors,,,Total Votes,365
-Apache,10 CORNFIELDS,Board of Supervisors,,,Over Votes,0
-Apache,10 CORNFIELDS,Board of Supervisors,,,Under Votes,76
+Apache,10 CORNFIELDS,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,357
+Apache,10 CORNFIELDS,Board of Supervisors,2,,Write-In Totals,8
+Apache,10 CORNFIELDS,Board of Supervisors,2,,Total Votes,365
+Apache,10 CORNFIELDS,Board of Supervisors,2,,Over Votes,0
+Apache,10 CORNFIELDS,Board of Supervisors,2,,Under Votes,76
 Apache,10 CORNFIELDS,County Assessor,,DEM,Rodger DAHOZY,402
 Apache,10 CORNFIELDS,County Assessor,,,Write-In Totals,3
 Apache,10 CORNFIELDS,County Assessor,,,Total Votes,405
@@ -898,11 +898,11 @@ Apache,11 COTTONWOOD,Corporation Commissioner,,,Write-In Totals,9
 Apache,11 COTTONWOOD,Corporation Commissioner,,,Total Votes,1354
 Apache,11 COTTONWOOD,Corporation Commissioner,,,Over Votes,0
 Apache,11 COTTONWOOD,Corporation Commissioner,,,Under Votes,908
-Apache,11 COTTONWOOD,Board of Supervisors,,DEM,Alton Joe SHEPHERD,608
-Apache,11 COTTONWOOD,Board of Supervisors,,,Write-In Totals,13
-Apache,11 COTTONWOOD,Board of Supervisors,,,Total Votes,621
-Apache,11 COTTONWOOD,Board of Supervisors,,,Over Votes,0
-Apache,11 COTTONWOOD,Board of Supervisors,,,Under Votes,133
+Apache,11 COTTONWOOD,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,608
+Apache,11 COTTONWOOD,Board of Supervisors,2,,Write-In Totals,13
+Apache,11 COTTONWOOD,Board of Supervisors,2,,Total Votes,621
+Apache,11 COTTONWOOD,Board of Supervisors,2,,Over Votes,0
+Apache,11 COTTONWOOD,Board of Supervisors,2,,Under Votes,133
 Apache,11 COTTONWOOD,County Assessor,,DEM,Rodger DAHOZY,689
 Apache,11 COTTONWOOD,County Assessor,,,Write-In Totals,9
 Apache,11 COTTONWOOD,County Assessor,,,Total Votes,698
@@ -1064,11 +1064,11 @@ Apache,12 CORONADO,Corporation Commissioner,,,Write-In Totals,4
 Apache,12 CORONADO,Corporation Commissioner,,,Total Votes,2389
 Apache,12 CORONADO,Corporation Commissioner,,,Over Votes,3
 Apache,12 CORONADO,Corporation Commissioner,,,Under Votes,566
-Apache,12 CORONADO,Board of Supervisors,,REP,Nelson DAVIS,812
-Apache,12 CORONADO,Board of Supervisors,,,Write-In Totals,11
-Apache,12 CORONADO,Board of Supervisors,,,Total Votes,823
-Apache,12 CORONADO,Board of Supervisors,,,Over Votes,0
-Apache,12 CORONADO,Board of Supervisors,,,Under Votes,163
+Apache,12 CORONADO,Board of Supervisors,3,REP,Nelson DAVIS,812
+Apache,12 CORONADO,Board of Supervisors,3,,Write-In Totals,11
+Apache,12 CORONADO,Board of Supervisors,3,,Total Votes,823
+Apache,12 CORONADO,Board of Supervisors,3,,Over Votes,0
+Apache,12 CORONADO,Board of Supervisors,3,,Under Votes,163
 Apache,12 CORONADO,County Assessor,,DEM,Rodger DAHOZY,363
 Apache,12 CORONADO,County Assessor,,,Write-In Totals,58
 Apache,12 CORONADO,County Assessor,,,Total Votes,421
@@ -1237,11 +1237,11 @@ Apache,13 DENNEHOTSO,Corporation Commissioner,,,Write-In Totals,0
 Apache,13 DENNEHOTSO,Corporation Commissioner,,,Total Votes,1026
 Apache,13 DENNEHOTSO,Corporation Commissioner,,,Over Votes,0
 Apache,13 DENNEHOTSO,Corporation Commissioner,,,Under Votes,645
-Apache,13 DENNEHOTSO,Board of Supervisors,,DEM,Joe SHIRLEY JR.,415
-Apache,13 DENNEHOTSO,Board of Supervisors,,,Write-In Totals,8
-Apache,13 DENNEHOTSO,Board of Supervisors,,,Total Votes,423
-Apache,13 DENNEHOTSO,Board of Supervisors,,,Over Votes,0
-Apache,13 DENNEHOTSO,Board of Supervisors,,,Under Votes,134
+Apache,13 DENNEHOTSO,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,415
+Apache,13 DENNEHOTSO,Board of Supervisors,1,,Write-In Totals,8
+Apache,13 DENNEHOTSO,Board of Supervisors,1,,Total Votes,423
+Apache,13 DENNEHOTSO,Board of Supervisors,1,,Over Votes,0
+Apache,13 DENNEHOTSO,Board of Supervisors,1,,Under Votes,134
 Apache,13 DENNEHOTSO,County Assessor,,DEM,Rodger DAHOZY,501
 Apache,13 DENNEHOTSO,County Assessor,,,Write-In Totals,2
 Apache,13 DENNEHOTSO,County Assessor,,,Total Votes,503
@@ -1415,11 +1415,11 @@ Apache,16 EAGAR,Corporation Commissioner,,,Write-In Totals,8
 Apache,16 EAGAR,Corporation Commissioner,,,Total Votes,2389
 Apache,16 EAGAR,Corporation Commissioner,,,Over Votes,3
 Apache,16 EAGAR,Corporation Commissioner,,,Under Votes,506
-Apache,16 EAGAR,Board of Supervisors,,REP,Nelson DAVIS,724
-Apache,16 EAGAR,Board of Supervisors,,,Write-In Totals,19
-Apache,16 EAGAR,Board of Supervisors,,,Total Votes,743
-Apache,16 EAGAR,Board of Supervisors,,,Over Votes,1
-Apache,16 EAGAR,Board of Supervisors,,,Under Votes,222
+Apache,16 EAGAR,Board of Supervisors,3,REP,Nelson DAVIS,724
+Apache,16 EAGAR,Board of Supervisors,3,,Write-In Totals,19
+Apache,16 EAGAR,Board of Supervisors,3,,Total Votes,743
+Apache,16 EAGAR,Board of Supervisors,3,,Over Votes,1
+Apache,16 EAGAR,Board of Supervisors,3,,Under Votes,222
 Apache,16 EAGAR,County Assessor,,DEM,Rodger DAHOZY,302
 Apache,16 EAGAR,County Assessor,,,Write-In Totals,62
 Apache,16 EAGAR,County Assessor,,,Total Votes,364
@@ -1581,11 +1581,11 @@ Apache,17 FLAT TOP,Corporation Commissioner,,,Write-In Totals,4
 Apache,17 FLAT TOP,Corporation Commissioner,,,Total Votes,2007
 Apache,17 FLAT TOP,Corporation Commissioner,,,Over Votes,3
 Apache,17 FLAT TOP,Corporation Commissioner,,,Under Votes,483
-Apache,17 FLAT TOP,Board of Supervisors,,REP,Nelson DAVIS,672
-Apache,17 FLAT TOP,Board of Supervisors,,,Write-In Totals,8
-Apache,17 FLAT TOP,Board of Supervisors,,,Total Votes,680
-Apache,17 FLAT TOP,Board of Supervisors,,,Over Votes,0
-Apache,17 FLAT TOP,Board of Supervisors,,,Under Votes,151
+Apache,17 FLAT TOP,Board of Supervisors,3,REP,Nelson DAVIS,672
+Apache,17 FLAT TOP,Board of Supervisors,3,,Write-In Totals,8
+Apache,17 FLAT TOP,Board of Supervisors,3,,Total Votes,680
+Apache,17 FLAT TOP,Board of Supervisors,3,,Over Votes,0
+Apache,17 FLAT TOP,Board of Supervisors,3,,Under Votes,151
 Apache,17 FLAT TOP,County Assessor,,DEM,Rodger DAHOZY,280
 Apache,17 FLAT TOP,County Assessor,,,Write-In Totals,46
 Apache,17 FLAT TOP,County Assessor,,,Total Votes,326
@@ -1747,11 +1747,11 @@ Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Write-In Totals,7
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Total Votes,4318
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Over Votes,15
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Under Votes,1715
-Apache,19 FT. DEFIANCE,Board of Supervisors,,DEM,Alton Joe SHEPHERD,1634
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Write-In Totals,36
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Total Votes,1670
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Over Votes,1
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Under Votes,345
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,1634
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Write-In Totals,36
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Total Votes,1670
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Over Votes,1
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Under Votes,345
 Apache,19 FT. DEFIANCE,County Assessor,,DEM,Rodger DAHOZY,1775
 Apache,19 FT. DEFIANCE,County Assessor,,,Write-In Totals,42
 Apache,19 FT. DEFIANCE,County Assessor,,,Total Votes,1817
@@ -1913,11 +1913,11 @@ Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Write-In Totals,0
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Total Votes,929
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Over Votes,0
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Under Votes,382
-Apache,19 FT. DEFIANCE,Board of Supervisors,,DEM,Alton Joe SHEPHERD,357
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Write-In Totals,13
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Total Votes,370
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Over Votes,0
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Under Votes,67
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,357
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Write-In Totals,13
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Total Votes,370
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Over Votes,0
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Under Votes,67
 Apache,19 FT. DEFIANCE,County Assessor,,DEM,Rodger DAHOZY,409
 Apache,19 FT. DEFIANCE,County Assessor,,,Write-In Totals,3
 Apache,19 FT. DEFIANCE,County Assessor,,,Total Votes,412
@@ -2087,11 +2087,11 @@ Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Write-In Totals,4
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Total Votes,1514
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Over Votes,0
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,,Under Votes,571
-Apache,19 FT. DEFIANCE,Board of Supervisors,,DEM,Alton Joe SHEPHERD,549
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Write-In Totals,11
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Total Votes,560
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Over Votes,0
-Apache,19 FT. DEFIANCE,Board of Supervisors,,,Under Votes,135
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,549
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Write-In Totals,11
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Total Votes,560
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Over Votes,0
+Apache,19 FT. DEFIANCE,Board of Supervisors,2,,Under Votes,135
 Apache,19 FT. DEFIANCE,County Assessor,,DEM,Rodger DAHOZY,636
 Apache,19 FT. DEFIANCE,County Assessor,,,Write-In Totals,8
 Apache,19 FT. DEFIANCE,County Assessor,,,Total Votes,644
@@ -2261,11 +2261,11 @@ Apache,25 GREER,Corporation Commissioner,,,Write-In Totals,0
 Apache,25 GREER,Corporation Commissioner,,,Total Votes,290
 Apache,25 GREER,Corporation Commissioner,,,Over Votes,0
 Apache,25 GREER,Corporation Commissioner,,,Under Votes,55
-Apache,25 GREER,Board of Supervisors,,REP,Nelson DAVIS,69
-Apache,25 GREER,Board of Supervisors,,,Write-In Totals,2
-Apache,25 GREER,Board of Supervisors,,,Total Votes,71
-Apache,25 GREER,Board of Supervisors,,,Over Votes,0
-Apache,25 GREER,Board of Supervisors,,,Under Votes,44
+Apache,25 GREER,Board of Supervisors,3,REP,Nelson DAVIS,69
+Apache,25 GREER,Board of Supervisors,3,,Write-In Totals,2
+Apache,25 GREER,Board of Supervisors,3,,Total Votes,71
+Apache,25 GREER,Board of Supervisors,3,,Over Votes,0
+Apache,25 GREER,Board of Supervisors,3,,Under Votes,44
 Apache,25 GREER,County Assessor,,DEM,Rodger DAHOZY,47
 Apache,25 GREER,County Assessor,,,Write-In Totals,5
 Apache,25 GREER,County Assessor,,,Total Votes,52
@@ -2427,11 +2427,11 @@ Apache,27 HOUCK,Corporation Commissioner,,,Write-In Totals,9
 Apache,27 HOUCK,Corporation Commissioner,,,Total Votes,1146
 Apache,27 HOUCK,Corporation Commissioner,,,Over Votes,0
 Apache,27 HOUCK,Corporation Commissioner,,,Under Votes,672
-Apache,27 HOUCK,Board of Supervisors,,DEM,Alton Joe SHEPHERD,434
-Apache,27 HOUCK,Board of Supervisors,,,Write-In Totals,15
-Apache,27 HOUCK,Board of Supervisors,,,Total Votes,449
-Apache,27 HOUCK,Board of Supervisors,,,Over Votes,1
-Apache,27 HOUCK,Board of Supervisors,,,Under Votes,156
+Apache,27 HOUCK,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,434
+Apache,27 HOUCK,Board of Supervisors,2,,Write-In Totals,15
+Apache,27 HOUCK,Board of Supervisors,2,,Total Votes,449
+Apache,27 HOUCK,Board of Supervisors,2,,Over Votes,1
+Apache,27 HOUCK,Board of Supervisors,2,,Under Votes,156
 Apache,27 HOUCK,County Assessor,,DEM,Rodger DAHOZY,496
 Apache,27 HOUCK,County Assessor,,,Write-In Totals,15
 Apache,27 HOUCK,County Assessor,,,Total Votes,511
@@ -2600,11 +2600,11 @@ Apache,29 KINLICHEE,Corporation Commissioner,,,Write-In Totals,1
 Apache,29 KINLICHEE,Corporation Commissioner,,,Total Votes,1083
 Apache,29 KINLICHEE,Corporation Commissioner,,,Over Votes,0
 Apache,29 KINLICHEE,Corporation Commissioner,,,Under Votes,546
-Apache,29 KINLICHEE,Board of Supervisors,,DEM,Alton Joe SHEPHERD,438
-Apache,29 KINLICHEE,Board of Supervisors,,,Write-In Totals,13
-Apache,29 KINLICHEE,Board of Supervisors,,,Total Votes,451
-Apache,29 KINLICHEE,Board of Supervisors,,,Over Votes,0
-Apache,29 KINLICHEE,Board of Supervisors,,,Under Votes,92
+Apache,29 KINLICHEE,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,438
+Apache,29 KINLICHEE,Board of Supervisors,2,,Write-In Totals,13
+Apache,29 KINLICHEE,Board of Supervisors,2,,Total Votes,451
+Apache,29 KINLICHEE,Board of Supervisors,2,,Over Votes,0
+Apache,29 KINLICHEE,Board of Supervisors,2,,Under Votes,92
 Apache,29 KINLICHEE,County Assessor,,DEM,Rodger DAHOZY,503
 Apache,29 KINLICHEE,County Assessor,,,Write-In Totals,5
 Apache,29 KINLICHEE,County Assessor,,,Total Votes,508
@@ -2774,11 +2774,11 @@ Apache,31 KLAGETOH,Corporation Commissioner,,,Write-In Totals,1
 Apache,31 KLAGETOH,Corporation Commissioner,,,Total Votes,966
 Apache,31 KLAGETOH,Corporation Commissioner,,,Over Votes,3
 Apache,31 KLAGETOH,Corporation Commissioner,,,Under Votes,414
-Apache,31 KLAGETOH,Board of Supervisors,,DEM,Alton Joe SHEPHERD,358
-Apache,31 KLAGETOH,Board of Supervisors,,,Write-In Totals,9
-Apache,31 KLAGETOH,Board of Supervisors,,,Total Votes,367
-Apache,31 KLAGETOH,Board of Supervisors,,,Over Votes,0
-Apache,31 KLAGETOH,Board of Supervisors,,,Under Votes,94
+Apache,31 KLAGETOH,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,358
+Apache,31 KLAGETOH,Board of Supervisors,2,,Write-In Totals,9
+Apache,31 KLAGETOH,Board of Supervisors,2,,Total Votes,367
+Apache,31 KLAGETOH,Board of Supervisors,2,,Over Votes,0
+Apache,31 KLAGETOH,Board of Supervisors,2,,Under Votes,94
 Apache,31 KLAGETOH,County Assessor,,DEM,Rodger DAHOZY,412
 Apache,31 KLAGETOH,County Assessor,,,Write-In Totals,8
 Apache,31 KLAGETOH,County Assessor,,,Total Votes,420
@@ -2955,11 +2955,11 @@ Apache,33 LUKACHUKAI,Corporation Commissioner,,,Write-In Totals,3
 Apache,33 LUKACHUKAI,Corporation Commissioner,,,Total Votes,1965
 Apache,33 LUKACHUKAI,Corporation Commissioner,,,Over Votes,0
 Apache,33 LUKACHUKAI,Corporation Commissioner,,,Under Votes,732
-Apache,33 LUKACHUKAI,Board of Supervisors,,DEM,Joe SHIRLEY JR.,696
-Apache,33 LUKACHUKAI,Board of Supervisors,,,Write-In Totals,25
-Apache,33 LUKACHUKAI,Board of Supervisors,,,Total Votes,721
-Apache,33 LUKACHUKAI,Board of Supervisors,,,Over Votes,1
-Apache,33 LUKACHUKAI,Board of Supervisors,,,Under Votes,177
+Apache,33 LUKACHUKAI,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,696
+Apache,33 LUKACHUKAI,Board of Supervisors,1,,Write-In Totals,25
+Apache,33 LUKACHUKAI,Board of Supervisors,1,,Total Votes,721
+Apache,33 LUKACHUKAI,Board of Supervisors,1,,Over Votes,1
+Apache,33 LUKACHUKAI,Board of Supervisors,1,,Under Votes,177
 Apache,33 LUKACHUKAI,County Assessor,,DEM,Rodger DAHOZY,817
 Apache,33 LUKACHUKAI,County Assessor,,,Write-In Totals,5
 Apache,33 LUKACHUKAI,County Assessor,,,Total Votes,822
@@ -3133,11 +3133,11 @@ Apache,35 LUPTON,Corporation Commissioner,,,Write-In Totals,1
 Apache,35 LUPTON,Corporation Commissioner,,,Total Votes,605
 Apache,35 LUPTON,Corporation Commissioner,,,Over Votes,0
 Apache,35 LUPTON,Corporation Commissioner,,,Under Votes,436
-Apache,35 LUPTON,Board of Supervisors,,REP,Nelson DAVIS,159
-Apache,35 LUPTON,Board of Supervisors,,,Write-In Totals,15
-Apache,35 LUPTON,Board of Supervisors,,,Total Votes,174
-Apache,35 LUPTON,Board of Supervisors,,,Over Votes,0
-Apache,35 LUPTON,Board of Supervisors,,,Under Votes,173
+Apache,35 LUPTON,Board of Supervisors,3,REP,Nelson DAVIS,159
+Apache,35 LUPTON,Board of Supervisors,3,,Write-In Totals,15
+Apache,35 LUPTON,Board of Supervisors,3,,Total Votes,174
+Apache,35 LUPTON,Board of Supervisors,3,,Over Votes,0
+Apache,35 LUPTON,Board of Supervisors,3,,Under Votes,173
 Apache,35 LUPTON,County Assessor,,DEM,Rodger DAHOZY,273
 Apache,35 LUPTON,County Assessor,,,Write-In Totals,7
 Apache,35 LUPTON,County Assessor,,,Total Votes,280
@@ -3306,11 +3306,11 @@ Apache,37 MCNARY,Corporation Commissioner,,,Write-In Totals,0
 Apache,37 MCNARY,Corporation Commissioner,,,Total Votes,248
 Apache,37 MCNARY,Corporation Commissioner,,,Over Votes,0
 Apache,37 MCNARY,Corporation Commissioner,,,Under Votes,91
-Apache,37 MCNARY,Board of Supervisors,,REP,Nelson DAVIS,59
-Apache,37 MCNARY,Board of Supervisors,,,Write-In Totals,7
-Apache,37 MCNARY,Board of Supervisors,,,Total Votes,66
-Apache,37 MCNARY,Board of Supervisors,,,Over Votes,0
-Apache,37 MCNARY,Board of Supervisors,,,Under Votes,47
+Apache,37 MCNARY,Board of Supervisors,3,REP,Nelson DAVIS,59
+Apache,37 MCNARY,Board of Supervisors,3,,Write-In Totals,7
+Apache,37 MCNARY,Board of Supervisors,3,,Total Votes,66
+Apache,37 MCNARY,Board of Supervisors,3,,Over Votes,0
+Apache,37 MCNARY,Board of Supervisors,3,,Under Votes,47
 Apache,37 MCNARY,County Assessor,,DEM,Rodger DAHOZY,98
 Apache,37 MCNARY,County Assessor,,,Write-In Totals,1
 Apache,37 MCNARY,County Assessor,,,Total Votes,99
@@ -3472,11 +3472,11 @@ Apache,39 MANY FARMS,Corporation Commissioner,,,Write-In Totals,3
 Apache,39 MANY FARMS,Corporation Commissioner,,,Total Votes,2152
 Apache,39 MANY FARMS,Corporation Commissioner,,,Over Votes,0
 Apache,39 MANY FARMS,Corporation Commissioner,,,Under Votes,1118
-Apache,39 MANY FARMS,Board of Supervisors,,DEM,Joe SHIRLEY JR.,888
-Apache,39 MANY FARMS,Board of Supervisors,,,Write-In Totals,23
-Apache,39 MANY FARMS,Board of Supervisors,,,Total Votes,911
-Apache,39 MANY FARMS,Board of Supervisors,,,Over Votes,0
-Apache,39 MANY FARMS,Board of Supervisors,,,Under Votes,179
+Apache,39 MANY FARMS,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,888
+Apache,39 MANY FARMS,Board of Supervisors,1,,Write-In Totals,23
+Apache,39 MANY FARMS,Board of Supervisors,1,,Total Votes,911
+Apache,39 MANY FARMS,Board of Supervisors,1,,Over Votes,0
+Apache,39 MANY FARMS,Board of Supervisors,1,,Under Votes,179
 Apache,39 MANY FARMS,County Assessor,,DEM,Rodger DAHOZY,992
 Apache,39 MANY FARMS,County Assessor,,,Write-In Totals,10
 Apache,39 MANY FARMS,County Assessor,,,Total Votes,1002
@@ -3650,11 +3650,11 @@ Apache,41 MEXICAN WATER,Corporation Commissioner,,,Write-In Totals,1
 Apache,41 MEXICAN WATER,Corporation Commissioner,,,Total Votes,350
 Apache,41 MEXICAN WATER,Corporation Commissioner,,,Over Votes,0
 Apache,41 MEXICAN WATER,Corporation Commissioner,,,Under Votes,121
-Apache,41 MEXICAN WATER,Board of Supervisors,,DEM,Joe SHIRLEY JR.,134
-Apache,41 MEXICAN WATER,Board of Supervisors,,,Write-In Totals,9
-Apache,41 MEXICAN WATER,Board of Supervisors,,,Total Votes,143
-Apache,41 MEXICAN WATER,Board of Supervisors,,,Over Votes,0
-Apache,41 MEXICAN WATER,Board of Supervisors,,,Under Votes,14
+Apache,41 MEXICAN WATER,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,134
+Apache,41 MEXICAN WATER,Board of Supervisors,1,,Write-In Totals,9
+Apache,41 MEXICAN WATER,Board of Supervisors,1,,Total Votes,143
+Apache,41 MEXICAN WATER,Board of Supervisors,1,,Over Votes,0
+Apache,41 MEXICAN WATER,Board of Supervisors,1,,Under Votes,14
 Apache,41 MEXICAN WATER,County Assessor,,DEM,Rodger DAHOZY,138
 Apache,41 MEXICAN WATER,County Assessor,,,Write-In Totals,4
 Apache,41 MEXICAN WATER,County Assessor,,,Total Votes,142
@@ -3828,11 +3828,11 @@ Apache,43 NAZLINI,Corporation Commissioner,,,Write-In Totals,3
 Apache,43 NAZLINI,Corporation Commissioner,,,Total Votes,1174
 Apache,43 NAZLINI,Corporation Commissioner,,,Over Votes,0
 Apache,43 NAZLINI,Corporation Commissioner,,,Under Votes,572
-Apache,43 NAZLINI,Board of Supervisors,,DEM,Alton Joe SHEPHERD,480
-Apache,43 NAZLINI,Board of Supervisors,,,Write-In Totals,16
-Apache,43 NAZLINI,Board of Supervisors,,,Total Votes,496
-Apache,43 NAZLINI,Board of Supervisors,,,Over Votes,0
-Apache,43 NAZLINI,Board of Supervisors,,,Under Votes,86
+Apache,43 NAZLINI,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,480
+Apache,43 NAZLINI,Board of Supervisors,2,,Write-In Totals,16
+Apache,43 NAZLINI,Board of Supervisors,2,,Total Votes,496
+Apache,43 NAZLINI,Board of Supervisors,2,,Over Votes,0
+Apache,43 NAZLINI,Board of Supervisors,2,,Under Votes,86
 Apache,43 NAZLINI,County Assessor,,DEM,Rodger DAHOZY,513
 Apache,43 NAZLINI,County Assessor,,,Write-In Totals,13
 Apache,43 NAZLINI,County Assessor,,,Total Votes,526
@@ -4002,11 +4002,11 @@ Apache,45 NUTRIOSO,Corporation Commissioner,,,Write-In Totals,0
 Apache,45 NUTRIOSO,Corporation Commissioner,,,Total Votes,863
 Apache,45 NUTRIOSO,Corporation Commissioner,,,Over Votes,3
 Apache,45 NUTRIOSO,Corporation Commissioner,,,Under Votes,160
-Apache,45 NUTRIOSO,Board of Supervisors,,REP,Nelson DAVIS,250
-Apache,45 NUTRIOSO,Board of Supervisors,,,Write-In Totals,6
-Apache,45 NUTRIOSO,Board of Supervisors,,,Total Votes,256
-Apache,45 NUTRIOSO,Board of Supervisors,,,Over Votes,0
-Apache,45 NUTRIOSO,Board of Supervisors,,,Under Votes,86
+Apache,45 NUTRIOSO,Board of Supervisors,3,REP,Nelson DAVIS,250
+Apache,45 NUTRIOSO,Board of Supervisors,3,,Write-In Totals,6
+Apache,45 NUTRIOSO,Board of Supervisors,3,,Total Votes,256
+Apache,45 NUTRIOSO,Board of Supervisors,3,,Over Votes,0
+Apache,45 NUTRIOSO,Board of Supervisors,3,,Under Votes,86
 Apache,45 NUTRIOSO,County Assessor,,DEM,Rodger DAHOZY,103
 Apache,45 NUTRIOSO,County Assessor,,,Write-In Totals,16
 Apache,45 NUTRIOSO,County Assessor,,,Total Votes,119
@@ -4174,11 +4174,11 @@ Apache,46 OAK SPRINGS,Corporation Commissioner,,,Write-In Totals,1
 Apache,46 OAK SPRINGS,Corporation Commissioner,,,Total Votes,602
 Apache,46 OAK SPRINGS,Corporation Commissioner,,,Over Votes,0
 Apache,46 OAK SPRINGS,Corporation Commissioner,,,Under Votes,325
-Apache,46 OAK SPRINGS,Board of Supervisors,,REP,Nelson DAVIS,170
-Apache,46 OAK SPRINGS,Board of Supervisors,,,Write-In Totals,12
-Apache,46 OAK SPRINGS,Board of Supervisors,,,Total Votes,182
-Apache,46 OAK SPRINGS,Board of Supervisors,,,Over Votes,0
-Apache,46 OAK SPRINGS,Board of Supervisors,,,Under Votes,127
+Apache,46 OAK SPRINGS,Board of Supervisors,3,REP,Nelson DAVIS,170
+Apache,46 OAK SPRINGS,Board of Supervisors,3,,Write-In Totals,12
+Apache,46 OAK SPRINGS,Board of Supervisors,3,,Total Votes,182
+Apache,46 OAK SPRINGS,Board of Supervisors,3,,Over Votes,0
+Apache,46 OAK SPRINGS,Board of Supervisors,3,,Under Votes,127
 Apache,46 OAK SPRINGS,County Assessor,,DEM,Rodger DAHOZY,278
 Apache,46 OAK SPRINGS,County Assessor,,,Write-In Totals,1
 Apache,46 OAK SPRINGS,County Assessor,,,Total Votes,279
@@ -4355,11 +4355,11 @@ Apache,48 PUERCO,Corporation Commissioner,,,Write-In Totals,4
 Apache,48 PUERCO,Corporation Commissioner,,,Total Votes,2125
 Apache,48 PUERCO,Corporation Commissioner,,,Over Votes,6
 Apache,48 PUERCO,Corporation Commissioner,,,Under Votes,725
-Apache,48 PUERCO,Board of Supervisors,,REP,Nelson DAVIS,607
-Apache,48 PUERCO,Board of Supervisors,,,Write-In Totals,28
-Apache,48 PUERCO,Board of Supervisors,,,Total Votes,635
-Apache,48 PUERCO,Board of Supervisors,,,Over Votes,3
-Apache,48 PUERCO,Board of Supervisors,,,Under Votes,314
+Apache,48 PUERCO,Board of Supervisors,3,REP,Nelson DAVIS,607
+Apache,48 PUERCO,Board of Supervisors,3,,Write-In Totals,28
+Apache,48 PUERCO,Board of Supervisors,3,,Total Votes,635
+Apache,48 PUERCO,Board of Supervisors,3,,Over Votes,3
+Apache,48 PUERCO,Board of Supervisors,3,,Under Votes,314
 Apache,48 PUERCO,County Assessor,,DEM,Rodger DAHOZY,746
 Apache,48 PUERCO,County Assessor,,,Write-In Totals,30
 Apache,48 PUERCO,County Assessor,,,Total Votes,776
@@ -4528,11 +4528,11 @@ Apache,51 RED MESA,Corporation Commissioner,,,Write-In Totals,0
 Apache,51 RED MESA,Corporation Commissioner,,,Total Votes,321
 Apache,51 RED MESA,Corporation Commissioner,,,Over Votes,0
 Apache,51 RED MESA,Corporation Commissioner,,,Under Votes,138
-Apache,51 RED MESA,Board of Supervisors,,DEM,Joe SHIRLEY JR.,123
-Apache,51 RED MESA,Board of Supervisors,,,Write-In Totals,3
-Apache,51 RED MESA,Board of Supervisors,,,Total Votes,126
-Apache,51 RED MESA,Board of Supervisors,,,Over Votes,0
-Apache,51 RED MESA,Board of Supervisors,,,Under Votes,27
+Apache,51 RED MESA,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,123
+Apache,51 RED MESA,Board of Supervisors,1,,Write-In Totals,3
+Apache,51 RED MESA,Board of Supervisors,1,,Total Votes,126
+Apache,51 RED MESA,Board of Supervisors,1,,Over Votes,0
+Apache,51 RED MESA,Board of Supervisors,1,,Under Votes,27
 Apache,51 RED MESA,County Assessor,,DEM,Rodger DAHOZY,134
 Apache,51 RED MESA,County Assessor,,,Write-In Totals,1
 Apache,51 RED MESA,County Assessor,,,Total Votes,135
@@ -4706,11 +4706,11 @@ Apache,52 RED VALLEY,Corporation Commissioner,,,Write-In Totals,0
 Apache,52 RED VALLEY,Corporation Commissioner,,,Total Votes,804
 Apache,52 RED VALLEY,Corporation Commissioner,,,Over Votes,0
 Apache,52 RED VALLEY,Corporation Commissioner,,,Under Votes,336
-Apache,52 RED VALLEY,Board of Supervisors,,DEM,Joe SHIRLEY JR.,263
-Apache,52 RED VALLEY,Board of Supervisors,,,Write-In Totals,10
-Apache,52 RED VALLEY,Board of Supervisors,,,Total Votes,273
-Apache,52 RED VALLEY,Board of Supervisors,,,Over Votes,0
-Apache,52 RED VALLEY,Board of Supervisors,,,Under Votes,107
+Apache,52 RED VALLEY,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,263
+Apache,52 RED VALLEY,Board of Supervisors,1,,Write-In Totals,10
+Apache,52 RED VALLEY,Board of Supervisors,1,,Total Votes,273
+Apache,52 RED VALLEY,Board of Supervisors,1,,Over Votes,0
+Apache,52 RED VALLEY,Board of Supervisors,1,,Under Votes,107
 Apache,52 RED VALLEY,County Assessor,,DEM,Rodger DAHOZY,303
 Apache,52 RED VALLEY,County Assessor,,,Write-In Totals,8
 Apache,52 RED VALLEY,County Assessor,,,Total Votes,311
@@ -4884,11 +4884,11 @@ Apache,54 ROCK POINT,Corporation Commissioner,,,Write-In Totals,3
 Apache,54 ROCK POINT,Corporation Commissioner,,,Total Votes,1721
 Apache,54 ROCK POINT,Corporation Commissioner,,,Over Votes,0
 Apache,54 ROCK POINT,Corporation Commissioner,,,Under Votes,559
-Apache,54 ROCK POINT,Board of Supervisors,,DEM,Joe SHIRLEY JR.,603
-Apache,54 ROCK POINT,Board of Supervisors,,,Write-In Totals,8
-Apache,54 ROCK POINT,Board of Supervisors,,,Total Votes,611
-Apache,54 ROCK POINT,Board of Supervisors,,,Over Votes,0
-Apache,54 ROCK POINT,Board of Supervisors,,,Under Votes,149
+Apache,54 ROCK POINT,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,603
+Apache,54 ROCK POINT,Board of Supervisors,1,,Write-In Totals,8
+Apache,54 ROCK POINT,Board of Supervisors,1,,Total Votes,611
+Apache,54 ROCK POINT,Board of Supervisors,1,,Over Votes,0
+Apache,54 ROCK POINT,Board of Supervisors,1,,Under Votes,149
 Apache,54 ROCK POINT,County Assessor,,DEM,Rodger DAHOZY,702
 Apache,54 ROCK POINT,County Assessor,,,Write-In Totals,6
 Apache,54 ROCK POINT,County Assessor,,,Total Votes,708
@@ -5062,11 +5062,11 @@ Apache,56 ROUGH ROCK,Corporation Commissioner,,,Write-In Totals,0
 Apache,56 ROUGH ROCK,Corporation Commissioner,,,Total Votes,1098
 Apache,56 ROUGH ROCK,Corporation Commissioner,,,Over Votes,0
 Apache,56 ROUGH ROCK,Corporation Commissioner,,,Under Votes,600
-Apache,56 ROUGH ROCK,Board of Supervisors,,DEM,Joe SHIRLEY JR.,462
-Apache,56 ROUGH ROCK,Board of Supervisors,,,Write-In Totals,9
-Apache,56 ROUGH ROCK,Board of Supervisors,,,Total Votes,471
-Apache,56 ROUGH ROCK,Board of Supervisors,,,Over Votes,1
-Apache,56 ROUGH ROCK,Board of Supervisors,,,Under Votes,94
+Apache,56 ROUGH ROCK,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,462
+Apache,56 ROUGH ROCK,Board of Supervisors,1,,Write-In Totals,9
+Apache,56 ROUGH ROCK,Board of Supervisors,1,,Total Votes,471
+Apache,56 ROUGH ROCK,Board of Supervisors,1,,Over Votes,1
+Apache,56 ROUGH ROCK,Board of Supervisors,1,,Under Votes,94
 Apache,56 ROUGH ROCK,County Assessor,,DEM,Rodger DAHOZY,505
 Apache,56 ROUGH ROCK,County Assessor,,,Write-In Totals,3
 Apache,56 ROUGH ROCK,County Assessor,,,Total Votes,508
@@ -5240,11 +5240,11 @@ Apache,58 ROUND ROCK,Corporation Commissioner,,,Write-In Totals,0
 Apache,58 ROUND ROCK,Corporation Commissioner,,,Total Votes,998
 Apache,58 ROUND ROCK,Corporation Commissioner,,,Over Votes,6
 Apache,58 ROUND ROCK,Corporation Commissioner,,,Under Votes,601
-Apache,58 ROUND ROCK,Board of Supervisors,,DEM,Joe SHIRLEY JR.,422
-Apache,58 ROUND ROCK,Board of Supervisors,,,Write-In Totals,6
-Apache,58 ROUND ROCK,Board of Supervisors,,,Total Votes,428
-Apache,58 ROUND ROCK,Board of Supervisors,,,Over Votes,0
-Apache,58 ROUND ROCK,Board of Supervisors,,,Under Votes,107
+Apache,58 ROUND ROCK,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,422
+Apache,58 ROUND ROCK,Board of Supervisors,1,,Write-In Totals,6
+Apache,58 ROUND ROCK,Board of Supervisors,1,,Total Votes,428
+Apache,58 ROUND ROCK,Board of Supervisors,1,,Over Votes,0
+Apache,58 ROUND ROCK,Board of Supervisors,1,,Under Votes,107
 Apache,58 ROUND ROCK,County Assessor,,DEM,Rodger DAHOZY,494
 Apache,58 ROUND ROCK,County Assessor,,,Write-In Totals,7
 Apache,58 ROUND ROCK,County Assessor,,,Total Votes,501
@@ -5418,11 +5418,11 @@ Apache,59 ROUND VALLEY,Corporation Commissioner,,,Write-In Totals,1
 Apache,59 ROUND VALLEY,Corporation Commissioner,,,Total Votes,1925
 Apache,59 ROUND VALLEY,Corporation Commissioner,,,Over Votes,0
 Apache,59 ROUND VALLEY,Corporation Commissioner,,,Under Votes,430
-Apache,59 ROUND VALLEY,Board of Supervisors,,REP,Nelson DAVIS,591
-Apache,59 ROUND VALLEY,Board of Supervisors,,,Write-In Totals,18
-Apache,59 ROUND VALLEY,Board of Supervisors,,,Total Votes,609
-Apache,59 ROUND VALLEY,Board of Supervisors,,,Over Votes,0
-Apache,59 ROUND VALLEY,Board of Supervisors,,,Under Votes,176
+Apache,59 ROUND VALLEY,Board of Supervisors,3,REP,Nelson DAVIS,591
+Apache,59 ROUND VALLEY,Board of Supervisors,3,,Write-In Totals,18
+Apache,59 ROUND VALLEY,Board of Supervisors,3,,Total Votes,609
+Apache,59 ROUND VALLEY,Board of Supervisors,3,,Over Votes,0
+Apache,59 ROUND VALLEY,Board of Supervisors,3,,Under Votes,176
 Apache,59 ROUND VALLEY,County Assessor,,DEM,Rodger DAHOZY,269
 Apache,59 ROUND VALLEY,County Assessor,,,Write-In Totals,45
 Apache,59 ROUND VALLEY,County Assessor,,,Total Votes,314
@@ -5584,11 +5584,11 @@ Apache,61 ST. JOHNS,Corporation Commissioner,,,Write-In Totals,3
 Apache,61 ST. JOHNS,Corporation Commissioner,,,Total Votes,2447
 Apache,61 ST. JOHNS,Corporation Commissioner,,,Over Votes,0
 Apache,61 ST. JOHNS,Corporation Commissioner,,,Under Votes,577
-Apache,61 ST. JOHNS,Board of Supervisors,,REP,Nelson DAVIS,791
-Apache,61 ST. JOHNS,Board of Supervisors,,,Write-In Totals,23
-Apache,61 ST. JOHNS,Board of Supervisors,,,Total Votes,814
-Apache,61 ST. JOHNS,Board of Supervisors,,,Over Votes,1
-Apache,61 ST. JOHNS,Board of Supervisors,,,Under Votes,193
+Apache,61 ST. JOHNS,Board of Supervisors,3,REP,Nelson DAVIS,791
+Apache,61 ST. JOHNS,Board of Supervisors,3,,Write-In Totals,23
+Apache,61 ST. JOHNS,Board of Supervisors,3,,Total Votes,814
+Apache,61 ST. JOHNS,Board of Supervisors,3,,Over Votes,1
+Apache,61 ST. JOHNS,Board of Supervisors,3,,Under Votes,193
 Apache,61 ST. JOHNS,County Assessor,,DEM,Rodger DAHOZY,398
 Apache,61 ST. JOHNS,County Assessor,,,Write-In Totals,74
 Apache,61 ST. JOHNS,County Assessor,,,Total Votes,472
@@ -5750,11 +5750,11 @@ Apache,65 ST. MICHAELS,Corporation Commissioner,,,Write-In Totals,4
 Apache,65 ST. MICHAELS,Corporation Commissioner,,,Total Votes,3068
 Apache,65 ST. MICHAELS,Corporation Commissioner,,,Over Votes,0
 Apache,65 ST. MICHAELS,Corporation Commissioner,,,Under Votes,1360
-Apache,65 ST. MICHAELS,Board of Supervisors,,DEM,Alton Joe SHEPHERD,1164
-Apache,65 ST. MICHAELS,Board of Supervisors,,,Write-In Totals,38
-Apache,65 ST. MICHAELS,Board of Supervisors,,,Total Votes,1202
-Apache,65 ST. MICHAELS,Board of Supervisors,,,Over Votes,1
-Apache,65 ST. MICHAELS,Board of Supervisors,,,Under Votes,273
+Apache,65 ST. MICHAELS,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,1164
+Apache,65 ST. MICHAELS,Board of Supervisors,2,,Write-In Totals,38
+Apache,65 ST. MICHAELS,Board of Supervisors,2,,Total Votes,1202
+Apache,65 ST. MICHAELS,Board of Supervisors,2,,Over Votes,1
+Apache,65 ST. MICHAELS,Board of Supervisors,2,,Under Votes,273
 Apache,65 ST. MICHAELS,County Assessor,,DEM,Rodger DAHOZY,1305
 Apache,65 ST. MICHAELS,County Assessor,,,Write-In Totals,31
 Apache,65 ST. MICHAELS,County Assessor,,,Total Votes,1336
@@ -5924,11 +5924,11 @@ Apache,67 SAWMILL,Corporation Commissioner,,,Write-In Totals,0
 Apache,67 SAWMILL,Corporation Commissioner,,,Total Votes,1021
 Apache,67 SAWMILL,Corporation Commissioner,,,Over Votes,3
 Apache,67 SAWMILL,Corporation Commissioner,,,Under Votes,503
-Apache,67 SAWMILL,Board of Supervisors,,DEM,Alton Joe SHEPHERD,420
-Apache,67 SAWMILL,Board of Supervisors,,,Write-In Totals,6
-Apache,67 SAWMILL,Board of Supervisors,,,Total Votes,426
-Apache,67 SAWMILL,Board of Supervisors,,,Over Votes,0
-Apache,67 SAWMILL,Board of Supervisors,,,Under Votes,83
+Apache,67 SAWMILL,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,420
+Apache,67 SAWMILL,Board of Supervisors,2,,Write-In Totals,6
+Apache,67 SAWMILL,Board of Supervisors,2,,Total Votes,426
+Apache,67 SAWMILL,Board of Supervisors,2,,Over Votes,0
+Apache,67 SAWMILL,Board of Supervisors,2,,Under Votes,83
 Apache,67 SAWMILL,County Assessor,,DEM,Rodger DAHOZY,464
 Apache,67 SAWMILL,County Assessor,,,Write-In Totals,3
 Apache,67 SAWMILL,County Assessor,,,Total Votes,467
@@ -6090,11 +6090,11 @@ Apache,70 SPRINGERVILLE,Corporation Commissioner,,,Write-In Totals,1
 Apache,70 SPRINGERVILLE,Corporation Commissioner,,,Total Votes,1927
 Apache,70 SPRINGERVILLE,Corporation Commissioner,,,Over Votes,0
 Apache,70 SPRINGERVILLE,Corporation Commissioner,,,Under Votes,461
-Apache,70 SPRINGERVILLE,Board of Supervisors,,REP,Nelson DAVIS,582
-Apache,70 SPRINGERVILLE,Board of Supervisors,,,Write-In Totals,21
-Apache,70 SPRINGERVILLE,Board of Supervisors,,,Total Votes,603
-Apache,70 SPRINGERVILLE,Board of Supervisors,,,Over Votes,0
-Apache,70 SPRINGERVILLE,Board of Supervisors,,,Under Votes,193
+Apache,70 SPRINGERVILLE,Board of Supervisors,3,REP,Nelson DAVIS,582
+Apache,70 SPRINGERVILLE,Board of Supervisors,3,,Write-In Totals,21
+Apache,70 SPRINGERVILLE,Board of Supervisors,3,,Total Votes,603
+Apache,70 SPRINGERVILLE,Board of Supervisors,3,,Over Votes,0
+Apache,70 SPRINGERVILLE,Board of Supervisors,3,,Under Votes,193
 Apache,70 SPRINGERVILLE,County Assessor,,DEM,Rodger DAHOZY,329
 Apache,70 SPRINGERVILLE,County Assessor,,,Write-In Totals,52
 Apache,70 SPRINGERVILLE,County Assessor,,,Total Votes,381
@@ -6256,11 +6256,11 @@ Apache,74 STEAMBOAT,Corporation Commissioner,,,Write-In Totals,0
 Apache,74 STEAMBOAT,Corporation Commissioner,,,Total Votes,1720
 Apache,74 STEAMBOAT,Corporation Commissioner,,,Over Votes,0
 Apache,74 STEAMBOAT,Corporation Commissioner,,,Under Votes,803
-Apache,74 STEAMBOAT,Board of Supervisors,,DEM,Alton Joe SHEPHERD,689
-Apache,74 STEAMBOAT,Board of Supervisors,,,Write-In Totals,9
-Apache,74 STEAMBOAT,Board of Supervisors,,,Total Votes,698
-Apache,74 STEAMBOAT,Board of Supervisors,,,Over Votes,0
-Apache,74 STEAMBOAT,Board of Supervisors,,,Under Votes,143
+Apache,74 STEAMBOAT,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,689
+Apache,74 STEAMBOAT,Board of Supervisors,2,,Write-In Totals,9
+Apache,74 STEAMBOAT,Board of Supervisors,2,,Total Votes,698
+Apache,74 STEAMBOAT,Board of Supervisors,2,,Over Votes,0
+Apache,74 STEAMBOAT,Board of Supervisors,2,,Under Votes,143
 Apache,74 STEAMBOAT,County Assessor,,DEM,Rodger DAHOZY,779
 Apache,74 STEAMBOAT,County Assessor,,,Write-In Totals,7
 Apache,74 STEAMBOAT,County Assessor,,,Total Votes,786
@@ -6430,11 +6430,11 @@ Apache,76 SWEETWATER,Corporation Commissioner,,,Write-In Totals,1
 Apache,76 SWEETWATER,Corporation Commissioner,,,Total Votes,620
 Apache,76 SWEETWATER,Corporation Commissioner,,,Over Votes,3
 Apache,76 SWEETWATER,Corporation Commissioner,,,Under Votes,367
-Apache,76 SWEETWATER,Board of Supervisors,,DEM,Joe SHIRLEY JR.,228
-Apache,76 SWEETWATER,Board of Supervisors,,,Write-In Totals,11
-Apache,76 SWEETWATER,Board of Supervisors,,,Total Votes,239
-Apache,76 SWEETWATER,Board of Supervisors,,,Over Votes,0
-Apache,76 SWEETWATER,Board of Supervisors,,,Under Votes,91
+Apache,76 SWEETWATER,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,228
+Apache,76 SWEETWATER,Board of Supervisors,1,,Write-In Totals,11
+Apache,76 SWEETWATER,Board of Supervisors,1,,Total Votes,239
+Apache,76 SWEETWATER,Board of Supervisors,1,,Over Votes,0
+Apache,76 SWEETWATER,Board of Supervisors,1,,Under Votes,91
 Apache,76 SWEETWATER,County Assessor,,DEM,Rodger DAHOZY,278
 Apache,76 SWEETWATER,County Assessor,,,Write-In Totals,3
 Apache,76 SWEETWATER,County Assessor,,,Total Votes,281
@@ -6608,11 +6608,11 @@ Apache,78 TACHEE,Corporation Commissioner,,,Write-In Totals,0
 Apache,78 TACHEE,Corporation Commissioner,,,Total Votes,469
 Apache,78 TACHEE,Corporation Commissioner,,,Over Votes,3
 Apache,78 TACHEE,Corporation Commissioner,,,Under Votes,425
-Apache,78 TACHEE,Board of Supervisors,,DEM,Joe SHIRLEY JR.,223
-Apache,78 TACHEE,Board of Supervisors,,,Write-In Totals,6
-Apache,78 TACHEE,Board of Supervisors,,,Total Votes,229
-Apache,78 TACHEE,Board of Supervisors,,,Over Votes,1
-Apache,78 TACHEE,Board of Supervisors,,,Under Votes,69
+Apache,78 TACHEE,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,223
+Apache,78 TACHEE,Board of Supervisors,1,,Write-In Totals,6
+Apache,78 TACHEE,Board of Supervisors,1,,Total Votes,229
+Apache,78 TACHEE,Board of Supervisors,1,,Over Votes,1
+Apache,78 TACHEE,Board of Supervisors,1,,Under Votes,69
 Apache,78 TACHEE,County Assessor,,DEM,Rodger DAHOZY,266
 Apache,78 TACHEE,County Assessor,,,Write-In Totals,7
 Apache,78 TACHEE,County Assessor,,,Total Votes,273
@@ -6774,11 +6774,11 @@ Apache,80 TEEC NOS POS,Corporation Commissioner,,,Write-In Totals,0
 Apache,80 TEEC NOS POS,Corporation Commissioner,,,Total Votes,807
 Apache,80 TEEC NOS POS,Corporation Commissioner,,,Over Votes,3
 Apache,80 TEEC NOS POS,Corporation Commissioner,,,Under Votes,426
-Apache,80 TEEC NOS POS,Board of Supervisors,,DEM,Joe SHIRLEY JR.,306
-Apache,80 TEEC NOS POS,Board of Supervisors,,,Write-In Totals,15
-Apache,80 TEEC NOS POS,Board of Supervisors,,,Total Votes,321
-Apache,80 TEEC NOS POS,Board of Supervisors,,,Over Votes,0
-Apache,80 TEEC NOS POS,Board of Supervisors,,,Under Votes,91
+Apache,80 TEEC NOS POS,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,306
+Apache,80 TEEC NOS POS,Board of Supervisors,1,,Write-In Totals,15
+Apache,80 TEEC NOS POS,Board of Supervisors,1,,Total Votes,321
+Apache,80 TEEC NOS POS,Board of Supervisors,1,,Over Votes,0
+Apache,80 TEEC NOS POS,Board of Supervisors,1,,Under Votes,91
 Apache,80 TEEC NOS POS,County Assessor,,DEM,Rodger DAHOZY,352
 Apache,80 TEEC NOS POS,County Assessor,,,Write-In Totals,0
 Apache,80 TEEC NOS POS,County Assessor,,,Total Votes,352
@@ -6952,11 +6952,11 @@ Apache,82 VERNON,Corporation Commissioner,,,Write-In Totals,3
 Apache,82 VERNON,Corporation Commissioner,,,Total Votes,3906
 Apache,82 VERNON,Corporation Commissioner,,,Over Votes,6
 Apache,82 VERNON,Corporation Commissioner,,,Under Votes,876
-Apache,82 VERNON,Board of Supervisors,,REP,Nelson DAVIS,1228
-Apache,82 VERNON,Board of Supervisors,,,Write-In Totals,24
-Apache,82 VERNON,Board of Supervisors,,,Total Votes,1252
-Apache,82 VERNON,Board of Supervisors,,,Over Votes,0
-Apache,82 VERNON,Board of Supervisors,,,Under Votes,344
+Apache,82 VERNON,Board of Supervisors,3,REP,Nelson DAVIS,1228
+Apache,82 VERNON,Board of Supervisors,3,,Write-In Totals,24
+Apache,82 VERNON,Board of Supervisors,3,,Total Votes,1252
+Apache,82 VERNON,Board of Supervisors,3,,Over Votes,0
+Apache,82 VERNON,Board of Supervisors,3,,Under Votes,344
 Apache,82 VERNON,County Assessor,,DEM,Rodger DAHOZY,475
 Apache,82 VERNON,County Assessor,,,Write-In Totals,119
 Apache,82 VERNON,County Assessor,,,Total Votes,594
@@ -7118,11 +7118,11 @@ Apache,84 WHEATFIELDS,Corporation Commissioner,,,Write-In Totals,2
 Apache,84 WHEATFIELDS,Corporation Commissioner,,,Total Votes,1807
 Apache,84 WHEATFIELDS,Corporation Commissioner,,,Over Votes,3
 Apache,84 WHEATFIELDS,Corporation Commissioner,,,Under Votes,1028
-Apache,84 WHEATFIELDS,Board of Supervisors,,DEM,Joe SHIRLEY JR.,764
-Apache,84 WHEATFIELDS,Board of Supervisors,,,Write-In Totals,22
-Apache,84 WHEATFIELDS,Board of Supervisors,,,Total Votes,786
-Apache,84 WHEATFIELDS,Board of Supervisors,,,Over Votes,0
-Apache,84 WHEATFIELDS,Board of Supervisors,,,Under Votes,160
+Apache,84 WHEATFIELDS,Board of Supervisors,1,DEM,Joe SHIRLEY JR.,764
+Apache,84 WHEATFIELDS,Board of Supervisors,1,,Write-In Totals,22
+Apache,84 WHEATFIELDS,Board of Supervisors,1,,Total Votes,786
+Apache,84 WHEATFIELDS,Board of Supervisors,1,,Over Votes,0
+Apache,84 WHEATFIELDS,Board of Supervisors,1,,Under Votes,160
 Apache,84 WHEATFIELDS,County Assessor,,DEM,Rodger DAHOZY,869
 Apache,84 WHEATFIELDS,County Assessor,,,Write-In Totals,7
 Apache,84 WHEATFIELDS,County Assessor,,,Total Votes,876
@@ -7296,11 +7296,11 @@ Apache,86 WIDE RUINS,Corporation Commissioner,,,Write-In Totals,2
 Apache,86 WIDE RUINS,Corporation Commissioner,,,Total Votes,982
 Apache,86 WIDE RUINS,Corporation Commissioner,,,Over Votes,0
 Apache,86 WIDE RUINS,Corporation Commissioner,,,Under Votes,392
-Apache,86 WIDE RUINS,Board of Supervisors,,DEM,Alton Joe SHEPHERD,363
-Apache,86 WIDE RUINS,Board of Supervisors,,,Write-In Totals,9
-Apache,86 WIDE RUINS,Board of Supervisors,,,Total Votes,372
-Apache,86 WIDE RUINS,Board of Supervisors,,,Over Votes,0
-Apache,86 WIDE RUINS,Board of Supervisors,,,Under Votes,86
+Apache,86 WIDE RUINS,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,363
+Apache,86 WIDE RUINS,Board of Supervisors,2,,Write-In Totals,9
+Apache,86 WIDE RUINS,Board of Supervisors,2,,Total Votes,372
+Apache,86 WIDE RUINS,Board of Supervisors,2,,Over Votes,0
+Apache,86 WIDE RUINS,Board of Supervisors,2,,Under Votes,86
 Apache,86 WIDE RUINS,County Assessor,,DEM,Rodger DAHOZY,400
 Apache,86 WIDE RUINS,County Assessor,,,Write-In Totals,9
 Apache,86 WIDE RUINS,County Assessor,,,Total Votes,409
@@ -7477,11 +7477,11 @@ Apache,88 WINDOW ROCK,Corporation Commissioner,,,Write-In Totals,0
 Apache,88 WINDOW ROCK,Corporation Commissioner,,,Total Votes,2547
 Apache,88 WINDOW ROCK,Corporation Commissioner,,,Over Votes,3
 Apache,88 WINDOW ROCK,Corporation Commissioner,,,Under Votes,759
-Apache,88 WINDOW ROCK,Board of Supervisors,,DEM,Alton Joe SHEPHERD,907
-Apache,88 WINDOW ROCK,Board of Supervisors,,,Write-In Totals,31
-Apache,88 WINDOW ROCK,Board of Supervisors,,,Total Votes,938
-Apache,88 WINDOW ROCK,Board of Supervisors,,,Over Votes,0
-Apache,88 WINDOW ROCK,Board of Supervisors,,,Under Votes,165
+Apache,88 WINDOW ROCK,Board of Supervisors,2,DEM,Alton Joe SHEPHERD,907
+Apache,88 WINDOW ROCK,Board of Supervisors,2,,Write-In Totals,31
+Apache,88 WINDOW ROCK,Board of Supervisors,2,,Total Votes,938
+Apache,88 WINDOW ROCK,Board of Supervisors,2,,Over Votes,0
+Apache,88 WINDOW ROCK,Board of Supervisors,2,,Under Votes,165
 Apache,88 WINDOW ROCK,County Assessor,,DEM,Rodger DAHOZY,970
 Apache,88 WINDOW ROCK,County Assessor,,,Write-In Totals,25
 Apache,88 WINDOW ROCK,County Assessor,,,Total Votes,995
