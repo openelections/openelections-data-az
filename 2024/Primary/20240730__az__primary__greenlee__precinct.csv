@@ -1,0 +1,620 @@
+county,precinct,office,district,seats,party,candidate,votes
+Greenlee,001 Eagle,Registered Voters - Total ,,,,,19
+Greenlee,001 Eagle,Ballots Cast - Total,,,,,14
+Greenlee,001 Eagle,U.S. Senate,,1,REP,Kari LAKE,6
+Greenlee,001 Eagle,U.S. Senate,,1,REP,Mark LAMB,7
+Greenlee,001 Eagle,U.S. Senate,,1,REP,Elizabeth Jean REYE,0
+Greenlee,001 Eagle,U.S. Senate,,1,REP,Write-In Total,0
+Greenlee,001 Eagle,U.S. Senate,,1,REP,Total Votes Cast,13
+Greenlee,001 Eagle,U.S. House,6,1,REP,Juan CISCOMANI,10
+Greenlee,001 Eagle,U.S. House,6,1,REP,Catherine WINN,2
+Greenlee,001 Eagle,U.S. House,6,1,REP,Write-In Total,0
+Greenlee,001 Eagle,U.S. House,6,1,REP,Total Votes Cast,12
+Greenlee,001 Eagle,State Senate,19,1,REP,David GOWAN,12
+Greenlee,001 Eagle,State Senate,19,1,REP,Write-In Total,0
+Greenlee,001 Eagle,State Senate,19,1,REP,Total Votes Cast,12
+Greenlee,001 Eagle,State House,19,2,REP,Lupe DIAZ,11
+Greenlee,001 Eagle,State House,19,2,REP,Gail GRIFFIN,12
+Greenlee,001 Eagle,State House,19,2,REP,Write-In Total,0
+Greenlee,001 Eagle,State House,19,2,REP,Total Votes Cast,23
+Greenlee,001 Eagle,Corporation Commissioner,,3,REP,Rene LOPEZ,9
+Greenlee,001 Eagle,Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,8
+Greenlee,001 Eagle,Corporation Commissioner,,3,REP,Rachel WALDEN,10
+Greenlee,001 Eagle,Corporation Commissioner,,3,REP,Write-In Total,0
+Greenlee,001 Eagle,Corporation Commissioner,,3,REP,Total Votes Cast,27
+Greenlee,001 Eagle,Board of Supervisors,2,1,REP,Write-In Total,0
+Greenlee,001 Eagle,Board of Supervisors,2,1,REP,Total Votes Cast,0
+Greenlee,001 Eagle,County Attorney,,1,REP,Gary GRIFFITH,8
+Greenlee,001 Eagle,County Attorney,,1,REP,Write-In Total,0
+Greenlee,001 Eagle,County Attorney,,1,REP,Total Votes Cast,8
+Greenlee,001 Eagle,County Sheriff,,1,REP,Dale SLOAN,5
+Greenlee,001 Eagle,County Sheriff,,1,REP,Tim SUMNER,8
+Greenlee,001 Eagle,County Sheriff,,1,REP,Write-In Total,0
+Greenlee,001 Eagle,County Sheriff,,1,REP,Total Votes Cast,13
+Greenlee,001 Eagle,County Treasurer,,1,REP,Write-In Total,0
+Greenlee,001 Eagle,County Treasurer,,1,REP,Total Votes Cast,0
+Greenlee,001 Eagle,County School Superintendent,,1,REP,Write-In Total,0
+Greenlee,001 Eagle,County School Superintendent,,1,REP,Total Votes Cast,0
+Greenlee,001 Eagle,County Recorder,,1,REP,Erin MILLER,7
+Greenlee,001 Eagle,County Recorder,,1,REP,Write-In Total,0
+Greenlee,001 Eagle,County Recorder,,1,REP,Total Votes Cast,7
+Greenlee,001 Eagle,County Assessor,,1,REP,Write-In Total,1
+Greenlee,001 Eagle,County Assessor,,1,REP,Total Votes Cast,1
+Greenlee,001 Eagle,U.S. Senate,,1,DEM,Ruben GALLEGO,1
+Greenlee,001 Eagle,U.S. Senate,,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,U.S. Senate,,1,DEM,Total Votes Cast,1
+Greenlee,001 Eagle,U.S. House,6,1,DEM,Kirsten ENGEL,1
+Greenlee,001 Eagle,U.S. House,6,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,U.S. House,6,1,DEM,Total Votes Cast,1
+Greenlee,001 Eagle,State Senate,19,1,DEM,Bob KARP,1
+Greenlee,001 Eagle,State Senate,19,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,State Senate,19,1,DEM,Total Votes Cast,1
+Greenlee,001 Eagle,State House,19,2,DEM,Gregg FROSTROM JR.,1
+Greenlee,001 Eagle,State House,19,2,DEM,Write-In Total,0
+Greenlee,001 Eagle,State House,19,2,DEM,Total Votes Cast,1
+Greenlee,001 Eagle,Corporation Commissioner,,3,DEM,Ylenia AGUILAR,1
+Greenlee,001 Eagle,Corporation Commissioner,,3,DEM,Jonathon HILL,1
+Greenlee,001 Eagle,Corporation Commissioner,,3,DEM,Joshua POLACHECK,1
+Greenlee,001 Eagle,Corporation Commissioner,,3,DEM,Write-In Total,0
+Greenlee,001 Eagle,Corporation Commissioner,,3,DEM,Total Votes Cast,3
+Greenlee,001 Eagle,Board of Supervisors,2,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,Board of Supervisors,2,1,DEM,Total Votes Cast,0
+Greenlee,001 Eagle,County Attorney,,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,County Attorney,,1,DEM,Total Votes Cast,0
+Greenlee,001 Eagle,County Sheriff,,1,DEM,Daniel MEDINA,1
+Greenlee,001 Eagle,County Sheriff,,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,County Sheriff,,1,DEM,Total Votes Cast,1
+Greenlee,001 Eagle,County Treasurer,,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,County Treasurer,,1,DEM,Total Votes Cast,0
+Greenlee,001 Eagle,County School Superintendent,,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,County School Superintendent,,1,DEM,Total Votes Cast,0
+Greenlee,001 Eagle,County Recorder,,1,DEM,Sarah STACEY-CAMACHO,1
+Greenlee,001 Eagle,County Recorder,,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,County Recorder,,1,DEM,Total Votes Cast,1
+Greenlee,001 Eagle,County Assessor,,1,DEM,Write-In Total,0
+Greenlee,001 Eagle,County Assessor,,1,DEM,Total Votes Cast,0
+Greenlee,001 Eagle,U.S. Senate,,1,LBT,Write-In Total,0
+Greenlee,001 Eagle,U.S. Senate,,1,LBT,Total Votes Cast,0
+Greenlee,001 Eagle,U.S. House,6,1,LBT,Write-In Total,0
+Greenlee,001 Eagle,U.S. House,6,1,LBT,Total Votes Cast,0
+Greenlee,001 Eagle,State Senate,19,1,LBT,Write-In Total,0
+Greenlee,001 Eagle,State Senate,19,1,LBT,Total Votes Cast,0
+Greenlee,001 Eagle,State House,19,2,LBT,Write-In Total,0
+Greenlee,001 Eagle,State House,19,2,LBT,Total Votes Cast,0
+Greenlee,001 Eagle,Corporation Commissioner,,3,LBT,Write-In Total,0
+Greenlee,001 Eagle,Corporation Commissioner,,3,LBT,Total Votes Cast,0
+Greenlee,001 Eagle,U.S. Senate,,1,GRN,Arturo HERNANDEZ,0
+Greenlee,001 Eagle,U.S. Senate,,1,GRN,Michael NORTON,0
+Greenlee,001 Eagle,U.S. Senate,,1,GRN,Write-In Total,0
+Greenlee,001 Eagle,U.S. Senate,,1,GRN,Total Votes Cast,0
+Greenlee,001 Eagle,U.S. House,6,1,GRN,Write-In Total,0
+Greenlee,001 Eagle,U.S. House,6,1,GRN,Total Votes Cast,0
+Greenlee,001 Eagle,State Senate,19,1,GRN,Write-In Total,0
+Greenlee,001 Eagle,State Senate,19,1,GRN,Total Votes Cast,0
+Greenlee,001 Eagle,State House,19,2,GRN,Write-In Total,0
+Greenlee,001 Eagle,State House,19,2,GRN,Total Votes Cast,0
+Greenlee,001 Eagle,Corporation Commissioner,,3,GRN,Write-In Total,0
+Greenlee,001 Eagle,Corporation Commissioner,,3,GRN,Total Votes Cast,0
+Greenlee,001 Eagle,NOL Notice,,1,NOL,Total Votes Cast,0
+Greenlee,002 Blue,Registered Voters - Total ,,,,,42
+Greenlee,002 Blue,Ballots Cast - Total,,,,,29
+Greenlee,002 Blue,U.S. Senate,,1,REP,Kari LAKE,13
+Greenlee,002 Blue,U.S. Senate,,1,REP,Mark LAMB,8
+Greenlee,002 Blue,U.S. Senate,,1,REP,Elizabeth Jean REYE,2
+Greenlee,002 Blue,U.S. Senate,,1,REP,Write-In Total,0
+Greenlee,002 Blue,U.S. Senate,,1,REP,Total Votes Cast,23
+Greenlee,002 Blue,U.S. House,6,1,REP,Juan CISCOMANI,14
+Greenlee,002 Blue,U.S. House,6,1,REP,Catherine WINN,7
+Greenlee,002 Blue,U.S. House,6,1,REP,Write-In Total,0
+Greenlee,002 Blue,U.S. House,6,1,REP,Total Votes Cast,21
+Greenlee,002 Blue,State Senate,19,1,REP,David GOWAN,16
+Greenlee,002 Blue,State Senate,19,1,REP,Write-In Total,0
+Greenlee,002 Blue,State Senate,19,1,REP,Total Votes Cast,16
+Greenlee,002 Blue,State House,19,2,REP,Lupe DIAZ,12
+Greenlee,002 Blue,State House,19,2,REP,Gail GRIFFIN,19
+Greenlee,002 Blue,State House,19,2,REP,Write-In Total,0
+Greenlee,002 Blue,State House,19,2,REP,Total Votes Cast,31
+Greenlee,002 Blue,Corporation Commissioner,,3,REP,Rene LOPEZ,15
+Greenlee,002 Blue,Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,13
+Greenlee,002 Blue,Corporation Commissioner,,3,REP,Rachel WALDEN,15
+Greenlee,002 Blue,Corporation Commissioner,,3,REP,Write-In Total,0
+Greenlee,002 Blue,Corporation Commissioner,,3,REP,Total Votes Cast,43
+Greenlee,002 Blue,Board of Supervisors,2,1,REP,Write-In Total,0
+Greenlee,002 Blue,Board of Supervisors,2,1,REP,Total Votes Cast,0
+Greenlee,002 Blue,County Attorney,,1,REP,Gary GRIFFITH,16
+Greenlee,002 Blue,County Attorney,,1,REP,Write-In Total,0
+Greenlee,002 Blue,County Attorney,,1,REP,Total Votes Cast,16
+Greenlee,002 Blue,County Sheriff,,1,REP,Dale SLOAN,1
+Greenlee,002 Blue,County Sheriff,,1,REP,Tim SUMNER,23
+Greenlee,002 Blue,County Sheriff,,1,REP,Write-In Total,0
+Greenlee,002 Blue,County Sheriff,,1,REP,Total Votes Cast,24
+Greenlee,002 Blue,County Treasurer,,1,REP,Write-In Total,0
+Greenlee,002 Blue,County Treasurer,,1,REP,Total Votes Cast,0
+Greenlee,002 Blue,County School Superintendent,,1,REP,Write-In Total,1
+Greenlee,002 Blue,County School Superintendent,,1,REP,Total Votes Cast,1
+Greenlee,002 Blue,County Recorder,,1,REP,Erin MILLER,16
+Greenlee,002 Blue,County Recorder,,1,REP,Write-In Total,0
+Greenlee,002 Blue,County Recorder,,1,REP,Total Votes Cast,16
+Greenlee,002 Blue,County Assessor,,1,REP,Write-In Total,0
+Greenlee,002 Blue,County Assessor,,1,REP,Total Votes Cast,0
+Greenlee,002 Blue,U.S. Senate,,1,DEM,Ruben GALLEGO,3
+Greenlee,002 Blue,U.S. Senate,,1,DEM,Write-In Total,0
+Greenlee,002 Blue,U.S. Senate,,1,DEM,Total Votes Cast,3
+Greenlee,002 Blue,U.S. House,6,1,DEM,Kirsten ENGEL,3
+Greenlee,002 Blue,U.S. House,6,1,DEM,Write-In Total,0
+Greenlee,002 Blue,U.S. House,6,1,DEM,Total Votes Cast,3
+Greenlee,002 Blue,State Senate,19,1,DEM,Bob KARP,3
+Greenlee,002 Blue,State Senate,19,1,DEM,Write-In Total,0
+Greenlee,002 Blue,State Senate,19,1,DEM,Total Votes Cast,3
+Greenlee,002 Blue,State House,19,2,DEM,Gregg FROSTROM JR.,3
+Greenlee,002 Blue,State House,19,2,DEM,Write-In Total,0
+Greenlee,002 Blue,State House,19,2,DEM,Total Votes Cast,3
+Greenlee,002 Blue,Corporation Commissioner,,3,DEM,Ylenia AGUILAR,3
+Greenlee,002 Blue,Corporation Commissioner,,3,DEM,Jonathon HILL,3
+Greenlee,002 Blue,Corporation Commissioner,,3,DEM,Joshua POLACHECK,3
+Greenlee,002 Blue,Corporation Commissioner,,3,DEM,Write-In Total,0
+Greenlee,002 Blue,Corporation Commissioner,,3,DEM,Total Votes Cast,9
+Greenlee,002 Blue,Board of Supervisors,2,1,DEM,Write-In Total,0
+Greenlee,002 Blue,Board of Supervisors,2,1,DEM,Total Votes Cast,0
+Greenlee,002 Blue,County Attorney,,1,DEM,Write-In Total,0
+Greenlee,002 Blue,County Attorney,,1,DEM,Total Votes Cast,0
+Greenlee,002 Blue,County Sheriff,,1,DEM,Daniel MEDINA,5
+Greenlee,002 Blue,County Sheriff,,1,DEM,Write-In Total,0
+Greenlee,002 Blue,County Sheriff,,1,DEM,Total Votes Cast,5
+Greenlee,002 Blue,County Treasurer,,1,DEM,Write-In Total,0
+Greenlee,002 Blue,County Treasurer,,1,DEM,Total Votes Cast,0
+Greenlee,002 Blue,County School Superintendent,,1,DEM,Write-In Total,0
+Greenlee,002 Blue,County School Superintendent,,1,DEM,Total Votes Cast,0
+Greenlee,002 Blue,County Recorder,,1,DEM,Sarah STACEY-CAMACHO,4
+Greenlee,002 Blue,County Recorder,,1,DEM,Write-In Total,0
+Greenlee,002 Blue,County Recorder,,1,DEM,Total Votes Cast,4
+Greenlee,002 Blue,County Assessor,,1,DEM,Write-In Total,0
+Greenlee,002 Blue,County Assessor,,1,DEM,Total Votes Cast,0
+Greenlee,002 Blue,U.S. Senate,,1,LBT,Write-In Total,0
+Greenlee,002 Blue,U.S. Senate,,1,LBT,Total Votes Cast,0
+Greenlee,002 Blue,U.S. House,6,1,LBT,Write-In Total,0
+Greenlee,002 Blue,U.S. House,6,1,LBT,Total Votes Cast,0
+Greenlee,002 Blue,State Senate,19,1,LBT,Write-In Total,0
+Greenlee,002 Blue,State Senate,19,1,LBT,Total Votes Cast,0
+Greenlee,002 Blue,State House,19,2,LBT,Write-In Total,0
+Greenlee,002 Blue,State House,19,2,LBT,Total Votes Cast,0
+Greenlee,002 Blue,Corporation Commissioner,,3,LBT,Write-In Total,0
+Greenlee,002 Blue,Corporation Commissioner,,3,LBT,Total Votes Cast,0
+Greenlee,002 Blue,U.S. Senate,,1,GRN,Arturo HERNANDEZ,0
+Greenlee,002 Blue,U.S. Senate,,1,GRN,Michael NORTON,0
+Greenlee,002 Blue,U.S. Senate,,1,GRN,Write-In Total,0
+Greenlee,002 Blue,U.S. Senate,,1,GRN,Total Votes Cast,0
+Greenlee,002 Blue,U.S. House,6,1,GRN,Write-In Total,0
+Greenlee,002 Blue,U.S. House,6,1,GRN,Total Votes Cast,0
+Greenlee,002 Blue,State Senate,19,1,GRN,Write-In Total,0
+Greenlee,002 Blue,State Senate,19,1,GRN,Total Votes Cast,0
+Greenlee,002 Blue,State House,19,2,GRN,Write-In Total,0
+Greenlee,002 Blue,State House,19,2,GRN,Total Votes Cast,0
+Greenlee,002 Blue,Corporation Commissioner,,3,GRN,Write-In Total,0
+Greenlee,002 Blue,Corporation Commissioner,,3,GRN,Total Votes Cast,0
+Greenlee,002 Blue,NOL Notice,,1,NOL,Total Votes Cast,0
+Greenlee,003 Clifton,Registered Voters - Total ,,,,,1703
+Greenlee,003 Clifton,Ballots Cast - Total,,,,,503
+Greenlee,003 Clifton,U.S. Senate,,1,REP,Kari LAKE,110
+Greenlee,003 Clifton,U.S. Senate,,1,REP,Mark LAMB,67
+Greenlee,003 Clifton,U.S. Senate,,1,REP,Elizabeth Jean REYE,20
+Greenlee,003 Clifton,U.S. Senate,,1,REP,Write-In Total,0
+Greenlee,003 Clifton,U.S. Senate,,1,REP,Total Votes Cast,197
+Greenlee,003 Clifton,U.S. House,6,1,REP,Juan CISCOMANI,118
+Greenlee,003 Clifton,U.S. House,6,1,REP,Catherine WINN,63
+Greenlee,003 Clifton,U.S. House,6,1,REP,Write-In Total,1
+Greenlee,003 Clifton,U.S. House,6,1,REP,Total Votes Cast,182
+Greenlee,003 Clifton,State Senate,19,1,REP,David GOWAN,167
+Greenlee,003 Clifton,State Senate,19,1,REP,Write-In Total,2
+Greenlee,003 Clifton,State Senate,19,1,REP,Total Votes Cast,169
+Greenlee,003 Clifton,State House,19,2,REP,Lupe DIAZ,110
+Greenlee,003 Clifton,State House,19,2,REP,Gail GRIFFIN,146
+Greenlee,003 Clifton,State House,19,2,REP,Write-In Total,1
+Greenlee,003 Clifton,State House,19,2,REP,Total Votes Cast,257
+Greenlee,003 Clifton,Corporation Commissioner,,3,REP,Rene LOPEZ,115
+Greenlee,003 Clifton,Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,114
+Greenlee,003 Clifton,Corporation Commissioner,,3,REP,Rachel WALDEN,119
+Greenlee,003 Clifton,Corporation Commissioner,,3,REP,Write-In Total,5
+Greenlee,003 Clifton,Corporation Commissioner,,3,REP,Total Votes Cast,353
+Greenlee,003 Clifton,Board of Supervisors,1,1,REP,Write-In Total,19
+Greenlee,003 Clifton,Board of Supervisors,1,1,REP,Total Votes Cast,19
+Greenlee,003 Clifton,Board of Supervisors,3,1,REP,Kara WAGLEY,17
+Greenlee,003 Clifton,Board of Supervisors,3,1,REP,Write-In Total,0
+Greenlee,003 Clifton,Board of Supervisors,3,1,REP,Total Votes Cast,17
+Greenlee,003 Clifton,County Attorney,,1,REP,Gary GRIFFITH,155
+Greenlee,003 Clifton,County Attorney,,1,REP,Write-In Total,0
+Greenlee,003 Clifton,County Attorney,,1,REP,Total Votes Cast,155
+Greenlee,003 Clifton,County Sheriff,,1,REP,Dale SLOAN,71
+Greenlee,003 Clifton,County Sheriff,,1,REP,Tim SUMNER,83
+Greenlee,003 Clifton,County Sheriff,,1,REP,Write-In Total,29
+Greenlee,003 Clifton,County Sheriff,,1,REP,Total Votes Cast,183
+Greenlee,003 Clifton,County Treasurer,,1,REP,Write-In Total,9
+Greenlee,003 Clifton,County Treasurer,,1,REP,Total Votes Cast,9
+Greenlee,003 Clifton,County School Superintendent,,1,REP,Write-In Total,12
+Greenlee,003 Clifton,County School Superintendent,,1,REP,Total Votes Cast,12
+Greenlee,003 Clifton,County Recorder,,1,REP,Erin MILLER,149
+Greenlee,003 Clifton,County Recorder,,1,REP,Write-In Total,7
+Greenlee,003 Clifton,County Recorder,,1,REP,Total Votes Cast,156
+Greenlee,003 Clifton,County Assessor,,1,REP,Write-In Total,10
+Greenlee,003 Clifton,County Assessor,,1,REP,Total Votes Cast,10
+Greenlee,003 Clifton,U.S. Senate,,1,DEM,Ruben GALLEGO,278
+Greenlee,003 Clifton,U.S. Senate,,1,DEM,Write-In Total,2
+Greenlee,003 Clifton,U.S. Senate,,1,DEM,Total Votes Cast,280
+Greenlee,003 Clifton,U.S. House,6,1,DEM,Kirsten ENGEL,256
+Greenlee,003 Clifton,U.S. House,6,1,DEM,Write-In Total,2
+Greenlee,003 Clifton,U.S. House,6,1,DEM,Total Votes Cast,258
+Greenlee,003 Clifton,State Senate,19,1,DEM,Bob KARP,248
+Greenlee,003 Clifton,State Senate,19,1,DEM,Write-In Total,1
+Greenlee,003 Clifton,State Senate,19,1,DEM,Total Votes Cast,249
+Greenlee,003 Clifton,State House,19,2,DEM,Gregg FROSTROM JR.,241
+Greenlee,003 Clifton,State House,19,2,DEM,Write-In Total,3
+Greenlee,003 Clifton,State House,19,2,DEM,Total Votes Cast,244
+Greenlee,003 Clifton,Corporation Commissioner,,3,DEM,Ylenia AGUILAR,234
+Greenlee,003 Clifton,Corporation Commissioner,,3,DEM,Jonathon HILL,192
+Greenlee,003 Clifton,Corporation Commissioner,,3,DEM,Joshua POLACHECK,193
+Greenlee,003 Clifton,Corporation Commissioner,,3,DEM,Write-In Total,9
+Greenlee,003 Clifton,Corporation Commissioner,,3,DEM,Total Votes Cast,628
+Greenlee,003 Clifton,Board of Supervisors,1,1,DEM,David GOMEZ,245
+Greenlee,003 Clifton,Board of Supervisors,1,1,DEM,Write-In Total,6
+Greenlee,003 Clifton,Board of Supervisors,1,1,DEM,Total Votes Cast,251
+Greenlee,003 Clifton,Board of Supervisors,3,1,DEM,Write-In Total,0
+Greenlee,003 Clifton,Board of Supervisors,3,1,DEM,Total Votes Cast,0
+Greenlee,003 Clifton,County Attorney,,1,DEM,Write-In Total,9
+Greenlee,003 Clifton,County Attorney,,1,DEM,Total Votes Cast,9
+Greenlee,003 Clifton,County Sheriff,,1,DEM,Daniel MEDINA,229
+Greenlee,003 Clifton,County Sheriff,,1,DEM,Write-In Total,16
+Greenlee,003 Clifton,County Sheriff,,1,DEM,Total Votes Cast,245
+Greenlee,003 Clifton,County Treasurer,,1,DEM,Write-In Total,13
+Greenlee,003 Clifton,County Treasurer,,1,DEM,Total Votes Cast,13
+Greenlee,003 Clifton,County School Superintendent,,1,DEM,Write-In Total,9
+Greenlee,003 Clifton,County School Superintendent,,1,DEM,Total Votes Cast,9
+Greenlee,003 Clifton,County Recorder,,1,DEM,Sarah STACEY-CAMACHO,252
+Greenlee,003 Clifton,County Recorder,,1,DEM,Write-In Total,6
+Greenlee,003 Clifton,County Recorder,,1,DEM,Total Votes Cast,258
+Greenlee,003 Clifton,County Assessor,,1,DEM,Write-In Total,7
+Greenlee,003 Clifton,County Assessor,,1,DEM,Total Votes Cast,7
+Greenlee,003 Clifton,U.S. Senate,,1,LBT,Write-In Total,0
+Greenlee,003 Clifton,U.S. Senate,,1,LBT,Total Votes Cast,0
+Greenlee,003 Clifton,U.S. House,6,1,LBT,Write-In Total,0
+Greenlee,003 Clifton,U.S. House,6,1,LBT,Total Votes Cast,0
+Greenlee,003 Clifton,State Senate,19,1,LBT,Write-In Total,0
+Greenlee,003 Clifton,State Senate,19,1,LBT,Total Votes Cast,0
+Greenlee,003 Clifton,State House,19,2,LBT,Write-In Total,0
+Greenlee,003 Clifton,State House,19,2,LBT,Total Votes Cast,0
+Greenlee,003 Clifton,Corporation Commissioner,,3,LBT,Write-In Total,0
+Greenlee,003 Clifton,Corporation Commissioner,,3,LBT,Total Votes Cast,0
+Greenlee,003 Clifton,U.S. Senate,,1,GRN,Arturo HERNANDEZ,0
+Greenlee,003 Clifton,U.S. Senate,,1,GRN,Michael NORTON,0
+Greenlee,003 Clifton,U.S. Senate,,1,GRN,Write-In Total,0
+Greenlee,003 Clifton,U.S. Senate,,1,GRN,Total Votes Cast,0
+Greenlee,003 Clifton,U.S. House,6,1,GRN,Write-In Total,0
+Greenlee,003 Clifton,U.S. House,6,1,GRN,Total Votes Cast,0
+Greenlee,003 Clifton,State Senate,19,1,GRN,Write-In Total,0
+Greenlee,003 Clifton,State Senate,19,1,GRN,Total Votes Cast,0
+Greenlee,003 Clifton,State House,19,2,GRN,Write-In Total,0
+Greenlee,003 Clifton,State House,19,2,GRN,Total Votes Cast,0
+Greenlee,003 Clifton,Corporation Commissioner,,3,GRN,Write-In Total,0
+Greenlee,003 Clifton,Corporation Commissioner,,3,GRN,Total Votes Cast,0
+Greenlee,003 Clifton,NOL Notice,,1,NOL,Total Votes Cast,0
+Greenlee,003 Clifton,Council Member,Clifton,4,,Barbara AHMANN,195
+Greenlee,003 Clifton,Council Member,Clifton,4,,Anthony JAMES,202
+Greenlee,003 Clifton,Council Member,Clifton,4,,Emily MUNOZ,190
+Greenlee,003 Clifton,Council Member,Clifton,4,,Barbara REYES,186
+Greenlee,003 Clifton,Council Member,Clifton,4,,Write-In Total,6
+Greenlee,003 Clifton,Council Member,Clifton,4,,Total Votes Cast,779
+Greenlee,003 Clifton,PROPOSITION 402,,1,,YES,228
+Greenlee,003 Clifton,PROPOSITION 402,,1,,NO,15
+Greenlee,003 Clifton,PROPOSITION 402,,1,,Total Votes Cast,243
+Greenlee,004 Morenci,Registered Voters - Total ,,,,,1155
+Greenlee,004 Morenci,Ballots Cast - Total,,,,,165
+Greenlee,004 Morenci,U.S. Senate,,1,REP,Kari LAKE,46
+Greenlee,004 Morenci,U.S. Senate,,1,REP,Mark LAMB,54
+Greenlee,004 Morenci,U.S. Senate,,1,REP,Elizabeth Jean REYE,6
+Greenlee,004 Morenci,U.S. Senate,,1,REP,Write-In Total,0
+Greenlee,004 Morenci,U.S. Senate,,1,REP,Total Votes Cast,106
+Greenlee,004 Morenci,U.S. House,6,1,REP,Juan CISCOMANI,57
+Greenlee,004 Morenci,U.S. House,6,1,REP,Catherine WINN,46
+Greenlee,004 Morenci,U.S. House,6,1,REP,Write-In Total,0
+Greenlee,004 Morenci,U.S. House,6,1,REP,Total Votes Cast,103
+Greenlee,004 Morenci,State Senate,19,1,REP,David GOWAN,95
+Greenlee,004 Morenci,State Senate,19,1,REP,Write-In Total,0
+Greenlee,004 Morenci,State Senate,19,1,REP,Total Votes Cast,95
+Greenlee,004 Morenci,State House,19,2,REP,Lupe DIAZ,6
+Greenlee,004 Morenci,State House,19,2,REP,Gail GRIFFIN,76
+Greenlee,004 Morenci,State House,19,2,REP,Write-In Total,0
+Greenlee,004 Morenci,State House,19,2,REP,Total Votes Cast,145
+Greenlee,004 Morenci,Corporation Commissioner,,3,REP,Rene LOPEZ,70
+Greenlee,004 Morenci,Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,57
+Greenlee,004 Morenci,Corporation Commissioner,,3,REP,Rachel WALDEN,69
+Greenlee,004 Morenci,Corporation Commissioner,,3,REP,Write-In Total,0
+Greenlee,004 Morenci,Corporation Commissioner,,3,REP,Total Votes Cast,196
+Greenlee,004 Morenci,Board of Supervisors,2,1,REP,Write-In Total,12
+Greenlee,004 Morenci,Board of Supervisors,2,1,REP,Total Votes Cast,12
+Greenlee,004 Morenci,County Attorney,,1,REP,Gary GRIFFITH,91
+Greenlee,004 Morenci,County Attorney,,1,REP,Write-In Total,0
+Greenlee,004 Morenci,County Attorney,,1,REP,Total Votes Cast,91
+Greenlee,004 Morenci,County Sheriff,,1,REP,Dale SLOAN,38
+Greenlee,004 Morenci,County Sheriff,,1,REP,Tim SUMNER,58
+Greenlee,004 Morenci,County Sheriff,,1,REP,Write-In Total,8
+Greenlee,004 Morenci,County Sheriff,,1,REP,Total Votes Cast,104
+Greenlee,004 Morenci,County Treasurer,,1,REP,Write-In Total,4
+Greenlee,004 Morenci,County Treasurer,,1,REP,Total Votes Cast,4
+Greenlee,004 Morenci,County School Superintendent,,1,REP,Write-In Total,5
+Greenlee,004 Morenci,County School Superintendent,,1,REP,Total Votes Cast,5
+Greenlee,004 Morenci,County Recorder,,1,REP,Erin MILLER,90
+Greenlee,004 Morenci,County Recorder,,1,REP,Write-In Total,4
+Greenlee,004 Morenci,County Recorder,,1,REP,Total Votes Cast,94
+Greenlee,004 Morenci,County Assessor,,1,REP,Write-In Total,6
+Greenlee,004 Morenci,County Assessor,,1,REP,Total Votes Cast,6
+Greenlee,004 Morenci,U.S. Senate,,1,DEM,Ruben GALLEGO,52
+Greenlee,004 Morenci,U.S. Senate,,1,DEM,Write-In Total,0
+Greenlee,004 Morenci,U.S. Senate,,1,DEM,Total Votes Cast,52
+Greenlee,004 Morenci,U.S. House,6,1,DEM,Kirsten ENGEL,49
+Greenlee,004 Morenci,U.S. House,6,1,DEM,Write-In Total,0
+Greenlee,004 Morenci,U.S. House,6,1,DEM,Total Votes Cast,49
+Greenlee,004 Morenci,State Senate,19,1,DEM,Bob KARP,47
+Greenlee,004 Morenci,State Senate,19,1,DEM,Write-In Total,0
+Greenlee,004 Morenci,State Senate,19,1,DEM,Total Votes Cast,47
+Greenlee,004 Morenci,State House,19,2,DEM,Gregg FROSTROM JR.,48
+Greenlee,004 Morenci,State House,19,2,DEM,Write-In Total,2
+Greenlee,004 Morenci,State House,19,2,DEM,Total Votes Cast,50
+Greenlee,004 Morenci,Corporation Commissioner,,3,DEM,Ylenia AGUILAR,48
+Greenlee,004 Morenci,Corporation Commissioner,,3,DEM,Jonathon HILL,29
+Greenlee,004 Morenci,Corporation Commissioner,,3,DEM,Joshua POLACHECK,29
+Greenlee,004 Morenci,Corporation Commissioner,,3,DEM,Write-In Total,0
+Greenlee,004 Morenci,Corporation Commissioner,,3,DEM,Total Votes Cast,106
+Greenlee,004 Morenci,Board of Supervisors,2,1,DEM,Write-In Total,3
+Greenlee,004 Morenci,Board of Supervisors,2,1,DEM,Total Votes Cast,3
+Greenlee,004 Morenci,County Attorney,,1,DEM,Write-In Total,0
+Greenlee,004 Morenci,County Attorney,,1,DEM,Total Votes Cast,0
+Greenlee,004 Morenci,County Sheriff,,1,DEM,Daniel MEDINA,46
+Greenlee,004 Morenci,County Sheriff,,1,DEM,Write-In Total,1
+Greenlee,004 Morenci,County Sheriff,,1,DEM,Total Votes Cast,47
+Greenlee,004 Morenci,County Treasurer,,1,DEM,Write-In Total,1
+Greenlee,004 Morenci,County Treasurer,,1,DEM,Total Votes Cast,1
+Greenlee,004 Morenci,County School Superintendent,,1,DEM,Write-In Total,2
+Greenlee,004 Morenci,County School Superintendent,,1,DEM,Total Votes Cast,2
+Greenlee,004 Morenci,County Recorder,,1,DEM,Sarah STACEY-CAMACHO,47
+Greenlee,004 Morenci,County Recorder,,1,DEM,Write-In Total,0
+Greenlee,004 Morenci,County Recorder,,1,DEM,Total Votes Cast,47
+Greenlee,004 Morenci,County Assessor,,1,DEM,Write-In Total,1
+Greenlee,004 Morenci,County Assessor,,1,DEM,Total Votes Cast,1
+Greenlee,004 Morenci,U.S. Senate,,1,LBT,Write-In Total,1
+Greenlee,004 Morenci,U.S. Senate,,1,LBT,Total Votes Cast,1
+Greenlee,004 Morenci,U.S. House,6,1,LBT,Write-In Total,0
+Greenlee,004 Morenci,U.S. House,6,1,LBT,Total Votes Cast,0
+Greenlee,004 Morenci,State Senate,19,1,LBT,Write-In Total,0
+Greenlee,004 Morenci,State Senate,19,1,LBT,Total Votes Cast,0
+Greenlee,004 Morenci,State House,19,2,LBT,Write-In Total,0
+Greenlee,004 Morenci,State House,19,2,LBT,Total Votes Cast,0
+Greenlee,004 Morenci,Corporation Commissioner,,3,LBT,Write-In Total,1
+Greenlee,004 Morenci,Corporation Commissioner,,3,LBT,Total Votes Cast,1
+Greenlee,004 Morenci,U.S. Senate,,1,GRN,Arturo HERNANDEZ,0
+Greenlee,004 Morenci,U.S. Senate,,1,GRN,Michael NORTON,0
+Greenlee,004 Morenci,U.S. Senate,,1,GRN,Write-In Total,0
+Greenlee,004 Morenci,U.S. Senate,,1,GRN,Total Votes Cast,0
+Greenlee,004 Morenci,U.S. House,6,1,GRN,Write-In Total,0
+Greenlee,004 Morenci,U.S. House,6,1,GRN,Total Votes Cast,0
+Greenlee,004 Morenci,State Senate,19,1,GRN,Write-In Total,0
+Greenlee,004 Morenci,State Senate,19,1,GRN,Total Votes Cast,0
+Greenlee,004 Morenci,State House,19,2,GRN,Write-In Total,0
+Greenlee,004 Morenci,State House,19,2,GRN,Total Votes Cast,0
+Greenlee,004 Morenci,Corporation Commissioner,,3,GRN,Write-In Total,0
+Greenlee,004 Morenci,Corporation Commissioner,,3,GRN,Total Votes Cast,0
+Greenlee,004 Morenci,NOL Notice,,1,NOL,Total Votes Cast,0
+Greenlee,004 Morenci,Council Member,Clifton,4,,Barbara AHMANN,40
+Greenlee,004 Morenci,Council Member,Clifton,4,,Anthony JAMES,48
+Greenlee,004 Morenci,Council Member,Clifton,4,,Emily MUNOZ,56
+Greenlee,004 Morenci,Council Member,Clifton,4,,Barbara REYES,42
+Greenlee,004 Morenci,Council Member,Clifton,4,,Write-In Total,1
+Greenlee,004 Morenci,Council Member,Clifton,4,,Total Votes Cast,187
+Greenlee,004 Morenci,PROPOSITION 402,,1,,YES,65
+Greenlee,004 Morenci,PROPOSITION 402,,1,,NO,5
+Greenlee,004 Morenci,PROPOSITION 402,,1,,Total Votes Cast,70
+Greenlee,005 York/Sheldon,Registered Voters - Total ,,,,,758
+Greenlee,005 York/Sheldon,Ballots Cast - Total,,,,,275
+Greenlee,005 York/Sheldon,U.S. Senate,,1,REP,Kari LAKE,91
+Greenlee,005 York/Sheldon,U.S. Senate,,1,REP,Mark LAMB,84
+Greenlee,005 York/Sheldon,U.S. Senate,,1,REP,Elizabeth Jean REYE,3
+Greenlee,005 York/Sheldon,U.S. Senate,,1,REP,Write-In Total,0
+Greenlee,005 York/Sheldon,U.S. Senate,,1,REP,Total Votes Cast,178
+Greenlee,005 York/Sheldon,U.S. House,6,1,REP,Juan CISCOMANI,109
+Greenlee,005 York/Sheldon,U.S. House,6,1,REP,Catherine WINN,57
+Greenlee,005 York/Sheldon,U.S. House,6,1,REP,Write-In Total,0
+Greenlee,005 York/Sheldon,U.S. House,6,1,REP,Total Votes Cast,166
+Greenlee,005 York/Sheldon,State Senate,19,1,REP,David GOWAN,143
+Greenlee,005 York/Sheldon,State Senate,19,1,REP,Write-In Total,1
+Greenlee,005 York/Sheldon,State Senate,19,1,REP,Total Votes Cast,144
+Greenlee,005 York/Sheldon,State House,19,2,REP,Lupe DIAZ,100
+Greenlee,005 York/Sheldon,State House,19,2,REP,Gail GRIFFIN,140
+Greenlee,005 York/Sheldon,State House,19,2,REP,Write-In Total,1
+Greenlee,005 York/Sheldon,State House,19,2,REP,Total Votes Cast,241
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,REP,Rene LOPEZ,104
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,107
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,REP,Rachel WALDEN,105
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,REP,Write-In Total,1
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,REP,Total Votes Cast,317
+Greenlee,005 York/Sheldon,Board of Supervisors,1,1,REP,Write-In Total,0
+Greenlee,005 York/Sheldon,Board of Supervisors,1,1,REP,Total Votes Cast,0
+Greenlee,005 York/Sheldon,Board of Supervisors,3,1,REP,Kara WAGLEY,126
+Greenlee,005 York/Sheldon,Board of Supervisors,3,1,REP,Write-In Total,9
+Greenlee,005 York/Sheldon,Board of Supervisors,3,1,REP,Total Votes Cast,135
+Greenlee,005 York/Sheldon,County Attorney,,1,REP,Gary GRIFFITH,150
+Greenlee,005 York/Sheldon,County Attorney,,1,REP,Write-In Total,1
+Greenlee,005 York/Sheldon,County Attorney,,1,REP,Total Votes Cast,151
+Greenlee,005 York/Sheldon,County Sheriff,,1,REP,Dale SLOAN,92
+Greenlee,005 York/Sheldon,County Sheriff,,1,REP,Tim SUMNER,68
+Greenlee,005 York/Sheldon,County Sheriff,,1,REP,Write-In Total,11
+Greenlee,005 York/Sheldon,County Sheriff,,1,REP,Total Votes Cast,171
+Greenlee,005 York/Sheldon,County Treasurer,,1,REP,Write-In Total,15
+Greenlee,005 York/Sheldon,County Treasurer,,1,REP,Total Votes Cast,15
+Greenlee,005 York/Sheldon,County School Superintendent,,1,REP,Write-In Total,12
+Greenlee,005 York/Sheldon,County School Superintendent,,1,REP,Total Votes Cast,12
+Greenlee,005 York/Sheldon,County Recorder,,1,REP,Erin MILLER,147
+Greenlee,005 York/Sheldon,County Recorder,,1,REP,Write-In Total,1
+Greenlee,005 York/Sheldon,County Recorder,,1,REP,Total Votes Cast,148
+Greenlee,005 York/Sheldon,County Assessor,,1,REP,Write-In Total,10
+Greenlee,005 York/Sheldon,County Assessor,,1,REP,Total Votes Cast,10
+Greenlee,005 York/Sheldon,U.S. Senate,,1,DEM,Ruben GALLEGO,88
+Greenlee,005 York/Sheldon,U.S. Senate,,1,DEM,Write-In Total,2
+Greenlee,005 York/Sheldon,U.S. Senate,,1,DEM,Total Votes Cast,90
+Greenlee,005 York/Sheldon,U.S. House,6,1,DEM,Kirsten ENGEL,87
+Greenlee,005 York/Sheldon,U.S. House,6,1,DEM,Write-In Total,2
+Greenlee,005 York/Sheldon,U.S. House,6,1,DEM,Total Votes Cast,89
+Greenlee,005 York/Sheldon,State Senate,19,1,DEM,Bob KARP,86
+Greenlee,005 York/Sheldon,State Senate,19,1,DEM,Write-In Total,2
+Greenlee,005 York/Sheldon,State Senate,19,1,DEM,Total Votes Cast,88
+Greenlee,005 York/Sheldon,State House,19,2,DEM,Gregg FROSTROM JR.,85
+Greenlee,005 York/Sheldon,State House,19,2,DEM,Write-In Total,3
+Greenlee,005 York/Sheldon,State House,19,2,DEM,Total Votes Cast,88
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,DEM,Ylenia AGUILAR,79
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,DEM,Jonathon HILL,69
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,DEM,Joshua POLACHECK,69
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,DEM,Write-In Total,3
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,DEM,Total Votes Cast,220
+Greenlee,005 York/Sheldon,Board of Supervisors,1,1,DEM,David GOMEZ,0
+Greenlee,005 York/Sheldon,Board of Supervisors,1,1,DEM,Write-In Total,0
+Greenlee,005 York/Sheldon,Board of Supervisors,1,1,DEM,Total Votes Cast,0
+Greenlee,005 York/Sheldon,Board of Supervisors,3,1,DEM,Write-In Total,6
+Greenlee,005 York/Sheldon,Board of Supervisors,3,1,DEM,Total Votes Cast,6
+Greenlee,005 York/Sheldon,County Attorney,,1,DEM,Write-In Total,4
+Greenlee,005 York/Sheldon,County Attorney,,1,DEM,Total Votes Cast,4
+Greenlee,005 York/Sheldon,County Sheriff,,1,DEM,Daniel MEDINA,66
+Greenlee,005 York/Sheldon,County Sheriff,,1,DEM,Write-In Total,12
+Greenlee,005 York/Sheldon,County Sheriff,,1,DEM,Total Votes Cast,78
+Greenlee,005 York/Sheldon,County Treasurer,,1,DEM,Write-In Total,2
+Greenlee,005 York/Sheldon,County Treasurer,,1,DEM,Total Votes Cast,2
+Greenlee,005 York/Sheldon,County School Superintendent,,1,DEM,Write-In Total,3
+Greenlee,005 York/Sheldon,County School Superintendent,,1,DEM,Total Votes Cast,3
+Greenlee,005 York/Sheldon,County Recorder,,1,DEM,Sarah STACEY-CAMACHO,75
+Greenlee,005 York/Sheldon,County Recorder,,1,DEM,Write-In Total,3
+Greenlee,005 York/Sheldon,County Recorder,,1,DEM,Total Votes Cast,78
+Greenlee,005 York/Sheldon,County Assessor,,1,DEM,Write-In Total,3
+Greenlee,005 York/Sheldon,County Assessor,,1,DEM,Total Votes Cast,3
+Greenlee,005 York/Sheldon,U.S. Senate,,1,LBT,Write-In Total,1
+Greenlee,005 York/Sheldon,U.S. Senate,,1,LBT,Total Votes Cast,1
+Greenlee,005 York/Sheldon,U.S. House,6,1,LBT,Write-In Total,1
+Greenlee,005 York/Sheldon,U.S. House,6,1,LBT,Total Votes Cast,1
+Greenlee,005 York/Sheldon,State Senate,19,1,LBT,Write-In Total,1
+Greenlee,005 York/Sheldon,State Senate,19,1,LBT,Total Votes Cast,1
+Greenlee,005 York/Sheldon,State House,19,2,LBT,Write-In Total,2
+Greenlee,005 York/Sheldon,State House,19,2,LBT,Total Votes Cast,2
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,LBT,Write-In Total,3
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,LBT,Total Votes Cast,3
+Greenlee,005 York/Sheldon,U.S. Senate,,1,GRN,Arturo HERNANDEZ,0
+Greenlee,005 York/Sheldon,U.S. Senate,,1,GRN,Michael NORTON,0
+Greenlee,005 York/Sheldon,U.S. Senate,,1,GRN,Write-In Total,0
+Greenlee,005 York/Sheldon,U.S. Senate,,1,GRN,Total Votes Cast,0
+Greenlee,005 York/Sheldon,U.S. House,6,1,GRN,Write-In Total,0
+Greenlee,005 York/Sheldon,U.S. House,6,1,GRN,Total Votes Cast,0
+Greenlee,005 York/Sheldon,State Senate,19,1,GRN,Write-In Total,0
+Greenlee,005 York/Sheldon,State Senate,19,1,GRN,Total Votes Cast,0
+Greenlee,005 York/Sheldon,State House,19,2,GRN,Write-In Total,0
+Greenlee,005 York/Sheldon,State House,19,2,GRN,Total Votes Cast,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,GRN,Write-In Total,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,3,GRN,Total Votes Cast,0
+Greenlee,005 York/Sheldon,NOL Notice,,1,NOL,Total Votes Cast,0
+Greenlee,006 Duncan,Registered Voters - Total ,,,,,875
+Greenlee,006 Duncan,Ballots Cast - Total,,,,,326
+Greenlee,006 Duncan,U.S. Senate,,1,REP,Kari LAKE,130
+Greenlee,006 Duncan,U.S. Senate,,1,REP,Mark LAMB,105
+Greenlee,006 Duncan,U.S. Senate,,1,REP,Elizabeth Jean REYE,7
+Greenlee,006 Duncan,U.S. Senate,,1,REP,Write-In Total,0
+Greenlee,006 Duncan,U.S. Senate,,1,REP,Total Votes Cast,242
+Greenlee,006 Duncan,U.S. House,6,1,REP,Juan CISCOMANI,155
+Greenlee,006 Duncan,U.S. House,6,1,REP,Catherine WINN,77
+Greenlee,006 Duncan,U.S. House,6,1,REP,Write-In Total,3
+Greenlee,006 Duncan,U.S. House,6,1,REP,Total Votes Cast,235
+Greenlee,006 Duncan,State Senate,19,1,REP,David GOWAN,210
+Greenlee,006 Duncan,State Senate,19,1,REP,Write-In Total,1
+Greenlee,006 Duncan,State Senate,19,1,REP,Total Votes Cast,211
+Greenlee,006 Duncan,State House,19,2,REP,Lupe DIAZ,136
+Greenlee,006 Duncan,State House,19,2,REP,Gail GRIFFIN,206
+Greenlee,006 Duncan,State House,19,2,REP,Write-In Total,1
+Greenlee,006 Duncan,State House,19,2,REP,Total Votes Cast,343
+Greenlee,006 Duncan,Corporation Commissioner,,3,REP,Rene LOPEZ,148
+Greenlee,006 Duncan,Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,146
+Greenlee,006 Duncan,Corporation Commissioner,,3,REP,Rachel WALDEN,184
+Greenlee,006 Duncan,Corporation Commissioner,,3,REP,Write-In Total,2
+Greenlee,006 Duncan,Corporation Commissioner,,3,REP,Total Votes Cast,480
+Greenlee,006 Duncan,Board of Supervisors,3,1,REP,Kara WAGLEY,134
+Greenlee,006 Duncan,Board of Supervisors,3,1,REP,Write-In Total,31
+Greenlee,006 Duncan,Board of Supervisors,3,1,REP,Total Votes Cast,165
+Greenlee,006 Duncan,County Attorney,,1,REP,Gary GRIFFITH,219
+Greenlee,006 Duncan,County Attorney,,1,REP,Write-In Total,1
+Greenlee,006 Duncan,County Attorney,,1,REP,Total Votes Cast,220
+Greenlee,006 Duncan,County Sheriff,,1,REP,Dale SLOAN,125
+Greenlee,006 Duncan,County Sheriff,,1,REP,Tim SUMNER,76
+Greenlee,006 Duncan,County Sheriff,,1,REP,Write-In Total,27
+Greenlee,006 Duncan,County Sheriff,,1,REP,Total Votes Cast,228
+Greenlee,006 Duncan,County Treasurer,,1,REP,Write-In Total,18
+Greenlee,006 Duncan,County Treasurer,,1,REP,Total Votes Cast,18
+Greenlee,006 Duncan,County School Superintendent,,1,REP,Write-In Total,11
+Greenlee,006 Duncan,County School Superintendent,,1,REP,Total Votes Cast,11
+Greenlee,006 Duncan,County Recorder,,1,REP,Erin MILLER,215
+Greenlee,006 Duncan,County Recorder,,1,REP,Write-In Total,0
+Greenlee,006 Duncan,County Recorder,,1,REP,Total Votes Cast,215
+Greenlee,006 Duncan,County Assessor,,1,REP,Write-In Total,16
+Greenlee,006 Duncan,County Assessor,,1,REP,Total Votes Cast,16
+Greenlee,006 Duncan,U.S. Senate,,1,DEM,Ruben GALLEGO,63
+Greenlee,006 Duncan,U.S. Senate,,1,DEM,Write-In Total,0
+Greenlee,006 Duncan,U.S. Senate,,1,DEM,Total Votes Cast,63
+Greenlee,006 Duncan,U.S. House,6,1,DEM,Kirsten ENGEL,61
+Greenlee,006 Duncan,U.S. House,6,1,DEM,Write-In Total,2
+Greenlee,006 Duncan,U.S. House,6,1,DEM,Total Votes Cast,63
+Greenlee,006 Duncan,State Senate,19,1,DEM,Bob KARP,61
+Greenlee,006 Duncan,State Senate,19,1,DEM,Write-In Total,0
+Greenlee,006 Duncan,State Senate,19,1,DEM,Total Votes Cast,61
+Greenlee,006 Duncan,State House,19,2,DEM,Gregg FROSTROM JR.,60
+Greenlee,006 Duncan,State House,19,2,DEM,Write-In Total,0
+Greenlee,006 Duncan,State House,19,2,DEM,Total Votes Cast,60
+Greenlee,006 Duncan,Corporation Commissioner,,3,DEM,Ylenia AGUILAR,55
+Greenlee,006 Duncan,Corporation Commissioner,,3,DEM,Jonathon HILL,51
+Greenlee,006 Duncan,Corporation Commissioner,,3,DEM,Joshua POLACHECK,45
+Greenlee,006 Duncan,Corporation Commissioner,,3,DEM,Write-In Total,0
+Greenlee,006 Duncan,Corporation Commissioner,,3,DEM,Total Votes Cast,151
+Greenlee,006 Duncan,Board of Supervisors,3,1,DEM,Write-In Total,4
+Greenlee,006 Duncan,Board of Supervisors,3,1,DEM,Total Votes Cast,4
+Greenlee,006 Duncan,County Attorney,,1,DEM,Write-In Total,4
+Greenlee,006 Duncan,County Attorney,,1,DEM,Total Votes Cast,4
+Greenlee,006 Duncan,County Sheriff,,1,DEM,Daniel MEDINA,39
+Greenlee,006 Duncan,County Sheriff,,1,DEM,Write-In Total,7
+Greenlee,006 Duncan,County Sheriff,,1,DEM,Total Votes Cast,46
+Greenlee,006 Duncan,County Treasurer,,1,DEM,Write-In Total,5
+Greenlee,006 Duncan,County Treasurer,,1,DEM,Total Votes Cast,5
+Greenlee,006 Duncan,County School Superintendent,,1,DEM,Write-In Total,5
+Greenlee,006 Duncan,County School Superintendent,,1,DEM,Total Votes Cast,5
+Greenlee,006 Duncan,County Recorder,,1,DEM,Sarah STACEY-CAMACHO,58
+Greenlee,006 Duncan,County Recorder,,1,DEM,Write-In Total,2
+Greenlee,006 Duncan,County Recorder,,1,DEM,Total Votes Cast,60
+Greenlee,006 Duncan,County Assessor,,1,DEM,Write-In Total,4
+Greenlee,006 Duncan,County Assessor,,1,DEM,Total Votes Cast,4
+Greenlee,006 Duncan,U.S. Senate,,1,LBT,Write-In Total,0
+Greenlee,006 Duncan,U.S. Senate,,1,LBT,Total Votes Cast,0
+Greenlee,006 Duncan,U.S. House,6,1,LBT,Write-In Total,0
+Greenlee,006 Duncan,U.S. House,6,1,LBT,Total Votes Cast,0
+Greenlee,006 Duncan,State Senate,19,1,LBT,Write-In Total,0
+Greenlee,006 Duncan,State Senate,19,1,LBT,Total Votes Cast,0
+Greenlee,006 Duncan,State House,19,2,LBT,Write-In Total,0
+Greenlee,006 Duncan,State House,19,2,LBT,Total Votes Cast,0
+Greenlee,006 Duncan,Corporation Commissioner,,3,LBT,Write-In Total,0
+Greenlee,006 Duncan,Corporation Commissioner,,3,LBT,Total Votes Cast,0
+Greenlee,006 Duncan,U.S. Senate,,1,GRN,Arturo HERNANDEZ,0
+Greenlee,006 Duncan,U.S. Senate,,1,GRN,Michael NORTON,0
+Greenlee,006 Duncan,U.S. Senate,,1,GRN,Write-In Total,0
+Greenlee,006 Duncan,U.S. Senate,,1,GRN,Total Votes Cast,0
+Greenlee,006 Duncan,U.S. House,6,1,GRN,Write-In Total,0
+Greenlee,006 Duncan,U.S. House,6,1,GRN,Total Votes Cast,0
+Greenlee,006 Duncan,State Senate,19,1,GRN,Write-In Total,0
+Greenlee,006 Duncan,State Senate,19,1,GRN,Total Votes Cast,0
+Greenlee,006 Duncan,State House,19,2,GRN,Write-In Total,0
+Greenlee,006 Duncan,State House,19,2,GRN,Total Votes Cast,0
+Greenlee,006 Duncan,Corporation Commissioner,,3,GRN,Write-In Total,0
+Greenlee,006 Duncan,Corporation Commissioner,,3,GRN,Total Votes Cast,0
+Greenlee,006 Duncan,NOL Notice,,1,NOL,Total Votes Cast,0
+Greenlee,006 Duncan,Council Member,Duncan,2,,Donna SHOW,106
+Greenlee,006 Duncan,Council Member,Duncan,2,,Write-In Total,3
+Greenlee,006 Duncan,Council Member,Duncan,2,,Total Votes Cast,109
+Greenlee,006 Duncan,PROPOSITION 401,,1,,YES,94
+Greenlee,006 Duncan,PROPOSITION 401,,1,,NO,29
+Greenlee,006 Duncan,PROPOSITION 401,,1,,Total Votes Cast,123
