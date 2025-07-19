@@ -469,8 +469,8 @@ Maricopa,0015 ALPACA,U.S. Senate,,DEM,1,Write-In Totals,2,2,,0
 Maricopa,0015 ALPACA,U.S. Senate,,DEM,1,Total Votes Cast,332,324,,0
 Maricopa,0015 ALPACA,U.S. Senate,,DEM,1,Overvotes,1,0,,0
 Maricopa,0015 ALPACA,U.S. Senate,,DEM,1,Undervotes,10,10,,0
-Maricopa,0015 ALPACA,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0015 ALPACA,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0015 ALPACA,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0015 ALPACA,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0015 ALPACA,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0015 ALPACA,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0015 ALPACA,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -841,8 +841,8 @@ Maricopa,0027 APOLLO,Ballots Cast - Republican,,REP,,,166,147,19,0
 Maricopa,0027 APOLLO,Ballots Cast - Democratic,,DEM,,,121,119,2,0
 Maricopa,0027 APOLLO,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0027 APOLLO,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0027 APOLLO,U.S. Senate,,REP,1,Kari LAKE,105,,12,0
-Maricopa,0027 APOLLO,U.S. Senate,,REP,1,Mark LAMB,50,,6,0
+Maricopa,0027 APOLLO,U.S. Senate,,REP,1,Kari LAKE,105,93,12,0
+Maricopa,0027 APOLLO,U.S. Senate,,REP,1,Mark LAMB,50,44,6,0
 Maricopa,0027 APOLLO,U.S. Senate,,REP,1,Elizabeth Jean REYE,7,6,1,0
 Maricopa,0027 APOLLO,U.S. Senate,,REP,1,Write-In Totals,2,2,0,0
 Maricopa,0027 APOLLO,U.S. Senate,,REP,1,Total Votes Cast,164,145,19,0
@@ -1045,8 +1045,8 @@ Maricopa,0033 ARLINGTON,U.S. Senate,,DEM,1,Write-In Totals,,,,0
 Maricopa,0033 ARLINGTON,U.S. Senate,,DEM,1,Total Votes Cast,,,,0
 Maricopa,0033 ARLINGTON,U.S. Senate,,DEM,1,Overvotes,,,,0
 Maricopa,0033 ARLINGTON,U.S. Senate,,DEM,1,Undervotes,,,,0
-Maricopa,0033 ARLINGTON,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0033 ARLINGTON,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0033 ARLINGTON,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0033 ARLINGTON,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0033 ARLINGTON,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0033 ARLINGTON,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0033 ARLINGTON,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -1237,8 +1237,8 @@ Maricopa,0039 ASTER,U.S. Senate,,DEM,1,Write-In Totals,0,0,,0
 Maricopa,0039 ASTER,U.S. Senate,,DEM,1,Total Votes Cast,317,308,,0
 Maricopa,0039 ASTER,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0039 ASTER,U.S. Senate,,DEM,1,Undervotes,5,4,,0
-Maricopa,0039 ASTER,U.S. Senate,,LBT,1,Write-In Totals,,,,0
-Maricopa,0039 ASTER,U.S. Senate,,LBT,1,Total Votes Cast,,,,0
+Maricopa,0039 ASTER,U.S. Senate,,LBT,1,Write-In Totals,,0,,0
+Maricopa,0039 ASTER,U.S. Senate,,LBT,1,Total Votes Cast,,0,,0
 Maricopa,0039 ASTER,U.S. Senate,,LBT,1,Overvotes,,0,,0
 Maricopa,0039 ASTER,U.S. Senate,,LBT,1,Undervotes,,0,,0
 Maricopa,0039 ASTER,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -1417,8 +1417,8 @@ Maricopa,0045 AVONDALE,Ballots Cast - Republican,,REP,,,83,76,7,0
 Maricopa,0045 AVONDALE,Ballots Cast - Democratic,,DEM,,,177,163,14,0
 Maricopa,0045 AVONDALE,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0045 AVONDALE,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0045 AVONDALE,U.S. Senate,,REP,1,Kari LAKE,50,,,0
-Maricopa,0045 AVONDALE,U.S. Senate,,REP,1,Mark LAMB,28,,,0
+Maricopa,0045 AVONDALE,U.S. Senate,,REP,1,Kari LAKE,50,45,,0
+Maricopa,0045 AVONDALE,U.S. Senate,,REP,1,Mark LAMB,28,26,,0
 Maricopa,0045 AVONDALE,U.S. Senate,,REP,1,Elizabeth Jean REYE,4,4,,0
 Maricopa,0045 AVONDALE,U.S. Senate,,REP,1,Write-In Totals,1,1,,0
 Maricopa,0045 AVONDALE,U.S. Senate,,REP,1,Total Votes Cast,83,76,,0
@@ -1429,8 +1429,8 @@ Maricopa,0045 AVONDALE,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,0
 Maricopa,0045 AVONDALE,U.S. Senate,,DEM,1,Total Votes Cast,167,156,11,0
 Maricopa,0045 AVONDALE,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0045 AVONDALE,U.S. Senate,,DEM,1,Undervotes,10,7,3,0
-Maricopa,0045 AVONDALE,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0045 AVONDALE,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0045 AVONDALE,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0045 AVONDALE,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0045 AVONDALE,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0045 AVONDALE,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0045 AVONDALE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -2005,8 +2005,8 @@ Maricopa,0063 BLACK CANYON,U.S. Senate,,DEM,1,Write-In Totals,2,2,,
 Maricopa,0063 BLACK CANYON,U.S. Senate,,DEM,1,Total Votes Cast,202,195,,
 Maricopa,0063 BLACK CANYON,U.S. Senate,,DEM,1,Overvotes,1,1,,
 Maricopa,0063 BLACK CANYON,U.S. Senate,,DEM,1,Undervotes,5,4,,
-Maricopa,0063 BLACK CANYON,U.S. Senate,,LBT,1,Write-In Totals,,,,0
-Maricopa,0063 BLACK CANYON,U.S. Senate,,LBT,1,Total Votes Cast,,,,0
+Maricopa,0063 BLACK CANYON,U.S. Senate,,LBT,1,Write-In Totals,,0,,0
+Maricopa,0063 BLACK CANYON,U.S. Senate,,LBT,1,Total Votes Cast,,0,,0
 Maricopa,0063 BLACK CANYON,U.S. Senate,,LBT,1,Overvotes,,0,,0
 Maricopa,0063 BLACK CANYON,U.S. Senate,,LBT,1,Undervotes,,0,,0
 Maricopa,0063 BLACK CANYON,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -2581,8 +2581,8 @@ Maricopa,0081 BUCKLEY,U.S. Senate,,DEM,1,Write-In Totals,3,2,1,
 Maricopa,0081 BUCKLEY,U.S. Senate,,DEM,1,Total Votes Cast,285,263,21,
 Maricopa,0081 BUCKLEY,U.S. Senate,,DEM,1,Overvotes,0,0,0,
 Maricopa,0081 BUCKLEY,U.S. Senate,,DEM,1,Undervotes,15,12,3,
-Maricopa,0081 BUCKLEY,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0081 BUCKLEY,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0081 BUCKLEY,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0081 BUCKLEY,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0081 BUCKLEY,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0081 BUCKLEY,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0081 BUCKLEY,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -3349,8 +3349,8 @@ Maricopa,0105 CARDINAL,U.S. Senate,,DEM,1,Write-In Totals,1,1,0,0
 Maricopa,0105 CARDINAL,U.S. Senate,,DEM,1,Total Votes Cast,544,521,23,0
 Maricopa,0105 CARDINAL,U.S. Senate,,DEM,1,Overvotes,1,1,0,0
 Maricopa,0105 CARDINAL,U.S. Senate,,DEM,1,Undervotes,16,15,1,0
-Maricopa,0105 CARDINAL,U.S. Senate,,LBT,1,Write-In Totals,,,,0
-Maricopa,0105 CARDINAL,U.S. Senate,,LBT,1,Total Votes Cast,,,,0
+Maricopa,0105 CARDINAL,U.S. Senate,,LBT,1,Write-In Totals,,0,,0
+Maricopa,0105 CARDINAL,U.S. Senate,,LBT,1,Total Votes Cast,,0,,0
 Maricopa,0105 CARDINAL,U.S. Senate,,LBT,1,Overvotes,,0,,0
 Maricopa,0105 CARDINAL,U.S. Senate,,LBT,1,Undervotes,,0,,0
 Maricopa,0105 CARDINAL,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -3913,8 +3913,8 @@ Maricopa,0123 CHAVEZ,Ballots Cast - Republican,,REP,,,54,37,17,0
 Maricopa,0123 CHAVEZ,Ballots Cast - Democratic,,DEM,,,211,193,18,0
 Maricopa,0123 CHAVEZ,Ballots Cast - Libertarian,,LBT,,,2,2,0,0
 Maricopa,0123 CHAVEZ,Ballots Cast - Green,,GRN,,,1,1,0,0
-Maricopa,0123 CHAVEZ,U.S. Senate,,REP,1,Kari LAKE,35,,14,0
-Maricopa,0123 CHAVEZ,U.S. Senate,,REP,1,Mark LAMB,19,,3,0
+Maricopa,0123 CHAVEZ,U.S. Senate,,REP,1,Kari LAKE,35,21,14,0
+Maricopa,0123 CHAVEZ,U.S. Senate,,REP,1,Mark LAMB,19,16,3,0
 Maricopa,0123 CHAVEZ,U.S. Senate,,REP,1,Elizabeth Jean REYE,0,0,0,0
 Maricopa,0123 CHAVEZ,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0123 CHAVEZ,U.S. Senate,,REP,1,Total Votes Cast,54,37,17,0
@@ -4297,16 +4297,16 @@ Maricopa,0135 CLAY MINE,Ballots Cast - Republican,,REP,,,156,136,20,0
 Maricopa,0135 CLAY MINE,Ballots Cast - Democratic,,DEM,,,50,47,3,0
 Maricopa,0135 CLAY MINE,Ballots Cast - Libertarian,,LBT,,,2,2,0,0
 Maricopa,0135 CLAY MINE,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Kari LAKE,96,,13,0
-Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Mark LAMB,52,,7,0
+Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Kari LAKE,96,83,13,0
+Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Mark LAMB,52,45,7,0
 Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Elizabeth Jean REYE,4,4,0,0
 Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Total Votes Cast,152,132,20,0
 Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Overvotes,0,0,0,0
 Maricopa,0135 CLAY MINE,U.S. Senate,,REP,1,Undervotes,4,4,0,0
-Maricopa,0135 CLAY MINE,U.S. Senate,,DEM,1,Ruben GALLEGO,48,,,0
-Maricopa,0135 CLAY MINE,U.S. Senate,,DEM,1,Write-In Totals,0,,,0
-Maricopa,0135 CLAY MINE,U.S. Senate,,DEM,1,Total Votes Cast,48,,,0
+Maricopa,0135 CLAY MINE,U.S. Senate,,DEM,1,Ruben GALLEGO,48,45,,0
+Maricopa,0135 CLAY MINE,U.S. Senate,,DEM,1,Write-In Totals,0,0,,0
+Maricopa,0135 CLAY MINE,U.S. Senate,,DEM,1,Total Votes Cast,48,45,,0
 Maricopa,0135 CLAY MINE,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0135 CLAY MINE,U.S. Senate,,DEM,1,Undervotes,2,2,,0
 Maricopa,0135 CLAY MINE,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
@@ -4489,16 +4489,16 @@ Maricopa,0141 CLOVIS,Ballots Cast - Republican,,REP,,,122,105,17,0
 Maricopa,0141 CLOVIS,Ballots Cast - Democratic,,DEM,,,98,95,3,0
 Maricopa,0141 CLOVIS,Ballots Cast - Libertarian,,LBT,,,4,3,1,0
 Maricopa,0141 CLOVIS,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Kari LAKE,61,,8,0
-Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Mark LAMB,55,,8,0
+Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Kari LAKE,61,53,8,0
+Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Mark LAMB,55,47,8,0
 Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Elizabeth Jean REYE,4,4,0,0
 Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Total Votes Cast,120,104,16,0
 Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Overvotes,0,0,0,0
 Maricopa,0141 CLOVIS,U.S. Senate,,REP,1,Undervotes,2,1,1,0
-Maricopa,0141 CLOVIS,U.S. Senate,,DEM,1,Ruben GALLEGO,91,,,0
-Maricopa,0141 CLOVIS,U.S. Senate,,DEM,1,Write-In Totals,1,,,0
-Maricopa,0141 CLOVIS,U.S. Senate,,DEM,1,Total Votes Cast,92,,,0
+Maricopa,0141 CLOVIS,U.S. Senate,,DEM,1,Ruben GALLEGO,91,88,,0
+Maricopa,0141 CLOVIS,U.S. Senate,,DEM,1,Write-In Totals,1,1,,0
+Maricopa,0141 CLOVIS,U.S. Senate,,DEM,1,Total Votes Cast,92,89,,0
 Maricopa,0141 CLOVIS,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0141 CLOVIS,U.S. Senate,,DEM,1,Undervotes,6,6,,0
 Maricopa,0141 CLOVIS,U.S. Senate,,LBT,1,Write-In Totals,,,,0
@@ -5257,20 +5257,20 @@ Maricopa,0165 CORDOVA,Ballots Cast - Republican,,REP,,,50,43,6,1
 Maricopa,0165 CORDOVA,Ballots Cast - Democratic,,DEM,,,105,96,8,1
 Maricopa,0165 CORDOVA,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0165 CORDOVA,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Kari LAKE,26,,,
-Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Mark LAMB,22,,,
+Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Kari LAKE,26,22,,
+Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Mark LAMB,22,19,,
 Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Elizabeth Jean REYE,2,2,,
 Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Write-In Totals,0,0,,
 Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Total Votes Cast,50,43,,
 Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Overvotes,0,0,,
 Maricopa,0165 CORDOVA,U.S. Senate,,REP,1,Undervotes,0,0,,
-Maricopa,0165 CORDOVA,U.S. Senate,,DEM,1,Ruben GALLEGO,104,,,
-Maricopa,0165 CORDOVA,U.S. Senate,,DEM,1,Write-In Totals,0,,,
-Maricopa,0165 CORDOVA,U.S. Senate,,DEM,1,Total Votes Cast,104,,,
+Maricopa,0165 CORDOVA,U.S. Senate,,DEM,1,Ruben GALLEGO,104,95,,
+Maricopa,0165 CORDOVA,U.S. Senate,,DEM,1,Write-In Totals,0,0,,
+Maricopa,0165 CORDOVA,U.S. Senate,,DEM,1,Total Votes Cast,104,95,,
 Maricopa,0165 CORDOVA,U.S. Senate,,DEM,1,Overvotes,0,0,,
 Maricopa,0165 CORDOVA,U.S. Senate,,DEM,1,Undervotes,1,1,,
-Maricopa,0165 CORDOVA,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0165 CORDOVA,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0165 CORDOVA,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0165 CORDOVA,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0165 CORDOVA,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0165 CORDOVA,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0165 CORDOVA,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -5557,8 +5557,8 @@ Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,DEM,1,Write-In Totals,3,3,0,
 Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,DEM,1,Total Votes Cast,756,727,29,
 Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,DEM,1,Overvotes,1,1,0,0
 Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,DEM,1,Undervotes,11,10,1,0
-Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Write-In Totals,,,0,
-Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Total Votes Cast,,,0,
+Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
+Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Undervotes,,,0,0
 Maricopa,0174 COTTONWOOD COUNTRY CLUB,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -5833,8 +5833,8 @@ Maricopa,0183 CREIGHTON,Ballots Cast - Republican,,REP,,,176,146,30,0
 Maricopa,0183 CREIGHTON,Ballots Cast - Democratic,,DEM,,,497,455,42,0
 Maricopa,0183 CREIGHTON,Ballots Cast - Libertarian,,LBT,,,2,1,1,0
 Maricopa,0183 CREIGHTON,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0183 CREIGHTON,U.S. Senate,,REP,1,Kari LAKE,109,,20,0
-Maricopa,0183 CREIGHTON,U.S. Senate,,REP,1,Mark LAMB,50,,10,0
+Maricopa,0183 CREIGHTON,U.S. Senate,,REP,1,Kari LAKE,109,89,20,0
+Maricopa,0183 CREIGHTON,U.S. Senate,,REP,1,Mark LAMB,50,40,10,0
 Maricopa,0183 CREIGHTON,U.S. Senate,,REP,1,Elizabeth Jean REYE,17,17,0,0
 Maricopa,0183 CREIGHTON,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0183 CREIGHTON,U.S. Senate,,REP,1,Total Votes Cast,176,146,30,0
@@ -6229,8 +6229,8 @@ Maricopa,0195 DALLAS,U.S. Senate,,DEM,1,Write-In Totals,4,1,3,
 Maricopa,0195 DALLAS,U.S. Senate,,DEM,1,Total Votes Cast,336,315,19,
 Maricopa,0195 DALLAS,U.S. Senate,,DEM,1,Overvotes,0,0,0,
 Maricopa,0195 DALLAS,U.S. Senate,,DEM,1,Undervotes,9,9,0,
-Maricopa,0195 DALLAS,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0195 DALLAS,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0195 DALLAS,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0195 DALLAS,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0195 DALLAS,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0195 DALLAS,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0195 DALLAS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -6613,8 +6613,8 @@ Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,DEM,1,Write-In Totals,4,4,0,0
 Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,DEM,1,Total Votes Cast,267,255,12,0
 Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,DEM,1,Overvotes,1,1,0,0
 Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,DEM,1,Undervotes,12,12,0,0
-Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0207 DESERT BLOSSOM,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -7369,8 +7369,8 @@ Maricopa,0231 DOS RIOS,Ballots Cast - Republican,,REP,,,93,79,14,0
 Maricopa,0231 DOS RIOS,Ballots Cast - Democratic,,DEM,,,221,207,14,0
 Maricopa,0231 DOS RIOS,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0231 DOS RIOS,Ballots Cast - Green,,GRN,,,1,1,0,0
-Maricopa,0231 DOS RIOS,U.S. Senate,,REP,1,Kari LAKE,65,,11,0
-Maricopa,0231 DOS RIOS,U.S. Senate,,REP,1,Mark LAMB,22,,3,0
+Maricopa,0231 DOS RIOS,U.S. Senate,,REP,1,Kari LAKE,65,54,11,0
+Maricopa,0231 DOS RIOS,U.S. Senate,,REP,1,Mark LAMB,22,19,3,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,REP,1,Elizabeth Jean REYE,5,5,0,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,REP,1,Total Votes Cast,92,78,14,0
@@ -7381,8 +7381,8 @@ Maricopa,0231 DOS RIOS,U.S. Senate,,DEM,1,Write-In Totals,5,5,0,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,DEM,1,Total Votes Cast,220,206,14,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,DEM,1,Undervotes,1,1,0,0
-Maricopa,0231 DOS RIOS,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0231 DOS RIOS,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0231 DOS RIOS,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0231 DOS RIOS,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0231 DOS RIOS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -7573,8 +7573,8 @@ Maricopa,0237 DREAMY DRAW,U.S. Senate,,DEM,1,Write-In Totals,2,2,0,0
 Maricopa,0237 DREAMY DRAW,U.S. Senate,,DEM,1,Total Votes Cast,416,388,28,0
 Maricopa,0237 DREAMY DRAW,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0237 DREAMY DRAW,U.S. Senate,,DEM,1,Undervotes,15,15,0,0
-Maricopa,0237 DREAMY DRAW,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0237 DREAMY DRAW,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0237 DREAMY DRAW,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0237 DREAMY DRAW,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0237 DREAMY DRAW,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0237 DREAMY DRAW,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0237 DREAMY DRAW,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -7957,8 +7957,8 @@ Maricopa,0249 EASTRIDGE,U.S. Senate,,DEM,1,Write-In Totals,8,8,0,0
 Maricopa,0249 EASTRIDGE,U.S. Senate,,DEM,1,Total Votes Cast,255,235,20,0
 Maricopa,0249 EASTRIDGE,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0249 EASTRIDGE,U.S. Senate,,DEM,1,Undervotes,6,6,0,0
-Maricopa,0249 EASTRIDGE,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0249 EASTRIDGE,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0249 EASTRIDGE,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0249 EASTRIDGE,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0249 EASTRIDGE,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0249 EASTRIDGE,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0249 EASTRIDGE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
@@ -8153,8 +8153,8 @@ Maricopa,0255 EL MIRAGE,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
 Maricopa,0255 EL MIRAGE,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0255 EL MIRAGE,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0255 EL MIRAGE,U.S. Senate,,LBT,1,Undervotes,,,0,0
-Maricopa,0255 EL MIRAGE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0255 EL MIRAGE,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0255 EL MIRAGE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0255 EL MIRAGE,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0255 EL MIRAGE,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0255 EL MIRAGE,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0255 EL MIRAGE,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -8341,8 +8341,8 @@ Maricopa,0261 ENCANTO,U.S. Senate,,DEM,1,Write-In Totals,6,5,1,
 Maricopa,0261 ENCANTO,U.S. Senate,,DEM,1,Total Votes Cast,879,829,49,
 Maricopa,0261 ENCANTO,U.S. Senate,,DEM,1,Overvotes,0,0,0,
 Maricopa,0261 ENCANTO,U.S. Senate,,DEM,1,Undervotes,25,20,5,
-Maricopa,0261 ENCANTO,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0261 ENCANTO,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0261 ENCANTO,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0261 ENCANTO,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0261 ENCANTO,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0261 ENCANTO,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0261 ENCANTO,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -8521,8 +8521,8 @@ Maricopa,0267 ESCOBAR,Ballots Cast - Republican,,REP,,,143,111,32,0
 Maricopa,0267 ESCOBAR,Ballots Cast - Democratic,,DEM,,,112,106,6,0
 Maricopa,0267 ESCOBAR,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0267 ESCOBAR,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0267 ESCOBAR,U.S. Senate,,REP,1,Kari LAKE,92,,21,0
-Maricopa,0267 ESCOBAR,U.S. Senate,,REP,1,Mark LAMB,43,,10,0
+Maricopa,0267 ESCOBAR,U.S. Senate,,REP,1,Kari LAKE,92,71,21,0
+Maricopa,0267 ESCOBAR,U.S. Senate,,REP,1,Mark LAMB,43,33,10,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,REP,1,Elizabeth Jean REYE,5,5,0,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,REP,1,Write-In Totals,1,1,0,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,REP,1,Total Votes Cast,141,110,31,0
@@ -8533,12 +8533,12 @@ Maricopa,0267 ESCOBAR,U.S. Senate,,DEM,1,Write-In Totals,0,0,,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,DEM,1,Total Votes Cast,109,103,,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,DEM,1,Undervotes,3,3,,0
-Maricopa,0267 ESCOBAR,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0267 ESCOBAR,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0267 ESCOBAR,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0267 ESCOBAR,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
-Maricopa,0267 ESCOBAR,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0267 ESCOBAR,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0267 ESCOBAR,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0267 ESCOBAR,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0267 ESCOBAR,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -9097,8 +9097,8 @@ Maricopa,0285 FLYNN,Ballots Cast - Republican,,REP,,,105,88,16,1
 Maricopa,0285 FLYNN,Ballots Cast - Democratic,,DEM,,,192,170,21,1
 Maricopa,0285 FLYNN,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0285 FLYNN,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0285 FLYNN,U.S. Senate,,REP,1,Kari LAKE,66,,11,
-Maricopa,0285 FLYNN,U.S. Senate,,REP,1,Mark LAMB,31,,4,
+Maricopa,0285 FLYNN,U.S. Senate,,REP,1,Kari LAKE,66,54,11,
+Maricopa,0285 FLYNN,U.S. Senate,,REP,1,Mark LAMB,31,27,4,
 Maricopa,0285 FLYNN,U.S. Senate,,REP,1,Elizabeth Jean REYE,7,6,1,
 Maricopa,0285 FLYNN,U.S. Senate,,REP,1,Write-In Totals,1,1,0,
 Maricopa,0285 FLYNN,U.S. Senate,,REP,1,Total Votes Cast,105,88,16,
@@ -9109,8 +9109,8 @@ Maricopa,0285 FLYNN,U.S. Senate,,DEM,1,Write-In Totals,1,0,1,
 Maricopa,0285 FLYNN,U.S. Senate,,DEM,1,Total Votes Cast,185,164,20,
 Maricopa,0285 FLYNN,U.S. Senate,,DEM,1,Overvotes,0,0,0,
 Maricopa,0285 FLYNN,U.S. Senate,,DEM,1,Undervotes,7,6,1,
-Maricopa,0285 FLYNN,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0285 FLYNN,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0285 FLYNN,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0285 FLYNN,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0285 FLYNN,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0285 FLYNN,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0285 FLYNN,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -10441,8 +10441,8 @@ Maricopa,0327 GOODYEAR,Ballots Cast - Republican,,REP,,,134,117,17,0
 Maricopa,0327 GOODYEAR,Ballots Cast - Democratic,,DEM,,,137,127,10,0
 Maricopa,0327 GOODYEAR,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0327 GOODYEAR,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0327 GOODYEAR,U.S. Senate,,REP,1,Kari LAKE,76,,13,0
-Maricopa,0327 GOODYEAR,U.S. Senate,,REP,1,Mark LAMB,48,,4,0
+Maricopa,0327 GOODYEAR,U.S. Senate,,REP,1,Kari LAKE,76,63,13,0
+Maricopa,0327 GOODYEAR,U.S. Senate,,REP,1,Mark LAMB,48,44,4,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,REP,1,Elizabeth Jean REYE,7,7,0,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,REP,1,Total Votes Cast,131,114,17,0
@@ -10453,8 +10453,8 @@ Maricopa,0327 GOODYEAR,U.S. Senate,,DEM,1,Write-In Totals,1,1,,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,DEM,1,Total Votes Cast,129,119,,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,DEM,1,Undervotes,8,8,,0
-Maricopa,0327 GOODYEAR,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0327 GOODYEAR,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0327 GOODYEAR,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0327 GOODYEAR,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0327 GOODYEAR,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -10633,20 +10633,20 @@ Maricopa,0333 GRAYSON,Ballots Cast - Republican,,REP,,,37,36,1,0
 Maricopa,0333 GRAYSON,Ballots Cast - Democratic,,DEM,,,37,35,2,0
 Maricopa,0333 GRAYSON,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0333 GRAYSON,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Kari LAKE,24,,,0
-Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Mark LAMB,12,,,0
+Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Kari LAKE,24,23,,0
+Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Mark LAMB,12,12,,0
 Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Elizabeth Jean REYE,1,1,,0
 Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Write-In Totals,0,0,,0
 Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Total Votes Cast,37,36,,0
 Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Overvotes,0,0,,0
 Maricopa,0333 GRAYSON,U.S. Senate,,REP,1,Undervotes,0,0,,0
-Maricopa,0333 GRAYSON,U.S. Senate,,DEM,1,Ruben GALLEGO,34,,,0
-Maricopa,0333 GRAYSON,U.S. Senate,,DEM,1,Write-In Totals,1,,,0
-Maricopa,0333 GRAYSON,U.S. Senate,,DEM,1,Total Votes Cast,35,,,0
+Maricopa,0333 GRAYSON,U.S. Senate,,DEM,1,Ruben GALLEGO,34,32,,0
+Maricopa,0333 GRAYSON,U.S. Senate,,DEM,1,Write-In Totals,1,1,,0
+Maricopa,0333 GRAYSON,U.S. Senate,,DEM,1,Total Votes Cast,35,33,,0
 Maricopa,0333 GRAYSON,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0333 GRAYSON,U.S. Senate,,DEM,1,Undervotes,2,2,,0
-Maricopa,0333 GRAYSON,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0333 GRAYSON,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0333 GRAYSON,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0333 GRAYSON,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0333 GRAYSON,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0333 GRAYSON,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0333 GRAYSON,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -11017,8 +11017,8 @@ Maricopa,0345 HADLEY,Ballots Cast - Republican,,REP,,,132,108,24,0
 Maricopa,0345 HADLEY,Ballots Cast - Democratic,,DEM,,,318,301,17,0
 Maricopa,0345 HADLEY,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0345 HADLEY,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0345 HADLEY,U.S. Senate,,REP,1,Kari LAKE,65,,15,0
-Maricopa,0345 HADLEY,U.S. Senate,,REP,1,Mark LAMB,53,,8,0
+Maricopa,0345 HADLEY,U.S. Senate,,REP,1,Kari LAKE,65,50,15,0
+Maricopa,0345 HADLEY,U.S. Senate,,REP,1,Mark LAMB,53,45,8,0
 Maricopa,0345 HADLEY,U.S. Senate,,REP,1,Elizabeth Jean REYE,13,12,1,0
 Maricopa,0345 HADLEY,U.S. Senate,,REP,1,Write-In Totals,1,1,0,0
 Maricopa,0345 HADLEY,U.S. Senate,,REP,1,Total Votes Cast,132,108,24,0
@@ -11593,8 +11593,8 @@ Maricopa,0363 HERMOSA,Ballots Cast - Republican,,REP,,,104,83,21,0
 Maricopa,0363 HERMOSA,Ballots Cast - Democratic,,DEM,,,627,561,66,0
 Maricopa,0363 HERMOSA,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0363 HERMOSA,Ballots Cast - Green,,GRN,,,2,2,0,0
-Maricopa,0363 HERMOSA,U.S. Senate,,REP,1,Kari LAKE,51,,11,0
-Maricopa,0363 HERMOSA,U.S. Senate,,REP,1,Mark LAMB,40,,9,0
+Maricopa,0363 HERMOSA,U.S. Senate,,REP,1,Kari LAKE,51,40,11,0
+Maricopa,0363 HERMOSA,U.S. Senate,,REP,1,Mark LAMB,40,31,9,0
 Maricopa,0363 HERMOSA,U.S. Senate,,REP,1,Elizabeth Jean REYE,9,8,1,0
 Maricopa,0363 HERMOSA,U.S. Senate,,REP,1,Write-In Totals,1,1,0,0
 Maricopa,0363 HERMOSA,U.S. Senate,,REP,1,Total Votes Cast,101,80,21,0
@@ -11605,8 +11605,8 @@ Maricopa,0363 HERMOSA,U.S. Senate,,DEM,1,Write-In Totals,4,3,1,0
 Maricopa,0363 HERMOSA,U.S. Senate,,DEM,1,Total Votes Cast,607,547,60,0
 Maricopa,0363 HERMOSA,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0363 HERMOSA,U.S. Senate,,DEM,1,Undervotes,20,14,6,0
-Maricopa,0363 HERMOSA,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0363 HERMOSA,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0363 HERMOSA,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0363 HERMOSA,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0363 HERMOSA,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0363 HERMOSA,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0363 HERMOSA,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -12169,8 +12169,8 @@ Maricopa,0381 HOLMES,Ballots Cast - Republican,,REP,,,116,100,16,0
 Maricopa,0381 HOLMES,Ballots Cast - Democratic,,DEM,,,344,313,31,0
 Maricopa,0381 HOLMES,Ballots Cast - Libertarian,,LBT,,,1,0,1,0
 Maricopa,0381 HOLMES,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0381 HOLMES,U.S. Senate,,REP,1,Kari LAKE,81,,13,0
-Maricopa,0381 HOLMES,U.S. Senate,,REP,1,Mark LAMB,32,,3,0
+Maricopa,0381 HOLMES,U.S. Senate,,REP,1,Kari LAKE,81,68,13,0
+Maricopa,0381 HOLMES,U.S. Senate,,REP,1,Mark LAMB,32,29,3,0
 Maricopa,0381 HOLMES,U.S. Senate,,REP,1,Elizabeth Jean REYE,3,3,0,0
 Maricopa,0381 HOLMES,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0381 HOLMES,U.S. Senate,,REP,1,Total Votes Cast,116,100,16,0
@@ -12181,8 +12181,8 @@ Maricopa,0381 HOLMES,U.S. Senate,,DEM,1,Write-In Totals,7,6,1,0
 Maricopa,0381 HOLMES,U.S. Senate,,DEM,1,Total Votes Cast,334,304,30,0
 Maricopa,0381 HOLMES,U.S. Senate,,DEM,1,Overvotes,1,1,0,0
 Maricopa,0381 HOLMES,U.S. Senate,,DEM,1,Undervotes,9,8,1,0
-Maricopa,0381 HOLMES,U.S. Senate,,LBT,1,Write-In Totals,,,,0
-Maricopa,0381 HOLMES,U.S. Senate,,LBT,1,Total Votes Cast,,,,0
+Maricopa,0381 HOLMES,U.S. Senate,,LBT,1,Write-In Totals,,0,,0
+Maricopa,0381 HOLMES,U.S. Senate,,LBT,1,Total Votes Cast,,0,,0
 Maricopa,0381 HOLMES,U.S. Senate,,LBT,1,Overvotes,,0,,0
 Maricopa,0381 HOLMES,U.S. Senate,,LBT,1,Undervotes,,0,,0
 Maricopa,0381 HOLMES,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -12757,8 +12757,8 @@ Maricopa,0399 JACKRABBIT,U.S. Senate,,DEM,1,Write-In Totals,1,1,0,0
 Maricopa,0399 JACKRABBIT,U.S. Senate,,DEM,1,Total Votes Cast,470,456,14,0
 Maricopa,0399 JACKRABBIT,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0399 JACKRABBIT,U.S. Senate,,DEM,1,Undervotes,16,14,2,0
-Maricopa,0399 JACKRABBIT,U.S. Senate,,LBT,1,Write-In Totals,,,,0
-Maricopa,0399 JACKRABBIT,U.S. Senate,,LBT,1,Total Votes Cast,,,,0
+Maricopa,0399 JACKRABBIT,U.S. Senate,,LBT,1,Write-In Totals,,0,,0
+Maricopa,0399 JACKRABBIT,U.S. Senate,,LBT,1,Total Votes Cast,,0,,0
 Maricopa,0399 JACKRABBIT,U.S. Senate,,LBT,1,Overvotes,,0,,0
 Maricopa,0399 JACKRABBIT,U.S. Senate,,LBT,1,Undervotes,,0,,0
 Maricopa,0399 JACKRABBIT,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -12944,17 +12944,17 @@ Maricopa,0405 JOMAX,U.S. Senate,,REP,1,Write-In Totals,,,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,REP,1,Total Votes Cast,,,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,REP,1,Overvotes,,,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,REP,1,Undervotes,,,0,0
-Maricopa,0405 JOMAX,U.S. Senate,,DEM,1,Ruben GALLEGO,0,,0,0
-Maricopa,0405 JOMAX,U.S. Senate,,DEM,1,Write-In Totals,0,,0,0
-Maricopa,0405 JOMAX,U.S. Senate,,DEM,1,Total Votes Cast,0,,0,0
+Maricopa,0405 JOMAX,U.S. Senate,,DEM,1,Ruben GALLEGO,0,0,0,0
+Maricopa,0405 JOMAX,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,0
+Maricopa,0405 JOMAX,U.S. Senate,,DEM,1,Total Votes Cast,0,0,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,DEM,1,Undervotes,0,0,0,0
-Maricopa,0405 JOMAX,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0405 JOMAX,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0405 JOMAX,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0405 JOMAX,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
-Maricopa,0405 JOMAX,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0405 JOMAX,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0405 JOMAX,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0405 JOMAX,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0405 JOMAX,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -13337,8 +13337,8 @@ Maricopa,0417 KEIM,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
 Maricopa,0417 KEIM,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0417 KEIM,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0417 KEIM,U.S. Senate,,LBT,1,Undervotes,,,0,0
-Maricopa,0417 KEIM,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0417 KEIM,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0417 KEIM,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0417 KEIM,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0417 KEIM,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0417 KEIM,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0417 KEIM,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -13525,8 +13525,8 @@ Maricopa,0423 KODIAK,U.S. Senate,,DEM,1,Write-In Totals,0,0,,0
 Maricopa,0423 KODIAK,U.S. Senate,,DEM,1,Total Votes Cast,217,210,,0
 Maricopa,0423 KODIAK,U.S. Senate,,DEM,1,Overvotes,1,1,,0
 Maricopa,0423 KODIAK,U.S. Senate,,DEM,1,Undervotes,5,4,,0
-Maricopa,0423 KODIAK,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0423 KODIAK,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0423 KODIAK,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0423 KODIAK,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0423 KODIAK,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0423 KODIAK,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0423 KODIAK,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -13717,8 +13717,8 @@ Maricopa,0429 LAKEVIEW,U.S. Senate,,DEM,1,Write-In Totals,0,0,,0
 Maricopa,0429 LAKEVIEW,U.S. Senate,,DEM,1,Total Votes Cast,242,236,,0
 Maricopa,0429 LAKEVIEW,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0429 LAKEVIEW,U.S. Senate,,DEM,1,Undervotes,6,4,,0
-Maricopa,0429 LAKEVIEW,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0429 LAKEVIEW,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0429 LAKEVIEW,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0429 LAKEVIEW,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0429 LAKEVIEW,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0429 LAKEVIEW,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0429 LAKEVIEW,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -13897,8 +13897,8 @@ Maricopa,0435 LARKSPUR,Ballots Cast - Republican,,REP,,,176,146,29,1
 Maricopa,0435 LARKSPUR,Ballots Cast - Democratic,,DEM,,,183,179,4,0
 Maricopa,0435 LARKSPUR,Ballots Cast - Libertarian,,LBT,,,2,2,0,0
 Maricopa,0435 LARKSPUR,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0435 LARKSPUR,U.S. Senate,,REP,1,Kari LAKE,98,,26,
-Maricopa,0435 LARKSPUR,U.S. Senate,,REP,1,Mark LAMB,61,,3,
+Maricopa,0435 LARKSPUR,U.S. Senate,,REP,1,Kari LAKE,98,71,26,
+Maricopa,0435 LARKSPUR,U.S. Senate,,REP,1,Mark LAMB,61,58,3,
 Maricopa,0435 LARKSPUR,U.S. Senate,,REP,1,Elizabeth Jean REYE,15,15,0,
 Maricopa,0435 LARKSPUR,U.S. Senate,,REP,1,Write-In Totals,0,0,0,
 Maricopa,0435 LARKSPUR,U.S. Senate,,REP,1,Total Votes Cast,174,144,29,
@@ -14089,8 +14089,8 @@ Maricopa,0441 LAVEEN,Ballots Cast - Republican,,REP,,,120,104,16,0
 Maricopa,0441 LAVEEN,Ballots Cast - Democratic,,DEM,,,346,323,23,0
 Maricopa,0441 LAVEEN,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0441 LAVEEN,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0441 LAVEEN,U.S. Senate,,REP,1,Kari LAKE,77,,11,0
-Maricopa,0441 LAVEEN,U.S. Senate,,REP,1,Mark LAMB,35,,5,0
+Maricopa,0441 LAVEEN,U.S. Senate,,REP,1,Kari LAKE,77,66,11,0
+Maricopa,0441 LAVEEN,U.S. Senate,,REP,1,Mark LAMB,35,30,5,0
 Maricopa,0441 LAVEEN,U.S. Senate,,REP,1,Elizabeth Jean REYE,4,4,0,0
 Maricopa,0441 LAVEEN,U.S. Senate,,REP,1,Write-In Totals,3,3,0,0
 Maricopa,0441 LAVEEN,U.S. Senate,,REP,1,Total Votes Cast,119,103,16,0
@@ -14281,8 +14281,8 @@ Maricopa,0447 LEWIS,Ballots Cast - Republican,,REP,,,43,36,7,0
 Maricopa,0447 LEWIS,Ballots Cast - Democratic,,DEM,,,162,144,16,2
 Maricopa,0447 LEWIS,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0447 LEWIS,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0447 LEWIS,U.S. Senate,,REP,1,Kari LAKE,27,,,0
-Maricopa,0447 LEWIS,U.S. Senate,,REP,1,Mark LAMB,12,,,0
+Maricopa,0447 LEWIS,U.S. Senate,,REP,1,Kari LAKE,27,22,,0
+Maricopa,0447 LEWIS,U.S. Senate,,REP,1,Mark LAMB,12,10,,0
 Maricopa,0447 LEWIS,U.S. Senate,,REP,1,Elizabeth Jean REYE,4,4,,0
 Maricopa,0447 LEWIS,U.S. Senate,,REP,1,Write-In Totals,0,0,,0
 Maricopa,0447 LEWIS,U.S. Senate,,REP,1,Total Votes Cast,43,36,,0
@@ -14293,8 +14293,8 @@ Maricopa,0447 LEWIS,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,
 Maricopa,0447 LEWIS,U.S. Senate,,DEM,1,Total Votes Cast,157,139,16,
 Maricopa,0447 LEWIS,U.S. Senate,,DEM,1,Overvotes,0,0,0,
 Maricopa,0447 LEWIS,U.S. Senate,,DEM,1,Undervotes,5,5,0,
-Maricopa,0447 LEWIS,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0447 LEWIS,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0447 LEWIS,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0447 LEWIS,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0447 LEWIS,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0447 LEWIS,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0447 LEWIS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -14473,8 +14473,8 @@ Maricopa,0453 LIONS,Ballots Cast - Republican,,REP,,,169,160,9,0
 Maricopa,0453 LIONS,Ballots Cast - Democratic,,DEM,,,155,151,4,0
 Maricopa,0453 LIONS,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0453 LIONS,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0453 LIONS,U.S. Senate,,REP,1,Kari LAKE,61,,,0
-Maricopa,0453 LIONS,U.S. Senate,,REP,1,Mark LAMB,92,,,0
+Maricopa,0453 LIONS,U.S. Senate,,REP,1,Kari LAKE,61,56,,0
+Maricopa,0453 LIONS,U.S. Senate,,REP,1,Mark LAMB,92,90,,0
 Maricopa,0453 LIONS,U.S. Senate,,REP,1,Elizabeth Jean REYE,13,11,,0
 Maricopa,0453 LIONS,U.S. Senate,,REP,1,Write-In Totals,1,1,,0
 Maricopa,0453 LIONS,U.S. Senate,,REP,1,Total Votes Cast,167,158,,0
@@ -14485,8 +14485,8 @@ Maricopa,0453 LIONS,U.S. Senate,,DEM,1,Write-In Totals,0,0,,0
 Maricopa,0453 LIONS,U.S. Senate,,DEM,1,Total Votes Cast,151,147,,0
 Maricopa,0453 LIONS,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0453 LIONS,U.S. Senate,,DEM,1,Undervotes,4,4,,0
-Maricopa,0453 LIONS,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0453 LIONS,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0453 LIONS,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0453 LIONS,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0453 LIONS,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0453 LIONS,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0453 LIONS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -15049,8 +15049,8 @@ Maricopa,0471 LOWELL,Ballots Cast - Republican,,REP,,,52,42,10,0
 Maricopa,0471 LOWELL,Ballots Cast - Democratic,,DEM,,,223,208,13,2
 Maricopa,0471 LOWELL,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0471 LOWELL,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0471 LOWELL,U.S. Senate,,REP,1,Kari LAKE,26,,,0
-Maricopa,0471 LOWELL,U.S. Senate,,REP,1,Mark LAMB,19,,,0
+Maricopa,0471 LOWELL,U.S. Senate,,REP,1,Kari LAKE,26,22,,0
+Maricopa,0471 LOWELL,U.S. Senate,,REP,1,Mark LAMB,19,14,,0
 Maricopa,0471 LOWELL,U.S. Senate,,REP,1,Elizabeth Jean REYE,5,4,,0
 Maricopa,0471 LOWELL,U.S. Senate,,REP,1,Write-In Totals,0,0,,0
 Maricopa,0471 LOWELL,U.S. Senate,,REP,1,Total Votes Cast,50,40,,0
@@ -15061,8 +15061,8 @@ Maricopa,0471 LOWELL,U.S. Senate,,DEM,1,Write-In Totals,2,1,1,
 Maricopa,0471 LOWELL,U.S. Senate,,DEM,1,Total Votes Cast,217,203,12,
 Maricopa,0471 LOWELL,U.S. Senate,,DEM,1,Overvotes,0,0,0,
 Maricopa,0471 LOWELL,U.S. Senate,,DEM,1,Undervotes,6,5,1,
-Maricopa,0471 LOWELL,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0471 LOWELL,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0471 LOWELL,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0471 LOWELL,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0471 LOWELL,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0471 LOWELL,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0471 LOWELL,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -15241,8 +15241,8 @@ Maricopa,0477 MADISON,Ballots Cast - Republican,,REP,,,127,112,15,0
 Maricopa,0477 MADISON,Ballots Cast - Democratic,,DEM,,,211,201,10,0
 Maricopa,0477 MADISON,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0477 MADISON,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0477 MADISON,U.S. Senate,,REP,1,Kari LAKE,70,,9,0
-Maricopa,0477 MADISON,U.S. Senate,,REP,1,Mark LAMB,42,,6,0
+Maricopa,0477 MADISON,U.S. Senate,,REP,1,Kari LAKE,70,61,9,0
+Maricopa,0477 MADISON,U.S. Senate,,REP,1,Mark LAMB,42,36,6,0
 Maricopa,0477 MADISON,U.S. Senate,,REP,1,Elizabeth Jean REYE,12,12,0,0
 Maricopa,0477 MADISON,U.S. Senate,,REP,1,Write-In Totals,1,1,0,0
 Maricopa,0477 MADISON,U.S. Senate,,REP,1,Total Votes Cast,125,110,15,0
@@ -15445,8 +15445,8 @@ Maricopa,0483 MAJESTY,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,0
 Maricopa,0483 MAJESTY,U.S. Senate,,DEM,1,Total Votes Cast,323,304,19,0
 Maricopa,0483 MAJESTY,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0483 MAJESTY,U.S. Senate,,DEM,1,Undervotes,7,7,0,0
-Maricopa,0483 MAJESTY,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0483 MAJESTY,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0483 MAJESTY,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0483 MAJESTY,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0483 MAJESTY,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0483 MAJESTY,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0483 MAJESTY,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -15815,20 +15815,20 @@ Maricopa,0495 MARTIN,Ballots Cast - Republican,,REP,,,205,151,53,1
 Maricopa,0495 MARTIN,Ballots Cast - Democratic,,DEM,,,89,82,7,0
 Maricopa,0495 MARTIN,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0495 MARTIN,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Kari LAKE,108,,30,
-Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Mark LAMB,91,,23,
+Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Kari LAKE,108,77,30,
+Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Mark LAMB,91,68,23,
 Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Elizabeth Jean REYE,5,5,0,
 Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Write-In Totals,0,0,0,
 Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Total Votes Cast,204,150,53,
 Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Overvotes,0,0,0,
 Maricopa,0495 MARTIN,U.S. Senate,,REP,1,Undervotes,1,1,0,
-Maricopa,0495 MARTIN,U.S. Senate,,DEM,1,Ruben GALLEGO,84,,,0
-Maricopa,0495 MARTIN,U.S. Senate,,DEM,1,Write-In Totals,2,,,0
-Maricopa,0495 MARTIN,U.S. Senate,,DEM,1,Total Votes Cast,86,,,0
+Maricopa,0495 MARTIN,U.S. Senate,,DEM,1,Ruben GALLEGO,84,79,,0
+Maricopa,0495 MARTIN,U.S. Senate,,DEM,1,Write-In Totals,2,2,,0
+Maricopa,0495 MARTIN,U.S. Senate,,DEM,1,Total Votes Cast,86,81,,0
 Maricopa,0495 MARTIN,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0495 MARTIN,U.S. Senate,,DEM,1,Undervotes,3,1,,0
-Maricopa,0495 MARTIN,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0495 MARTIN,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0495 MARTIN,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0495 MARTIN,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0495 MARTIN,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0495 MARTIN,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0495 MARTIN,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -16199,20 +16199,20 @@ Maricopa,0507 MEADOWBROOK,Ballots Cast - Republican,,REP,,,44,35,9,0
 Maricopa,0507 MEADOWBROOK,Ballots Cast - Democratic,,DEM,,,81,72,9,0
 Maricopa,0507 MEADOWBROOK,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0507 MEADOWBROOK,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Kari LAKE,24,,,0
-Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Mark LAMB,13,,,0
+Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Kari LAKE,24,16,,0
+Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Mark LAMB,13,12,,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Elizabeth Jean REYE,5,5,,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Write-In Totals,0,0,,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Total Votes Cast,42,33,,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Overvotes,0,0,,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,REP,1,Undervotes,2,2,,0
-Maricopa,0507 MEADOWBROOK,U.S. Senate,,DEM,1,Ruben GALLEGO,76,,,0
-Maricopa,0507 MEADOWBROOK,U.S. Senate,,DEM,1,Write-In Totals,1,,,0
-Maricopa,0507 MEADOWBROOK,U.S. Senate,,DEM,1,Total Votes Cast,77,,,0
+Maricopa,0507 MEADOWBROOK,U.S. Senate,,DEM,1,Ruben GALLEGO,76,67,,0
+Maricopa,0507 MEADOWBROOK,U.S. Senate,,DEM,1,Write-In Totals,1,1,,0
+Maricopa,0507 MEADOWBROOK,U.S. Senate,,DEM,1,Total Votes Cast,77,68,,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,DEM,1,Undervotes,4,4,,0
-Maricopa,0507 MEADOWBROOK,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0507 MEADOWBROOK,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0507 MEADOWBROOK,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0507 MEADOWBROOK,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0507 MEADOWBROOK,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -16967,8 +16967,8 @@ Maricopa,0531 MONTEBELLO,Ballots Cast - Republican,,REP,,,93,81,12,0
 Maricopa,0531 MONTEBELLO,Ballots Cast - Democratic,,DEM,,,219,201,17,1
 Maricopa,0531 MONTEBELLO,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0531 MONTEBELLO,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0531 MONTEBELLO,U.S. Senate,,REP,1,Kari LAKE,53,,10,0
-Maricopa,0531 MONTEBELLO,U.S. Senate,,REP,1,Mark LAMB,27,,2,0
+Maricopa,0531 MONTEBELLO,U.S. Senate,,REP,1,Kari LAKE,53,43,10,0
+Maricopa,0531 MONTEBELLO,U.S. Senate,,REP,1,Mark LAMB,27,25,2,0
 Maricopa,0531 MONTEBELLO,U.S. Senate,,REP,1,Elizabeth Jean REYE,9,9,0,0
 Maricopa,0531 MONTEBELLO,U.S. Senate,,REP,1,Write-In Totals,1,1,0,0
 Maricopa,0531 MONTEBELLO,U.S. Senate,,REP,1,Total Votes Cast,90,78,12,0
@@ -16979,8 +16979,8 @@ Maricopa,0531 MONTEBELLO,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,
 Maricopa,0531 MONTEBELLO,U.S. Senate,,DEM,1,Total Votes Cast,216,198,17,
 Maricopa,0531 MONTEBELLO,U.S. Senate,,DEM,1,Overvotes,0,0,0,
 Maricopa,0531 MONTEBELLO,U.S. Senate,,DEM,1,Undervotes,3,3,0,
-Maricopa,0531 MONTEBELLO,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0531 MONTEBELLO,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0531 MONTEBELLO,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0531 MONTEBELLO,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0531 MONTEBELLO,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0531 MONTEBELLO,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0531 MONTEBELLO,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -17559,8 +17559,8 @@ Maricopa,0549 NIGHTINGALE,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
 Maricopa,0549 NIGHTINGALE,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0549 NIGHTINGALE,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0549 NIGHTINGALE,U.S. Senate,,LBT,1,Undervotes,,,0,0
-Maricopa,0549 NIGHTINGALE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0549 NIGHTINGALE,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0549 NIGHTINGALE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0549 NIGHTINGALE,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0549 NIGHTINGALE,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0549 NIGHTINGALE,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0549 NIGHTINGALE,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -17735,24 +17735,24 @@ Maricopa,0555 NVP 1,Ballots Cast - Republican,,REP,,,0,0,0,0
 Maricopa,0555 NVP 1,Ballots Cast - Democratic,,DEM,,,0,0,0,0
 Maricopa,0555 NVP 1,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0555 NVP 1,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Kari LAKE,0,,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Mark LAMB,0,,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Kari LAKE,0,0,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Mark LAMB,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Elizabeth Jean REYE,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Total Votes Cast,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Overvotes,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,REP,1,Undervotes,0,0,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,DEM,1,Ruben GALLEGO,0,,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,DEM,1,Write-In Totals,0,,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,DEM,1,Total Votes Cast,0,,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,DEM,1,Ruben GALLEGO,0,0,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,DEM,1,Total Votes Cast,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,DEM,1,Undervotes,0,0,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0555 NVP 1,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0555 NVP 1,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0555 NVP 1,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -17934,17 +17934,17 @@ Maricopa,0561 NVP 15,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,REP,1,Total Votes Cast,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,REP,1,Overvotes,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,REP,1,Undervotes,0,0,0,0
-Maricopa,0561 NVP 15,U.S. Senate,,DEM,1,Ruben GALLEGO,0,,0,0
-Maricopa,0561 NVP 15,U.S. Senate,,DEM,1,Write-In Totals,0,,0,0
-Maricopa,0561 NVP 15,U.S. Senate,,DEM,1,Total Votes Cast,0,,0,0
+Maricopa,0561 NVP 15,U.S. Senate,,DEM,1,Ruben GALLEGO,0,0,0,0
+Maricopa,0561 NVP 15,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,0
+Maricopa,0561 NVP 15,U.S. Senate,,DEM,1,Total Votes Cast,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,DEM,1,Undervotes,0,0,0,0
-Maricopa,0561 NVP 15,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0561 NVP 15,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0561 NVP 15,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0561 NVP 15,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
-Maricopa,0561 NVP 15,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0561 NVP 15,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0561 NVP 15,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0561 NVP 15,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0561 NVP 15,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -18119,24 +18119,24 @@ Maricopa,0567 NVP 20,Ballots Cast - Republican,,REP,,,0,0,0,0
 Maricopa,0567 NVP 20,Ballots Cast - Democratic,,DEM,,,0,0,0,0
 Maricopa,0567 NVP 20,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0567 NVP 20,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Kari LAKE,0,,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Mark LAMB,0,,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Kari LAKE,0,0,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Mark LAMB,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Elizabeth Jean REYE,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Total Votes Cast,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Overvotes,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,REP,1,Undervotes,0,0,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,DEM,1,Ruben GALLEGO,0,,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,DEM,1,Write-In Totals,0,,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,DEM,1,Total Votes Cast,0,,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,DEM,1,Ruben GALLEGO,0,0,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,DEM,1,Total Votes Cast,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,DEM,1,Undervotes,0,0,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0567 NVP 20,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0567 NVP 20,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0567 NVP 20,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -18311,20 +18311,20 @@ Maricopa,0573 NVP 5,Ballots Cast - Republican,,REP,,,0,0,0,0
 Maricopa,0573 NVP 5,Ballots Cast - Democratic,,DEM,,,0,0,0,0
 Maricopa,0573 NVP 5,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0573 NVP 5,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Kari LAKE,0,,0,0
-Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Mark LAMB,0,,0,0
+Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Kari LAKE,0,0,0,0
+Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Mark LAMB,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Elizabeth Jean REYE,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Total Votes Cast,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Overvotes,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,REP,1,Undervotes,0,0,0,0
-Maricopa,0573 NVP 5,U.S. Senate,,DEM,1,Ruben GALLEGO,0,,0,0
-Maricopa,0573 NVP 5,U.S. Senate,,DEM,1,Write-In Totals,0,,0,0
-Maricopa,0573 NVP 5,U.S. Senate,,DEM,1,Total Votes Cast,0,,0,0
+Maricopa,0573 NVP 5,U.S. Senate,,DEM,1,Ruben GALLEGO,0,0,0,0
+Maricopa,0573 NVP 5,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,0
+Maricopa,0573 NVP 5,U.S. Senate,,DEM,1,Total Votes Cast,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,DEM,1,Undervotes,0,0,0,0
-Maricopa,0573 NVP 5,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0573 NVP 5,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0573 NVP 5,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0573 NVP 5,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0573 NVP 5,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -18503,7 +18503,7 @@ Maricopa,0579 OAKGROVE,Ballots Cast - Republican,,REP,,,263,221,42,0
 Maricopa,0579 OAKGROVE,Ballots Cast - Democratic,,DEM,,,293,274,19,0
 Maricopa,0579 OAKGROVE,Ballots Cast - Libertarian,,LBT,,,1,0,1,0
 Maricopa,0579 OAKGROVE,Ballots Cast - Green,,GRN,,,1,1,0,0
-Maricopa,0579 OAKGROVE,U.S. Senate,,REP,1,Kari LAKE,130,,31,0
+Maricopa,0579 OAKGROVE,U.S. Senate,,REP,1,Kari LAKE,130,99,31,0
 Maricopa,0579 OAKGROVE,U.S. Senate,,REP,1,Mark LAMB,,,,
 Maricopa,0579 OAKGROVE,U.S. Senate,,REP,1,Elizabeth Jean REYE,24,21,3,0
 Maricopa,0579 OAKGROVE,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
@@ -18515,8 +18515,8 @@ Maricopa,0579 OAKGROVE,U.S. Senate,,DEM,1,Write-In Totals,3,3,0,0
 Maricopa,0579 OAKGROVE,U.S. Senate,,DEM,1,Total Votes Cast,287,269,18,0
 Maricopa,0579 OAKGROVE,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0579 OAKGROVE,U.S. Senate,,DEM,1,Undervotes,6,5,1,0
-Maricopa,0579 OAKGROVE,U.S. Senate,,LBT,1,Write-In Totals,,,,0
-Maricopa,0579 OAKGROVE,U.S. Senate,,LBT,1,Total Votes Cast,,,,0
+Maricopa,0579 OAKGROVE,U.S. Senate,,LBT,1,Write-In Totals,,0,,0
+Maricopa,0579 OAKGROVE,U.S. Senate,,LBT,1,Total Votes Cast,,0,,0
 Maricopa,0579 OAKGROVE,U.S. Senate,,LBT,1,Overvotes,,0,,0
 Maricopa,0579 OAKGROVE,U.S. Senate,,LBT,1,Undervotes,,0,,0
 Maricopa,0579 OAKGROVE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -18611,8 +18611,8 @@ Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,DEM,1,Write-In Totals,6,4,2,
 Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,DEM,1,Total Votes Cast,803,782,20,
 Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,DEM,1,Overvotes,1,1,0,
 Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,DEM,1,Undervotes,8,8,0,
-Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Write-In Totals,,,0,
-Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Total Votes Cast,,,0,
+Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
+Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,LBT,1,Undervotes,,,0,0
 Maricopa,0582 OAKWOOD COUNTRY CLUB,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -19463,8 +19463,8 @@ Maricopa,0609 PALMER,Ballots Cast - Republican,,REP,,,153,122,29,2
 Maricopa,0609 PALMER,Ballots Cast - Democratic,,DEM,,,267,251,16,0
 Maricopa,0609 PALMER,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0609 PALMER,Ballots Cast - Green,,GRN,,,1,1,0,0
-Maricopa,0609 PALMER,U.S. Senate,,REP,1,Kari LAKE,77,,17,
-Maricopa,0609 PALMER,U.S. Senate,,REP,1,Mark LAMB,58,,12,
+Maricopa,0609 PALMER,U.S. Senate,,REP,1,Kari LAKE,77,59,17,
+Maricopa,0609 PALMER,U.S. Senate,,REP,1,Mark LAMB,58,45,12,
 Maricopa,0609 PALMER,U.S. Senate,,REP,1,Elizabeth Jean REYE,14,14,0,
 Maricopa,0609 PALMER,U.S. Senate,,REP,1,Write-In Totals,1,1,0,
 Maricopa,0609 PALMER,U.S. Senate,,REP,1,Total Votes Cast,150,119,29,
@@ -19655,8 +19655,8 @@ Maricopa,0615 PARADA,Ballots Cast - Republican,,REP,,,133,115,18,0
 Maricopa,0615 PARADA,Ballots Cast - Democratic,,DEM,,,577,533,43,1
 Maricopa,0615 PARADA,Ballots Cast - Libertarian,,LBT,,,2,2,0,0
 Maricopa,0615 PARADA,Ballots Cast - Green,,GRN,,,2,2,0,0
-Maricopa,0615 PARADA,U.S. Senate,,REP,1,Kari LAKE,71,,9,0
-Maricopa,0615 PARADA,U.S. Senate,,REP,1,Mark LAMB,46,,6,0
+Maricopa,0615 PARADA,U.S. Senate,,REP,1,Kari LAKE,71,62,9,0
+Maricopa,0615 PARADA,U.S. Senate,,REP,1,Mark LAMB,46,40,6,0
 Maricopa,0615 PARADA,U.S. Senate,,REP,1,Elizabeth Jean REYE,15,12,3,0
 Maricopa,0615 PARADA,U.S. Senate,,REP,1,Write-In Totals,1,1,0,0
 Maricopa,0615 PARADA,U.S. Senate,,REP,1,Total Votes Cast,133,115,18,0
@@ -20039,8 +20039,8 @@ Maricopa,0627 PECK,Ballots Cast - Republican,,REP,,,75,69,6,0
 Maricopa,0627 PECK,Ballots Cast - Democratic,,DEM,,,161,146,15,0
 Maricopa,0627 PECK,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0627 PECK,Ballots Cast - Green,,GRN,,,1,1,0,0
-Maricopa,0627 PECK,U.S. Senate,,REP,1,Kari LAKE,36,,,0
-Maricopa,0627 PECK,U.S. Senate,,REP,1,Mark LAMB,34,,,0
+Maricopa,0627 PECK,U.S. Senate,,REP,1,Kari LAKE,36,31,,0
+Maricopa,0627 PECK,U.S. Senate,,REP,1,Mark LAMB,34,33,,0
 Maricopa,0627 PECK,U.S. Senate,,REP,1,Elizabeth Jean REYE,4,4,,0
 Maricopa,0627 PECK,U.S. Senate,,REP,1,Write-In Totals,1,1,,0
 Maricopa,0627 PECK,U.S. Senate,,REP,1,Total Votes Cast,75,69,,0
@@ -20243,8 +20243,8 @@ Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,DEM,1,Write-In Totals,7,7,,
 Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,DEM,1,Total Votes Cast,231,223,,
 Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,DEM,1,Overvotes,0,0,,
 Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,DEM,1,Undervotes,3,3,,
-Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0633 PEORIA HEIGHTS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -20423,8 +20423,8 @@ Maricopa,0639 PIERCE,Ballots Cast - Republican,,REP,,,183,151,32,0
 Maricopa,0639 PIERCE,Ballots Cast - Democratic,,DEM,,,305,283,22,0
 Maricopa,0639 PIERCE,Ballots Cast - Libertarian,,LBT,,,2,1,1,0
 Maricopa,0639 PIERCE,Ballots Cast - Green,,GRN,,,2,2,0,0
-Maricopa,0639 PIERCE,U.S. Senate,,REP,1,Kari LAKE,93,,21,0
-Maricopa,0639 PIERCE,U.S. Senate,,REP,1,Mark LAMB,74,,9,0
+Maricopa,0639 PIERCE,U.S. Senate,,REP,1,Kari LAKE,93,72,21,0
+Maricopa,0639 PIERCE,U.S. Senate,,REP,1,Mark LAMB,74,65,9,0
 Maricopa,0639 PIERCE,U.S. Senate,,REP,1,Elizabeth Jean REYE,12,11,1,0
 Maricopa,0639 PIERCE,U.S. Senate,,REP,1,Write-In Totals,1,1,0,0
 Maricopa,0639 PIERCE,U.S. Senate,,REP,1,Total Votes Cast,180,149,31,0
@@ -20819,8 +20819,8 @@ Maricopa,0651 POINSETTIA,U.S. Senate,,DEM,1,Write-In Totals,0,0,,0
 Maricopa,0651 POINSETTIA,U.S. Senate,,DEM,1,Total Votes Cast,115,110,,0
 Maricopa,0651 POINSETTIA,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0651 POINSETTIA,U.S. Senate,,DEM,1,Undervotes,1,1,,0
-Maricopa,0651 POINSETTIA,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0651 POINSETTIA,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0651 POINSETTIA,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0651 POINSETTIA,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0651 POINSETTIA,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0651 POINSETTIA,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0651 POINSETTIA,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -21383,8 +21383,8 @@ Maricopa,0669 QUENTIN,Ballots Cast - Republican,,REP,,,115,94,21,0
 Maricopa,0669 QUENTIN,Ballots Cast - Democratic,,DEM,,,304,282,20,2
 Maricopa,0669 QUENTIN,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0669 QUENTIN,Ballots Cast - Green,,GRN,,,1,1,0,0
-Maricopa,0669 QUENTIN,U.S. Senate,,REP,1,Kari LAKE,71,,14,0
-Maricopa,0669 QUENTIN,U.S. Senate,,REP,1,Mark LAMB,32,,5,0
+Maricopa,0669 QUENTIN,U.S. Senate,,REP,1,Kari LAKE,71,57,14,0
+Maricopa,0669 QUENTIN,U.S. Senate,,REP,1,Mark LAMB,32,27,5,0
 Maricopa,0669 QUENTIN,U.S. Senate,,REP,1,Elizabeth Jean REYE,12,10,2,0
 Maricopa,0669 QUENTIN,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0669 QUENTIN,U.S. Senate,,REP,1,Total Votes Cast,115,94,21,0
@@ -21575,8 +21575,8 @@ Maricopa,0675 READE,Ballots Cast - Republican,,REP,,,122,104,18,0
 Maricopa,0675 READE,Ballots Cast - Democratic,,DEM,,,219,205,14,0
 Maricopa,0675 READE,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0675 READE,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0675 READE,U.S. Senate,,REP,1,Kari LAKE,61,,12,0
-Maricopa,0675 READE,U.S. Senate,,REP,1,Mark LAMB,43,,3,0
+Maricopa,0675 READE,U.S. Senate,,REP,1,Kari LAKE,61,49,12,0
+Maricopa,0675 READE,U.S. Senate,,REP,1,Mark LAMB,43,40,3,0
 Maricopa,0675 READE,U.S. Senate,,REP,1,Elizabeth Jean REYE,15,13,2,0
 Maricopa,0675 READE,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0675 READE,U.S. Senate,,REP,1,Total Votes Cast,119,102,17,0
@@ -21779,8 +21779,8 @@ Maricopa,0681 REEMS,U.S. Senate,,DEM,1,Write-In Totals,1,1,,
 Maricopa,0681 REEMS,U.S. Senate,,DEM,1,Total Votes Cast,289,280,,
 Maricopa,0681 REEMS,U.S. Senate,,DEM,1,Overvotes,0,0,,
 Maricopa,0681 REEMS,U.S. Senate,,DEM,1,Undervotes,5,5,,
-Maricopa,0681 REEMS,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0681 REEMS,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0681 REEMS,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0681 REEMS,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0681 REEMS,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0681 REEMS,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0681 REEMS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -22343,8 +22343,8 @@ Maricopa,0699 ROBBINS BUTTE,Ballots Cast - Republican,,REP,,,50,40,10,0
 Maricopa,0699 ROBBINS BUTTE,Ballots Cast - Democratic,,DEM,,,5,4,1,0
 Maricopa,0699 ROBBINS BUTTE,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0699 ROBBINS BUTTE,Ballots Cast - Green,,GRN,,,1,1,0,0
-Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,REP,1,Kari LAKE,37,,,0
-Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,REP,1,Mark LAMB,11,,,0
+Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,REP,1,Kari LAKE,37,29,,0
+Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,REP,1,Mark LAMB,11,9,,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,REP,1,Elizabeth Jean REYE,0,0,,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,REP,1,Write-In Totals,0,0,,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,REP,1,Total Votes Cast,48,38,,0
@@ -22355,8 +22355,8 @@ Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,DEM,1,Write-In Totals,,,,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,DEM,1,Total Votes Cast,,,,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,DEM,1,Overvotes,,,,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,DEM,1,Undervotes,,,,0
-Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0699 ROBBINS BUTTE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,,,0,0
@@ -22535,24 +22535,24 @@ Maricopa,0705 ROMA PARK,Ballots Cast - Republican,,REP,,,27,26,1,0
 Maricopa,0705 ROMA PARK,Ballots Cast - Democratic,,DEM,,,51,50,1,0
 Maricopa,0705 ROMA PARK,Ballots Cast - Libertarian,,LBT,,,1,1,0,0
 Maricopa,0705 ROMA PARK,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Kari LAKE,15,,,0
-Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Mark LAMB,10,,,0
+Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Kari LAKE,15,14,,0
+Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Mark LAMB,10,10,,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Elizabeth Jean REYE,0,0,,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Write-In Totals,0,0,,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Total Votes Cast,25,24,,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Overvotes,1,1,,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,REP,1,Undervotes,1,1,,0
-Maricopa,0705 ROMA PARK,U.S. Senate,,DEM,1,Ruben GALLEGO,48,,,0
-Maricopa,0705 ROMA PARK,U.S. Senate,,DEM,1,Write-In Totals,0,,,0
-Maricopa,0705 ROMA PARK,U.S. Senate,,DEM,1,Total Votes Cast,48,,,0
+Maricopa,0705 ROMA PARK,U.S. Senate,,DEM,1,Ruben GALLEGO,48,47,,0
+Maricopa,0705 ROMA PARK,U.S. Senate,,DEM,1,Write-In Totals,0,0,,0
+Maricopa,0705 ROMA PARK,U.S. Senate,,DEM,1,Total Votes Cast,48,47,,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,DEM,1,Undervotes,3,3,,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,LBT,1,Undervotes,,,0,0
-Maricopa,0705 ROMA PARK,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0705 ROMA PARK,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0705 ROMA PARK,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0705 ROMA PARK,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0705 ROMA PARK,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -22739,12 +22739,12 @@ Maricopa,0711 ROYAL OAK,U.S. Senate,,DEM,1,Write-In Totals,5,5,0,0
 Maricopa,0711 ROYAL OAK,U.S. Senate,,DEM,1,Total Votes Cast,598,582,16,0
 Maricopa,0711 ROYAL OAK,U.S. Senate,,DEM,1,Overvotes,2,2,0,0
 Maricopa,0711 ROYAL OAK,U.S. Senate,,DEM,1,Undervotes,7,7,0,0
-Maricopa,0711 ROYAL OAK,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0711 ROYAL OAK,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0711 ROYAL OAK,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0711 ROYAL OAK,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0711 ROYAL OAK,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0711 ROYAL OAK,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
-Maricopa,0711 ROYAL OAK,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0711 ROYAL OAK,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0711 ROYAL OAK,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0711 ROYAL OAK,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0711 ROYAL OAK,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0711 ROYAL OAK,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0711 ROYAL OAK,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -22935,8 +22935,8 @@ Maricopa,0717 SAHUARO RANCH,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
 Maricopa,0717 SAHUARO RANCH,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0717 SAHUARO RANCH,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0717 SAHUARO RANCH,U.S. Senate,,LBT,1,Undervotes,,,0,0
-Maricopa,0717 SAHUARO RANCH,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0717 SAHUARO RANCH,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0717 SAHUARO RANCH,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0717 SAHUARO RANCH,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0717 SAHUARO RANCH,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0717 SAHUARO RANCH,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0717 SAHUARO RANCH,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -23699,8 +23699,8 @@ Maricopa,0741 SENTINEL,U.S. Senate,,DEM,1,Write-In Totals,,,,0
 Maricopa,0741 SENTINEL,U.S. Senate,,DEM,1,Total Votes Cast,,,,0
 Maricopa,0741 SENTINEL,U.S. Senate,,DEM,1,Overvotes,,,,0
 Maricopa,0741 SENTINEL,U.S. Senate,,DEM,1,Undervotes,,,,0
-Maricopa,0741 SENTINEL,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0741 SENTINEL,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0741 SENTINEL,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0741 SENTINEL,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0741 SENTINEL,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0741 SENTINEL,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0741 SENTINEL,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -23879,8 +23879,8 @@ Maricopa,0747 SHALIMAR,Ballots Cast - Republican,,REP,,,227,189,38,0
 Maricopa,0747 SHALIMAR,Ballots Cast - Democratic,,DEM,,,294,273,21,0
 Maricopa,0747 SHALIMAR,Ballots Cast - Libertarian,,LBT,,,2,2,0,0
 Maricopa,0747 SHALIMAR,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0747 SHALIMAR,U.S. Senate,,REP,1,Kari LAKE,109,,23,0
-Maricopa,0747 SHALIMAR,U.S. Senate,,REP,1,Mark LAMB,89,,14,0
+Maricopa,0747 SHALIMAR,U.S. Senate,,REP,1,Kari LAKE,109,86,23,0
+Maricopa,0747 SHALIMAR,U.S. Senate,,REP,1,Mark LAMB,89,75,14,0
 Maricopa,0747 SHALIMAR,U.S. Senate,,REP,1,Elizabeth Jean REYE,25,24,1,0
 Maricopa,0747 SHALIMAR,U.S. Senate,,REP,1,Write-In Totals,2,2,0,0
 Maricopa,0747 SHALIMAR,U.S. Senate,,REP,1,Total Votes Cast,225,187,38,0
@@ -24467,8 +24467,8 @@ Maricopa,0765 SLEEPY RANCH,U.S. Senate,,DEM,1,Write-In Totals,3,3,,0
 Maricopa,0765 SLEEPY RANCH,U.S. Senate,,DEM,1,Total Votes Cast,310,302,,0
 Maricopa,0765 SLEEPY RANCH,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0765 SLEEPY RANCH,U.S. Senate,,DEM,1,Undervotes,4,3,,0
-Maricopa,0765 SLEEPY RANCH,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0765 SLEEPY RANCH,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0765 SLEEPY RANCH,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0765 SLEEPY RANCH,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0765 SLEEPY RANCH,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0765 SLEEPY RANCH,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0765 SLEEPY RANCH,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -24647,8 +24647,8 @@ Maricopa,0771 SOUTH MTN HIGH,Ballots Cast - Republican,,REP,,,92,77,15,0
 Maricopa,0771 SOUTH MTN HIGH,Ballots Cast - Democratic,,DEM,,,339,309,29,1
 Maricopa,0771 SOUTH MTN HIGH,Ballots Cast - Libertarian,,LBT,,,2,2,0,0
 Maricopa,0771 SOUTH MTN HIGH,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0771 SOUTH MTN HIGH,U.S. Senate,,REP,1,Kari LAKE,46,,6,0
-Maricopa,0771 SOUTH MTN HIGH,U.S. Senate,,REP,1,Mark LAMB,34,,9,0
+Maricopa,0771 SOUTH MTN HIGH,U.S. Senate,,REP,1,Kari LAKE,46,40,6,0
+Maricopa,0771 SOUTH MTN HIGH,U.S. Senate,,REP,1,Mark LAMB,34,25,9,0
 Maricopa,0771 SOUTH MTN HIGH,U.S. Senate,,REP,1,Elizabeth Jean REYE,10,10,0,0
 Maricopa,0771 SOUTH MTN HIGH,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0771 SOUTH MTN HIGH,U.S. Senate,,REP,1,Total Votes Cast,90,75,15,0
@@ -25223,8 +25223,8 @@ Maricopa,0789 STELLA,Ballots Cast - Republican,,REP,,,152,129,21,2
 Maricopa,0789 STELLA,Ballots Cast - Democratic,,DEM,,,255,230,23,2
 Maricopa,0789 STELLA,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0789 STELLA,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0789 STELLA,U.S. Senate,,REP,1,Kari LAKE,81,,12,
-Maricopa,0789 STELLA,U.S. Senate,,REP,1,Mark LAMB,58,,8,
+Maricopa,0789 STELLA,U.S. Senate,,REP,1,Kari LAKE,81,68,12,
+Maricopa,0789 STELLA,U.S. Senate,,REP,1,Mark LAMB,58,49,8,
 Maricopa,0789 STELLA,U.S. Senate,,REP,1,Elizabeth Jean REYE,13,12,1,
 Maricopa,0789 STELLA,U.S. Senate,,REP,1,Write-In Totals,0,0,0,
 Maricopa,0789 STELLA,U.S. Senate,,REP,1,Total Votes Cast,152,129,21,
@@ -25235,8 +25235,8 @@ Maricopa,0789 STELLA,U.S. Senate,,DEM,1,Write-In Totals,3,3,0,
 Maricopa,0789 STELLA,U.S. Senate,,DEM,1,Total Votes Cast,247,224,21,
 Maricopa,0789 STELLA,U.S. Senate,,DEM,1,Overvotes,0,0,0,
 Maricopa,0789 STELLA,U.S. Senate,,DEM,1,Undervotes,8,6,2,
-Maricopa,0789 STELLA,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0789 STELLA,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0789 STELLA,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0789 STELLA,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0789 STELLA,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0789 STELLA,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0789 STELLA,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -25427,8 +25427,8 @@ Maricopa,0795 SUMMERSTAR,U.S. Senate,,DEM,1,Write-In Totals,2,2,,0
 Maricopa,0795 SUMMERSTAR,U.S. Senate,,DEM,1,Total Votes Cast,283,276,,0
 Maricopa,0795 SUMMERSTAR,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0795 SUMMERSTAR,U.S. Senate,,DEM,1,Undervotes,7,7,,0
-Maricopa,0795 SUMMERSTAR,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0795 SUMMERSTAR,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0795 SUMMERSTAR,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0795 SUMMERSTAR,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0795 SUMMERSTAR,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0795 SUMMERSTAR,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0795 SUMMERSTAR,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -26373,8 +26373,8 @@ Maricopa,0825 TABLE MESA,Ballots Cast - Republican,,REP,,,17,16,1,0
 Maricopa,0825 TABLE MESA,Ballots Cast - Democratic,,DEM,,,1,1,0,0
 Maricopa,0825 TABLE MESA,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0825 TABLE MESA,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0825 TABLE MESA,U.S. Senate,,REP,1,Kari LAKE,9,,,0
-Maricopa,0825 TABLE MESA,U.S. Senate,,REP,1,Mark LAMB,8,,,0
+Maricopa,0825 TABLE MESA,U.S. Senate,,REP,1,Kari LAKE,9,8,,0
+Maricopa,0825 TABLE MESA,U.S. Senate,,REP,1,Mark LAMB,8,8,,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,REP,1,Elizabeth Jean REYE,0,0,,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,REP,1,Write-In Totals,0,0,,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,REP,1,Total Votes Cast,17,16,,0
@@ -26385,8 +26385,8 @@ Maricopa,0825 TABLE MESA,U.S. Senate,,DEM,1,Write-In Totals,,,0,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,DEM,1,Total Votes Cast,,,0,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,DEM,1,Overvotes,,,0,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,DEM,1,Undervotes,,,0,0
-Maricopa,0825 TABLE MESA,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0825 TABLE MESA,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0825 TABLE MESA,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0825 TABLE MESA,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0825 TABLE MESA,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -26565,8 +26565,8 @@ Maricopa,0831 THOMAS,Ballots Cast - Republican,,REP,,,131,117,14,0
 Maricopa,0831 THOMAS,Ballots Cast - Democratic,,DEM,,,169,158,11,0
 Maricopa,0831 THOMAS,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0831 THOMAS,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0831 THOMAS,U.S. Senate,,REP,1,Kari LAKE,68,,11,0
-Maricopa,0831 THOMAS,U.S. Senate,,REP,1,Mark LAMB,47,,2,0
+Maricopa,0831 THOMAS,U.S. Senate,,REP,1,Kari LAKE,68,57,11,0
+Maricopa,0831 THOMAS,U.S. Senate,,REP,1,Mark LAMB,47,45,2,0
 Maricopa,0831 THOMAS,U.S. Senate,,REP,1,Elizabeth Jean REYE,14,13,1,0
 Maricopa,0831 THOMAS,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0831 THOMAS,U.S. Senate,,REP,1,Total Votes Cast,129,115,14,0
@@ -26577,8 +26577,8 @@ Maricopa,0831 THOMAS,U.S. Senate,,DEM,1,Write-In Totals,3,3,0,0
 Maricopa,0831 THOMAS,U.S. Senate,,DEM,1,Total Votes Cast,168,157,11,0
 Maricopa,0831 THOMAS,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0831 THOMAS,U.S. Senate,,DEM,1,Undervotes,1,1,0,0
-Maricopa,0831 THOMAS,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0831 THOMAS,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0831 THOMAS,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0831 THOMAS,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0831 THOMAS,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0831 THOMAS,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0831 THOMAS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -27141,8 +27141,8 @@ Maricopa,0849 TRES RIOS,Ballots Cast - Republican,,REP,,,116,102,13,1
 Maricopa,0849 TRES RIOS,Ballots Cast - Democratic,,DEM,,,187,177,10,0
 Maricopa,0849 TRES RIOS,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0849 TRES RIOS,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0849 TRES RIOS,U.S. Senate,,REP,1,Kari LAKE,72,,12,
-Maricopa,0849 TRES RIOS,U.S. Senate,,REP,1,Mark LAMB,39,,1,
+Maricopa,0849 TRES RIOS,U.S. Senate,,REP,1,Kari LAKE,72,60,12,
+Maricopa,0849 TRES RIOS,U.S. Senate,,REP,1,Mark LAMB,39,38,1,
 Maricopa,0849 TRES RIOS,U.S. Senate,,REP,1,Elizabeth Jean REYE,4,3,0,
 Maricopa,0849 TRES RIOS,U.S. Senate,,REP,1,Write-In Totals,0,0,0,
 Maricopa,0849 TRES RIOS,U.S. Senate,,REP,1,Total Votes Cast,115,101,13,
@@ -27153,8 +27153,8 @@ Maricopa,0849 TRES RIOS,U.S. Senate,,DEM,1,Write-In Totals,1,0,,0
 Maricopa,0849 TRES RIOS,U.S. Senate,,DEM,1,Total Votes Cast,183,173,,0
 Maricopa,0849 TRES RIOS,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0849 TRES RIOS,U.S. Senate,,DEM,1,Undervotes,4,4,,0
-Maricopa,0849 TRES RIOS,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0849 TRES RIOS,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0849 TRES RIOS,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0849 TRES RIOS,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0849 TRES RIOS,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0849 TRES RIOS,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0849 TRES RIOS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
@@ -27333,8 +27333,8 @@ Maricopa,0855 TURF PARADISE,Ballots Cast - Republican,,REP,,,173,147,26,0
 Maricopa,0855 TURF PARADISE,Ballots Cast - Democratic,,DEM,,,196,187,9,0
 Maricopa,0855 TURF PARADISE,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0855 TURF PARADISE,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0855 TURF PARADISE,U.S. Senate,,REP,1,Kari LAKE,98,,16,0
-Maricopa,0855 TURF PARADISE,U.S. Senate,,REP,1,Mark LAMB,61,,8,0
+Maricopa,0855 TURF PARADISE,U.S. Senate,,REP,1,Kari LAKE,98,82,16,0
+Maricopa,0855 TURF PARADISE,U.S. Senate,,REP,1,Mark LAMB,61,53,8,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,REP,1,Elizabeth Jean REYE,12,10,2,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,REP,1,Total Votes Cast,171,145,26,0
@@ -27345,12 +27345,12 @@ Maricopa,0855 TURF PARADISE,U.S. Senate,,DEM,1,Write-In Totals,2,2,,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,DEM,1,Total Votes Cast,188,180,,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,DEM,1,Overvotes,0,0,,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,DEM,1,Undervotes,8,7,,0
-Maricopa,0855 TURF PARADISE,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0855 TURF PARADISE,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0855 TURF PARADISE,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0855 TURF PARADISE,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
-Maricopa,0855 TURF PARADISE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0855 TURF PARADISE,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0855 TURF PARADISE,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0855 TURF PARADISE,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0855 TURF PARADISE,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -27541,8 +27541,8 @@ Maricopa,0861 USERY PASS,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
 Maricopa,0861 USERY PASS,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0861 USERY PASS,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0861 USERY PASS,U.S. Senate,,LBT,1,Undervotes,,,0,0
-Maricopa,0861 USERY PASS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0861 USERY PASS,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0861 USERY PASS,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0861 USERY PASS,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0861 USERY PASS,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0861 USERY PASS,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0861 USERY PASS,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -27717,8 +27717,8 @@ Maricopa,0867 VELERO,Ballots Cast - Republican,,REP,,,239,219,20,0
 Maricopa,0867 VELERO,Ballots Cast - Democratic,,DEM,,,205,193,12,0
 Maricopa,0867 VELERO,Ballots Cast - Libertarian,,LBT,,,4,4,0,0
 Maricopa,0867 VELERO,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0867 VELERO,U.S. Senate,,REP,1,Kari LAKE,88,,8,0
-Maricopa,0867 VELERO,U.S. Senate,,REP,1,Mark LAMB,127,,11,0
+Maricopa,0867 VELERO,U.S. Senate,,REP,1,Kari LAKE,88,80,8,0
+Maricopa,0867 VELERO,U.S. Senate,,REP,1,Mark LAMB,127,116,11,0
 Maricopa,0867 VELERO,U.S. Senate,,REP,1,Elizabeth Jean REYE,17,17,0,0
 Maricopa,0867 VELERO,U.S. Senate,,REP,1,Write-In Totals,3,3,0,0
 Maricopa,0867 VELERO,U.S. Senate,,REP,1,Total Votes Cast,235,216,19,0
@@ -27733,8 +27733,8 @@ Maricopa,0867 VELERO,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
 Maricopa,0867 VELERO,U.S. Senate,,LBT,1,Total Votes Cast,,,0,0
 Maricopa,0867 VELERO,U.S. Senate,,LBT,1,Overvotes,,,0,0
 Maricopa,0867 VELERO,U.S. Senate,,LBT,1,Undervotes,,,0,0
-Maricopa,0867 VELERO,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,,0,0
-Maricopa,0867 VELERO,U.S. Senate,,GRN,1,Michael NORTON,0,,0,0
+Maricopa,0867 VELERO,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
+Maricopa,0867 VELERO,U.S. Senate,,GRN,1,Michael NORTON,0,0,0,0
 Maricopa,0867 VELERO,U.S. Senate,,GRN,1,Write-In Totals,0,0,0,0
 Maricopa,0867 VELERO,U.S. Senate,,GRN,1,Total Votes Cast,0,0,0,0
 Maricopa,0867 VELERO,U.S. Senate,,GRN,1,Overvotes,0,0,0,0
@@ -27909,8 +27909,8 @@ Maricopa,0873 VILLA DE PAZ,Ballots Cast - Republican,,REP,,,189,172,17,0
 Maricopa,0873 VILLA DE PAZ,Ballots Cast - Democratic,,DEM,,,237,216,21,0
 Maricopa,0873 VILLA DE PAZ,Ballots Cast - Libertarian,,LBT,,,0,0,0,0
 Maricopa,0873 VILLA DE PAZ,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0873 VILLA DE PAZ,U.S. Senate,,REP,1,Kari LAKE,106,,11,0
-Maricopa,0873 VILLA DE PAZ,U.S. Senate,,REP,1,Mark LAMB,72,,5,0
+Maricopa,0873 VILLA DE PAZ,U.S. Senate,,REP,1,Kari LAKE,106,95,11,0
+Maricopa,0873 VILLA DE PAZ,U.S. Senate,,REP,1,Mark LAMB,72,67,5,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,REP,1,Elizabeth Jean REYE,9,8,1,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,REP,1,Write-In Totals,1,1,0,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,REP,1,Total Votes Cast,188,171,17,0
@@ -27921,8 +27921,8 @@ Maricopa,0873 VILLA DE PAZ,U.S. Senate,,DEM,1,Write-In Totals,1,0,1,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,DEM,1,Total Votes Cast,234,213,21,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,DEM,1,Undervotes,3,3,0,0
-Maricopa,0873 VILLA DE PAZ,U.S. Senate,,LBT,1,Write-In Totals,0,,0,0
-Maricopa,0873 VILLA DE PAZ,U.S. Senate,,LBT,1,Total Votes Cast,0,,0,0
+Maricopa,0873 VILLA DE PAZ,U.S. Senate,,LBT,1,Write-In Totals,0,0,0,0
+Maricopa,0873 VILLA DE PAZ,U.S. Senate,,LBT,1,Total Votes Cast,0,0,0,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,LBT,1,Overvotes,0,0,0,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,LBT,1,Undervotes,0,0,0,0
 Maricopa,0873 VILLA DE PAZ,U.S. Senate,,GRN,1,Arturo HERNANDEZ,0,0,0,0
@@ -28293,8 +28293,8 @@ Maricopa,0885 WARNER,Ballots Cast - Republican,,REP,,,221,191,30,0
 Maricopa,0885 WARNER,Ballots Cast - Democratic,,DEM,,,316,291,25,0
 Maricopa,0885 WARNER,Ballots Cast - Libertarian,,LBT,,,2,2,0,0
 Maricopa,0885 WARNER,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0885 WARNER,U.S. Senate,,REP,1,Kari LAKE,117,,20,0
-Maricopa,0885 WARNER,U.S. Senate,,REP,1,Mark LAMB,88,,10,0
+Maricopa,0885 WARNER,U.S. Senate,,REP,1,Kari LAKE,117,97,20,0
+Maricopa,0885 WARNER,U.S. Senate,,REP,1,Mark LAMB,88,78,10,0
 Maricopa,0885 WARNER,U.S. Senate,,REP,1,Elizabeth Jean REYE,15,15,0,0
 Maricopa,0885 WARNER,U.S. Senate,,REP,1,Write-In Totals,0,0,0,0
 Maricopa,0885 WARNER,U.S. Senate,,REP,1,Total Votes Cast,220,190,30,0
@@ -28485,8 +28485,8 @@ Maricopa,0891 WEST PLAZA,Ballots Cast - Republican,,REP,,,71,64,7,0
 Maricopa,0891 WEST PLAZA,Ballots Cast - Democratic,,DEM,,,203,188,15,0
 Maricopa,0891 WEST PLAZA,Ballots Cast - Libertarian,,LBT,,,3,2,1,0
 Maricopa,0891 WEST PLAZA,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0891 WEST PLAZA,U.S. Senate,,REP,1,Kari LAKE,40,,,0
-Maricopa,0891 WEST PLAZA,U.S. Senate,,REP,1,Mark LAMB,20,,,0
+Maricopa,0891 WEST PLAZA,U.S. Senate,,REP,1,Kari LAKE,40,35,,0
+Maricopa,0891 WEST PLAZA,U.S. Senate,,REP,1,Mark LAMB,20,18,,0
 Maricopa,0891 WEST PLAZA,U.S. Senate,,REP,1,Elizabeth Jean REYE,9,9,,0
 Maricopa,0891 WEST PLAZA,U.S. Senate,,REP,1,Write-In Totals,2,2,,0
 Maricopa,0891 WEST PLAZA,U.S. Senate,,REP,1,Total Votes Cast,71,64,,0
@@ -28869,16 +28869,16 @@ Maricopa,0903 WHITE TANK,Ballots Cast - Republican,,REP,,,71,65,6,0
 Maricopa,0903 WHITE TANK,Ballots Cast - Democratic,,DEM,,,24,24,0,0
 Maricopa,0903 WHITE TANK,Ballots Cast - Libertarian,,LBT,,,3,3,0,0
 Maricopa,0903 WHITE TANK,Ballots Cast - Green,,GRN,,,0,0,0,0
-Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Kari LAKE,51,,,0
-Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Mark LAMB,15,,,0
+Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Kari LAKE,51,45,,0
+Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Mark LAMB,15,15,,0
 Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Elizabeth Jean REYE,4,4,,0
 Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Write-In Totals,1,1,,0
 Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Total Votes Cast,71,65,,0
 Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Overvotes,0,0,,0
 Maricopa,0903 WHITE TANK,U.S. Senate,,REP,1,Undervotes,0,0,,0
-Maricopa,0903 WHITE TANK,U.S. Senate,,DEM,1,Ruben GALLEGO,24,,0,0
-Maricopa,0903 WHITE TANK,U.S. Senate,,DEM,1,Write-In Totals,0,,0,0
-Maricopa,0903 WHITE TANK,U.S. Senate,,DEM,1,Total Votes Cast,24,,0,0
+Maricopa,0903 WHITE TANK,U.S. Senate,,DEM,1,Ruben GALLEGO,24,24,0,0
+Maricopa,0903 WHITE TANK,U.S. Senate,,DEM,1,Write-In Totals,0,0,0,0
+Maricopa,0903 WHITE TANK,U.S. Senate,,DEM,1,Total Votes Cast,24,24,0,0
 Maricopa,0903 WHITE TANK,U.S. Senate,,DEM,1,Overvotes,0,0,0,0
 Maricopa,0903 WHITE TANK,U.S. Senate,,DEM,1,Undervotes,0,0,0,0
 Maricopa,0903 WHITE TANK,U.S. Senate,,LBT,1,Write-In Totals,,,0,0
