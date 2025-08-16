@@ -1240,7 +1240,7 @@ Apache,11 Cottonwood,State Treasurer,,DEM,Martin Quezada,536,278,255,3
 Apache,12 Coronado,State Treasurer,,DEM,Martin Quezada,97,77,20,0
 Apache,13 Dennehotso,State Treasurer,,DEM,Martin Quezada,396,98,291,7
 Apache,16 Eagar,State Treasurer,,DEM,Martin Quezada,111,92,19,0
-Apache,17 Flat Top,State Treasurer,,DEM,Martin Quezada,66,66,66,66
+Apache,17 Flat Top,State Treasurer,,DEM,Martin Quezada,66,59,7,0
 Apache,19 Ft Defiance,State Treasurer,,DEM,Martin Quezada,1308,944,356,8
 Apache,22 Ganado North,State Treasurer,,DEM,Martin Quezada,276,172,103,1
 Apache,23 Ganado South,State Treasurer,,DEM,Martin Quezada,506,307,192,7
@@ -1284,7 +1284,7 @@ Apache,11 Cottonwood,State Treasurer,,REP,Kimberly Yee,93,42,45,6
 Apache,12 Coronado,State Treasurer,,REP,Kimberly Yee,627,382,244,1
 Apache,13 Dennehotso,State Treasurer,,REP,Kimberly Yee,102,25,75,2
 Apache,16 Eagar,State Treasurer,,REP,Kimberly Yee,712,486,225,1
-Apache,17 Flat Top,State Treasurer,,REP,Kimberly Yee,556,556,556,556
+Apache,17 Flat Top,State Treasurer,,REP,Kimberly Yee,556,306,249,1
 Apache,19 Ft Defiance,State Treasurer,,REP,Kimberly Yee,327,175,148,4
 Apache,22 Ganado North,State Treasurer,,REP,Kimberly Yee,39,18,20,1
 Apache,23 Ganado South,State Treasurer,,REP,Kimberly Yee,86,39,45,2
@@ -1328,7 +1328,7 @@ Apache,11 Cottonwood,State Treasurer,,,Write-ins,0,0,0,0
 Apache,12 Coronado,State Treasurer,,,Write-ins,0,0,0,0
 Apache,13 Dennehotso,State Treasurer,,,Write-ins,1,0,1,0
 Apache,16 Eagar,State Treasurer,,,Write-ins,1,1,0,0
-Apache,17 Flat Top,State Treasurer,,,Write-ins,2,2,2,2
+Apache,17 Flat Top,State Treasurer,,,Write-ins,2,2,0,0
 Apache,19 Ft Defiance,State Treasurer,,,Write-ins,3,2,1,0
 Apache,22 Ganado North,State Treasurer,,,Write-ins,1,0,1,0
 Apache,23 Ganado South,State Treasurer,,,Write-ins,4,3,1,0
@@ -1372,7 +1372,7 @@ Apache,11 Cottonwood,State Treasurer,,,Over Votes,0,0,0,0
 Apache,12 Coronado,State Treasurer,,,Over Votes,0,0,0,0
 Apache,13 Dennehotso,State Treasurer,,,Over Votes,0,0,0,0
 Apache,16 Eagar,State Treasurer,,,Over Votes,0,0,0,0
-Apache,17 Flat Top,State Treasurer,,,Over Votes,1,1,1,1
+Apache,17 Flat Top,State Treasurer,,,Over Votes,1,0,1,0
 Apache,19 Ft Defiance,State Treasurer,,,Over Votes,0,0,0,0
 Apache,22 Ganado North,State Treasurer,,,Over Votes,0,0,0,0
 Apache,23 Ganado South,State Treasurer,,,Over Votes,0,0,0,0
@@ -1416,7 +1416,7 @@ Apache,11 Cottonwood,State Treasurer,,,Under Votes,16,4,12,0
 Apache,12 Coronado,State Treasurer,,,Under Votes,15,9,6,0
 Apache,13 Dennehotso,State Treasurer,,,Under Votes,15,3,12,0
 Apache,16 Eagar,State Treasurer,,,Under Votes,28,21,7,0
-Apache,17 Flat Top,State Treasurer,,,Under Votes,21,21,21,21
+Apache,17 Flat Top,State Treasurer,,,Under Votes,21,14,7,0
 Apache,19 Ft Defiance,State Treasurer,,,Under Votes,29,13,16,0
 Apache,22 Ganado North,State Treasurer,,,Under Votes,7,4,3,0
 Apache,23 Ganado South,State Treasurer,,,Under Votes,9,5,4,0
