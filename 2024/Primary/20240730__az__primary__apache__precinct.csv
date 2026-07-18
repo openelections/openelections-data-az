@@ -181,9 +181,9 @@ Apache,02 ALPINE,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,02 ALPINE,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,02 ALPINE,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,02 ALPINE,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,02 ALPINE,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,02 ALPINE,,,1,NOL,Overvotes,0,0,0,0
-Apache,02 ALPINE,,,1,NOL,Undervotes,0,0,0,0
+Apache,02 ALPINE,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,02 ALPINE,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,02 ALPINE,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,03 CANYON DE CHELLY,Registered Voters - Total,,,,,3707,0,0,0
 Apache,03 CANYON DE CHELLY,Registered Voters - Democratic,,,DEM,,2150,0,0,0
 Apache,03 CANYON DE CHELLY,Registered Voters - Republican,,,REP,,393,0,0,0
@@ -366,9 +366,9 @@ Apache,03 CANYON DE CHELLY,Corporation Commissioner,,3,GRN,Write-In Totals,2,2,0
 Apache,03 CANYON DE CHELLY,Corporation Commissioner,,3,GRN,Total Votes Cast,2,2,0,0
 Apache,03 CANYON DE CHELLY,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,03 CANYON DE CHELLY,Corporation Commissioner,,3,GRN,Undervotes,1,1,0,0
-Apache,03 CANYON DE CHELLY,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,03 CANYON DE CHELLY,,,1,NOL,Overvotes,0,0,0,0
-Apache,03 CANYON DE CHELLY,,,1,NOL,Undervotes,1,0,1,0
+Apache,03 CANYON DE CHELLY,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,03 CANYON DE CHELLY,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,03 CANYON DE CHELLY,NOL Notice,,1,NOL,Undervotes,1,0,1,0
 Apache,05 CHINLE,Registered Voters - Total,,,,,1994,0,0,0
 Apache,05 CHINLE,Registered Voters - Democratic,,,DEM,,1097,0,0,0
 Apache,05 CHINLE,Registered Voters - Republican,,,REP,,217,0,0,0
@@ -551,9 +551,9 @@ Apache,05 CHINLE,Corporation Commissioner,,3,GRN,Write-In Totals,1,0,1,0
 Apache,05 CHINLE,Corporation Commissioner,,3,GRN,Total Votes Cast,1,0,1,0
 Apache,05 CHINLE,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,05 CHINLE,Corporation Commissioner,,3,GRN,Undervotes,2,0,2,0
-Apache,05 CHINLE,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,05 CHINLE,,,1,NOL,Overvotes,0,0,0,0
-Apache,05 CHINLE,,,1,NOL,Undervotes,1,0,1,0
+Apache,05 CHINLE,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,05 CHINLE,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,05 CHINLE,NOL Notice,,1,NOL,Undervotes,1,0,1,0
 Apache,09 CONCHO,Registered Voters - Total,,,,,2531,0,0,0
 Apache,09 CONCHO,Registered Voters - Democratic,,,DEM,,296,0,0,0
 Apache,09 CONCHO,Registered Voters - Republican,,,REP,,1414,0,0,0
@@ -736,9 +736,9 @@ Apache,09 CONCHO,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,09 CONCHO,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,09 CONCHO,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,09 CONCHO,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,09 CONCHO,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,09 CONCHO,,,1,NOL,Overvotes,0,0,0,0
-Apache,09 CONCHO,,,1,NOL,Undervotes,0,0,0,0
+Apache,09 CONCHO,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,09 CONCHO,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,09 CONCHO,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,10 CORNFIELDS,Registered Voters - Total,,,,,729,0,0,0
 Apache,10 CORNFIELDS,Registered Voters - Democratic,,,DEM,,518,0,0,0
 Apache,10 CORNFIELDS,Registered Voters - Republican,,,REP,,83,0,0,0
@@ -923,9 +923,9 @@ Apache,10 CORNFIELDS,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,10 CORNFIELDS,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,10 CORNFIELDS,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,10 CORNFIELDS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,10 CORNFIELDS,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,10 CORNFIELDS,,,1,NOL,Overvotes,0,0,0,0
-Apache,10 CORNFIELDS,,,1,NOL,Undervotes,1,0,1,0
+Apache,10 CORNFIELDS,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,10 CORNFIELDS,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,10 CORNFIELDS,NOL Notice,,1,NOL,Undervotes,1,0,1,0
 Apache,11 COTTONWOOD,Registered Voters - Total,,,,,1252,0,0,0
 Apache,11 COTTONWOOD,Registered Voters - Democratic,,,DEM,,814,0,0,0
 Apache,11 COTTONWOOD,Registered Voters - Republican,,,REP,,108,0,0,0
@@ -1110,9 +1110,9 @@ Apache,11 COTTONWOOD,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,11 COTTONWOOD,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,11 COTTONWOOD,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,11 COTTONWOOD,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,11 COTTONWOOD,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,11 COTTONWOOD,,,1,NOL,Overvotes,0,0,0,0
-Apache,11 COTTONWOOD,,,1,NOL,Undervotes,0,0,0,0
+Apache,11 COTTONWOOD,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,11 COTTONWOOD,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,11 COTTONWOOD,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,12 CORONADO,Registered Voters - Total,,,,,1217,0,0,0
 Apache,12 CORONADO,Registered Voters - Democratic,,,DEM,,175,0,0,0
 Apache,12 CORONADO,Registered Voters - Republican,,,REP,,638,0,0,0
@@ -1295,9 +1295,9 @@ Apache,12 CORONADO,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,12 CORONADO,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,12 CORONADO,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,12 CORONADO,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,12 CORONADO,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,12 CORONADO,,,1,NOL,Overvotes,0,0,0,0
-Apache,12 CORONADO,,,1,NOL,Undervotes,0,0,0,0
+Apache,12 CORONADO,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,12 CORONADO,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,12 CORONADO,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,12 CORONADO,Council Member,City of St. Johns,3,,"Elizabeth ""Lisa"" PAINTER",126,83,43,0
 Apache,12 CORONADO,Council Member,City of St. Johns,3,,Jill PATTERSON,186,109,77,0
 Apache,12 CORONADO,Council Member,City of St. Johns,3,,Spence UDALL,192,114,78,0
@@ -1493,9 +1493,9 @@ Apache,13 DENNEHOTSO,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,13 DENNEHOTSO,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,13 DENNEHOTSO,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,13 DENNEHOTSO,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,13 DENNEHOTSO,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,13 DENNEHOTSO,,,1,NOL,Overvotes,0,0,0,0
-Apache,13 DENNEHOTSO,,,1,NOL,Undervotes,0,0,0,0
+Apache,13 DENNEHOTSO,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,13 DENNEHOTSO,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,13 DENNEHOTSO,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,16 EAGAR,Registered Voters - Total,,,,,1206,0,0,0
 Apache,16 EAGAR,Registered Voters - Democratic,,,DEM,,151,0,0,0
 Apache,16 EAGAR,Registered Voters - Republican,,,REP,,729,0,0,0
@@ -1678,9 +1678,9 @@ Apache,16 EAGAR,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,16 EAGAR,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,16 EAGAR,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,16 EAGAR,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,16 EAGAR,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,16 EAGAR,,,1,NOL,Overvotes,0,0,0,0
-Apache,16 EAGAR,,,1,NOL,Undervotes,1,1,0,0
+Apache,16 EAGAR,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,16 EAGAR,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,16 EAGAR,NOL Notice,,1,NOL,Undervotes,1,1,0,0
 Apache,16 EAGAR,Mayor,Town of Eager,1,,Guy PHELPS,421,317,92,12
 Apache,16 EAGAR,Mayor,Town of Eager,1,,Write-In Totals,4,4,0,0
 Apache,16 EAGAR,Mayor,Town of Eager,1,,Total Votes Cast,425,321,92,12
@@ -1875,9 +1875,9 @@ Apache,17 FLAT TOP,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,17 FLAT TOP,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,17 FLAT TOP,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,17 FLAT TOP,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,17 FLAT TOP,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,17 FLAT TOP,,,1,NOL,Overvotes,0,0,0,0
-Apache,17 FLAT TOP,,,1,NOL,Undervotes,1,1,0,0
+Apache,17 FLAT TOP,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,17 FLAT TOP,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,17 FLAT TOP,NOL Notice,,1,NOL,Undervotes,1,1,0,0
 Apache,17 FLAT TOP,Mayor,Town of Eager,1,,Guy PHELPS,296,204,88,4
 Apache,17 FLAT TOP,Mayor,Town of Eager,1,,Write-In Totals,7,5,2,0
 Apache,17 FLAT TOP,Mayor,Town of Eager,1,,Total Votes Cast,303,209,90,4
@@ -2081,9 +2081,9 @@ Apache,19 FT. DEFIANCE,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,19 FT. DEFIANCE,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,19 FT. DEFIANCE,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,19 FT. DEFIANCE,,,1,NOL,Overvotes,0,0,0,0
-Apache,19 FT. DEFIANCE,,,1,NOL,Undervotes,0,0,0,0
+Apache,19 FT. DEFIANCE,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,19 FT. DEFIANCE,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,19 FT. DEFIANCE,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,22 GANADO NORTH,Registered Voters - Total,,,,,737,0,0,0
 Apache,22 GANADO NORTH,Registered Voters - Democratic,,,DEM,,490,0,0,0
 Apache,22 GANADO NORTH,Registered Voters - Republican,,,REP,,75,0,0,0
@@ -2268,9 +2268,9 @@ Apache,22 GANADO NORTH,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,22 GANADO NORTH,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,22 GANADO NORTH,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,22 GANADO NORTH,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,22 GANADO NORTH,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,22 GANADO NORTH,,,1,NOL,Overvotes,0,0,0,0
-Apache,22 GANADO NORTH,,,1,NOL,Undervotes,0,0,0,0
+Apache,22 GANADO NORTH,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,22 GANADO NORTH,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,22 GANADO NORTH,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,23 GANADO SOUTH,Registered Voters - Total,,,,,1302,0,0,0
 Apache,23 GANADO SOUTH,Registered Voters - Democratic,,,DEM,,833,0,0,0
 Apache,23 GANADO SOUTH,Registered Voters - Republican,,,REP,,163,0,0,0
@@ -2455,9 +2455,9 @@ Apache,23 GANADO SOUTH,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,23 GANADO SOUTH,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,23 GANADO SOUTH,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,23 GANADO SOUTH,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,23 GANADO SOUTH,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,23 GANADO SOUTH,,,1,NOL,Overvotes,0,0,0,0
-Apache,23 GANADO SOUTH,,,1,NOL,Undervotes,0,0,0,0
+Apache,23 GANADO SOUTH,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,23 GANADO SOUTH,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,23 GANADO SOUTH,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,25 GREER,Registered Voters - Total,,,,,129,0,0,0
 Apache,25 GREER,Registered Voters - Democratic,,,DEM,,27,0,0,0
 Apache,25 GREER,Registered Voters - Republican,,,REP,,61,0,0,0
@@ -2640,9 +2640,9 @@ Apache,25 GREER,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,25 GREER,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,25 GREER,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,25 GREER,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,25 GREER,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,25 GREER,,,1,NOL,Overvotes,0,0,0,0
-Apache,25 GREER,,,1,NOL,Undervotes,0,0,0,0
+Apache,25 GREER,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,25 GREER,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,25 GREER,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,27 HOUCK,Registered Voters - Total,,,,,1047,0,0,0
 Apache,27 HOUCK,Registered Voters - Democratic,,,DEM,,646,0,0,0
 Apache,27 HOUCK,Registered Voters - Republican,,,REP,,143,0,0,0
@@ -2827,9 +2827,9 @@ Apache,27 HOUCK,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,27 HOUCK,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,27 HOUCK,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,27 HOUCK,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,27 HOUCK,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,27 HOUCK,,,1,NOL,Overvotes,0,0,0,0
-Apache,27 HOUCK,,,1,NOL,Undervotes,1,0,1,0
+Apache,27 HOUCK,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,27 HOUCK,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,27 HOUCK,NOL Notice,,1,NOL,Undervotes,1,0,1,0
 Apache,29 KINLICHEE,Registered Voters - Total,,,,,965,0,0,0
 Apache,29 KINLICHEE,Registered Voters - Democratic,,,DEM,,676,0,0,0
 Apache,29 KINLICHEE,Registered Voters - Republican,,,REP,,93,0,0,0
@@ -3014,9 +3014,9 @@ Apache,29 KINLICHEE,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,29 KINLICHEE,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,29 KINLICHEE,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,29 KINLICHEE,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,29 KINLICHEE,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,29 KINLICHEE,,,1,NOL,Overvotes,0,0,0,0
-Apache,29 KINLICHEE,,,1,NOL,Undervotes,0,0,0,0
+Apache,29 KINLICHEE,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,29 KINLICHEE,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,29 KINLICHEE,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,31 KLAGETOH,Registered Voters - Total,,,,,818,0,0,0
 Apache,31 KLAGETOH,Registered Voters - Democratic,,,DEM,,554,0,0,0
 Apache,31 KLAGETOH,Registered Voters - Republican,,,REP,,89,0,0,0
@@ -3201,9 +3201,9 @@ Apache,31 KLAGETOH,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,31 KLAGETOH,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,31 KLAGETOH,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,31 KLAGETOH,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,31 KLAGETOH,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,31 KLAGETOH,,,1,NOL,Overvotes,0,0,0,0
-Apache,31 KLAGETOH,,,1,NOL,Undervotes,2,0,1,1
+Apache,31 KLAGETOH,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,31 KLAGETOH,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,31 KLAGETOH,NOL Notice,,1,NOL,Undervotes,2,0,1,1
 Apache,33 LUKACHUKAI,Registered Voters - Total,,,,,1800,0,0,0
 Apache,33 LUKACHUKAI,Registered Voters - Democratic,,,DEM,,1161,0,0,0
 Apache,33 LUKACHUKAI,Registered Voters - Republican,,,REP,,122,0,0,0
@@ -3386,9 +3386,9 @@ Apache,33 LUKACHUKAI,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,33 LUKACHUKAI,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,33 LUKACHUKAI,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,33 LUKACHUKAI,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,33 LUKACHUKAI,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,33 LUKACHUKAI,,,1,NOL,Overvotes,0,0,0,0
-Apache,33 LUKACHUKAI,,,1,NOL,Undervotes,1,0,1,0
+Apache,33 LUKACHUKAI,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,33 LUKACHUKAI,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,33 LUKACHUKAI,NOL Notice,,1,NOL,Undervotes,1,0,1,0
 Apache,35 LUPTON,Registered Voters - Total,,,,,594,0,0,0
 Apache,35 LUPTON,Registered Voters - Democratic,,,DEM,,396,0,0,0
 Apache,35 LUPTON,Registered Voters - Republican,,,REP,,86,0,0,0
@@ -3571,9 +3571,9 @@ Apache,35 LUPTON,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,35 LUPTON,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,35 LUPTON,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,35 LUPTON,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,35 LUPTON,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,35 LUPTON,,,1,NOL,Overvotes,0,0,0,0
-Apache,35 LUPTON,,,1,NOL,Undervotes,0,0,0,0
+Apache,35 LUPTON,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,35 LUPTON,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,35 LUPTON,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,37 MCNARY,Registered Voters - Total,,,,,226,0,0,0
 Apache,37 MCNARY,Registered Voters - Democratic,,,DEM,,107,0,0,0
 Apache,37 MCNARY,Registered Voters - Republican,,,REP,,27,0,0,0
@@ -3756,9 +3756,9 @@ Apache,37 MCNARY,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,37 MCNARY,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,37 MCNARY,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,37 MCNARY,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,37 MCNARY,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,37 MCNARY,,,1,NOL,Overvotes,0,0,0,0
-Apache,37 MCNARY,,,1,NOL,Undervotes,0,0,0,0
+Apache,37 MCNARY,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,37 MCNARY,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,37 MCNARY,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,39 MANY FARMS,Registered Voters - Total,,,,,1971,0,0,0
 Apache,39 MANY FARMS,Registered Voters - Democratic,,,DEM,,1234,0,0,0
 Apache,39 MANY FARMS,Registered Voters - Republican,,,REP,,153,0,0,0
@@ -3941,9 +3941,9 @@ Apache,39 MANY FARMS,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,39 MANY FARMS,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,39 MANY FARMS,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,39 MANY FARMS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,39 MANY FARMS,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,39 MANY FARMS,,,1,NOL,Overvotes,0,0,0,0
-Apache,39 MANY FARMS,,,1,NOL,Undervotes,0,0,0,0
+Apache,39 MANY FARMS,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,39 MANY FARMS,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,39 MANY FARMS,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,41 MEXICAN WATER,Registered Voters - Total,,,,,392,0,0,0
 Apache,41 MEXICAN WATER,Registered Voters - Democratic,,,DEM,,237,0,0,0
 Apache,41 MEXICAN WATER,Registered Voters - Republican,,,REP,,44,0,0,0
@@ -4126,9 +4126,9 @@ Apache,41 MEXICAN WATER,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,41 MEXICAN WATER,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,41 MEXICAN WATER,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,41 MEXICAN WATER,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,41 MEXICAN WATER,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,41 MEXICAN WATER,,,1,NOL,Overvotes,0,0,0,0
-Apache,41 MEXICAN WATER,,,1,NOL,Undervotes,0,0,0,0
+Apache,41 MEXICAN WATER,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,41 MEXICAN WATER,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,41 MEXICAN WATER,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,43 NAZLINI,Registered Voters - Total,,,,,1029,0,0,0
 Apache,43 NAZLINI,Registered Voters - Democratic,,,DEM,,679,0,0,0
 Apache,43 NAZLINI,Registered Voters - Republican,,,REP,,94,0,0,0
@@ -4313,9 +4313,9 @@ Apache,43 NAZLINI,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,43 NAZLINI,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,43 NAZLINI,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,43 NAZLINI,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,43 NAZLINI,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,43 NAZLINI,,,1,NOL,Overvotes,0,0,0,0
-Apache,43 NAZLINI,,,1,NOL,Undervotes,0,0,0,0
+Apache,43 NAZLINI,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,43 NAZLINI,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,43 NAZLINI,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,45 NUTRIOSO,Registered Voters - Total,,,,,365,0,0,0
 Apache,45 NUTRIOSO,Registered Voters - Democratic,,,DEM,,36,0,0,0
 Apache,45 NUTRIOSO,Registered Voters - Republican,,,REP,,222,0,0,0
@@ -4498,9 +4498,9 @@ Apache,45 NUTRIOSO,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,45 NUTRIOSO,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,45 NUTRIOSO,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,45 NUTRIOSO,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,45 NUTRIOSO,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,45 NUTRIOSO,,,1,NOL,Overvotes,0,0,0,0
-Apache,45 NUTRIOSO,,,1,NOL,Undervotes,0,0,0,0
+Apache,45 NUTRIOSO,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,45 NUTRIOSO,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,45 NUTRIOSO,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,46 OAK SPRINGS,Registered Voters - Total,,,,,472,0,0,0
 Apache,46 OAK SPRINGS,Registered Voters - Democratic,,,DEM,,330,0,0,0
 Apache,46 OAK SPRINGS,Registered Voters - Republican,,,REP,,53,0,0,0
@@ -4683,9 +4683,9 @@ Apache,46 OAK SPRINGS,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,46 OAK SPRINGS,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,46 OAK SPRINGS,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,46 OAK SPRINGS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,46 OAK SPRINGS,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,46 OAK SPRINGS,,,1,NOL,Overvotes,0,0,0,0
-Apache,46 OAK SPRINGS,,,1,NOL,Undervotes,1,0,1,0
+Apache,46 OAK SPRINGS,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,46 OAK SPRINGS,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,46 OAK SPRINGS,NOL Notice,,1,NOL,Undervotes,1,0,1,0
 Apache,48 PUERCO,Registered Voters - Total,,,,,1451,0,0,0
 Apache,48 PUERCO,Registered Voters - Democratic,,,DEM,,792,0,0,0
 Apache,48 PUERCO,Registered Voters - Republican,,,REP,,263,0,0,0
@@ -4868,9 +4868,9 @@ Apache,48 PUERCO,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,48 PUERCO,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,48 PUERCO,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,48 PUERCO,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,48 PUERCO,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,48 PUERCO,,,1,NOL,Overvotes,0,0,0,0
-Apache,48 PUERCO,,,1,NOL,Undervotes,0,0,0,0
+Apache,48 PUERCO,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,48 PUERCO,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,48 PUERCO,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,51 RED MESA,Registered Voters - Total,,,,,432,0,0,0
 Apache,51 RED MESA,Registered Voters - Democratic,,,DEM,,233,0,0,0
 Apache,51 RED MESA,Registered Voters - Republican,,,REP,,64,0,0,0
@@ -5053,9 +5053,9 @@ Apache,51 RED MESA,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,51 RED MESA,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,51 RED MESA,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,51 RED MESA,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,51 RED MESA,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,51 RED MESA,,,1,NOL,Overvotes,0,0,0,0
-Apache,51 RED MESA,,,1,NOL,Undervotes,0,0,0,0
+Apache,51 RED MESA,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,51 RED MESA,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,51 RED MESA,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,52 RED VALLEY,Registered Voters - Total,,,,,977,0,0,0
 Apache,52 RED VALLEY,Registered Voters - Democratic,,,DEM,,568,0,0,0
 Apache,52 RED VALLEY,Registered Voters - Republican,,,REP,,182,0,0,0
@@ -5238,9 +5238,9 @@ Apache,52 RED VALLEY,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,52 RED VALLEY,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,52 RED VALLEY,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,52 RED VALLEY,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,52 RED VALLEY,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,52 RED VALLEY,,,1,NOL,Overvotes,0,0,0,0
-Apache,52 RED VALLEY,,,1,NOL,Undervotes,0,0,0,0
+Apache,52 RED VALLEY,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,52 RED VALLEY,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,52 RED VALLEY,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,54 ROCK POINT,Registered Voters - Total,,,,,1379,0,0,0
 Apache,54 ROCK POINT,Registered Voters - Democratic,,,DEM,,842,0,0,0
 Apache,54 ROCK POINT,Registered Voters - Republican,,,REP,,113,0,0,0
@@ -5423,9 +5423,9 @@ Apache,54 ROCK POINT,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,54 ROCK POINT,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,54 ROCK POINT,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,54 ROCK POINT,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,54 ROCK POINT,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,54 ROCK POINT,,,1,NOL,Overvotes,0,0,0,0
-Apache,54 ROCK POINT,,,1,NOL,Undervotes,0,0,0,0
+Apache,54 ROCK POINT,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,54 ROCK POINT,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,54 ROCK POINT,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,56 ROUGH ROCK,Registered Voters - Total,,,,,896,0,0,0
 Apache,56 ROUGH ROCK,Registered Voters - Democratic,,,DEM,,599,0,0,0
 Apache,56 ROUGH ROCK,Registered Voters - Republican,,,REP,,63,0,0,0
@@ -5608,9 +5608,9 @@ Apache,56 ROUGH ROCK,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,56 ROUGH ROCK,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,56 ROUGH ROCK,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,56 ROUGH ROCK,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,56 ROUGH ROCK,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,56 ROUGH ROCK,,,1,NOL,Overvotes,0,0,0,0
-Apache,56 ROUGH ROCK,,,1,NOL,Undervotes,0,0,0,0
+Apache,56 ROUGH ROCK,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,56 ROUGH ROCK,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,56 ROUGH ROCK,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,58 ROUND ROCK,Registered Voters - Total,,,,,1035,0,0,0
 Apache,58 ROUND ROCK,Registered Voters - Democratic,,,DEM,,713,0,0,0
 Apache,58 ROUND ROCK,Registered Voters - Republican,,,REP,,70,0,0,0
@@ -5793,9 +5793,9 @@ Apache,58 ROUND ROCK,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,58 ROUND ROCK,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,58 ROUND ROCK,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,58 ROUND ROCK,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,58 ROUND ROCK,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,58 ROUND ROCK,,,1,NOL,Overvotes,0,0,0,0
-Apache,58 ROUND ROCK,,,1,NOL,Undervotes,1,0,1,0
+Apache,58 ROUND ROCK,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,58 ROUND ROCK,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,58 ROUND ROCK,NOL Notice,,1,NOL,Undervotes,1,0,1,0
 Apache,59 ROUND VALLEY,Registered Voters - Total,,,,,971,0,0,0
 Apache,59 ROUND VALLEY,Registered Voters - Democratic,,,DEM,,106,0,0,0
 Apache,59 ROUND VALLEY,Registered Voters - Republican,,,REP,,566,0,0,0
@@ -5978,9 +5978,9 @@ Apache,59 ROUND VALLEY,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,59 ROUND VALLEY,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,59 ROUND VALLEY,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,59 ROUND VALLEY,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,59 ROUND VALLEY,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,59 ROUND VALLEY,,,1,NOL,Overvotes,0,0,0,0
-Apache,59 ROUND VALLEY,,,1,NOL,Undervotes,0,0,0,0
+Apache,59 ROUND VALLEY,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,59 ROUND VALLEY,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,59 ROUND VALLEY,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,59 ROUND VALLEY,Mayor,Town of Eager,1,,Guy PHELPS,264,172,76,16
 Apache,59 ROUND VALLEY,Mayor,Town of Eager,1,,Write-In Totals,6,4,2,0
 Apache,59 ROUND VALLEY,Mayor,Town of Eager,1,,Total Votes Cast,270,176,78,16
@@ -6182,9 +6182,9 @@ Apache,61 ST. JOHNS,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,61 ST. JOHNS,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,61 ST. JOHNS,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,61 ST. JOHNS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,61 ST. JOHNS,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,61 ST. JOHNS,,,1,NOL,Overvotes,0,0,0,0
-Apache,61 ST. JOHNS,,,1,NOL,Undervotes,0,0,0,0
+Apache,61 ST. JOHNS,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,61 ST. JOHNS,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,61 ST. JOHNS,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,61 ST. JOHNS,Council Member,City of St. Johns,3,,"Elizabeth ""Lisa"" PAINTER",215,132,82,1
 Apache,61 ST. JOHNS,Council Member,City of St. Johns,3,,Jill PATTERSON,257,163,93,1
 Apache,61 ST. JOHNS,Council Member,City of St. Johns,3,,Spence UDALL,257,172,84,1
@@ -6382,9 +6382,9 @@ Apache,65 ST. MICHAELS,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,65 ST. MICHAELS,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,65 ST. MICHAELS,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,65 ST. MICHAELS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,65 ST. MICHAELS,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,65 ST. MICHAELS,,,1,NOL,Overvotes,0,0,0,0
-Apache,65 ST. MICHAELS,,,1,NOL,Undervotes,0,0,0,0
+Apache,65 ST. MICHAELS,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,65 ST. MICHAELS,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,65 ST. MICHAELS,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,67 SAWMILL,Registered Voters - Total,,,,,821,0,0,0
 Apache,67 SAWMILL,Registered Voters - Democratic,,,DEM,,554,0,0,0
 Apache,67 SAWMILL,Registered Voters - Republican,,,REP,,68,0,0,0
@@ -6569,9 +6569,9 @@ Apache,67 SAWMILL,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,67 SAWMILL,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,67 SAWMILL,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,67 SAWMILL,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,67 SAWMILL,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,67 SAWMILL,,,1,NOL,Overvotes,0,0,0,0
-Apache,67 SAWMILL,,,1,NOL,Undervotes,0,0,0,0
+Apache,67 SAWMILL,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,67 SAWMILL,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,67 SAWMILL,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,70 SPRINGERVILLE,Registered Voters - Total,,,,,984,0,0,0
 Apache,70 SPRINGERVILLE,Registered Voters - Democratic,,,DEM,,169,0,0,0
 Apache,70 SPRINGERVILLE,Registered Voters - Republican,,,REP,,531,0,0,0
@@ -6754,9 +6754,9 @@ Apache,70 SPRINGERVILLE,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,70 SPRINGERVILLE,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,70 SPRINGERVILLE,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,70 SPRINGERVILLE,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,70 SPRINGERVILLE,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,70 SPRINGERVILLE,,,1,NOL,Overvotes,0,0,0,0
-Apache,70 SPRINGERVILLE,,,1,NOL,Undervotes,0,0,0,0
+Apache,70 SPRINGERVILLE,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,70 SPRINGERVILLE,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,70 SPRINGERVILLE,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,70 SPRINGERVILLE,Council Member,Town of Springerville,2,,Richard DAVIS,216,158,51,7
 Apache,70 SPRINGERVILLE,Council Member,Town of Springerville,2,,Trish ESPARZA,93,70,20,3
 Apache,70 SPRINGERVILLE,Council Member,Town of Springerville,2,,R. Barry WILLIAMS,217,171,40,6
@@ -6948,9 +6948,9 @@ Apache,74 STEAMBOAT,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,74 STEAMBOAT,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,74 STEAMBOAT,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,74 STEAMBOAT,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,74 STEAMBOAT,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,74 STEAMBOAT,,,1,NOL,Overvotes,0,0,0,0
-Apache,74 STEAMBOAT,,,1,NOL,Undervotes,0,0,0,0
+Apache,74 STEAMBOAT,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,74 STEAMBOAT,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,74 STEAMBOAT,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,76 SWEETWATER,Registered Voters - Total,,,,,593,0,0,0
 Apache,76 SWEETWATER,Registered Voters - Democratic,,,DEM,,355,0,0,0
 Apache,76 SWEETWATER,Registered Voters - Republican,,,REP,,94,0,0,0
@@ -7133,9 +7133,9 @@ Apache,76 SWEETWATER,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,76 SWEETWATER,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,76 SWEETWATER,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,76 SWEETWATER,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,76 SWEETWATER,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,76 SWEETWATER,,,1,NOL,Overvotes,0,0,0,0
-Apache,76 SWEETWATER,,,1,NOL,Undervotes,1,1,0,0
+Apache,76 SWEETWATER,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,76 SWEETWATER,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,76 SWEETWATER,NOL Notice,,1,NOL,Undervotes,1,1,0,0
 Apache,78 TACHEE,Registered Voters - Total,,,,,568,0,0,0
 Apache,78 TACHEE,Registered Voters - Democratic,,,DEM,,366,0,0,0
 Apache,78 TACHEE,Registered Voters - Republican,,,REP,,53,0,0,0
@@ -7318,9 +7318,9 @@ Apache,78 TACHEE,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,78 TACHEE,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,78 TACHEE,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,78 TACHEE,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,78 TACHEE,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,78 TACHEE,,,1,NOL,Overvotes,0,0,0,0
-Apache,78 TACHEE,,,1,NOL,Undervotes,0,0,0,0
+Apache,78 TACHEE,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,78 TACHEE,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,78 TACHEE,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,80 TEEC NOS POS,Registered Voters - Total,,,,,888,0,0,0
 Apache,80 TEEC NOS POS,Registered Voters - Democratic,,,DEM,,534,0,0,0
 Apache,80 TEEC NOS POS,Registered Voters - Republican,,,REP,,115,0,0,0
@@ -7503,9 +7503,9 @@ Apache,80 TEEC NOS POS,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,80 TEEC NOS POS,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,80 TEEC NOS POS,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,80 TEEC NOS POS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,80 TEEC NOS POS,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,80 TEEC NOS POS,,,1,NOL,Overvotes,0,0,0,0
-Apache,80 TEEC NOS POS,,,1,NOL,Undervotes,0,0,0,0
+Apache,80 TEEC NOS POS,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,80 TEEC NOS POS,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,80 TEEC NOS POS,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,82 VERNON,Registered Voters - Total,,,,,1881,0,0,0
 Apache,82 VERNON,Registered Voters - Democratic,,,DEM,,197,0,0,0
 Apache,82 VERNON,Registered Voters - Republican,,,REP,,1137,0,0,0
@@ -7688,9 +7688,9 @@ Apache,82 VERNON,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,82 VERNON,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,82 VERNON,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,82 VERNON,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,82 VERNON,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,82 VERNON,,,1,NOL,Overvotes,0,0,0,0
-Apache,82 VERNON,,,1,NOL,Undervotes,0,0,0,0
+Apache,82 VERNON,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,82 VERNON,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,82 VERNON,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,84 WHEATFIELDS,Registered Voters - Total,,,,,1849,0,0,0
 Apache,84 WHEATFIELDS,Registered Voters - Democratic,,,DEM,,1212,0,0,0
 Apache,84 WHEATFIELDS,Registered Voters - Republican,,,REP,,131,0,0,0
@@ -7873,9 +7873,9 @@ Apache,84 WHEATFIELDS,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,84 WHEATFIELDS,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,84 WHEATFIELDS,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,84 WHEATFIELDS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,84 WHEATFIELDS,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,84 WHEATFIELDS,,,1,NOL,Overvotes,0,0,0,0
-Apache,84 WHEATFIELDS,,,1,NOL,Undervotes,2,1,1,0
+Apache,84 WHEATFIELDS,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,84 WHEATFIELDS,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,84 WHEATFIELDS,NOL Notice,,1,NOL,Undervotes,2,1,1,0
 Apache,86 WIDE RUINS,Registered Voters - Total,,,,,730,0,0,0
 Apache,86 WIDE RUINS,Registered Voters - Democratic,,,DEM,,487,0,0,0
 Apache,86 WIDE RUINS,Registered Voters - Republican,,,REP,,81,0,0,0
@@ -8060,9 +8060,9 @@ Apache,86 WIDE RUINS,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,86 WIDE RUINS,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,86 WIDE RUINS,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,86 WIDE RUINS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,86 WIDE RUINS,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,86 WIDE RUINS,,,1,NOL,Overvotes,0,0,0,0
-Apache,86 WIDE RUINS,,,1,NOL,Undervotes,0,0,0,0
+Apache,86 WIDE RUINS,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,86 WIDE RUINS,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,86 WIDE RUINS,NOL Notice,,1,NOL,Undervotes,0,0,0,0
 Apache,88 WINDOW ROCK,Registered Voters - Total,,,,,1654,0,0,0
 Apache,88 WINDOW ROCK,Registered Voters - Democratic,,,DEM,,994,0,0,0
 Apache,88 WINDOW ROCK,Registered Voters - Republican,,,REP,,213,0,0,0
@@ -8247,6 +8247,6 @@ Apache,88 WINDOW ROCK,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Apache,88 WINDOW ROCK,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Apache,88 WINDOW ROCK,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
 Apache,88 WINDOW ROCK,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Apache,88 WINDOW ROCK,,,1,NOL,Total Votes Cast,0,0,0,0
-Apache,88 WINDOW ROCK,,,1,NOL,Overvotes,0,0,0,0
-Apache,88 WINDOW ROCK,,,1,NOL,Undervotes,0,0,0,0
+Apache,88 WINDOW ROCK,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Apache,88 WINDOW ROCK,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Apache,88 WINDOW ROCK,NOL Notice,,1,NOL,Undervotes,0,0,0,0
