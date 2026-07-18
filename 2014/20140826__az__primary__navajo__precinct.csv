@@ -14952,3 +14952,11 @@ precinct_id,precinct_name,race_id,race,candidate_id,candidate,count
 999999,Election Total,510,CLERK OF THE SUPERIOR COURT (DEM),999996,Times Counted,8567
 999999,Election Total,510,CLERK OF THE SUPERIOR COURT (DEM),10,"ROMO, DEANNE",7172
 999999,Election Total,520,JUDGE OF THE SUPERIOR COURT - DIV. 1 (REP),999999,Number of Precincts for Race,61
+999999,Election Total,520,JUDGE OF THE SUPERIOR COURT - DIV. 1 (REP),999998,Number of Precincts Reporting,61
+999999,Election Total,520,JUDGE OF THE SUPERIOR COURT - DIV. 1 (REP),999997,Registered Voters,17171
+999999,Election Total,520,JUDGE OF THE SUPERIOR COURT - DIV. 1 (REP),999996,Times Counted,8584
+999999,Election Total,530,JUDGE OF THE SUPERIOR COURT - DIV. 1 (DEM),999999,Number of Precincts for Race,61
+999999,Election Total,530,JUDGE OF THE SUPERIOR COURT - DIV. 1 (DEM),999998,Number of Precincts Reporting,61
+999999,Election Total,530,JUDGE OF THE SUPERIOR COURT - DIV. 1 (DEM),999997,Registered Voters,22504
+999999,Election Total,530,JUDGE OF THE SUPERIOR COURT - DIV. 1 (DEM),999996,Times Counted,8567
+999999,Election Total,530,JUDGE OF THE SUPERIOR COURT - DIV. 1 (DEM),10,"HATCH, RALPH",7247
