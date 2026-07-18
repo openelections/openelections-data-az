@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional
-Pima,001,Registered Voters,,,,1771,1771,1771,1771
+Pima,001,Registered Voters,,,,1771,0,0,0
 Pima,001,Ballots Cast,,,,1288,980,275,33
 Pima,001,President,,DEM,Kamala D. HARRIS / Tim WALZ,654,546,91,17
 Pima,001,President,,REP,Donald J. TRUMP / JD VANCE,603,411,176,16
@@ -179,7 +179,7 @@ Pima,001,PROPOSITION 314,,,Total Votes,1116,872,229,15
 Pima,001,PROPOSITION 315,,,Yes,472,347,118,7
 Pima,001,PROPOSITION 315,,,No,619,506,105,8
 Pima,001,PROPOSITION 315,,,Total Votes,1091,853,223,15
-Pima,002,Registered Voters,,,,268,268,268,268
+Pima,002,Registered Voters,,,,268,0,0,0
 Pima,002,Ballots Cast,,,,178,154,23,1
 Pima,002,President,,DEM,Kamala D. HARRIS / Tim WALZ,101,87,13,1
 Pima,002,President,,REP,Donald J. TRUMP / JD VANCE,73,63,10,0
@@ -359,7 +359,7 @@ Pima,002,PROPOSITION 314,,,Total Votes,147,128,19,0
 Pima,002,PROPOSITION 315,,,Yes,70,62,7,1
 Pima,002,PROPOSITION 315,,,No,71,60,11,0
 Pima,002,PROPOSITION 315,,,Total Votes,141,122,18,1
-Pima,003,Registered Voters,,,,258,258,258,258
+Pima,003,Registered Voters,,,,258,0,0,0
 Pima,003,Ballots Cast,,,,189,76,108,5
 Pima,003,President,,DEM,Kamala D. HARRIS / Tim WALZ,174,75,97,2
 Pima,003,President,,REP,Donald J. TRUMP / JD VANCE,8,0,5,3
@@ -545,7 +545,7 @@ Pima,003,PROPOSITION 314,,,Total Votes,171,70,97,4
 Pima,003,PROPOSITION 315,,,Yes,54,16,37,1
 Pima,003,PROPOSITION 315,,,No,117,53,61,3
 Pima,003,PROPOSITION 315,,,Total Votes,171,69,98,4
-Pima,004,Registered Voters,,,,1163,1163,1163,1163
+Pima,004,Registered Voters,,,,1163,0,0,0
 Pima,004,Ballots Cast,,,,759,372,372,15
 Pima,004,President,,DEM,Kamala D. HARRIS / Tim WALZ,636,314,310,12
 Pima,004,President,,REP,Donald J. TRUMP / JD VANCE,96,42,52,2
@@ -731,7 +731,7 @@ Pima,004,PROPOSITION 314,,,Total Votes,672,329,331,12
 Pima,004,PROPOSITION 315,,,Yes,186,75,104,7
 Pima,004,PROPOSITION 315,,,No,464,237,222,5
 Pima,004,PROPOSITION 315,,,Total Votes,650,312,326,12
-Pima,005,Registered Voters,,,,4929,4929,4929,4929
+Pima,005,Registered Voters,,,,4929,0,0,0
 Pima,005,Ballots Cast,,,,3624,2656,946,22
 Pima,005,President,,DEM,Kamala D. HARRIS / Tim WALZ,1028,881,142,5
 Pima,005,President,,REP,Donald J. TRUMP / JD VANCE,2521,1712,793,16
@@ -928,7 +928,7 @@ Pima,005,PROPOSITION 315,,,Yes,1652,1217,426,9
 Pima,005,PROPOSITION 315,,,No,1432,1078,344,10
 Pima,005,PROPOSITION 315,,,Total Votes,3084,2295,770,19
 Pima,005,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,3213,2390,812,11
-Pima,006,Registered Voters,,,,6013,6013,6013,6013
+Pima,006,Registered Voters,,,,6013,0,0,0
 Pima,006,Ballots Cast,,,,5014,4070,903,41
 Pima,006,President,,DEM,Kamala D. HARRIS / Tim WALZ,2063,1856,198,9
 Pima,006,President,,REP,Donald J. TRUMP / JD VANCE,2859,2142,685,32
@@ -1126,7 +1126,7 @@ Pima,006,PROPOSITION 315,,,Yes,2162,1716,426,20
 Pima,006,PROPOSITION 315,,,No,2157,1827,314,16
 Pima,006,PROPOSITION 315,,,Total Votes,4319,3543,740,36
 Pima,006,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,4525,3708,786,31
-Pima,007,Registered Voters,,,,103,103,103,103
+Pima,007,Registered Voters,,,,103,0,0,0
 Pima,007,Ballots Cast,,,,67,47,20,0
 Pima,007,President,,DEM,Kamala D. HARRIS / Tim WALZ,26,21,5,0
 Pima,007,President,,REP,Donald J. TRUMP / JD VANCE,40,25,15,0
@@ -1313,7 +1313,7 @@ Pima,007,PROPOSITION 314,,,Total Votes,61,44,17,0
 Pima,007,PROPOSITION 315,,,Yes,34,23,11,0
 Pima,007,PROPOSITION 315,,,No,27,21,6,0
 Pima,007,PROPOSITION 315,,,Total Votes,61,44,17,0
-Pima,008,Registered Voters,,,,590,590,590,590
+Pima,008,Registered Voters,,,,590,0,0,0
 Pima,008,Ballots Cast,,,,475,367,103,5
 Pima,008,President,,DEM,Kamala D. HARRIS / Tim WALZ,238,198,37,3
 Pima,008,President,,REP,Donald J. TRUMP / JD VANCE,215,154,59,2
@@ -1504,7 +1504,7 @@ Pima,008,PROPOSITION 314,,,Total Votes,430,335,91,4
 Pima,008,PROPOSITION 315,,,Yes,184,147,34,3
 Pima,008,PROPOSITION 315,,,No,231,178,52,1
 Pima,008,PROPOSITION 315,,,Total Votes,415,325,86,4
-Pima,009,Registered Voters,,,,2757,2757,2757,2757
+Pima,009,Registered Voters,,,,2757,0,0,0
 Pima,009,Ballots Cast,,,,2316,2049,255,12
 Pima,009,President,,DEM,Kamala D. HARRIS / Tim WALZ,1357,1259,95,3
 Pima,009,President,,REP,Donald J. TRUMP / JD VANCE,915,754,152,9
@@ -1691,7 +1691,7 @@ Pima,009,PROPOSITION 314,,,Total Votes,2102,1866,226,10
 Pima,009,PROPOSITION 315,,,Yes,789,679,105,5
 Pima,009,PROPOSITION 315,,,No,1245,1131,110,4
 Pima,009,PROPOSITION 315,,,Total Votes,2034,1810,215,9
-Pima,010,Registered Voters,,,,2144,2144,2144,2144
+Pima,010,Registered Voters,,,,2144,0,0,0
 Pima,010,Ballots Cast,,,,1899,1704,191,4
 Pima,010,President,,DEM,Kamala D. HARRIS / Tim WALZ,1027,955,70,2
 Pima,010,President,,REP,Donald J. TRUMP / JD VANCE,839,721,116,2
@@ -1871,7 +1871,7 @@ Pima,010,PROPOSITION 315,,,Yes,695,612,82,1
 Pima,010,PROPOSITION 315,,,No,934,855,77,2
 Pima,010,PROPOSITION 315,,,Total Votes,1629,1467,159,3
 Pima,010,PROPOSITION 410 - Continental School District No. 39,,,Total Votes,1666,1503,160,3
-Pima,011,Registered Voters,,,,3680,3680,3680,3680
+Pima,011,Registered Voters,,,,3680,0,0,0
 Pima,011,Ballots Cast,,,,3120,2558,538,24
 Pima,011,President,,DEM,Kamala D. HARRIS / Tim WALZ,853,766,86,1
 Pima,011,President,,REP,Donald J. TRUMP / JD VANCE,2202,1739,440,23
@@ -2058,7 +2058,7 @@ Pima,011,PROPOSITION 314,,,Total Votes,2837,2336,482,19
 Pima,011,PROPOSITION 315,,,Yes,1501,1214,276,11
 Pima,011,PROPOSITION 315,,,No,1242,1054,182,6
 Pima,011,PROPOSITION 315,,,Total Votes,2743,2268,458,17
-Pima,012,Registered Voters,,,,5266,5266,5266,5266
+Pima,012,Registered Voters,,,,5266,0,0,0
 Pima,012,Ballots Cast,,,,4510,4015,475,20
 Pima,012,President,,DEM,Kamala D. HARRIS / Tim WALZ,2386,2210,166,10
 Pima,012,President,,REP,Donald J. TRUMP / JD VANCE,2034,1724,301,9
@@ -2242,7 +2242,7 @@ Pima,012,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,012,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1973,1786,179,8
 Pima,012,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1828,1615,209,4
 Pima,012,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,3801,3401,388,12
-Pima,013,Registered Voters,,,,3156,3156,3156,3156
+Pima,013,Registered Voters,,,,3156,0,0,0
 Pima,013,Ballots Cast,,,,2580,2177,389,14
 Pima,013,President,,DEM,Kamala D. HARRIS / Tim WALZ,1364,1250,111,3
 Pima,013,President,,REP,Donald J. TRUMP / JD VANCE,1160,880,270,10
@@ -2426,7 +2426,7 @@ Pima,013,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,013,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1213,1049,159,5
 Pima,013,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1012,850,160,2
 Pima,013,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2225,1899,319,7
-Pima,014,Registered Voters,,,,4287,4287,4287,4287
+Pima,014,Registered Voters,,,,4287,0,0,0
 Pima,014,Ballots Cast,,,,3496,2902,559,35
 Pima,014,President,,DEM,Kamala D. HARRIS / Tim WALZ,1718,1503,202,13
 Pima,014,President,,REP,Donald J. TRUMP / JD VANCE,1722,1351,350,21
@@ -2631,7 +2631,7 @@ Pima,014,PROPOSITION 315,,,Yes,1385,1111,258,16
 Pima,014,PROPOSITION 315,,,No,1657,1417,228,12
 Pima,014,PROPOSITION 315,,,Total Votes,3042,2528,486,28
 Pima,014,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,3125,2599,504,22
-Pima,015,Registered Voters,,,,1700,1700,1700,1700
+Pima,015,Registered Voters,,,,1700,0,0,0
 Pima,015,Ballots Cast,,,,1317,1075,235,7
 Pima,015,President,,DEM,Kamala D. HARRIS / Tim WALZ,583,515,67,1
 Pima,015,President,,REP,Donald J. TRUMP / JD VANCE,710,538,167,5
@@ -2828,7 +2828,7 @@ Pima,015,PROPOSITION 315,,,Yes,498,389,106,3
 Pima,015,PROPOSITION 315,,,No,615,520,94,1
 Pima,015,PROPOSITION 315,,,Total Votes,1113,909,200,4
 Pima,015,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,1154,938,211,5
-Pima,016,Registered Voters,,,,2955,2955,2955,2955
+Pima,016,Registered Voters,,,,2955,0,0,0
 Pima,016,Ballots Cast,,,,2574,2249,314,11
 Pima,016,President,,DEM,Kamala D. HARRIS / Tim WALZ,1792,1623,162,7
 Pima,016,President,,REP,Donald J. TRUMP / JD VANCE,727,580,144,3
@@ -3021,7 +3021,7 @@ Pima,016,PROPOSITION 314,,,Total Votes,2348,2064,276,8
 Pima,016,PROPOSITION 315,,,Yes,661,549,111,1
 Pima,016,PROPOSITION 315,,,No,1630,1472,151,7
 Pima,016,PROPOSITION 315,,,Total Votes,2291,2021,262,8
-Pima,017,Registered Voters,,,,2006,2006,2006,2006
+Pima,017,Registered Voters,,,,2006,0,0,0
 Pima,017,Ballots Cast,,,,1570,1335,215,20
 Pima,017,President,,DEM,Kamala D. HARRIS / Tim WALZ,1208,1064,131,13
 Pima,017,President,,REP,Donald J. TRUMP / JD VANCE,327,238,83,6
@@ -3214,7 +3214,7 @@ Pima,017,PROPOSITION 314,,,Total Votes,1427,1219,190,18
 Pima,017,PROPOSITION 315,,,Yes,354,266,82,6
 Pima,017,PROPOSITION 315,,,No,1052,938,105,9
 Pima,017,PROPOSITION 315,,,Total Votes,1406,1204,187,15
-Pima,018,Registered Voters,,,,2510,2510,2510,2510
+Pima,018,Registered Voters,,,,2510,0,0,0
 Pima,018,Ballots Cast,,,,1652,1337,292,23
 Pima,018,President,,DEM,Kamala D. HARRIS / Tim WALZ,1258,1069,174,15
 Pima,018,President,,REP,Donald J. TRUMP / JD VANCE,340,229,104,7
@@ -3407,7 +3407,7 @@ Pima,018,PROPOSITION 314,,,Total Votes,1452,1200,237,15
 Pima,018,PROPOSITION 315,,,Yes,379,284,90,5
 Pima,018,PROPOSITION 315,,,No,1037,890,138,9
 Pima,018,PROPOSITION 315,,,Total Votes,1416,1174,228,14
-Pima,019,Registered Voters,,,,686,686,686,686
+Pima,019,Registered Voters,,,,686,0,0,0
 Pima,019,Ballots Cast,,,,488,401,79,8
 Pima,019,President,,DEM,Kamala D. HARRIS / Tim WALZ,202,170,29,3
 Pima,019,President,,REP,Donald J. TRUMP / JD VANCE,277,223,49,5
@@ -3584,7 +3584,7 @@ Pima,019,PROPOSITION 314,,,Total Votes,456,379,70,7
 Pima,019,PROPOSITION 315,,,Yes,215,172,40,3
 Pima,019,PROPOSITION 315,,,No,234,199,31,4
 Pima,019,PROPOSITION 315,,,Total Votes,449,371,71,7
-Pima,020,Registered Voters,,,,3605,3605,3605,3605
+Pima,020,Registered Voters,,,,3605,0,0,0
 Pima,020,Ballots Cast,,,,2254,1783,428,43
 Pima,020,President,,DEM,Kamala D. HARRIS / Tim WALZ,1619,1347,243,29
 Pima,020,President,,REP,Donald J. TRUMP / JD VANCE,595,402,180,13
@@ -3777,7 +3777,7 @@ Pima,020,PROPOSITION 314,,,Total Votes,1997,1606,360,31
 Pima,020,PROPOSITION 315,,,Yes,605,457,138,10
 Pima,020,PROPOSITION 315,,,No,1347,1121,207,19
 Pima,020,PROPOSITION 315,,,Total Votes,1952,1578,345,29
-Pima,021,Registered Voters,,,,3341,3341,3341,3341
+Pima,021,Registered Voters,,,,3341,0,0,0
 Pima,021,Ballots Cast,,,,2891,2538,337,16
 Pima,021,President,,DEM,Kamala D. HARRIS / Tim WALZ,1656,1525,121,10
 Pima,021,President,,REP,Donald J. TRUMP / JD VANCE,1181,963,212,6
@@ -3973,7 +3973,7 @@ Pima,021,PROPOSITION 314,,,Total Votes,2593,2291,290,12
 Pima,021,PROPOSITION 315,,,Yes,1045,903,135,7
 Pima,021,PROPOSITION 315,,,No,1462,1314,143,5
 Pima,021,PROPOSITION 315,,,Total Votes,2507,2217,278,12
-Pima,022,Registered Voters,,,,4504,4504,4504,4504
+Pima,022,Registered Voters,,,,4504,0,0,0
 Pima,022,Ballots Cast,,,,2707,2207,482,18
 Pima,022,President,,DEM,Kamala D. HARRIS / Tim WALZ,1706,1427,270,9
 Pima,022,President,,REP,Donald J. TRUMP / JD VANCE,951,739,203,9
@@ -4165,7 +4165,7 @@ Pima,022,PROPOSITION 314,,,Total Votes,2403,1981,408,14
 Pima,022,PROPOSITION 315,,,Yes,783,602,177,4
 Pima,022,PROPOSITION 315,,,No,1564,1330,224,10
 Pima,022,PROPOSITION 315,,,Total Votes,2347,1932,401,14
-Pima,023,Registered Voters,,,,3825,3825,3825,3825
+Pima,023,Registered Voters,,,,3825,0,0,0
 Pima,023,Ballots Cast,,,,2594,2124,448,22
 Pima,023,President,,DEM,Kamala D. HARRIS / Tim WALZ,1661,1450,198,13
 Pima,023,President,,REP,Donald J. TRUMP / JD VANCE,890,642,239,9
@@ -4358,7 +4358,7 @@ Pima,023,PROPOSITION 314,,,Total Votes,2312,1911,383,18
 Pima,023,PROPOSITION 315,,,Yes,751,581,162,8
 Pima,023,PROPOSITION 315,,,No,1507,1294,205,8
 Pima,023,PROPOSITION 315,,,Total Votes,2258,1875,367,16
-Pima,024,Registered Voters,,,,2482,2482,2482,2482
+Pima,024,Registered Voters,,,,2482,0,0,0
 Pima,024,Ballots Cast,,,,1907,1467,431,9
 Pima,024,President,,DEM,Kamala D. HARRIS / Tim WALZ,738,632,105,1
 Pima,024,President,,REP,Donald J. TRUMP / JD VANCE,1116,793,315,8
@@ -4545,7 +4545,7 @@ Pima,024,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,024,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,728,548,177,3
 Pima,024,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,912,728,180,4
 Pima,024,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1640,1276,357,7
-Pima,025,Registered Voters,,,,2959,2959,2959,2959
+Pima,025,Registered Voters,,,,2959,0,0,0
 Pima,025,Ballots Cast,,,,1691,1345,325,21
 Pima,025,President,,DEM,Kamala D. HARRIS / Tim WALZ,1213,1009,190,14
 Pima,025,President,,REP,Donald J. TRUMP / JD VANCE,444,311,126,7
@@ -4737,7 +4737,7 @@ Pima,025,PROPOSITION 314,,,Total Votes,1523,1226,279,18
 Pima,025,PROPOSITION 315,,,Yes,480,366,109,5
 Pima,025,PROPOSITION 315,,,No,1022,842,167,13
 Pima,025,PROPOSITION 315,,,Total Votes,1502,1208,276,18
-Pima,026,Registered Voters,,,,3111,3111,3111,3111
+Pima,026,Registered Voters,,,,3111,0,0,0
 Pima,026,Ballots Cast,,,,1765,1419,316,30
 Pima,026,President,,DEM,Kamala D. HARRIS / Tim WALZ,1255,1048,189,18
 Pima,026,President,,REP,Donald J. TRUMP / JD VANCE,471,341,118,12
@@ -4921,7 +4921,7 @@ Pima,026,PROPOSITION 314,,,Total Votes,1610,1309,273,28
 Pima,026,PROPOSITION 315,,,Yes,506,394,100,12
 Pima,026,PROPOSITION 315,,,No,1064,882,168,14
 Pima,026,PROPOSITION 315,,,Total Votes,1570,1276,268,26
-Pima,028,Registered Voters,,,,1798,1798,1798,1798
+Pima,028,Registered Voters,,,,1798,0,0,0
 Pima,028,Ballots Cast,,,,1040,860,169,11
 Pima,028,President,,DEM,Kamala D. HARRIS / Tim WALZ,736,632,96,8
 Pima,028,President,,REP,Donald J. TRUMP / JD VANCE,281,209,70,2
@@ -5105,7 +5105,7 @@ Pima,028,PROPOSITION 314,,,Total Votes,912,765,136,11
 Pima,028,PROPOSITION 315,,,Yes,302,244,53,5
 Pima,028,PROPOSITION 315,,,No,594,508,81,5
 Pima,028,PROPOSITION 315,,,Total Votes,896,752,134,10
-Pima,029,Registered Voters,,,,922,922,922,922
+Pima,029,Registered Voters,,,,922,0,0,0
 Pima,029,Ballots Cast,,,,813,751,62,0
 Pima,029,President,,DEM,Kamala D. HARRIS / Tim WALZ,467,446,21,0
 Pima,029,President,,REP,Donald J. TRUMP / JD VANCE,318,281,37,0
@@ -5288,7 +5288,7 @@ Pima,029,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,029,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,392,371,21,0
 Pima,029,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,324,295,29,0
 Pima,029,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,716,666,50,0
-Pima,030,Registered Voters,,,,3369,3369,3369,3369
+Pima,030,Registered Voters,,,,3369,0,0,0
 Pima,030,Ballots Cast,,,,2716,2393,304,19
 Pima,030,President,,DEM,Kamala D. HARRIS / Tim WALZ,1606,1464,130,12
 Pima,030,President,,REP,Donald J. TRUMP / JD VANCE,1044,869,168,7
@@ -5474,7 +5474,7 @@ Pima,030,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,030,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1311,1181,121,9
 Pima,030,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,990,860,126,4
 Pima,030,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2301,2041,247,13
-Pima,031,Registered Voters,,,,2103,2103,2103,2103
+Pima,031,Registered Voters,,,,2103,0,0,0
 Pima,031,Ballots Cast,,,,1456,1159,275,22
 Pima,031,President,,DEM,Kamala D. HARRIS / Tim WALZ,733,622,98,13
 Pima,031,President,,REP,Donald J. TRUMP / JD VANCE,685,505,171,9
@@ -5667,7 +5667,7 @@ Pima,031,PROPOSITION 314,,,Total Votes,1291,1039,233,19
 Pima,031,PROPOSITION 315,,,Yes,565,455,104,6
 Pima,031,PROPOSITION 315,,,No,676,544,119,13
 Pima,031,PROPOSITION 315,,,Total Votes,1241,999,223,19
-Pima,032,Registered Voters,,,,4783,4783,4783,4783
+Pima,032,Registered Voters,,,,4783,0,0,0
 Pima,032,Ballots Cast,,,,3254,2647,578,29
 Pima,032,President,,DEM,Kamala D. HARRIS / Tim WALZ,1700,1473,216,11
 Pima,032,President,,REP,Donald J. TRUMP / JD VANCE,1469,1100,351,18
@@ -5864,7 +5864,7 @@ Pima,032,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,032,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,249,204,42,3
 Pima,032,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,233,200,32,1
 Pima,032,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,482,404,74,4
-Pima,033,Registered Voters,,,,2572,2572,2572,2572
+Pima,033,Registered Voters,,,,2572,0,0,0
 Pima,033,Ballots Cast,,,,2137,1803,312,22
 Pima,033,President,,DEM,Kamala D. HARRIS / Tim WALZ,1414,1252,144,18
 Pima,033,President,,REP,Donald J. TRUMP / JD VANCE,680,513,163,4
@@ -6057,7 +6057,7 @@ Pima,033,PROPOSITION 314,,,Total Votes,1917,1630,268,19
 Pima,033,PROPOSITION 315,,,Yes,641,511,124,6
 Pima,033,PROPOSITION 315,,,No,1220,1084,125,11
 Pima,033,PROPOSITION 315,,,Total Votes,1861,1595,249,17
-Pima,034,Registered Voters,,,,1561,1561,1561,1561
+Pima,034,Registered Voters,,,,1561,0,0,0
 Pima,034,Ballots Cast,,,,1037,846,172,19
 Pima,034,President,,DEM,Kamala D. HARRIS / Tim WALZ,584,500,72,12
 Pima,034,President,,REP,Donald J. TRUMP / JD VANCE,434,334,93,7
@@ -6254,7 +6254,7 @@ Pima,034,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,034,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,139,122,16,1
 Pima,034,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,114,89,23,2
 Pima,034,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,253,211,39,3
-Pima,035,Registered Voters,,,,396,396,396,396
+Pima,035,Registered Voters,,,,396,0,0,0
 Pima,035,Ballots Cast,,,,352,298,53,1
 Pima,035,President,,DEM,Kamala D. HARRIS / Tim WALZ,159,142,17,0
 Pima,035,President,,REP,Donald J. TRUMP / JD VANCE,188,152,35,1
@@ -6459,7 +6459,7 @@ Pima,035,PROPOSITION 315,,,Yes,154,123,30,1
 Pima,035,PROPOSITION 315,,,No,154,136,18,0
 Pima,035,PROPOSITION 315,,,Total Votes,308,259,48,1
 Pima,035,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,308,259,49,0
-Pima,036,Registered Voters,,,,4571,4571,4571,4571
+Pima,036,Registered Voters,,,,4571,0,0,0
 Pima,036,Ballots Cast,,,,2660,2120,506,34
 Pima,036,President,,DEM,Kamala D. HARRIS / Tim WALZ,1580,1332,225,23
 Pima,036,President,,REP,Donald J. TRUMP / JD VANCE,1015,738,268,9
@@ -6656,7 +6656,7 @@ Pima,036,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,036,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,605,491,111,3
 Pima,036,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,425,339,84,2
 Pima,036,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1030,830,195,5
-Pima,037,Registered Voters,,,,1482,1482,1482,1482
+Pima,037,Registered Voters,,,,1482,0,0,0
 Pima,037,Ballots Cast,,,,915,716,188,11
 Pima,037,President,,DEM,Kamala D. HARRIS / Tim WALZ,666,544,118,4
 Pima,037,President,,REP,Donald J. TRUMP / JD VANCE,227,155,65,7
@@ -6849,7 +6849,7 @@ Pima,037,PROPOSITION 314,,,Total Votes,783,622,155,6
 Pima,037,PROPOSITION 315,,,Yes,249,191,56,2
 Pima,037,PROPOSITION 315,,,No,518,423,91,4
 Pima,037,PROPOSITION 315,,,Total Votes,767,614,147,6
-Pima,038,Registered Voters,,,,2283,2283,2283,2283
+Pima,038,Registered Voters,,,,2283,0,0,0
 Pima,038,Ballots Cast,,,,1513,1281,220,12
 Pima,038,President,,DEM,Kamala D. HARRIS / Tim WALZ,970,854,108,8
 Pima,038,President,,REP,Donald J. TRUMP / JD VANCE,499,395,100,4
@@ -7039,7 +7039,7 @@ Pima,038,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,038,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,769,654,112,3
 Pima,038,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,508,428,77,3
 Pima,038,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1277,1082,189,6
-Pima,039,Registered Voters,,,,3649,3649,3649,3649
+Pima,039,Registered Voters,,,,3649,0,0,0
 Pima,039,Ballots Cast,,,,3173,2791,370,12
 Pima,039,President,,DEM,Kamala D. HARRIS / Tim WALZ,1496,1363,128,5
 Pima,039,President,,REP,Donald J. TRUMP / JD VANCE,1624,1383,234,7
@@ -7234,7 +7234,7 @@ Pima,039,PROPOSITION 314,,,Total Votes,2889,2557,320,12
 Pima,039,PROPOSITION 315,,,Yes,1230,1068,157,5
 Pima,039,PROPOSITION 315,,,No,1561,1407,148,6
 Pima,039,PROPOSITION 315,,,Total Votes,2791,2475,305,11
-Pima,040,Registered Voters,,,,3332,3332,3332,3332
+Pima,040,Registered Voters,,,,3332,0,0,0
 Pima,040,Ballots Cast,,,,2619,2045,555,19
 Pima,040,President,,DEM,Kamala D. HARRIS / Tim WALZ,1237,1055,176,6
 Pima,040,President,,REP,Donald J. TRUMP / JD VANCE,1337,960,365,12
@@ -7426,7 +7426,7 @@ Pima,040,PROPOSITION 315,,,Yes,1068,797,263,8
 Pima,040,PROPOSITION 315,,,No,1178,980,192,6
 Pima,040,PROPOSITION 315,,,Total Votes,2246,1777,455,14
 Pima,040,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,2321,1833,476,12
-Pima,041,Registered Voters,,,,8283,8283,8283,8283
+Pima,041,Registered Voters,,,,8283,0,0,0
 Pima,041,Ballots Cast,,,,5812,4719,1018,75
 Pima,041,President,,DEM,Kamala D. HARRIS / Tim WALZ,3364,2890,438,36
 Pima,041,President,,REP,Donald J. TRUMP / JD VANCE,2365,1773,555,37
@@ -7621,7 +7621,7 @@ Pima,041,PROPOSITION 314,,,Total Votes,5251,4295,891,65
 Pima,041,PROPOSITION 315,,,Yes,2096,1630,440,26
 Pima,041,PROPOSITION 315,,,No,3019,2556,427,36
 Pima,041,PROPOSITION 315,,,Total Votes,5115,4186,867,62
-Pima,042,Registered Voters,,,,4374,4374,4374,4374
+Pima,042,Registered Voters,,,,4374,0,0,0
 Pima,042,Ballots Cast,,,,3070,2583,451,36
 Pima,042,President,,DEM,Kamala D. HARRIS / Tim WALZ,2395,2077,293,25
 Pima,042,President,,REP,Donald J. TRUMP / JD VANCE,562,410,144,8
@@ -7813,7 +7813,7 @@ Pima,042,PROPOSITION 314,,,Total Votes,2626,2267,328,31
 Pima,042,PROPOSITION 315,,,Yes,630,509,112,9
 Pima,042,PROPOSITION 315,,,No,1911,1702,193,16
 Pima,042,PROPOSITION 315,,,Total Votes,2541,2211,305,25
-Pima,043,Registered Voters,,,,1724,1724,1724,1724
+Pima,043,Registered Voters,,,,1724,0,0,0
 Pima,043,Ballots Cast,,,,957,710,236,11
 Pima,043,President,,DEM,Kamala D. HARRIS / Tim WALZ,682,522,153,7
 Pima,043,President,,REP,Donald J. TRUMP / JD VANCE,240,164,72,4
@@ -8005,7 +8005,7 @@ Pima,043,PROPOSITION 314,,,Total Votes,831,624,199,8
 Pima,043,PROPOSITION 315,,,Yes,297,210,85,2
 Pima,043,PROPOSITION 315,,,No,518,405,107,6
 Pima,043,PROPOSITION 315,,,Total Votes,815,615,192,8
-Pima,044,Registered Voters,,,,2853,2853,2853,2853
+Pima,044,Registered Voters,,,,2853,0,0,0
 Pima,044,Ballots Cast,,,,1735,1461,253,21
 Pima,044,President,,DEM,Kamala D. HARRIS / Tim WALZ,1417,1237,163,17
 Pima,044,President,,REP,Donald J. TRUMP / JD VANCE,258,178,77,3
@@ -8197,7 +8197,7 @@ Pima,044,PROPOSITION 314,,,Total Votes,1484,1265,203,16
 Pima,044,PROPOSITION 315,,,Yes,293,219,66,8
 Pima,044,PROPOSITION 315,,,No,1145,1009,128,8
 Pima,044,PROPOSITION 315,,,Total Votes,1438,1228,194,16
-Pima,045,Registered Voters,,,,2087,2087,2087,2087
+Pima,045,Registered Voters,,,,2087,0,0,0
 Pima,045,Ballots Cast,,,,1677,1471,195,11
 Pima,045,President,,DEM,Kamala D. HARRIS / Tim WALZ,1405,1271,126,8
 Pima,045,President,,REP,Donald J. TRUMP / JD VANCE,226,159,64,3
@@ -8384,7 +8384,7 @@ Pima,045,PROPOSITION 314,,,Total Votes,1510,1331,172,7
 Pima,045,PROPOSITION 315,,,Yes,312,252,57,3
 Pima,045,PROPOSITION 315,,,No,1139,1034,101,4
 Pima,045,PROPOSITION 315,,,Total Votes,1451,1286,158,7
-Pima,046,Registered Voters,,,,1066,1066,1066,1066
+Pima,046,Registered Voters,,,,1066,0,0,0
 Pima,046,Ballots Cast,,,,937,833,101,3
 Pima,046,President,,DEM,Kamala D. HARRIS / Tim WALZ,392,369,23,0
 Pima,046,President,,REP,Donald J. TRUMP / JD VANCE,518,441,74,3
@@ -8571,7 +8571,7 @@ Pima,046,PROPOSITION 314,,,Total Votes,854,762,90,2
 Pima,046,PROPOSITION 315,,,Yes,391,336,54,1
 Pima,046,PROPOSITION 315,,,No,441,410,31,0
 Pima,046,PROPOSITION 315,,,Total Votes,832,746,85,1
-Pima,047,Registered Voters,,,,4279,4279,4279,4279
+Pima,047,Registered Voters,,,,4279,0,0,0
 Pima,047,Ballots Cast,,,,2211,1792,393,26
 Pima,047,President,,DEM,Kamala D. HARRIS / Tim WALZ,1625,1380,233,12
 Pima,047,President,,REP,Donald J. TRUMP / JD VANCE,524,362,150,12
@@ -8762,7 +8762,7 @@ Pima,047,PROPOSITION 408,,,Yes,688,563,117,8
 Pima,047,PROPOSITION 408,,,No,383,305,77,1
 Pima,047,PROPOSITION 408,,,Total Votes,1071,868,194,9
 Pima,047,PROPOSITION 409,,,Total Votes,1092,877,206,9
-Pima,048,Registered Voters,,,,3224,3224,3224,3224
+Pima,048,Registered Voters,,,,3224,0,0,0
 Pima,048,Ballots Cast,,,,1640,1285,337,18
 Pima,048,President,,DEM,Kamala D. HARRIS / Tim WALZ,985,810,168,7
 Pima,048,President,,REP,Donald J. TRUMP / JD VANCE,612,444,157,11
@@ -8939,7 +8939,7 @@ Pima,048,PROPOSITION 314,,,Total Votes,1466,1160,291,15
 Pima,048,PROPOSITION 315,,,Yes,623,470,148,5
 Pima,048,PROPOSITION 315,,,No,820,672,141,7
 Pima,048,PROPOSITION 315,,,Total Votes,1443,1142,289,12
-Pima,049,Registered Voters,,,,1769,1769,1769,1769
+Pima,049,Registered Voters,,,,1769,0,0,0
 Pima,049,Ballots Cast,,,,1449,1173,267,9
 Pima,049,President,,DEM,Kamala D. HARRIS / Tim WALZ,658,571,84,3
 Pima,049,President,,REP,Donald J. TRUMP / JD VANCE,756,574,176,6
@@ -9126,7 +9126,7 @@ Pima,049,PROPOSITION 314,,,Total Votes,1301,1059,235,7
 Pima,049,PROPOSITION 315,,,Yes,591,460,128,3
 Pima,049,PROPOSITION 315,,,No,673,575,94,4
 Pima,049,PROPOSITION 315,,,Total Votes,1264,1035,222,7
-Pima,050,Registered Voters,,,,2774,2774,2774,2774
+Pima,050,Registered Voters,,,,2774,0,0,0
 Pima,050,Ballots Cast,,,,1470,1201,253,16
 Pima,050,President,,DEM,Kamala D. HARRIS / Tim WALZ,1067,908,149,10
 Pima,050,President,,REP,Donald J. TRUMP / JD VANCE,369,266,97,6
@@ -9314,7 +9314,7 @@ Pima,050,PROPOSITION 314,,,Total Votes,1326,1105,208,13
 Pima,050,PROPOSITION 315,,,Yes,453,374,73,6
 Pima,050,PROPOSITION 315,,,No,838,703,128,7
 Pima,050,PROPOSITION 315,,,Total Votes,1291,1077,201,13
-Pima,051,Registered Voters,,,,2175,2175,2175,2175
+Pima,051,Registered Voters,,,,2175,0,0,0
 Pima,051,Ballots Cast,,,,1119,898,211,10
 Pima,051,President,,DEM,Kamala D. HARRIS / Tim WALZ,789,651,132,6
 Pima,051,President,,REP,Donald J. TRUMP / JD VANCE,307,227,76,4
@@ -9498,7 +9498,7 @@ Pima,051,PROPOSITION 314,,,Total Votes,995,810,178,7
 Pima,051,PROPOSITION 315,,,Yes,334,264,68,2
 Pima,051,PROPOSITION 315,,,No,654,541,110,3
 Pima,051,PROPOSITION 315,,,Total Votes,988,805,178,5
-Pima,052,Registered Voters,,,,2504,2504,2504,2504
+Pima,052,Registered Voters,,,,2504,0,0,0
 Pima,052,Ballots Cast,,,,1415,1130,270,15
 Pima,052,President,,DEM,Kamala D. HARRIS / Tim WALZ,991,830,150,11
 Pima,052,President,,REP,Donald J. TRUMP / JD VANCE,384,273,107,4
@@ -9682,7 +9682,7 @@ Pima,052,PROPOSITION 314,,,Total Votes,1260,1027,220,13
 Pima,052,PROPOSITION 315,,,Yes,402,306,88,8
 Pima,052,PROPOSITION 315,,,No,841,710,126,5
 Pima,052,PROPOSITION 315,,,Total Votes,1243,1016,214,13
-Pima,053,Registered Voters,,,,6430,6430,6430,6430
+Pima,053,Registered Voters,,,,6430,0,0,0
 Pima,053,Ballots Cast,,,,3550,2786,720,44
 Pima,053,President,,DEM,Kamala D. HARRIS / Tim WALZ,2399,1956,422,21
 Pima,053,President,,REP,Donald J. TRUMP / JD VANCE,1081,772,288,21
@@ -9862,7 +9862,7 @@ Pima,053,PROPOSITION 314,,,Total Votes,3127,2478,612,37
 Pima,053,PROPOSITION 315,,,Yes,1161,888,256,17
 Pima,053,PROPOSITION 315,,,No,1906,1545,339,22
 Pima,053,PROPOSITION 315,,,Total Votes,3067,2433,595,39
-Pima,054,Registered Voters,,,,3035,3035,3035,3035
+Pima,054,Registered Voters,,,,3035,0,0,0
 Pima,054,Ballots Cast,,,,1989,1598,377,14
 Pima,054,President,,DEM,Kamala D. HARRIS / Tim WALZ,1171,1011,152,8
 Pima,054,President,,REP,Donald J. TRUMP / JD VANCE,757,542,209,6
@@ -10048,7 +10048,7 @@ Pima,054,PROPOSITION 314,,,Total Votes,1773,1440,321,12
 Pima,054,PROPOSITION 315,,,Yes,658,495,160,3
 Pima,054,PROPOSITION 315,,,No,1084,925,150,9
 Pima,054,PROPOSITION 315,,,Total Votes,1742,1420,310,12
-Pima,055,Registered Voters,,,,1335,1335,1335,1335
+Pima,055,Registered Voters,,,,1335,0,0,0
 Pima,055,Ballots Cast,,,,1113,937,165,11
 Pima,055,President,,DEM,Kamala D. HARRIS / Tim WALZ,714,622,85,7
 Pima,055,President,,REP,Donald J. TRUMP / JD VANCE,366,286,77,3
@@ -10231,7 +10231,7 @@ Pima,055,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,055,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,596,520,72,4
 Pima,055,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,357,300,54,3
 Pima,055,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,953,820,126,7
-Pima,056,Registered Voters,,,,2480,2480,2480,2480
+Pima,056,Registered Voters,,,,2480,0,0,0
 Pima,056,Ballots Cast,,,,2225,2031,191,3
 Pima,056,President,,DEM,Kamala D. HARRIS / Tim WALZ,1546,1457,89,0
 Pima,056,President,,REP,Donald J. TRUMP / JD VANCE,631,537,91,3
@@ -10426,7 +10426,7 @@ Pima,056,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,056,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,110,103,7,0
 Pima,056,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,75,64,11,0
 Pima,056,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,185,167,18,0
-Pima,057,Registered Voters,,,,3847,3847,3847,3847
+Pima,057,Registered Voters,,,,3847,0,0,0
 Pima,057,Ballots Cast,,,,2840,2413,402,25
 Pima,057,President,,DEM,Kamala D. HARRIS / Tim WALZ,2037,1810,211,16
 Pima,057,President,,REP,Donald J. TRUMP / JD VANCE,728,540,181,7
@@ -10614,7 +10614,7 @@ Pima,057,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,057,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1570,1381,180,9
 Pima,057,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,867,723,138,6
 Pima,057,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2437,2104,318,15
-Pima,058,Registered Voters,,,,1040,1040,1040,1040
+Pima,058,Registered Voters,,,,1040,0,0,0
 Pima,058,Ballots Cast,,,,817,679,128,10
 Pima,058,President,,DEM,Kamala D. HARRIS / Tim WALZ,596,520,73,3
 Pima,058,President,,REP,Donald J. TRUMP / JD VANCE,194,134,54,6
@@ -10805,7 +10805,7 @@ Pima,058,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,058,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,468,400,65,3
 Pima,058,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,242,206,33,3
 Pima,058,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,710,606,98,6
-Pima,059,Registered Voters,,,,2207,2207,2207,2207
+Pima,059,Registered Voters,,,,2207,0,0,0
 Pima,059,Ballots Cast,,,,1456,1183,260,13
 Pima,059,President,,DEM,Kamala D. HARRIS / Tim WALZ,974,838,127,9
 Pima,059,President,,REP,Donald J. TRUMP / JD VANCE,453,323,126,4
@@ -10997,7 +10997,7 @@ Pima,059,PROPOSITION 314,,,Total Votes,1306,1067,227,12
 Pima,059,PROPOSITION 315,,,Yes,437,327,100,10
 Pima,059,PROPOSITION 315,,,No,819,699,118,2
 Pima,059,PROPOSITION 315,,,Total Votes,1256,1026,218,12
-Pima,060,Registered Voters,,,,2003,2003,2003,2003
+Pima,060,Registered Voters,,,,2003,0,0,0
 Pima,060,Ballots Cast,,,,1333,980,337,16
 Pima,060,President,,DEM,Kamala D. HARRIS / Tim WALZ,586,478,105,3
 Pima,060,President,,REP,Donald J. TRUMP / JD VANCE,714,474,227,13
@@ -11185,7 +11185,7 @@ Pima,060,PROPOSITION 314,,,Total Votes,1197,894,290,13
 Pima,060,PROPOSITION 315,,,Yes,537,386,143,8
 Pima,060,PROPOSITION 315,,,No,609,471,133,5
 Pima,060,PROPOSITION 315,,,Total Votes,1146,857,276,13
-Pima,061,Registered Voters,,,,2109,2109,2109,2109
+Pima,061,Registered Voters,,,,2109,0,0,0
 Pima,061,Ballots Cast,,,,1888,1748,137,3
 Pima,061,President,,DEM,Kamala D. HARRIS / Tim WALZ,1162,1104,56,2
 Pima,061,President,,REP,Donald J. TRUMP / JD VANCE,677,607,69,1
@@ -11384,7 +11384,7 @@ Pima,061,PROPOSITION 314,,,Total Votes,1673,1550,120,3
 Pima,061,PROPOSITION 315,,,Yes,604,550,53,1
 Pima,061,PROPOSITION 315,,,No,1020,960,58,2
 Pima,061,PROPOSITION 315,,,Total Votes,1624,1510,111,3
-Pima,062,Registered Voters,,,,3385,3385,3385,3385
+Pima,062,Registered Voters,,,,3385,0,0,0
 Pima,062,Ballots Cast,,,,1810,1406,366,38
 Pima,062,President,,DEM,Kamala D. HARRIS / Tim WALZ,1277,1040,220,17
 Pima,062,President,,REP,Donald J. TRUMP / JD VANCE,484,325,139,20
@@ -11576,7 +11576,7 @@ Pima,062,PROPOSITION 314,,,Total Votes,1228,1031,182,15
 Pima,062,PROPOSITION 315,,,Yes,357,288,65,4
 Pima,062,PROPOSITION 315,,,No,821,699,112,10
 Pima,062,PROPOSITION 315,,,Total Votes,1178,987,177,14
-Pima,063,Registered Voters,,,,1461,1461,1461,1461
+Pima,063,Registered Voters,,,,1461,0,0,0
 Pima,063,Ballots Cast,,,,1283,1179,98,6
 Pima,063,President,,DEM,Kamala D. HARRIS / Tim WALZ,1029,969,55,5
 Pima,063,President,,REP,Donald J. TRUMP / JD VANCE,220,184,35,1
@@ -11766,7 +11766,7 @@ Pima,063,PROPOSITION 314,,,Total Votes,1150,1068,79,3
 Pima,063,PROPOSITION 315,,,Yes,222,193,28,1
 Pima,063,PROPOSITION 315,,,No,900,855,44,1
 Pima,063,PROPOSITION 315,,,Total Votes,1122,1048,72,2
-Pima,064,Registered Voters,,,,2372,2372,2372,2372
+Pima,064,Registered Voters,,,,2372,0,0,0
 Pima,064,Ballots Cast,,,,1336,1047,273,16
 Pima,064,President,,DEM,Kamala D. HARRIS / Tim WALZ,952,778,162,12
 Pima,064,President,,REP,Donald J. TRUMP / JD VANCE,349,244,101,4
@@ -11954,7 +11954,7 @@ Pima,064,PROPOSITION 314,,,Total Votes,1142,916,216,10
 Pima,064,PROPOSITION 315,,,Yes,380,279,93,8
 Pima,064,PROPOSITION 315,,,No,722,603,117,2
 Pima,064,PROPOSITION 315,,,Total Votes,1102,882,210,10
-Pima,065,Registered Voters,,,,26,26,26,26
+Pima,065,Registered Voters,,,,26,0,0,0
 Pima,065,Ballots Cast,,,,23,23,0,0
 Pima,065,President,,DEM,Kamala D. HARRIS / Tim WALZ,11,11,0,0
 Pima,065,President,,REP,Donald J. TRUMP / JD VANCE,12,12,0,0
@@ -12141,7 +12141,7 @@ Pima,065,PROPOSITION 314,,,Total Votes,23,23,0,0
 Pima,065,PROPOSITION 315,,,Yes,8,8,0,0
 Pima,065,PROPOSITION 315,,,No,15,15,0,0
 Pima,065,PROPOSITION 315,,,Total Votes,23,23,0,0
-Pima,066,Registered Voters,,,,3503,3503,3503,3503
+Pima,066,Registered Voters,,,,3503,0,0,0
 Pima,066,Ballots Cast,,,,1822,1441,358,23
 Pima,066,President,,DEM,Kamala D. HARRIS / Tim WALZ,1266,1049,205,12
 Pima,066,President,,REP,Donald J. TRUMP / JD VANCE,513,360,144,9
@@ -12326,7 +12326,7 @@ Pima,066,PROPOSITION 314,,,Total Votes,1618,1296,305,17
 Pima,066,PROPOSITION 315,,,Yes,540,415,115,10
 Pima,066,PROPOSITION 315,,,No,1037,853,177,7
 Pima,066,PROPOSITION 315,,,Total Votes,1577,1268,292,17
-Pima,067,Registered Voters,,,,3061,3061,3061,3061
+Pima,067,Registered Voters,,,,3061,0,0,0
 Pima,067,Ballots Cast,,,,2103,1739,327,37
 Pima,067,President,,DEM,Kamala D. HARRIS / Tim WALZ,1481,1273,184,24
 Pima,067,President,,REP,Donald J. TRUMP / JD VANCE,561,420,129,12
@@ -12522,7 +12522,7 @@ Pima,067,PROPOSITION 314,,,Total Votes,1844,1546,270,28
 Pima,067,PROPOSITION 315,,,Yes,581,472,98,11
 Pima,067,PROPOSITION 315,,,No,1208,1030,162,16
 Pima,067,PROPOSITION 315,,,Total Votes,1789,1502,260,27
-Pima,068,Registered Voters,,,,1504,1504,1504,1504
+Pima,068,Registered Voters,,,,1504,0,0,0
 Pima,068,Ballots Cast,,,,1226,1113,106,7
 Pima,068,President,,DEM,Kamala D. HARRIS / Tim WALZ,950,879,65,6
 Pima,068,President,,REP,Donald J. TRUMP / JD VANCE,241,204,36,1
@@ -12716,7 +12716,7 @@ Pima,068,PROPOSITION 314,,,Total Votes,1118,1020,94,4
 Pima,068,PROPOSITION 315,,,Yes,269,229,40,0
 Pima,068,PROPOSITION 315,,,No,827,772,51,4
 Pima,068,PROPOSITION 315,,,Total Votes,1096,1001,91,4
-Pima,069,Registered Voters,,,,4314,4314,4314,4314
+Pima,069,Registered Voters,,,,4314,0,0,0
 Pima,069,Ballots Cast,,,,3699,3306,366,27
 Pima,069,President,,DEM,Kamala D. HARRIS / Tim WALZ,2193,2027,152,14
 Pima,069,President,,REP,Donald J. TRUMP / JD VANCE,1417,1202,202,13
@@ -12903,7 +12903,7 @@ Pima,069,PROPOSITION 314,,,Total Votes,3248,2922,303,23
 Pima,069,PROPOSITION 315,,,Yes,1236,1083,141,12
 Pima,069,PROPOSITION 315,,,No,1931,1767,155,9
 Pima,069,PROPOSITION 315,,,Total Votes,3167,2850,296,21
-Pima,070,Registered Voters,,,,740,740,740,740
+Pima,070,Registered Voters,,,,740,0,0,0
 Pima,070,Ballots Cast,,,,609,517,91,1
 Pima,070,President,,DEM,Kamala D. HARRIS / Tim WALZ,328,297,31,0
 Pima,070,President,,REP,Donald J. TRUMP / JD VANCE,278,218,59,1
@@ -13100,7 +13100,7 @@ Pima,070,PROPOSITION 315,,,Yes,220,189,31,0
 Pima,070,PROPOSITION 315,,,No,311,265,45,1
 Pima,070,PROPOSITION 315,,,Total Votes,531,454,76,1
 Pima,070,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,547,465,81,1
-Pima,071,Registered Voters,,,,188,188,188,188
+Pima,071,Registered Voters,,,,188,0,0,0
 Pima,071,Ballots Cast,,,,132,62,69,1
 Pima,071,President,,DEM,Kamala D. HARRIS / Tim WALZ,112,52,59,1
 Pima,071,President,,REP,Donald J. TRUMP / JD VANCE,17,9,8,0
@@ -13286,7 +13286,7 @@ Pima,071,PROPOSITION 314,,,Total Votes,124,56,67,1
 Pima,071,PROPOSITION 315,,,Yes,35,17,18,0
 Pima,071,PROPOSITION 315,,,No,84,37,46,1
 Pima,071,PROPOSITION 315,,,Total Votes,119,54,64,1
-Pima,072,Registered Voters,,,,4145,4145,4145,4145
+Pima,072,Registered Voters,,,,4145,0,0,0
 Pima,072,Ballots Cast,,,,2963,2481,428,54
 Pima,072,President,,DEM,Kamala D. HARRIS / Tim WALZ,2104,1841,235,28
 Pima,072,President,,REP,Donald J. TRUMP / JD VANCE,775,568,184,23
@@ -13482,7 +13482,7 @@ Pima,072,PROPOSITION 314,,,Total Votes,2636,2215,378,43
 Pima,072,PROPOSITION 315,,,Yes,817,644,156,17
 Pima,072,PROPOSITION 315,,,No,1723,1495,204,24
 Pima,072,PROPOSITION 315,,,Total Votes,2540,2139,360,41
-Pima,073,Registered Voters,,,,2749,2749,2749,2749
+Pima,073,Registered Voters,,,,2749,0,0,0
 Pima,073,Ballots Cast,,,,2405,2194,194,17
 Pima,073,President,,DEM,Kamala D. HARRIS / Tim WALZ,1948,1816,124,8
 Pima,073,President,,REP,Donald J. TRUMP / JD VANCE,396,330,59,7
@@ -13675,7 +13675,7 @@ Pima,073,PROPOSITION 314,,,Total Votes,2149,1973,163,13
 Pima,073,PROPOSITION 315,,,Yes,424,371,48,5
 Pima,073,PROPOSITION 315,,,No,1665,1555,102,8
 Pima,073,PROPOSITION 315,,,Total Votes,2089,1926,150,13
-Pima,074,Registered Voters,,,,2345,2345,2345,2345
+Pima,074,Registered Voters,,,,2345,0,0,0
 Pima,074,Ballots Cast,,,,2187,2027,158,2
 Pima,074,President,,DEM,Kamala D. HARRIS / Tim WALZ,1213,1148,64,1
 Pima,074,President,,REP,Donald J. TRUMP / JD VANCE,931,839,91,1
@@ -13855,7 +13855,7 @@ Pima,074,PROPOSITION 315,,,Yes,780,711,69,0
 Pima,074,PROPOSITION 315,,,No,1102,1034,67,1
 Pima,074,PROPOSITION 315,,,Total Votes,1882,1745,136,1
 Pima,074,PROPOSITION 410 - Continental School District No. 39,,,Total Votes,1920,1779,140,1
-Pima,075,Registered Voters,,,,3111,3111,3111,3111
+Pima,075,Registered Voters,,,,3111,0,0,0
 Pima,075,Ballots Cast,,,,2380,2046,298,36
 Pima,075,President,,DEM,Kamala D. HARRIS / Tim WALZ,1820,1625,169,26
 Pima,075,President,,REP,Donald J. TRUMP / JD VANCE,472,351,112,9
@@ -14050,7 +14050,7 @@ Pima,075,PROPOSITION 314,,,Total Votes,2129,1842,258,29
 Pima,075,PROPOSITION 315,,,Yes,520,412,93,15
 Pima,075,PROPOSITION 315,,,No,1565,1395,158,12
 Pima,075,PROPOSITION 315,,,Total Votes,2085,1807,251,27
-Pima,076,Registered Voters,,,,398,398,398,398
+Pima,076,Registered Voters,,,,398,0,0,0
 Pima,076,Ballots Cast,,,,256,112,140,4
 Pima,076,President,,DEM,Kamala D. HARRIS / Tim WALZ,225,105,116,4
 Pima,076,President,,REP,Donald J. TRUMP / JD VANCE,25,5,20,0
@@ -14236,7 +14236,7 @@ Pima,076,PROPOSITION 314,,,Total Votes,229,101,125,3
 Pima,076,PROPOSITION 315,,,Yes,89,35,53,1
 Pima,076,PROPOSITION 315,,,No,133,61,70,2
 Pima,076,PROPOSITION 315,,,Total Votes,222,96,123,3
-Pima,077,Registered Voters,,,,2625,2625,2625,2625
+Pima,077,Registered Voters,,,,2625,0,0,0
 Pima,077,Ballots Cast,,,,2352,2131,214,7
 Pima,077,President,,DEM,Kamala D. HARRIS / Tim WALZ,1114,1050,63,1
 Pima,077,President,,REP,Donald J. TRUMP / JD VANCE,1190,1035,149,6
@@ -14423,7 +14423,7 @@ Pima,077,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,077,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1178,1080,95,3
 Pima,077,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,951,858,91,2
 Pima,077,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2129,1938,186,5
-Pima,078,Registered Voters,,,,1831,1831,1831,1831
+Pima,078,Registered Voters,,,,1831,0,0,0
 Pima,078,Ballots Cast,,,,1546,1400,140,6
 Pima,078,President,,DEM,Kamala D. HARRIS / Tim WALZ,1251,1162,84,5
 Pima,078,President,,REP,Donald J. TRUMP / JD VANCE,252,200,51,1
@@ -14616,7 +14616,7 @@ Pima,078,PROPOSITION 314,,,Total Votes,1411,1290,116,5
 Pima,078,PROPOSITION 315,,,Yes,262,222,38,2
 Pima,078,PROPOSITION 315,,,No,1119,1041,74,4
 Pima,078,PROPOSITION 315,,,Total Votes,1381,1263,112,6
-Pima,079,Registered Voters,,,,3438,3438,3438,3438
+Pima,079,Registered Voters,,,,3438,0,0,0
 Pima,079,Ballots Cast,,,,2808,2287,505,16
 Pima,079,President,,DEM,Kamala D. HARRIS / Tim WALZ,1261,1105,150,6
 Pima,079,President,,REP,Donald J. TRUMP / JD VANCE,1480,1135,335,10
@@ -14808,7 +14808,7 @@ Pima,079,PROPOSITION 315,,,Yes,1132,899,225,8
 Pima,079,PROPOSITION 315,,,No,1287,1090,190,7
 Pima,079,PROPOSITION 315,,,Total Votes,2419,1989,415,15
 Pima,079,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,2483,2046,422,15
-Pima,080,Registered Voters,,,,2744,2744,2744,2744
+Pima,080,Registered Voters,,,,2744,0,0,0
 Pima,080,Ballots Cast,,,,2199,1927,251,21
 Pima,080,President,,DEM,Kamala D. HARRIS / Tim WALZ,1696,1542,140,14
 Pima,080,President,,REP,Donald J. TRUMP / JD VANCE,446,342,99,5
@@ -14999,7 +14999,7 @@ Pima,080,PROPOSITION 314,,,Total Votes,1931,1697,216,18
 Pima,080,PROPOSITION 315,,,Yes,458,371,83,4
 Pima,080,PROPOSITION 315,,,No,1429,1295,122,12
 Pima,080,PROPOSITION 315,,,Total Votes,1887,1666,205,16
-Pima,081,Registered Voters,,,,1289,1289,1289,1289
+Pima,081,Registered Voters,,,,1289,0,0,0
 Pima,081,Ballots Cast,,,,1020,826,186,8
 Pima,081,President,,DEM,Kamala D. HARRIS / Tim WALZ,452,406,41,5
 Pima,081,President,,REP,Donald J. TRUMP / JD VANCE,543,405,135,3
@@ -15190,7 +15190,7 @@ Pima,081,PROPOSITION 315,,,Yes,408,310,92,6
 Pima,081,PROPOSITION 315,,,No,465,409,54,2
 Pima,081,PROPOSITION 315,,,Total Votes,873,719,146,8
 Pima,081,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,904,743,153,8
-Pima,082,Registered Voters,,,,2300,2300,2300,2300
+Pima,082,Registered Voters,,,,2300,0,0,0
 Pima,082,Ballots Cast,,,,1892,1652,226,14
 Pima,082,President,,DEM,Kamala D. HARRIS / Tim WALZ,1509,1369,131,9
 Pima,082,President,,REP,Donald J. TRUMP / JD VANCE,338,247,86,5
@@ -15375,7 +15375,7 @@ Pima,082,PROPOSITION 314,,,Total Votes,1714,1513,191,10
 Pima,082,PROPOSITION 315,,,Yes,366,285,75,6
 Pima,082,PROPOSITION 315,,,No,1317,1202,111,4
 Pima,082,PROPOSITION 315,,,Total Votes,1683,1487,186,10
-Pima,083,Registered Voters,,,,2266,2266,2266,2266
+Pima,083,Registered Voters,,,,2266,0,0,0
 Pima,083,Ballots Cast,,,,1856,1557,280,19
 Pima,083,President,,DEM,Kamala D. HARRIS / Tim WALZ,674,596,74,4
 Pima,083,President,,REP,Donald J. TRUMP / JD VANCE,1148,931,203,14
@@ -15580,7 +15580,7 @@ Pima,083,PROPOSITION 406,,,Total Votes,1476,1253,205,18
 Pima,083,PROPOSITION 407,,,Yes,1111,963,137,11
 Pima,083,PROPOSITION 407,,,No,389,307,75,7
 Pima,083,PROPOSITION 407,,,Total Votes,1500,1270,212,18
-Pima,084,Registered Voters,,,,7415,7415,7415,7415
+Pima,084,Registered Voters,,,,7415,0,0,0
 Pima,084,Ballots Cast,,,,6711,6098,592,21
 Pima,084,President,,DEM,Kamala D. HARRIS / Tim WALZ,3286,3125,150,11
 Pima,084,President,,REP,Donald J. TRUMP / JD VANCE,3311,2873,428,10
@@ -15773,7 +15773,7 @@ Pima,084,PROPOSITION 406,,,Total Votes,5844,5321,505,18
 Pima,084,PROPOSITION 407,,,Yes,3876,3553,312,11
 Pima,084,PROPOSITION 407,,,No,1787,1601,179,7
 Pima,084,PROPOSITION 407,,,Total Votes,5663,5154,491,18
-Pima,085,Registered Voters,,,,1069,1069,1069,1069
+Pima,085,Registered Voters,,,,1069,0,0,0
 Pima,085,Ballots Cast,,,,825,695,124,6
 Pima,085,President,,DEM,Kamala D. HARRIS / Tim WALZ,533,470,60,3
 Pima,085,President,,REP,Donald J. TRUMP / JD VANCE,270,209,58,3
@@ -15959,7 +15959,7 @@ Pima,085,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,085,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,441,378,60,3
 Pima,085,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,268,227,39,2
 Pima,085,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,709,605,99,5
-Pima,086,Registered Voters,,,,4173,4173,4173,4173
+Pima,086,Registered Voters,,,,4173,0,0,0
 Pima,086,Ballots Cast,,,,2877,2480,374,23
 Pima,086,President,,DEM,Kamala D. HARRIS / Tim WALZ,1964,1760,189,15
 Pima,086,President,,REP,Donald J. TRUMP / JD VANCE,841,655,178,8
@@ -16144,7 +16144,7 @@ Pima,086,PROPOSITION 314,,,Total Votes,2584,2255,307,22
 Pima,086,PROPOSITION 315,,,Yes,802,677,119,6
 Pima,086,PROPOSITION 315,,,No,1709,1516,178,15
 Pima,086,PROPOSITION 315,,,Total Votes,2511,2193,297,21
-Pima,087,Registered Voters,,,,635,635,635,635
+Pima,087,Registered Voters,,,,635,0,0,0
 Pima,087,Ballots Cast,,,,486,417,64,5
 Pima,087,President,,DEM,Kamala D. HARRIS / Tim WALZ,346,302,40,4
 Pima,087,President,,REP,Donald J. TRUMP / JD VANCE,130,109,20,1
@@ -16327,7 +16327,7 @@ Pima,087,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,087,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,207,181,26,0
 Pima,087,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,155,125,29,1
 Pima,087,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,362,306,55,1
-Pima,088,Registered Voters,,,,3042,3042,3042,3042
+Pima,088,Registered Voters,,,,3042,0,0,0
 Pima,088,Ballots Cast,,,,2637,2395,239,3
 Pima,088,President,,DEM,Kamala D. HARRIS / Tim WALZ,1628,1534,91,3
 Pima,088,President,,REP,Donald J. TRUMP / JD VANCE,952,814,138,0
@@ -16518,7 +16518,7 @@ Pima,088,PROPOSITION 314,,,Total Votes,2362,2143,216,3
 Pima,088,PROPOSITION 315,,,Yes,879,764,112,3
 Pima,088,PROPOSITION 315,,,No,1433,1332,101,0
 Pima,088,PROPOSITION 315,,,Total Votes,2312,2096,213,3
-Pima,089,Registered Voters,,,,3067,3067,3067,3067
+Pima,089,Registered Voters,,,,3067,0,0,0
 Pima,089,Ballots Cast,,,,2533,2232,280,21
 Pima,089,President,,DEM,Kamala D. HARRIS / Tim WALZ,1776,1636,124,16
 Pima,089,President,,REP,Donald J. TRUMP / JD VANCE,699,552,145,2
@@ -16708,7 +16708,7 @@ Pima,089,PROPOSITION 314,,,Total Votes,2253,1995,241,17
 Pima,089,PROPOSITION 315,,,Yes,709,579,123,7
 Pima,089,PROPOSITION 315,,,No,1472,1361,102,9
 Pima,089,PROPOSITION 315,,,Total Votes,2181,1940,225,16
-Pima,090,Registered Voters,,,,1737,1737,1737,1737
+Pima,090,Registered Voters,,,,1737,0,0,0
 Pima,090,Ballots Cast,,,,1450,1183,255,12
 Pima,090,President,,DEM,Kamala D. HARRIS / Tim WALZ,656,574,76,6
 Pima,090,President,,REP,Donald J. TRUMP / JD VANCE,760,588,167,5
@@ -16895,7 +16895,7 @@ Pima,090,PROPOSITION 314,,,Total Votes,1310,1077,223,10
 Pima,090,PROPOSITION 315,,,Yes,588,464,119,5
 Pima,090,PROPOSITION 315,,,No,672,568,99,5
 Pima,090,PROPOSITION 315,,,Total Votes,1260,1032,218,10
-Pima,091,Registered Voters,,,,3220,3220,3220,3220
+Pima,091,Registered Voters,,,,3220,0,0,0
 Pima,091,Ballots Cast,,,,2390,1979,373,38
 Pima,091,President,,DEM,Kamala D. HARRIS / Tim WALZ,1669,1457,192,20
 Pima,091,President,,REP,Donald J. TRUMP / JD VANCE,641,461,162,18
@@ -17087,7 +17087,7 @@ Pima,091,PROPOSITION 314,,,Total Votes,2137,1784,321,32
 Pima,091,PROPOSITION 315,,,Yes,703,542,142,19
 Pima,091,PROPOSITION 315,,,No,1371,1196,164,11
 Pima,091,PROPOSITION 315,,,Total Votes,2074,1738,306,30
-Pima,092,Registered Voters,,,,3245,3245,3245,3245
+Pima,092,Registered Voters,,,,3245,0,0,0
 Pima,092,Ballots Cast,,,,2857,2541,308,8
 Pima,092,President,,DEM,Kamala D. HARRIS / Tim WALZ,1684,1566,115,3
 Pima,092,President,,REP,Donald J. TRUMP / JD VANCE,1114,927,182,5
@@ -17292,7 +17292,7 @@ Pima,092,PROPOSITION 315,,,Yes,984,859,123,2
 Pima,092,PROPOSITION 315,,,No,1550,1418,127,5
 Pima,092,PROPOSITION 315,,,Total Votes,2534,2277,250,7
 Pima,092,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,26,20,6,0
-Pima,093,Registered Voters,,,,2255,2255,2255,2255
+Pima,093,Registered Voters,,,,2255,0,0,0
 Pima,093,Ballots Cast,,,,1849,1643,197,9
 Pima,093,President,,DEM,Kamala D. HARRIS / Tim WALZ,1346,1231,108,7
 Pima,093,President,,REP,Donald J. TRUMP / JD VANCE,451,366,84,1
@@ -17484,7 +17484,7 @@ Pima,093,PROPOSITION 314,,,Total Votes,1662,1476,179,7
 Pima,093,PROPOSITION 315,,,Yes,455,379,75,1
 Pima,093,PROPOSITION 315,,,No,1148,1048,94,6
 Pima,093,PROPOSITION 315,,,Total Votes,1603,1427,169,7
-Pima,094,Registered Voters,,,,2203,2203,2203,2203
+Pima,094,Registered Voters,,,,2203,0,0,0
 Pima,094,Ballots Cast,,,,1759,1558,193,8
 Pima,094,President,,DEM,Kamala D. HARRIS / Tim WALZ,1314,1209,103,2
 Pima,094,President,,REP,Donald J. TRUMP / JD VANCE,398,308,84,6
@@ -17676,7 +17676,7 @@ Pima,094,PROPOSITION 314,,,Total Votes,1576,1417,151,8
 Pima,094,PROPOSITION 315,,,Yes,393,330,61,2
 Pima,094,PROPOSITION 315,,,No,1145,1054,85,6
 Pima,094,PROPOSITION 315,,,Total Votes,1538,1384,146,8
-Pima,095,Registered Voters,,,,1468,1468,1468,1468
+Pima,095,Registered Voters,,,,1468,0,0,0
 Pima,095,Ballots Cast,,,,1237,1029,196,12
 Pima,095,President,,DEM,Kamala D. HARRIS / Tim WALZ,554,477,73,4
 Pima,095,President,,REP,Donald J. TRUMP / JD VANCE,652,530,114,8
@@ -17863,7 +17863,7 @@ Pima,095,PROPOSITION 314,,,Total Votes,1120,939,171,10
 Pima,095,PROPOSITION 315,,,Yes,504,417,81,6
 Pima,095,PROPOSITION 315,,,No,573,491,80,2
 Pima,095,PROPOSITION 315,,,Total Votes,1077,908,161,8
-Pima,096,Registered Voters,,,,2461,2461,2461,2461
+Pima,096,Registered Voters,,,,2461,0,0,0
 Pima,096,Ballots Cast,,,,2118,1926,180,12
 Pima,096,President,,DEM,Kamala D. HARRIS / Tim WALZ,1593,1498,88,7
 Pima,096,President,,REP,Donald J. TRUMP / JD VANCE,490,399,87,4
@@ -18048,7 +18048,7 @@ Pima,096,PROPOSITION 314,,,Total Votes,1945,1778,157,10
 Pima,096,PROPOSITION 315,,,Yes,474,405,67,2
 Pima,096,PROPOSITION 315,,,No,1424,1331,85,8
 Pima,096,PROPOSITION 315,,,Total Votes,1898,1736,152,10
-Pima,097,Registered Voters,,,,2037,2037,2037,2037
+Pima,097,Registered Voters,,,,2037,0,0,0
 Pima,097,Ballots Cast,,,,1592,1357,218,17
 Pima,097,President,,DEM,Kamala D. HARRIS / Tim WALZ,1142,1012,120,10
 Pima,097,President,,REP,Donald J. TRUMP / JD VANCE,409,306,96,7
@@ -18241,7 +18241,7 @@ Pima,097,PROPOSITION 314,,,Total Votes,1420,1223,181,16
 Pima,097,PROPOSITION 315,,,Yes,396,315,77,4
 Pima,097,PROPOSITION 315,,,No,999,888,101,10
 Pima,097,PROPOSITION 315,,,Total Votes,1395,1203,178,14
-Pima,098,Registered Voters,,,,3410,3410,3410,3410
+Pima,098,Registered Voters,,,,3410,0,0,0
 Pima,098,Ballots Cast,,,,2265,1888,357,20
 Pima,098,President,,DEM,Kamala D. HARRIS / Tim WALZ,1491,1300,179,12
 Pima,098,President,,REP,Donald J. TRUMP / JD VANCE,700,526,166,8
@@ -18426,7 +18426,7 @@ Pima,098,PROPOSITION 314,,,Total Votes,1993,1690,288,15
 Pima,098,PROPOSITION 315,,,Yes,700,573,122,5
 Pima,098,PROPOSITION 315,,,No,1263,1090,162,11
 Pima,098,PROPOSITION 315,,,Total Votes,1963,1663,284,16
-Pima,099,Registered Voters,,,,2289,2289,2289,2289
+Pima,099,Registered Voters,,,,2289,0,0,0
 Pima,099,Ballots Cast,,,,1991,1839,147,5
 Pima,099,President,,DEM,Kamala D. HARRIS / Tim WALZ,1372,1315,55,2
 Pima,099,President,,REP,Donald J. TRUMP / JD VANCE,570,481,86,3
@@ -18613,7 +18613,7 @@ Pima,099,PROPOSITION 314,,,Total Votes,1801,1663,133,5
 Pima,099,PROPOSITION 315,,,Yes,468,404,63,1
 Pima,099,PROPOSITION 315,,,No,1261,1199,58,4
 Pima,099,PROPOSITION 315,,,Total Votes,1729,1603,121,5
-Pima,100,Registered Voters,,,,2810,2810,2810,2810
+Pima,100,Registered Voters,,,,2810,0,0,0
 Pima,100,Ballots Cast,,,,2188,1927,246,15
 Pima,100,President,,DEM,Kamala D. HARRIS / Tim WALZ,1470,1326,131,13
 Pima,100,President,,REP,Donald J. TRUMP / JD VANCE,650,541,107,2
@@ -18805,7 +18805,7 @@ Pima,100,PROPOSITION 314,,,Total Votes,1968,1741,212,15
 Pima,100,PROPOSITION 315,,,Yes,665,558,101,6
 Pima,100,PROPOSITION 315,,,No,1242,1133,103,6
 Pima,100,PROPOSITION 315,,,Total Votes,1907,1691,204,12
-Pima,101,Registered Voters,,,,2137,2137,2137,2137
+Pima,101,Registered Voters,,,,2137,0,0,0
 Pima,101,Ballots Cast,,,,1581,1281,291,9
 Pima,101,President,,DEM,Kamala D. HARRIS / Tim WALZ,792,693,98,1
 Pima,101,President,,REP,Donald J. TRUMP / JD VANCE,762,567,187,8
@@ -19010,7 +19010,7 @@ Pima,101,PROPOSITION 315,,,Yes,596,466,127,3
 Pima,101,PROPOSITION 315,,,No,799,672,123,4
 Pima,101,PROPOSITION 315,,,Total Votes,1395,1138,250,7
 Pima,101,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,265,216,48,1
-Pima,102,Registered Voters,,,,939,939,939,939
+Pima,102,Registered Voters,,,,939,0,0,0
 Pima,102,Ballots Cast,,,,556,412,137,7
 Pima,102,President,,DEM,Kamala D. HARRIS / Tim WALZ,323,252,69,2
 Pima,102,President,,REP,Donald J. TRUMP / JD VANCE,228,156,67,5
@@ -19203,7 +19203,7 @@ Pima,102,PROPOSITION 314,,,Total Votes,494,371,118,5
 Pima,102,PROPOSITION 315,,,Yes,200,143,55,2
 Pima,102,PROPOSITION 315,,,No,274,209,62,3
 Pima,102,PROPOSITION 315,,,Total Votes,474,352,117,5
-Pima,103,Registered Voters,,,,1259,1259,1259,1259
+Pima,103,Registered Voters,,,,1259,0,0,0
 Pima,103,Ballots Cast,,,,1069,959,106,4
 Pima,103,President,,DEM,Kamala D. HARRIS / Tim WALZ,791,730,58,3
 Pima,103,President,,REP,Donald J. TRUMP / JD VANCE,251,204,46,1
@@ -19395,7 +19395,7 @@ Pima,103,PROPOSITION 314,,,Total Votes,953,862,88,3
 Pima,103,PROPOSITION 315,,,Yes,255,212,43,0
 Pima,103,PROPOSITION 315,,,No,671,625,43,3
 Pima,103,PROPOSITION 315,,,Total Votes,926,837,86,3
-Pima,104,Registered Voters,,,,4452,4452,4452,4452
+Pima,104,Registered Voters,,,,4452,0,0,0
 Pima,104,Ballots Cast,,,,3847,3324,510,13
 Pima,104,President,,DEM,Kamala D. HARRIS / Tim WALZ,1955,1790,160,5
 Pima,104,President,,REP,Donald J. TRUMP / JD VANCE,1819,1472,339,8
@@ -19593,7 +19593,7 @@ Pima,104,PROPOSITION 315,,,Yes,1519,1268,245,6
 Pima,104,PROPOSITION 315,,,No,1835,1645,184,6
 Pima,104,PROPOSITION 315,,,Total Votes,3354,2913,429,12
 Pima,104,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,3469,3009,448,12
-Pima,105,Registered Voters,,,,2171,2171,2171,2171
+Pima,105,Registered Voters,,,,2171,0,0,0
 Pima,105,Ballots Cast,,,,1344,1099,233,12
 Pima,105,President,,DEM,Kamala D. HARRIS / Tim WALZ,761,655,99,7
 Pima,105,President,,REP,Donald J. TRUMP / JD VANCE,547,421,121,5
@@ -19778,7 +19778,7 @@ Pima,105,PROPOSITION 314,,,Total Votes,1169,967,192,10
 Pima,105,PROPOSITION 315,,,Yes,496,400,90,6
 Pima,105,PROPOSITION 315,,,No,643,541,98,4
 Pima,105,PROPOSITION 315,,,Total Votes,1139,941,188,10
-Pima,106,Registered Voters,,,,1460,1460,1460,1460
+Pima,106,Registered Voters,,,,1460,0,0,0
 Pima,106,Ballots Cast,,,,1329,1219,107,3
 Pima,106,President,,DEM,Kamala D. HARRIS / Tim WALZ,755,718,37,0
 Pima,106,President,,REP,Donald J. TRUMP / JD VANCE,541,474,64,3
@@ -19965,7 +19965,7 @@ Pima,106,PROPOSITION 314,,,Total Votes,1200,1104,93,3
 Pima,106,PROPOSITION 315,,,Yes,436,391,44,1
 Pima,106,PROPOSITION 315,,,No,715,670,43,2
 Pima,106,PROPOSITION 315,,,Total Votes,1151,1061,87,3
-Pima,107,Registered Voters,,,,3350,3350,3350,3350
+Pima,107,Registered Voters,,,,3350,0,0,0
 Pima,107,Ballots Cast,,,,2668,2304,346,18
 Pima,107,President,,DEM,Kamala D. HARRIS / Tim WALZ,1827,1637,182,8
 Pima,107,President,,REP,Donald J. TRUMP / JD VANCE,777,615,153,9
@@ -20152,7 +20152,7 @@ Pima,107,PROPOSITION 314,,,Total Votes,2382,2062,303,17
 Pima,107,PROPOSITION 315,,,Yes,818,678,132,8
 Pima,107,PROPOSITION 315,,,No,1479,1316,155,8
 Pima,107,PROPOSITION 315,,,Total Votes,2297,1994,287,16
-Pima,108,Registered Voters,,,,4223,4223,4223,4223
+Pima,108,Registered Voters,,,,4223,0,0,0
 Pima,108,Ballots Cast,,,,3416,3016,380,20
 Pima,108,President,,DEM,Kamala D. HARRIS / Tim WALZ,2295,2092,190,13
 Pima,108,President,,REP,Donald J. TRUMP / JD VANCE,1048,867,174,7
@@ -20344,7 +20344,7 @@ Pima,108,PROPOSITION 314,,,Total Votes,3039,2695,326,18
 Pima,108,PROPOSITION 315,,,Yes,935,790,136,9
 Pima,108,PROPOSITION 315,,,No,2011,1822,180,9
 Pima,108,PROPOSITION 315,,,Total Votes,2946,2612,316,18
-Pima,109,Registered Voters,,,,7080,7080,7080,7080
+Pima,109,Registered Voters,,,,7080,0,0,0
 Pima,109,Ballots Cast,,,,6138,5253,862,23
 Pima,109,President,,DEM,Kamala D. HARRIS / Tim WALZ,2527,2313,205,9
 Pima,109,President,,REP,Donald J. TRUMP / JD VANCE,3509,2849,646,14
@@ -20531,7 +20531,7 @@ Pima,109,PROPOSITION 314,,,Total Votes,5574,4773,784,17
 Pima,109,PROPOSITION 315,,,Yes,2762,2297,453,12
 Pima,109,PROPOSITION 315,,,No,2585,2288,292,5
 Pima,109,PROPOSITION 315,,,Total Votes,5347,4585,745,17
-Pima,110,Registered Voters,,,,2361,2361,2361,2361
+Pima,110,Registered Voters,,,,2361,0,0,0
 Pima,110,Ballots Cast,,,,1040,581,444,15
 Pima,110,President,,DEM,Kamala D. HARRIS / Tim WALZ,848,476,362,10
 Pima,110,President,,REP,Donald J. TRUMP / JD VANCE,156,85,66,5
@@ -20724,7 +20724,7 @@ Pima,110,PROPOSITION 314,,,Total Votes,893,523,358,12
 Pima,110,PROPOSITION 315,,,Yes,293,140,145,8
 Pima,110,PROPOSITION 315,,,No,582,375,203,4
 Pima,110,PROPOSITION 315,,,Total Votes,875,515,348,12
-Pima,111,Registered Voters,,,,2176,2176,2176,2176
+Pima,111,Registered Voters,,,,2176,0,0,0
 Pima,111,Ballots Cast,,,,1783,1572,200,11
 Pima,111,President,,DEM,Kamala D. HARRIS / Tim WALZ,1138,1030,101,7
 Pima,111,President,,REP,Donald J. TRUMP / JD VANCE,602,505,93,4
@@ -20910,7 +20910,7 @@ Pima,111,PROPOSITION 314,,,Total Votes,1597,1412,175,10
 Pima,111,PROPOSITION 315,,,Yes,532,448,77,7
 Pima,111,PROPOSITION 315,,,No,1023,931,89,3
 Pima,111,PROPOSITION 315,,,Total Votes,1555,1379,166,10
-Pima,112,Registered Voters,,,,3102,3102,3102,3102
+Pima,112,Registered Voters,,,,3102,0,0,0
 Pima,112,Ballots Cast,,,,2763,2527,227,9
 Pima,112,President,,DEM,Kamala D. HARRIS / Tim WALZ,1677,1574,96,7
 Pima,112,President,,REP,Donald J. TRUMP / JD VANCE,1037,908,127,2
@@ -21115,7 +21115,7 @@ Pima,112,PROPOSITION 314,,,Total Votes,2475,2280,188,7
 Pima,112,PROPOSITION 315,,,Yes,885,779,102,4
 Pima,112,PROPOSITION 315,,,No,1519,1445,73,1
 Pima,112,PROPOSITION 315,,,Total Votes,2404,2224,175,5
-Pima,113,Registered Voters,,,,3328,3328,3328,3328
+Pima,113,Registered Voters,,,,3328,0,0,0
 Pima,113,Ballots Cast,,,,2296,1864,409,23
 Pima,113,President,,DEM,Kamala D. HARRIS / Tim WALZ,1357,1148,196,13
 Pima,113,President,,REP,Donald J. TRUMP / JD VANCE,882,670,204,8
@@ -21300,7 +21300,7 @@ Pima,113,PROPOSITION 314,,,Total Votes,2036,1659,359,18
 Pima,113,PROPOSITION 315,,,Yes,833,670,157,6
 Pima,113,PROPOSITION 315,,,No,1132,939,185,8
 Pima,113,PROPOSITION 315,,,Total Votes,1965,1609,342,14
-Pima,114,Registered Voters,,,,1022,1022,1022,1022
+Pima,114,Registered Voters,,,,1022,0,0,0
 Pima,114,Ballots Cast,,,,597,445,140,12
 Pima,114,President,,DEM,Kamala D. HARRIS / Tim WALZ,218,182,35,1
 Pima,114,President,,REP,Donald J. TRUMP / JD VANCE,366,257,98,11
@@ -21486,7 +21486,7 @@ Pima,114,PROPOSITION 314,,,Total Votes,507,378,120,9
 Pima,114,PROPOSITION 315,,,Yes,274,195,73,6
 Pima,114,PROPOSITION 315,,,No,204,158,44,2
 Pima,114,PROPOSITION 315,,,Total Votes,478,353,117,8
-Pima,115,Registered Voters,,,,5452,5452,5452,5452
+Pima,115,Registered Voters,,,,5452,0,0,0
 Pima,115,Ballots Cast,,,,4778,4102,646,30
 Pima,115,President,,DEM,Kamala D. HARRIS / Tim WALZ,2291,2103,179,9
 Pima,115,President,,REP,Donald J. TRUMP / JD VANCE,2407,1928,458,21
@@ -21684,7 +21684,7 @@ Pima,115,PROPOSITION 315,,,Yes,1899,1581,304,14
 Pima,115,PROPOSITION 315,,,No,2210,1984,214,12
 Pima,115,PROPOSITION 315,,,Total Votes,4109,3565,518,26
 Pima,115,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,4305,3715,562,28
-Pima,116,Registered Voters,,,,6100,6100,6100,6100
+Pima,116,Registered Voters,,,,6100,0,0,0
 Pima,116,Ballots Cast,,,,4777,4012,719,46
 Pima,116,President,,DEM,Kamala D. HARRIS / Tim WALZ,2714,2387,301,26
 Pima,116,President,,REP,Donald J. TRUMP / JD VANCE,1954,1536,399,19
@@ -21871,7 +21871,7 @@ Pima,116,PROPOSITION 314,,,Total Votes,4251,3598,622,31
 Pima,116,PROPOSITION 315,,,Yes,1751,1419,315,17
 Pima,116,PROPOSITION 315,,,No,2356,2048,295,13
 Pima,116,PROPOSITION 315,,,Total Votes,4107,3467,610,30
-Pima,117,Registered Voters,,,,2645,2645,2645,2645
+Pima,117,Registered Voters,,,,2645,0,0,0
 Pima,117,Ballots Cast,,,,2101,1839,248,14
 Pima,117,President,,DEM,Kamala D. HARRIS / Tim WALZ,1292,1171,112,9
 Pima,117,President,,REP,Donald J. TRUMP / JD VANCE,755,622,129,4
@@ -22057,7 +22057,7 @@ Pima,117,PROPOSITION 314,,,Total Votes,1903,1675,214,14
 Pima,117,PROPOSITION 315,,,Yes,699,595,100,4
 Pima,117,PROPOSITION 315,,,No,1151,1035,106,10
 Pima,117,PROPOSITION 315,,,Total Votes,1850,1630,206,14
-Pima,118,Registered Voters,,,,2873,2873,2873,2873
+Pima,118,Registered Voters,,,,2873,0,0,0
 Pima,118,Ballots Cast,,,,2500,2251,235,14
 Pima,118,President,,DEM,Kamala D. HARRIS / Tim WALZ,1595,1482,108,5
 Pima,118,President,,REP,Donald J. TRUMP / JD VANCE,849,721,119,9
@@ -22244,7 +22244,7 @@ Pima,118,PROPOSITION 314,,,Total Votes,2223,2011,200,12
 Pima,118,PROPOSITION 315,,,Yes,757,657,95,5
 Pima,118,PROPOSITION 315,,,No,1372,1272,94,6
 Pima,118,PROPOSITION 315,,,Total Votes,2129,1929,189,11
-Pima,119,Registered Voters,,,,2268,2268,2268,2268
+Pima,119,Registered Voters,,,,2268,0,0,0
 Pima,119,Ballots Cast,,,,1790,1508,265,17
 Pima,119,President,,DEM,Kamala D. HARRIS / Tim WALZ,1072,943,122,7
 Pima,119,President,,REP,Donald J. TRUMP / JD VANCE,679,532,137,10
@@ -22430,7 +22430,7 @@ Pima,119,PROPOSITION 314,,,Total Votes,1598,1351,233,14
 Pima,119,PROPOSITION 315,,,Yes,603,487,108,8
 Pima,119,PROPOSITION 315,,,No,947,829,112,6
 Pima,119,PROPOSITION 315,,,Total Votes,1550,1316,220,14
-Pima,120,Registered Voters,,,,3191,3191,3191,3191
+Pima,120,Registered Voters,,,,3191,0,0,0
 Pima,120,Ballots Cast,,,,2415,2029,366,20
 Pima,120,President,,DEM,Kamala D. HARRIS / Tim WALZ,1441,1285,149,7
 Pima,120,President,,REP,Donald J. TRUMP / JD VANCE,901,695,196,10
@@ -22616,7 +22616,7 @@ Pima,120,PROPOSITION 314,,,Total Votes,2182,1849,316,17
 Pima,120,PROPOSITION 315,,,Yes,836,672,154,10
 Pima,120,PROPOSITION 315,,,No,1294,1139,148,7
 Pima,120,PROPOSITION 315,,,Total Votes,2130,1811,302,17
-Pima,121,Registered Voters,,,,911,911,911,911
+Pima,121,Registered Voters,,,,911,0,0,0
 Pima,121,Ballots Cast,,,,827,747,80,0
 Pima,121,President,,DEM,Kamala D. HARRIS / Tim WALZ,452,430,22,0
 Pima,121,President,,REP,Donald J. TRUMP / JD VANCE,357,304,53,0
@@ -22804,7 +22804,7 @@ Pima,121,PROPOSITION 314,,,Total Votes,756,686,70,0
 Pima,121,PROPOSITION 315,,,Yes,261,219,42,0
 Pima,121,PROPOSITION 315,,,No,483,455,28,0
 Pima,121,PROPOSITION 315,,,Total Votes,744,674,70,0
-Pima,122,Registered Voters,,,,2295,2295,2295,2295
+Pima,122,Registered Voters,,,,2295,0,0,0
 Pima,122,Ballots Cast,,,,1706,1419,272,15
 Pima,122,President,,DEM,Kamala D. HARRIS / Tim WALZ,909,791,112,6
 Pima,122,President,,REP,Donald J. TRUMP / JD VANCE,755,594,153,8
@@ -22989,7 +22989,7 @@ Pima,122,PROPOSITION 314,,,Total Votes,1535,1289,233,13
 Pima,122,PROPOSITION 315,,,Yes,687,568,111,8
 Pima,122,PROPOSITION 315,,,No,822,704,114,4
 Pima,122,PROPOSITION 315,,,Total Votes,1509,1272,225,12
-Pima,123,Registered Voters,,,,4608,4608,4608,4608
+Pima,123,Registered Voters,,,,4608,0,0,0
 Pima,123,Ballots Cast,,,,3324,2766,536,22
 Pima,123,President,,DEM,Kamala D. HARRIS / Tim WALZ,1886,1625,248,13
 Pima,123,President,,REP,Donald J. TRUMP / JD VANCE,1382,1097,276,9
@@ -23175,7 +23175,7 @@ Pima,123,PROPOSITION 314,,,Total Votes,2998,2504,477,17
 Pima,123,PROPOSITION 315,,,Yes,1213,982,224,7
 Pima,123,PROPOSITION 315,,,No,1684,1438,236,10
 Pima,123,PROPOSITION 315,,,Total Votes,2897,2420,460,17
-Pima,124,Registered Voters,,,,1677,1677,1677,1677
+Pima,124,Registered Voters,,,,1677,0,0,0
 Pima,124,Ballots Cast,,,,1304,1073,221,10
 Pima,124,President,,DEM,Kamala D. HARRIS / Tim WALZ,659,566,88,5
 Pima,124,President,,REP,Donald J. TRUMP / JD VANCE,616,485,126,5
@@ -23361,7 +23361,7 @@ Pima,124,PROPOSITION 314,,,Total Votes,1167,963,198,6
 Pima,124,PROPOSITION 315,,,Yes,493,391,97,5
 Pima,124,PROPOSITION 315,,,No,632,539,92,1
 Pima,124,PROPOSITION 315,,,Total Votes,1125,930,189,6
-Pima,125,Registered Voters,,,,2331,2331,2331,2331
+Pima,125,Registered Voters,,,,2331,0,0,0
 Pima,125,Ballots Cast,,,,2133,1946,178,9
 Pima,125,President,,DEM,Kamala D. HARRIS / Tim WALZ,1365,1301,62,2
 Pima,125,President,,REP,Donald J. TRUMP / JD VANCE,721,607,109,5
@@ -23554,7 +23554,7 @@ Pima,125,PROPOSITION 314,,,Total Votes,1895,1734,154,7
 Pima,125,PROPOSITION 315,,,Yes,599,514,82,3
 Pima,125,PROPOSITION 315,,,No,1239,1172,64,3
 Pima,125,PROPOSITION 315,,,Total Votes,1838,1686,146,6
-Pima,126,Registered Voters,,,,1622,1622,1622,1622
+Pima,126,Registered Voters,,,,1622,0,0,0
 Pima,126,Ballots Cast,,,,1454,1307,141,6
 Pima,126,President,,DEM,Kamala D. HARRIS / Tim WALZ,750,701,49,0
 Pima,126,President,,REP,Donald J. TRUMP / JD VANCE,672,578,88,6
@@ -23742,7 +23742,7 @@ Pima,126,PROPOSITION 314,,,Total Votes,1319,1194,119,6
 Pima,126,PROPOSITION 315,,,Yes,549,484,63,2
 Pima,126,PROPOSITION 315,,,No,738,681,53,4
 Pima,126,PROPOSITION 315,,,Total Votes,1287,1165,116,6
-Pima,127,Registered Voters,,,,6399,6399,6399,6399
+Pima,127,Registered Voters,,,,6399,0,0,0
 Pima,127,Ballots Cast,,,,5822,5274,528,20
 Pima,127,President,,DEM,Kamala D. HARRIS / Tim WALZ,2638,2459,168,11
 Pima,127,President,,REP,Donald J. TRUMP / JD VANCE,3094,2729,356,9
@@ -23940,7 +23940,7 @@ Pima,127,PROPOSITION 315,,,Yes,2526,2276,248,2
 Pima,127,PROPOSITION 315,,,No,2607,2412,183,12
 Pima,127,PROPOSITION 315,,,Total Votes,5133,4688,431,14
 Pima,127,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,5259,4790,456,13
-Pima,128,Registered Voters,,,,2327,2327,2327,2327
+Pima,128,Registered Voters,,,,2327,0,0,0
 Pima,128,Ballots Cast,,,,1998,1716,272,10
 Pima,128,President,,DEM,Kamala D. HARRIS / Tim WALZ,1076,966,105,5
 Pima,128,President,,REP,Donald J. TRUMP / JD VANCE,873,709,159,5
@@ -24128,7 +24128,7 @@ Pima,128,PROPOSITION 314,,,Total Votes,1824,1580,235,9
 Pima,128,PROPOSITION 315,,,Yes,729,611,114,4
 Pima,128,PROPOSITION 315,,,No,1038,926,109,3
 Pima,128,PROPOSITION 315,,,Total Votes,1767,1537,223,7
-Pima,129,Registered Voters,,,,2289,2289,2289,2289
+Pima,129,Registered Voters,,,,2289,0,0,0
 Pima,129,Ballots Cast,,,,1783,1500,271,12
 Pima,129,President,,DEM,Kamala D. HARRIS / Tim WALZ,1046,926,114,6
 Pima,129,President,,REP,Donald J. TRUMP / JD VANCE,696,541,150,5
@@ -24315,7 +24315,7 @@ Pima,129,PROPOSITION 314,,,Total Votes,1603,1362,232,9
 Pima,129,PROPOSITION 315,,,Yes,603,499,103,1
 Pima,129,PROPOSITION 315,,,No,942,816,119,7
 Pima,129,PROPOSITION 315,,,Total Votes,1545,1315,222,8
-Pima,130,Registered Voters,,,,2018,2018,2018,2018
+Pima,130,Registered Voters,,,,2018,0,0,0
 Pima,130,Ballots Cast,,,,1650,1411,227,12
 Pima,130,President,,DEM,Kamala D. HARRIS / Tim WALZ,820,749,68,3
 Pima,130,President,,REP,Donald J. TRUMP / JD VANCE,791,627,156,8
@@ -24503,7 +24503,7 @@ Pima,130,PROPOSITION 314,,,Total Votes,1499,1287,202,10
 Pima,130,PROPOSITION 315,,,Yes,649,522,122,5
 Pima,130,PROPOSITION 315,,,No,806,733,71,2
 Pima,130,PROPOSITION 315,,,Total Votes,1455,1255,193,7
-Pima,131,Registered Voters,,,,2147,2147,2147,2147
+Pima,131,Registered Voters,,,,2147,0,0,0
 Pima,131,Ballots Cast,,,,1935,1773,155,7
 Pima,131,President,,DEM,Kamala D. HARRIS / Tim WALZ,1060,1008,50,2
 Pima,131,President,,REP,Donald J. TRUMP / JD VANCE,845,739,101,5
@@ -24691,7 +24691,7 @@ Pima,131,PROPOSITION 314,,,Total Votes,1771,1627,137,7
 Pima,131,PROPOSITION 315,,,Yes,685,609,73,3
 Pima,131,PROPOSITION 315,,,No,1032,971,57,4
 Pima,131,PROPOSITION 315,,,Total Votes,1717,1580,130,7
-Pima,132,Registered Voters,,,,1448,1448,1448,1448
+Pima,132,Registered Voters,,,,1448,0,0,0
 Pima,132,Ballots Cast,,,,1166,986,174,6
 Pima,132,President,,DEM,Kamala D. HARRIS / Tim WALZ,589,528,60,1
 Pima,132,President,,REP,Donald J. TRUMP / JD VANCE,549,433,111,5
@@ -24879,7 +24879,7 @@ Pima,132,PROPOSITION 314,,,Total Votes,1058,898,154,6
 Pima,132,PROPOSITION 315,,,Yes,440,353,85,2
 Pima,132,PROPOSITION 315,,,No,571,511,57,3
 Pima,132,PROPOSITION 315,,,Total Votes,1011,864,142,5
-Pima,133,Registered Voters,,,,3965,3965,3965,3965
+Pima,133,Registered Voters,,,,3965,0,0,0
 Pima,133,Ballots Cast,,,,3071,2629,409,33
 Pima,133,President,,DEM,Kamala D. HARRIS / Tim WALZ,1637,1487,136,14
 Pima,133,President,,REP,Donald J. TRUMP / JD VANCE,1365,1085,262,18
@@ -25065,7 +25065,7 @@ Pima,133,PROPOSITION 314,,,Total Votes,2779,2388,362,29
 Pima,133,PROPOSITION 315,,,Yes,1165,1000,156,9
 Pima,133,PROPOSITION 315,,,No,1510,1314,180,16
 Pima,133,PROPOSITION 315,,,Total Votes,2675,2314,336,25
-Pima,134,Registered Voters,,,,2336,2336,2336,2336
+Pima,134,Registered Voters,,,,2336,0,0,0
 Pima,134,Ballots Cast,,,,1797,1472,308,17
 Pima,134,President,,DEM,Kamala D. HARRIS / Tim WALZ,844,744,93,7
 Pima,134,President,,REP,Donald J. TRUMP / JD VANCE,905,689,207,9
@@ -25256,7 +25256,7 @@ Pima,134,PROPOSITION 315,,,Yes,700,548,142,10
 Pima,134,PROPOSITION 315,,,No,812,714,92,6
 Pima,134,PROPOSITION 315,,,Total Votes,1512,1262,234,16
 Pima,134,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,1563,1297,253,13
-Pima,135,Registered Voters,,,,204,204,204,204
+Pima,135,Registered Voters,,,,204,0,0,0
 Pima,135,Ballots Cast,,,,144,50,93,1
 Pima,135,President,,DEM,Kamala D. HARRIS / Tim WALZ,137,50,86,1
 Pima,135,President,,REP,Donald J. TRUMP / JD VANCE,6,0,6,0
@@ -25442,7 +25442,7 @@ Pima,135,PROPOSITION 314,,,Total Votes,122,46,76,0
 Pima,135,PROPOSITION 315,,,Yes,36,11,25,0
 Pima,135,PROPOSITION 315,,,No,83,34,49,0
 Pima,135,PROPOSITION 315,,,Total Votes,119,45,74,0
-Pima,136,Registered Voters,,,,185,185,185,185
+Pima,136,Registered Voters,,,,185,0,0,0
 Pima,136,Ballots Cast,,,,95,45,46,4
 Pima,136,President,,DEM,Kamala D. HARRIS / Tim WALZ,87,42,42,3
 Pima,136,President,,REP,Donald J. TRUMP / JD VANCE,5,2,2,1
@@ -25628,7 +25628,7 @@ Pima,136,PROPOSITION 314,,,Total Votes,86,41,41,4
 Pima,136,PROPOSITION 315,,,Yes,36,15,18,3
 Pima,136,PROPOSITION 315,,,No,46,24,21,1
 Pima,136,PROPOSITION 315,,,Total Votes,82,39,39,4
-Pima,137,Registered Voters,,,,164,164,164,164
+Pima,137,Registered Voters,,,,164,0,0,0
 Pima,137,Ballots Cast,,,,106,42,60,4
 Pima,137,President,,DEM,Kamala D. HARRIS / Tim WALZ,92,38,50,4
 Pima,137,President,,REP,Donald J. TRUMP / JD VANCE,10,2,8,0
@@ -25814,7 +25814,7 @@ Pima,137,PROPOSITION 314,,,Total Votes,89,34,52,3
 Pima,137,PROPOSITION 315,,,Yes,25,5,20,0
 Pima,137,PROPOSITION 315,,,No,62,27,32,3
 Pima,137,PROPOSITION 315,,,Total Votes,87,32,52,3
-Pima,138,Registered Voters,,,,547,547,547,547
+Pima,138,Registered Voters,,,,547,0,0,0
 Pima,138,Ballots Cast,,,,332,157,171,4
 Pima,138,President,,DEM,Kamala D. HARRIS / Tim WALZ,313,149,160,4
 Pima,138,President,,REP,Donald J. TRUMP / JD VANCE,14,7,7,0
@@ -26000,7 +26000,7 @@ Pima,138,PROPOSITION 314,,,Total Votes,302,143,155,4
 Pima,138,PROPOSITION 315,,,Yes,85,27,55,3
 Pima,138,PROPOSITION 315,,,No,209,111,97,1
 Pima,138,PROPOSITION 315,,,Total Votes,294,138,152,4
-Pima,139,Registered Voters,,,,605,605,605,605
+Pima,139,Registered Voters,,,,605,0,0,0
 Pima,139,Ballots Cast,,,,406,266,138,2
 Pima,139,President,,DEM,Kamala D. HARRIS / Tim WALZ,213,144,68,1
 Pima,139,President,,REP,Donald J. TRUMP / JD VANCE,181,112,68,1
@@ -26191,7 +26191,7 @@ Pima,139,PROPOSITION 314,,,Total Votes,348,232,115,1
 Pima,139,PROPOSITION 315,,,Yes,153,112,41,0
 Pima,139,PROPOSITION 315,,,No,185,117,68,0
 Pima,139,PROPOSITION 315,,,Total Votes,338,229,109,0
-Pima,140,Registered Voters,,,,862,862,862,862
+Pima,140,Registered Voters,,,,862,0,0,0
 Pima,140,Ballots Cast,,,,660,537,119,4
 Pima,140,President,,DEM,Kamala D. HARRIS / Tim WALZ,249,219,30,0
 Pima,140,President,,REP,Donald J. TRUMP / JD VANCE,392,304,84,4
@@ -26378,7 +26378,7 @@ Pima,140,PROPOSITION 314,,,Total Votes,606,490,112,4
 Pima,140,PROPOSITION 315,,,Yes,306,241,64,1
 Pima,140,PROPOSITION 315,,,No,271,223,46,2
 Pima,140,PROPOSITION 315,,,Total Votes,577,464,110,3
-Pima,141,Registered Voters,,,,4654,4654,4654,4654
+Pima,141,Registered Voters,,,,4654,0,0,0
 Pima,141,Ballots Cast,,,,4258,3974,279,5
 Pima,141,President,,DEM,Kamala D. HARRIS / Tim WALZ,2406,2319,85,2
 Pima,141,President,,REP,Donald J. TRUMP / JD VANCE,1779,1593,183,3
@@ -26558,7 +26558,7 @@ Pima,141,PROPOSITION 315,,,Yes,1547,1433,112,2
 Pima,141,PROPOSITION 315,,,No,2117,2000,115,2
 Pima,141,PROPOSITION 315,,,Total Votes,3664,3433,227,4
 Pima,141,PROPOSITION 410 - Continental School District No. 39,,,Total Votes,3686,3450,232,4
-Pima,142,Registered Voters,,,,3840,3840,3840,3840
+Pima,142,Registered Voters,,,,3840,0,0,0
 Pima,142,Ballots Cast,,,,3280,2781,481,18
 Pima,142,President,,DEM,Kamala D. HARRIS / Tim WALZ,1699,1535,160,4
 Pima,142,President,,REP,Donald J. TRUMP / JD VANCE,1488,1167,307,14
@@ -26749,7 +26749,7 @@ Pima,142,PROPOSITION 315,,,Yes,1329,1092,226,11
 Pima,142,PROPOSITION 315,,,No,1536,1349,184,3
 Pima,142,PROPOSITION 315,,,Total Votes,2865,2441,410,14
 Pima,142,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,2943,2503,427,13
-Pima,143,Registered Voters,,,,1097,1097,1097,1097
+Pima,143,Registered Voters,,,,1097,0,0,0
 Pima,143,Ballots Cast,,,,813,715,90,8
 Pima,143,President,,DEM,Kamala D. HARRIS / Tim WALZ,693,622,67,4
 Pima,143,President,,REP,Donald J. TRUMP / JD VANCE,82,60,18,4
@@ -26942,7 +26942,7 @@ Pima,143,PROPOSITION 314,,,Total Votes,733,653,74,6
 Pima,143,PROPOSITION 315,,,Yes,120,93,23,4
 Pima,143,PROPOSITION 315,,,No,591,546,44,1
 Pima,143,PROPOSITION 315,,,Total Votes,711,639,67,5
-Pima,144,Registered Voters,,,,2569,2569,2569,2569
+Pima,144,Registered Voters,,,,2569,0,0,0
 Pima,144,Ballots Cast,,,,2063,1725,313,25
 Pima,144,President,,DEM,Kamala D. HARRIS / Tim WALZ,1405,1255,138,12
 Pima,144,President,,REP,Donald J. TRUMP / JD VANCE,611,433,165,13
@@ -27135,7 +27135,7 @@ Pima,144,PROPOSITION 314,,,Total Votes,1863,1573,266,24
 Pima,144,PROPOSITION 315,,,Yes,591,471,110,10
 Pima,144,PROPOSITION 315,,,No,1227,1066,147,14
 Pima,144,PROPOSITION 315,,,Total Votes,1818,1537,257,24
-Pima,145,Registered Voters,,,,4634,4634,4634,4634
+Pima,145,Registered Voters,,,,4634,0,0,0
 Pima,145,Ballots Cast,,,,4298,3950,345,3
 Pima,145,President,,DEM,Kamala D. HARRIS / Tim WALZ,2348,2222,126,0
 Pima,145,President,,REP,Donald J. TRUMP / JD VANCE,1855,1643,209,3
@@ -27322,7 +27322,7 @@ Pima,145,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,145,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1858,1722,134,2
 Pima,145,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1828,1682,145,1
 Pima,145,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,3686,3404,279,3
-Pima,146,Registered Voters,,,,2795,2795,2795,2795
+Pima,146,Registered Voters,,,,2795,0,0,0
 Pima,146,Ballots Cast,,,,2238,1866,350,22
 Pima,146,President,,DEM,Kamala D. HARRIS / Tim WALZ,1285,1136,138,11
 Pima,146,President,,REP,Donald J. TRUMP / JD VANCE,906,693,202,11
@@ -27508,7 +27508,7 @@ Pima,146,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,146,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,996,836,155,5
 Pima,146,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,883,751,129,3
 Pima,146,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1879,1587,284,8
-Pima,147,Registered Voters,,,,2870,2870,2870,2870
+Pima,147,Registered Voters,,,,2870,0,0,0
 Pima,147,Ballots Cast,,,,2226,1786,421,19
 Pima,147,President,,DEM,Kamala D. HARRIS / Tim WALZ,1049,895,145,9
 Pima,147,President,,REP,Donald J. TRUMP / JD VANCE,1147,864,273,10
@@ -27706,7 +27706,7 @@ Pima,147,PROPOSITION 406,,,Total Votes,1908,1538,354,16
 Pima,147,PROPOSITION 407,,,Yes,1206,981,215,10
 Pima,147,PROPOSITION 407,,,No,702,555,141,6
 Pima,147,PROPOSITION 407,,,Total Votes,1908,1536,356,16
-Pima,148,Registered Voters,,,,2419,2419,2419,2419
+Pima,148,Registered Voters,,,,2419,0,0,0
 Pima,148,Ballots Cast,,,,2017,1775,231,11
 Pima,148,President,,DEM,Kamala D. HARRIS / Tim WALZ,1095,1004,84,7
 Pima,148,President,,REP,Donald J. TRUMP / JD VANCE,888,741,143,4
@@ -27889,7 +27889,7 @@ Pima,148,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,148,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1031,921,105,5
 Pima,148,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,755,666,85,4
 Pima,148,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1786,1587,190,9
-Pima,149,Registered Voters,,,,2306,2306,2306,2306
+Pima,149,Registered Voters,,,,2306,0,0,0
 Pima,149,Ballots Cast,,,,1887,1604,269,14
 Pima,149,President,,DEM,Kamala D. HARRIS / Tim WALZ,1112,985,116,11
 Pima,149,President,,REP,Donald J. TRUMP / JD VANCE,731,584,144,3
@@ -28075,7 +28075,7 @@ Pima,149,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,149,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,947,815,122,10
 Pima,149,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,668,565,102,1
 Pima,149,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1615,1380,224,11
-Pima,150,Registered Voters,,,,623,623,623,623
+Pima,150,Registered Voters,,,,623,0,0,0
 Pima,150,Ballots Cast,,,,456,363,85,8
 Pima,150,President,,DEM,Kamala D. HARRIS / Tim WALZ,233,200,33,0
 Pima,150,President,,REP,Donald J. TRUMP / JD VANCE,210,153,49,8
@@ -28280,7 +28280,7 @@ Pima,150,PROPOSITION 315,,,Yes,200,162,35,3
 Pima,150,PROPOSITION 315,,,No,196,158,36,2
 Pima,150,PROPOSITION 315,,,Total Votes,396,320,71,5
 Pima,150,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,5,5,0,0
-Pima,151,Registered Voters,,,,1277,1277,1277,1277
+Pima,151,Registered Voters,,,,1277,0,0,0
 Pima,151,Ballots Cast,,,,1143,1046,93,4
 Pima,151,President,,DEM,Kamala D. HARRIS / Tim WALZ,728,692,36,0
 Pima,151,President,,REP,Donald J. TRUMP / JD VANCE,399,338,57,4
@@ -28484,7 +28484,7 @@ Pima,151,PROPOSITION 315,,,Yes,334,290,42,2
 Pima,151,PROPOSITION 315,,,No,682,648,34,0
 Pima,151,PROPOSITION 315,,,Total Votes,1016,938,76,2
 Pima,151,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,114,108,6,0
-Pima,152,Registered Voters,,,,987,987,987,987
+Pima,152,Registered Voters,,,,987,0,0,0
 Pima,152,Ballots Cast,,,,658,534,120,4
 Pima,152,President,,DEM,Kamala D. HARRIS / Tim WALZ,436,372,62,2
 Pima,152,President,,REP,Donald J. TRUMP / JD VANCE,217,157,58,2
@@ -28679,7 +28679,7 @@ Pima,152,PROPOSITION 314,,,Total Votes,596,491,101,4
 Pima,152,PROPOSITION 315,,,Yes,193,143,50,0
 Pima,152,PROPOSITION 315,,,No,390,337,49,4
 Pima,152,PROPOSITION 315,,,Total Votes,583,480,99,4
-Pima,153,Registered Voters,,,,3799,3799,3799,3799
+Pima,153,Registered Voters,,,,3799,0,0,0
 Pima,153,Ballots Cast,,,,3078,2664,389,25
 Pima,153,President,,DEM,Kamala D. HARRIS / Tim WALZ,2028,1834,182,12
 Pima,153,President,,REP,Donald J. TRUMP / JD VANCE,975,769,194,12
@@ -28882,7 +28882,7 @@ Pima,153,PROPOSITION 314,,,Total Votes,2794,2436,336,22
 Pima,153,PROPOSITION 315,,,Yes,907,739,156,12
 Pima,153,PROPOSITION 315,,,No,1800,1625,168,7
 Pima,153,PROPOSITION 315,,,Total Votes,2707,2364,324,19
-Pima,154,Registered Voters,,,,2332,2332,2332,2332
+Pima,154,Registered Voters,,,,2332,0,0,0
 Pima,154,Ballots Cast,,,,1241,991,223,27
 Pima,154,President,,DEM,Kamala D. HARRIS / Tim WALZ,814,677,121,16
 Pima,154,President,,REP,Donald J. TRUMP / JD VANCE,385,281,94,10
@@ -29072,7 +29072,7 @@ Pima,154,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,154,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,652,529,111,12
 Pima,154,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,381,310,65,6
 Pima,154,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1033,839,176,18
-Pima,155,Registered Voters,,,,2091,2091,2091,2091
+Pima,155,Registered Voters,,,,2091,0,0,0
 Pima,155,Ballots Cast,,,,1028,735,281,12
 Pima,155,President,,DEM,Kamala D. HARRIS / Tim WALZ,597,437,153,7
 Pima,155,President,,REP,Donald J. TRUMP / JD VANCE,402,276,121,5
@@ -29260,7 +29260,7 @@ Pima,155,PROPOSITION 314,,,Total Votes,900,665,229,6
 Pima,155,PROPOSITION 315,,,Yes,338,239,94,5
 Pima,155,PROPOSITION 315,,,No,542,413,128,1
 Pima,155,PROPOSITION 315,,,Total Votes,880,652,222,6
-Pima,156,Registered Voters,,,,1034,1034,1034,1034
+Pima,156,Registered Voters,,,,1034,0,0,0
 Pima,156,Ballots Cast,,,,873,784,87,2
 Pima,156,President,,DEM,Kamala D. HARRIS / Tim WALZ,443,408,34,1
 Pima,156,President,,REP,Donald J. TRUMP / JD VANCE,418,366,51,1
@@ -29445,7 +29445,7 @@ Pima,156,PROPOSITION 314,,,Total Votes,770,699,69,2
 Pima,156,PROPOSITION 315,,,Yes,371,332,39,0
 Pima,156,PROPOSITION 315,,,No,376,347,27,2
 Pima,156,PROPOSITION 315,,,Total Votes,747,679,66,2
-Pima,157,Registered Voters,,,,3344,3344,3344,3344
+Pima,157,Registered Voters,,,,3344,0,0,0
 Pima,157,Ballots Cast,,,,2094,1693,377,24
 Pima,157,President,,DEM,Kamala D. HARRIS / Tim WALZ,1391,1181,195,15
 Pima,157,President,,REP,Donald J. TRUMP / JD VANCE,664,481,174,9
@@ -29637,7 +29637,7 @@ Pima,157,PROPOSITION 314,,,Total Votes,1855,1529,310,16
 Pima,157,PROPOSITION 315,,,Yes,645,498,138,9
 Pima,157,PROPOSITION 315,,,No,1163,995,161,7
 Pima,157,PROPOSITION 315,,,Total Votes,1808,1493,299,16
-Pima,158,Registered Voters,,,,1916,1916,1916,1916
+Pima,158,Registered Voters,,,,1916,0,0,0
 Pima,158,Ballots Cast,,,,1701,1536,158,7
 Pima,158,President,,DEM,Kamala D. HARRIS / Tim WALZ,1076,998,74,4
 Pima,158,President,,REP,Donald J. TRUMP / JD VANCE,603,517,83,3
@@ -29828,7 +29828,7 @@ Pima,158,PROPOSITION 314,,,Total Votes,1516,1374,138,4
 Pima,158,PROPOSITION 315,,,Yes,547,482,64,1
 Pima,158,PROPOSITION 315,,,No,929,858,69,2
 Pima,158,PROPOSITION 315,,,Total Votes,1476,1340,133,3
-Pima,159,Registered Voters,,,,4650,4650,4650,4650
+Pima,159,Registered Voters,,,,4650,0,0,0
 Pima,159,Ballots Cast,,,,2623,2111,483,29
 Pima,159,President,,DEM,Kamala D. HARRIS / Tim WALZ,1785,1511,255,19
 Pima,159,President,,REP,Donald J. TRUMP / JD VANCE,774,549,216,9
@@ -30005,7 +30005,7 @@ Pima,159,PROPOSITION 314,,,Total Votes,2317,1894,400,23
 Pima,159,PROPOSITION 315,,,Yes,778,589,177,12
 Pima,159,PROPOSITION 315,,,No,1484,1253,220,11
 Pima,159,PROPOSITION 315,,,Total Votes,2262,1842,397,23
-Pima,160,Registered Voters,,,,1995,1995,1995,1995
+Pima,160,Registered Voters,,,,1995,0,0,0
 Pima,160,Ballots Cast,,,,1109,848,246,15
 Pima,160,President,,DEM,Kamala D. HARRIS / Tim WALZ,800,642,150,8
 Pima,160,President,,REP,Donald J. TRUMP / JD VANCE,288,188,93,7
@@ -30189,7 +30189,7 @@ Pima,160,PROPOSITION 314,,,Total Votes,968,756,201,11
 Pima,160,PROPOSITION 315,,,Yes,329,246,81,2
 Pima,160,PROPOSITION 315,,,No,614,491,114,9
 Pima,160,PROPOSITION 315,,,Total Votes,943,737,195,11
-Pima,161,Registered Voters,,,,890,890,890,890
+Pima,161,Registered Voters,,,,890,0,0,0
 Pima,161,Ballots Cast,,,,786,682,101,3
 Pima,161,President,,DEM,Kamala D. HARRIS / Tim WALZ,328,295,31,2
 Pima,161,President,,REP,Donald J. TRUMP / JD VANCE,437,367,69,1
@@ -30387,7 +30387,7 @@ Pima,161,PROPOSITION 315,,,Yes,319,271,47,1
 Pima,161,PROPOSITION 315,,,No,367,324,41,2
 Pima,161,PROPOSITION 315,,,Total Votes,686,595,88,3
 Pima,161,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,698,606,90,2
-Pima,162,Registered Voters,,,,1814,1814,1814,1814
+Pima,162,Registered Voters,,,,1814,0,0,0
 Pima,162,Ballots Cast,,,,1501,1332,161,8
 Pima,162,President,,DEM,Kamala D. HARRIS / Tim WALZ,957,879,75,3
 Pima,162,President,,REP,Donald J. TRUMP / JD VANCE,508,423,80,5
@@ -30570,7 +30570,7 @@ Pima,162,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,162,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,716,646,66,4
 Pima,162,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,583,516,66,1
 Pima,162,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1299,1162,132,5
-Pima,163,Registered Voters,,,,2234,2234,2234,2234
+Pima,163,Registered Voters,,,,2234,0,0,0
 Pima,163,Ballots Cast,,,,1940,1791,144,5
 Pima,163,President,,DEM,Kamala D. HARRIS / Tim WALZ,1187,1126,58,3
 Pima,163,President,,REP,Donald J. TRUMP / JD VANCE,710,626,82,2
@@ -30761,7 +30761,7 @@ Pima,163,PROPOSITION 314,,,Total Votes,1725,1592,128,5
 Pima,163,PROPOSITION 315,,,Yes,648,584,62,2
 Pima,163,PROPOSITION 315,,,No,1034,970,61,3
 Pima,163,PROPOSITION 315,,,Total Votes,1682,1554,123,5
-Pima,164,Registered Voters,,,,3454,3454,3454,3454
+Pima,164,Registered Voters,,,,3454,0,0,0
 Pima,164,Ballots Cast,,,,2943,2641,283,19
 Pima,164,President,,DEM,Kamala D. HARRIS / Tim WALZ,2248,2079,155,14
 Pima,164,President,,REP,Donald J. TRUMP / JD VANCE,640,514,122,4
@@ -30956,7 +30956,7 @@ Pima,164,PROPOSITION 314,,,Total Votes,2670,2412,243,15
 Pima,164,PROPOSITION 315,,,Yes,671,572,91,8
 Pima,164,PROPOSITION 315,,,No,1930,1785,140,5
 Pima,164,PROPOSITION 315,,,Total Votes,2601,2357,231,13
-Pima,165,Registered Voters,,,,912,912,912,912
+Pima,165,Registered Voters,,,,912,0,0,0
 Pima,165,Ballots Cast,,,,761,662,96,3
 Pima,165,President,,DEM,Kamala D. HARRIS / Tim WALZ,187,174,11,2
 Pima,165,President,,REP,Donald J. TRUMP / JD VANCE,560,476,83,1
@@ -31149,7 +31149,7 @@ Pima,165,PROPOSITION 314,,,Total Votes,701,608,91,2
 Pima,165,PROPOSITION 315,,,Yes,415,350,65,0
 Pima,165,PROPOSITION 315,,,No,258,231,25,2
 Pima,165,PROPOSITION 315,,,Total Votes,673,581,90,2
-Pima,166,Registered Voters,,,,5546,5546,5546,5546
+Pima,166,Registered Voters,,,,5546,0,0,0
 Pima,166,Ballots Cast,,,,3930,3319,569,42
 Pima,166,President,,DEM,Kamala D. HARRIS / Tim WALZ,2957,2612,323,22
 Pima,166,President,,REP,Donald J. TRUMP / JD VANCE,835,593,224,18
@@ -31347,7 +31347,7 @@ Pima,166,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,166,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1875,1606,256,13
 Pima,166,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1080,908,164,8
 Pima,166,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2955,2514,420,21
-Pima,167,Registered Voters,,,,1702,1702,1702,1702
+Pima,167,Registered Voters,,,,1702,0,0,0
 Pima,167,Ballots Cast,,,,1413,1250,157,6
 Pima,167,President,,DEM,Kamala D. HARRIS / Tim WALZ,1119,1024,89,6
 Pima,167,President,,REP,Donald J. TRUMP / JD VANCE,240,178,62,0
@@ -31541,7 +31541,7 @@ Pima,167,PROPOSITION 314,,,Total Votes,1291,1150,135,6
 Pima,167,PROPOSITION 315,,,Yes,274,216,56,2
 Pima,167,PROPOSITION 315,,,No,986,909,73,4
 Pima,167,PROPOSITION 315,,,Total Votes,1260,1125,129,6
-Pima,168,Registered Voters,,,,975,975,975,975
+Pima,168,Registered Voters,,,,975,0,0,0
 Pima,168,Ballots Cast,,,,794,722,70,2
 Pima,168,President,,DEM,Kamala D. HARRIS / Tim WALZ,369,344,24,1
 Pima,168,President,,REP,Donald J. TRUMP / JD VANCE,409,364,44,1
@@ -31745,7 +31745,7 @@ Pima,168,PROPOSITION 406,,,Total Votes,474,455,19,0
 Pima,168,PROPOSITION 407,,,Yes,284,274,10,0
 Pima,168,PROPOSITION 407,,,No,188,178,10,0
 Pima,168,PROPOSITION 407,,,Total Votes,472,452,20,0
-Pima,169,Registered Voters,,,,3668,3668,3668,3668
+Pima,169,Registered Voters,,,,3668,0,0,0
 Pima,169,Ballots Cast,,,,3284,2970,304,10
 Pima,169,President,,DEM,Kamala D. HARRIS / Tim WALZ,1664,1534,128,2
 Pima,169,President,,REP,Donald J. TRUMP / JD VANCE,1547,1376,163,8
@@ -31932,7 +31932,7 @@ Pima,169,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,169,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1510,1358,149,3
 Pima,169,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1331,1214,114,3
 Pima,169,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2841,2572,263,6
-Pima,170,Registered Voters,,,,2449,2449,2449,2449
+Pima,170,Registered Voters,,,,2449,0,0,0
 Pima,170,Ballots Cast,,,,2142,1900,230,12
 Pima,170,President,,DEM,Kamala D. HARRIS / Tim WALZ,1361,1272,82,7
 Pima,170,President,,REP,Donald J. TRUMP / JD VANCE,743,596,142,5
@@ -32131,7 +32131,7 @@ Pima,170,PROPOSITION 314,,,Total Votes,1913,1704,198,11
 Pima,170,PROPOSITION 315,,,Yes,634,531,99,4
 Pima,170,PROPOSITION 315,,,No,1212,1119,87,6
 Pima,170,PROPOSITION 315,,,Total Votes,1846,1650,186,10
-Pima,171,Registered Voters,,,,2809,2809,2809,2809
+Pima,171,Registered Voters,,,,2809,0,0,0
 Pima,171,Ballots Cast,,,,2521,2296,213,12
 Pima,171,President,,DEM,Kamala D. HARRIS / Tim WALZ,1506,1431,72,3
 Pima,171,President,,REP,Donald J. TRUMP / JD VANCE,963,820,134,9
@@ -32330,7 +32330,7 @@ Pima,171,PROPOSITION 314,,,Total Votes,2267,2075,183,9
 Pima,171,PROPOSITION 315,,,Yes,886,793,88,5
 Pima,171,PROPOSITION 315,,,No,1309,1217,88,4
 Pima,171,PROPOSITION 315,,,Total Votes,2195,2010,176,9
-Pima,172,Registered Voters,,,,5718,5718,5718,5718
+Pima,172,Registered Voters,,,,5718,0,0,0
 Pima,172,Ballots Cast,,,,5058,4625,423,10
 Pima,172,President,,DEM,Kamala D. HARRIS / Tim WALZ,2471,2315,153,3
 Pima,172,President,,REP,Donald J. TRUMP / JD VANCE,2482,2217,258,7
@@ -32517,7 +32517,7 @@ Pima,172,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,172,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,2403,2211,187,5
 Pima,172,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,2066,1898,165,3
 Pima,172,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,4469,4109,352,8
-Pima,173,Registered Voters,,,,2908,2908,2908,2908
+Pima,173,Registered Voters,,,,2908,0,0,0
 Pima,173,Ballots Cast,,,,2542,2285,249,8
 Pima,173,President,,DEM,Kamala D. HARRIS / Tim WALZ,1257,1181,74,2
 Pima,173,President,,REP,Donald J. TRUMP / JD VANCE,1242,1073,164,5
@@ -32701,7 +32701,7 @@ Pima,173,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,173,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1132,1025,103,4
 Pima,173,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1063,968,94,1
 Pima,173,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2195,1993,197,5
-Pima,174,Registered Voters,,,,4534,4534,4534,4534
+Pima,174,Registered Voters,,,,4534,0,0,0
 Pima,174,Ballots Cast,,,,3633,3137,470,26
 Pima,174,President,,DEM,Kamala D. HARRIS / Tim WALZ,2097,1891,190,16
 Pima,174,President,,REP,Donald J. TRUMP / JD VANCE,1442,1165,269,8
@@ -32888,7 +32888,7 @@ Pima,174,PROPOSITION 314,,,Total Votes,3251,2815,421,15
 Pima,174,PROPOSITION 315,,,Yes,1295,1089,196,10
 Pima,174,PROPOSITION 315,,,No,1842,1634,202,6
 Pima,174,PROPOSITION 315,,,Total Votes,3137,2723,398,16
-Pima,175,Registered Voters,,,,3853,3853,3853,3853
+Pima,175,Registered Voters,,,,3853,0,0,0
 Pima,175,Ballots Cast,,,,3036,2405,602,29
 Pima,175,President,,DEM,Kamala D. HARRIS / Tim WALZ,1163,1001,153,9
 Pima,175,President,,REP,Donald J. TRUMP / JD VANCE,1806,1353,434,19
@@ -33086,7 +33086,7 @@ Pima,175,PROPOSITION 315,,,Yes,1322,1032,274,16
 Pima,175,PROPOSITION 315,,,No,1291,1079,204,8
 Pima,175,PROPOSITION 315,,,Total Votes,2613,2111,478,24
 Pima,175,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,2750,2200,526,24
-Pima,176,Registered Voters,,,,1863,1863,1863,1863
+Pima,176,Registered Voters,,,,1863,0,0,0
 Pima,176,Ballots Cast,,,,1500,1252,238,10
 Pima,176,President,,DEM,Kamala D. HARRIS / Tim WALZ,657,578,77,2
 Pima,176,President,,REP,Donald J. TRUMP / JD VANCE,811,649,154,8
@@ -33273,7 +33273,7 @@ Pima,176,PROPOSITION 314,,,Total Votes,1373,1147,216,10
 Pima,176,PROPOSITION 315,,,Yes,596,487,106,3
 Pima,176,PROPOSITION 315,,,No,728,620,102,6
 Pima,176,PROPOSITION 315,,,Total Votes,1324,1107,208,9
-Pima,177,Registered Voters,,,,4042,4042,4042,4042
+Pima,177,Registered Voters,,,,4042,0,0,0
 Pima,177,Ballots Cast,,,,3081,2560,503,18
 Pima,177,President,,DEM,Kamala D. HARRIS / Tim WALZ,1545,1337,197,11
 Pima,177,President,,REP,Donald J. TRUMP / JD VANCE,1473,1168,298,7
@@ -33459,7 +33459,7 @@ Pima,177,PROPOSITION 314,,,Total Votes,2767,2325,428,14
 Pima,177,PROPOSITION 315,,,Yes,1185,972,204,9
 Pima,177,PROPOSITION 315,,,No,1502,1291,207,4
 Pima,177,PROPOSITION 315,,,Total Votes,2687,2263,411,13
-Pima,178,Registered Voters,,,,2772,2772,2772,2772
+Pima,178,Registered Voters,,,,2772,0,0,0
 Pima,178,Ballots Cast,,,,2399,2082,298,19
 Pima,178,President,,DEM,Kamala D. HARRIS / Tim WALZ,1212,1103,99,10
 Pima,178,President,,REP,Donald J. TRUMP / JD VANCE,1145,950,187,8
@@ -33647,7 +33647,7 @@ Pima,178,PROPOSITION 314,,,Total Votes,2159,1883,261,15
 Pima,178,PROPOSITION 315,,,Yes,929,797,126,6
 Pima,178,PROPOSITION 315,,,No,1162,1025,129,8
 Pima,178,PROPOSITION 315,,,Total Votes,2091,1822,255,14
-Pima,179,Registered Voters,,,,3705,3705,3705,3705
+Pima,179,Registered Voters,,,,3705,0,0,0
 Pima,179,Ballots Cast,,,,3321,3019,297,5
 Pima,179,President,,DEM,Kamala D. HARRIS / Tim WALZ,1564,1491,72,1
 Pima,179,President,,REP,Donald J. TRUMP / JD VANCE,1683,1460,219,4
@@ -33834,7 +33834,7 @@ Pima,179,PROPOSITION 314,,,Total Votes,3033,2765,264,4
 Pima,179,PROPOSITION 315,,,Yes,1344,1202,140,2
 Pima,179,PROPOSITION 315,,,No,1605,1487,116,2
 Pima,179,PROPOSITION 315,,,Total Votes,2949,2689,256,4
-Pima,180,Registered Voters,,,,3313,3313,3313,3313
+Pima,180,Registered Voters,,,,3313,0,0,0
 Pima,180,Ballots Cast,,,,2831,2486,336,9
 Pima,180,President,,DEM,Kamala D. HARRIS / Tim WALZ,1511,1370,138,3
 Pima,180,President,,REP,Donald J. TRUMP / JD VANCE,1274,1079,189,6
@@ -34022,7 +34022,7 @@ Pima,180,PROPOSITION 314,,,Total Votes,2553,2255,290,8
 Pima,180,PROPOSITION 315,,,Yes,1060,915,142,3
 Pima,180,PROPOSITION 315,,,No,1418,1278,136,4
 Pima,180,PROPOSITION 315,,,Total Votes,2478,2193,278,7
-Pima,181,Registered Voters,,,,3520,3520,3520,3520
+Pima,181,Registered Voters,,,,3520,0,0,0
 Pima,181,Ballots Cast,,,,3053,2696,348,9
 Pima,181,President,,DEM,Kamala D. HARRIS / Tim WALZ,1524,1409,112,3
 Pima,181,President,,REP,Donald J. TRUMP / JD VANCE,1469,1240,223,6
@@ -34210,7 +34210,7 @@ Pima,181,PROPOSITION 314,,,Total Votes,2781,2479,296,6
 Pima,181,PROPOSITION 315,,,Yes,1290,1122,164,4
 Pima,181,PROPOSITION 315,,,No,1398,1281,115,2
 Pima,181,PROPOSITION 315,,,Total Votes,2688,2403,279,6
-Pima,182,Registered Voters,,,,3828,3828,3828,3828
+Pima,182,Registered Voters,,,,3828,0,0,0
 Pima,182,Ballots Cast,,,,3162,2725,411,26
 Pima,182,President,,DEM,Kamala D. HARRIS / Tim WALZ,1586,1448,129,9
 Pima,182,President,,REP,Donald J. TRUMP / JD VANCE,1511,1223,272,16
@@ -34398,7 +34398,7 @@ Pima,182,PROPOSITION 314,,,Total Votes,2852,2477,354,21
 Pima,182,PROPOSITION 315,,,Yes,1162,965,179,18
 Pima,182,PROPOSITION 315,,,No,1610,1452,155,3
 Pima,182,PROPOSITION 315,,,Total Votes,2772,2417,334,21
-Pima,183,Registered Voters,,,,1596,1596,1596,1596
+Pima,183,Registered Voters,,,,1596,0,0,0
 Pima,183,Ballots Cast,,,,1337,1165,164,8
 Pima,183,President,,DEM,Kamala D. HARRIS / Tim WALZ,634,576,53,5
 Pima,183,President,,REP,Donald J. TRUMP / JD VANCE,682,573,106,3
@@ -34586,7 +34586,7 @@ Pima,183,PROPOSITION 314,,,Total Votes,1210,1049,153,8
 Pima,183,PROPOSITION 315,,,Yes,518,430,85,3
 Pima,183,PROPOSITION 315,,,No,661,595,62,4
 Pima,183,PROPOSITION 315,,,Total Votes,1179,1025,147,7
-Pima,184,Registered Voters,,,,6610,6610,6610,6610
+Pima,184,Registered Voters,,,,6610,0,0,0
 Pima,184,Ballots Cast,,,,5882,5266,600,16
 Pima,184,President,,DEM,Kamala D. HARRIS / Tim WALZ,2491,2352,134,5
 Pima,184,President,,REP,Donald J. TRUMP / JD VANCE,3284,2817,456,11
@@ -34778,7 +34778,7 @@ Pima,184,PROPOSITION 315,,,Yes,2626,2306,311,9
 Pima,184,PROPOSITION 315,,,No,2559,2352,203,4
 Pima,184,PROPOSITION 315,,,Total Votes,5185,4658,514,13
 Pima,184,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,5315,4780,523,12
-Pima,185,Registered Voters,,,,1963,1963,1963,1963
+Pima,185,Registered Voters,,,,1963,0,0,0
 Pima,185,Ballots Cast,,,,1630,1340,282,8
 Pima,185,President,,DEM,Kamala D. HARRIS / Tim WALZ,784,703,78,3
 Pima,185,President,,REP,Donald J. TRUMP / JD VANCE,821,620,197,4
@@ -34969,7 +34969,7 @@ Pima,185,PROPOSITION 315,,,Yes,623,482,139,2
 Pima,185,PROPOSITION 315,,,No,782,694,84,4
 Pima,185,PROPOSITION 315,,,Total Votes,1405,1176,223,6
 Pima,185,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,1436,1191,238,7
-Pima,186,Registered Voters,,,,338,338,338,338
+Pima,186,Registered Voters,,,,338,0,0,0
 Pima,186,Ballots Cast,,,,316,299,15,2
 Pima,186,President,,DEM,Kamala D. HARRIS / Tim WALZ,160,154,5,1
 Pima,186,President,,REP,Donald J. TRUMP / JD VANCE,146,135,10,1
@@ -35172,7 +35172,7 @@ Pima,186,PROPOSITION 314,,,Total Votes,287,271,15,1
 Pima,186,PROPOSITION 315,,,Yes,113,105,7,1
 Pima,186,PROPOSITION 315,,,No,164,156,8,0
 Pima,186,PROPOSITION 315,,,Total Votes,277,261,15,1
-Pima,187,Registered Voters,,,,3659,3659,3659,3659
+Pima,187,Registered Voters,,,,3659,0,0,0
 Pima,187,Ballots Cast,,,,3189,2802,375,12
 Pima,187,President,,DEM,Kamala D. HARRIS / Tim WALZ,1646,1520,124,2
 Pima,187,President,,REP,Donald J. TRUMP / JD VANCE,1493,1240,243,10
@@ -35358,7 +35358,7 @@ Pima,187,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,187,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1539,1348,185,6
 Pima,187,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1236,1105,130,1
 Pima,187,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2775,2453,315,7
-Pima,188,Registered Voters,,,,2800,2800,2800,2800
+Pima,188,Registered Voters,,,,2800,0,0,0
 Pima,188,Ballots Cast,,,,2372,1954,406,12
 Pima,188,President,,DEM,Kamala D. HARRIS / Tim WALZ,930,831,96,3
 Pima,188,President,,REP,Donald J. TRUMP / JD VANCE,1395,1086,300,9
@@ -35545,7 +35545,7 @@ Pima,188,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,188,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,916,761,147,8
 Pima,188,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1157,957,197,3
 Pima,188,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2073,1718,344,11
-Pima,189,Registered Voters,,,,1672,1672,1672,1672
+Pima,189,Registered Voters,,,,1672,0,0,0
 Pima,189,Ballots Cast,,,,1369,1177,185,7
 Pima,189,President,,DEM,Kamala D. HARRIS / Tim WALZ,922,830,89,3
 Pima,189,President,,REP,Donald J. TRUMP / JD VANCE,416,321,91,4
@@ -35730,7 +35730,7 @@ Pima,189,PROPOSITION 314,,,Total Votes,1216,1059,150,7
 Pima,189,PROPOSITION 315,,,Yes,356,293,62,1
 Pima,189,PROPOSITION 315,,,No,816,726,86,4
 Pima,189,PROPOSITION 315,,,Total Votes,1172,1019,148,5
-Pima,190,Registered Voters,,,,1830,1830,1830,1830
+Pima,190,Registered Voters,,,,1830,0,0,0
 Pima,190,Ballots Cast,,,,1187,968,207,12
 Pima,190,President,,DEM,Kamala D. HARRIS / Tim WALZ,778,666,104,8
 Pima,190,President,,REP,Donald J. TRUMP / JD VANCE,390,287,99,4
@@ -35922,7 +35922,7 @@ Pima,190,PROPOSITION 314,,,Total Votes,1066,873,182,11
 Pima,190,PROPOSITION 315,,,Yes,360,267,89,4
 Pima,190,PROPOSITION 315,,,No,680,587,87,6
 Pima,190,PROPOSITION 315,,,Total Votes,1040,854,176,10
-Pima,191,Registered Voters,,,,1209,1209,1209,1209
+Pima,191,Registered Voters,,,,1209,0,0,0
 Pima,191,Ballots Cast,,,,1008,846,157,5
 Pima,191,President,,DEM,Kamala D. HARRIS / Tim WALZ,473,421,50,2
 Pima,191,President,,REP,Donald J. TRUMP / JD VANCE,515,408,104,3
@@ -36113,7 +36113,7 @@ Pima,191,PROPOSITION 315,,,Yes,400,326,72,2
 Pima,191,PROPOSITION 315,,,No,481,419,62,0
 Pima,191,PROPOSITION 315,,,Total Votes,881,745,134,2
 Pima,191,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,914,768,143,3
-Pima,192,Registered Voters,,,,3190,3190,3190,3190
+Pima,192,Registered Voters,,,,3190,0,0,0
 Pima,192,Ballots Cast,,,,2692,2378,299,15
 Pima,192,President,,DEM,Kamala D. HARRIS / Tim WALZ,1414,1293,115,6
 Pima,192,President,,REP,Donald J. TRUMP / JD VANCE,1223,1040,175,8
@@ -36301,7 +36301,7 @@ Pima,192,PROPOSITION 314,,,Total Votes,2420,2150,256,14
 Pima,192,PROPOSITION 315,,,Yes,1016,887,120,9
 Pima,192,PROPOSITION 315,,,No,1330,1200,124,6
 Pima,192,PROPOSITION 315,,,Total Votes,2346,2087,244,15
-Pima,193,Registered Voters,,,,1664,1664,1664,1664
+Pima,193,Registered Voters,,,,1664,0,0,0
 Pima,193,Ballots Cast,,,,1496,1381,111,4
 Pima,193,President,,DEM,Kamala D. HARRIS / Tim WALZ,779,744,32,3
 Pima,193,President,,REP,Donald J. TRUMP / JD VANCE,686,611,74,1
@@ -36481,7 +36481,7 @@ Pima,193,PROPOSITION 315,,,Yes,548,497,51,0
 Pima,193,PROPOSITION 315,,,No,713,672,39,2
 Pima,193,PROPOSITION 315,,,Total Votes,1261,1169,90,2
 Pima,193,PROPOSITION 410 - Continental School District No. 39,,,Total Votes,1284,1190,91,3
-Pima,194,Registered Voters,,,,3350,3350,3350,3350
+Pima,194,Registered Voters,,,,3350,0,0,0
 Pima,194,Ballots Cast,,,,2917,2606,306,5
 Pima,194,President,,DEM,Kamala D. HARRIS / Tim WALZ,1393,1299,93,1
 Pima,194,President,,REP,Donald J. TRUMP / JD VANCE,1466,1258,204,4
@@ -36668,7 +36668,7 @@ Pima,194,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,194,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1378,1253,122,3
 Pima,194,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1165,1041,122,2
 Pima,194,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2543,2294,244,5
-Pima,195,Registered Voters,,,,3395,3395,3395,3395
+Pima,195,Registered Voters,,,,3395,0,0,0
 Pima,195,Ballots Cast,,,,3103,2709,375,19
 Pima,195,President,,DEM,Kamala D. HARRIS / Tim WALZ,1346,1259,80,7
 Pima,195,President,,REP,Donald J. TRUMP / JD VANCE,1708,1406,290,12
@@ -36856,7 +36856,7 @@ Pima,195,PROPOSITION 314,,,Total Votes,2845,2493,336,16
 Pima,195,PROPOSITION 315,,,Yes,1369,1175,184,10
 Pima,195,PROPOSITION 315,,,No,1386,1242,139,5
 Pima,195,PROPOSITION 315,,,Total Votes,2755,2417,323,15
-Pima,197,Registered Voters,,,,2711,2711,2711,2711
+Pima,197,Registered Voters,,,,2711,0,0,0
 Pima,197,Ballots Cast,,,,2239,1940,284,15
 Pima,197,President,,DEM,Kamala D. HARRIS / Tim WALZ,1122,1010,102,10
 Pima,197,President,,REP,Donald J. TRUMP / JD VANCE,1077,894,178,5
@@ -37043,7 +37043,7 @@ Pima,197,PROPOSITION 314,,,Total Votes,1980,1730,235,15
 Pima,197,PROPOSITION 315,,,Yes,836,706,122,8
 Pima,197,PROPOSITION 315,,,No,1042,936,99,7
 Pima,197,PROPOSITION 315,,,Total Votes,1878,1642,221,15
-Pima,198,Registered Voters,,,,2444,2444,2444,2444
+Pima,198,Registered Voters,,,,2444,0,0,0
 Pima,198,Ballots Cast,,,,2148,1835,305,8
 Pima,198,President,,DEM,Kamala D. HARRIS / Tim WALZ,760,700,58,2
 Pima,198,President,,REP,Donald J. TRUMP / JD VANCE,1339,1097,236,6
@@ -37230,7 +37230,7 @@ Pima,198,PROPOSITION 314,,,Total Votes,1951,1673,271,7
 Pima,198,PROPOSITION 315,,,Yes,973,808,163,2
 Pima,198,PROPOSITION 315,,,No,901,798,98,5
 Pima,198,PROPOSITION 315,,,Total Votes,1874,1606,261,7
-Pima,199,Registered Voters,,,,2782,2782,2782,2782
+Pima,199,Registered Voters,,,,2782,0,0,0
 Pima,199,Ballots Cast,,,,2488,2204,281,3
 Pima,199,President,,DEM,Kamala D. HARRIS / Tim WALZ,1166,1080,86,0
 Pima,199,President,,REP,Donald J. TRUMP / JD VANCE,1268,1083,183,2
@@ -37417,7 +37417,7 @@ Pima,199,PROPOSITION 314,,,Total Votes,2277,2023,252,2
 Pima,199,PROPOSITION 315,,,Yes,1008,880,127,1
 Pima,199,PROPOSITION 315,,,No,1192,1080,111,1
 Pima,199,PROPOSITION 315,,,Total Votes,2200,1960,238,2
-Pima,200,Registered Voters,,,,2272,2272,2272,2272
+Pima,200,Registered Voters,,,,2272,0,0,0
 Pima,200,Ballots Cast,,,,2021,1822,184,15
 Pima,200,President,,DEM,Kamala D. HARRIS / Tim WALZ,886,825,58,3
 Pima,200,President,,REP,Donald J. TRUMP / JD VANCE,1110,976,122,12
@@ -37604,7 +37604,7 @@ Pima,200,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,200,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,866,787,76,3
 Pima,200,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,898,812,81,5
 Pima,200,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1764,1599,157,8
-Pima,201,Registered Voters,,,,3330,3330,3330,3330
+Pima,201,Registered Voters,,,,3330,0,0,0
 Pima,201,Ballots Cast,,,,2627,2170,439,18
 Pima,201,President,,DEM,Kamala D. HARRIS / Tim WALZ,1383,1228,150,5
 Pima,201,President,,REP,Donald J. TRUMP / JD VANCE,1195,900,282,13
@@ -37795,7 +37795,7 @@ Pima,201,PROPOSITION 315,,,Yes,1005,797,199,9
 Pima,201,PROPOSITION 315,,,No,1245,1086,153,6
 Pima,201,PROPOSITION 315,,,Total Votes,2250,1883,352,15
 Pima,201,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,2314,1930,369,15
-Pima,202,Registered Voters,,,,3540,3540,3540,3540
+Pima,202,Registered Voters,,,,3540,0,0,0
 Pima,202,Ballots Cast,,,,3067,2639,419,9
 Pima,202,President,,DEM,Kamala D. HARRIS / Tim WALZ,1517,1380,133,4
 Pima,202,President,,REP,Donald J. TRUMP / JD VANCE,1480,1198,277,5
@@ -37981,7 +37981,7 @@ Pima,202,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,202,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1388,1202,183,3
 Pima,202,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1276,1107,164,5
 Pima,202,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2664,2309,347,8
-Pima,203,Registered Voters,,,,1803,1803,1803,1803
+Pima,203,Registered Voters,,,,1803,0,0,0
 Pima,203,Ballots Cast,,,,1281,1021,246,14
 Pima,203,President,,DEM,Kamala D. HARRIS / Tim WALZ,717,619,92,6
 Pima,203,President,,REP,Donald J. TRUMP / JD VANCE,545,386,151,8
@@ -38174,7 +38174,7 @@ Pima,203,PROPOSITION 314,,,Total Votes,1160,935,215,10
 Pima,203,PROPOSITION 315,,,Yes,469,360,104,5
 Pima,203,PROPOSITION 315,,,No,663,552,106,5
 Pima,203,PROPOSITION 315,,,Total Votes,1132,912,210,10
-Pima,204,Registered Voters,,,,556,556,556,556
+Pima,204,Registered Voters,,,,556,0,0,0
 Pima,204,Ballots Cast,,,,447,339,104,4
 Pima,204,President,,DEM,Kamala D. HARRIS / Tim WALZ,76,65,11,0
 Pima,204,President,,REP,Donald J. TRUMP / JD VANCE,366,269,93,4
@@ -38365,7 +38365,7 @@ Pima,204,PROPOSITION 314,,,Total Votes,421,321,97,3
 Pima,204,PROPOSITION 315,,,Yes,258,188,68,2
 Pima,204,PROPOSITION 315,,,No,153,124,28,1
 Pima,204,PROPOSITION 315,,,Total Votes,411,312,96,3
-Pima,205,Registered Voters,,,,2638,2638,2638,2638
+Pima,205,Registered Voters,,,,2638,0,0,0
 Pima,205,Ballots Cast,,,,2455,2289,164,2
 Pima,205,President,,DEM,Kamala D. HARRIS / Tim WALZ,1320,1274,45,1
 Pima,205,President,,REP,Donald J. TRUMP / JD VANCE,1090,972,117,1
@@ -38553,7 +38553,7 @@ Pima,205,PROPOSITION 315,,,Yes,985,892,93,0
 Pima,205,PROPOSITION 315,,,No,1172,1122,48,2
 Pima,205,PROPOSITION 315,,,Total Votes,2157,2014,141,2
 Pima,205,PROPOSITION 410 - Continental School District No. 39,,,Total Votes,2166,2018,146,2
-Pima,206,Registered Voters,,,,488,488,488,488
+Pima,206,Registered Voters,,,,488,0,0,0
 Pima,206,Ballots Cast,,,,404,342,61,1
 Pima,206,President,,DEM,Kamala D. HARRIS / Tim WALZ,135,118,17,0
 Pima,206,President,,REP,Donald J. TRUMP / JD VANCE,268,223,44,1
@@ -38741,7 +38741,7 @@ Pima,206,PROPOSITION 315,,,Yes,201,169,31,1
 Pima,206,PROPOSITION 315,,,No,168,142,26,0
 Pima,206,PROPOSITION 315,,,Total Votes,369,311,57,1
 Pima,206,PROPOSITION 410 - Continental School District No. 39,,,Total Votes,178,148,30,0
-Pima,207,Registered Voters,,,,2347,2347,2347,2347
+Pima,207,Registered Voters,,,,2347,0,0,0
 Pima,207,Ballots Cast,,,,2119,1955,162,2
 Pima,207,President,,DEM,Kamala D. HARRIS / Tim WALZ,1219,1170,49,0
 Pima,207,President,,REP,Donald J. TRUMP / JD VANCE,862,752,108,2
@@ -38934,7 +38934,7 @@ Pima,207,PROPOSITION 406,,,Total Votes,0,0,0,0
 Pima,207,PROPOSITION 407,,,Yes,0,0,0,0
 Pima,207,PROPOSITION 407,,,No,0,0,0,0
 Pima,207,PROPOSITION 407,,,Total Votes,0,0,0,0
-Pima,208,Registered Voters,,,,1717,1717,1717,1717
+Pima,208,Registered Voters,,,,1717,0,0,0
 Pima,208,Ballots Cast,,,,1263,958,293,12
 Pima,208,President,,DEM,Kamala D. HARRIS / Tim WALZ,562,474,85,3
 Pima,208,President,,REP,Donald J. TRUMP / JD VANCE,671,462,200,9
@@ -39122,7 +39122,7 @@ Pima,208,PROPOSITION 314,,,Total Votes,1133,867,257,9
 Pima,208,PROPOSITION 315,,,Yes,526,387,134,5
 Pima,208,PROPOSITION 315,,,No,562,451,108,3
 Pima,208,PROPOSITION 315,,,Total Votes,1088,838,242,8
-Pima,209,Registered Voters,,,,2906,2906,2906,2906
+Pima,209,Registered Voters,,,,2906,0,0,0
 Pima,209,Ballots Cast,,,,2518,2334,178,6
 Pima,209,President,,DEM,Kamala D. HARRIS / Tim WALZ,1253,1196,56,1
 Pima,209,President,,REP,Donald J. TRUMP / JD VANCE,1219,1093,121,5
@@ -39302,7 +39302,7 @@ Pima,209,PROPOSITION 315,,,Yes,1059,970,85,4
 Pima,209,PROPOSITION 315,,,No,1104,1038,66,0
 Pima,209,PROPOSITION 315,,,Total Votes,2163,2008,151,4
 Pima,209,PROPOSITION 410 - Continental School District No. 39,,,Total Votes,2204,2044,157,3
-Pima,210,Registered Voters,,,,2320,2320,2320,2320
+Pima,210,Registered Voters,,,,2320,0,0,0
 Pima,210,Ballots Cast,,,,2117,1972,141,4
 Pima,210,President,,DEM,Kamala D. HARRIS / Tim WALZ,1445,1398,47,0
 Pima,210,President,,REP,Donald J. TRUMP / JD VANCE,608,521,83,4
@@ -39497,7 +39497,7 @@ Pima,210,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,210,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,440,418,22,0
 Pima,210,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,303,278,24,1
 Pima,210,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,743,696,46,1
-Pima,211,Registered Voters,,,,2287,2287,2287,2287
+Pima,211,Registered Voters,,,,2287,0,0,0
 Pima,211,Ballots Cast,,,,2044,1903,136,5
 Pima,211,President,,DEM,Kamala D. HARRIS / Tim WALZ,1206,1167,38,1
 Pima,211,President,,REP,Donald J. TRUMP / JD VANCE,812,710,98,4
@@ -39692,7 +39692,7 @@ Pima,211,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,211,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,462,437,23,2
 Pima,211,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,469,445,24,0
 Pima,211,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,931,882,47,2
-Pima,212,Registered Voters,,,,1614,1614,1614,1614
+Pima,212,Registered Voters,,,,1614,0,0,0
 Pima,212,Ballots Cast,,,,1410,1251,156,3
 Pima,212,President,,DEM,Kamala D. HARRIS / Tim WALZ,689,640,47,2
 Pima,212,President,,REP,Donald J. TRUMP / JD VANCE,679,574,104,1
@@ -39879,7 +39879,7 @@ Pima,212,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,212,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,740,671,68,1
 Pima,212,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,517,458,58,1
 Pima,212,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1257,1129,126,2
-Pima,213,Registered Voters,,,,444,444,444,444
+Pima,213,Registered Voters,,,,444,0,0,0
 Pima,213,Ballots Cast,,,,372,326,45,1
 Pima,213,President,,DEM,Kamala D. HARRIS / Tim WALZ,193,173,20,0
 Pima,213,President,,REP,Donald J. TRUMP / JD VANCE,174,148,25,1
@@ -40071,7 +40071,7 @@ Pima,213,PROPOSITION 315,,,Yes,125,104,21,0
 Pima,213,PROPOSITION 315,,,No,193,178,14,1
 Pima,213,PROPOSITION 315,,,Total Votes,318,282,35,1
 Pima,213,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,332,294,37,1
-Pima,214,Registered Voters,,,,2971,2971,2971,2971
+Pima,214,Registered Voters,,,,2971,0,0,0
 Pima,214,Ballots Cast,,,,2568,2280,272,16
 Pima,214,President,,DEM,Kamala D. HARRIS / Tim WALZ,1629,1496,125,8
 Pima,214,President,,REP,Donald J. TRUMP / JD VANCE,879,738,135,6
@@ -40270,7 +40270,7 @@ Pima,214,PROPOSITION 314,,,Total Votes,2275,2030,230,15
 Pima,214,PROPOSITION 315,,,Yes,774,654,111,9
 Pima,214,PROPOSITION 315,,,No,1442,1334,105,3
 Pima,214,PROPOSITION 315,,,Total Votes,2216,1988,216,12
-Pima,215,Registered Voters,,,,1677,1677,1677,1677
+Pima,215,Registered Voters,,,,1677,0,0,0
 Pima,215,Ballots Cast,,,,1340,1072,253,15
 Pima,215,President,,DEM,Kamala D. HARRIS / Tim WALZ,570,506,60,4
 Pima,215,President,,REP,Donald J. TRUMP / JD VANCE,750,548,192,10
@@ -40467,7 +40467,7 @@ Pima,215,PROPOSITION 315,,,Yes,502,391,105,6
 Pima,215,PROPOSITION 315,,,No,630,516,111,3
 Pima,215,PROPOSITION 315,,,Total Votes,1132,907,216,9
 Pima,215,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,1177,940,231,6
-Pima,216,Registered Voters,,,,2604,2604,2604,2604
+Pima,216,Registered Voters,,,,2604,0,0,0
 Pima,216,Ballots Cast,,,,2329,2108,216,5
 Pima,216,President,,DEM,Kamala D. HARRIS / Tim WALZ,1098,1036,60,2
 Pima,216,President,,REP,Donald J. TRUMP / JD VANCE,1167,1017,147,3
@@ -40654,7 +40654,7 @@ Pima,216,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,216,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1033,945,87,1
 Pima,216,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,1004,914,87,3
 Pima,216,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,2037,1859,174,4
-Pima,217,Registered Voters,,,,1744,1744,1744,1744
+Pima,217,Registered Voters,,,,1744,0,0,0
 Pima,217,Ballots Cast,,,,1412,1184,212,16
 Pima,217,President,,DEM,Kamala D. HARRIS / Tim WALZ,717,633,74,10
 Pima,217,President,,REP,Donald J. TRUMP / JD VANCE,658,520,132,6
@@ -40840,7 +40840,7 @@ Pima,217,PROPOSITION 314,,,Total Votes,1273,1073,186,14
 Pima,217,PROPOSITION 315,,,Yes,576,467,102,7
 Pima,217,PROPOSITION 315,,,No,645,561,78,6
 Pima,217,PROPOSITION 315,,,Total Votes,1221,1028,180,13
-Pima,218,Registered Voters,,,,5731,5731,5731,5731
+Pima,218,Registered Voters,,,,5731,0,0,0
 Pima,218,Ballots Cast,,,,4968,4425,513,30
 Pima,218,President,,DEM,Kamala D. HARRIS / Tim WALZ,2637,2465,160,12
 Pima,218,President,,REP,Donald J. TRUMP / JD VANCE,2229,1877,334,18
@@ -41028,7 +41028,7 @@ Pima,218,PROPOSITION 314,,,Total Votes,4471,4001,445,25
 Pima,218,PROPOSITION 315,,,Yes,1894,1638,243,13
 Pima,218,PROPOSITION 315,,,No,2421,2229,180,12
 Pima,218,PROPOSITION 315,,,Total Votes,4315,3867,423,25
-Pima,219,Registered Voters,,,,2743,2743,2743,2743
+Pima,219,Registered Voters,,,,2743,0,0,0
 Pima,219,Ballots Cast,,,,2218,1847,359,12
 Pima,219,President,,DEM,Kamala D. HARRIS / Tim WALZ,1071,949,116,6
 Pima,219,President,,REP,Donald J. TRUMP / JD VANCE,1097,854,237,6
@@ -41217,7 +41217,7 @@ Pima,219,PROPOSITION 314,,,Total Votes,2000,1676,315,9
 Pima,219,PROPOSITION 315,,,Yes,851,697,150,4
 Pima,219,PROPOSITION 315,,,No,1072,910,158,4
 Pima,219,PROPOSITION 315,,,Total Votes,1923,1607,308,8
-Pima,220,Registered Voters,,,,3169,3169,3169,3169
+Pima,220,Registered Voters,,,,3169,0,0,0
 Pima,220,Ballots Cast,,,,2865,2616,242,7
 Pima,220,President,,DEM,Kamala D. HARRIS / Tim WALZ,1446,1369,74,3
 Pima,220,President,,REP,Donald J. TRUMP / JD VANCE,1348,1184,160,4
@@ -41423,7 +41423,7 @@ Pima,220,PROPOSITION 314,,,Total Votes,2601,2394,202,5
 Pima,220,PROPOSITION 315,,,Yes,1056,959,96,1
 Pima,220,PROPOSITION 315,,,No,1449,1350,95,4
 Pima,220,PROPOSITION 315,,,Total Votes,2505,2309,191,5
-Pima,221,Registered Voters,,,,684,684,684,684
+Pima,221,Registered Voters,,,,684,0,0,0
 Pima,221,Ballots Cast,,,,571,492,76,3
 Pima,221,President,,DEM,Kamala D. HARRIS / Tim WALZ,174,163,10,1
 Pima,221,President,,REP,Donald J. TRUMP / JD VANCE,387,320,65,2
@@ -41616,7 +41616,7 @@ Pima,221,PROPOSITION 314,,,Total Votes,517,448,66,3
 Pima,221,PROPOSITION 315,,,Yes,268,233,33,2
 Pima,221,PROPOSITION 315,,,No,234,204,29,1
 Pima,221,PROPOSITION 315,,,Total Votes,502,437,62,3
-Pima,222,Registered Voters,,,,2272,2272,2272,2272
+Pima,222,Registered Voters,,,,2272,0,0,0
 Pima,222,Ballots Cast,,,,1710,1279,410,21
 Pima,222,President,,DEM,Kamala D. HARRIS / Tim WALZ,552,470,79,3
 Pima,222,President,,REP,Donald J. TRUMP / JD VANCE,1136,792,326,18
@@ -41813,7 +41813,7 @@ Pima,222,PROPOSITION 315,,,Yes,772,568,196,8
 Pima,222,PROPOSITION 315,,,No,718,549,162,7
 Pima,222,PROPOSITION 315,,,Total Votes,1490,1117,358,15
 Pima,222,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,1518,1142,371,5
-Pima,223,Registered Voters,,,,1666,1666,1666,1666
+Pima,223,Registered Voters,,,,1666,0,0,0
 Pima,223,Ballots Cast,,,,1377,1155,209,13
 Pima,223,President,,DEM,Kamala D. HARRIS / Tim WALZ,661,593,62,6
 Pima,223,President,,REP,Donald J. TRUMP / JD VANCE,688,540,141,7
@@ -42011,7 +42011,7 @@ Pima,223,PROPOSITION 315,,,Yes,563,448,107,8
 Pima,223,PROPOSITION 315,,,No,626,553,70,3
 Pima,223,PROPOSITION 315,,,Total Votes,1189,1001,177,11
 Pima,223,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,1215,1020,184,11
-Pima,224,Registered Voters,,,,6025,6025,6025,6025
+Pima,224,Registered Voters,,,,6025,0,0,0
 Pima,224,Ballots Cast,,,,5032,4251,748,33
 Pima,224,President,,DEM,Kamala D. HARRIS / Tim WALZ,2272,2048,212,12
 Pima,224,President,,REP,Donald J. TRUMP / JD VANCE,2641,2101,521,19
@@ -42198,7 +42198,7 @@ Pima,224,PROPOSITION 314,,,Total Votes,4571,3883,660,28
 Pima,224,PROPOSITION 315,,,Yes,2147,1766,367,14
 Pima,224,PROPOSITION 315,,,No,2248,1980,254,14
 Pima,224,PROPOSITION 315,,,Total Votes,4395,3746,621,28
-Pima,225,Registered Voters,,,,3648,3648,3648,3648
+Pima,225,Registered Voters,,,,3648,0,0,0
 Pima,225,Ballots Cast,,,,2880,2371,496,13
 Pima,225,President,,DEM,Kamala D. HARRIS / Tim WALZ,1478,1296,177,5
 Pima,225,President,,REP,Donald J. TRUMP / JD VANCE,1344,1030,306,8
@@ -42391,7 +42391,7 @@ Pima,225,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,225,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,815,708,107,0
 Pima,225,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,658,540,118,0
 Pima,225,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1473,1248,225,0
-Pima,226,Registered Voters,,,,993,993,993,993
+Pima,226,Registered Voters,,,,993,0,0,0
 Pima,226,Ballots Cast,,,,868,782,84,2
 Pima,226,President,,DEM,Kamala D. HARRIS / Tim WALZ,437,406,31,0
 Pima,226,President,,REP,Donald J. TRUMP / JD VANCE,411,357,52,2
@@ -42577,7 +42577,7 @@ Pima,226,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,226,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,411,374,37,0
 Pima,226,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,372,331,40,1
 Pima,226,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,783,705,77,1
-Pima,227,Registered Voters,,,,6055,6055,6055,6055
+Pima,227,Registered Voters,,,,6055,0,0,0
 Pima,227,Ballots Cast,,,,4714,3836,847,31
 Pima,227,President,,DEM,Kamala D. HARRIS / Tim WALZ,2131,1826,293,12
 Pima,227,President,,REP,Donald J. TRUMP / JD VANCE,2494,1936,539,19
@@ -42775,7 +42775,7 @@ Pima,227,PROPOSITION 406,,,Total Votes,4060,3324,713,23
 Pima,227,PROPOSITION 407,,,Yes,2453,2048,393,12
 Pima,227,PROPOSITION 407,,,No,1595,1260,324,11
 Pima,227,PROPOSITION 407,,,Total Votes,4048,3308,717,23
-Pima,228,Registered Voters,,,,1205,1205,1205,1205
+Pima,228,Registered Voters,,,,1205,0,0,0
 Pima,228,Ballots Cast,,,,1100,972,126,2
 Pima,228,President,,DEM,Kamala D. HARRIS / Tim WALZ,609,573,35,1
 Pima,228,President,,REP,Donald J. TRUMP / JD VANCE,472,382,89,1
@@ -42980,7 +42980,7 @@ Pima,228,PROPOSITION 315,,,Yes,412,344,67,1
 Pima,228,PROPOSITION 315,,,No,583,536,46,1
 Pima,228,PROPOSITION 315,,,Total Votes,995,880,113,2
 Pima,228,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,273,254,19,0
-Pima,229,Registered Voters,,,,5276,5276,5276,5276
+Pima,229,Registered Voters,,,,5276,0,0,0
 Pima,229,Ballots Cast,,,,4472,3623,813,36
 Pima,229,President,,DEM,Kamala D. HARRIS / Tim WALZ,1495,1324,165,6
 Pima,229,President,,REP,Donald J. TRUMP / JD VANCE,2883,2222,632,29
@@ -43167,7 +43167,7 @@ Pima,229,PROPOSITION 314,,,Total Votes,4101,3339,733,29
 Pima,229,PROPOSITION 315,,,Yes,2145,1706,423,16
 Pima,229,PROPOSITION 315,,,No,1799,1513,273,13
 Pima,229,PROPOSITION 315,,,Total Votes,3944,3219,696,29
-Pima,230,Registered Voters,,,,1025,1025,1025,1025
+Pima,230,Registered Voters,,,,1025,0,0,0
 Pima,230,Ballots Cast,,,,860,787,71,2
 Pima,230,President,,DEM,Kamala D. HARRIS / Tim WALZ,568,541,26,1
 Pima,230,President,,REP,Donald J. TRUMP / JD VANCE,283,237,45,1
@@ -43350,7 +43350,7 @@ Pima,230,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,230,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,417,387,30,0
 Pima,230,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,332,302,29,1
 Pima,230,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,749,689,59,1
-Pima,231,Registered Voters,,,,6197,6197,6197,6197
+Pima,231,Registered Voters,,,,6197,0,0,0
 Pima,231,Ballots Cast,,,,4853,4031,786,36
 Pima,231,President,,DEM,Kamala D. HARRIS / Tim WALZ,2152,1897,240,15
 Pima,231,President,,REP,Donald J. TRUMP / JD VANCE,2593,2046,527,20
@@ -43548,7 +43548,7 @@ Pima,231,PROPOSITION 406,,,Total Votes,3759,3153,582,24
 Pima,231,PROPOSITION 407,,,Yes,2296,1953,331,12
 Pima,231,PROPOSITION 407,,,No,1457,1199,247,11
 Pima,231,PROPOSITION 407,,,Total Votes,3753,3152,578,23
-Pima,232,Registered Voters,,,,5382,5382,5382,5382
+Pima,232,Registered Voters,,,,5382,0,0,0
 Pima,232,Ballots Cast,,,,3663,2962,670,31
 Pima,232,President,,DEM,Kamala D. HARRIS / Tim WALZ,2097,1784,296,17
 Pima,232,President,,REP,Donald J. TRUMP / JD VANCE,1505,1131,361,13
@@ -43725,7 +43725,7 @@ Pima,232,PROPOSITION 314,,,Total Votes,3271,2678,568,25
 Pima,232,PROPOSITION 315,,,Yes,1406,1119,277,10
 Pima,232,PROPOSITION 315,,,No,1798,1515,270,13
 Pima,232,PROPOSITION 315,,,Total Votes,3204,2634,547,23
-Pima,233,Registered Voters,,,,2584,2584,2584,2584
+Pima,233,Registered Voters,,,,2584,0,0,0
 Pima,233,Ballots Cast,,,,1890,1542,340,8
 Pima,233,President,,DEM,Kamala D. HARRIS / Tim WALZ,1049,914,129,6
 Pima,233,President,,REP,Donald J. TRUMP / JD VANCE,803,593,208,2
@@ -43921,7 +43921,7 @@ Pima,233,PROPOSITION 314,,,Total Votes,1697,1401,289,7
 Pima,233,PROPOSITION 315,,,Yes,654,511,137,6
 Pima,233,PROPOSITION 315,,,No,978,834,143,1
 Pima,233,PROPOSITION 315,,,Total Votes,1632,1345,280,7
-Pima,234,Registered Voters,,,,2292,2292,2292,2292
+Pima,234,Registered Voters,,,,2292,0,0,0
 Pima,234,Ballots Cast,,,,1714,1438,266,10
 Pima,234,President,,DEM,Kamala D. HARRIS / Tim WALZ,1020,912,103,5
 Pima,234,President,,REP,Donald J. TRUMP / JD VANCE,663,497,161,5
@@ -44114,7 +44114,7 @@ Pima,234,PROPOSITION 314,,,Total Votes,1548,1319,221,8
 Pima,234,PROPOSITION 315,,,Yes,562,455,105,2
 Pima,234,PROPOSITION 315,,,No,952,834,113,5
 Pima,234,PROPOSITION 315,,,Total Votes,1514,1289,218,7
-Pima,235,Registered Voters,,,,5018,5018,5018,5018
+Pima,235,Registered Voters,,,,5018,0,0,0
 Pima,235,Ballots Cast,,,,3369,2670,673,26
 Pima,235,President,,DEM,Kamala D. HARRIS / Tim WALZ,2112,1743,356,13
 Pima,235,President,,REP,Donald J. TRUMP / JD VANCE,1197,880,305,12
@@ -44309,7 +44309,7 @@ Pima,235,PROPOSITION 314,,,Total Votes,3036,2436,577,23
 Pima,235,PROPOSITION 315,,,Yes,1069,793,264,12
 Pima,235,PROPOSITION 315,,,No,1898,1589,299,10
 Pima,235,PROPOSITION 315,,,Total Votes,2967,2382,563,22
-Pima,236,Registered Voters,,,,1278,1278,1278,1278
+Pima,236,Registered Voters,,,,1278,0,0,0
 Pima,236,Ballots Cast,,,,727,436,281,10
 Pima,236,President,,DEM,Kamala D. HARRIS / Tim WALZ,581,342,232,7
 Pima,236,President,,REP,Donald J. TRUMP / JD VANCE,128,84,43,1
@@ -44504,7 +44504,7 @@ Pima,236,PROPOSITION 314,,,Total Votes,653,389,254,10
 Pima,236,PROPOSITION 315,,,Yes,217,122,88,7
 Pima,236,PROPOSITION 315,,,No,423,260,160,3
 Pima,236,PROPOSITION 315,,,Total Votes,640,382,248,10
-Pima,237,Registered Voters,,,,1841,1841,1841,1841
+Pima,237,Registered Voters,,,,1841,0,0,0
 Pima,237,Ballots Cast,,,,1605,1479,125,1
 Pima,237,President,,DEM,Kamala D. HARRIS / Tim WALZ,1020,965,55,0
 Pima,237,President,,REP,Donald J. TRUMP / JD VANCE,555,487,67,1
@@ -44703,7 +44703,7 @@ Pima,237,PROPOSITION 314,,,Total Votes,1450,1336,113,1
 Pima,237,PROPOSITION 315,,,Yes,522,462,59,1
 Pima,237,PROPOSITION 315,,,No,880,830,50,0
 Pima,237,PROPOSITION 315,,,Total Votes,1402,1292,109,1
-Pima,238,Registered Voters,,,,2872,2872,2872,2872
+Pima,238,Registered Voters,,,,2872,0,0,0
 Pima,238,Ballots Cast,,,,2457,2192,259,6
 Pima,238,President,,DEM,Kamala D. HARRIS / Tim WALZ,1556,1444,109,3
 Pima,238,President,,REP,Donald J. TRUMP / JD VANCE,850,710,138,2
@@ -44902,7 +44902,7 @@ Pima,238,PROPOSITION 314,,,Total Votes,2179,1944,230,5
 Pima,238,PROPOSITION 315,,,Yes,734,621,110,3
 Pima,238,PROPOSITION 315,,,No,1390,1275,113,2
 Pima,238,PROPOSITION 315,,,Total Votes,2124,1896,223,5
-Pima,240,Registered Voters,,,,107,107,107,107
+Pima,240,Registered Voters,,,,107,0,0,0
 Pima,240,Ballots Cast,,,,98,78,20,0
 Pima,240,President,,DEM,Kamala D. HARRIS / Tim WALZ,47,38,9,0
 Pima,240,President,,REP,Donald J. TRUMP / JD VANCE,49,39,10,0
@@ -45082,7 +45082,7 @@ Pima,240,PROPOSITION 314,,,Total Votes,88,71,17,0
 Pima,240,PROPOSITION 315,,,Yes,48,39,9,0
 Pima,240,PROPOSITION 315,,,No,34,27,7,0
 Pima,240,PROPOSITION 315,,,Total Votes,82,66,16,0
-Pima,241,Registered Voters,,,,1843,1843,1843,1843
+Pima,241,Registered Voters,,,,1843,0,0,0
 Pima,241,Ballots Cast,,,,1626,1507,113,6
 Pima,241,President,,DEM,Kamala D. HARRIS / Tim WALZ,911,857,52,2
 Pima,241,President,,REP,Donald J. TRUMP / JD VANCE,683,622,58,3
@@ -45275,7 +45275,7 @@ Pima,241,PROPOSITION 314,,,Total Votes,1446,1348,94,4
 Pima,241,PROPOSITION 315,,,Yes,572,522,49,1
 Pima,241,PROPOSITION 315,,,No,835,789,43,3
 Pima,241,PROPOSITION 315,,,Total Votes,1407,1311,92,4
-Pima,242,Registered Voters,,,,2396,2396,2396,2396
+Pima,242,Registered Voters,,,,2396,0,0,0
 Pima,242,Ballots Cast,,,,1988,1632,337,19
 Pima,242,President,,DEM,Kamala D. HARRIS / Tim WALZ,921,816,100,5
 Pima,242,President,,REP,Donald J. TRUMP / JD VANCE,1010,772,226,12
@@ -45473,7 +45473,7 @@ Pima,242,PROPOSITION 315,,,Yes,784,620,158,6
 Pima,242,PROPOSITION 315,,,No,907,769,130,8
 Pima,242,PROPOSITION 315,,,Total Votes,1691,1389,288,14
 Pima,242,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,1776,1462,300,14
-Pima,243,Registered Voters,,,,2076,2076,2076,2076
+Pima,243,Registered Voters,,,,2076,0,0,0
 Pima,243,Ballots Cast,,,,1829,1590,236,3
 Pima,243,President,,DEM,Kamala D. HARRIS / Tim WALZ,797,733,63,1
 Pima,243,President,,REP,Donald J. TRUMP / JD VANCE,998,831,165,2
@@ -45660,7 +45660,7 @@ Pima,243,PROPOSITION 314,,,Total Votes,1643,1433,208,2
 Pima,243,PROPOSITION 315,,,Yes,748,642,105,1
 Pima,243,PROPOSITION 315,,,No,841,752,88,1
 Pima,243,PROPOSITION 315,,,Total Votes,1589,1394,193,2
-Pima,244,Registered Voters,,,,975,975,975,975
+Pima,244,Registered Voters,,,,975,0,0,0
 Pima,244,Ballots Cast,,,,490,375,104,11
 Pima,244,President,,DEM,Kamala D. HARRIS / Tim WALZ,337,271,60,6
 Pima,244,President,,REP,Donald J. TRUMP / JD VANCE,140,94,42,4
@@ -45852,7 +45852,7 @@ Pima,244,PROPOSITION 314,,,Total Votes,439,338,92,9
 Pima,244,PROPOSITION 315,,,Yes,135,95,36,4
 Pima,244,PROPOSITION 315,,,No,301,241,55,5
 Pima,244,PROPOSITION 315,,,Total Votes,436,336,91,9
-Pima,245,Registered Voters,,,,1820,1820,1820,1820
+Pima,245,Registered Voters,,,,1820,0,0,0
 Pima,245,Ballots Cast,,,,1366,1192,160,14
 Pima,245,President,,DEM,Kamala D. HARRIS / Tim WALZ,1076,969,97,10
 Pima,245,President,,REP,Donald J. TRUMP / JD VANCE,246,189,54,3
@@ -46045,7 +46045,7 @@ Pima,245,PROPOSITION 314,,,Total Votes,1183,1046,125,12
 Pima,245,PROPOSITION 315,,,Yes,306,244,54,8
 Pima,245,PROPOSITION 315,,,No,845,772,70,3
 Pima,245,PROPOSITION 315,,,Total Votes,1151,1016,124,11
-Pima,246,Registered Voters,,,,2182,2182,2182,2182
+Pima,246,Registered Voters,,,,2182,0,0,0
 Pima,246,Ballots Cast,,,,1570,1357,203,10
 Pima,246,President,,DEM,Kamala D. HARRIS / Tim WALZ,1311,1180,123,8
 Pima,246,President,,REP,Donald J. TRUMP / JD VANCE,209,139,69,1
@@ -46232,7 +46232,7 @@ Pima,246,PROPOSITION 314,,,Total Votes,1399,1217,177,5
 Pima,246,PROPOSITION 315,,,Yes,247,177,68,2
 Pima,246,PROPOSITION 315,,,No,1117,1016,98,3
 Pima,246,PROPOSITION 315,,,Total Votes,1364,1193,166,5
-Pima,247,Registered Voters,,,,484,484,484,484
+Pima,247,Registered Voters,,,,484,0,0,0
 Pima,247,Ballots Cast,,,,329,264,62,3
 Pima,247,President,,DEM,Kamala D. HARRIS / Tim WALZ,236,200,35,1
 Pima,247,President,,REP,Donald J. TRUMP / JD VANCE,85,59,24,2
@@ -46425,7 +46425,7 @@ Pima,247,PROPOSITION 314,,,Total Votes,295,238,54,3
 Pima,247,PROPOSITION 315,,,Yes,72,52,19,1
 Pima,247,PROPOSITION 315,,,No,216,182,32,2
 Pima,247,PROPOSITION 315,,,Total Votes,288,234,51,3
-Pima,248,Registered Voters,,,,943,943,943,943
+Pima,248,Registered Voters,,,,943,0,0,0
 Pima,248,Ballots Cast,,,,568,480,85,3
 Pima,248,President,,DEM,Kamala D. HARRIS / Tim WALZ,415,365,48,2
 Pima,248,President,,REP,Donald J. TRUMP / JD VANCE,147,111,35,1
@@ -46609,7 +46609,7 @@ Pima,248,PROPOSITION 314,,,Total Votes,494,419,72,3
 Pima,248,PROPOSITION 315,,,Yes,137,110,27,0
 Pima,248,PROPOSITION 315,,,No,341,296,42,3
 Pima,248,PROPOSITION 315,,,Total Votes,478,406,69,3
-Pima,249,Registered Voters,,,,2881,2881,2881,2881
+Pima,249,Registered Voters,,,,2881,0,0,0
 Pima,249,Ballots Cast,,,,2403,1900,489,14
 Pima,249,President,,DEM,Kamala D. HARRIS / Tim WALZ,870,763,105,2
 Pima,249,President,,REP,Donald J. TRUMP / JD VANCE,1481,1095,376,10
@@ -46796,7 +46796,7 @@ Pima,249,PROPOSITION 314,,,Total Votes,2183,1732,438,13
 Pima,249,PROPOSITION 315,,,Yes,1123,863,251,9
 Pima,249,PROPOSITION 315,,,No,978,808,167,3
 Pima,249,PROPOSITION 315,,,Total Votes,2101,1671,418,12
-Pima,250,Registered Voters,,,,77,77,77,77
+Pima,250,Registered Voters,,,,77,0,0,0
 Pima,250,Ballots Cast,,,,50,39,10,1
 Pima,250,President,,DEM,Kamala D. HARRIS / Tim WALZ,18,16,1,1
 Pima,250,President,,REP,Donald J. TRUMP / JD VANCE,29,22,7,0
@@ -46984,7 +46984,7 @@ Pima,250,PROPOSITION 314,,,Total Votes,40,30,9,1
 Pima,250,PROPOSITION 315,,,Yes,21,15,6,0
 Pima,250,PROPOSITION 315,,,No,18,14,3,1
 Pima,250,PROPOSITION 315,,,Total Votes,39,29,9,1
-Pima,252,Registered Voters,,,,2491,2491,2491,2491
+Pima,252,Registered Voters,,,,2491,0,0,0
 Pima,252,Ballots Cast,,,,2137,1858,274,5
 Pima,252,President,,DEM,Kamala D. HARRIS / Tim WALZ,1014,931,80,3
 Pima,252,President,,REP,Donald J. TRUMP / JD VANCE,1072,881,189,2
@@ -47167,7 +47167,7 @@ Pima,252,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,252,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,1009,900,108,1
 Pima,252,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,815,707,108,0
 Pima,252,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,1824,1607,216,1
-Pima,253,Registered Voters,,,,242,242,242,242
+Pima,253,Registered Voters,,,,242,0,0,0
 Pima,253,Ballots Cast,,,,163,124,38,1
 Pima,253,President,,DEM,Kamala D. HARRIS / Tim WALZ,109,92,17,0
 Pima,253,President,,REP,Donald J. TRUMP / JD VANCE,51,31,19,1
@@ -47358,7 +47358,7 @@ Pima,253,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,253,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,83,65,17,1
 Pima,253,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,47,37,10,0
 Pima,253,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,130,102,27,1
-Pima,254,Registered Voters,,,,730,730,730,730
+Pima,254,Registered Voters,,,,730,0,0,0
 Pima,254,Ballots Cast,,,,560,491,66,3
 Pima,254,President,,DEM,Kamala D. HARRIS / Tim WALZ,373,345,27,1
 Pima,254,President,,REP,Donald J. TRUMP / JD VANCE,169,131,36,2
@@ -47549,7 +47549,7 @@ Pima,254,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,254,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,298,259,38,1
 Pima,254,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,190,172,18,0
 Pima,254,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,488,431,56,1
-Pima,257,Registered Voters,,,,1829,1829,1829,1829
+Pima,257,Registered Voters,,,,1829,0,0,0
 Pima,257,Ballots Cast,,,,1401,1032,360,9
 Pima,257,President,,DEM,Kamala D. HARRIS / Tim WALZ,514,444,67,3
 Pima,257,President,,REP,Donald J. TRUMP / JD VANCE,850,565,280,5
@@ -47746,7 +47746,7 @@ Pima,257,PROPOSITION 315,,,Yes,567,407,157,3
 Pima,257,PROPOSITION 315,,,No,655,511,142,2
 Pima,257,PROPOSITION 315,,,Total Votes,1222,918,299,5
 Pima,257,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,1252,937,312,3
-Pima,258,Registered Voters,,,,270,270,270,270
+Pima,258,Registered Voters,,,,270,0,0,0
 Pima,258,Ballots Cast,,,,218,168,49,1
 Pima,258,President,,DEM,Kamala D. HARRIS / Tim WALZ,67,55,11,1
 Pima,258,President,,REP,Donald J. TRUMP / JD VANCE,148,110,38,0
@@ -47932,7 +47932,7 @@ Pima,258,PROPOSITION 315,,,Yes,111,82,28,1
 Pima,258,PROPOSITION 315,,,No,80,66,14,0
 Pima,258,PROPOSITION 315,,,Total Votes,191,148,42,1
 Pima,258,PROPOSITION 410 - Continental School District No. 39,,,Total Votes,208,159,48,1
-Pima,260,Registered Voters,,,,560,560,560,560
+Pima,260,Registered Voters,,,,560,0,0,0
 Pima,260,Ballots Cast,,,,446,378,65,3
 Pima,260,President,,DEM,Kamala D. HARRIS / Tim WALZ,262,227,33,2
 Pima,260,President,,REP,Donald J. TRUMP / JD VANCE,175,145,29,1
@@ -48123,7 +48123,7 @@ Pima,260,PROPOSITION 412 - Amphitheater Unified School District No. 10,,,Total V
 Pima,260,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Yes,228,199,28,1
 Pima,260,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,No,173,144,29,0
 Pima,260,PROPOSITION 413 - Amphitheater Unified School District No. 10,,,Total Votes,401,343,57,1
-Pima,262,Registered Voters,,,,2625,2625,2625,2625
+Pima,262,Registered Voters,,,,2625,0,0,0
 Pima,262,Ballots Cast,,,,2152,1895,242,15
 Pima,262,President,,DEM,Kamala D. HARRIS / Tim WALZ,1145,1048,91,6
 Pima,262,President,,REP,Donald J. TRUMP / JD VANCE,961,809,143,9
@@ -48310,7 +48310,7 @@ Pima,262,PROPOSITION 314,,,Total Votes,1935,1708,215,12
 Pima,262,PROPOSITION 315,,,Yes,795,673,116,6
 Pima,262,PROPOSITION 315,,,No,1073,980,87,6
 Pima,262,PROPOSITION 315,,,Total Votes,1868,1653,203,12
-Pima,264,Registered Voters,,,,812,812,812,812
+Pima,264,Registered Voters,,,,812,0,0,0
 Pima,264,Ballots Cast,,,,559,466,87,6
 Pima,264,President,,DEM,Kamala D. HARRIS / Tim WALZ,327,284,41,2
 Pima,264,President,,REP,Donald J. TRUMP / JD VANCE,217,171,43,3
@@ -48495,7 +48495,7 @@ Pima,264,PROPOSITION 314,,,Total Votes,498,416,76,6
 Pima,264,PROPOSITION 315,,,Yes,227,182,43,2
 Pima,264,PROPOSITION 315,,,No,258,225,32,1
 Pima,264,PROPOSITION 315,,,Total Votes,485,407,75,3
-Pima,265,Registered Voters,,,,210,210,210,210
+Pima,265,Registered Voters,,,,210,0,0,0
 Pima,265,Ballots Cast,,,,168,151,17,0
 Pima,265,President,,DEM,Kamala D. HARRIS / Tim WALZ,98,93,5,0
 Pima,265,President,,REP,Donald J. TRUMP / JD VANCE,65,55,10,0
@@ -48681,7 +48681,7 @@ Pima,265,PROPOSITION 314,,,Total Votes,150,136,14,0
 Pima,265,PROPOSITION 315,,,Yes,57,50,7,0
 Pima,265,PROPOSITION 315,,,No,90,84,6,0
 Pima,265,PROPOSITION 315,,,Total Votes,147,134,13,0
-Pima,266,Registered Voters,,,,214,214,214,214
+Pima,266,Registered Voters,,,,214,0,0,0
 Pima,266,Ballots Cast,,,,136,98,38,0
 Pima,266,President,,DEM,Kamala D. HARRIS / Tim WALZ,31,28,3,0
 Pima,266,President,,REP,Donald J. TRUMP / JD VANCE,103,69,34,0
@@ -48879,7 +48879,7 @@ Pima,266,PROPOSITION 315,,,Yes,62,47,15,0
 Pima,266,PROPOSITION 315,,,No,57,38,19,0
 Pima,266,PROPOSITION 315,,,Total Votes,119,85,34,0
 Pima,266,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,124,89,35,0
-Pima,267,Registered Voters,,,,42,42,42,42
+Pima,267,Registered Voters,,,,42,0,0,0
 Pima,267,Ballots Cast,,,,24,21,3,0
 Pima,267,President,,DEM,Kamala D. HARRIS / Tim WALZ,14,13,1,0
 Pima,267,President,,REP,Donald J. TRUMP / JD VANCE,10,8,2,0
@@ -49074,7 +49074,7 @@ Pima,267,PROPOSITION 314,,,Total Votes,20,17,3,0
 Pima,267,PROPOSITION 315,,,Yes,9,9,0,0
 Pima,267,PROPOSITION 315,,,No,8,5,3,0
 Pima,267,PROPOSITION 315,,,Total Votes,17,14,3,0
-Pima,269,Registered Voters,,,,220,220,220,220
+Pima,269,Registered Voters,,,,220,0,0,0
 Pima,269,Ballots Cast,,,,179,148,29,2
 Pima,269,President,,DEM,Kamala D. HARRIS / Tim WALZ,96,85,10,1
 Pima,269,President,,REP,Donald J. TRUMP / JD VANCE,83,63,19,1
@@ -49270,7 +49270,7 @@ Pima,269,PROPOSITION 314,,,Total Votes,163,133,28,2
 Pima,269,PROPOSITION 315,,,Yes,73,60,12,1
 Pima,269,PROPOSITION 315,,,No,84,69,14,1
 Pima,269,PROPOSITION 315,,,Total Votes,157,129,26,2
-Pima,271,Registered Voters,,,,835,835,835,835
+Pima,271,Registered Voters,,,,835,0,0,0
 Pima,271,Ballots Cast,,,,540,395,139,6
 Pima,271,President,,DEM,Kamala D. HARRIS / Tim WALZ,269,220,47,2
 Pima,271,President,,REP,Donald J. TRUMP / JD VANCE,258,165,89,4
@@ -49463,7 +49463,7 @@ Pima,271,PROPOSITION 314,,,Total Votes,501,365,129,7
 Pima,271,PROPOSITION 315,,,Yes,189,130,55,4
 Pima,271,PROPOSITION 315,,,No,288,217,68,3
 Pima,271,PROPOSITION 315,,,Total Votes,477,347,123,7
-Pima,272,Registered Voters,,,,1685,1685,1685,1685
+Pima,272,Registered Voters,,,,1685,0,0,0
 Pima,272,Ballots Cast,,,,1178,931,238,9
 Pima,272,President,,DEM,Kamala D. HARRIS / Tim WALZ,718,608,106,4
 Pima,272,President,,REP,Donald J. TRUMP / JD VANCE,441,307,129,5
@@ -49657,7 +49657,7 @@ Pima,272,PROPOSITION 314,,,Total Votes,1061,848,205,8
 Pima,272,PROPOSITION 315,,,Yes,392,302,86,4
 Pima,272,PROPOSITION 315,,,No,637,532,101,4
 Pima,272,PROPOSITION 315,,,Total Votes,1029,834,187,8
-Pima,273,Registered Voters,,,,11,11,11,11
+Pima,273,Registered Voters,,,,11,0,0,0
 Pima,273,Ballots Cast,,,,12,9,3,0
 Pima,273,President,,DEM,Kamala D. HARRIS / Tim WALZ,7,5,2,0
 Pima,273,President,,REP,Donald J. TRUMP / JD VANCE,5,4,1,0
@@ -49855,7 +49855,7 @@ Pima,273,PROPOSITION 315,,,Yes,8,7,1,0
 Pima,273,PROPOSITION 315,,,No,3,2,1,0
 Pima,273,PROPOSITION 315,,,Total Votes,11,9,2,0
 Pima,273,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,11,9,2,0
-Pima,274,Registered Voters,,,,268,268,268,268
+Pima,274,Registered Voters,,,,268,0,0,0
 Pima,274,Ballots Cast,,,,225,197,28,0
 Pima,274,President,,DEM,Kamala D. HARRIS / Tim WALZ,136,123,13,0
 Pima,274,President,,REP,Donald J. TRUMP / JD VANCE,84,70,14,0
@@ -50060,7 +50060,7 @@ Pima,274,PROPOSITION 315,,,Yes,73,68,5,0
 Pima,274,PROPOSITION 315,,,No,120,104,16,0
 Pima,274,PROPOSITION 315,,,Total Votes,193,172,21,0
 Pima,274,PROPOSITION 411 - Marana Unified School District No. 6,,,Total Votes,93,77,16,0
-Pima,275,Registered Voters,,,,4226,4226,4226,4226
+Pima,275,Registered Voters,,,,4226,0,0,0
 Pima,275,Ballots Cast,,,,3398,3019,362,17
 Pima,275,President,,DEM,Kamala D. HARRIS / Tim WALZ,1746,1606,132,8
 Pima,275,President,,REP,Donald J. TRUMP / JD VANCE,1590,1359,223,8
@@ -50247,7 +50247,7 @@ Pima,275,PROPOSITION 314,,,Total Votes,3032,2719,299,14
 Pima,275,PROPOSITION 315,,,Yes,1405,1244,152,9
 Pima,275,PROPOSITION 315,,,No,1521,1379,137,5
 Pima,275,PROPOSITION 315,,,Total Votes,2926,2623,289,14
-Pima,239,Registered Voters,,,,3787,3787,3787,3787
+Pima,239,Registered Voters,,,,3787,0,0,0
 Pima,239,Ballots Cast,,,,3372,3046,313,13
 Pima,239,President,,DEM,Kamala D. HARRIS / Tim WALZ,2161,2031,120,10
 Pima,239,President,,REP,Donald J. TRUMP / JD VANCE,1145,958,185,2

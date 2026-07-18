@@ -1,5 +1,5 @@
 county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,provisional
-Yuma,001,Registered Voters - Total,,,,,1133,1133,1133,1133
+Yuma,001,Registered Voters - Total,,,,,1133,0,0,0
 Yuma,001,Ballots Cast - Total,,,,,214,196,18,0
 Yuma,001,U.S. Senate,,1,REP,Kari LAKE,66,60,6,0
 Yuma,001,U.S. Senate,,1,REP,Mark LAMB,47,41,6,0
@@ -133,7 +133,7 @@ Yuma,001,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,001,Council Member,City of Yuma,3,,Total Votes Cast,16,16,0,0
 Yuma,001,Municipal Judge,City of Yuma,1,,Write-In Totals,1,1,0,0
 Yuma,001,Municipal Judge,City of Yuma,1,,Total Votes Cast,1,1,0,0
-Yuma,002,Registered Voters - Total,,,,,1783,1783,1783,1783
+Yuma,002,Registered Voters - Total,,,,,1783,0,0,0
 Yuma,002,Ballots Cast - Total,,,,,187,174,13,0
 Yuma,002,U.S. Senate,,1,REP,Kari LAKE,63,59,4,0
 Yuma,002,U.S. Senate,,1,REP,Mark LAMB,37,32,5,0
@@ -267,7 +267,7 @@ Yuma,002,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,002,Council Member,City of Yuma,3,,Total Votes Cast,64,64,0,0
 Yuma,002,Municipal Judge,City of Yuma,1,,Write-In Totals,1,1,0,0
 Yuma,002,Municipal Judge,City of Yuma,1,,Total Votes Cast,1,1,0,0
-Yuma,003,Registered Voters - Total,,,,,3118,3118,3118,3118
+Yuma,003,Registered Voters - Total,,,,,3118,0,0,0
 Yuma,003,Ballots Cast - Total,,,,,425,385,40,0
 Yuma,003,U.S. Senate,,1,REP,Kari LAKE,102,85,17,0
 Yuma,003,U.S. Senate,,1,REP,Mark LAMB,52,47,5,0
@@ -401,7 +401,7 @@ Yuma,003,Council Member,City of Yuma,3,,Write-In Totals,2,2,0,0
 Yuma,003,Council Member,City of Yuma,3,,Total Votes Cast,903,829,74,0
 Yuma,003,Municipal Judge,City of Yuma,1,,Write-In Totals,46,42,4,0
 Yuma,003,Municipal Judge,City of Yuma,1,,Total Votes Cast,46,42,4,0
-Yuma,004,Registered Voters - Total,,,,,2749,2749,2749,2749
+Yuma,004,Registered Voters - Total,,,,,2749,0,0,0
 Yuma,004,Ballots Cast - Total,,,,,437,388,48,1
 Yuma,004,U.S. Senate,,1,REP,Kari LAKE,135,112,23,0
 Yuma,004,U.S. Senate,,1,REP,Mark LAMB,63,57,6,0
@@ -535,7 +535,7 @@ Yuma,004,Council Member,City of Yuma,3,,Write-In Totals,4,3,1,0
 Yuma,004,Council Member,City of Yuma,3,,Total Votes Cast,887,797,90,0
 Yuma,004,Municipal Judge,City of Yuma,1,,Write-In Totals,52,42,10,0
 Yuma,004,Municipal Judge,City of Yuma,1,,Total Votes Cast,52,42,10,0
-Yuma,005,Registered Voters - Total,,,,,11,11,11,11
+Yuma,005,Registered Voters - Total,,,,,11,0,0,0
 Yuma,005,Ballots Cast - Total,,,,,4,4,0,0
 Yuma,005,U.S. Senate,,1,REP,Kari LAKE,0,0,0,0
 Yuma,005,U.S. Senate,,1,REP,Mark LAMB,0,0,0,0
@@ -669,7 +669,7 @@ Yuma,005,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,005,Council Member,City of Yuma,3,,Total Votes Cast,0,0,0,0
 Yuma,005,Municipal Judge,City of Yuma,1,,Write-In Totals,0,0,0,0
 Yuma,005,Municipal Judge,City of Yuma,1,,Total Votes Cast,0,0,0,0
-Yuma,006,Registered Voters - Total,,,,,1446,1446,1446,1446
+Yuma,006,Registered Voters - Total,,,,,1446,0,0,0
 Yuma,006,Ballots Cast - Total,,,,,291,265,25,1
 Yuma,006,U.S. Senate,,1,REP,Kari LAKE,114,100,13,1
 Yuma,006,U.S. Senate,,1,REP,Mark LAMB,100,91,9,0
@@ -802,7 +802,7 @@ Yuma,006,Council Member,City of Yuma,3,,Write-In Totals,1,1,0,0
 Yuma,006,Council Member,City of Yuma,3,,Total Votes Cast,424,390,34,0
 Yuma,006,Municipal Judge,City of Yuma,1,,Write-In Totals,9,5,4,0
 Yuma,006,Municipal Judge,City of Yuma,1,,Total Votes Cast,9,5,4,0
-Yuma,007,Registered Voters - Total,,,,,2625,2625,2625,2625
+Yuma,007,Registered Voters - Total,,,,,2625,0,0,0
 Yuma,007,Ballots Cast - Total,,,,,460,418,42,0
 Yuma,007,U.S. Senate,,1,REP,Kari LAKE,147,134,13,0
 Yuma,007,U.S. Senate,,1,REP,Mark LAMB,88,77,11,0
@@ -936,7 +936,7 @@ Yuma,007,Council Member,City of Yuma,3,,Write-In Totals,4,4,0,0
 Yuma,007,Council Member,City of Yuma,3,,Total Votes Cast,1052,956,96,0
 Yuma,007,Municipal Judge,City of Yuma,1,,Write-In Totals,54,51,3,0
 Yuma,007,Municipal Judge,City of Yuma,1,,Total Votes Cast,54,51,3,0
-Yuma,008,Registered Voters - Total,,,,,2595,2595,2595,2595
+Yuma,008,Registered Voters - Total,,,,,2595,0,0,0
 Yuma,008,Ballots Cast - Total,,,,,552,497,55,0
 Yuma,008,U.S. Senate,,1,REP,Kari LAKE,179,155,24,0
 Yuma,008,U.S. Senate,,1,REP,Mark LAMB,141,125,16,0
@@ -1070,7 +1070,7 @@ Yuma,008,Council Member,City of Yuma,3,,Write-In Totals,7,4,3,0
 Yuma,008,Council Member,City of Yuma,3,,Total Votes Cast,1011,913,98,0
 Yuma,008,Municipal Judge,City of Yuma,1,,Write-In Totals,52,42,10,0
 Yuma,008,Municipal Judge,City of Yuma,1,,Total Votes Cast,52,42,10,0
-Yuma,009,Registered Voters - Total,,,,,2350,2350,2350,2350
+Yuma,009,Registered Voters - Total,,,,,2350,0,0,0
 Yuma,009,Ballots Cast - Total,,,,,353,323,29,1
 Yuma,009,U.S. Senate,,1,REP,Kari LAKE,98,88,9,1
 Yuma,009,U.S. Senate,,1,REP,Mark LAMB,81,69,12,0
@@ -1204,7 +1204,7 @@ Yuma,009,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,009,Council Member,City of Yuma,3,,Total Votes Cast,534,477,55,2
 Yuma,009,Municipal Judge,City of Yuma,1,,Write-In Totals,24,21,3,0
 Yuma,009,Municipal Judge,City of Yuma,1,,Total Votes Cast,24,21,3,0
-Yuma,010,Registered Voters - Total,,,,,2701,2701,2701,2701
+Yuma,010,Registered Voters - Total,,,,,2701,0,0,0
 Yuma,010,Ballots Cast - Total,,,,,324,281,42,1
 Yuma,010,U.S. Senate,,1,REP,Kari LAKE,86,65,21,0
 Yuma,010,U.S. Senate,,1,REP,Mark LAMB,56,50,6,0
@@ -1338,7 +1338,7 @@ Yuma,010,Council Member,City of Yuma,3,,Write-In Totals,1,1,0,0
 Yuma,010,Council Member,City of Yuma,3,,Total Votes Cast,685,604,78,3
 Yuma,010,Municipal Judge,City of Yuma,1,,Write-In Totals,29,24,5,0
 Yuma,010,Municipal Judge,City of Yuma,1,,Total Votes Cast,29,24,5,0
-Yuma,011,Registered Voters - Total,,,,,2740,2740,2740,2740
+Yuma,011,Registered Voters - Total,,,,,2740,0,0,0
 Yuma,011,Ballots Cast - Total,,,,,528,486,41,1
 Yuma,011,U.S. Senate,,1,REP,Kari LAKE,187,167,20,0
 Yuma,011,U.S. Senate,,1,REP,Mark LAMB,112,98,13,1
@@ -1472,7 +1472,7 @@ Yuma,011,Council Member,City of Yuma,3,,Write-In Totals,6,6,0,0
 Yuma,011,Council Member,City of Yuma,3,,Total Votes Cast,1226,1128,98,0
 Yuma,011,Municipal Judge,City of Yuma,1,,Write-In Totals,57,54,3,0
 Yuma,011,Municipal Judge,City of Yuma,1,,Total Votes Cast,57,54,3,0
-Yuma,012,Registered Voters - Total,,,,,2489,2489,2489,2489
+Yuma,012,Registered Voters - Total,,,,,2489,0,0,0
 Yuma,012,Ballots Cast - Total,,,,,670,608,59,3
 Yuma,012,U.S. Senate,,1,REP,Kari LAKE,239,208,31,0
 Yuma,012,U.S. Senate,,1,REP,Mark LAMB,154,142,11,1
@@ -1606,7 +1606,7 @@ Yuma,012,Council Member,City of Yuma,3,,Write-In Totals,4,4,0,0
 Yuma,012,Council Member,City of Yuma,3,,Total Votes Cast,1324,1209,110,5
 Yuma,012,Municipal Judge,City of Yuma,1,,Write-In Totals,65,60,5,0
 Yuma,012,Municipal Judge,City of Yuma,1,,Total Votes Cast,65,60,5,0
-Yuma,013,Registered Voters - Total,,,,,2470,2470,2470,2470
+Yuma,013,Registered Voters - Total,,,,,2470,0,0,0
 Yuma,013,Ballots Cast - Total,,,,,503,457,45,1
 Yuma,013,U.S. Senate,,1,REP,Kari LAKE,140,124,16,0
 Yuma,013,U.S. Senate,,1,REP,Mark LAMB,115,104,11,0
@@ -1742,7 +1742,7 @@ Yuma,013,Council Member,City of Yuma,3,,Write-In Totals,3,3,0,0
 Yuma,013,Council Member,City of Yuma,3,,Total Votes Cast,1087,993,93,1
 Yuma,013,Municipal Judge,City of Yuma,1,,Write-In Totals,61,47,14,0
 Yuma,013,Municipal Judge,City of Yuma,1,,Total Votes Cast,61,47,14,0
-Yuma,014,Registered Voters - Total,,,,,2097,2097,2097,2097
+Yuma,014,Registered Voters - Total,,,,,2097,0,0,0
 Yuma,014,Ballots Cast - Total,,,,,361,331,30,0
 Yuma,014,U.S. Senate,,1,REP,Kari LAKE,106,88,18,0
 Yuma,014,U.S. Senate,,1,REP,Mark LAMB,72,68,4,0
@@ -1876,7 +1876,7 @@ Yuma,014,Council Member,City of Yuma,3,,Write-In Totals,4,4,0,0
 Yuma,014,Council Member,City of Yuma,3,,Total Votes Cast,850,788,62,0
 Yuma,014,Municipal Judge,City of Yuma,1,,Write-In Totals,63,58,5,0
 Yuma,014,Municipal Judge,City of Yuma,1,,Total Votes Cast,63,58,5,0
-Yuma,015,Registered Voters - Total,,,,,686,686,686,686
+Yuma,015,Registered Voters - Total,,,,,686,0,0,0
 Yuma,015,Ballots Cast - Total,,,,,95,83,12,0
 Yuma,015,U.S. Senate,,1,REP,Kari LAKE,39,36,3,0
 Yuma,015,U.S. Senate,,1,REP,Mark LAMB,17,11,6,0
@@ -2010,7 +2010,7 @@ Yuma,015,Council Member,City of Yuma,3,,Write-In Totals,2,2,0,0
 Yuma,015,Council Member,City of Yuma,3,,Total Votes Cast,227,198,29,0
 Yuma,015,Municipal Judge,City of Yuma,1,,Write-In Totals,5,3,2,0
 Yuma,015,Municipal Judge,City of Yuma,1,,Total Votes Cast,5,3,2,0
-Yuma,016,Registered Voters - Total,,,,,1190,1190,1190,1190
+Yuma,016,Registered Voters - Total,,,,,1190,0,0,0
 Yuma,016,Ballots Cast - Total,,,,,169,156,12,1
 Yuma,016,U.S. Senate,,1,REP,Kari LAKE,39,35,4,0
 Yuma,016,U.S. Senate,,1,REP,Mark LAMB,38,32,6,0
@@ -2143,7 +2143,7 @@ Yuma,016,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,016,Council Member,City of Yuma,3,,Total Votes Cast,375,344,30,1
 Yuma,016,Municipal Judge,City of Yuma,1,,Write-In Totals,17,13,3,1
 Yuma,016,Municipal Judge,City of Yuma,1,,Total Votes Cast,17,13,3,1
-Yuma,017,Registered Voters - Total,,,,,2126,2126,2126,2126
+Yuma,017,Registered Voters - Total,,,,,2126,0,0,0
 Yuma,017,Ballots Cast - Total,,,,,423,391,31,1
 Yuma,017,U.S. Senate,,1,REP,Kari LAKE,122,111,11,0
 Yuma,017,U.S. Senate,,1,REP,Mark LAMB,108,98,10,0
@@ -2276,7 +2276,7 @@ Yuma,017,Council Member,City of Yuma,3,,Write-In Totals,1,1,0,0
 Yuma,017,Council Member,City of Yuma,3,,Total Votes Cast,956,894,59,3
 Yuma,017,Municipal Judge,City of Yuma,1,,Write-In Totals,43,41,2,0
 Yuma,017,Municipal Judge,City of Yuma,1,,Total Votes Cast,43,41,2,0
-Yuma,018,Registered Voters - Total,,,,,3161,3161,3161,3161
+Yuma,018,Registered Voters - Total,,,,,3161,0,0,0
 Yuma,018,Ballots Cast - Total,,,,,470,416,49,5
 Yuma,018,U.S. Senate,,1,REP,Kari LAKE,157,135,21,1
 Yuma,018,U.S. Senate,,1,REP,Mark LAMB,83,72,11,0
@@ -2410,7 +2410,7 @@ Yuma,018,Council Member,City of Yuma,3,,Write-In Totals,4,4,0,0
 Yuma,018,Council Member,City of Yuma,3,,Total Votes Cast,1060,951,100,9
 Yuma,018,Municipal Judge,City of Yuma,1,,Write-In Totals,37,34,3,0
 Yuma,018,Municipal Judge,City of Yuma,1,,Total Votes Cast,37,34,3,0
-Yuma,019,Registered Voters - Total,,,,,2846,2846,2846,2846
+Yuma,019,Registered Voters - Total,,,,,2846,0,0,0
 Yuma,019,Ballots Cast - Total,,,,,661,584,75,2
 Yuma,019,U.S. Senate,,1,REP,Kari LAKE,250,205,43,2
 Yuma,019,U.S. Senate,,1,REP,Mark LAMB,218,202,16,0
@@ -2547,7 +2547,7 @@ Yuma,019,Council Member,City of Yuma,3,,Write-In Totals,5,5,0,0
 Yuma,019,Council Member,City of Yuma,3,,Total Votes Cast,1280,1134,143,3
 Yuma,019,Municipal Judge,City of Yuma,1,,Write-In Totals,46,32,14,0
 Yuma,019,Municipal Judge,City of Yuma,1,,Total Votes Cast,46,32,14,0
-Yuma,020,Registered Voters - Total,,,,,1883,1883,1883,1883
+Yuma,020,Registered Voters - Total,,,,,1883,0,0,0
 Yuma,020,Ballots Cast - Total,,,,,516,487,29,0
 Yuma,020,U.S. Senate,,1,REP,Kari LAKE,211,198,13,0
 Yuma,020,U.S. Senate,,1,REP,Mark LAMB,104,95,9,0
@@ -2680,7 +2680,7 @@ Yuma,020,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,020,Council Member,City of Yuma,3,,Total Votes Cast,1155,1078,77,0
 Yuma,020,Municipal Judge,City of Yuma,1,,Write-In Totals,53,48,5,0
 Yuma,020,Municipal Judge,City of Yuma,1,,Total Votes Cast,53,48,5,0
-Yuma,021,Registered Voters - Total,,,,,2175,2175,2175,2175
+Yuma,021,Registered Voters - Total,,,,,2175,0,0,0
 Yuma,021,Ballots Cast - Total,,,,,565,501,60,4
 Yuma,021,U.S. Senate,,1,REP,Kari LAKE,206,175,28,3
 Yuma,021,U.S. Senate,,1,REP,Mark LAMB,173,148,24,1
@@ -2813,7 +2813,7 @@ Yuma,021,Council Member,City of Yuma,3,,Write-In Totals,2,2,0,0
 Yuma,021,Council Member,City of Yuma,3,,Total Votes Cast,1258,1138,111,9
 Yuma,021,Municipal Judge,City of Yuma,1,,Write-In Totals,69,58,11,0
 Yuma,021,Municipal Judge,City of Yuma,1,,Total Votes Cast,69,58,11,0
-Yuma,022,Registered Voters - Total,,,,,2144,2144,2144,2144
+Yuma,022,Registered Voters - Total,,,,,2144,0,0,0
 Yuma,022,Ballots Cast - Total,,,,,703,662,40,1
 Yuma,022,U.S. Senate,,1,REP,Kari LAKE,350,326,24,0
 Yuma,022,U.S. Senate,,1,REP,Mark LAMB,159,145,13,1
@@ -2946,7 +2946,7 @@ Yuma,022,Council Member,City of Yuma,3,,Write-In Totals,7,7,0,0
 Yuma,022,Council Member,City of Yuma,3,,Total Votes Cast,1523,1442,81,0
 Yuma,022,Municipal Judge,City of Yuma,1,,Write-In Totals,69,62,6,1
 Yuma,022,Municipal Judge,City of Yuma,1,,Total Votes Cast,69,62,6,1
-Yuma,023,Registered Voters - Total,,,,,3698,3698,3698,3698
+Yuma,023,Registered Voters - Total,,,,,3698,0,0,0
 Yuma,023,Ballots Cast - Total,,,,,756,662,93,1
 Yuma,023,U.S. Senate,,1,REP,Kari LAKE,304,252,51,1
 Yuma,023,U.S. Senate,,1,REP,Mark LAMB,200,182,18,0
@@ -3079,7 +3079,7 @@ Yuma,023,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,023,Council Member,City of Yuma,3,,Total Votes Cast,1692,1501,188,3
 Yuma,023,Municipal Judge,City of Yuma,1,,Write-In Totals,74,63,11,0
 Yuma,023,Municipal Judge,City of Yuma,1,,Total Votes Cast,74,63,11,0
-Yuma,024,Registered Voters - Total,,,,,2201,2201,2201,2201
+Yuma,024,Registered Voters - Total,,,,,2201,0,0,0
 Yuma,024,Ballots Cast - Total,,,,,600,561,39,0
 Yuma,024,U.S. Senate,,1,REP,Kari LAKE,275,250,25,0
 Yuma,024,U.S. Senate,,1,REP,Mark LAMB,120,112,8,0
@@ -3212,7 +3212,7 @@ Yuma,024,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,024,Council Member,City of Yuma,3,,Total Votes Cast,280,254,26,0
 Yuma,024,Municipal Judge,City of Yuma,1,,Write-In Totals,13,12,1,0
 Yuma,024,Municipal Judge,City of Yuma,1,,Total Votes Cast,13,12,1,0
-Yuma,025,Registered Voters - Total,,,,,3660,3660,3660,3660
+Yuma,025,Registered Voters - Total,,,,,3660,0,0,0
 Yuma,025,"Ballots Cast - Total ,",,,,,1116,1018,96,2
 Yuma,025,U.S. Senate,,1,REP,Kari LAKE,532,471,60,1
 Yuma,025,U.S. Senate,,1,REP,Mark LAMB,308,284,23,1
@@ -3336,7 +3336,7 @@ Yuma,025,State House,25,2,GRN,Total Votes Cast,0,0,0,0
 Yuma,025,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Yuma,025,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Yuma,025,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
-Yuma,026,Registered Voters - Total,,,,,3172,3172,3172,3172
+Yuma,026,Registered Voters - Total,,,,,3172,0,0,0
 Yuma,026,"Ballots Cast - Total ,",,,,,1226,1138,87,1
 Yuma,026,U.S. Senate,,1,REP,Kari LAKE,597,539,57,1
 Yuma,026,U.S. Senate,,1,REP,Mark LAMB,334,308,26,0
@@ -3460,7 +3460,7 @@ Yuma,026,State House,25,2,GRN,Total Votes Cast,0,0,0,0
 Yuma,026,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Yuma,026,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Yuma,026,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
-Yuma,027,Registered Voters - Total,,,,,2885,2885,2885,2885
+Yuma,027,Registered Voters - Total,,,,,2885,0,0,0
 Yuma,027,"Ballots Cast - Total ,",,,,,1314,1200,113,1
 Yuma,027,U.S. Senate,,1,REP,Kari LAKE,728,654,74,0
 Yuma,027,U.S. Senate,,1,REP,Mark LAMB,279,249,29,1
@@ -3584,7 +3584,7 @@ Yuma,027,State House,25,2,GRN,Total Votes Cast,2,2,0,0
 Yuma,027,Corporation Commissioner,,3,GRN,Write-In Totals,3,3,0,0
 Yuma,027,Corporation Commissioner,,3,GRN,Total Votes Cast,3,3,0,0
 Yuma,027,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
-Yuma,028,Registered Voters - Total,,,,,3121,3121,3121,3121
+Yuma,028,Registered Voters - Total,,,,,3121,0,0,0
 Yuma,028,Ballots Cast - Total,,,,,915,824,90,1
 Yuma,028,U.S. Senate,,1,REP,Kari LAKE,459,396,63,0
 Yuma,028,U.S. Senate,,1,REP,Mark LAMB,212,194,17,1
@@ -3708,7 +3708,7 @@ Yuma,028,State House,25,2,GRN,Total Votes Cast,0,0,0,0
 Yuma,028,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Yuma,028,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Yuma,028,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
-Yuma,029,Registered Voters - Total,,,,,3132,3132,3132,3132
+Yuma,029,Registered Voters - Total,,,,,3132,0,0,0
 Yuma,029,Ballots Cast - Total,,,,,981,874,103,4
 Yuma,029,U.S. Senate,,1,REP,Kari LAKE,431,372,58,1
 Yuma,029,U.S. Senate,,1,REP,Mark LAMB,262,232,29,1
@@ -3832,7 +3832,7 @@ Yuma,029,State House,25,2,GRN,Total Votes Cast,0,0,0,0
 Yuma,029,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Yuma,029,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Yuma,029,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
-Yuma,030,Registered Voters - Total,,,,,3086,3086,3086,3086
+Yuma,030,Registered Voters - Total,,,,,3086,0,0,0
 Yuma,030,Ballots Cast - Total,,,,,598,542,55,1
 Yuma,030,U.S. Senate,,1,REP,Kari LAKE,274,247,27,0
 Yuma,030,U.S. Senate,,1,REP,Mark LAMB,137,120,16,1
@@ -3965,7 +3965,7 @@ Yuma,030,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,030,Council Member,City of Yuma,3,,Total Votes Cast,932,855,77,0
 Yuma,030,Municipal Judge,City of Yuma,1,,Write-In Totals,36,30,6,0
 Yuma,030,Municipal Judge,City of Yuma,1,,Total Votes Cast,36,30,6,0
-Yuma,031,Registered Voters - Total,,,,,2413,2413,2413,2413
+Yuma,031,Registered Voters - Total,,,,,2413,0,0,0
 Yuma,031,Ballots Cast - Total,,,,,347,308,38,1
 Yuma,031,U.S. Senate,,1,REP,Kari LAKE,136,117,19,0
 Yuma,031,U.S. Senate,,1,REP,Mark LAMB,113,101,11,1
@@ -4098,7 +4098,7 @@ Yuma,031,Council Member,City of Yuma,3,,Write-In Totals,1,1,0,0
 Yuma,031,Council Member,City of Yuma,3,,Total Votes Cast,684,609,72,3
 Yuma,031,Municipal Judge,City of Yuma,1,,Write-In Totals,33,28,5,0
 Yuma,031,Municipal Judge,City of Yuma,1,,Total Votes Cast,33,28,5,0
-Yuma,032,Registered Voters - Total,,,,,2174,2174,2174,2174
+Yuma,032,Registered Voters - Total,,,,,2174,0,0,0
 Yuma,032,Ballots Cast - Total,,,,,629,558,71,0
 Yuma,032,U.S. Senate,,1,REP,Kari LAKE,277,233,44,0
 Yuma,032,U.S. Senate,,1,REP,Mark LAMB,230,210,20,0
@@ -4231,7 +4231,7 @@ Yuma,032,Council Member,City of Yuma,3,,Write-In Totals,1,1,0,0
 Yuma,032,Council Member,City of Yuma,3,,Total Votes Cast,507,450,57,0
 Yuma,032,Municipal Judge,City of Yuma,1,,Write-In Totals,23,23,0,0
 Yuma,032,Municipal Judge,City of Yuma,1,,Total Votes Cast,23,23,0,0
-Yuma,033,Registered Voters - Total,,,,,929,929,929,929
+Yuma,033,Registered Voters - Total,,,,,929,0,0,0
 Yuma,033,Ballots Cast - Total,,,,,263,242,21,0
 Yuma,033,U.S. Senate,,1,REP,Kari LAKE,125,113,12,0
 Yuma,033,U.S. Senate,,1,REP,Mark LAMB,91,83,8,0
@@ -4365,7 +4365,7 @@ Yuma,033,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,033,Council Member,City of Yuma,3,,Total Votes Cast,0,0,0,0
 Yuma,033,Municipal Judge,City of Yuma,1,,Write-In Totals,0,0,0,0
 Yuma,033,Municipal Judge,City of Yuma,1,,Total Votes Cast,0,0,0,0
-Yuma,034,Registered Voters - Total,,,,,699,699,699,699
+Yuma,034,Registered Voters - Total,,,,,699,0,0,0
 Yuma,034,Ballots Cast - Total,,,,,170,148,22,0
 Yuma,034,U.S. Senate,,1,REP,Kari LAKE,71,59,12,0
 Yuma,034,U.S. Senate,,1,REP,Mark LAMB,42,37,5,0
@@ -4503,7 +4503,7 @@ Yuma,034,Council Member,City of Yuma,3,,Write-In Totals,0,0,0,0
 Yuma,034,Council Member,City of Yuma,3,,Total Votes Cast,3,3,0,0
 Yuma,034,Municipal Judge,City of Yuma,1,,Write-In Totals,0,0,0,0
 Yuma,034,Municipal Judge,City of Yuma,1,,Total Votes Cast,0,0,0,0
-Yuma,035,Registered Voters - Total,,,,,3034,3034,3034,3034
+Yuma,035,Registered Voters - Total,,,,,3034,0,0,0
 Yuma,035,Ballots Cast - Total,,,,,341,265,73,3
 Yuma,035,U.S. Senate,,1,REP,Kari LAKE,42,36,5,1
 Yuma,035,U.S. Senate,,1,REP,Mark LAMB,38,34,3,1
@@ -4653,7 +4653,7 @@ Yuma,035,Council Member,City of San Luis,3,,Jorge VILLICANA,54,44,10,0
 Yuma,035,Council Member,City of San Luis,3,,Ruben WALSHE,75,43,30,2
 Yuma,035,Council Member,City of San Luis,3,,Write-In Totals,4,3,1,0
 Yuma,035,Council Member,City of San Luis,3,,Total Votes Cast,578,425,149,4
-Yuma,036,Registered Voters - Total,,,,,1268,1268,1268,1268
+Yuma,036,Registered Voters - Total,,,,,1268,0,0,0
 Yuma,036,Ballots Cast - Total,,,,,199,177,22,0
 Yuma,036,U.S. Senate,,1,REP,Kari LAKE,74,66,8,0
 Yuma,036,U.S. Senate,,1,REP,Mark LAMB,42,38,4,0
@@ -4788,7 +4788,7 @@ Yuma,036,Council Member,City of Somerton,3,,Victor LOZANO,10,7,3,0
 Yuma,036,Council Member,City of Somerton,3,,Jesus ROLDAN,7,7,0,0
 Yuma,036,Council Member,City of Somerton,3,,Write-In Totals,0,0,0,0
 Yuma,036,Council Member,City of Somerton,3,,Total Votes Cast,30,25,5,0
-Yuma,037,Registered Voters - Total,,,,,3403,3403,3403,3403
+Yuma,037,Registered Voters - Total,,,,,3403,0,0,0
 Yuma,037,Ballots Cast - Total,,,,,385,317,65,3
 Yuma,037,U.S. Senate,,1,REP,Kari LAKE,40,29,11,0
 Yuma,037,U.S. Senate,,1,REP,Mark LAMB,23,22,1,0
@@ -4923,7 +4923,7 @@ Yuma,037,Council Member,City of Somerton,3,,Victor LOZANO,143,116,26,1
 Yuma,037,Council Member,City of Somerton,3,,Jesus ROLDAN,214,172,41,1
 Yuma,037,Council Member,City of Somerton,3,,Write-In Totals,6,6,0,0
 Yuma,037,Council Member,City of Somerton,3,,Total Votes Cast,819,680,136,3
-Yuma,038,Registered Voters - Total,,,,,3266,3266,3266,3266
+Yuma,038,Registered Voters - Total,,,,,3266,0,0,0
 Yuma,038,Ballots Cast - Total,,,,,405,343,58,4
 Yuma,038,U.S. Senate,,1,REP,Kari LAKE,69,58,11,0
 Yuma,038,U.S. Senate,,1,REP,Mark LAMB,34,30,4,0
@@ -5058,7 +5058,7 @@ Yuma,038,Council Member,City of Somerton,3,,Victor LOZANO,128,109,16,3
 Yuma,038,Council Member,City of Somerton,3,,Jesus ROLDAN,186,161,23,2
 Yuma,038,Council Member,City of Somerton,3,,Write-In Totals,9,9,0,0
 Yuma,038,Council Member,City of Somerton,3,,Total Votes Cast,735,644,85,6
-Yuma,039,Registered Voters - Total,,,,,3440,3440,3440,3440
+Yuma,039,Registered Voters - Total,,,,,3440,0,0,0
 Yuma,039,Ballots Cast - Total,,,,,525,431,89,5
 Yuma,039,U.S. Senate,,1,REP,Kari LAKE,46,37,9,0
 Yuma,039,U.S. Senate,,1,REP,Mark LAMB,21,16,5,0
@@ -5199,7 +5199,7 @@ Yuma,039,Council Member,City of San Luis,3,,Jorge VILLICANA,144,134,9,1
 Yuma,039,Council Member,City of San Luis,3,,Ruben WALSHE,181,134,44,3
 Yuma,039,Council Member,City of San Luis,3,,Write-In Totals,1,1,0,0
 Yuma,039,Council Member,City of San Luis,3,,Total Votes Cast,1202,991,200,11
-Yuma,040,Registered Voters - Total,,,,,3600,3600,3600,3600
+Yuma,040,Registered Voters - Total,,,,,3600,0,0,0
 Yuma,040,Ballots Cast - Total,,,,,403,320,80,3
 Yuma,040,U.S. Senate,,1,REP,Kari LAKE,29,19,10,0
 Yuma,040,U.S. Senate,,1,REP,Mark LAMB,18,12,6,0
@@ -5340,7 +5340,7 @@ Yuma,040,Council Member,City of San Luis,3,,Jorge VILLICANA,117,100,16,1
 Yuma,040,Council Member,City of San Luis,3,,Ruben WALSHE,133,90,42,1
 Yuma,040,Council Member,City of San Luis,3,,Write-In Totals,3,0,3,0
 Yuma,040,Council Member,City of San Luis,3,,Total Votes Cast,998,810,181,7
-Yuma,041,Registered Voters - Total,,,,,3529,3529,3529,3529
+Yuma,041,Registered Voters - Total,,,,,3529,0,0,0
 Yuma,041,Ballots Cast - Total,,,,,439,345,89,5
 Yuma,041,U.S. Senate,,1,REP,Kari LAKE,29,26,3,0
 Yuma,041,U.S. Senate,,1,REP,Mark LAMB,8,6,2,0
@@ -5481,7 +5481,7 @@ Yuma,041,Council Member,City of San Luis,3,,Jorge VILLICANA,138,110,26,2
 Yuma,041,Council Member,City of San Luis,3,,Ruben WALSHE,131,100,30,1
 Yuma,041,Council Member,City of San Luis,3,,Write-In Totals,5,3,2,0
 Yuma,041,Council Member,City of San Luis,3,,Total Votes Cast,1139,905,223,11
-Yuma,042,Registered Voters - Total,,,,,3252,3252,3252,3252
+Yuma,042,Registered Voters - Total,,,,,3252,0,0,0
 Yuma,042,Ballots Cast - Total,,,,,276,238,37,1
 Yuma,042,U.S. Senate,,1,REP,Kari LAKE,14,9,5,0
 Yuma,042,U.S. Senate,,1,REP,Mark LAMB,10,10,0,0
@@ -5622,7 +5622,7 @@ Yuma,042,Council Member,City of San Luis,3,,Jorge VILLICANA,61,54,6,1
 Yuma,042,Council Member,City of San Luis,3,,Ruben WALSHE,63,49,14,0
 Yuma,042,Council Member,City of San Luis,3,,Write-In Totals,0,0,0,0
 Yuma,042,Council Member,City of San Luis,3,,Total Votes Cast,662,574,85,3
-Yuma,043,Registered Voters - Total,,,,,795,795,795,795
+Yuma,043,Registered Voters - Total,,,,,795,0,0,0
 Yuma,043,Ballots Cast - Total,,,,,184,179,5,0
 Yuma,043,U.S. Senate,,1,REP,Kari LAKE,113,110,3,0
 Yuma,043,U.S. Senate,,1,REP,Mark LAMB,48,47,1,0
@@ -5746,7 +5746,7 @@ Yuma,043,State House,25,2,GRN,Total Votes Cast,0,0,0,0
 Yuma,043,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
 Yuma,043,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
 Yuma,043,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
-Yuma,044,Registered Voters - Total,,,,,3050,3050,3050,3050
+Yuma,044,Registered Voters - Total,,,,,3050,0,0,0
 Yuma,044,Ballots Cast - Total,,,,,993,826,164,3
 Yuma,044,U.S. Senate,,1,REP,Kari LAKE,457,373,84,0
 Yuma,044,U.S. Senate,,1,REP,Mark LAMB,268,214,54,0

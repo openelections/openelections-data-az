@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional
-Yavapai,GRANITE (301.00),Registered Voters,,,,4878,4878,4878,4878
+Yavapai,GRANITE (301.00),Registered Voters,,,,4878,0,0,0
 Yavapai,GRANITE (301.00),Ballots Cast,,,,2636,2510,124,2
 Yavapai,GRANITE (301.00),U.S. Senate,,REP,Kari LAKE,1105,1026,78,1
 Yavapai,GRANITE (301.00),U.S. Senate,,REP,Mark LAMB,784,752,32,0
@@ -240,7 +240,7 @@ Yavapai,GRANITE (301.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,GRANITE (301.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,GRANITE (301.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,GRANITE (301.00),NOL Notice,,,Undervote,1,1,0,0
-Yavapai,EAGLE (302.00),Registered Voters,,,,3797,3797,3797,3797
+Yavapai,EAGLE (302.00),Registered Voters,,,,3797,0,0,0
 Yavapai,EAGLE (302.00),Ballots Cast,,,,1953,1846,107,
 Yavapai,EAGLE (302.00),U.S. Senate,,REP,Kari LAKE,772,715,57,0
 Yavapai,EAGLE (302.00),U.S. Senate,,REP,Mark LAMB,511,485,26,0
@@ -481,7 +481,7 @@ Yavapai,EAGLE (302.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,EAGLE (302.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,EAGLE (302.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,EAGLE (302.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,COURT (303.00),Registered Voters,,,,6458,6458,6458,6458
+Yavapai,COURT (303.00),Registered Voters,,,,6458,0,0,0
 Yavapai,COURT (303.00),Ballots Cast,,,,2770,2559,207,4
 Yavapai,COURT (303.00),U.S. Senate,,REP,Kari LAKE,1070,941,125,4
 Yavapai,COURT (303.00),U.S. Senate,,REP,Mark LAMB,690,641,49,0
@@ -722,7 +722,7 @@ Yavapai,COURT (303.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,COURT (303.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,COURT (303.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,COURT (303.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,GOLF (304.00),Registered Voters,,,,6887,6887,6887,6887
+Yavapai,GOLF (304.00),Registered Voters,,,,6887,0,0,0
 Yavapai,GOLF (304.00),Ballots Cast,,,,3489,3241,245,3
 Yavapai,GOLF (304.00),U.S. Senate,,REP,Kari LAKE,1388,1237,148,3
 Yavapai,GOLF (304.00),U.S. Senate,,REP,Mark LAMB,897,828,69,0
@@ -963,7 +963,7 @@ Yavapai,GOLF (304.00),Superior Court Judge,8,GRN,Undervotes,1,1,0,0
 Yavapai,GOLF (304.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,GOLF (304.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,GOLF (304.00),NOL Notice,,,Undervote,1,0,1,0
-Yavapai,FAIR (305.00),Registered Voters,,,,4865,4865,4865,4865
+Yavapai,FAIR (305.00),Registered Voters,,,,4865,0,0,0
 Yavapai,FAIR (305.00),Ballots Cast,,,,2345,2211,133,1
 Yavapai,FAIR (305.00),U.S. Senate,,REP,Kari LAKE,984,898,85,1
 Yavapai,FAIR (305.00),U.S. Senate,,REP,Mark LAMB,560,539,21,0
@@ -1204,7 +1204,7 @@ Yavapai,FAIR (305.00),Superior Court Judge,8,GRN,Undervotes,1,1,0,0
 Yavapai,FAIR (305.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,FAIR (305.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,FAIR (305.00),NOL Notice,,,Undervote,1,1,0,0
-Yavapai,WILLOW (306.00),Registered Voters,,,,5459,5459,5459,5459
+Yavapai,WILLOW (306.00),Registered Voters,,,,5459,0,0,0
 Yavapai,WILLOW (306.00),Ballots Cast,,,,2969,2782,184,3
 Yavapai,WILLOW (306.00),U.S. Senate,,REP,Kari LAKE,1360,1231,128,1
 Yavapai,WILLOW (306.00),U.S. Senate,,REP,Mark LAMB,851,813,36,2
@@ -1443,7 +1443,7 @@ Yavapai,WILLOW (306.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,WILLOW (306.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,WILLOW (306.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,WILLOW (306.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,WATSON (307.00),Registered Voters,,,,3958,3958,3958,3958
+Yavapai,WATSON (307.00),Registered Voters,,,,3958,0,0,0
 Yavapai,WATSON (307.00),Ballots Cast,,,,1940,1839,100,1
 Yavapai,WATSON (307.00),U.S. Senate,,REP,Kari LAKE,864,793,71,0
 Yavapai,WATSON (307.00),U.S. Senate,,REP,Mark LAMB,499,476,23,0
@@ -1682,7 +1682,7 @@ Yavapai,WATSON (307.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,WATSON (307.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,WATSON (307.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,WATSON (307.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,RANCH (308.00),Registered Voters,,,,5298,5298,5298,5298
+Yavapai,RANCH (308.00),Registered Voters,,,,5298,0,0,0
 Yavapai,RANCH (308.00),Ballots Cast,,,,3137,2820,315,2
 Yavapai,RANCH (308.00),U.S. Senate,,REP,Kari LAKE,1484,1286,196,2
 Yavapai,RANCH (308.00),U.S. Senate,,REP,Mark LAMB,1082,982,100,0
@@ -1921,7 +1921,7 @@ Yavapai,RANCH (308.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,RANCH (308.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,RANCH (308.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,RANCH (308.00),NOL Notice,,,Undervote,1,0,1,0
-Yavapai,SKULL (309.00),Registered Voters,,,,370,370,370,370
+Yavapai,SKULL (309.00),Registered Voters,,,,370,0,0,0
 Yavapai,SKULL (309.00),Ballots Cast,,,,168,158,10,
 Yavapai,SKULL (309.00),U.S. Senate,,REP,Kari LAKE,92,84,8,0
 Yavapai,SKULL (309.00),U.S. Senate,,REP,Mark LAMB,44,42,2,0
@@ -2162,7 +2162,7 @@ Yavapai,SKULL (309.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,SKULL (309.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,SKULL (309.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,SKULL (309.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,KIRK (310.00),Registered Voters,,,,823,823,823,823
+Yavapai,KIRK (310.00),Registered Voters,,,,823,0,0,0
 Yavapai,KIRK (310.00),Ballots Cast,,,,327,286,41,
 Yavapai,KIRK (310.00),U.S. Senate,,REP,Kari LAKE,203,176,27,0
 Yavapai,KIRK (310.00),U.S. Senate,,REP,Mark LAMB,74,64,10,0
@@ -2416,7 +2416,7 @@ Yavapai,KIRK (310.00),Constable,Bagdad/Yarnell,GRN,Undervotes,0,0,0,0
 Yavapai,KIRK (310.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,KIRK (310.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,KIRK (310.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,HILL (311.00),Registered Voters,,,,88,88,88,88
+Yavapai,HILL (311.00),Registered Voters,,,,88,0,0,0
 Yavapai,HILL (311.00),Ballots Cast,,,,47,43,4,
 Yavapai,HILL (311.00),U.S. Senate,,REP,Kari LAKE,32,29,3,0
 Yavapai,HILL (311.00),U.S. Senate,,REP,Mark LAMB,13,12,1,0
@@ -2670,7 +2670,7 @@ Yavapai,HILL (311.00),Constable,Bagdad/Yarnell,GRN,Undervotes,0,0,0,0
 Yavapai,HILL (311.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,HILL (311.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,HILL (311.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,MINE (312.00),Registered Voters,,,,995,995,995,995
+Yavapai,MINE (312.00),Registered Voters,,,,995,0,0,0
 Yavapai,MINE (312.00),Ballots Cast,,,,184,106,78,
 Yavapai,MINE (312.00),U.S. Senate,,REP,Kari LAKE,88,40,48,0
 Yavapai,MINE (312.00),U.S. Senate,,REP,Mark LAMB,72,48,24,0
@@ -2924,7 +2924,7 @@ Yavapai,MINE (312.00),Constable,Bagdad/Yarnell,GRN,Undervotes,0,0,0,0
 Yavapai,MINE (312.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,MINE (312.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,MINE (312.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,MESQUITE (313.00),Registered Voters,,,,1540,1540,1540,1540
+Yavapai,MESQUITE (313.00),Registered Voters,,,,1540,0,0,0
 Yavapai,MESQUITE (313.00),Ballots Cast,,,,739,600,139,
 Yavapai,MESQUITE (313.00),U.S. Senate,,REP,Kari LAKE,364,262,102,0
 Yavapai,MESQUITE (313.00),U.S. Senate,,REP,Mark LAMB,230,200,30,0
@@ -3178,7 +3178,7 @@ Yavapai,MESQUITE (313.00),Constable,Bagdad/Yarnell,GRN,Undervotes,0,0,0,0
 Yavapai,MESQUITE (313.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,MESQUITE (313.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,MESQUITE (313.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,YARN (314.00),Registered Voters,,,,896,896,896,896
+Yavapai,YARN (314.00),Registered Voters,,,,896,0,0,0
 Yavapai,YARN (314.00),Ballots Cast,,,,454,341,113,
 Yavapai,YARN (314.00),U.S. Senate,,REP,Kari LAKE,193,139,54,0
 Yavapai,YARN (314.00),U.S. Senate,,REP,Mark LAMB,147,101,46,0
@@ -3432,7 +3432,7 @@ Yavapai,YARN (314.00),Constable,Bagdad/Yarnell,GRN,Undervotes,0,0,0,0
 Yavapai,YARN (314.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,YARN (314.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,YARN (314.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,WICK (315.00),Registered Voters,,,,1580,1580,1580,1580
+Yavapai,WICK (315.00),Registered Voters,,,,1580,0,0,0
 Yavapai,WICK (315.00),Ballots Cast,,,,915,839,76,
 Yavapai,WICK (315.00),U.S. Senate,,REP,Kari LAKE,426,391,35,0
 Yavapai,WICK (315.00),U.S. Senate,,REP,Mark LAMB,306,275,31,0
@@ -3715,7 +3715,7 @@ Yavapai,WICK (315.00),Council Member (4-Year),Wickenburg,Nonpartisan,Undervotes,
 Yavapai,WICK (315.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,WICK (315.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,WICK (315.00),NOL Notice,,,Undervote,1,1,0,0
-Yavapai,CHAPS (316.00),Registered Voters,,,,4,4,4,4
+Yavapai,CHAPS (316.00),Registered Voters,,,,4,0,0,0
 Yavapai,CHAPS (316.00),Ballots Cast,,,,1,1,,
 Yavapai,CHAPS (316.00),U.S. Senate,,REP,Kari LAKE,1,1,0,0
 Yavapai,CHAPS (316.00),U.S. Senate,,REP,Mark LAMB,0,0,0,0
@@ -4255,7 +4255,7 @@ Yavapai,SPURS (317.00),Council Member (4-Year),Wickenburg,Nonpartisan,Undervotes
 Yavapai,SPURS (317.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,SPURS (317.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,SPURS (317.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,LASSO (318.00),Registered Voters,,,,265,265,265,265
+Yavapai,LASSO (318.00),Registered Voters,,,,265,0,0,0
 Yavapai,LASSO (318.00),Ballots Cast,,,,106,89,17,
 Yavapai,LASSO (318.00),U.S. Senate,,REP,Kari LAKE,52,39,13,0
 Yavapai,LASSO (318.00),U.S. Senate,,REP,Mark LAMB,35,31,4,0
@@ -4527,7 +4527,7 @@ Yavapai,LASSO (318.00),Council Member (4-Year),Wickenburg,Nonpartisan,Undervotes
 Yavapai,LASSO (318.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,LASSO (318.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,LASSO (318.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,WALNUT (319.00),Registered Voters,,,,64,64,64,64
+Yavapai,WALNUT (319.00),Registered Voters,,,,64,0,0,0
 Yavapai,WALNUT (319.00),Ballots Cast,,,,28,25,3,
 Yavapai,WALNUT (319.00),U.S. Senate,,REP,Kari LAKE,15,13,2,0
 Yavapai,WALNUT (319.00),U.S. Senate,,REP,Mark LAMB,6,6,0,0
@@ -4781,7 +4781,7 @@ Yavapai,WALNUT (319.00),Constable,Bagdad/Yarnell,GRN,Undervotes,0,0,0,0
 Yavapai,WALNUT (319.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,WALNUT (319.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,WALNUT (319.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,TOWERS (320.00),Registered Voters,,,,122,122,122,122
+Yavapai,TOWERS (320.00),Registered Voters,,,,122,0,0,0
 Yavapai,TOWERS (320.00),Ballots Cast,,,,58,53,5,
 Yavapai,TOWERS (320.00),U.S. Senate,,REP,Kari LAKE,25,20,5,0
 Yavapai,TOWERS (320.00),U.S. Senate,,REP,Mark LAMB,22,22,0,0
@@ -5020,7 +5020,7 @@ Yavapai,TOWERS (320.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,TOWERS (320.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,TOWERS (320.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,TOWERS (320.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,SPRINGS (321.00),Registered Voters,,,,43,43,43,43
+Yavapai,SPRINGS (321.00),Registered Voters,,,,43,0,0,0
 Yavapai,SPRINGS (321.00),Ballots Cast,,,,12,12,,
 Yavapai,SPRINGS (321.00),U.S. Senate,,REP,Kari LAKE,7,7,0,0
 Yavapai,SPRINGS (321.00),U.S. Senate,,REP,Mark LAMB,4,4,0,0
@@ -5508,7 +5508,7 @@ Yavapai,PLEASANT (322.00),Council Member,Mesquite,Nonpartisan,Undervotes,0,0,0,0
 Yavapai,PLEASANT (322.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,PLEASANT (322.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,PLEASANT (322.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,SUNSET (323.00),Registered Voters,,,,1988,1988,1988,1988
+Yavapai,SUNSET (323.00),Registered Voters,,,,1988,0,0,0
 Yavapai,SUNSET (323.00),Ballots Cast,,,,667,502,165,
 Yavapai,SUNSET (323.00),U.S. Senate,,REP,Kari LAKE,310,228,82,0
 Yavapai,SUNSET (323.00),U.S. Senate,,REP,Mark LAMB,220,150,70,0
@@ -5747,7 +5747,7 @@ Yavapai,SUNSET (323.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,SUNSET (323.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,SUNSET (323.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,SUNSET (323.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,BUG (324.00),Registered Voters,,,,3837,3837,3837,3837
+Yavapai,BUG (324.00),Registered Voters,,,,3837,0,0,0
 Yavapai,BUG (324.00),Ballots Cast,,,,1533,1244,287,2
 Yavapai,BUG (324.00),U.S. Senate,,REP,Kari LAKE,764,585,178,1
 Yavapai,BUG (324.00),U.S. Senate,,REP,Mark LAMB,414,338,76,0
@@ -5986,7 +5986,7 @@ Yavapai,BUG (324.00),Superior Court Judge,8,GRN,Undervotes,1,1,0,0
 Yavapai,BUG (324.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,BUG (324.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,BUG (324.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,SALT (325.00),Registered Voters,,,,419,419,419,419
+Yavapai,SALT (325.00),Registered Voters,,,,419,0,0,0
 Yavapai,SALT (325.00),Ballots Cast,,,,170,146,24,
 Yavapai,SALT (325.00),U.S. Senate,,REP,Kari LAKE,80,64,16,0
 Yavapai,SALT (325.00),U.S. Senate,,REP,Mark LAMB,53,49,4,0
@@ -6225,7 +6225,7 @@ Yavapai,SALT (325.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,SALT (325.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,SALT (325.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,SALT (325.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,RIM (326.00),Registered Voters,,,,26,26,26,26
+Yavapai,RIM (326.00),Registered Voters,,,,26,0,0,0
 Yavapai,RIM (326.00),Ballots Cast,,,,11,10,1,
 Yavapai,RIM (326.00),U.S. Senate,,REP,Kari LAKE,5,4,1,0
 Yavapai,RIM (326.00),U.S. Senate,,REP,Mark LAMB,1,1,0,0
@@ -6464,7 +6464,7 @@ Yavapai,RIM (326.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,RIM (326.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,RIM (326.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,RIM (326.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,COWBOYS (327.00),Registered Voters,,,,2778,2778,2778,2778
+Yavapai,COWBOYS (327.00),Registered Voters,,,,2778,0,0,0
 Yavapai,COWBOYS (327.00),Ballots Cast,,,,1189,964,219,6
 Yavapai,COWBOYS (327.00),U.S. Senate,,REP,Kari LAKE,593,455,135,3
 Yavapai,COWBOYS (327.00),U.S. Senate,,REP,Mark LAMB,287,225,61,1
@@ -6727,7 +6727,7 @@ Yavapai,COWBOYS (327.00),PROPOSITION 476,,Nonpartisan,Undervotes,109,92,17,0
 Yavapai,COWBOYS (327.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,COWBOYS (327.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,COWBOYS (327.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,FORT (328.00),Registered Voters,,,,4684,4684,4684,4684
+Yavapai,FORT (328.00),Registered Voters,,,,4684,0,0,0
 Yavapai,FORT (328.00),Ballots Cast,,,,1927,1611,313,3
 Yavapai,FORT (328.00),U.S. Senate,,REP,Kari LAKE,984,781,201,2
 Yavapai,FORT (328.00),U.S. Senate,,REP,Mark LAMB,387,332,54,1
@@ -6990,7 +6990,7 @@ Yavapai,FORT (328.00),PROPOSITION 476,,Nonpartisan,Undervotes,143,125,18,0
 Yavapai,FORT (328.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,FORT (328.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,FORT (328.00),NOL Notice,,,Undervote,6,6,0,0
-Yavapai,WELL (329.00),Registered Voters,,,,3109,3109,3109,3109
+Yavapai,WELL (329.00),Registered Voters,,,,3109,0,0,0
 Yavapai,WELL (329.00),Ballots Cast,,,,1088,883,200,5
 Yavapai,WELL (329.00),U.S. Senate,,REP,Kari LAKE,512,384,124,4
 Yavapai,WELL (329.00),U.S. Senate,,REP,Mark LAMB,211,168,43,0
@@ -7229,7 +7229,7 @@ Yavapai,WELL (329.00),Superior Court Judge,8,GRN,Undervotes,1,0,1,0
 Yavapai,WELL (329.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,WELL (329.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,WELL (329.00),NOL Notice,,,Undervote,1,0,1,0
-Yavapai,SCARLET (330.00),Registered Voters,,,,4908,4908,4908,4908
+Yavapai,SCARLET (330.00),Registered Voters,,,,4908,0,0,0
 Yavapai,SCARLET (330.00),Ballots Cast,,,,2258,2048,209,1
 Yavapai,SCARLET (330.00),U.S. Senate,,REP,Kari LAKE,679,547,132,0
 Yavapai,SCARLET (330.00),U.S. Senate,,REP,Mark LAMB,227,194,33,0
@@ -7486,7 +7486,7 @@ Yavapai,SCARLET (330.00),PROPOSITION 481,,Nonpartisan,Undervotes,11,11,0,0
 Yavapai,SCARLET (330.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,SCARLET (330.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,SCARLET (330.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,RUBY (331.00),Registered Voters,,,,5718,5718,5718,5718
+Yavapai,RUBY (331.00),Registered Voters,,,,5718,0,0,0
 Yavapai,RUBY (331.00),Ballots Cast,,,,2568,2303,265,
 Yavapai,RUBY (331.00),U.S. Senate,,REP,Kari LAKE,699,561,138,0
 Yavapai,RUBY (331.00),U.S. Senate,,REP,Mark LAMB,283,242,41,0
@@ -7743,7 +7743,7 @@ Yavapai,RUBY (331.00),PROPOSITION 481,,Nonpartisan,Undervotes,235,203,32,0
 Yavapai,RUBY (331.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,RUBY (331.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,RUBY (331.00),NOL Notice,,,Undervote,3,3,0,0
-Yavapai,BRIDGE (332.00),Registered Voters,,,,75,75,75,75
+Yavapai,BRIDGE (332.00),Registered Voters,,,,75,0,0,0
 Yavapai,BRIDGE (332.00),Ballots Cast,,,,26,23,3,
 Yavapai,BRIDGE (332.00),U.S. Senate,,REP,Kari LAKE,15,14,1,0
 Yavapai,BRIDGE (332.00),U.S. Senate,,REP,Mark LAMB,5,4,1,0
@@ -7983,7 +7983,7 @@ Yavapai,BRIDGE (332.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,BRIDGE (332.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,BRIDGE (332.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,BRIDGE (332.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,WIND (333.00),Registered Voters,,,,123,123,123,123
+Yavapai,WIND (333.00),Registered Voters,,,,123,0,0,0
 Yavapai,WIND (333.00),Ballots Cast,,,,44,33,11,
 Yavapai,WIND (333.00),U.S. Senate,,REP,Kari LAKE,30,22,8,0
 Yavapai,WIND (333.00),U.S. Senate,,REP,Mark LAMB,0,0,0,0
@@ -8246,7 +8246,7 @@ Yavapai,WIND (333.00),PROPOSITION 476,,Nonpartisan,Undervotes,0,0,0,0
 Yavapai,WIND (333.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,WIND (333.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,WIND (333.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,CREEK (334.00),Registered Voters,,,,2689,2689,2689,2689
+Yavapai,CREEK (334.00),Registered Voters,,,,2689,0,0,0
 Yavapai,CREEK (334.00),Ballots Cast,,,,1068,899,168,1
 Yavapai,CREEK (334.00),U.S. Senate,,REP,Kari LAKE,518,403,114,1
 Yavapai,CREEK (334.00),U.S. Senate,,REP,Mark LAMB,214,178,36,0
@@ -8525,7 +8525,7 @@ Yavapai,CREEK (334.00),PROPOSITION 476,,Nonpartisan,Undervotes,0,0,0,0
 Yavapai,CREEK (334.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,CREEK (334.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,CREEK (334.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,AZURE (335.00),Registered Voters,,,,7205,7205,7205,7205
+Yavapai,AZURE (335.00),Registered Voters,,,,7205,0,0,0
 Yavapai,AZURE (335.00),Ballots Cast,,,,2674,2401,270,3
 Yavapai,AZURE (335.00),U.S. Senate,,REP,Kari LAKE,1025,854,169,2
 Yavapai,AZURE (335.00),U.S. Senate,,REP,Mark LAMB,508,455,53,0
@@ -8805,7 +8805,7 @@ Yavapai,AZURE (335.00),PROPOSITION 476,,Nonpartisan,Undervotes,0,0,0,0
 Yavapai,AZURE (335.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,AZURE (335.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,AZURE (335.00),NOL Notice,,,Undervote,3,3,0,0
-Yavapai,QUAIL (336.00),Registered Voters,,,,428,428,428,428
+Yavapai,QUAIL (336.00),Registered Voters,,,,428,0,0,0
 Yavapai,QUAIL (336.00),Ballots Cast,,,,237,199,37,1
 Yavapai,QUAIL (336.00),U.S. Senate,,REP,Kari LAKE,133,112,20,1
 Yavapai,QUAIL (336.00),U.S. Senate,,REP,Mark LAMB,44,33,11,0
@@ -9061,7 +9061,7 @@ Yavapai,QUAIL (336.00),Council Member (4-Year),Cottonwood,Nonpartisan,Undervotes
 Yavapai,QUAIL (336.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,QUAIL (336.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,QUAIL (336.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,ONYX (337.00),Registered Voters,,,,8305,8305,8305,8305
+Yavapai,ONYX (337.00),Registered Voters,,,,8305,0,0,0
 Yavapai,ONYX (337.00),Ballots Cast,,,,3633,3246,385,2
 Yavapai,ONYX (337.00),U.S. Senate,,REP,Kari LAKE,1512,1279,231,2
 Yavapai,ONYX (337.00),U.S. Senate,,REP,Mark LAMB,632,556,76,0
@@ -9329,7 +9329,7 @@ Yavapai,ONYX (337.00),Council Member (4-Year),Cottonwood,Nonpartisan,Undervotes,
 Yavapai,ONYX (337.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,ONYX (337.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,ONYX (337.00),NOL Notice,,,Undervote,1,1,0,0
-Yavapai,GHOST (338.00),Registered Voters,,,,2860,2860,2860,2860
+Yavapai,GHOST (338.00),Registered Voters,,,,2860,0,0,0
 Yavapai,GHOST (338.00),Ballots Cast,,,,1276,1068,206,2
 Yavapai,GHOST (338.00),U.S. Senate,,REP,Kari LAKE,384,294,89,1
 Yavapai,GHOST (338.00),U.S. Senate,,REP,Mark LAMB,203,159,44,0
@@ -9611,7 +9611,7 @@ Yavapai,GHOST (338.00),PROPOSITION 477,,Nonpartisan,Undervotes,8,4,4,0
 Yavapai,GHOST (338.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,GHOST (338.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,GHOST (338.00),NOL Notice,,,Undervote,3,2,1,0
-Yavapai,SPIRIT (339.00),Registered Voters,,,,67,67,67,67
+Yavapai,SPIRIT (339.00),Registered Voters,,,,67,0,0,0
 Yavapai,SPIRIT (339.00),Ballots Cast,,,,28,27,1,
 Yavapai,SPIRIT (339.00),U.S. Senate,,REP,Kari LAKE,10,10,0,0
 Yavapai,SPIRIT (339.00),U.S. Senate,,REP,Mark LAMB,5,5,0,0
@@ -9863,7 +9863,7 @@ Yavapai,SPIRIT (339.00),Council Member (4-Year),Clarkdale,Nonpartisan,Undervotes
 Yavapai,SPIRIT (339.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,SPIRIT (339.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,SPIRIT (339.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,AGUA (340.00),Registered Voters,,,,4399,4399,4399,4399
+Yavapai,AGUA (340.00),Registered Voters,,,,4399,0,0,0
 Yavapai,AGUA (340.00),Ballots Cast,,,,2184,1918,263,3
 Yavapai,AGUA (340.00),U.S. Senate,,REP,Kari LAKE,1121,951,167,3
 Yavapai,AGUA (340.00),U.S. Senate,,REP,Mark LAMB,529,463,66,0
@@ -10136,7 +10136,7 @@ Yavapai,AGUA (340.00),PROPOSITION 474,,Nonpartisan,Undervotes,227,205,21,1
 Yavapai,AGUA (340.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,AGUA (340.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,AGUA (340.00),NOL Notice,,,Undervote,3,2,1,0
-Yavapai,IRON (341.00),Registered Voters,,,,3244,3244,3244,3244
+Yavapai,IRON (341.00),Registered Voters,,,,3244,0,0,0
 Yavapai,IRON (341.00),Ballots Cast,,,,1528,1257,267,4
 Yavapai,IRON (341.00),U.S. Senate,,REP,Kari LAKE,770,628,138,4
 Yavapai,IRON (341.00),U.S. Senate,,REP,Mark LAMB,438,347,91,0
@@ -10395,7 +10395,7 @@ Yavapai,IRON (341.00),Council Member (2-Year),Dewey-Humboldt,Nonpartisan,Undervo
 Yavapai,IRON (341.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,IRON (341.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,IRON (341.00),NOL Notice,,,Undervote,4,2,2,0
-Yavapai,LYNX (342.00),Registered Voters,,,,3433,3433,3433,3433
+Yavapai,LYNX (342.00),Registered Voters,,,,3433,0,0,0
 Yavapai,LYNX (342.00),Ballots Cast,,,,1467,1317,149,1
 Yavapai,LYNX (342.00),U.S. Senate,,REP,Kari LAKE,683,573,109,1
 Yavapai,LYNX (342.00),U.S. Senate,,REP,Mark LAMB,383,357,26,0
@@ -10648,7 +10648,7 @@ Yavapai,LYNX (342.00),PROPOSITION 474,,Nonpartisan,Undervotes,48,45,3,0
 Yavapai,LYNX (342.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,LYNX (342.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,LYNX (342.00),NOL Notice,,,Undervote,4,4,0,0
-Yavapai,WATER (343.00),Registered Voters,,,,3771,3771,3771,3771
+Yavapai,WATER (343.00),Registered Voters,,,,3771,0,0,0
 Yavapai,WATER (343.00),Ballots Cast,,,,2306,2196,109,1
 Yavapai,WATER (343.00),U.S. Senate,,REP,Kari LAKE,1165,1084,81,0
 Yavapai,WATER (343.00),U.S. Senate,,REP,Mark LAMB,594,571,22,1
@@ -10901,7 +10901,7 @@ Yavapai,WATER (343.00),PROPOSITION 474,,Nonpartisan,Undervotes,0,0,0,0
 Yavapai,WATER (343.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,WATER (343.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,WATER (343.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,BUCK (344.00),Registered Voters,,,,4621,4621,4621,4621
+Yavapai,BUCK (344.00),Registered Voters,,,,4621,0,0,0
 Yavapai,BUCK (344.00),Ballots Cast,,,,2459,2279,180,
 Yavapai,BUCK (344.00),U.S. Senate,,REP,Kari LAKE,1165,1052,113,0
 Yavapai,BUCK (344.00),U.S. Senate,,REP,Mark LAMB,630,588,42,0
@@ -11154,7 +11154,7 @@ Yavapai,BUCK (344.00),PROPOSITION 474,,Nonpartisan,Undervotes,142,136,6,0
 Yavapai,BUCK (344.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,BUCK (344.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,BUCK (344.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,BIGHORN (345.00),Registered Voters,,,,5741,5741,5741,5741
+Yavapai,BIGHORN (345.00),Registered Voters,,,,5741,0,0,0
 Yavapai,BIGHORN (345.00),Ballots Cast,,,,2018,1796,219,3
 Yavapai,BIGHORN (345.00),U.S. Senate,,REP,Kari LAKE,894,751,141,2
 Yavapai,BIGHORN (345.00),U.S. Senate,,REP,Mark LAMB,518,468,49,1
@@ -11407,7 +11407,7 @@ Yavapai,BIGHORN (345.00),PROPOSITION 474,,Nonpartisan,Undervotes,210,185,25,0
 Yavapai,BIGHORN (345.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,BIGHORN (345.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,BIGHORN (345.00),NOL Notice,,,Undervote,7,7,0,0
-Yavapai,BISON (346.00),Registered Voters,,,,5789,5789,5789,5789
+Yavapai,BISON (346.00),Registered Voters,,,,5789,0,0,0
 Yavapai,BISON (346.00),Ballots Cast,,,,2288,2031,255,2
 Yavapai,BISON (346.00),U.S. Senate,,REP,Kari LAKE,990,835,153,2
 Yavapai,BISON (346.00),U.S. Senate,,REP,Mark LAMB,633,560,73,0
@@ -11660,7 +11660,7 @@ Yavapai,BISON (346.00),PROPOSITION 474,,Nonpartisan,Undervotes,236,213,23,0
 Yavapai,BISON (346.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,BISON (346.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,BISON (346.00),NOL Notice,,,Undervote,5,5,0,0
-Yavapai,BEARS (347.00),Registered Voters,,,,5986,5986,5986,5986
+Yavapai,BEARS (347.00),Registered Voters,,,,5986,0,0,0
 Yavapai,BEARS (347.00),Ballots Cast,,,,2810,2554,255,1
 Yavapai,BEARS (347.00),U.S. Senate,,REP,Kari LAKE,1306,1128,177,1
 Yavapai,BEARS (347.00),U.S. Senate,,REP,Mark LAMB,792,734,58,0
@@ -11913,7 +11913,7 @@ Yavapai,BEARS (347.00),PROPOSITION 474,,Nonpartisan,Undervotes,274,261,13,0
 Yavapai,BEARS (347.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,BEARS (347.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,BEARS (347.00),NOL Notice,,,Undervote,5,5,0,0
-Yavapai,BURRO (348.00),Registered Voters,,,,3855,3855,3855,3855
+Yavapai,BURRO (348.00),Registered Voters,,,,3855,0,0,0
 Yavapai,BURRO (348.00),Ballots Cast,,,,1460,1287,173,
 Yavapai,BURRO (348.00),U.S. Senate,,REP,Kari LAKE,678,565,113,0
 Yavapai,BURRO (348.00),U.S. Senate,,REP,Mark LAMB,375,344,31,0
@@ -12166,7 +12166,7 @@ Yavapai,BURRO (348.00),PROPOSITION 474,,Nonpartisan,Undervotes,139,128,11,0
 Yavapai,BURRO (348.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,BURRO (348.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,BURRO (348.00),NOL Notice,,,Undervote,2,2,0,0
-Yavapai,PRONGHORN (349.00),Registered Voters,,,,4693,4693,4693,4693
+Yavapai,PRONGHORN (349.00),Registered Voters,,,,4693,0,0,0
 Yavapai,PRONGHORN (349.00),Ballots Cast,,,,2663,2404,258,1
 Yavapai,PRONGHORN (349.00),U.S. Senate,,REP,Kari LAKE,1201,1042,159,0
 Yavapai,PRONGHORN (349.00),U.S. Senate,,REP,Mark LAMB,798,718,80,0
@@ -12419,7 +12419,7 @@ Yavapai,PRONGHORN (349.00),PROPOSITION 474,,Nonpartisan,Undervotes,265,241,24,0
 Yavapai,PRONGHORN (349.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,PRONGHORN (349.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,PRONGHORN (349.00),NOL Notice,,,Undervote,4,4,0,0
-Yavapai,COYOTE (350.00),Registered Voters,,,,4465,4465,4465,4465
+Yavapai,COYOTE (350.00),Registered Voters,,,,4465,0,0,0
 Yavapai,COYOTE (350.00),Ballots Cast,,,,2237,1936,300,1
 Yavapai,COYOTE (350.00),U.S. Senate,,REP,Kari LAKE,1181,974,206,1
 Yavapai,COYOTE (350.00),U.S. Senate,,REP,Mark LAMB,763,680,83,0
@@ -12689,7 +12689,7 @@ Yavapai,COYOTE (350.00),PROPOSITION 475,,Nonpartisan,Undervotes,0,0,0,0
 Yavapai,COYOTE (350.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,COYOTE (350.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,COYOTE (350.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,GRAZE (351.00),Registered Voters,,,,5979,5979,5979,5979
+Yavapai,GRAZE (351.00),Registered Voters,,,,5979,0,0,0
 Yavapai,GRAZE (351.00),Ballots Cast,,,,2700,2291,407,2
 Yavapai,GRAZE (351.00),U.S. Senate,,REP,Kari LAKE,1303,1036,265,2
 Yavapai,GRAZE (351.00),U.S. Senate,,REP,Mark LAMB,798,695,103,0
@@ -12945,7 +12945,7 @@ Yavapai,GRAZE (351.00),PROPOSITION 475,,Nonpartisan,Undervotes,240,210,30,0
 Yavapai,GRAZE (351.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,GRAZE (351.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,GRAZE (351.00),NOL Notice,,,Undervote,4,4,0,0
-Yavapai,COUGARS (352.00),Registered Voters,,,,3117,3117,3117,3117
+Yavapai,COUGARS (352.00),Registered Voters,,,,3117,0,0,0
 Yavapai,COUGARS (352.00),Ballots Cast,,,,1471,1194,277,
 Yavapai,COUGARS (352.00),U.S. Senate,,REP,Kari LAKE,805,621,184,0
 Yavapai,COUGARS (352.00),U.S. Senate,,REP,Mark LAMB,433,351,82,0
@@ -13201,7 +13201,7 @@ Yavapai,COUGARS (352.00),PROPOSITION 475,,Nonpartisan,Undervotes,2,2,0,0
 Yavapai,COUGARS (352.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,COUGARS (352.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,COUGARS (352.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,BASIN (353.00),Registered Voters,,,,2600,2600,2600,2600
+Yavapai,BASIN (353.00),Registered Voters,,,,2600,0,0,0
 Yavapai,BASIN (353.00),Ballots Cast,,,,1139,967,172,
 Yavapai,BASIN (353.00),U.S. Senate,,REP,Kari LAKE,591,483,108,0
 Yavapai,BASIN (353.00),U.S. Senate,,REP,Mark LAMB,333,278,55,0
@@ -13457,7 +13457,7 @@ Yavapai,BASIN (353.00),PROPOSITION 475,,Nonpartisan,Undervotes,76,68,8,0
 Yavapai,BASIN (353.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,BASIN (353.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,BASIN (353.00),NOL Notice,,,Undervote,1,1,0,0
-Yavapai,ANTELOPE (354.00),Registered Voters,,,,4795,4795,4795,4795
+Yavapai,ANTELOPE (354.00),Registered Voters,,,,4795,0,0,0
 Yavapai,ANTELOPE (354.00),Ballots Cast,,,,1977,1648,327,2
 Yavapai,ANTELOPE (354.00),U.S. Senate,,REP,Kari LAKE,1037,832,204,1
 Yavapai,ANTELOPE (354.00),U.S. Senate,,REP,Mark LAMB,626,525,100,1
@@ -13696,7 +13696,7 @@ Yavapai,ANTELOPE (354.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,ANTELOPE (354.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,ANTELOPE (354.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,ANTELOPE (354.00),NOL Notice,,,Undervote,1,1,0,0
-Yavapai,CAMP (355.00),Registered Voters,,,,739,739,739,739
+Yavapai,CAMP (355.00),Registered Voters,,,,739,0,0,0
 Yavapai,CAMP (355.00),Ballots Cast,,,,409,361,48,
 Yavapai,CAMP (355.00),U.S. Senate,,REP,Kari LAKE,197,169,28,0
 Yavapai,CAMP (355.00),U.S. Senate,,REP,Mark LAMB,147,127,20,0
@@ -13935,7 +13935,7 @@ Yavapai,CAMP (355.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,CAMP (355.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,CAMP (355.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,CAMP (355.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,STONE (356.00),Registered Voters,,,,682,682,682,682
+Yavapai,STONE (356.00),Registered Voters,,,,682,0,0,0
 Yavapai,STONE (356.00),Ballots Cast,,,,260,208,50,2
 Yavapai,STONE (356.00),U.S. Senate,,REP,Kari LAKE,134,100,34,0
 Yavapai,STONE (356.00),U.S. Senate,,REP,Mark LAMB,73,61,10,2
@@ -14174,7 +14174,7 @@ Yavapai,STONE (356.00),Superior Court Judge,8,GRN,Undervotes,0,0,0,0
 Yavapai,STONE (356.00),NOL Notice,,,No Candidate,0,0,0,0
 Yavapai,STONE (356.00),NOL Notice,,,Overvote,0,0,0,0
 Yavapai,STONE (356.00),NOL Notice,,,Undervote,0,0,0,0
-Yavapai,CARS (357.00),Registered Voters,,,,1152,1152,1152,1152
+Yavapai,CARS (357.00),Registered Voters,,,,1152,0,0,0
 Yavapai,CARS (357.00),Ballots Cast,,,,456,339,116,1
 Yavapai,CARS (357.00),U.S. Senate,,REP,Kari LAKE,275,199,76,0
 Yavapai,CARS (357.00),U.S. Senate,,REP,Mark LAMB,122,89,32,1

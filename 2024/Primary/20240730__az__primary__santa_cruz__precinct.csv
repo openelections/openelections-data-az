@@ -1,11 +1,11 @@
 county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,provisional
-Santa Cruz,Nogales 1,Registered Voters - Total,,,,,594,594,594,594
-Santa Cruz,Nogales 1,Registered Voters - Democratic,,,DEM,,309,309,309,309
-Santa Cruz,Nogales 1,Registered Voters - Republican,,,REP,,62,62,62,62
-Santa Cruz,Nogales 1,Registered Voters - Libertarian,,,LBT,,5,5,5,5
+Santa Cruz,Nogales 1,Registered Voters - Total,,,,,594,0,0,0
+Santa Cruz,Nogales 1,Registered Voters - Democratic,,,DEM,,309,0,0,0
+Santa Cruz,Nogales 1,Registered Voters - Republican,,,REP,,62,0,0,0
+Santa Cruz,Nogales 1,Registered Voters - Libertarian,,,LBT,,5,0,0,0
 Santa Cruz,Nogales 1,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Nogales 1,Registered Voters - No Labels Party,,,NOL,,1,1,1,1
-Santa Cruz,Nogales 1,Registered Voters - Nonpartisan,,,,,217,217,217,217
+Santa Cruz,Nogales 1,Registered Voters - No Labels Party,,,NOL,,1,0,0,0
+Santa Cruz,Nogales 1,Registered Voters - Nonpartisan,,,,,217,0,0,0
 Santa Cruz,Nogales 1,Ballots Cast - Total,,,,,129,111,18,0
 Santa Cruz,Nogales 1,Ballots Cast - Democratic,,,DEM,,110,95,15,0
 Santa Cruz,Nogales 1,Ballots Cast - Republican,,,REP,,18,16,2,0
@@ -211,13 +211,13 @@ Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tota
 Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,214,185,29,0
 Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,173,148,25,0
-Santa Cruz,Nogales 2,Registered Voters - Total,,,,,1647,1647,1647,1647
-Santa Cruz,Nogales 2,Registered Voters - Democratic,,,DEM,,739,739,739,739
-Santa Cruz,Nogales 2,Registered Voters - Republican,,,REP,,152,152,152,152
-Santa Cruz,Nogales 2,Registered Voters - Libertarian,,,LBT,,4,4,4,4
-Santa Cruz,Nogales 2,Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,Nogales 2,Registered Voters - No Labels Party,,,NOL,,9,9,9,9
-Santa Cruz,Nogales 2,Registered Voters - Nonpartisan,,,,,742,742,742,742
+Santa Cruz,Nogales 2,Registered Voters - Total,,,,,1647,0,0,0
+Santa Cruz,Nogales 2,Registered Voters - Democratic,,,DEM,,739,0,0,0
+Santa Cruz,Nogales 2,Registered Voters - Republican,,,REP,,152,0,0,0
+Santa Cruz,Nogales 2,Registered Voters - Libertarian,,,LBT,,4,0,0,0
+Santa Cruz,Nogales 2,Registered Voters - Green,,,GRN,,1,0,0,0
+Santa Cruz,Nogales 2,Registered Voters - No Labels Party,,,NOL,,9,0,0,0
+Santa Cruz,Nogales 2,Registered Voters - Nonpartisan,,,,,742,0,0,0
 Santa Cruz,Nogales 2,Ballots Cast - Total,,,,,206,177,28,1
 Santa Cruz,Nogales 2,Ballots Cast - Democratic,,,DEM,,180,160,19,1
 Santa Cruz,Nogales 2,Ballots Cast - Republican,,,REP,,25,17,8,0
@@ -423,13 +423,13 @@ Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tota
 Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,384,340,43,1
 Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,234,191,41,2
-Santa Cruz,Nogales 3,Registered Voters - Total,,,,,932,932,932,932
-Santa Cruz,Nogales 3,Registered Voters - Democratic,,,DEM,,451,451,451,451
-Santa Cruz,Nogales 3,Registered Voters - Republican,,,REP,,101,101,101,101
-Santa Cruz,Nogales 3,Registered Voters - Libertarian,,,LBT,,4,4,4,4
+Santa Cruz,Nogales 3,Registered Voters - Total,,,,,932,0,0,0
+Santa Cruz,Nogales 3,Registered Voters - Democratic,,,DEM,,451,0,0,0
+Santa Cruz,Nogales 3,Registered Voters - Republican,,,REP,,101,0,0,0
+Santa Cruz,Nogales 3,Registered Voters - Libertarian,,,LBT,,4,0,0,0
 Santa Cruz,Nogales 3,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Nogales 3,Registered Voters - No Labels Party,,,NOL,,2,2,2,2
-Santa Cruz,Nogales 3,Registered Voters - Nonpartisan,,,,,374,374,374,374
+Santa Cruz,Nogales 3,Registered Voters - No Labels Party,,,NOL,,2,0,0,0
+Santa Cruz,Nogales 3,Registered Voters - Nonpartisan,,,,,374,0,0,0
 Santa Cruz,Nogales 3,Ballots Cast - Total,,,,,166,135,28,3
 Santa Cruz,Nogales 3,Ballots Cast - Democratic,,,DEM,,143,120,20,3
 Santa Cruz,Nogales 3,Ballots Cast - Republican,,,REP,,22,15,7,0
@@ -635,13 +635,13 @@ Santa Cruz,Nogales 3,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tota
 Santa Cruz,Nogales 3,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,280,238,41,1
 Santa Cruz,Nogales 3,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 3,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,218,167,43,8
-Santa Cruz,Nogales 4,Registered Voters - Total,,,,,490,490,490,490
-Santa Cruz,Nogales 4,Registered Voters - Democratic,,,DEM,,258,258,258,258
-Santa Cruz,Nogales 4,Registered Voters - Republican,,,REP,,48,48,48,48
-Santa Cruz,Nogales 4,Registered Voters - Libertarian,,,LBT,,2,2,2,2
+Santa Cruz,Nogales 4,Registered Voters - Total,,,,,490,0,0,0
+Santa Cruz,Nogales 4,Registered Voters - Democratic,,,DEM,,258,0,0,0
+Santa Cruz,Nogales 4,Registered Voters - Republican,,,REP,,48,0,0,0
+Santa Cruz,Nogales 4,Registered Voters - Libertarian,,,LBT,,2,0,0,0
 Santa Cruz,Nogales 4,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Nogales 4,Registered Voters - No Labels Party,,,NOL,,3,3,3,3
-Santa Cruz,Nogales 4,Registered Voters - Nonpartisan,,,,,179,179,179,179
+Santa Cruz,Nogales 4,Registered Voters - No Labels Party,,,NOL,,3,0,0,0
+Santa Cruz,Nogales 4,Registered Voters - Nonpartisan,,,,,179,0,0,0
 Santa Cruz,Nogales 4,Ballots Cast - Total,,,,,114,97,17,0
 Santa Cruz,Nogales 4,Ballots Cast - Democratic,,,DEM,,103,88,15,0
 Santa Cruz,Nogales 4,Ballots Cast - Republican,,,REP,,11,9,2,0
@@ -847,14 +847,14 @@ Santa Cruz,Nogales 4,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tota
 Santa Cruz,Nogales 4,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,217,189,28,0
 Santa Cruz,Nogales 4,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 4,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,125,102,23,0
-Santa Cruz,Coronado 5,Registered Voters - Total,,,,,1318,1318,1318,1318
-Santa Cruz,Coronado 5 (05.1),Registered Voters - Total,,,,,1131,1131,1131,1131
-Santa Cruz,Coronado 5,Registered Voters - Democratic,,,DEM,,636,636,636,636
-Santa Cruz,Coronado 5,Registered Voters - Republican,,,REP,,189,189,189,189
-Santa Cruz,Coronado 5,Registered Voters - Libertarian,,,LBT,,6,6,6,6
+Santa Cruz,Coronado 5,Registered Voters - Total,,,,,1318,0,0,0
+Santa Cruz,Coronado 5 (05.1),Registered Voters - Total,,,,,1131,0,0,0
+Santa Cruz,Coronado 5,Registered Voters - Democratic,,,DEM,,636,0,0,0
+Santa Cruz,Coronado 5,Registered Voters - Republican,,,REP,,189,0,0,0
+Santa Cruz,Coronado 5,Registered Voters - Libertarian,,,LBT,,6,0,0,0
 Santa Cruz,Coronado 5,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Coronado 5,Registered Voters - No Labels Party,,,NOL,,3,3,3,3
-Santa Cruz,Coronado 5,Registered Voters - Nonpartisan,,,,,484,484,484,484
+Santa Cruz,Coronado 5,Registered Voters - No Labels Party,,,NOL,,3,0,0,0
+Santa Cruz,Coronado 5,Registered Voters - Nonpartisan,,,,,484,0,0,0
 Santa Cruz,Coronado 5,Ballots Cast - Total,,,,,390,315,73,2
 Santa Cruz,Coronado 5 (05.1),Ballots Cast - Total,,,,,350,281,67,2
 Santa Cruz,Coronado 5,Ballots Cast - Democratic,,,DEM,,314,264,48,2
@@ -1061,13 +1061,13 @@ Santa Cruz,Coronado 5,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tot
 Santa Cruz,Coronado 5,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,588,479,105,4
 Santa Cruz,Coronado 5,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,3,3,0,0
 Santa Cruz,Coronado 5,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,459,361,96,2
-Santa Cruz,Elgin 6,Registered Voters - Total,,,,,650,650,650,650
-Santa Cruz,Elgin 6,Registered Voters - Democratic,,,DEM,,148,148,148,148
-Santa Cruz,Elgin 6,Registered Voters - Republican,,,REP,,300,300,300,300
-Santa Cruz,Elgin 6,Registered Voters - Libertarian,,,LBT,,12,12,12,12
+Santa Cruz,Elgin 6,Registered Voters - Total,,,,,650,0,0,0
+Santa Cruz,Elgin 6,Registered Voters - Democratic,,,DEM,,148,0,0,0
+Santa Cruz,Elgin 6,Registered Voters - Republican,,,REP,,300,0,0,0
+Santa Cruz,Elgin 6,Registered Voters - Libertarian,,,LBT,,12,0,0,0
 Santa Cruz,Elgin 6,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Elgin 6,Registered Voters - No Labels Party,,,NOL,,2,2,2,2
-Santa Cruz,Elgin 6,Registered Voters - Nonpartisan,,,,,188,188,188,188
+Santa Cruz,Elgin 6,Registered Voters - No Labels Party,,,NOL,,2,0,0,0
+Santa Cruz,Elgin 6,Registered Voters - Nonpartisan,,,,,188,0,0,0
 Santa Cruz,Elgin 6,Ballots Cast - Total,,,,,268,209,59,0
 Santa Cruz,Elgin 6,Ballots Cast - Democratic,,,DEM,,112,102,10,0
 Santa Cruz,Elgin 6,Ballots Cast - Republican,,,REP,,155,106,49,0
@@ -1265,13 +1265,13 @@ Santa Cruz,Elgin 6,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Elgin 6,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Elgin 6,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Elgin 6,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Rio Rico 7,Registered Voters - Total,,,,,4263,4263,4263,4263
-Santa Cruz,Rio Rico 7,Registered Voters - Democratic,,,DEM,,1606,1606,1606,1606
-Santa Cruz,Rio Rico 7,Registered Voters - Republican,,,REP,,968,968,968,968
-Santa Cruz,Rio Rico 7,Registered Voters - Libertarian,,,LBT,,32,32,32,32
-Santa Cruz,Rio Rico 7,Registered Voters - Green,,,GRN,,2,2,2,2
-Santa Cruz,Rio Rico 7,Registered Voters - No Labels Party,,,NOL,,20,20,20,20
-Santa Cruz,Rio Rico 7,Registered Voters - Nonpartisan,,,,,1635,1635,1635,1635
+Santa Cruz,Rio Rico 7,Registered Voters - Total,,,,,4263,0,0,0
+Santa Cruz,Rio Rico 7,Registered Voters - Democratic,,,DEM,,1606,0,0,0
+Santa Cruz,Rio Rico 7,Registered Voters - Republican,,,REP,,968,0,0,0
+Santa Cruz,Rio Rico 7,Registered Voters - Libertarian,,,LBT,,32,0,0,0
+Santa Cruz,Rio Rico 7,Registered Voters - Green,,,GRN,,2,0,0,0
+Santa Cruz,Rio Rico 7,Registered Voters - No Labels Party,,,NOL,,20,0,0,0
+Santa Cruz,Rio Rico 7,Registered Voters - Nonpartisan,,,,,1635,0,0,0
 Santa Cruz,Rio Rico 7,"Ballots Cast - Total ,",,,,,1251,1010,240,1
 Santa Cruz,Rio Rico 7,Ballots Cast - Democratic,,,DEM,,795,675,119,1
 Santa Cruz,Rio Rico 7,Ballots Cast - Republican,,,REP,,452,332,120,0
@@ -1469,13 +1469,13 @@ Santa Cruz,Rio Rico 7,Corporation Commissioner,,3,GRN,Undervotes,1,1,0,0
 Santa Cruz,Rio Rico 7,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Rio Rico 7,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Rio Rico 7,NOL Notice,,1,NOL,Undervotes,1,0,1,0
-Santa Cruz,Nogales 8,Registered Voters - Total,,,,,2244,2244,2244,2244
-Santa Cruz,Nogales 8,Registered Voters - Democratic,,,DEM,,1205,1205,1205,1205
-Santa Cruz,Nogales 8,Registered Voters - Republican,,,REP,,234,234,234,234
-Santa Cruz,Nogales 8,Registered Voters - Libertarian,,,LBT,,10,10,10,10
-Santa Cruz,Nogales 8,Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,Nogales 8,Registered Voters - No Labels Party,,,NOL,,12,12,12,12
-Santa Cruz,Nogales 8,Registered Voters - Nonpartisan,,,,,782,782,782,782
+Santa Cruz,Nogales 8,Registered Voters - Total,,,,,2244,0,0,0
+Santa Cruz,Nogales 8,Registered Voters - Democratic,,,DEM,,1205,0,0,0
+Santa Cruz,Nogales 8,Registered Voters - Republican,,,REP,,234,0,0,0
+Santa Cruz,Nogales 8,Registered Voters - Libertarian,,,LBT,,10,0,0,0
+Santa Cruz,Nogales 8,Registered Voters - Green,,,GRN,,1,0,0,0
+Santa Cruz,Nogales 8,Registered Voters - No Labels Party,,,NOL,,12,0,0,0
+Santa Cruz,Nogales 8,Registered Voters - Nonpartisan,,,,,782,0,0,0
 Santa Cruz,Nogales 8,Ballots Cast - Total,,,,,481,393,88,0
 Santa Cruz,Nogales 8,Ballots Cast - Democratic,,,DEM,,413,344,69,0
 Santa Cruz,Nogales 8,Ballots Cast - Republican,,,REP,,66,49,17,0
@@ -1681,13 +1681,13 @@ Santa Cruz,Nogales 8,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tota
 Santa Cruz,Nogales 8,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,805,680,125,0
 Santa Cruz,Nogales 8,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 8,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,638,499,139,0
-Santa Cruz,Nogales 9,Registered Voters - Total,,,,,360,360,360,360
-Santa Cruz,Nogales 9,Registered Voters - Democratic,,,DEM,,155,155,155,155
-Santa Cruz,Nogales 9,Registered Voters - Republican,,,REP,,77,77,77,77
-Santa Cruz,Nogales 9,Registered Voters - Libertarian,,,LBT,,2,2,2,2
+Santa Cruz,Nogales 9,Registered Voters - Total,,,,,360,0,0,0
+Santa Cruz,Nogales 9,Registered Voters - Democratic,,,DEM,,155,0,0,0
+Santa Cruz,Nogales 9,Registered Voters - Republican,,,REP,,77,0,0,0
+Santa Cruz,Nogales 9,Registered Voters - Libertarian,,,LBT,,2,0,0,0
 Santa Cruz,Nogales 9,Registered Voters - Green,,,GRN,,0,0,0,0
 Santa Cruz,Nogales 9,Registered Voters - No Labels Party,,,NOL,,0,0,0,0
-Santa Cruz,Nogales 9,Registered Voters - Nonpartisan,,,,,126,126,126,126
+Santa Cruz,Nogales 9,Registered Voters - Nonpartisan,,,,,126,0,0,0
 Santa Cruz,Nogales 9,Ballots Cast - Total,,,,,117,88,29,0
 Santa Cruz,Nogales 9,Ballots Cast - Democratic,,,DEM,,80,66,14,0
 Santa Cruz,Nogales 9,Ballots Cast - Republican,,,REP,,34,21,13,0
@@ -1893,13 +1893,13 @@ Santa Cruz,Nogales 9,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tota
 Santa Cruz,Nogales 9,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,197,154,43,0
 Santa Cruz,Nogales 9,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 9,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,154,110,44,0
-Santa Cruz,Nogales 10,Registered Voters - Total,,,,,1196,1196,1196,1196
-Santa Cruz,Nogales 10,Registered Voters - Democratic,,,DEM,,564,564,564,564
-Santa Cruz,Nogales 10,Registered Voters - Republican,,,REP,,137,137,137,137
-Santa Cruz,Nogales 10,Registered Voters - Libertarian,,,LBT,,2,2,2,2
+Santa Cruz,Nogales 10,Registered Voters - Total,,,,,1196,0,0,0
+Santa Cruz,Nogales 10,Registered Voters - Democratic,,,DEM,,564,0,0,0
+Santa Cruz,Nogales 10,Registered Voters - Republican,,,REP,,137,0,0,0
+Santa Cruz,Nogales 10,Registered Voters - Libertarian,,,LBT,,2,0,0,0
 Santa Cruz,Nogales 10,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Nogales 10,Registered Voters - No Labels Party,,,NOL,,3,3,3,3
-Santa Cruz,Nogales 10,Registered Voters - Nonpartisan,,,,,490,490,490,490
+Santa Cruz,Nogales 10,Registered Voters - No Labels Party,,,NOL,,3,0,0,0
+Santa Cruz,Nogales 10,Registered Voters - Nonpartisan,,,,,490,0,0,0
 Santa Cruz,Nogales 10,Ballots Cast - Total,,,,,239,208,30,1
 Santa Cruz,Nogales 10,Ballots Cast - Democratic,,,DEM,,204,183,21,0
 Santa Cruz,Nogales 10,Ballots Cast - Republican,,,REP,,35,25,9,1
@@ -2105,13 +2105,13 @@ Santa Cruz,Nogales 10,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tot
 Santa Cruz,Nogales 10,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,392,341,48,3
 Santa Cruz,Nogales 10,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 10,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,325,283,42,0
-Santa Cruz,Tubac 11,Registered Voters - Total,,,,,2011,2011,2011,2011
-Santa Cruz,Tubac 11,Registered Voters - Democratic,,,DEM,,817,817,817,817
-Santa Cruz,Tubac 11,Registered Voters - Republican,,,REP,,567,567,567,567
-Santa Cruz,Tubac 11,Registered Voters - Libertarian,,,LBT,,8,8,8,8
-Santa Cruz,Tubac 11,Registered Voters - Green,,,GRN,,2,2,2,2
-Santa Cruz,Tubac 11,Registered Voters - No Labels Party,,,NOL,,7,7,7,7
-Santa Cruz,Tubac 11,Registered Voters - Nonpartisan,,,,,610,610,610,610
+Santa Cruz,Tubac 11,Registered Voters - Total,,,,,2011,0,0,0
+Santa Cruz,Tubac 11,Registered Voters - Democratic,,,DEM,,817,0,0,0
+Santa Cruz,Tubac 11,Registered Voters - Republican,,,REP,,567,0,0,0
+Santa Cruz,Tubac 11,Registered Voters - Libertarian,,,LBT,,8,0,0,0
+Santa Cruz,Tubac 11,Registered Voters - Green,,,GRN,,2,0,0,0
+Santa Cruz,Tubac 11,Registered Voters - No Labels Party,,,NOL,,7,0,0,0
+Santa Cruz,Tubac 11,Registered Voters - Nonpartisan,,,,,610,0,0,0
 Santa Cruz,Tubac 11,Ballots Cast - Total,,,,,892,785,106,1
 Santa Cruz,Tubac 11,Ballots Cast - Democratic,,,DEM,,587,547,39,1
 Santa Cruz,Tubac 11,Ballots Cast - Republican,,,REP,,304,238,66,0
@@ -2309,13 +2309,13 @@ Santa Cruz,Tubac 11,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Tubac 11,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Tubac 11,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Tubac 11,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Nogales 12,Registered Voters - Total,,,,,721,721,721,721
-Santa Cruz,Nogales 12,Registered Voters - Democratic,,,DEM,,340,340,340,340
-Santa Cruz,Nogales 12,Registered Voters - Republican,,,REP,,81,81,81,81
-Santa Cruz,Nogales 12,Registered Voters - Libertarian,,,LBT,,3,3,3,3
+Santa Cruz,Nogales 12,Registered Voters - Total,,,,,721,0,0,0
+Santa Cruz,Nogales 12,Registered Voters - Democratic,,,DEM,,340,0,0,0
+Santa Cruz,Nogales 12,Registered Voters - Republican,,,REP,,81,0,0,0
+Santa Cruz,Nogales 12,Registered Voters - Libertarian,,,LBT,,3,0,0,0
 Santa Cruz,Nogales 12,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Nogales 12,Registered Voters - No Labels Party,,,NOL,,6,6,6,6
-Santa Cruz,Nogales 12,Registered Voters - Nonpartisan,,,,,291,291,291,291
+Santa Cruz,Nogales 12,Registered Voters - No Labels Party,,,NOL,,6,0,0,0
+Santa Cruz,Nogales 12,Registered Voters - Nonpartisan,,,,,291,0,0,0
 Santa Cruz,Nogales 12,Ballots Cast - Total,,,,,125,101,24,0
 Santa Cruz,Nogales 12,Ballots Cast - Democratic,,,DEM,,108,86,22,0
 Santa Cruz,Nogales 12,Ballots Cast - Republican,,,REP,,16,14,2,0
@@ -2521,13 +2521,13 @@ Santa Cruz,Nogales 12,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tot
 Santa Cruz,Nogales 12,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,216,178,38,0
 Santa Cruz,Nogales 12,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,3,3,0,0
 Santa Cruz,Nogales 12,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,156,122,34,0
-Santa Cruz,Santa Cruz 13,Registered Voters - Total,,,,,443,443,443,443
-Santa Cruz,Santa Cruz 13,Registered Voters - Democratic,,,DEM,,185,185,185,185
-Santa Cruz,Santa Cruz 13,Registered Voters - Republican,,,REP,,88,88,88,88
-Santa Cruz,Santa Cruz 13,Registered Voters - Libertarian,,,LBT,,2,2,2,2
-Santa Cruz,Santa Cruz 13,Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,Santa Cruz 13,Registered Voters - No Labels Party,,,NOL,,4,4,4,4
-Santa Cruz,Santa Cruz 13,Registered Voters - Nonpartisan,,,,,163,163,163,163
+Santa Cruz,Santa Cruz 13,Registered Voters - Total,,,,,443,0,0,0
+Santa Cruz,Santa Cruz 13,Registered Voters - Democratic,,,DEM,,185,0,0,0
+Santa Cruz,Santa Cruz 13,Registered Voters - Republican,,,REP,,88,0,0,0
+Santa Cruz,Santa Cruz 13,Registered Voters - Libertarian,,,LBT,,2,0,0,0
+Santa Cruz,Santa Cruz 13,Registered Voters - Green,,,GRN,,1,0,0,0
+Santa Cruz,Santa Cruz 13,Registered Voters - No Labels Party,,,NOL,,4,0,0,0
+Santa Cruz,Santa Cruz 13,Registered Voters - Nonpartisan,,,,,163,0,0,0
 Santa Cruz,Santa Cruz 13,Ballots Cast - Total,,,,,126,73,53,0
 Santa Cruz,Santa Cruz 13,Ballots Cast - Democratic,,,DEM,,93,59,34,0
 Santa Cruz,Santa Cruz 13,Ballots Cast - Republican,,,REP,,32,13,19,0
@@ -2726,13 +2726,13 @@ Santa Cruz,Santa Cruz 13,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Santa Cruz 13,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Santa Cruz 13,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Santa Cruz 13,NOL Notice,,1,NOL,Undervotes,1,1,0,0
-Santa Cruz,Patagonia 14,Registered Voters - Total,,,,,905,905,905,905
-Santa Cruz,Patagonia 14,Registered Voters - Democratic,,,DEM,,452,452,452,452
-Santa Cruz,Patagonia 14,Registered Voters - Republican,,,REP,,146,146,146,146
-Santa Cruz,Patagonia 14,Registered Voters - Libertarian,,,LBT,,8,8,8,8
+Santa Cruz,Patagonia 14,Registered Voters - Total,,,,,905,0,0,0
+Santa Cruz,Patagonia 14,Registered Voters - Democratic,,,DEM,,452,0,0,0
+Santa Cruz,Patagonia 14,Registered Voters - Republican,,,REP,,146,0,0,0
+Santa Cruz,Patagonia 14,Registered Voters - Libertarian,,,LBT,,8,0,0,0
 Santa Cruz,Patagonia 14,Registered Voters - Green,,,GRN,,0,0,0,0
 Santa Cruz,Patagonia 14,Registered Voters - No Labels Party,,,NOL,,0,0,0,0
-Santa Cruz,Patagonia 14,Registered Voters - Nonpartisan,,,,,299,299,299,299
+Santa Cruz,Patagonia 14,Registered Voters - Nonpartisan,,,,,299,0,0,0
 Santa Cruz,Patagonia 14,Ballots Cast - Total,,,,,357,278,79,0
 Santa Cruz,Patagonia 14,Ballots Cast - Democratic,,,DEM,,282,227,55,0
 Santa Cruz,Patagonia 14,Ballots Cast - Republican,,,REP,,74,50,24,0
@@ -2930,13 +2930,13 @@ Santa Cruz,Patagonia 14,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Patagonia 14,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Patagonia 14,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Patagonia 14,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Sonoita 15,Registered Voters - Total,,,,,941,941,941,941
-Santa Cruz,Sonoita 15,Registered Voters - Democratic,,,DEM,,206,206,206,206
-Santa Cruz,Sonoita 15,Registered Voters - Republican,,,REP,,455,455,455,455
-Santa Cruz,Sonoita 15,Registered Voters - Libertarian,,,LBT,,5,5,5,5
+Santa Cruz,Sonoita 15,Registered Voters - Total,,,,,941,0,0,0
+Santa Cruz,Sonoita 15,Registered Voters - Democratic,,,DEM,,206,0,0,0
+Santa Cruz,Sonoita 15,Registered Voters - Republican,,,REP,,455,0,0,0
+Santa Cruz,Sonoita 15,Registered Voters - Libertarian,,,LBT,,5,0,0,0
 Santa Cruz,Sonoita 15,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Sonoita 15,Registered Voters - No Labels Party,,,NOL,,3,3,3,3
-Santa Cruz,Sonoita 15,Registered Voters - Nonpartisan,,,,,272,272,272,272
+Santa Cruz,Sonoita 15,Registered Voters - No Labels Party,,,NOL,,3,0,0,0
+Santa Cruz,Sonoita 15,Registered Voters - Nonpartisan,,,,,272,0,0,0
 Santa Cruz,Sonoita 15,Ballots Cast - Total,,,,,411,305,106,0
 Santa Cruz,Sonoita 15,Ballots Cast - Democratic,,,DEM,,145,133,12,0
 Santa Cruz,Sonoita 15,Ballots Cast - Republican,,,REP,,265,171,94,0
@@ -3134,13 +3134,13 @@ Santa Cruz,Sonoita 15,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Sonoita 15,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Sonoita 15,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Sonoita 15,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Nogales 16,Registered Voters - Total,,,,,569,569,569,569
-Santa Cruz,Nogales 16,Registered Voters - Democratic,,,DEM,,242,242,242,242
-Santa Cruz,Nogales 16,Registered Voters - Republican,,,REP,,49,49,49,49
-Santa Cruz,Nogales 16,Registered Voters - Libertarian,,,LBT,,2,2,2,2
+Santa Cruz,Nogales 16,Registered Voters - Total,,,,,569,0,0,0
+Santa Cruz,Nogales 16,Registered Voters - Democratic,,,DEM,,242,0,0,0
+Santa Cruz,Nogales 16,Registered Voters - Republican,,,REP,,49,0,0,0
+Santa Cruz,Nogales 16,Registered Voters - Libertarian,,,LBT,,2,0,0,0
 Santa Cruz,Nogales 16,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Nogales 16,Registered Voters - No Labels Party,,,NOL,,2,2,2,2
-Santa Cruz,Nogales 16,Registered Voters - Nonpartisan,,,,,274,274,274,274
+Santa Cruz,Nogales 16,Registered Voters - No Labels Party,,,NOL,,2,0,0,0
+Santa Cruz,Nogales 16,Registered Voters - Nonpartisan,,,,,274,0,0,0
 Santa Cruz,Nogales 16,Ballots Cast - Total,,,,,65,54,11,0
 Santa Cruz,Nogales 16,Ballots Cast - Democratic,,,DEM,,58,49,9,0
 Santa Cruz,Nogales 16,Ballots Cast - Republican,,,REP,,6,5,1,0
@@ -3346,13 +3346,13 @@ Santa Cruz,Nogales 16,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tot
 Santa Cruz,Nogales 16,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,93,81,12,0
 Santa Cruz,Nogales 16,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 16,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,102,81,21,0
-Santa Cruz,Calabasas 17,Registered Voters - Total,,,,,3360,3360,3360,3360
-Santa Cruz,Calabasas 17,Registered Voters - Democratic,,,DEM,,1517,1517,1517,1517
-Santa Cruz,Calabasas 17,Registered Voters - Republican,,,REP,,530,530,530,530
-Santa Cruz,Calabasas 17,Registered Voters - Libertarian,,,LBT,,15,15,15,15
-Santa Cruz,Calabasas 17,Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,Calabasas 17,Registered Voters - No Labels Party,,,NOL,,15,15,15,15
-Santa Cruz,Calabasas 17,Registered Voters - Nonpartisan,,,,,1282,1282,1282,1282
+Santa Cruz,Calabasas 17,Registered Voters - Total,,,,,3360,0,0,0
+Santa Cruz,Calabasas 17,Registered Voters - Democratic,,,DEM,,1517,0,0,0
+Santa Cruz,Calabasas 17,Registered Voters - Republican,,,REP,,530,0,0,0
+Santa Cruz,Calabasas 17,Registered Voters - Libertarian,,,LBT,,15,0,0,0
+Santa Cruz,Calabasas 17,Registered Voters - Green,,,GRN,,1,0,0,0
+Santa Cruz,Calabasas 17,Registered Voters - No Labels Party,,,NOL,,15,0,0,0
+Santa Cruz,Calabasas 17,Registered Voters - Nonpartisan,,,,,1282,0,0,0
 Santa Cruz,Calabasas 17,Ballots Cast - Total,,,,,792,639,151,2
 Santa Cruz,Calabasas 17,Ballots Cast - Democratic,,,DEM,,602,498,102,2
 Santa Cruz,Calabasas 17,Ballots Cast - Republican,,,REP,,190,141,49,0
@@ -3551,13 +3551,13 @@ Santa Cruz,Calabasas 17,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Calabasas 17,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Calabasas 17,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Calabasas 17,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Nogales 18,Registered Voters - Total,,,,,599,599,599,599
-Santa Cruz,Nogales 18,Registered Voters - Democratic,,,DEM,,313,313,313,313
-Santa Cruz,Nogales 18,Registered Voters - Republican,,,REP,,101,101,101,101
-Santa Cruz,Nogales 18,Registered Voters - Libertarian,,,LBT,,2,2,2,2
-Santa Cruz,Nogales 18,Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,Nogales 18,Registered Voters - No Labels Party,,,NOL,,2,2,2,2
-Santa Cruz,Nogales 18,Registered Voters - Nonpartisan,,,,,180,180,180,180
+Santa Cruz,Nogales 18,Registered Voters - Total,,,,,599,0,0,0
+Santa Cruz,Nogales 18,Registered Voters - Democratic,,,DEM,,313,0,0,0
+Santa Cruz,Nogales 18,Registered Voters - Republican,,,REP,,101,0,0,0
+Santa Cruz,Nogales 18,Registered Voters - Libertarian,,,LBT,,2,0,0,0
+Santa Cruz,Nogales 18,Registered Voters - Green,,,GRN,,1,0,0,0
+Santa Cruz,Nogales 18,Registered Voters - No Labels Party,,,NOL,,2,0,0,0
+Santa Cruz,Nogales 18,Registered Voters - Nonpartisan,,,,,180,0,0,0
 Santa Cruz,Nogales 18,Ballots Cast - Total,,,,,199,152,47,0
 Santa Cruz,Nogales 18,Ballots Cast - Democratic,,,DEM,,152,120,32,0
 Santa Cruz,Nogales 18,Ballots Cast - Republican,,,REP,,46,32,14,0
@@ -3763,13 +3763,13 @@ Santa Cruz,Nogales 18,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tot
 Santa Cruz,Nogales 18,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,351,275,76,0
 Santa Cruz,Nogales 18,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 18,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,246,181,65,0
-Santa Cruz,Baca 19,Registered Voters - Total,,,,,3055,3055,3055,3055
-Santa Cruz,Baca 19,Registered Voters - Democratic,,,DEM,,1372,1372,1372,1372
-Santa Cruz,Baca 19,Registered Voters - Republican,,,REP,,432,432,432,432
-Santa Cruz,Baca 19,Registered Voters - Libertarian,,,LBT,,13,13,13,13
-Santa Cruz,Baca 19,Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,Baca 19,Registered Voters - No Labels Party,,,NOL,,17,17,17,17
-Santa Cruz,Baca 19,Registered Voters - Nonpartisan,,,,,1220,1220,1220,1220
+Santa Cruz,Baca 19,Registered Voters - Total,,,,,3055,0,0,0
+Santa Cruz,Baca 19,Registered Voters - Democratic,,,DEM,,1372,0,0,0
+Santa Cruz,Baca 19,Registered Voters - Republican,,,REP,,432,0,0,0
+Santa Cruz,Baca 19,Registered Voters - Libertarian,,,LBT,,13,0,0,0
+Santa Cruz,Baca 19,Registered Voters - Green,,,GRN,,1,0,0,0
+Santa Cruz,Baca 19,Registered Voters - No Labels Party,,,NOL,,17,0,0,0
+Santa Cruz,Baca 19,Registered Voters - Nonpartisan,,,,,1220,0,0,0
 Santa Cruz,Baca 19,Ballots Cast - Total,,,,,635,513,119,3
 Santa Cruz,Baca 19,Ballots Cast - Democratic,,,DEM,,492,424,67,1
 Santa Cruz,Baca 19,Ballots Cast - Republican,,,REP,,139,87,50,2
@@ -3967,13 +3967,13 @@ Santa Cruz,Baca 19,Corporation Commissioner,,3,GRN,Undervotes,1,1,0,0
 Santa Cruz,Baca 19,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Baca 19,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Baca 19,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Nogales 20,Registered Voters - Total,,,,,1237,1237,1237,1237
-Santa Cruz,Nogales 20,Registered Voters - Democratic,,,DEM,,634,634,634,634
-Santa Cruz,Nogales 20,Registered Voters - Republican,,,REP,,125,125,125,125
-Santa Cruz,Nogales 20,Registered Voters - Libertarian,,,LBT,,3,3,3,3
-Santa Cruz,Nogales 20,Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,Nogales 20,Registered Voters - No Labels Party,,,NOL,,5,5,5,5
-Santa Cruz,Nogales 20,Registered Voters - Nonpartisan,,,,,469,469,469,469
+Santa Cruz,Nogales 20,Registered Voters - Total,,,,,1237,0,0,0
+Santa Cruz,Nogales 20,Registered Voters - Democratic,,,DEM,,634,0,0,0
+Santa Cruz,Nogales 20,Registered Voters - Republican,,,REP,,125,0,0,0
+Santa Cruz,Nogales 20,Registered Voters - Libertarian,,,LBT,,3,0,0,0
+Santa Cruz,Nogales 20,Registered Voters - Green,,,GRN,,1,0,0,0
+Santa Cruz,Nogales 20,Registered Voters - No Labels Party,,,NOL,,5,0,0,0
+Santa Cruz,Nogales 20,Registered Voters - Nonpartisan,,,,,469,0,0,0
 Santa Cruz,Nogales 20,Ballots Cast - Total,,,,,227,190,37,0
 Santa Cruz,Nogales 20,Ballots Cast - Democratic,,,DEM,,190,165,25,0
 Santa Cruz,Nogales 20,Ballots Cast - Republican,,,REP,,36,24,12,0
@@ -4179,13 +4179,13 @@ Santa Cruz,Nogales 20,Council Member,Nogales (and Coronado 05.1),3,,Write-In Tot
 Santa Cruz,Nogales 20,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,402,347,55,0
 Santa Cruz,Nogales 20,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
 Santa Cruz,Nogales 20,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,279,223,56,0
-Santa Cruz,Peck Canyon 21,Registered Voters - Total,,,,,2460,2460,2460,2460
-Santa Cruz,Peck Canyon 21,Registered Voters - Democratic,,,DEM,,1083,1083,1083,1083
-Santa Cruz,Peck Canyon 21,Registered Voters - Republican,,,REP,,367,367,367,367
-Santa Cruz,Peck Canyon 21,Registered Voters - Libertarian,,,LBT,,17,17,17,17
-Santa Cruz,Peck Canyon 21,Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,Peck Canyon 21,Registered Voters - No Labels Party,,,NOL,,15,15,15,15
-Santa Cruz,Peck Canyon 21,Registered Voters - Nonpartisan,,,,,977,977,977,977
+Santa Cruz,Peck Canyon 21,Registered Voters - Total,,,,,2460,0,0,0
+Santa Cruz,Peck Canyon 21,Registered Voters - Democratic,,,DEM,,1083,0,0,0
+Santa Cruz,Peck Canyon 21,Registered Voters - Republican,,,REP,,367,0,0,0
+Santa Cruz,Peck Canyon 21,Registered Voters - Libertarian,,,LBT,,17,0,0,0
+Santa Cruz,Peck Canyon 21,Registered Voters - Green,,,GRN,,1,0,0,0
+Santa Cruz,Peck Canyon 21,Registered Voters - No Labels Party,,,NOL,,15,0,0,0
+Santa Cruz,Peck Canyon 21,Registered Voters - Nonpartisan,,,,,977,0,0,0
 Santa Cruz,Peck Canyon 21,Ballots Cast - Total,,,,,445,367,78,0
 Santa Cruz,Peck Canyon 21,Ballots Cast - Democratic,,,DEM,,341,292,49,0
 Santa Cruz,Peck Canyon 21,Ballots Cast - Republican,,,REP,,104,75,29,0
@@ -4384,13 +4384,13 @@ Santa Cruz,Peck Canyon 21,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Peck Canyon 21,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Peck Canyon 21,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Peck Canyon 21,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Potrero 22,Registered Voters - Total,,,,,571,571,571,571
-Santa Cruz,Potrero 22,Registered Voters - Democratic,,,DEM,,293,293,293,293
-Santa Cruz,Potrero 22,Registered Voters - Republican,,,REP,,57,57,57,57
-Santa Cruz,Potrero 22,Registered Voters - Libertarian,,,LBT,,2,2,2,2
+Santa Cruz,Potrero 22,Registered Voters - Total,,,,,571,0,0,0
+Santa Cruz,Potrero 22,Registered Voters - Democratic,,,DEM,,293,0,0,0
+Santa Cruz,Potrero 22,Registered Voters - Republican,,,REP,,57,0,0,0
+Santa Cruz,Potrero 22,Registered Voters - Libertarian,,,LBT,,2,0,0,0
 Santa Cruz,Potrero 22,Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,Potrero 22,Registered Voters - No Labels Party,,,NOL,,2,2,2,2
-Santa Cruz,Potrero 22,Registered Voters - Nonpartisan,,,,,217,217,217,217
+Santa Cruz,Potrero 22,Registered Voters - No Labels Party,,,NOL,,2,0,0,0
+Santa Cruz,Potrero 22,Registered Voters - Nonpartisan,,,,,217,0,0,0
 Santa Cruz,Potrero 22,Ballots Cast - Total,,,,,119,96,23,0
 Santa Cruz,Potrero 22,Ballots Cast - Democratic,,,DEM,,104,86,18,0
 Santa Cruz,Potrero 22,Ballots Cast - Republican,,,REP,,15,10,5,0
@@ -4589,13 +4589,13 @@ Santa Cruz,Potrero 22,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Potrero 22,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Potrero 22,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Potrero 22,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Mountain 23,Registered Voters - Total,,,,,49,49,49,49
-Santa Cruz,Mountain 23,Registered Voters - Democratic,,,DEM,,17,17,17,17
-Santa Cruz,Mountain 23,Registered Voters - Republican,,,REP,,15,15,15,15
-Santa Cruz,Mountain 23,Registered Voters - Libertarian,,,LBT,,3,3,3,3
+Santa Cruz,Mountain 23,Registered Voters - Total,,,,,49,0,0,0
+Santa Cruz,Mountain 23,Registered Voters - Democratic,,,DEM,,17,0,0,0
+Santa Cruz,Mountain 23,Registered Voters - Republican,,,REP,,15,0,0,0
+Santa Cruz,Mountain 23,Registered Voters - Libertarian,,,LBT,,3,0,0,0
 Santa Cruz,Mountain 23,Registered Voters - Green,,,GRN,,0,0,0,0
 Santa Cruz,Mountain 23,Registered Voters - No Labels Party,,,NOL,,0,0,0,0
-Santa Cruz,Mountain 23,Registered Voters - Nonpartisan,,,,,14,14,14,14
+Santa Cruz,Mountain 23,Registered Voters - Nonpartisan,,,,,14,0,0,0
 Santa Cruz,Mountain 23,Ballots Cast - Total,,,,,22,22,0,0
 Santa Cruz,Mountain 23,Ballots Cast - Democratic,,,DEM,,15,15,0,0
 Santa Cruz,Mountain 23,Ballots Cast - Republican,,,REP,,7,7,0,0
@@ -4793,13 +4793,13 @@ Santa Cruz,Mountain 23,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Santa Cruz,Mountain 23,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
 Santa Cruz,Mountain 23,NOL Notice,,1,NOL,Overvotes,0,0,0,0
 Santa Cruz,Mountain 23,NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,Lake Patagonia 24,Registered Voters - Total,,,,,144,144,144,144
-Santa Cruz,Lake Patagonia 24,Registered Voters - Democratic,,,DEM,,55,55,55,55
-Santa Cruz,Lake Patagonia 24,Registered Voters - Republican,,,REP,,39,39,39,39
-Santa Cruz,Lake Patagonia 24,Registered Voters - Libertarian,,,LBT,,2,2,2,2
+Santa Cruz,Lake Patagonia 24,Registered Voters - Total,,,,,144,0,0,0
+Santa Cruz,Lake Patagonia 24,Registered Voters - Democratic,,,DEM,,55,0,0,0
+Santa Cruz,Lake Patagonia 24,Registered Voters - Republican,,,REP,,39,0,0,0
+Santa Cruz,Lake Patagonia 24,Registered Voters - Libertarian,,,LBT,,2,0,0,0
 Santa Cruz,Lake Patagonia 24,Registered Voters - Green,,,GRN,,0,0,0,0
 Santa Cruz,Lake Patagonia 24,Registered Voters - No Labels Party,,,NOL,,0,0,0,0
-Santa Cruz,Lake Patagonia 24,Registered Voters - Nonpartisan,,,,,48,48,48,48
+Santa Cruz,Lake Patagonia 24,Registered Voters - Nonpartisan,,,,,48,0,0,0
 Santa Cruz,Lake Patagonia 24,Ballots Cast - Total,,,,,69,55,14,0
 Santa Cruz,Lake Patagonia 24,Ballots Cast - Democratic,,,DEM,,40,40,0,0
 Santa Cruz,Lake Patagonia 24,Ballots Cast - Republican,,,REP,,27,13,14,0
