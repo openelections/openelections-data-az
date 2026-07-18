@@ -8,7 +8,7 @@ Apache,02 ALPINE,Registered Voters - No Labels,,,NOL,,1,1,1,1
 Apache,02 ALPINE,Registered Voters - Nonpartisan,,,Nonpartisan,,121,121,121,121
 Apache,02 ALPINE,Ballots Cast - Total,,,,,225,199,24,2
 Apache,02 ALPINE,Ballots Cast - Democratic,,,DEM,,46,40,5,1
-Apache,02 ALPINE,Ballots Cast - Republican,,,REP,,179,159,19,159
+Apache,02 ALPINE,Ballots Cast - Republican,,,REP,,179,159,19,1
 Apache,02 ALPINE,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
 Apache,02 ALPINE,Ballots Cast - Green,,,GRN,,0,0,0,0
 Apache,02 ALPINE,Ballots Cast - No Labels,,,NOL,,0,0,0,0
@@ -377,7 +377,7 @@ Apache,05 CHINLE,Registered Voters - Green,,,GRN,,1,1,1,1
 Apache,05 CHINLE,Registered Voters - No Labels,,,NOL,,12,12,12,12
 Apache,05 CHINLE,Registered Voters - Nonpartisan,,,Nonpartisan,,662,662,662,662
 Apache,05 CHINLE,Ballots Cast - Total,,,,,416,243,171,2
-Apache,05 CHINLE,Ballots Cast - Democratic,,,DEM,,357,213,143,213
+Apache,05 CHINLE,Ballots Cast - Democratic,,,DEM,,357,213,143,1
 Apache,05 CHINLE,Ballots Cast - Republican,,,REP,,57,30,26,1
 Apache,05 CHINLE,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
 Apache,05 CHINLE,Ballots Cast - Green,,,GRN,,1,0,1,0
@@ -746,8 +746,8 @@ Apache,10 CORNFIELDS,Registered Voters - Libertarian,,,LBT,,2,2,2,2
 Apache,10 CORNFIELDS,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,10 CORNFIELDS,Registered Voters - No Labels,,,NOL,,3,3,3,3
 Apache,10 CORNFIELDS,Registered Voters - Nonpartisan,,,Nonpartisan,,123,123,123,123
-Apache,10 CORNFIELDS,Ballots Cast - Total,,,,,262,106,154,106
-Apache,10 CORNFIELDS,Ballots Cast - Democratic,,,DEM,,235,96,137,96
+Apache,10 CORNFIELDS,Ballots Cast - Total,,,,,262,106,154,2
+Apache,10 CORNFIELDS,Ballots Cast - Democratic,,,DEM,,235,96,137,2
 Apache,10 CORNFIELDS,Ballots Cast - Republican,,,REP,,25,9,16,0
 Apache,10 CORNFIELDS,Ballots Cast - Libertarian,,,LBT,,1,1,0,0
 Apache,10 CORNFIELDS,Ballots Cast - Green,,,GRN,,0,0,0,0
@@ -1505,7 +1505,7 @@ Apache,16 EAGAR,Registered Voters - No Labels,,,NOL,,3,3,3,3
 Apache,16 EAGAR,Registered Voters - Nonpartisan,,,Nonpartisan,,313,313,313,313
 Apache,16 EAGAR,Ballots Cast - Total,,,,,541,415,111,15
 Apache,16 EAGAR,Ballots Cast - Democratic,,,DEM,,89,75,12,2
-Apache,16 EAGAR,Ballots Cast - Republican,,,REP,,447,336,98,336
+Apache,16 EAGAR,Ballots Cast - Republican,,,REP,,447,336,98,13
 Apache,16 EAGAR,Ballots Cast - Libertarian,,,LBT,,2,1,1,0
 Apache,16 EAGAR,Ballots Cast - Green,,,GRN,,0,0,0,0
 Apache,16 EAGAR,Ballots Cast - No Labels,,,NOL,,1,1,0,0
@@ -3396,7 +3396,7 @@ Apache,35 LUPTON,Registered Voters - Libertarian,,,LBT,,3,3,3,3
 Apache,35 LUPTON,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,35 LUPTON,Registered Voters - No Labels,,,NOL,,0,0,0,0
 Apache,35 LUPTON,Registered Voters - Nonpartisan,,,Nonpartisan,,109,109,109,109
-Apache,35 LUPTON,Ballots Cast - Total,,,,,197,81,90,81
+Apache,35 LUPTON,Ballots Cast - Total,,,,,197,81,90,26
 Apache,35 LUPTON,Ballots Cast - Democratic,,,DEM,,173,75,74,24
 Apache,35 LUPTON,Ballots Cast - Republican,,,REP,,24,6,16,2
 Apache,35 LUPTON,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
@@ -3766,7 +3766,7 @@ Apache,39 MANY FARMS,Registered Voters - Libertarian,,,LBT,,9,9,9,9
 Apache,39 MANY FARMS,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,39 MANY FARMS,Registered Voters - No Labels,,,NOL,,3,3,3,3
 Apache,39 MANY FARMS,Registered Voters - Nonpartisan,,,Nonpartisan,,572,572,572,572
-Apache,39 MANY FARMS,Ballots Cast - Total,,,,,435,252,129,252
+Apache,39 MANY FARMS,Ballots Cast - Total,,,,,435,252,129,54
 Apache,39 MANY FARMS,Ballots Cast - Democratic,,,DEM,,408,238,118,52
 Apache,39 MANY FARMS,Ballots Cast - Republican,,,REP,,26,14,10,2
 Apache,39 MANY FARMS,Ballots Cast - Libertarian,,,LBT,,1,0,1,0
@@ -3951,7 +3951,7 @@ Apache,41 MEXICAN WATER,Registered Voters - Libertarian,,,LBT,,1,1,1,1
 Apache,41 MEXICAN WATER,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,41 MEXICAN WATER,Registered Voters - No Labels,,,NOL,,0,0,0,0
 Apache,41 MEXICAN WATER,Registered Voters - Nonpartisan,,,Nonpartisan,,110,110,110,110
-Apache,41 MEXICAN WATER,Ballots Cast - Total,,,,,60,36,23,36
+Apache,41 MEXICAN WATER,Ballots Cast - Total,,,,,60,36,23,1
 Apache,41 MEXICAN WATER,Ballots Cast - Democratic,,,DEM,,51,32,19,0
 Apache,41 MEXICAN WATER,Ballots Cast - Republican,,,REP,,9,4,4,1
 Apache,41 MEXICAN WATER,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
@@ -5619,7 +5619,7 @@ Apache,58 ROUND ROCK,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,58 ROUND ROCK,Registered Voters - No Labels,,,NOL,,8,8,8,8
 Apache,58 ROUND ROCK,Registered Voters - Nonpartisan,,,Nonpartisan,,239,239,239,239
 Apache,58 ROUND ROCK,Ballots Cast - Total,,,,,245,85,125,35
-Apache,58 ROUND ROCK,Ballots Cast - Democratic,,,DEM,,222,80,112,80
+Apache,58 ROUND ROCK,Ballots Cast - Democratic,,,DEM,,222,80,112,30
 Apache,58 ROUND ROCK,Ballots Cast - Republican,,,REP,,21,5,11,5
 Apache,58 ROUND ROCK,Ballots Cast - Libertarian,,,LBT,,1,0,1,0
 Apache,58 ROUND ROCK,Ballots Cast - Green,,,GRN,,0,0,0,0
@@ -5805,7 +5805,7 @@ Apache,59 ROUND VALLEY,Registered Voters - No Labels,,,NOL,,5,5,5,5
 Apache,59 ROUND VALLEY,Registered Voters - Nonpartisan,,,Nonpartisan,,280,280,280,280
 Apache,59 ROUND VALLEY,Ballots Cast - Total,,,,,381,253,107,21
 Apache,59 ROUND VALLEY,Ballots Cast - Democratic,,,DEM,,57,49,8,0
-Apache,59 ROUND VALLEY,Ballots Cast - Republican,,,REP,,321,201,99,201
+Apache,59 ROUND VALLEY,Ballots Cast - Republican,,,REP,,321,201,99,21
 Apache,59 ROUND VALLEY,Ballots Cast - Libertarian,,,LBT,,1,1,0,0
 Apache,59 ROUND VALLEY,Ballots Cast - Green,,,GRN,,0,0,0,0
 Apache,59 ROUND VALLEY,Ballots Cast - No Labels,,,NOL,,0,0,0,0
@@ -6010,7 +6010,7 @@ Apache,61 ST. JOHNS,Registered Voters - Nonpartisan,,,Nonpartisan,,472,472,472,4
 Apache,61 ST. JOHNS,Ballots Cast - Total,,,,,466,301,164,1
 Apache,61 ST. JOHNS,Ballots Cast - Democratic,,,DEM,,131,94,37,0
 Apache,61 ST. JOHNS,Ballots Cast - Republican,,,REP,,326,203,122,1
-Apache,61 ST. JOHNS,Ballots Cast - Libertarian,,,LBT,,3,1,2,1
+Apache,61 ST. JOHNS,Ballots Cast - Libertarian,,,LBT,,3,1,2,0
 Apache,61 ST. JOHNS,Ballots Cast - Green,,,GRN,,0,0,0,0
 Apache,61 ST. JOHNS,Ballots Cast - No Labels,,,NOL,,0,0,0,0
 Apache,61 ST. JOHNS,Ballots Cast - Nonpartisan,,,Nonpartisan,,6,3,3,0
@@ -6579,7 +6579,7 @@ Apache,70 SPRINGERVILLE,Registered Voters - Libertarian,,,LBT,,9,9,9,9
 Apache,70 SPRINGERVILLE,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,70 SPRINGERVILLE,Registered Voters - No Labels,,,NOL,,7,7,7,7
 Apache,70 SPRINGERVILLE,Registered Voters - Nonpartisan,,,Nonpartisan,,268,268,268,268
-Apache,70 SPRINGERVILLE,Ballots Cast - Total,,,,,362,273,79,273
+Apache,70 SPRINGERVILLE,Ballots Cast - Total,,,,,362,273,79,10
 Apache,70 SPRINGERVILLE,Ballots Cast - Democratic,,,DEM,,100,83,16,1
 Apache,70 SPRINGERVILLE,Ballots Cast - Republican,,,REP,,258,188,61,9
 Apache,70 SPRINGERVILLE,Ballots Cast - Libertarian,,,LBT,,3,1,2,0
@@ -6772,7 +6772,7 @@ Apache,74 STEAMBOAT,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,74 STEAMBOAT,Registered Voters - No Labels,,,NOL,,2,2,2,2
 Apache,74 STEAMBOAT,Registered Voters - Nonpartisan,,,Nonpartisan,,276,276,276,276
 Apache,74 STEAMBOAT,Ballots Cast - Total,,,,,458,273,184,1
-Apache,74 STEAMBOAT,Ballots Cast - Democratic,,,DEM,,429,256,172,256
+Apache,74 STEAMBOAT,Ballots Cast - Democratic,,,DEM,,429,256,172,1
 Apache,74 STEAMBOAT,Ballots Cast - Republican,,,REP,,29,17,12,0
 Apache,74 STEAMBOAT,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
 Apache,74 STEAMBOAT,Ballots Cast - Green,,,GRN,,0,0,0,0
@@ -7143,9 +7143,9 @@ Apache,78 TACHEE,Registered Voters - Libertarian,,,LBT,,1,1,1,1
 Apache,78 TACHEE,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,78 TACHEE,Registered Voters - No Labels,,,NOL,,2,2,2,2
 Apache,78 TACHEE,Registered Voters - Nonpartisan,,,Nonpartisan,,146,146,146,146
-Apache,78 TACHEE,Ballots Cast - Total,,,,,131,58,73,58
+Apache,78 TACHEE,Ballots Cast - Total,,,,,131,58,73,0
 Apache,78 TACHEE,Ballots Cast - Democratic,,,DEM,,118,51,67,0
-Apache,78 TACHEE,Ballots Cast - Republican,,,REP,,13,7,6,7
+Apache,78 TACHEE,Ballots Cast - Republican,,,REP,,13,7,6,0
 Apache,78 TACHEE,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
 Apache,78 TACHEE,Ballots Cast - Green,,,GRN,,0,0,0,0
 Apache,78 TACHEE,Ballots Cast - No Labels,,,NOL,,0,0,0,0
@@ -7328,8 +7328,8 @@ Apache,80 TEEC NOS POS,Registered Voters - Libertarian,,,LBT,,3,3,3,3
 Apache,80 TEEC NOS POS,Registered Voters - Green,,,GRN,,2,2,2,2
 Apache,80 TEEC NOS POS,Registered Voters - No Labels,,,NOL,,2,2,2,2
 Apache,80 TEEC NOS POS,Registered Voters - Nonpartisan,,,Nonpartisan,,232,232,232,232
-Apache,80 TEEC NOS POS,Ballots Cast - Total,,,,,177,83,91,83
-Apache,80 TEEC NOS POS,Ballots Cast - Democratic,,,DEM,,150,71,76,71
+Apache,80 TEEC NOS POS,Ballots Cast - Total,,,,,177,83,91,3
+Apache,80 TEEC NOS POS,Ballots Cast - Democratic,,,DEM,,150,71,76,3
 Apache,80 TEEC NOS POS,Ballots Cast - Republican,,,REP,,27,12,15,0
 Apache,80 TEEC NOS POS,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
 Apache,80 TEEC NOS POS,Ballots Cast - Green,,,GRN,,0,0,0,0
