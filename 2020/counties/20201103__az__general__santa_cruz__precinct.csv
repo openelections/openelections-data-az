@@ -30,8 +30,8 @@ Santa Cruz,Nogales 1,State House,2,DEM,"DALESSANDRO, ANDREA",231
 Santa Cruz,Nogales 1,State House,2,DEM,"HERNANDEZ JR., DANIEL",241
 Santa Cruz,Nogales 1,State House,2,REP,"MCEWEN, DEBORAH",56
 Santa Cruz,Nogales 1,State House,2,,Write-In Totals,0
-Santa Cruz,Nogales 1,State House,2,,Write-In: Invalid Write-In,1,0
-Santa Cruz,Nogales 1,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 1,State House,2,,Write-In: Invalid Write-In (1),0
+Santa Cruz,Nogales 1,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 1,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 1,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",206
 Santa Cruz,Nogales 1,Corporation Commissioner,,DEM,"STANFIELD, SHEA",189
@@ -41,9 +41,9 @@ Santa Cruz,Nogales 1,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",51
 Santa Cruz,Nogales 1,Corporation Commissioner,,REP,"SLOAN, ERIC",47
 Santa Cruz,Nogales 1,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Nogales 1,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 1,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Nogales 1,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 1,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Nogales 1,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 1,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 1,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 1,County Assessor,,DEM,"RAMOS, PABLO A.",316
 Santa Cruz,Nogales 1,County Assessor,,,Write-In Totals,5
@@ -144,8 +144,8 @@ Santa Cruz,Nogales 2,State House,2,DEM,"DALESSANDRO, ANDREA",474
 Santa Cruz,Nogales 2,State House,2,DEM,"HERNANDEZ JR., DANIEL",579
 Santa Cruz,Nogales 2,State House,2,REP,"MCEWEN, DEBORAH",118
 Santa Cruz,Nogales 2,State House,2,,Write-In Totals,3
-Santa Cruz,Nogales 2,State House,2,,Write-In: Invalid Write-In,1,3
-Santa Cruz,Nogales 2,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 2,State House,2,,Write-In: Invalid Write-In (1),3
+Santa Cruz,Nogales 2,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 2,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 2,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",413
 Santa Cruz,Nogales 2,Corporation Commissioner,,DEM,"STANFIELD, SHEA",428
@@ -155,9 +155,9 @@ Santa Cruz,Nogales 2,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",109
 Santa Cruz,Nogales 2,Corporation Commissioner,,REP,"SLOAN, ERIC",96
 Santa Cruz,Nogales 2,Corporation Commissioner,,,Write-In Totals,2
 Santa Cruz,Nogales 2,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 2,Corporation Commissioner,,,Write-In: Invalid Write-in,1,1
-Santa Cruz,Nogales 2,Corporation Commissioner,,,Write-In: Invalid Write-in,2,1
-Santa Cruz,Nogales 2,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,,Write-In: Invalid Write-in (1),1
+Santa Cruz,Nogales 2,Corporation Commissioner,,,Write-In: Invalid Write-in (2),1
+Santa Cruz,Nogales 2,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 2,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 2,County Assessor,,DEM,"RAMOS, PABLO A.",716
 Santa Cruz,Nogales 2,County Assessor,,,Write-In Totals,7
@@ -258,8 +258,8 @@ Santa Cruz,Nogales 3,State House,2,DEM,"DALESSANDRO, ANDREA",298
 Santa Cruz,Nogales 3,State House,2,DEM,"HERNANDEZ JR., DANIEL",354
 Santa Cruz,Nogales 3,State House,2,REP,"MCEWEN, DEBORAH",109
 Santa Cruz,Nogales 3,State House,2,,Write-In Totals,0
-Santa Cruz,Nogales 3,State House,2,,Write-In: Invalid Write-In,1,0
-Santa Cruz,Nogales 3,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 3,State House,2,,Write-In: Invalid Write-In (1),0
+Santa Cruz,Nogales 3,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 3,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 3,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",271
 Santa Cruz,Nogales 3,Corporation Commissioner,,DEM,"STANFIELD, SHEA",252
@@ -269,9 +269,9 @@ Santa Cruz,Nogales 3,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",96
 Santa Cruz,Nogales 3,Corporation Commissioner,,REP,"SLOAN, ERIC",79
 Santa Cruz,Nogales 3,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Nogales 3,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 3,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Nogales 3,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 3,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 3,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Nogales 3,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 3,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 3,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 3,County Assessor,,DEM,"RAMOS, PABLO A.",457
 Santa Cruz,Nogales 3,County Assessor,,,Write-In Totals,8
@@ -372,8 +372,8 @@ Santa Cruz,Nogales 4,State House,2,DEM,"DALESSANDRO, ANDREA",159
 Santa Cruz,Nogales 4,State House,2,DEM,"HERNANDEZ JR., DANIEL",184
 Santa Cruz,Nogales 4,State House,2,REP,"MCEWEN, DEBORAH",46
 Santa Cruz,Nogales 4,State House,2,,Write-In Totals,2
-Santa Cruz,Nogales 4,State House,2,,Write-In: Invalid Write-In,1,2
-Santa Cruz,Nogales 4,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 4,State House,2,,Write-In: Invalid Write-In (1),2
+Santa Cruz,Nogales 4,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 4,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 4,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",157
 Santa Cruz,Nogales 4,Corporation Commissioner,,DEM,"STANFIELD, SHEA",151
@@ -383,9 +383,9 @@ Santa Cruz,Nogales 4,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",33
 Santa Cruz,Nogales 4,Corporation Commissioner,,REP,"SLOAN, ERIC",30
 Santa Cruz,Nogales 4,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Nogales 4,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 4,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Nogales 4,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 4,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 4,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Nogales 4,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 4,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 4,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 4,County Assessor,,DEM,"RAMOS, PABLO A.",214
 Santa Cruz,Nogales 4,County Assessor,,,Write-In Totals,3
@@ -486,8 +486,8 @@ Santa Cruz,Coronado 5,State House,2,DEM,"DALESSANDRO, ANDREA",571
 Santa Cruz,Coronado 5,State House,2,DEM,"HERNANDEZ JR., DANIEL",580
 Santa Cruz,Coronado 5,State House,2,REP,"MCEWEN, DEBORAH",193
 Santa Cruz,Coronado 5,State House,2,,Write-In Totals,7
-Santa Cruz,Coronado 5,State House,2,,Write-In: Invalid Write-In,1,7
-Santa Cruz,Coronado 5,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Coronado 5,State House,2,,Write-In: Invalid Write-In (1),7
+Santa Cruz,Coronado 5,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Coronado 5,State House,2,,Not Assigned,0
 Santa Cruz,Coronado 5,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",487
 Santa Cruz,Coronado 5,Corporation Commissioner,,DEM,"STANFIELD, SHEA",473
@@ -497,9 +497,9 @@ Santa Cruz,Coronado 5,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",17
 Santa Cruz,Coronado 5,Corporation Commissioner,,REP,"SLOAN, ERIC",166
 Santa Cruz,Coronado 5,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Coronado 5,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Coronado 5,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Coronado 5,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Coronado 5,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Coronado 5,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Coronado 5,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Coronado 5,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Coronado 5,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Coronado 5,County Assessor,,DEM,"RAMOS, PABLO A.",795
 Santa Cruz,Coronado 5,County Assessor,,,Write-In Totals,10
@@ -602,8 +602,8 @@ Santa Cruz,Elgin 6,State House,2,DEM,"DALESSANDRO, ANDREA",184
 Santa Cruz,Elgin 6,State House,2,DEM,"HERNANDEZ JR., DANIEL",188
 Santa Cruz,Elgin 6,State House,2,REP,"MCEWEN, DEBORAH",358
 Santa Cruz,Elgin 6,State House,2,,Write-In Totals,2
-Santa Cruz,Elgin 6,State House,2,,Write-In: Invalid Write-In,1,1
-Santa Cruz,Elgin 6,State House,2,,Write-In: Invalid Write-In,2,1
+Santa Cruz,Elgin 6,State House,2,,Write-In: Invalid Write-In (1),1
+Santa Cruz,Elgin 6,State House,2,,Write-In: Invalid Write-In (2),1
 Santa Cruz,Elgin 6,State House,2,,Not Assigned,0
 Santa Cruz,Elgin 6,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",170
 Santa Cruz,Elgin 6,Corporation Commissioner,,DEM,"STANFIELD, SHEA",173
@@ -613,9 +613,9 @@ Santa Cruz,Elgin 6,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",309
 Santa Cruz,Elgin 6,Corporation Commissioner,,REP,"SLOAN, ERIC",300
 Santa Cruz,Elgin 6,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Elgin 6,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Elgin 6,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Elgin 6,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Elgin 6,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Elgin 6,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Elgin 6,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Elgin 6,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Elgin 6,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Elgin 6,County Assessor,,DEM,"RAMOS, PABLO A.",286
 Santa Cruz,Elgin 6,County Assessor,,,Write-In Totals,16
@@ -695,8 +695,8 @@ Santa Cruz,Rio Rico 7,State House,2,DEM,"DALESSANDRO, ANDREA",1291
 Santa Cruz,Rio Rico 7,State House,2,DEM,"HERNANDEZ JR., DANIEL",1440
 Santa Cruz,Rio Rico 7,State House,2,REP,"MCEWEN, DEBORAH",958
 Santa Cruz,Rio Rico 7,State House,2,,Write-In Totals,19
-Santa Cruz,Rio Rico 7,State House,2,,Write-In: Invalid Write-In,1,17
-Santa Cruz,Rio Rico 7,State House,2,,Write-In: Invalid Write-In,2,2
+Santa Cruz,Rio Rico 7,State House,2,,Write-In: Invalid Write-In (1),17
+Santa Cruz,Rio Rico 7,State House,2,,Write-In: Invalid Write-In (2),2
 Santa Cruz,Rio Rico 7,State House,2,,Not Assigned,0
 Santa Cruz,Rio Rico 7,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",1195
 Santa Cruz,Rio Rico 7,Corporation Commissioner,,DEM,"STANFIELD, SHEA",1128
@@ -706,9 +706,9 @@ Santa Cruz,Rio Rico 7,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",78
 Santa Cruz,Rio Rico 7,Corporation Commissioner,,REP,"SLOAN, ERIC",703
 Santa Cruz,Rio Rico 7,Corporation Commissioner,,,Write-In Totals,7
 Santa Cruz,Rio Rico 7,Corporation Commissioner,,,"Write-In: Gibson, Christina",1
-Santa Cruz,Rio Rico 7,Corporation Commissioner,,,Write-In: Invalid Write-in,1,3
-Santa Cruz,Rio Rico 7,Corporation Commissioner,,,Write-In: Invalid Write-in,2,2
-Santa Cruz,Rio Rico 7,Corporation Commissioner,,,Write-In: Invalid Write-in,3,1
+Santa Cruz,Rio Rico 7,Corporation Commissioner,,,Write-In: Invalid Write-in (1),3
+Santa Cruz,Rio Rico 7,Corporation Commissioner,,,Write-In: Invalid Write-in (2),2
+Santa Cruz,Rio Rico 7,Corporation Commissioner,,,Write-In: Invalid Write-in (3),1
 Santa Cruz,Rio Rico 7,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Rio Rico 7,County Assessor,,DEM,"RAMOS, PABLO A.",2112
 Santa Cruz,Rio Rico 7,County Assessor,,,Write-In Totals,50
@@ -790,8 +790,8 @@ Santa Cruz,Nogales 8,State House,2,DEM,"DALESSANDRO, ANDREA",836
 Santa Cruz,Nogales 8,State House,2,DEM,"HERNANDEZ JR., DANIEL",884
 Santa Cruz,Nogales 8,State House,2,REP,"MCEWEN, DEBORAH",196
 Santa Cruz,Nogales 8,State House,2,,Write-In Totals,3
-Santa Cruz,Nogales 8,State House,2,,Write-In: Invalid Write-In,1,3
-Santa Cruz,Nogales 8,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 8,State House,2,,Write-In: Invalid Write-In (1),3
+Santa Cruz,Nogales 8,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 8,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 8,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",651
 Santa Cruz,Nogales 8,Corporation Commissioner,,DEM,"STANFIELD, SHEA",657
@@ -801,9 +801,9 @@ Santa Cruz,Nogales 8,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",193
 Santa Cruz,Nogales 8,Corporation Commissioner,,REP,"SLOAN, ERIC",159
 Santa Cruz,Nogales 8,Corporation Commissioner,,,Write-In Totals,4
 Santa Cruz,Nogales 8,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 8,Corporation Commissioner,,,Write-In: Invalid Write-in,1,4
-Santa Cruz,Nogales 8,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 8,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 8,Corporation Commissioner,,,Write-In: Invalid Write-in (1),4
+Santa Cruz,Nogales 8,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 8,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 8,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 8,County Assessor,,DEM,"RAMOS, PABLO A.",1182
 Santa Cruz,Nogales 8,County Assessor,,,Write-In Totals,18
@@ -904,8 +904,8 @@ Santa Cruz,Nogales 9,State House,2,DEM,"DALESSANDRO, ANDREA",152
 Santa Cruz,Nogales 9,State House,2,DEM,"HERNANDEZ JR., DANIEL",141
 Santa Cruz,Nogales 9,State House,2,REP,"MCEWEN, DEBORAH",83
 Santa Cruz,Nogales 9,State House,2,,Write-In Totals,1
-Santa Cruz,Nogales 9,State House,2,,Write-In: Invalid Write-In,1,1
-Santa Cruz,Nogales 9,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 9,State House,2,,Write-In: Invalid Write-In (1),1
+Santa Cruz,Nogales 9,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 9,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 9,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",117
 Santa Cruz,Nogales 9,Corporation Commissioner,,DEM,"STANFIELD, SHEA",103
@@ -915,9 +915,9 @@ Santa Cruz,Nogales 9,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",79
 Santa Cruz,Nogales 9,Corporation Commissioner,,REP,"SLOAN, ERIC",70
 Santa Cruz,Nogales 9,Corporation Commissioner,,,Write-In Totals,2
 Santa Cruz,Nogales 9,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 9,Corporation Commissioner,,,Write-In: Invalid Write-in,1,2
-Santa Cruz,Nogales 9,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 9,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 9,Corporation Commissioner,,,Write-In: Invalid Write-in (1),2
+Santa Cruz,Nogales 9,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 9,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 9,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 9,County Assessor,,DEM,"RAMOS, PABLO A.",216
 Santa Cruz,Nogales 9,County Assessor,,,Write-In Totals,5
@@ -1018,8 +1018,8 @@ Santa Cruz,Nogales 10,State House,2,DEM,"DALESSANDRO, ANDREA",376
 Santa Cruz,Nogales 10,State House,2,DEM,"HERNANDEZ JR., DANIEL",402
 Santa Cruz,Nogales 10,State House,2,REP,"MCEWEN, DEBORAH",130
 Santa Cruz,Nogales 10,State House,2,,Write-In Totals,6
-Santa Cruz,Nogales 10,State House,2,,Write-In: Invalid Write-In,1,6
-Santa Cruz,Nogales 10,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 10,State House,2,,Write-In: Invalid Write-In (1),6
+Santa Cruz,Nogales 10,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 10,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 10,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",317
 Santa Cruz,Nogales 10,Corporation Commissioner,,DEM,"STANFIELD, SHEA",288
@@ -1029,9 +1029,9 @@ Santa Cruz,Nogales 10,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",10
 Santa Cruz,Nogales 10,Corporation Commissioner,,REP,"SLOAN, ERIC",95
 Santa Cruz,Nogales 10,Corporation Commissioner,,,Write-In Totals,4
 Santa Cruz,Nogales 10,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 10,Corporation Commissioner,,,Write-In: Invalid Write-in,1,4
-Santa Cruz,Nogales 10,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 10,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 10,Corporation Commissioner,,,Write-In: Invalid Write-in (1),4
+Santa Cruz,Nogales 10,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 10,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 10,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 10,County Assessor,,DEM,"RAMOS, PABLO A.",576
 Santa Cruz,Nogales 10,County Assessor,,,Write-In Totals,11
@@ -1132,8 +1132,8 @@ Santa Cruz,Tubac 11,State House,2,DEM,"DALESSANDRO, ANDREA",871
 Santa Cruz,Tubac 11,State House,2,DEM,"HERNANDEZ JR., DANIEL",827
 Santa Cruz,Tubac 11,State House,2,REP,"MCEWEN, DEBORAH",610
 Santa Cruz,Tubac 11,State House,2,,Write-In Totals,1
-Santa Cruz,Tubac 11,State House,2,,Write-In: Invalid Write-In,1,1
-Santa Cruz,Tubac 11,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Tubac 11,State House,2,,Write-In: Invalid Write-In (1),1
+Santa Cruz,Tubac 11,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Tubac 11,State House,2,,Not Assigned,0
 Santa Cruz,Tubac 11,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",784
 Santa Cruz,Tubac 11,Corporation Commissioner,,DEM,"STANFIELD, SHEA",782
@@ -1143,9 +1143,9 @@ Santa Cruz,Tubac 11,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",530
 Santa Cruz,Tubac 11,Corporation Commissioner,,REP,"SLOAN, ERIC",520
 Santa Cruz,Tubac 11,Corporation Commissioner,,,Write-In Totals,1
 Santa Cruz,Tubac 11,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Tubac 11,Corporation Commissioner,,,Write-In: Invalid Write-in,1,1
-Santa Cruz,Tubac 11,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Tubac 11,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Tubac 11,Corporation Commissioner,,,Write-In: Invalid Write-in (1),1
+Santa Cruz,Tubac 11,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Tubac 11,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Tubac 11,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Tubac 11,County Assessor,,DEM,"RAMOS, PABLO A.",1131
 Santa Cruz,Tubac 11,County Assessor,,,Write-In Totals,17
@@ -1227,8 +1227,8 @@ Santa Cruz,Nogales 12,State House,2,DEM,"DALESSANDRO, ANDREA",235
 Santa Cruz,Nogales 12,State House,2,DEM,"HERNANDEZ JR., DANIEL",281
 Santa Cruz,Nogales 12,State House,2,REP,"MCEWEN, DEBORAH",56
 Santa Cruz,Nogales 12,State House,2,,Write-In Totals,1
-Santa Cruz,Nogales 12,State House,2,,Write-In: Invalid Write-In,1,1
-Santa Cruz,Nogales 12,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 12,State House,2,,Write-In: Invalid Write-In (1),1
+Santa Cruz,Nogales 12,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 12,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 12,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",222
 Santa Cruz,Nogales 12,Corporation Commissioner,,DEM,"STANFIELD, SHEA",211
@@ -1238,9 +1238,9 @@ Santa Cruz,Nogales 12,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",45
 Santa Cruz,Nogales 12,Corporation Commissioner,,REP,"SLOAN, ERIC",35
 Santa Cruz,Nogales 12,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Nogales 12,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 12,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Nogales 12,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 12,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 12,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Nogales 12,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 12,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 12,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 12,County Assessor,,DEM,"RAMOS, PABLO A.",344
 Santa Cruz,Nogales 12,County Assessor,,,Write-In Totals,1
@@ -1341,8 +1341,8 @@ Santa Cruz,Santa Cruz 13,State House,2,DEM,"DALESSANDRO, ANDREA",146
 Santa Cruz,Santa Cruz 13,State House,2,DEM,"HERNANDEZ JR., DANIEL",166
 Santa Cruz,Santa Cruz 13,State House,2,REP,"MCEWEN, DEBORAH",89
 Santa Cruz,Santa Cruz 13,State House,2,,Write-In Totals,1
-Santa Cruz,Santa Cruz 13,State House,2,,Write-In: Invalid Write-In,1,1
-Santa Cruz,Santa Cruz 13,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Santa Cruz 13,State House,2,,Write-In: Invalid Write-In (1),1
+Santa Cruz,Santa Cruz 13,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Santa Cruz 13,State House,2,,Not Assigned,0
 Santa Cruz,Santa Cruz 13,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",130
 Santa Cruz,Santa Cruz 13,Corporation Commissioner,,DEM,"STANFIELD, SHEA",129
@@ -1352,9 +1352,9 @@ Santa Cruz,Santa Cruz 13,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM"""
 Santa Cruz,Santa Cruz 13,Corporation Commissioner,,REP,"SLOAN, ERIC",75
 Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Santa Cruz 13,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Santa Cruz 13,County Assessor,,DEM,"RAMOS, PABLO A.",224
 Santa Cruz,Santa Cruz 13,County Assessor,,,Write-In Totals,2
@@ -1434,8 +1434,8 @@ Santa Cruz,Patagonia 14,State House,2,DEM,"DALESSANDRO, ANDREA",450
 Santa Cruz,Patagonia 14,State House,2,DEM,"HERNANDEZ JR., DANIEL",422
 Santa Cruz,Patagonia 14,State House,2,REP,"MCEWEN, DEBORAH",237
 Santa Cruz,Patagonia 14,State House,2,,Write-In Totals,2
-Santa Cruz,Patagonia 14,State House,2,,Write-In: Invalid Write-In,1,2
-Santa Cruz,Patagonia 14,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Patagonia 14,State House,2,,Write-In: Invalid Write-In (1),2
+Santa Cruz,Patagonia 14,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Patagonia 14,State House,2,,Not Assigned,0
 Santa Cruz,Patagonia 14,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",398
 Santa Cruz,Patagonia 14,Corporation Commissioner,,DEM,"STANFIELD, SHEA",412
@@ -1445,9 +1445,9 @@ Santa Cruz,Patagonia 14,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",
 Santa Cruz,Patagonia 14,Corporation Commissioner,,REP,"SLOAN, ERIC",166
 Santa Cruz,Patagonia 14,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Patagonia 14,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Patagonia 14,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Patagonia 14,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Patagonia 14,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Patagonia 14,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Patagonia 14,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Patagonia 14,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Patagonia 14,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Patagonia 14,County Assessor,,DEM,"RAMOS, PABLO A.",566
 Santa Cruz,Patagonia 14,County Assessor,,,Write-In Totals,7
@@ -1527,8 +1527,8 @@ Santa Cruz,Sonoita 15,State House,2,DEM,"DALESSANDRO, ANDREA",278
 Santa Cruz,Sonoita 15,State House,2,DEM,"HERNANDEZ JR., DANIEL",245
 Santa Cruz,Sonoita 15,State House,2,REP,"MCEWEN, DEBORAH",532
 Santa Cruz,Sonoita 15,State House,2,,Write-In Totals,2
-Santa Cruz,Sonoita 15,State House,2,,Write-In: Invalid Write-In,1,2
-Santa Cruz,Sonoita 15,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Sonoita 15,State House,2,,Write-In: Invalid Write-In (1),2
+Santa Cruz,Sonoita 15,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Sonoita 15,State House,2,,Not Assigned,0
 Santa Cruz,Sonoita 15,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",245
 Santa Cruz,Sonoita 15,Corporation Commissioner,,DEM,"STANFIELD, SHEA",241
@@ -1538,9 +1538,9 @@ Santa Cruz,Sonoita 15,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",46
 Santa Cruz,Sonoita 15,Corporation Commissioner,,REP,"SLOAN, ERIC",431
 Santa Cruz,Sonoita 15,Corporation Commissioner,,,Write-In Totals,2
 Santa Cruz,Sonoita 15,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Sonoita 15,Corporation Commissioner,,,Write-In: Invalid Write-in,1,1
-Santa Cruz,Sonoita 15,Corporation Commissioner,,,Write-In: Invalid Write-in,2,1
-Santa Cruz,Sonoita 15,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Sonoita 15,Corporation Commissioner,,,Write-In: Invalid Write-in (1),1
+Santa Cruz,Sonoita 15,Corporation Commissioner,,,Write-In: Invalid Write-in (2),1
+Santa Cruz,Sonoita 15,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Sonoita 15,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Sonoita 15,County Assessor,,DEM,"RAMOS, PABLO A.",418
 Santa Cruz,Sonoita 15,County Assessor,,,Write-In Totals,19
@@ -1620,8 +1620,8 @@ Santa Cruz,Nogales 16,State House,2,DEM,"DALESSANDRO, ANDREA",135
 Santa Cruz,Nogales 16,State House,2,DEM,"HERNANDEZ JR., DANIEL",202
 Santa Cruz,Nogales 16,State House,2,REP,"MCEWEN, DEBORAH",55
 Santa Cruz,Nogales 16,State House,2,,Write-In Totals,1
-Santa Cruz,Nogales 16,State House,2,,Write-In: Invalid Write-In,1,1
-Santa Cruz,Nogales 16,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 16,State House,2,,Write-In: Invalid Write-In (1),1
+Santa Cruz,Nogales 16,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 16,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 16,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",133
 Santa Cruz,Nogales 16,Corporation Commissioner,,DEM,"STANFIELD, SHEA",119
@@ -1631,9 +1631,9 @@ Santa Cruz,Nogales 16,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",50
 Santa Cruz,Nogales 16,Corporation Commissioner,,REP,"SLOAN, ERIC",41
 Santa Cruz,Nogales 16,Corporation Commissioner,,,Write-In Totals,3
 Santa Cruz,Nogales 16,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 16,Corporation Commissioner,,,Write-In: Invalid Write-in,1,1
-Santa Cruz,Nogales 16,Corporation Commissioner,,,Write-In: Invalid Write-in,2,1
-Santa Cruz,Nogales 16,Corporation Commissioner,,,Write-In: Invalid Write-in,3,1
+Santa Cruz,Nogales 16,Corporation Commissioner,,,Write-In: Invalid Write-in (1),1
+Santa Cruz,Nogales 16,Corporation Commissioner,,,Write-In: Invalid Write-in (2),1
+Santa Cruz,Nogales 16,Corporation Commissioner,,,Write-In: Invalid Write-in (3),1
 Santa Cruz,Nogales 16,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 16,County Assessor,,DEM,"RAMOS, PABLO A.",252
 Santa Cruz,Nogales 16,County Assessor,,,Write-In Totals,4
@@ -1734,8 +1734,8 @@ Santa Cruz,Calabasas 17,State House,2,DEM,"DALESSANDRO, ANDREA",1150
 Santa Cruz,Calabasas 17,State House,2,DEM,"HERNANDEZ JR., DANIEL",1296
 Santa Cruz,Calabasas 17,State House,2,REP,"MCEWEN, DEBORAH",561
 Santa Cruz,Calabasas 17,State House,2,,Write-In Totals,6
-Santa Cruz,Calabasas 17,State House,2,,Write-In: Invalid Write-In,1,6
-Santa Cruz,Calabasas 17,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Calabasas 17,State House,2,,Write-In: Invalid Write-In (1),6
+Santa Cruz,Calabasas 17,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Calabasas 17,State House,2,,Not Assigned,0
 Santa Cruz,Calabasas 17,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",974
 Santa Cruz,Calabasas 17,Corporation Commissioner,,DEM,"STANFIELD, SHEA",957
@@ -1745,9 +1745,9 @@ Santa Cruz,Calabasas 17,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",
 Santa Cruz,Calabasas 17,Corporation Commissioner,,REP,"SLOAN, ERIC",407
 Santa Cruz,Calabasas 17,Corporation Commissioner,,,Write-In Totals,3
 Santa Cruz,Calabasas 17,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Calabasas 17,Corporation Commissioner,,,Write-In: Invalid Write-in,1,2
-Santa Cruz,Calabasas 17,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Calabasas 17,Corporation Commissioner,,,Write-In: Invalid Write-in,3,1
+Santa Cruz,Calabasas 17,Corporation Commissioner,,,Write-In: Invalid Write-in (1),2
+Santa Cruz,Calabasas 17,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Calabasas 17,Corporation Commissioner,,,Write-In: Invalid Write-in (3),1
 Santa Cruz,Calabasas 17,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Calabasas 17,County Assessor,,DEM,"RAMOS, PABLO A.",1832
 Santa Cruz,Calabasas 17,County Assessor,,,Write-In Totals,29
@@ -1829,8 +1829,8 @@ Santa Cruz,Nogales 18,State House,2,DEM,"DALESSANDRO, ANDREA",269
 Santa Cruz,Nogales 18,State House,2,DEM,"HERNANDEZ JR., DANIEL",269
 Santa Cruz,Nogales 18,State House,2,REP,"MCEWEN, DEBORAH",134
 Santa Cruz,Nogales 18,State House,2,,Write-In Totals,0
-Santa Cruz,Nogales 18,State House,2,,Write-In: Invalid Write-In,1,0
-Santa Cruz,Nogales 18,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 18,State House,2,,Write-In: Invalid Write-In (1),0
+Santa Cruz,Nogales 18,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 18,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 18,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",240
 Santa Cruz,Nogales 18,Corporation Commissioner,,DEM,"STANFIELD, SHEA",232
@@ -1840,9 +1840,9 @@ Santa Cruz,Nogales 18,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",10
 Santa Cruz,Nogales 18,Corporation Commissioner,,REP,"SLOAN, ERIC",96
 Santa Cruz,Nogales 18,Corporation Commissioner,,,Write-In Totals,1
 Santa Cruz,Nogales 18,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 18,Corporation Commissioner,,,Write-In: Invalid Write-in,1,1
-Santa Cruz,Nogales 18,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 18,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 18,Corporation Commissioner,,,Write-In: Invalid Write-in (1),1
+Santa Cruz,Nogales 18,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 18,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 18,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 18,County Assessor,,DEM,"RAMOS, PABLO A.",373
 Santa Cruz,Nogales 18,County Assessor,,,Write-In Totals,4
@@ -1943,8 +1943,8 @@ Santa Cruz,Baca 19,State House,2,DEM,"DALESSANDRO, ANDREA",900
 Santa Cruz,Baca 19,State House,2,DEM,"HERNANDEZ JR., DANIEL",1120
 Santa Cruz,Baca 19,State House,2,REP,"MCEWEN, DEBORAH",391
 Santa Cruz,Baca 19,State House,2,,Write-In Totals,5
-Santa Cruz,Baca 19,State House,2,,Write-In: Invalid Write-In,1,5
-Santa Cruz,Baca 19,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Baca 19,State House,2,,Write-In: Invalid Write-In (1),5
+Santa Cruz,Baca 19,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Baca 19,State House,2,,Not Assigned,0
 Santa Cruz,Baca 19,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",854
 Santa Cruz,Baca 19,Corporation Commissioner,,DEM,"STANFIELD, SHEA",764
@@ -1954,9 +1954,9 @@ Santa Cruz,Baca 19,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",333
 Santa Cruz,Baca 19,Corporation Commissioner,,REP,"SLOAN, ERIC",275
 Santa Cruz,Baca 19,Corporation Commissioner,,,Write-In Totals,5
 Santa Cruz,Baca 19,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Baca 19,Corporation Commissioner,,,Write-In: Invalid Write-in,1,4
-Santa Cruz,Baca 19,Corporation Commissioner,,,Write-In: Invalid Write-in,2,1
-Santa Cruz,Baca 19,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Baca 19,Corporation Commissioner,,,Write-In: Invalid Write-in (1),4
+Santa Cruz,Baca 19,Corporation Commissioner,,,Write-In: Invalid Write-in (2),1
+Santa Cruz,Baca 19,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Baca 19,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Baca 19,County Assessor,,DEM,"RAMOS, PABLO A.",1539
 Santa Cruz,Baca 19,County Assessor,,,Write-In Totals,28
@@ -2038,8 +2038,8 @@ Santa Cruz,Nogales 20,State House,2,DEM,"DALESSANDRO, ANDREA",416
 Santa Cruz,Nogales 20,State House,2,DEM,"HERNANDEZ JR., DANIEL",418
 Santa Cruz,Nogales 20,State House,2,REP,"MCEWEN, DEBORAH",97
 Santa Cruz,Nogales 20,State House,2,,Write-In Totals,0
-Santa Cruz,Nogales 20,State House,2,,Write-In: Invalid Write-In,1,0
-Santa Cruz,Nogales 20,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Nogales 20,State House,2,,Write-In: Invalid Write-In (1),0
+Santa Cruz,Nogales 20,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Nogales 20,State House,2,,Not Assigned,0
 Santa Cruz,Nogales 20,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",338
 Santa Cruz,Nogales 20,Corporation Commissioner,,DEM,"STANFIELD, SHEA",322
@@ -2049,9 +2049,9 @@ Santa Cruz,Nogales 20,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",10
 Santa Cruz,Nogales 20,Corporation Commissioner,,REP,"SLOAN, ERIC",81
 Santa Cruz,Nogales 20,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Nogales 20,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Nogales 20,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Nogales 20,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Nogales 20,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Nogales 20,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Nogales 20,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Nogales 20,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Nogales 20,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Nogales 20,County Assessor,,DEM,"RAMOS, PABLO A.",587
 Santa Cruz,Nogales 20,County Assessor,,,Write-In Totals,2
@@ -2152,8 +2152,8 @@ Santa Cruz,Peck Canyon 21,State House,2,DEM,"DALESSANDRO, ANDREA",693
 Santa Cruz,Peck Canyon 21,State House,2,DEM,"HERNANDEZ JR., DANIEL",752
 Santa Cruz,Peck Canyon 21,State House,2,REP,"MCEWEN, DEBORAH",350
 Santa Cruz,Peck Canyon 21,State House,2,,Write-In Totals,9
-Santa Cruz,Peck Canyon 21,State House,2,,Write-In: Invalid Write-In,1,6
-Santa Cruz,Peck Canyon 21,State House,2,,Write-In: Invalid Write-In,2,3
+Santa Cruz,Peck Canyon 21,State House,2,,Write-In: Invalid Write-In (1),6
+Santa Cruz,Peck Canyon 21,State House,2,,Write-In: Invalid Write-In (2),3
 Santa Cruz,Peck Canyon 21,State House,2,,Not Assigned,0
 Santa Cruz,Peck Canyon 21,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",554
 Santa Cruz,Peck Canyon 21,Corporation Commissioner,,DEM,"STANFIELD, SHEA",524
@@ -2163,9 +2163,9 @@ Santa Cruz,Peck Canyon 21,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""
 Santa Cruz,Peck Canyon 21,Corporation Commissioner,,REP,"SLOAN, ERIC",266
 Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,Write-In Totals,4
 Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,Write-In: Invalid Write-in,1,3
-Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,Write-In: Invalid Write-in,2,1
-Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,Write-In: Invalid Write-in (1),3
+Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,Write-In: Invalid Write-in (2),1
+Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Peck Canyon 21,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Peck Canyon 21,County Assessor,,DEM,"RAMOS, PABLO A.",1186
 Santa Cruz,Peck Canyon 21,County Assessor,,,Write-In Totals,26
@@ -2247,8 +2247,8 @@ Santa Cruz,Potrero 22,State House,2,DEM,"DALESSANDRO, ANDREA",176
 Santa Cruz,Potrero 22,State House,2,DEM,"HERNANDEZ JR., DANIEL",203
 Santa Cruz,Potrero 22,State House,2,REP,"MCEWEN, DEBORAH",61
 Santa Cruz,Potrero 22,State House,2,,Write-In Totals,1
-Santa Cruz,Potrero 22,State House,2,,Write-In: Invalid Write-In,1,1
-Santa Cruz,Potrero 22,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Potrero 22,State House,2,,Write-In: Invalid Write-In (1),1
+Santa Cruz,Potrero 22,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Potrero 22,State House,2,,Not Assigned,0
 Santa Cruz,Potrero 22,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",154
 Santa Cruz,Potrero 22,Corporation Commissioner,,DEM,"STANFIELD, SHEA",143
@@ -2258,9 +2258,9 @@ Santa Cruz,Potrero 22,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",46
 Santa Cruz,Potrero 22,Corporation Commissioner,,REP,"SLOAN, ERIC",26
 Santa Cruz,Potrero 22,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Potrero 22,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Potrero 22,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Potrero 22,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Potrero 22,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Potrero 22,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Potrero 22,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Potrero 22,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Potrero 22,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Potrero 22,County Assessor,,DEM,"RAMOS, PABLO A.",282
 Santa Cruz,Potrero 22,County Assessor,,,Write-In Totals,5
@@ -2340,8 +2340,8 @@ Santa Cruz,Mountain 23,State House,2,DEM,"DALESSANDRO, ANDREA",21
 Santa Cruz,Mountain 23,State House,2,DEM,"HERNANDEZ JR., DANIEL",19
 Santa Cruz,Mountain 23,State House,2,REP,"MCEWEN, DEBORAH",29
 Santa Cruz,Mountain 23,State House,2,,Write-In Totals,0
-Santa Cruz,Mountain 23,State House,2,,Write-In: Invalid Write-In,1,0
-Santa Cruz,Mountain 23,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Mountain 23,State House,2,,Write-In: Invalid Write-In (1),0
+Santa Cruz,Mountain 23,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Mountain 23,State House,2,,Not Assigned,0
 Santa Cruz,Mountain 23,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",19
 Santa Cruz,Mountain 23,Corporation Commissioner,,DEM,"STANFIELD, SHEA",17
@@ -2351,9 +2351,9 @@ Santa Cruz,Mountain 23,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JIM""",2
 Santa Cruz,Mountain 23,Corporation Commissioner,,REP,"SLOAN, ERIC",22
 Santa Cruz,Mountain 23,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Mountain 23,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Mountain 23,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Mountain 23,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Mountain 23,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Mountain 23,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Mountain 23,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Mountain 23,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Mountain 23,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Mountain 23,County Assessor,,DEM,"RAMOS, PABLO A.",28
 Santa Cruz,Mountain 23,County Assessor,,,Write-In Totals,3
@@ -2433,8 +2433,8 @@ Santa Cruz,Lake Patagonia 24,State House,2,DEM,"DALESSANDRO, ANDREA",67
 Santa Cruz,Lake Patagonia 24,State House,2,DEM,"HERNANDEZ JR., DANIEL",59
 Santa Cruz,Lake Patagonia 24,State House,2,REP,"MCEWEN, DEBORAH",58
 Santa Cruz,Lake Patagonia 24,State House,2,,Write-In Totals,0
-Santa Cruz,Lake Patagonia 24,State House,2,,Write-In: Invalid Write-In,1,0
-Santa Cruz,Lake Patagonia 24,State House,2,,Write-In: Invalid Write-In,2,0
+Santa Cruz,Lake Patagonia 24,State House,2,,Write-In: Invalid Write-In (1),0
+Santa Cruz,Lake Patagonia 24,State House,2,,Write-In: Invalid Write-In (2),0
 Santa Cruz,Lake Patagonia 24,State House,2,,Not Assigned,0
 Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,DEM,"MUNDELL, WILLIAM ""BILL""",61
 Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,DEM,"STANFIELD, SHEA",62
@@ -2444,9 +2444,9 @@ Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,REP,"O'CONNOR, JAMES ""JI
 Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,REP,"SLOAN, ERIC",44
 Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,Write-In Totals,0
 Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,"Write-In: Gibson, Christina",0
-Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,Write-In: Invalid Write-in,1,0
-Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,Write-In: Invalid Write-in,2,0
-Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,Write-In: Invalid Write-in,3,0
+Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,Write-In: Invalid Write-in (1),0
+Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,Write-In: Invalid Write-in (2),0
+Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,Write-In: Invalid Write-in (3),0
 Santa Cruz,Lake Patagonia 24,Corporation Commissioner,,,Not Assigned,0
 Santa Cruz,Lake Patagonia 24,County Assessor,,DEM,"RAMOS, PABLO A.",88
 Santa Cruz,Lake Patagonia 24,County Assessor,,,Write-In Totals,2
