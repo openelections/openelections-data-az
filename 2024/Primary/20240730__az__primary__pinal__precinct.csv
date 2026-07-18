@@ -1,11 +1,11 @@
 county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,provisional
-Pinal,01 Kearny,Registered Voters - Total,,,,,1464,1464,1464,1464
-Pinal,01 Kearny,Registered Voters - REPUBLICAN,,,REP,,550,550,550,550
-Pinal,01 Kearny,Registered Voters - DEMOCRATIC,,,DEM,,486,486,486,486
-Pinal,01 Kearny,Registered Voters - LIBERTARIAN,,,LBT,,16,16,16,16
-Pinal,01 Kearny,Registered Voters - NO LABELS,,,NOL,,5,5,5,5
+Pinal,01 Kearny,Registered Voters - Total,,,,,1464,0,0,0
+Pinal,01 Kearny,Registered Voters - REPUBLICAN,,,REP,,550,0,0,0
+Pinal,01 Kearny,Registered Voters - DEMOCRATIC,,,DEM,,486,0,0,0
+Pinal,01 Kearny,Registered Voters - LIBERTARIAN,,,LBT,,16,0,0,0
+Pinal,01 Kearny,Registered Voters - NO LABELS,,,NOL,,5,0,0,0
 Pinal,01 Kearny,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,01 Kearny,Registered Voters - NONPARTISAN,,,-,,407,407,407,407
+Pinal,01 Kearny,Registered Voters - NONPARTISAN,,,-,,407,0,0,0
 Pinal,01 Kearny,Ballots Cast - Total,,,,,654,410,237,7
 Pinal,01 Kearny,Ballots Cast - REPUBLICAN,,,REP,,348,178,166,4
 Pinal,01 Kearny,Ballots Cast - DEMOCRATIC,,,DEM,,280,226,51,3
@@ -230,13 +230,13 @@ Pinal,01 Kearny,Town Council,Town of Kearny,1,,Write-In Totals,0,0,0,0
 Pinal,01 Kearny,Town Council,Town of Kearny,1,,Total Votes Cast,491,300,185,6
 Pinal,01 Kearny,Town Council,Town of Kearny,1,,Overvotes,0,0,0,0
 Pinal,01 Kearny,Town Council,Town of Kearny,1,,Undervotes,56,38,18,0
-Pinal,04 Dudleyville,Registered Voters - Total,,,,,597,597,597,597
-Pinal,04 Dudleyville,Registered Voters - REPUBLICAN,,,REP,,162,162,162,162
-Pinal,04 Dudleyville,Registered Voters - DEMOCRATIC,,,DEM,,285,285,285,285
-Pinal,04 Dudleyville,Registered Voters - LIBERTARIAN,,,LBT,,3,3,3,3
-Pinal,04 Dudleyville,Registered Voters - NO LABELS,,,NOL,,3,3,3,3
+Pinal,04 Dudleyville,Registered Voters - Total,,,,,597,0,0,0
+Pinal,04 Dudleyville,Registered Voters - REPUBLICAN,,,REP,,162,0,0,0
+Pinal,04 Dudleyville,Registered Voters - DEMOCRATIC,,,DEM,,285,0,0,0
+Pinal,04 Dudleyville,Registered Voters - LIBERTARIAN,,,LBT,,3,0,0,0
+Pinal,04 Dudleyville,Registered Voters - NO LABELS,,,NOL,,3,0,0,0
 Pinal,04 Dudleyville,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,04 Dudleyville,Registered Voters - NONPARTISAN,,,-,,144,144,144,144
+Pinal,04 Dudleyville,Registered Voters - NONPARTISAN,,,-,,144,0,0,0
 Pinal,04 Dudleyville,Ballots Cast - Total,,,,,216,170,46,0
 Pinal,04 Dudleyville,Ballots Cast - REPUBLICAN,,,REP,,87,59,28,0
 Pinal,04 Dudleyville,Ballots Cast - DEMOCRATIC,,,DEM,,129,111,18,0
@@ -448,13 +448,13 @@ Pinal,04 Dudleyville,Question 3,Town of Winkelman,1,,NO,0,0,0,0
 Pinal,04 Dudleyville,Question 3,Town of Winkelman,1,,Total Votes Cast,1,1,0,0
 Pinal,04 Dudleyville,Question 3,Town of Winkelman,1,,Overvotes,0,0,0,0
 Pinal,04 Dudleyville,Question 3,Town of Winkelman,1,,Undervotes,1,1,0,0
-Pinal,05 San Manuel,Registered Voters - Total,,,,,2044,2044,2044,2044
-Pinal,05 San Manuel,Registered Voters - REPUBLICAN,,,REP,,693,693,693,693
-Pinal,05 San Manuel,Registered Voters - DEMOCRATIC,,,DEM,,703,703,703,703
-Pinal,05 San Manuel,Registered Voters - LIBERTARIAN,,,LBT,,14,14,14,14
-Pinal,05 San Manuel,Registered Voters - NO LABELS,,,NOL,,16,16,16,16
+Pinal,05 San Manuel,Registered Voters - Total,,,,,2044,0,0,0
+Pinal,05 San Manuel,Registered Voters - REPUBLICAN,,,REP,,693,0,0,0
+Pinal,05 San Manuel,Registered Voters - DEMOCRATIC,,,DEM,,703,0,0,0
+Pinal,05 San Manuel,Registered Voters - LIBERTARIAN,,,LBT,,14,0,0,0
+Pinal,05 San Manuel,Registered Voters - NO LABELS,,,NOL,,16,0,0,0
 Pinal,05 San Manuel,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,05 San Manuel,Registered Voters - NONPARTISAN,,,-,,618,618,618,618
+Pinal,05 San Manuel,Registered Voters - NONPARTISAN,,,-,,618,0,0,0
 Pinal,05 San Manuel,Ballots Cast - Total,,,,,666,508,157,1
 Pinal,05 San Manuel,Ballots Cast - REPUBLICAN,,,REP,,380,253,127,0
 Pinal,05 San Manuel,Ballots Cast - DEMOCRATIC,,,DEM,,285,254,30,1
@@ -644,13 +644,13 @@ Pinal,05 San Manuel,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,05 San Manuel,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,05 San Manuel,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,05 San Manuel,Corporation Commission,,3,GRN,Undervotes,3,3,0,0
-Pinal,06 Mammoth,Registered Voters - Total,,,,,871,871,871,871
-Pinal,06 Mammoth,Registered Voters - REPUBLICAN,,,REP,,167,167,167,167
-Pinal,06 Mammoth,Registered Voters - DEMOCRATIC,,,DEM,,466,466,466,466
+Pinal,06 Mammoth,Registered Voters - Total,,,,,871,0,0,0
+Pinal,06 Mammoth,Registered Voters - REPUBLICAN,,,REP,,167,0,0,0
+Pinal,06 Mammoth,Registered Voters - DEMOCRATIC,,,DEM,,466,0,0,0
 Pinal,06 Mammoth,Registered Voters - LIBERTARIAN,,,LBT,,0,0,0,0
-Pinal,06 Mammoth,Registered Voters - NO LABELS,,,NOL,,1,1,1,1
+Pinal,06 Mammoth,Registered Voters - NO LABELS,,,NOL,,1,0,0,0
 Pinal,06 Mammoth,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,06 Mammoth,Registered Voters - NONPARTISAN,,,-,,237,237,237,237
+Pinal,06 Mammoth,Registered Voters - NONPARTISAN,,,-,,237,0,0,0
 Pinal,06 Mammoth,Ballots Cast - Total,,,,,324,251,73,0
 Pinal,06 Mammoth,Ballots Cast - REPUBLICAN,,,REP,,87,58,29,0
 Pinal,06 Mammoth,Ballots Cast - DEMOCRATIC,,,DEM,,236,193,43,0
@@ -861,13 +861,13 @@ Pinal,06 Mammoth,Recall Election for Alvaro Barcelo,Town of Mammoth,1,,Write-In 
 Pinal,06 Mammoth,Recall Election for Alvaro Barcelo,Town of Mammoth,1,,Total Votes Cast,222,168,54,0
 Pinal,06 Mammoth,Recall Election for Alvaro Barcelo,Town of Mammoth,1,,Overvotes,2,1,1,0
 Pinal,06 Mammoth,Recall Election for Alvaro Barcelo,Town of Mammoth,1,,Undervotes,38,30,8,0
-Pinal,07 Oracle,Registered Voters - Total,,,,,160,160,160,160
-Pinal,07 Oracle,Registered Voters - REPUBLICAN,,,REP,,86,86,86,86
-Pinal,07 Oracle,Registered Voters - DEMOCRATIC,,,DEM,,26,26,26,26
-Pinal,07 Oracle,Registered Voters - LIBERTARIAN,,,LBT,,4,4,4,4
-Pinal,07 Oracle,Registered Voters - NO LABELS,,,NOL,,2,2,2,2
-Pinal,07 Oracle,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,07 Oracle,Registered Voters - NONPARTISAN,,,-,,41,41,41,41
+Pinal,07 Oracle,Registered Voters - Total,,,,,160,0,0,0
+Pinal,07 Oracle,Registered Voters - REPUBLICAN,,,REP,,86,0,0,0
+Pinal,07 Oracle,Registered Voters - DEMOCRATIC,,,DEM,,26,0,0,0
+Pinal,07 Oracle,Registered Voters - LIBERTARIAN,,,LBT,,4,0,0,0
+Pinal,07 Oracle,Registered Voters - NO LABELS,,,NOL,,2,0,0,0
+Pinal,07 Oracle,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,07 Oracle,Registered Voters - NONPARTISAN,,,-,,41,0,0,0
 Pinal,07 Oracle,Ballots Cast - Total,,,,,73,58,14,1
 Pinal,07 Oracle,Ballots Cast - REPUBLICAN,,,REP,,61,46,14,1
 Pinal,07 Oracle,Ballots Cast - DEMOCRATIC,,,DEM,,12,12,0,0
@@ -1052,13 +1052,13 @@ Pinal,07 Oracle,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,07 Oracle,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,07 Oracle,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,07 Oracle,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,08 Saddlebrooke West,Registered Voters - Total,,,,,2655,2655,2655,2655
-Pinal,08 Saddlebrooke West,Registered Voters - REPUBLICAN,,,REP,,1198,1198,1198,1198
-Pinal,08 Saddlebrooke West,Registered Voters - DEMOCRATIC,,,DEM,,717,717,717,717
-Pinal,08 Saddlebrooke West,Registered Voters - LIBERTARIAN,,,LBT,,11,11,11,11
-Pinal,08 Saddlebrooke West,Registered Voters - NO LABELS,,,NOL,,5,5,5,5
-Pinal,08 Saddlebrooke West,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,08 Saddlebrooke West,Registered Voters - NONPARTISAN,,,-,,723,723,723,723
+Pinal,08 Saddlebrooke West,Registered Voters - Total,,,,,2655,0,0,0
+Pinal,08 Saddlebrooke West,Registered Voters - REPUBLICAN,,,REP,,1198,0,0,0
+Pinal,08 Saddlebrooke West,Registered Voters - DEMOCRATIC,,,DEM,,717,0,0,0
+Pinal,08 Saddlebrooke West,Registered Voters - LIBERTARIAN,,,LBT,,11,0,0,0
+Pinal,08 Saddlebrooke West,Registered Voters - NO LABELS,,,NOL,,5,0,0,0
+Pinal,08 Saddlebrooke West,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,08 Saddlebrooke West,Registered Voters - NONPARTISAN,,,-,,723,0,0,0
 Pinal,08 Saddlebrooke West,Ballots Cast - Total,,,,,1446,1275,170,1
 Pinal,08 Saddlebrooke West,Ballots Cast - REPUBLICAN,,,REP,,897,755,141,1
 Pinal,08 Saddlebrooke West,Ballots Cast - DEMOCRATIC,,,DEM,,546,518,28,0
@@ -1243,13 +1243,13 @@ Pinal,08 Saddlebrooke West,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,08 Saddlebrooke West,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,08 Saddlebrooke West,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,08 Saddlebrooke West,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,09 Arizona City,Registered Voters - Total,,,,,3376,3376,3376,3376
-Pinal,09 Arizona City,Registered Voters - REPUBLICAN,,,REP,,1262,1262,1262,1262
-Pinal,09 Arizona City,Registered Voters - DEMOCRATIC,,,DEM,,681,681,681,681
-Pinal,09 Arizona City,Registered Voters - LIBERTARIAN,,,LBT,,27,27,27,27
-Pinal,09 Arizona City,Registered Voters - NO LABELS,,,NOL,,37,37,37,37
+Pinal,09 Arizona City,Registered Voters - Total,,,,,3376,0,0,0
+Pinal,09 Arizona City,Registered Voters - REPUBLICAN,,,REP,,1262,0,0,0
+Pinal,09 Arizona City,Registered Voters - DEMOCRATIC,,,DEM,,681,0,0,0
+Pinal,09 Arizona City,Registered Voters - LIBERTARIAN,,,LBT,,27,0,0,0
+Pinal,09 Arizona City,Registered Voters - NO LABELS,,,NOL,,37,0,0,0
 Pinal,09 Arizona City,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,09 Arizona City,Registered Voters - NONPARTISAN,,,-,,1369,1369,1369,1369
+Pinal,09 Arizona City,Registered Voters - NONPARTISAN,,,-,,1369,0,0,0
 Pinal,09 Arizona City,Ballots Cast - Total,,,,,896,673,222,1
 Pinal,09 Arizona City,Ballots Cast - REPUBLICAN,,,REP,,643,439,204,0
 Pinal,09 Arizona City,Ballots Cast - DEMOCRATIC,,,DEM,,251,233,17,1
@@ -1434,13 +1434,13 @@ Pinal,09 Arizona City,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,09 Arizona City,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,09 Arizona City,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,09 Arizona City,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,10 Toltec South,Registered Voters - Total,,,,,2463,2463,2463,2463
-Pinal,10 Toltec South,Registered Voters - REPUBLICAN,,,REP,,944,944,944,944
-Pinal,10 Toltec South,Registered Voters - DEMOCRATIC,,,DEM,,566,566,566,566
-Pinal,10 Toltec South,Registered Voters - LIBERTARIAN,,,LBT,,22,22,22,22
-Pinal,10 Toltec South,Registered Voters - NO LABELS,,,NOL,,27,27,27,27
-Pinal,10 Toltec South,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,10 Toltec South,Registered Voters - NONPARTISAN,,,-,,903,903,903,903
+Pinal,10 Toltec South,Registered Voters - Total,,,,,2463,0,0,0
+Pinal,10 Toltec South,Registered Voters - REPUBLICAN,,,REP,,944,0,0,0
+Pinal,10 Toltec South,Registered Voters - DEMOCRATIC,,,DEM,,566,0,0,0
+Pinal,10 Toltec South,Registered Voters - LIBERTARIAN,,,LBT,,22,0,0,0
+Pinal,10 Toltec South,Registered Voters - NO LABELS,,,NOL,,27,0,0,0
+Pinal,10 Toltec South,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,10 Toltec South,Registered Voters - NONPARTISAN,,,-,,903,0,0,0
 Pinal,10 Toltec South,Ballots Cast - Total,,,,,761,604,153,4
 Pinal,10 Toltec South,Ballots Cast - REPUBLICAN,,,REP,,537,407,127,3
 Pinal,10 Toltec South,Ballots Cast - DEMOCRATIC,,,DEM,,222,197,24,1
@@ -1625,13 +1625,13 @@ Pinal,10 Toltec South,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,10 Toltec South,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,10 Toltec South,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,10 Toltec South,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,11 Picacho,Registered Voters - Total,,,,,356,356,356,356
-Pinal,11 Picacho,Registered Voters - REPUBLICAN,,,REP,,150,150,150,150
-Pinal,11 Picacho,Registered Voters - DEMOCRATIC,,,DEM,,88,88,88,88
-Pinal,11 Picacho,Registered Voters - LIBERTARIAN,,,LBT,,1,1,1,1
-Pinal,11 Picacho,Registered Voters - NO LABELS,,,NOL,,2,2,2,2
+Pinal,11 Picacho,Registered Voters - Total,,,,,356,0,0,0
+Pinal,11 Picacho,Registered Voters - REPUBLICAN,,,REP,,150,0,0,0
+Pinal,11 Picacho,Registered Voters - DEMOCRATIC,,,DEM,,88,0,0,0
+Pinal,11 Picacho,Registered Voters - LIBERTARIAN,,,LBT,,1,0,0,0
+Pinal,11 Picacho,Registered Voters - NO LABELS,,,NOL,,2,0,0,0
 Pinal,11 Picacho,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,11 Picacho,Registered Voters - NONPARTISAN,,,-,,115,115,115,115
+Pinal,11 Picacho,Registered Voters - NONPARTISAN,,,-,,115,0,0,0
 Pinal,11 Picacho,Ballots Cast - Total,,,,,94,73,21,0
 Pinal,11 Picacho,Ballots Cast - REPUBLICAN,,,REP,,68,51,17,0
 Pinal,11 Picacho,Ballots Cast - DEMOCRATIC,,,DEM,,26,22,4,0
@@ -1853,13 +1853,13 @@ Pinal,11 Picacho,Proposition 484,City of Eloy,1,,NO,0,0,0,0
 Pinal,11 Picacho,Proposition 484,City of Eloy,1,,Total Votes Cast,1,1,0,0
 Pinal,11 Picacho,Proposition 484,City of Eloy,1,,Overvotes,0,0,0,0
 Pinal,11 Picacho,Proposition 484,City of Eloy,1,,Undervotes,0,0,0,0
-Pinal,12 Eloy,Registered Voters - Total,,,,,1072,1072,1072,1072
-Pinal,12 Eloy,Registered Voters - REPUBLICAN,,,REP,,125,125,125,125
-Pinal,12 Eloy,Registered Voters - DEMOCRATIC,,,DEM,,494,494,494,494
-Pinal,12 Eloy,Registered Voters - LIBERTARIAN,,,LBT,,3,3,3,3
-Pinal,12 Eloy,Registered Voters - NO LABELS,,,NOL,,9,9,9,9
+Pinal,12 Eloy,Registered Voters - Total,,,,,1072,0,0,0
+Pinal,12 Eloy,Registered Voters - REPUBLICAN,,,REP,,125,0,0,0
+Pinal,12 Eloy,Registered Voters - DEMOCRATIC,,,DEM,,494,0,0,0
+Pinal,12 Eloy,Registered Voters - LIBERTARIAN,,,LBT,,3,0,0,0
+Pinal,12 Eloy,Registered Voters - NO LABELS,,,NOL,,9,0,0,0
 Pinal,12 Eloy,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,12 Eloy,Registered Voters - NONPARTISAN,,,-,,441,441,441,441
+Pinal,12 Eloy,Registered Voters - NONPARTISAN,,,-,,441,0,0,0
 Pinal,12 Eloy,Ballots Cast - Total,,,,,194,154,40,0
 Pinal,12 Eloy,Ballots Cast - REPUBLICAN,,,REP,,53,40,13,0
 Pinal,12 Eloy,Ballots Cast - DEMOCRATIC,,,DEM,,139,112,27,0
@@ -2067,13 +2067,13 @@ Pinal,12 Eloy,Proposition 484,City of Eloy,1,,NO,78,59,19,0
 Pinal,12 Eloy,Proposition 484,City of Eloy,1,,Total Votes Cast,181,147,34,0
 Pinal,12 Eloy,Proposition 484,City of Eloy,1,,Overvotes,1,1,0,0
 Pinal,12 Eloy,Proposition 484,City of Eloy,1,,Undervotes,12,6,6,0
-Pinal,13 Toltec,Registered Voters - Total,,,,,3509,3509,3509,3509
-Pinal,13 Toltec,Registered Voters - REPUBLICAN,,,REP,,1400,1400,1400,1400
-Pinal,13 Toltec,Registered Voters - DEMOCRATIC,,,DEM,,827,827,827,827
-Pinal,13 Toltec,Registered Voters - LIBERTARIAN,,,LBT,,18,18,18,18
-Pinal,13 Toltec,Registered Voters - NO LABELS,,,NOL,,17,17,17,17
-Pinal,13 Toltec,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,13 Toltec,Registered Voters - NONPARTISAN,,,-,,1245,1245,1245,1245
+Pinal,13 Toltec,Registered Voters - Total,,,,,3509,0,0,0
+Pinal,13 Toltec,Registered Voters - REPUBLICAN,,,REP,,1400,0,0,0
+Pinal,13 Toltec,Registered Voters - DEMOCRATIC,,,DEM,,827,0,0,0
+Pinal,13 Toltec,Registered Voters - LIBERTARIAN,,,LBT,,18,0,0,0
+Pinal,13 Toltec,Registered Voters - NO LABELS,,,NOL,,17,0,0,0
+Pinal,13 Toltec,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,13 Toltec,Registered Voters - NONPARTISAN,,,-,,1245,0,0,0
 Pinal,13 Toltec,Ballots Cast - Total,,,,,1502,1294,208,0
 Pinal,13 Toltec,Ballots Cast - REPUBLICAN,,,REP,,976,829,147,0
 Pinal,13 Toltec,Ballots Cast - DEMOCRATIC,,,DEM,,484,444,40,0
@@ -2312,13 +2312,13 @@ Pinal,13 Toltec,Proposition 484,City of Eloy,1,,NO,525,444,81,0
 Pinal,13 Toltec,Proposition 484,City of Eloy,1,,Total Votes Cast,1351,1173,178,0
 Pinal,13 Toltec,Proposition 484,City of Eloy,1,,Overvotes,0,0,0,0
 Pinal,13 Toltec,Proposition 484,City of Eloy,1,,Undervotes,85,67,18,0
-Pinal,14 Eloy South,Registered Voters - Total,,,,,1204,1204,1204,1204
-Pinal,14 Eloy South,Registered Voters - REPUBLICAN,,,REP,,164,164,164,164
-Pinal,14 Eloy South,Registered Voters - DEMOCRATIC,,,DEM,,586,586,586,586
-Pinal,14 Eloy South,Registered Voters - LIBERTARIAN,,,LBT,,4,4,4,4
-Pinal,14 Eloy South,Registered Voters - NO LABELS,,,NOL,,5,5,5,5
-Pinal,14 Eloy South,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,14 Eloy South,Registered Voters - NONPARTISAN,,,-,,444,444,444,444
+Pinal,14 Eloy South,Registered Voters - Total,,,,,1204,0,0,0
+Pinal,14 Eloy South,Registered Voters - REPUBLICAN,,,REP,,164,0,0,0
+Pinal,14 Eloy South,Registered Voters - DEMOCRATIC,,,DEM,,586,0,0,0
+Pinal,14 Eloy South,Registered Voters - LIBERTARIAN,,,LBT,,4,0,0,0
+Pinal,14 Eloy South,Registered Voters - NO LABELS,,,NOL,,5,0,0,0
+Pinal,14 Eloy South,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,14 Eloy South,Registered Voters - NONPARTISAN,,,-,,444,0,0,0
 Pinal,14 Eloy South,Ballots Cast - Total,,,,,212,173,38,1
 Pinal,14 Eloy South,Ballots Cast - REPUBLICAN,,,REP,,62,42,20,0
 Pinal,14 Eloy South,Ballots Cast - DEMOCRATIC,,,DEM,,143,131,11,1
@@ -2526,13 +2526,13 @@ Pinal,14 Eloy South,Proposition 484,City of Eloy,1,,NO,106,88,17,1
 Pinal,14 Eloy South,Proposition 484,City of Eloy,1,,Total Votes Cast,202,168,33,1
 Pinal,14 Eloy South,Proposition 484,City of Eloy,1,,Overvotes,0,0,0,0
 Pinal,14 Eloy South,Proposition 484,City of Eloy,1,,Undervotes,10,5,5,0
-Pinal,15 Saddlebrooke East,Registered Voters - Total,,,,,2858,2858,2858,2858
-Pinal,15 Saddlebrooke East,Registered Voters - REPUBLICAN,,,REP,,1297,1297,1297,1297
-Pinal,15 Saddlebrooke East,Registered Voters - DEMOCRATIC,,,DEM,,721,721,721,721
-Pinal,15 Saddlebrooke East,Registered Voters - LIBERTARIAN,,,LBT,,8,8,8,8
-Pinal,15 Saddlebrooke East,Registered Voters - NO LABELS,,,NOL,,10,10,10,10
-Pinal,15 Saddlebrooke East,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,15 Saddlebrooke East,Registered Voters - NONPARTISAN,,,-,,819,819,819,819
+Pinal,15 Saddlebrooke East,Registered Voters - Total,,,,,2858,0,0,0
+Pinal,15 Saddlebrooke East,Registered Voters - REPUBLICAN,,,REP,,1297,0,0,0
+Pinal,15 Saddlebrooke East,Registered Voters - DEMOCRATIC,,,DEM,,721,0,0,0
+Pinal,15 Saddlebrooke East,Registered Voters - LIBERTARIAN,,,LBT,,8,0,0,0
+Pinal,15 Saddlebrooke East,Registered Voters - NO LABELS,,,NOL,,10,0,0,0
+Pinal,15 Saddlebrooke East,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,15 Saddlebrooke East,Registered Voters - NONPARTISAN,,,-,,819,0,0,0
 Pinal,15 Saddlebrooke East,Ballots Cast - Total,,,,,1513,1305,208,0
 Pinal,15 Saddlebrooke East,Ballots Cast - REPUBLICAN,,,REP,,999,820,179,0
 Pinal,15 Saddlebrooke East,Ballots Cast - DEMOCRATIC,,,DEM,,510,481,29,0
@@ -2717,13 +2717,13 @@ Pinal,15 Saddlebrooke East,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,15 Saddlebrooke East,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,15 Saddlebrooke East,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,15 Saddlebrooke East,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,16 Red Rock,Registered Voters - Total,,,,,1054,1054,1054,1054
-Pinal,16 Red Rock,Registered Voters - REPUBLICAN,,,REP,,573,573,573,573
-Pinal,16 Red Rock,Registered Voters - DEMOCRATIC,,,DEM,,174,174,174,174
-Pinal,16 Red Rock,Registered Voters - LIBERTARIAN,,,LBT,,14,14,14,14
-Pinal,16 Red Rock,Registered Voters - NO LABELS,,,NOL,,3,3,3,3
-Pinal,16 Red Rock,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,16 Red Rock,Registered Voters - NONPARTISAN,,,-,,289,289,289,289
+Pinal,16 Red Rock,Registered Voters - Total,,,,,1054,0,0,0
+Pinal,16 Red Rock,Registered Voters - REPUBLICAN,,,REP,,573,0,0,0
+Pinal,16 Red Rock,Registered Voters - DEMOCRATIC,,,DEM,,174,0,0,0
+Pinal,16 Red Rock,Registered Voters - LIBERTARIAN,,,LBT,,14,0,0,0
+Pinal,16 Red Rock,Registered Voters - NO LABELS,,,NOL,,3,0,0,0
+Pinal,16 Red Rock,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,16 Red Rock,Registered Voters - NONPARTISAN,,,-,,289,0,0,0
 Pinal,16 Red Rock,Ballots Cast - Total,,,,,346,262,84,0
 Pinal,16 Red Rock,Ballots Cast - REPUBLICAN,,,REP,,282,201,81,0
 Pinal,16 Red Rock,Ballots Cast - DEMOCRATIC,,,DEM,,64,61,3,0
@@ -2920,13 +2920,13 @@ Pinal,16 Red Rock,Town Council,Town of Marana,2,,Write-In Totals,0,0,0,0
 Pinal,16 Red Rock,Town Council,Town of Marana,2,,Total Votes Cast,0,0,0,0
 Pinal,16 Red Rock,Town Council,Town of Marana,2,,Overvotes,0,0,0,0
 Pinal,16 Red Rock,Town Council,Town of Marana,2,,Undervotes,0,0,0,0
-Pinal,17 Coolidge NE,Registered Voters - Total,,,,,1586,1586,1586,1586
-Pinal,17 Coolidge NE,Registered Voters - REPUBLICAN,,,REP,,446,446,446,446
-Pinal,17 Coolidge NE,Registered Voters - DEMOCRATIC,,,DEM,,461,461,461,461
-Pinal,17 Coolidge NE,Registered Voters - LIBERTARIAN,,,LBT,,7,7,7,7
-Pinal,17 Coolidge NE,Registered Voters - NO LABELS,,,NOL,,12,12,12,12
-Pinal,17 Coolidge NE,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,17 Coolidge NE,Registered Voters - NONPARTISAN,,,-,,659,659,659,659
+Pinal,17 Coolidge NE,Registered Voters - Total,,,,,1586,0,0,0
+Pinal,17 Coolidge NE,Registered Voters - REPUBLICAN,,,REP,,446,0,0,0
+Pinal,17 Coolidge NE,Registered Voters - DEMOCRATIC,,,DEM,,461,0,0,0
+Pinal,17 Coolidge NE,Registered Voters - LIBERTARIAN,,,LBT,,7,0,0,0
+Pinal,17 Coolidge NE,Registered Voters - NO LABELS,,,NOL,,12,0,0,0
+Pinal,17 Coolidge NE,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,17 Coolidge NE,Registered Voters - NONPARTISAN,,,-,,659,0,0,0
 Pinal,17 Coolidge NE,Ballots Cast - Total,,,,,329,255,72,2
 Pinal,17 Coolidge NE,Ballots Cast - REPUBLICAN,,,REP,,188,143,45,0
 Pinal,17 Coolidge NE,Ballots Cast - DEMOCRATIC,,,DEM,,134,110,23,1
@@ -3126,13 +3126,13 @@ Pinal,17 Coolidge NE,City Council,City of Coolidge,3,,Write-In Totals,8,7,1,0
 Pinal,17 Coolidge NE,City Council,City of Coolidge,3,,Total Votes Cast,782,634,144,4
 Pinal,17 Coolidge NE,City Council,City of Coolidge,3,,Overvotes,0,0,0,0
 Pinal,17 Coolidge NE,City Council,City of Coolidge,3,,Undervotes,181,122,57,2
-Pinal,18 Coolidge NW,Registered Voters - Total,,,,,4344,4344,4344,4344
-Pinal,18 Coolidge NW,Registered Voters - REPUBLICAN,,,REP,,1476,1476,1476,1476
-Pinal,18 Coolidge NW,Registered Voters - DEMOCRATIC,,,DEM,,1060,1060,1060,1060
-Pinal,18 Coolidge NW,Registered Voters - LIBERTARIAN,,,LBT,,34,34,34,34
-Pinal,18 Coolidge NW,Registered Voters - NO LABELS,,,NOL,,37,37,37,37
-Pinal,18 Coolidge NW,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,18 Coolidge NW,Registered Voters - NONPARTISAN,,,-,,1735,1735,1735,1735
+Pinal,18 Coolidge NW,Registered Voters - Total,,,,,4344,0,0,0
+Pinal,18 Coolidge NW,Registered Voters - REPUBLICAN,,,REP,,1476,0,0,0
+Pinal,18 Coolidge NW,Registered Voters - DEMOCRATIC,,,DEM,,1060,0,0,0
+Pinal,18 Coolidge NW,Registered Voters - LIBERTARIAN,,,LBT,,34,0,0,0
+Pinal,18 Coolidge NW,Registered Voters - NO LABELS,,,NOL,,37,0,0,0
+Pinal,18 Coolidge NW,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,18 Coolidge NW,Registered Voters - NONPARTISAN,,,-,,1735,0,0,0
 Pinal,18 Coolidge NW,Ballots Cast - Total,,,,,1058,741,315,2
 Pinal,18 Coolidge NW,Ballots Cast - REPUBLICAN,,,REP,,728,468,258,2
 Pinal,18 Coolidge NW,Ballots Cast - DEMOCRATIC,,,DEM,,320,267,53,0
@@ -3332,13 +3332,13 @@ Pinal,18 Coolidge NW,City Council,City of Coolidge,3,,Write-In Totals,7,5,2,0
 Pinal,18 Coolidge NW,City Council,City of Coolidge,3,,Total Votes Cast,2494,1798,690,6
 Pinal,18 Coolidge NW,City Council,City of Coolidge,3,,Overvotes,0,0,0,0
 Pinal,18 Coolidge NW,City Council,City of Coolidge,3,,Undervotes,680,425,255,0
-Pinal,19 Coolidge South,Registered Voters - Total,,,,,2415,2415,2415,2415
-Pinal,19 Coolidge South,Registered Voters - REPUBLICAN,,,REP,,663,663,663,663
-Pinal,19 Coolidge South,Registered Voters - DEMOCRATIC,,,DEM,,703,703,703,703
-Pinal,19 Coolidge South,Registered Voters - LIBERTARIAN,,,LBT,,12,12,12,12
-Pinal,19 Coolidge South,Registered Voters - NO LABELS,,,NOL,,25,25,25,25
-Pinal,19 Coolidge South,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,19 Coolidge South,Registered Voters - NONPARTISAN,,,-,,1011,1011,1011,1011
+Pinal,19 Coolidge South,Registered Voters - Total,,,,,2415,0,0,0
+Pinal,19 Coolidge South,Registered Voters - REPUBLICAN,,,REP,,663,0,0,0
+Pinal,19 Coolidge South,Registered Voters - DEMOCRATIC,,,DEM,,703,0,0,0
+Pinal,19 Coolidge South,Registered Voters - LIBERTARIAN,,,LBT,,12,0,0,0
+Pinal,19 Coolidge South,Registered Voters - NO LABELS,,,NOL,,25,0,0,0
+Pinal,19 Coolidge South,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,19 Coolidge South,Registered Voters - NONPARTISAN,,,-,,1011,0,0,0
 Pinal,19 Coolidge South,Ballots Cast - Total,,,,,506,377,126,3
 Pinal,19 Coolidge South,Ballots Cast - REPUBLICAN,,,REP,,272,174,95,3
 Pinal,19 Coolidge South,Ballots Cast - DEMOCRATIC,,,DEM,,228,200,28,0
@@ -3537,13 +3537,13 @@ Pinal,19 Coolidge South,City Council,City of Coolidge,3,,Write-In Totals,3,3,0,0
 Pinal,19 Coolidge South,City Council,City of Coolidge,3,,Total Votes Cast,1150,873,271,6
 Pinal,19 Coolidge South,City Council,City of Coolidge,3,,Overvotes,3,3,0,0
 Pinal,19 Coolidge South,City Council,City of Coolidge,3,,Undervotes,329,225,101,3
-Pinal,20 Randolph,Registered Voters - Total,,,,,935,935,935,935
-Pinal,20 Randolph,Registered Voters - REPUBLICAN,,,REP,,396,396,396,396
-Pinal,20 Randolph,Registered Voters - DEMOCRATIC,,,DEM,,195,195,195,195
-Pinal,20 Randolph,Registered Voters - LIBERTARIAN,,,LBT,,5,5,5,5
-Pinal,20 Randolph,Registered Voters - NO LABELS,,,NOL,,2,2,2,2
-Pinal,20 Randolph,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,20 Randolph,Registered Voters - NONPARTISAN,,,-,,336,336,336,336
+Pinal,20 Randolph,Registered Voters - Total,,,,,935,0,0,0
+Pinal,20 Randolph,Registered Voters - REPUBLICAN,,,REP,,396,0,0,0
+Pinal,20 Randolph,Registered Voters - DEMOCRATIC,,,DEM,,195,0,0,0
+Pinal,20 Randolph,Registered Voters - LIBERTARIAN,,,LBT,,5,0,0,0
+Pinal,20 Randolph,Registered Voters - NO LABELS,,,NOL,,2,0,0,0
+Pinal,20 Randolph,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,20 Randolph,Registered Voters - NONPARTISAN,,,-,,336,0,0,0
 Pinal,20 Randolph,Ballots Cast - Total,,,,,269,212,54,3
 Pinal,20 Randolph,Ballots Cast - REPUBLICAN,,,REP,,201,155,45,1
 Pinal,20 Randolph,Ballots Cast - DEMOCRATIC,,,DEM,,67,57,8,2
@@ -3742,13 +3742,13 @@ Pinal,20 Randolph,City Council,City of Coolidge,3,,Write-In Totals,0,0,0,0
 Pinal,20 Randolph,City Council,City of Coolidge,3,,Total Votes Cast,34,20,11,3
 Pinal,20 Randolph,City Council,City of Coolidge,3,,Overvotes,0,0,0,0
 Pinal,20 Randolph,City Council,City of Coolidge,3,,Undervotes,14,4,10,0
-Pinal,21 Central Arizona College,Registered Voters - Total,,,,,1618,1618,1618,1618
-Pinal,21 Central Arizona College,Registered Voters - REPUBLICAN,,,REP,,742,742,742,742
-Pinal,21 Central Arizona College,Registered Voters - DEMOCRATIC,,,DEM,,313,313,313,313
-Pinal,21 Central Arizona College,Registered Voters - LIBERTARIAN,,,LBT,,11,11,11,11
-Pinal,21 Central Arizona College,Registered Voters - NO LABELS,,,NOL,,11,11,11,11
+Pinal,21 Central Arizona College,Registered Voters - Total,,,,,1618,0,0,0
+Pinal,21 Central Arizona College,Registered Voters - REPUBLICAN,,,REP,,742,0,0,0
+Pinal,21 Central Arizona College,Registered Voters - DEMOCRATIC,,,DEM,,313,0,0,0
+Pinal,21 Central Arizona College,Registered Voters - LIBERTARIAN,,,LBT,,11,0,0,0
+Pinal,21 Central Arizona College,Registered Voters - NO LABELS,,,NOL,,11,0,0,0
 Pinal,21 Central Arizona College,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,21 Central Arizona College,Registered Voters - NONPARTISAN,,,-,,541,541,541,541
+Pinal,21 Central Arizona College,Registered Voters - NONPARTISAN,,,-,,541,0,0,0
 Pinal,21 Central Arizona College,Ballots Cast - Total,,,,,555,438,114,3
 Pinal,21 Central Arizona College,Ballots Cast - REPUBLICAN,,,REP,,421,321,98,2
 Pinal,21 Central Arizona College,Ballots Cast - DEMOCRATIC,,,DEM,,133,117,15,1
@@ -3964,13 +3964,13 @@ Pinal,21 Central Arizona College,City Council,City of Coolidge,3,,Write-In Total
 Pinal,21 Central Arizona College,City Council,City of Coolidge,3,,Total Votes Cast,188,139,49,0
 Pinal,21 Central Arizona College,City Council,City of Coolidge,3,,Overvotes,0,0,0,0
 Pinal,21 Central Arizona College,City Council,City of Coolidge,3,,Undervotes,76,53,23,0
-Pinal,22 Eleven Mile Corner,Registered Voters - Total,,,,,912,912,912,912
-Pinal,22 Eleven Mile Corner,Registered Voters - REPUBLICAN,,,REP,,421,421,421,421
-Pinal,22 Eleven Mile Corner,Registered Voters - DEMOCRATIC,,,DEM,,167,167,167,167
-Pinal,22 Eleven Mile Corner,Registered Voters - LIBERTARIAN,,,LBT,,8,8,8,8
-Pinal,22 Eleven Mile Corner,Registered Voters - NO LABELS,,,NOL,,6,6,6,6
+Pinal,22 Eleven Mile Corner,Registered Voters - Total,,,,,912,0,0,0
+Pinal,22 Eleven Mile Corner,Registered Voters - REPUBLICAN,,,REP,,421,0,0,0
+Pinal,22 Eleven Mile Corner,Registered Voters - DEMOCRATIC,,,DEM,,167,0,0,0
+Pinal,22 Eleven Mile Corner,Registered Voters - LIBERTARIAN,,,LBT,,8,0,0,0
+Pinal,22 Eleven Mile Corner,Registered Voters - NO LABELS,,,NOL,,6,0,0,0
 Pinal,22 Eleven Mile Corner,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,22 Eleven Mile Corner,Registered Voters - NONPARTISAN,,,-,,310,310,310,310
+Pinal,22 Eleven Mile Corner,Registered Voters - NONPARTISAN,,,-,,310,0,0,0
 Pinal,22 Eleven Mile Corner,Ballots Cast - Total,,,,,272,188,82,2
 Pinal,22 Eleven Mile Corner,Ballots Cast - REPUBLICAN,,,REP,,221,146,73,2
 Pinal,22 Eleven Mile Corner,Ballots Cast - DEMOCRATIC,,,DEM,,51,42,9,0
@@ -4186,13 +4186,13 @@ Pinal,22 Eleven Mile Corner,City Council,City of Coolidge,3,,Write-In Totals,0,0
 Pinal,22 Eleven Mile Corner,City Council,City of Coolidge,3,,Total Votes Cast,6,0,6,0
 Pinal,22 Eleven Mile Corner,City Council,City of Coolidge,3,,Overvotes,0,0,0,0
 Pinal,22 Eleven Mile Corner,City Council,City of Coolidge,3,,Undervotes,0,0,0,0
-Pinal,23 Florence North,Registered Voters - Total,,,,,1147,1147,1147,1147
-Pinal,23 Florence North,Registered Voters - REPUBLICAN,,,REP,,534,534,534,534
-Pinal,23 Florence North,Registered Voters - DEMOCRATIC,,,DEM,,216,216,216,216
-Pinal,23 Florence North,Registered Voters - LIBERTARIAN,,,LBT,,5,5,5,5
-Pinal,23 Florence North,Registered Voters - NO LABELS,,,NOL,,4,4,4,4
-Pinal,23 Florence North,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,23 Florence North,Registered Voters - NONPARTISAN,,,-,,387,387,387,387
+Pinal,23 Florence North,Registered Voters - Total,,,,,1147,0,0,0
+Pinal,23 Florence North,Registered Voters - REPUBLICAN,,,REP,,534,0,0,0
+Pinal,23 Florence North,Registered Voters - DEMOCRATIC,,,DEM,,216,0,0,0
+Pinal,23 Florence North,Registered Voters - LIBERTARIAN,,,LBT,,5,0,0,0
+Pinal,23 Florence North,Registered Voters - NO LABELS,,,NOL,,4,0,0,0
+Pinal,23 Florence North,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,23 Florence North,Registered Voters - NONPARTISAN,,,-,,387,0,0,0
 Pinal,23 Florence North,Ballots Cast - Total,,,,,512,432,80,0
 Pinal,23 Florence North,Ballots Cast - REPUBLICAN,,,REP,,355,289,66,0
 Pinal,23 Florence North,Ballots Cast - DEMOCRATIC,,,DEM,,146,136,10,0
@@ -4396,13 +4396,13 @@ Pinal,23 Florence North,Town Council,Town of Florence,3,,Write-In Totals,60,54,6
 Pinal,23 Florence North,Town Council,Town of Florence,3,,Total Votes Cast,923,801,122,0
 Pinal,23 Florence North,Town Council,Town of Florence,3,,Overvotes,0,0,0,0
 Pinal,23 Florence North,Town Council,Town of Florence,3,,Undervotes,592,477,115,0
-Pinal,24 Florence South,Registered Voters - Total,,,,,2516,2516,2516,2516
-Pinal,24 Florence South,Registered Voters - REPUBLICAN,,,REP,,939,939,939,939
-Pinal,24 Florence South,Registered Voters - DEMOCRATIC,,,DEM,,681,681,681,681
-Pinal,24 Florence South,Registered Voters - LIBERTARIAN,,,LBT,,22,22,22,22
-Pinal,24 Florence South,Registered Voters - NO LABELS,,,NOL,,20,20,20,20
+Pinal,24 Florence South,Registered Voters - Total,,,,,2516,0,0,0
+Pinal,24 Florence South,Registered Voters - REPUBLICAN,,,REP,,939,0,0,0
+Pinal,24 Florence South,Registered Voters - DEMOCRATIC,,,DEM,,681,0,0,0
+Pinal,24 Florence South,Registered Voters - LIBERTARIAN,,,LBT,,22,0,0,0
+Pinal,24 Florence South,Registered Voters - NO LABELS,,,NOL,,20,0,0,0
 Pinal,24 Florence South,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,24 Florence South,Registered Voters - NONPARTISAN,,,-,,854,854,854,854
+Pinal,24 Florence South,Registered Voters - NONPARTISAN,,,-,,854,0,0,0
 Pinal,24 Florence South,Ballots Cast - Total,,,,,843,629,213,1
 Pinal,24 Florence South,Ballots Cast - REPUBLICAN,,,REP,,540,358,181,1
 Pinal,24 Florence South,Ballots Cast - DEMOCRATIC,,,DEM,,295,267,28,0
@@ -4614,13 +4614,13 @@ Pinal,24 Florence South,Town Council,Town of Florence,3,,Write-In Totals,119,88,
 Pinal,24 Florence South,Town Council,Town of Florence,3,,Total Votes Cast,1371,1065,303,3
 Pinal,24 Florence South,Town Council,Town of Florence,3,,Overvotes,0,0,0,0
 Pinal,24 Florence South,Town Council,Town of Florence,3,,Undervotes,780,555,225,0
-Pinal,25 Cactus Forest,Registered Voters - Total,,,,,1887,1887,1887,1887
-Pinal,25 Cactus Forest,Registered Voters - REPUBLICAN,,,REP,,1001,1001,1001,1001
-Pinal,25 Cactus Forest,Registered Voters - DEMOCRATIC,,,DEM,,252,252,252,252
-Pinal,25 Cactus Forest,Registered Voters - LIBERTARIAN,,,LBT,,18,18,18,18
-Pinal,25 Cactus Forest,Registered Voters - NO LABELS,,,NOL,,5,5,5,5
+Pinal,25 Cactus Forest,Registered Voters - Total,,,,,1887,0,0,0
+Pinal,25 Cactus Forest,Registered Voters - REPUBLICAN,,,REP,,1001,0,0,0
+Pinal,25 Cactus Forest,Registered Voters - DEMOCRATIC,,,DEM,,252,0,0,0
+Pinal,25 Cactus Forest,Registered Voters - LIBERTARIAN,,,LBT,,18,0,0,0
+Pinal,25 Cactus Forest,Registered Voters - NO LABELS,,,NOL,,5,0,0,0
 Pinal,25 Cactus Forest,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,25 Cactus Forest,Registered Voters - NONPARTISAN,,,-,,611,611,611,611
+Pinal,25 Cactus Forest,Registered Voters - NONPARTISAN,,,-,,611,0,0,0
 Pinal,25 Cactus Forest,Ballots Cast - Total,,,,,684,518,165,1
 Pinal,25 Cactus Forest,Ballots Cast - REPUBLICAN,,,REP,,569,415,153,1
 Pinal,25 Cactus Forest,Ballots Cast - DEMOCRATIC,,,DEM,,114,102,12,0
@@ -4832,13 +4832,13 @@ Pinal,25 Cactus Forest,Town Council,Town of Florence,3,,Write-In Totals,0,0,0,0
 Pinal,25 Cactus Forest,Town Council,Town of Florence,3,,Total Votes Cast,0,0,0,0
 Pinal,25 Cactus Forest,Town Council,Town of Florence,3,,Overvotes,0,0,0,0
 Pinal,25 Cactus Forest,Town Council,Town of Florence,3,,Undervotes,0,0,0,0
-Pinal,26 Johnson Ranch,Registered Voters - Total,,,,,4129,4129,4129,4129
-Pinal,26 Johnson Ranch,Registered Voters - REPUBLICAN,,,REP,,1819,1819,1819,1819
-Pinal,26 Johnson Ranch,Registered Voters - DEMOCRATIC,,,DEM,,751,751,751,751
-Pinal,26 Johnson Ranch,Registered Voters - LIBERTARIAN,,,LBT,,35,35,35,35
-Pinal,26 Johnson Ranch,Registered Voters - NO LABELS,,,NOL,,26,26,26,26
-Pinal,26 Johnson Ranch,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,26 Johnson Ranch,Registered Voters - NONPARTISAN,,,-,,1496,1496,1496,1496
+Pinal,26 Johnson Ranch,Registered Voters - Total,,,,,4129,0,0,0
+Pinal,26 Johnson Ranch,Registered Voters - REPUBLICAN,,,REP,,1819,0,0,0
+Pinal,26 Johnson Ranch,Registered Voters - DEMOCRATIC,,,DEM,,751,0,0,0
+Pinal,26 Johnson Ranch,Registered Voters - LIBERTARIAN,,,LBT,,35,0,0,0
+Pinal,26 Johnson Ranch,Registered Voters - NO LABELS,,,NOL,,26,0,0,0
+Pinal,26 Johnson Ranch,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,26 Johnson Ranch,Registered Voters - NONPARTISAN,,,-,,1496,0,0,0
 Pinal,26 Johnson Ranch,Ballots Cast - Total,,,,,1261,1048,212,1
 Pinal,26 Johnson Ranch,Ballots Cast - REPUBLICAN,,,REP,,927,738,188,1
 Pinal,26 Johnson Ranch,Ballots Cast - DEMOCRATIC,,,DEM,,327,303,24,0
@@ -5022,13 +5022,13 @@ Pinal,26 Johnson Ranch,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,26 Johnson Ranch,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,26 Johnson Ranch,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,26 Johnson Ranch,Corporation Commission,,3,GRN,Undervotes,3,3,0,0
-Pinal,27 Poston Butte,Registered Voters - Total,,,,,4121,4121,4121,4121
-Pinal,27 Poston Butte,Registered Voters - REPUBLICAN,,,REP,,1695,1695,1695,1695
-Pinal,27 Poston Butte,Registered Voters - DEMOCRATIC,,,DEM,,763,763,763,763
-Pinal,27 Poston Butte,Registered Voters - LIBERTARIAN,,,LBT,,45,45,45,45
-Pinal,27 Poston Butte,Registered Voters - NO LABELS,,,NOL,,42,42,42,42
-Pinal,27 Poston Butte,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,27 Poston Butte,Registered Voters - NONPARTISAN,,,-,,1575,1575,1575,1575
+Pinal,27 Poston Butte,Registered Voters - Total,,,,,4121,0,0,0
+Pinal,27 Poston Butte,Registered Voters - REPUBLICAN,,,REP,,1695,0,0,0
+Pinal,27 Poston Butte,Registered Voters - DEMOCRATIC,,,DEM,,763,0,0,0
+Pinal,27 Poston Butte,Registered Voters - LIBERTARIAN,,,LBT,,45,0,0,0
+Pinal,27 Poston Butte,Registered Voters - NO LABELS,,,NOL,,42,0,0,0
+Pinal,27 Poston Butte,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,27 Poston Butte,Registered Voters - NONPARTISAN,,,-,,1575,0,0,0
 Pinal,27 Poston Butte,Ballots Cast - Total,,,,,871,693,178,0
 Pinal,27 Poston Butte,Ballots Cast - REPUBLICAN,,,REP,,647,501,146,0
 Pinal,27 Poston Butte,Ballots Cast - DEMOCRATIC,,,DEM,,222,192,30,0
@@ -5231,13 +5231,13 @@ Pinal,27 Poston Butte,Town Council,Town of Florence,3,,Write-In Totals,2,2,0,0
 Pinal,27 Poston Butte,Town Council,Town of Florence,3,,Total Votes Cast,4,4,0,0
 Pinal,27 Poston Butte,Town Council,Town of Florence,3,,Overvotes,0,0,0,0
 Pinal,27 Poston Butte,Town Council,Town of Florence,3,,Undervotes,2,2,0,0
-Pinal,28 Queen Creek,Registered Voters - Total,,,,,7422,7422,7422,7422
-Pinal,28 Queen Creek,Registered Voters - REPUBLICAN,,,REP,,3309,3309,3309,3309
-Pinal,28 Queen Creek,Registered Voters - DEMOCRATIC,,,DEM,,1497,1497,1497,1497
-Pinal,28 Queen Creek,Registered Voters - LIBERTARIAN,,,LBT,,65,65,65,65
-Pinal,28 Queen Creek,Registered Voters - NO LABELS,,,NOL,,59,59,59,59
-Pinal,28 Queen Creek,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,28 Queen Creek,Registered Voters - NONPARTISAN,,,-,,2489,2489,2489,2489
+Pinal,28 Queen Creek,Registered Voters - Total,,,,,7422,0,0,0
+Pinal,28 Queen Creek,Registered Voters - REPUBLICAN,,,REP,,3309,0,0,0
+Pinal,28 Queen Creek,Registered Voters - DEMOCRATIC,,,DEM,,1497,0,0,0
+Pinal,28 Queen Creek,Registered Voters - LIBERTARIAN,,,LBT,,65,0,0,0
+Pinal,28 Queen Creek,Registered Voters - NO LABELS,,,NOL,,59,0,0,0
+Pinal,28 Queen Creek,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,28 Queen Creek,Registered Voters - NONPARTISAN,,,-,,2489,0,0,0
 Pinal,28 Queen Creek,Ballots Cast - Total,,,,,2076,1727,349,0
 Pinal,28 Queen Creek,Ballots Cast - REPUBLICAN,,,REP,,1473,1175,298,0
 Pinal,28 Queen Creek,Ballots Cast - DEMOCRATIC,,,DEM,,593,546,47,0
@@ -5427,13 +5427,13 @@ Pinal,28 Queen Creek,Town Council,Town of Queen Creek,3,,Write-In Totals,1,0,1,0
 Pinal,28 Queen Creek,Town Council,Town of Queen Creek,3,,Total Votes Cast,1919,1871,48,0
 Pinal,28 Queen Creek,Town Council,Town of Queen Creek,3,,Overvotes,3,3,0,0
 Pinal,28 Queen Creek,Town Council,Town of Queen Creek,3,,Undervotes,736,706,30,0
-Pinal,29 Sacaton,Registered Voters - Total,,,,,1096,1096,1096,1096
-Pinal,29 Sacaton,Registered Voters - REPUBLICAN,,,REP,,84,84,84,84
-Pinal,29 Sacaton,Registered Voters - DEMOCRATIC,,,DEM,,449,449,449,449
-Pinal,29 Sacaton,Registered Voters - LIBERTARIAN,,,LBT,,3,3,3,3
-Pinal,29 Sacaton,Registered Voters - NO LABELS,,,NOL,,16,16,16,16
+Pinal,29 Sacaton,Registered Voters - Total,,,,,1096,0,0,0
+Pinal,29 Sacaton,Registered Voters - REPUBLICAN,,,REP,,84,0,0,0
+Pinal,29 Sacaton,Registered Voters - DEMOCRATIC,,,DEM,,449,0,0,0
+Pinal,29 Sacaton,Registered Voters - LIBERTARIAN,,,LBT,,3,0,0,0
+Pinal,29 Sacaton,Registered Voters - NO LABELS,,,NOL,,16,0,0,0
 Pinal,29 Sacaton,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,29 Sacaton,Registered Voters - NONPARTISAN,,,-,,544,544,544,544
+Pinal,29 Sacaton,Registered Voters - NONPARTISAN,,,-,,544,0,0,0
 Pinal,29 Sacaton,Ballots Cast - Total,,,,,144,44,99,1
 Pinal,29 Sacaton,Ballots Cast - REPUBLICAN,,,REP,,19,5,14,0
 Pinal,29 Sacaton,Ballots Cast - DEMOCRATIC,,,DEM,,123,39,83,1
@@ -5619,13 +5619,13 @@ Pinal,29 Sacaton,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,29 Sacaton,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,29 Sacaton,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,29 Sacaton,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,30 Maricopa,Registered Voters - Total,,,,,2815,2815,2815,2815
-Pinal,30 Maricopa,Registered Voters - REPUBLICAN,,,REP,,841,841,841,841
-Pinal,30 Maricopa,Registered Voters - DEMOCRATIC,,,DEM,,761,761,761,761
-Pinal,30 Maricopa,Registered Voters - LIBERTARIAN,,,LBT,,22,22,22,22
-Pinal,30 Maricopa,Registered Voters - NO LABELS,,,NOL,,31,31,31,31
+Pinal,30 Maricopa,Registered Voters - Total,,,,,2815,0,0,0
+Pinal,30 Maricopa,Registered Voters - REPUBLICAN,,,REP,,841,0,0,0
+Pinal,30 Maricopa,Registered Voters - DEMOCRATIC,,,DEM,,761,0,0,0
+Pinal,30 Maricopa,Registered Voters - LIBERTARIAN,,,LBT,,22,0,0,0
+Pinal,30 Maricopa,Registered Voters - NO LABELS,,,NOL,,31,0,0,0
 Pinal,30 Maricopa,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,30 Maricopa,Registered Voters - NONPARTISAN,,,-,,1160,1160,1160,1160
+Pinal,30 Maricopa,Registered Voters - NONPARTISAN,,,-,,1160,0,0,0
 Pinal,30 Maricopa,Ballots Cast - Total,,,,,614,503,111,0
 Pinal,30 Maricopa,Ballots Cast - REPUBLICAN,,,REP,,352,264,88,0
 Pinal,30 Maricopa,Ballots Cast - DEMOCRATIC,,,DEM,,254,237,17,0
@@ -5840,13 +5840,13 @@ Pinal,30 Maricopa,Proposition 482,City of Maricopa,1,,NO,265,214,51,0
 Pinal,30 Maricopa,Proposition 482,City of Maricopa,1,,Total Votes Cast,577,469,108,0
 Pinal,30 Maricopa,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,30 Maricopa,Proposition 482,City of Maricopa,1,,Undervotes,36,33,3,0
-Pinal,31 Stanfield,Registered Voters - Total,,,,,765,765,765,765
-Pinal,31 Stanfield,Registered Voters - REPUBLICAN,,,REP,,262,262,262,262
-Pinal,31 Stanfield,Registered Voters - DEMOCRATIC,,,DEM,,205,205,205,205
-Pinal,31 Stanfield,Registered Voters - LIBERTARIAN,,,LBT,,5,5,5,5
-Pinal,31 Stanfield,Registered Voters - NO LABELS,,,NOL,,10,10,10,10
+Pinal,31 Stanfield,Registered Voters - Total,,,,,765,0,0,0
+Pinal,31 Stanfield,Registered Voters - REPUBLICAN,,,REP,,262,0,0,0
+Pinal,31 Stanfield,Registered Voters - DEMOCRATIC,,,DEM,,205,0,0,0
+Pinal,31 Stanfield,Registered Voters - LIBERTARIAN,,,LBT,,5,0,0,0
+Pinal,31 Stanfield,Registered Voters - NO LABELS,,,NOL,,10,0,0,0
 Pinal,31 Stanfield,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,31 Stanfield,Registered Voters - NONPARTISAN,,,-,,283,283,283,283
+Pinal,31 Stanfield,Registered Voters - NONPARTISAN,,,-,,283,0,0,0
 Pinal,31 Stanfield,Ballots Cast - Total,,,,,191,147,44,0
 Pinal,31 Stanfield,Ballots Cast - REPUBLICAN,,,REP,,137,105,32,0
 Pinal,31 Stanfield,Ballots Cast - DEMOCRATIC,,,DEM,,54,42,12,0
@@ -6077,13 +6077,13 @@ Pinal,31 Stanfield,Proposition 482,City of Maricopa,1,,NO,0,0,0,0
 Pinal,31 Stanfield,Proposition 482,City of Maricopa,1,,Total Votes Cast,0,0,0,0
 Pinal,31 Stanfield,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,31 Stanfield,Proposition 482,City of Maricopa,1,,Undervotes,0,0,0,0
-Pinal,33 Casa Grande N Central,Registered Voters - Total,,,,,2371,2371,2371,2371
-Pinal,33 Casa Grande N Central,Registered Voters - REPUBLICAN,,,REP,,724,724,724,724
-Pinal,33 Casa Grande N Central,Registered Voters - DEMOCRATIC,,,DEM,,699,699,699,699
-Pinal,33 Casa Grande N Central,Registered Voters - LIBERTARIAN,,,LBT,,17,17,17,17
-Pinal,33 Casa Grande N Central,Registered Voters - NO LABELS,,,NOL,,25,25,25,25
-Pinal,33 Casa Grande N Central,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,33 Casa Grande N Central,Registered Voters - NONPARTISAN,,,-,,905,905,905,905
+Pinal,33 Casa Grande N Central,Registered Voters - Total,,,,,2371,0,0,0
+Pinal,33 Casa Grande N Central,Registered Voters - REPUBLICAN,,,REP,,724,0,0,0
+Pinal,33 Casa Grande N Central,Registered Voters - DEMOCRATIC,,,DEM,,699,0,0,0
+Pinal,33 Casa Grande N Central,Registered Voters - LIBERTARIAN,,,LBT,,17,0,0,0
+Pinal,33 Casa Grande N Central,Registered Voters - NO LABELS,,,NOL,,25,0,0,0
+Pinal,33 Casa Grande N Central,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,33 Casa Grande N Central,Registered Voters - NONPARTISAN,,,-,,905,0,0,0
 Pinal,33 Casa Grande N Central,Ballots Cast - Total,,,,,693,568,123,2
 Pinal,33 Casa Grande N Central,Ballots Cast - REPUBLICAN,,,REP,,388,307,80,1
 Pinal,33 Casa Grande N Central,Ballots Cast - DEMOCRATIC,,,DEM,,290,253,36,1
@@ -6285,13 +6285,13 @@ Pinal,33 Casa Grande N Central,City Council,City of Casa Grande,3,,Write-In Tota
 Pinal,33 Casa Grande N Central,City Council,City of Casa Grande,3,,Total Votes Cast,1702,1424,275,3
 Pinal,33 Casa Grande N Central,City Council,City of Casa Grande,3,,Overvotes,0,0,0,0
 Pinal,33 Casa Grande N Central,City Council,City of Casa Grande,3,,Undervotes,377,280,94,3
-Pinal,34 Casa Grande S Central,Registered Voters - Total,,,,,1950,1950,1950,1950
-Pinal,34 Casa Grande S Central,Registered Voters - REPUBLICAN,,,REP,,565,565,565,565
-Pinal,34 Casa Grande S Central,Registered Voters - DEMOCRATIC,,,DEM,,614,614,614,614
-Pinal,34 Casa Grande S Central,Registered Voters - LIBERTARIAN,,,LBT,,16,16,16,16
-Pinal,34 Casa Grande S Central,Registered Voters - NO LABELS,,,NOL,,20,20,20,20
+Pinal,34 Casa Grande S Central,Registered Voters - Total,,,,,1950,0,0,0
+Pinal,34 Casa Grande S Central,Registered Voters - REPUBLICAN,,,REP,,565,0,0,0
+Pinal,34 Casa Grande S Central,Registered Voters - DEMOCRATIC,,,DEM,,614,0,0,0
+Pinal,34 Casa Grande S Central,Registered Voters - LIBERTARIAN,,,LBT,,16,0,0,0
+Pinal,34 Casa Grande S Central,Registered Voters - NO LABELS,,,NOL,,20,0,0,0
 Pinal,34 Casa Grande S Central,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,34 Casa Grande S Central,Registered Voters - NONPARTISAN,,,-,,735,735,735,735
+Pinal,34 Casa Grande S Central,Registered Voters - NONPARTISAN,,,-,,735,0,0,0
 Pinal,34 Casa Grande S Central,Ballots Cast - Total,,,,,546,432,113,1
 Pinal,34 Casa Grande S Central,Ballots Cast - REPUBLICAN,,,REP,,308,236,72,0
 Pinal,34 Casa Grande S Central,Ballots Cast - DEMOCRATIC,,,DEM,,225,193,31,1
@@ -6493,13 +6493,13 @@ Pinal,34 Casa Grande S Central,City Council,City of Casa Grande,3,,Write-In Tota
 Pinal,34 Casa Grande S Central,City Council,City of Casa Grande,3,,Total Votes Cast,1361,1106,252,3
 Pinal,34 Casa Grande S Central,City Council,City of Casa Grande,3,,Overvotes,3,3,0,0
 Pinal,34 Casa Grande S Central,City Council,City of Casa Grande,3,,Undervotes,274,187,87,0
-Pinal,35 Casa Grande NE,Registered Voters - Total,,,,,2960,2960,2960,2960
-Pinal,35 Casa Grande NE,Registered Voters - REPUBLICAN,,,REP,,1033,1033,1033,1033
-Pinal,35 Casa Grande NE,Registered Voters - DEMOCRATIC,,,DEM,,778,778,778,778
-Pinal,35 Casa Grande NE,Registered Voters - LIBERTARIAN,,,LBT,,19,19,19,19
-Pinal,35 Casa Grande NE,Registered Voters - NO LABELS,,,NOL,,40,40,40,40
-Pinal,35 Casa Grande NE,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,35 Casa Grande NE,Registered Voters - NONPARTISAN,,,-,,1089,1089,1089,1089
+Pinal,35 Casa Grande NE,Registered Voters - Total,,,,,2960,0,0,0
+Pinal,35 Casa Grande NE,Registered Voters - REPUBLICAN,,,REP,,1033,0,0,0
+Pinal,35 Casa Grande NE,Registered Voters - DEMOCRATIC,,,DEM,,778,0,0,0
+Pinal,35 Casa Grande NE,Registered Voters - LIBERTARIAN,,,LBT,,19,0,0,0
+Pinal,35 Casa Grande NE,Registered Voters - NO LABELS,,,NOL,,40,0,0,0
+Pinal,35 Casa Grande NE,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,35 Casa Grande NE,Registered Voters - NONPARTISAN,,,-,,1089,0,0,0
 Pinal,35 Casa Grande NE,Ballots Cast - Total,,,,,854,688,162,4
 Pinal,35 Casa Grande NE,Ballots Cast - REPUBLICAN,,,REP,,512,383,126,3
 Pinal,35 Casa Grande NE,Ballots Cast - DEMOCRATIC,,,DEM,,334,299,34,1
@@ -6701,13 +6701,13 @@ Pinal,35 Casa Grande NE,City Council,City of Casa Grande,3,,Write-In Totals,7,2,
 Pinal,35 Casa Grande NE,City Council,City of Casa Grande,3,,Total Votes Cast,2043,1660,371,12
 Pinal,35 Casa Grande NE,City Council,City of Casa Grande,3,,Overvotes,9,6,3,0
 Pinal,35 Casa Grande NE,City Council,City of Casa Grande,3,,Undervotes,504,398,106,0
-Pinal,36 Casa Grande SE,Registered Voters - Total,,,,,2889,2889,2889,2889
-Pinal,36 Casa Grande SE,Registered Voters - REPUBLICAN,,,REP,,731,731,731,731
-Pinal,36 Casa Grande SE,Registered Voters - DEMOCRATIC,,,DEM,,952,952,952,952
-Pinal,36 Casa Grande SE,Registered Voters - LIBERTARIAN,,,LBT,,22,22,22,22
-Pinal,36 Casa Grande SE,Registered Voters - NO LABELS,,,NOL,,45,45,45,45
-Pinal,36 Casa Grande SE,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,36 Casa Grande SE,Registered Voters - NONPARTISAN,,,-,,1137,1137,1137,1137
+Pinal,36 Casa Grande SE,Registered Voters - Total,,,,,2889,0,0,0
+Pinal,36 Casa Grande SE,Registered Voters - REPUBLICAN,,,REP,,731,0,0,0
+Pinal,36 Casa Grande SE,Registered Voters - DEMOCRATIC,,,DEM,,952,0,0,0
+Pinal,36 Casa Grande SE,Registered Voters - LIBERTARIAN,,,LBT,,22,0,0,0
+Pinal,36 Casa Grande SE,Registered Voters - NO LABELS,,,NOL,,45,0,0,0
+Pinal,36 Casa Grande SE,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,36 Casa Grande SE,Registered Voters - NONPARTISAN,,,-,,1137,0,0,0
 Pinal,36 Casa Grande SE,Ballots Cast - Total,,,,,610,494,115,1
 Pinal,36 Casa Grande SE,Ballots Cast - REPUBLICAN,,,REP,,296,226,70,0
 Pinal,36 Casa Grande SE,Ballots Cast - DEMOCRATIC,,,DEM,,294,257,36,1
@@ -6909,13 +6909,13 @@ Pinal,36 Casa Grande SE,City Council,City of Casa Grande,3,,Write-In Totals,11,1
 Pinal,36 Casa Grande SE,City Council,City of Casa Grande,3,,Total Votes Cast,1136,928,205,3
 Pinal,36 Casa Grande SE,City Council,City of Casa Grande,3,,Overvotes,6,6,0,0
 Pinal,36 Casa Grande SE,City Council,City of Casa Grande,3,,Undervotes,280,209,71,0
-Pinal,37 Casa Grande NW,Registered Voters - Total,,,,,1341,1341,1341,1341
-Pinal,37 Casa Grande NW,Registered Voters - REPUBLICAN,,,REP,,534,534,534,534
-Pinal,37 Casa Grande NW,Registered Voters - DEMOCRATIC,,,DEM,,294,294,294,294
-Pinal,37 Casa Grande NW,Registered Voters - LIBERTARIAN,,,LBT,,3,3,3,3
-Pinal,37 Casa Grande NW,Registered Voters - NO LABELS,,,NOL,,10,10,10,10
+Pinal,37 Casa Grande NW,Registered Voters - Total,,,,,1341,0,0,0
+Pinal,37 Casa Grande NW,Registered Voters - REPUBLICAN,,,REP,,534,0,0,0
+Pinal,37 Casa Grande NW,Registered Voters - DEMOCRATIC,,,DEM,,294,0,0,0
+Pinal,37 Casa Grande NW,Registered Voters - LIBERTARIAN,,,LBT,,3,0,0,0
+Pinal,37 Casa Grande NW,Registered Voters - NO LABELS,,,NOL,,10,0,0,0
 Pinal,37 Casa Grande NW,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,37 Casa Grande NW,Registered Voters - NONPARTISAN,,,-,,500,500,500,500
+Pinal,37 Casa Grande NW,Registered Voters - NONPARTISAN,,,-,,500,0,0,0
 Pinal,37 Casa Grande NW,Ballots Cast - Total,,,,,456,394,60,2
 Pinal,37 Casa Grande NW,Ballots Cast - REPUBLICAN,,,REP,,299,243,54,2
 Pinal,37 Casa Grande NW,Ballots Cast - DEMOCRATIC,,,DEM,,151,146,5,0
@@ -7137,13 +7137,13 @@ Pinal,37 Casa Grande NW,Proposition 482,City of Maricopa,1,,NO,0,0,0,0
 Pinal,37 Casa Grande NW,Proposition 482,City of Maricopa,1,,Total Votes Cast,0,0,0,0
 Pinal,37 Casa Grande NW,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,37 Casa Grande NW,Proposition 482,City of Maricopa,1,,Undervotes,0,0,0,0
-Pinal,38 Casa Grande SW,Registered Voters - Total,,,,,783,783,783,783
-Pinal,38 Casa Grande SW,Registered Voters - REPUBLICAN,,,REP,,245,245,245,245
-Pinal,38 Casa Grande SW,Registered Voters - DEMOCRATIC,,,DEM,,207,207,207,207
-Pinal,38 Casa Grande SW,Registered Voters - LIBERTARIAN,,,LBT,,2,2,2,2
-Pinal,38 Casa Grande SW,Registered Voters - NO LABELS,,,NOL,,7,7,7,7
+Pinal,38 Casa Grande SW,Registered Voters - Total,,,,,783,0,0,0
+Pinal,38 Casa Grande SW,Registered Voters - REPUBLICAN,,,REP,,245,0,0,0
+Pinal,38 Casa Grande SW,Registered Voters - DEMOCRATIC,,,DEM,,207,0,0,0
+Pinal,38 Casa Grande SW,Registered Voters - LIBERTARIAN,,,LBT,,2,0,0,0
+Pinal,38 Casa Grande SW,Registered Voters - NO LABELS,,,NOL,,7,0,0,0
 Pinal,38 Casa Grande SW,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,38 Casa Grande SW,Registered Voters - NONPARTISAN,,,-,,322,322,322,322
+Pinal,38 Casa Grande SW,Registered Voters - NONPARTISAN,,,-,,322,0,0,0
 Pinal,38 Casa Grande SW,Ballots Cast - Total,,,,,159,112,46,1
 Pinal,38 Casa Grande SW,Ballots Cast - REPUBLICAN,,,REP,,101,65,35,1
 Pinal,38 Casa Grande SW,Ballots Cast - DEMOCRATIC,,,DEM,,58,47,11,0
@@ -7327,13 +7327,13 @@ Pinal,38 Casa Grande SW,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,38 Casa Grande SW,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,38 Casa Grande SW,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,38 Casa Grande SW,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,39 Casa Grande Rancho Grande,Registered Voters - Total,,,,,3924,3924,3924,3924
-Pinal,39 Casa Grande Rancho Grande,Registered Voters - REPUBLICAN,,,REP,,1471,1471,1471,1471
-Pinal,39 Casa Grande Rancho Grande,Registered Voters - DEMOCRATIC,,,DEM,,919,919,919,919
-Pinal,39 Casa Grande Rancho Grande,Registered Voters - LIBERTARIAN,,,LBT,,36,36,36,36
-Pinal,39 Casa Grande Rancho Grande,Registered Voters - NO LABELS,,,NOL,,47,47,47,47
-Pinal,39 Casa Grande Rancho Grande,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,39 Casa Grande Rancho Grande,Registered Voters - NONPARTISAN,,,-,,1450,1450,1450,1450
+Pinal,39 Casa Grande Rancho Grande,Registered Voters - Total,,,,,3924,0,0,0
+Pinal,39 Casa Grande Rancho Grande,Registered Voters - REPUBLICAN,,,REP,,1471,0,0,0
+Pinal,39 Casa Grande Rancho Grande,Registered Voters - DEMOCRATIC,,,DEM,,919,0,0,0
+Pinal,39 Casa Grande Rancho Grande,Registered Voters - LIBERTARIAN,,,LBT,,36,0,0,0
+Pinal,39 Casa Grande Rancho Grande,Registered Voters - NO LABELS,,,NOL,,47,0,0,0
+Pinal,39 Casa Grande Rancho Grande,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,39 Casa Grande Rancho Grande,Registered Voters - NONPARTISAN,,,-,,1450,0,0,0
 Pinal,39 Casa Grande Rancho Grande,Ballots Cast - Total,,,,,1133,919,211,3
 Pinal,39 Casa Grande Rancho Grande,Ballots Cast - REPUBLICAN,,,REP,,727,558,169,0
 Pinal,39 Casa Grande Rancho Grande,Ballots Cast - DEMOCRATIC,,,DEM,,384,349,33,2
@@ -7535,13 +7535,13 @@ Pinal,39 Casa Grande Rancho Grande,City Council,City of Casa Grande,3,,Write-In 
 Pinal,39 Casa Grande Rancho Grande,City Council,City of Casa Grande,3,,Total Votes Cast,2454,1995,455,4
 Pinal,39 Casa Grande Rancho Grande,City Council,City of Casa Grande,3,,Overvotes,3,3,0,0
 Pinal,39 Casa Grande Rancho Grande,City Council,City of Casa Grande,3,,Undervotes,501,381,115,5
-Pinal,40 Apache Jct Superstition,Registered Voters - Total,,,,,3267,3267,3267,3267
-Pinal,40 Apache Jct Superstition,Registered Voters - REPUBLICAN,,,REP,,1345,1345,1345,1345
-Pinal,40 Apache Jct Superstition,Registered Voters - DEMOCRATIC,,,DEM,,720,720,720,720
-Pinal,40 Apache Jct Superstition,Registered Voters - LIBERTARIAN,,,LBT,,23,23,23,23
-Pinal,40 Apache Jct Superstition,Registered Voters - NO LABELS,,,NOL,,25,25,25,25
-Pinal,40 Apache Jct Superstition,Registered Voters - GREEN,,,GRN,,6,6,6,6
-Pinal,40 Apache Jct Superstition,Registered Voters - NONPARTISAN,,,-,,1148,1148,1148,1148
+Pinal,40 Apache Jct Superstition,Registered Voters - Total,,,,,3267,0,0,0
+Pinal,40 Apache Jct Superstition,Registered Voters - REPUBLICAN,,,REP,,1345,0,0,0
+Pinal,40 Apache Jct Superstition,Registered Voters - DEMOCRATIC,,,DEM,,720,0,0,0
+Pinal,40 Apache Jct Superstition,Registered Voters - LIBERTARIAN,,,LBT,,23,0,0,0
+Pinal,40 Apache Jct Superstition,Registered Voters - NO LABELS,,,NOL,,25,0,0,0
+Pinal,40 Apache Jct Superstition,Registered Voters - GREEN,,,GRN,,6,0,0,0
+Pinal,40 Apache Jct Superstition,Registered Voters - NONPARTISAN,,,-,,1148,0,0,0
 Pinal,40 Apache Jct Superstition,Ballots Cast - Total,,,,,995,848,143,4
 Pinal,40 Apache Jct Superstition,Ballots Cast - REPUBLICAN,,,REP,,621,497,122,2
 Pinal,40 Apache Jct Superstition,Ballots Cast - DEMOCRATIC,,,DEM,,365,344,19,2
@@ -7745,13 +7745,13 @@ Pinal,40 Apache Jct Superstition,Council Member,City of Apache Junction,3,,Write
 Pinal,40 Apache Jct Superstition,Council Member,City of Apache Junction,3,,Total Votes Cast,1307,1121,185,1
 Pinal,40 Apache Jct Superstition,Council Member,City of Apache Junction,3,,Overvotes,3,3,0,0
 Pinal,40 Apache Jct Superstition,Council Member,City of Apache Junction,3,,Undervotes,571,451,115,5
-Pinal,41 Casa Grande Interchange,Registered Voters - Total,,,,,3862,3862,3862,3862
-Pinal,41 Casa Grande Interchange,Registered Voters - REPUBLICAN,,,REP,,1456,1456,1456,1456
-Pinal,41 Casa Grande Interchange,Registered Voters - DEMOCRATIC,,,DEM,,921,921,921,921
-Pinal,41 Casa Grande Interchange,Registered Voters - LIBERTARIAN,,,LBT,,14,14,14,14
-Pinal,41 Casa Grande Interchange,Registered Voters - NO LABELS,,,NOL,,28,28,28,28
-Pinal,41 Casa Grande Interchange,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,41 Casa Grande Interchange,Registered Voters - NONPARTISAN,,,-,,1442,1442,1442,1442
+Pinal,41 Casa Grande Interchange,Registered Voters - Total,,,,,3862,0,0,0
+Pinal,41 Casa Grande Interchange,Registered Voters - REPUBLICAN,,,REP,,1456,0,0,0
+Pinal,41 Casa Grande Interchange,Registered Voters - DEMOCRATIC,,,DEM,,921,0,0,0
+Pinal,41 Casa Grande Interchange,Registered Voters - LIBERTARIAN,,,LBT,,14,0,0,0
+Pinal,41 Casa Grande Interchange,Registered Voters - NO LABELS,,,NOL,,28,0,0,0
+Pinal,41 Casa Grande Interchange,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,41 Casa Grande Interchange,Registered Voters - NONPARTISAN,,,-,,1442,0,0,0
 Pinal,41 Casa Grande Interchange,Ballots Cast - Total,,,,,1357,1151,205,1
 Pinal,41 Casa Grande Interchange,Ballots Cast - REPUBLICAN,,,REP,,881,716,164,1
 Pinal,41 Casa Grande Interchange,Ballots Cast - DEMOCRATIC,,,DEM,,448,418,30,0
@@ -7976,13 +7976,13 @@ Pinal,41 Casa Grande Interchange,Proposition 484,City of Eloy,1,,NO,0,0,0,0
 Pinal,41 Casa Grande Interchange,Proposition 484,City of Eloy,1,,Total Votes Cast,0,0,0,0
 Pinal,41 Casa Grande Interchange,Proposition 484,City of Eloy,1,,Overvotes,0,0,0,0
 Pinal,41 Casa Grande Interchange,Proposition 484,City of Eloy,1,,Undervotes,0,0,0,0
-Pinal,42 Apache Jct NW,Registered Voters - Total,,,,,2137,2137,2137,2137
-Pinal,42 Apache Jct NW,Registered Voters - REPUBLICAN,,,REP,,850,850,850,850
-Pinal,42 Apache Jct NW,Registered Voters - DEMOCRATIC,,,DEM,,416,416,416,416
-Pinal,42 Apache Jct NW,Registered Voters - LIBERTARIAN,,,LBT,,18,18,18,18
-Pinal,42 Apache Jct NW,Registered Voters - NO LABELS,,,NOL,,13,13,13,13
+Pinal,42 Apache Jct NW,Registered Voters - Total,,,,,2137,0,0,0
+Pinal,42 Apache Jct NW,Registered Voters - REPUBLICAN,,,REP,,850,0,0,0
+Pinal,42 Apache Jct NW,Registered Voters - DEMOCRATIC,,,DEM,,416,0,0,0
+Pinal,42 Apache Jct NW,Registered Voters - LIBERTARIAN,,,LBT,,18,0,0,0
+Pinal,42 Apache Jct NW,Registered Voters - NO LABELS,,,NOL,,13,0,0,0
 Pinal,42 Apache Jct NW,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,42 Apache Jct NW,Registered Voters - NONPARTISAN,,,-,,840,840,840,840
+Pinal,42 Apache Jct NW,Registered Voters - NONPARTISAN,,,-,,840,0,0,0
 Pinal,42 Apache Jct NW,Ballots Cast - Total,,,,,423,332,89,2
 Pinal,42 Apache Jct NW,Ballots Cast - REPUBLICAN,,,REP,,306,227,77,2
 Pinal,42 Apache Jct NW,Ballots Cast - DEMOCRATIC,,,DEM,,113,104,9,0
@@ -8180,13 +8180,13 @@ Pinal,42 Apache Jct NW,Council Member,City of Apache Junction,3,,Write-In Totals
 Pinal,42 Apache Jct NW,Council Member,City of Apache Junction,3,,Total Votes Cast,834,685,147,2
 Pinal,42 Apache Jct NW,Council Member,City of Apache Junction,3,,Overvotes,0,0,0,0
 Pinal,42 Apache Jct NW,Council Member,City of Apache Junction,3,,Undervotes,432,308,120,4
-Pinal,43 Apache Jct SW,Registered Voters - Total,,,,,2926,2926,2926,2926
-Pinal,43 Apache Jct SW,Registered Voters - REPUBLICAN,,,REP,,1236,1236,1236,1236
-Pinal,43 Apache Jct SW,Registered Voters - DEMOCRATIC,,,DEM,,559,559,559,559
-Pinal,43 Apache Jct SW,Registered Voters - LIBERTARIAN,,,LBT,,22,22,22,22
-Pinal,43 Apache Jct SW,Registered Voters - NO LABELS,,,NOL,,30,30,30,30
+Pinal,43 Apache Jct SW,Registered Voters - Total,,,,,2926,0,0,0
+Pinal,43 Apache Jct SW,Registered Voters - REPUBLICAN,,,REP,,1236,0,0,0
+Pinal,43 Apache Jct SW,Registered Voters - DEMOCRATIC,,,DEM,,559,0,0,0
+Pinal,43 Apache Jct SW,Registered Voters - LIBERTARIAN,,,LBT,,22,0,0,0
+Pinal,43 Apache Jct SW,Registered Voters - NO LABELS,,,NOL,,30,0,0,0
 Pinal,43 Apache Jct SW,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,43 Apache Jct SW,Registered Voters - NONPARTISAN,,,-,,1079,1079,1079,1079
+Pinal,43 Apache Jct SW,Registered Voters - NONPARTISAN,,,-,,1079,0,0,0
 Pinal,43 Apache Jct SW,Ballots Cast - Total,,,,,928,779,149,0
 Pinal,43 Apache Jct SW,Ballots Cast - REPUBLICAN,,,REP,,653,524,129,0
 Pinal,43 Apache Jct SW,Ballots Cast - DEMOCRATIC,,,DEM,,258,250,8,0
@@ -8384,13 +8384,13 @@ Pinal,43 Apache Jct SW,Council Member,City of Apache Junction,3,,Write-In Totals
 Pinal,43 Apache Jct SW,Council Member,City of Apache Junction,3,,Total Votes Cast,1968,1682,286,0
 Pinal,43 Apache Jct SW,Council Member,City of Apache Junction,3,,Overvotes,0,0,0,0
 Pinal,43 Apache Jct SW,Council Member,City of Apache Junction,3,,Undervotes,816,655,161,0
-Pinal,44 Apache Jct SE,Registered Voters - Total,,,,,3189,3189,3189,3189
-Pinal,44 Apache Jct SE,Registered Voters - REPUBLICAN,,,REP,,1284,1284,1284,1284
-Pinal,44 Apache Jct SE,Registered Voters - DEMOCRATIC,,,DEM,,652,652,652,652
-Pinal,44 Apache Jct SE,Registered Voters - LIBERTARIAN,,,LBT,,33,33,33,33
-Pinal,44 Apache Jct SE,Registered Voters - NO LABELS,,,NOL,,21,21,21,21
+Pinal,44 Apache Jct SE,Registered Voters - Total,,,,,3189,0,0,0
+Pinal,44 Apache Jct SE,Registered Voters - REPUBLICAN,,,REP,,1284,0,0,0
+Pinal,44 Apache Jct SE,Registered Voters - DEMOCRATIC,,,DEM,,652,0,0,0
+Pinal,44 Apache Jct SE,Registered Voters - LIBERTARIAN,,,LBT,,33,0,0,0
+Pinal,44 Apache Jct SE,Registered Voters - NO LABELS,,,NOL,,21,0,0,0
 Pinal,44 Apache Jct SE,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,44 Apache Jct SE,Registered Voters - NONPARTISAN,,,-,,1199,1199,1199,1199
+Pinal,44 Apache Jct SE,Registered Voters - NONPARTISAN,,,-,,1199,0,0,0
 Pinal,44 Apache Jct SE,Ballots Cast - Total,,,,,817,618,199,0
 Pinal,44 Apache Jct SE,Ballots Cast - REPUBLICAN,,,REP,,561,398,163,0
 Pinal,44 Apache Jct SE,Ballots Cast - DEMOCRATIC,,,DEM,,238,207,31,0
@@ -8594,13 +8594,13 @@ Pinal,44 Apache Jct SE,Council Member,City of Apache Junction,3,,Write-In Totals
 Pinal,44 Apache Jct SE,Council Member,City of Apache Junction,3,,Total Votes Cast,1684,1290,394,0
 Pinal,44 Apache Jct SE,Council Member,City of Apache Junction,3,,Overvotes,0,0,0,0
 Pinal,44 Apache Jct SE,Council Member,City of Apache Junction,3,,Undervotes,761,558,203,0
-Pinal,45 Apache Jct NE,Registered Voters - Total,,,,,3251,3251,3251,3251
-Pinal,45 Apache Jct NE,Registered Voters - REPUBLICAN,,,REP,,1581,1581,1581,1581
-Pinal,45 Apache Jct NE,Registered Voters - DEMOCRATIC,,,DEM,,521,521,521,521
-Pinal,45 Apache Jct NE,Registered Voters - LIBERTARIAN,,,LBT,,27,27,27,27
-Pinal,45 Apache Jct NE,Registered Voters - NO LABELS,,,NOL,,23,23,23,23
-Pinal,45 Apache Jct NE,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,45 Apache Jct NE,Registered Voters - NONPARTISAN,,,-,,1097,1097,1097,1097
+Pinal,45 Apache Jct NE,Registered Voters - Total,,,,,3251,0,0,0
+Pinal,45 Apache Jct NE,Registered Voters - REPUBLICAN,,,REP,,1581,0,0,0
+Pinal,45 Apache Jct NE,Registered Voters - DEMOCRATIC,,,DEM,,521,0,0,0
+Pinal,45 Apache Jct NE,Registered Voters - LIBERTARIAN,,,LBT,,27,0,0,0
+Pinal,45 Apache Jct NE,Registered Voters - NO LABELS,,,NOL,,23,0,0,0
+Pinal,45 Apache Jct NE,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,45 Apache Jct NE,Registered Voters - NONPARTISAN,,,-,,1097,0,0,0
 Pinal,45 Apache Jct NE,Ballots Cast - Total,,,,,1073,820,245,8
 Pinal,45 Apache Jct NE,Ballots Cast - REPUBLICAN,,,REP,,818,594,216,8
 Pinal,45 Apache Jct NE,Ballots Cast - DEMOCRATIC,,,DEM,,245,219,26,0
@@ -8804,13 +8804,13 @@ Pinal,45 Apache Jct NE,Council Member,City of Apache Junction,3,,Write-In Totals
 Pinal,45 Apache Jct NE,Council Member,City of Apache Junction,3,,Total Votes Cast,854,690,157,7
 Pinal,45 Apache Jct NE,Council Member,City of Apache Junction,3,,Overvotes,3,3,0,0
 Pinal,45 Apache Jct NE,Council Member,City of Apache Junction,3,,Undervotes,337,249,83,5
-Pinal,46 Apache Jct East,Registered Voters - Total,,,,,2109,2109,2109,2109
-Pinal,46 Apache Jct East,Registered Voters - REPUBLICAN,,,REP,,1000,1000,1000,1000
-Pinal,46 Apache Jct East,Registered Voters - DEMOCRATIC,,,DEM,,381,381,381,381
-Pinal,46 Apache Jct East,Registered Voters - LIBERTARIAN,,,LBT,,17,17,17,17
-Pinal,46 Apache Jct East,Registered Voters - NO LABELS,,,NOL,,15,15,15,15
+Pinal,46 Apache Jct East,Registered Voters - Total,,,,,2109,0,0,0
+Pinal,46 Apache Jct East,Registered Voters - REPUBLICAN,,,REP,,1000,0,0,0
+Pinal,46 Apache Jct East,Registered Voters - DEMOCRATIC,,,DEM,,381,0,0,0
+Pinal,46 Apache Jct East,Registered Voters - LIBERTARIAN,,,LBT,,17,0,0,0
+Pinal,46 Apache Jct East,Registered Voters - NO LABELS,,,NOL,,15,0,0,0
 Pinal,46 Apache Jct East,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,46 Apache Jct East,Registered Voters - NONPARTISAN,,,-,,696,696,696,696
+Pinal,46 Apache Jct East,Registered Voters - NONPARTISAN,,,-,,696,0,0,0
 Pinal,46 Apache Jct East,Ballots Cast - Total,,,,,875,706,169,0
 Pinal,46 Apache Jct East,Ballots Cast - REPUBLICAN,,,REP,,627,482,145,0
 Pinal,46 Apache Jct East,Ballots Cast - DEMOCRATIC,,,DEM,,238,220,18,0
@@ -9014,13 +9014,13 @@ Pinal,46 Apache Jct East,Council Member,City of Apache Junction,3,,Write-In Tota
 Pinal,46 Apache Jct East,Council Member,City of Apache Junction,3,,Total Votes Cast,1114,966,148,0
 Pinal,46 Apache Jct East,Council Member,City of Apache Junction,3,,Overvotes,0,0,0,0
 Pinal,46 Apache Jct East,Council Member,City of Apache Junction,3,,Undervotes,467,375,92,0
-Pinal,47 Apache Jct Central,Registered Voters - Total,,,,,2393,2393,2393,2393
-Pinal,47 Apache Jct Central,Registered Voters - REPUBLICAN,,,REP,,929,929,929,929
-Pinal,47 Apache Jct Central,Registered Voters - DEMOCRATIC,,,DEM,,520,520,520,520
-Pinal,47 Apache Jct Central,Registered Voters - LIBERTARIAN,,,LBT,,22,22,22,22
-Pinal,47 Apache Jct Central,Registered Voters - NO LABELS,,,NOL,,23,23,23,23
+Pinal,47 Apache Jct Central,Registered Voters - Total,,,,,2393,0,0,0
+Pinal,47 Apache Jct Central,Registered Voters - REPUBLICAN,,,REP,,929,0,0,0
+Pinal,47 Apache Jct Central,Registered Voters - DEMOCRATIC,,,DEM,,520,0,0,0
+Pinal,47 Apache Jct Central,Registered Voters - LIBERTARIAN,,,LBT,,22,0,0,0
+Pinal,47 Apache Jct Central,Registered Voters - NO LABELS,,,NOL,,23,0,0,0
 Pinal,47 Apache Jct Central,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,47 Apache Jct Central,Registered Voters - NONPARTISAN,,,-,,899,899,899,899
+Pinal,47 Apache Jct Central,Registered Voters - NONPARTISAN,,,-,,899,0,0,0
 Pinal,47 Apache Jct Central,Ballots Cast - Total,,,,,615,495,119,1
 Pinal,47 Apache Jct Central,Ballots Cast - REPUBLICAN,,,REP,,392,292,99,1
 Pinal,47 Apache Jct Central,Ballots Cast - DEMOCRATIC,,,DEM,,203,194,9,0
@@ -9224,13 +9224,13 @@ Pinal,47 Apache Jct Central,Council Member,City of Apache Junction,3,,Write-In T
 Pinal,47 Apache Jct Central,Council Member,City of Apache Junction,3,,Total Votes Cast,1310,1074,233,3
 Pinal,47 Apache Jct Central,Council Member,City of Apache Junction,3,,Overvotes,0,0,0,0
 Pinal,47 Apache Jct Central,Council Member,City of Apache Junction,3,,Undervotes,532,411,121,0
-Pinal,48 Gold Canyon,Registered Voters - Total,,,,,3477,3477,3477,3477
-Pinal,48 Gold Canyon,Registered Voters - REPUBLICAN,,,REP,,1625,1625,1625,1625
-Pinal,48 Gold Canyon,Registered Voters - DEMOCRATIC,,,DEM,,657,657,657,657
-Pinal,48 Gold Canyon,Registered Voters - LIBERTARIAN,,,LBT,,19,19,19,19
-Pinal,48 Gold Canyon,Registered Voters - NO LABELS,,,NOL,,17,17,17,17
-Pinal,48 Gold Canyon,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,48 Gold Canyon,Registered Voters - NONPARTISAN,,,-,,1158,1158,1158,1158
+Pinal,48 Gold Canyon,Registered Voters - Total,,,,,3477,0,0,0
+Pinal,48 Gold Canyon,Registered Voters - REPUBLICAN,,,REP,,1625,0,0,0
+Pinal,48 Gold Canyon,Registered Voters - DEMOCRATIC,,,DEM,,657,0,0,0
+Pinal,48 Gold Canyon,Registered Voters - LIBERTARIAN,,,LBT,,19,0,0,0
+Pinal,48 Gold Canyon,Registered Voters - NO LABELS,,,NOL,,17,0,0,0
+Pinal,48 Gold Canyon,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,48 Gold Canyon,Registered Voters - NONPARTISAN,,,-,,1158,0,0,0
 Pinal,48 Gold Canyon,Ballots Cast - Total,,,,,1415,1092,320,3
 Pinal,48 Gold Canyon,Ballots Cast - REPUBLICAN,,,REP,,1052,770,279,3
 Pinal,48 Gold Canyon,Ballots Cast - DEMOCRATIC,,,DEM,,361,321,40,0
@@ -9421,13 +9421,13 @@ Pinal,48 Gold Canyon,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,48 Gold Canyon,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,48 Gold Canyon,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,48 Gold Canyon,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,49 Queen Valley,Registered Voters - Total,,,,,636,636,636,636
-Pinal,49 Queen Valley,Registered Voters - REPUBLICAN,,,REP,,318,318,318,318
-Pinal,49 Queen Valley,Registered Voters - DEMOCRATIC,,,DEM,,103,103,103,103
-Pinal,49 Queen Valley,Registered Voters - LIBERTARIAN,,,LBT,,1,1,1,1
-Pinal,49 Queen Valley,Registered Voters - NO LABELS,,,NOL,,3,3,3,3
+Pinal,49 Queen Valley,Registered Voters - Total,,,,,636,0,0,0
+Pinal,49 Queen Valley,Registered Voters - REPUBLICAN,,,REP,,318,0,0,0
+Pinal,49 Queen Valley,Registered Voters - DEMOCRATIC,,,DEM,,103,0,0,0
+Pinal,49 Queen Valley,Registered Voters - LIBERTARIAN,,,LBT,,1,0,0,0
+Pinal,49 Queen Valley,Registered Voters - NO LABELS,,,NOL,,3,0,0,0
 Pinal,49 Queen Valley,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,49 Queen Valley,Registered Voters - NONPARTISAN,,,-,,211,211,211,211
+Pinal,49 Queen Valley,Registered Voters - NONPARTISAN,,,-,,211,0,0,0
 Pinal,49 Queen Valley,Ballots Cast - Total,,,,,237,140,96,1
 Pinal,49 Queen Valley,Ballots Cast - REPUBLICAN,,,REP,,176,90,85,1
 Pinal,49 Queen Valley,Ballots Cast - DEMOCRATIC,,,DEM,,60,49,11,0
@@ -9618,13 +9618,13 @@ Pinal,49 Queen Valley,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,49 Queen Valley,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,49 Queen Valley,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,49 Queen Valley,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,50 Superior,Registered Voters - Total,,,,,1667,1667,1667,1667
-Pinal,50 Superior,Registered Voters - REPUBLICAN,,,REP,,338,338,338,338
-Pinal,50 Superior,Registered Voters - DEMOCRATIC,,,DEM,,774,774,774,774
-Pinal,50 Superior,Registered Voters - LIBERTARIAN,,,LBT,,13,13,13,13
-Pinal,50 Superior,Registered Voters - NO LABELS,,,NOL,,16,16,16,16
-Pinal,50 Superior,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,50 Superior,Registered Voters - NONPARTISAN,,,-,,523,523,523,523
+Pinal,50 Superior,Registered Voters - Total,,,,,1667,0,0,0
+Pinal,50 Superior,Registered Voters - REPUBLICAN,,,REP,,338,0,0,0
+Pinal,50 Superior,Registered Voters - DEMOCRATIC,,,DEM,,774,0,0,0
+Pinal,50 Superior,Registered Voters - LIBERTARIAN,,,LBT,,13,0,0,0
+Pinal,50 Superior,Registered Voters - NO LABELS,,,NOL,,16,0,0,0
+Pinal,50 Superior,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,50 Superior,Registered Voters - NONPARTISAN,,,-,,523,0,0,0
 Pinal,50 Superior,Ballots Cast - Total,,,,,555,417,137,1
 Pinal,50 Superior,Ballots Cast - REPUBLICAN,,,REP,,169,117,51,1
 Pinal,50 Superior,Ballots Cast - DEMOCRATIC,,,DEM,,380,296,84,0
@@ -9827,13 +9827,13 @@ Pinal,50 Superior,Proposition 483,Town of Superior,1,,NO,148,114,33,1
 Pinal,50 Superior,Proposition 483,Town of Superior,1,,Total Votes Cast,519,393,125,1
 Pinal,50 Superior,Proposition 483,Town of Superior,1,,Overvotes,1,1,0,0
 Pinal,50 Superior,Proposition 483,Town of Superior,1,,Undervotes,35,23,12,0
-Pinal,51 Superior West,Registered Voters - Total,,,,,30,30,30,30
-Pinal,51 Superior West,Registered Voters - REPUBLICAN,,,REP,,19,19,19,19
-Pinal,51 Superior West,Registered Voters - DEMOCRATIC,,,DEM,,1,1,1,1
+Pinal,51 Superior West,Registered Voters - Total,,,,,30,0,0,0
+Pinal,51 Superior West,Registered Voters - REPUBLICAN,,,REP,,19,0,0,0
+Pinal,51 Superior West,Registered Voters - DEMOCRATIC,,,DEM,,1,0,0,0
 Pinal,51 Superior West,Registered Voters - LIBERTARIAN,,,LBT,,0,0,0,0
 Pinal,51 Superior West,Registered Voters - NO LABELS,,,NOL,,0,0,0,0
 Pinal,51 Superior West,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,51 Superior West,Registered Voters - NONPARTISAN,,,-,,10,10,10,10
+Pinal,51 Superior West,Registered Voters - NONPARTISAN,,,-,,10,0,0,0
 Pinal,51 Superior West,Ballots Cast - Total,,,,,17,15,2,0
 Pinal,51 Superior West,Ballots Cast - REPUBLICAN,,,REP,,17,15,2,0
 Pinal,51 Superior West,Ballots Cast - DEMOCRATIC,,,DEM,,0,0,0,0
@@ -10036,13 +10036,13 @@ Pinal,51 Superior West,Proposition 483,Town of Superior,1,,NO,0,0,0,0
 Pinal,51 Superior West,Proposition 483,Town of Superior,1,,Total Votes Cast,2,2,0,0
 Pinal,51 Superior West,Proposition 483,Town of Superior,1,,Overvotes,0,0,0,0
 Pinal,51 Superior West,Proposition 483,Town of Superior,1,,Undervotes,0,0,0,0
-Pinal,52 Sutton Summit,Registered Voters - Total,,,,,153,153,153,153
-Pinal,52 Sutton Summit,Registered Voters - REPUBLICAN,,,REP,,75,75,75,75
-Pinal,52 Sutton Summit,Registered Voters - DEMOCRATIC,,,DEM,,27,27,27,27
-Pinal,52 Sutton Summit,Registered Voters - LIBERTARIAN,,,LBT,,1,1,1,1
-Pinal,52 Sutton Summit,Registered Voters - NO LABELS,,,NOL,,1,1,1,1
-Pinal,52 Sutton Summit,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,52 Sutton Summit,Registered Voters - NONPARTISAN,,,-,,48,48,48,48
+Pinal,52 Sutton Summit,Registered Voters - Total,,,,,153,0,0,0
+Pinal,52 Sutton Summit,Registered Voters - REPUBLICAN,,,REP,,75,0,0,0
+Pinal,52 Sutton Summit,Registered Voters - DEMOCRATIC,,,DEM,,27,0,0,0
+Pinal,52 Sutton Summit,Registered Voters - LIBERTARIAN,,,LBT,,1,0,0,0
+Pinal,52 Sutton Summit,Registered Voters - NO LABELS,,,NOL,,1,0,0,0
+Pinal,52 Sutton Summit,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,52 Sutton Summit,Registered Voters - NONPARTISAN,,,-,,48,0,0,0
 Pinal,52 Sutton Summit,Ballots Cast - Total,,,,,49,37,12,0
 Pinal,52 Sutton Summit,Ballots Cast - REPUBLICAN,,,REP,,38,26,12,0
 Pinal,52 Sutton Summit,Ballots Cast - DEMOCRATIC,,,DEM,,11,11,0,0
@@ -10233,13 +10233,13 @@ Pinal,52 Sutton Summit,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,52 Sutton Summit,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,52 Sutton Summit,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,52 Sutton Summit,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,53 Chui Chu,Registered Voters - Total,,,,,217,217,217,217
-Pinal,53 Chui Chu,Registered Voters - REPUBLICAN,,,REP,,8,8,8,8
-Pinal,53 Chui Chu,Registered Voters - DEMOCRATIC,,,DEM,,131,131,131,131
+Pinal,53 Chui Chu,Registered Voters - Total,,,,,217,0,0,0
+Pinal,53 Chui Chu,Registered Voters - REPUBLICAN,,,REP,,8,0,0,0
+Pinal,53 Chui Chu,Registered Voters - DEMOCRATIC,,,DEM,,131,0,0,0
 Pinal,53 Chui Chu,Registered Voters - LIBERTARIAN,,,LBT,,0,0,0,0
 Pinal,53 Chui Chu,Registered Voters - NO LABELS,,,NOL,,0,0,0,0
-Pinal,53 Chui Chu,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,53 Chui Chu,Registered Voters - NONPARTISAN,,,-,,77,77,77,77
+Pinal,53 Chui Chu,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,53 Chui Chu,Registered Voters - NONPARTISAN,,,-,,77,0,0,0
 Pinal,53 Chui Chu,Ballots Cast - Total,,,,,48,24,21,3
 Pinal,53 Chui Chu,Ballots Cast - REPUBLICAN,,,REP,,3,2,0,1
 Pinal,53 Chui Chu,Ballots Cast - DEMOCRATIC,,,DEM,,45,22,21,2
@@ -10423,13 +10423,13 @@ Pinal,53 Chui Chu,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,53 Chui Chu,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,53 Chui Chu,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,53 Chui Chu,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,54 Thunderbird Farms,Registered Voters - Total,,,,,1036,1036,1036,1036
-Pinal,54 Thunderbird Farms,Registered Voters - REPUBLICAN,,,REP,,421,421,421,421
-Pinal,54 Thunderbird Farms,Registered Voters - DEMOCRATIC,,,DEM,,205,205,205,205
-Pinal,54 Thunderbird Farms,Registered Voters - LIBERTARIAN,,,LBT,,10,10,10,10
-Pinal,54 Thunderbird Farms,Registered Voters - NO LABELS,,,NOL,,14,14,14,14
-Pinal,54 Thunderbird Farms,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,54 Thunderbird Farms,Registered Voters - NONPARTISAN,,,-,,384,384,384,384
+Pinal,54 Thunderbird Farms,Registered Voters - Total,,,,,1036,0,0,0
+Pinal,54 Thunderbird Farms,Registered Voters - REPUBLICAN,,,REP,,421,0,0,0
+Pinal,54 Thunderbird Farms,Registered Voters - DEMOCRATIC,,,DEM,,205,0,0,0
+Pinal,54 Thunderbird Farms,Registered Voters - LIBERTARIAN,,,LBT,,10,0,0,0
+Pinal,54 Thunderbird Farms,Registered Voters - NO LABELS,,,NOL,,14,0,0,0
+Pinal,54 Thunderbird Farms,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,54 Thunderbird Farms,Registered Voters - NONPARTISAN,,,-,,384,0,0,0
 Pinal,54 Thunderbird Farms,Ballots Cast - Total,,,,,243,181,58,4
 Pinal,54 Thunderbird Farms,Ballots Cast - REPUBLICAN,,,REP,,179,123,54,2
 Pinal,54 Thunderbird Farms,Ballots Cast - DEMOCRATIC,,,DEM,,62,57,3,2
@@ -10644,13 +10644,13 @@ Pinal,54 Thunderbird Farms,Proposition 482,City of Maricopa,1,,NO,0,0,0,0
 Pinal,54 Thunderbird Farms,Proposition 482,City of Maricopa,1,,Total Votes Cast,0,0,0,0
 Pinal,54 Thunderbird Farms,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,54 Thunderbird Farms,Proposition 482,City of Maricopa,1,,Undervotes,0,0,0,0
-Pinal,55 Casa Grande West,Registered Voters - Total,,,,,3091,3091,3091,3091
-Pinal,55 Casa Grande West,Registered Voters - REPUBLICAN,,,REP,,1006,1006,1006,1006
-Pinal,55 Casa Grande West,Registered Voters - DEMOCRATIC,,,DEM,,780,780,780,780
-Pinal,55 Casa Grande West,Registered Voters - LIBERTARIAN,,,LBT,,17,17,17,17
-Pinal,55 Casa Grande West,Registered Voters - NO LABELS,,,NOL,,29,29,29,29
-Pinal,55 Casa Grande West,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,55 Casa Grande West,Registered Voters - NONPARTISAN,,,-,,1258,1258,1258,1258
+Pinal,55 Casa Grande West,Registered Voters - Total,,,,,3091,0,0,0
+Pinal,55 Casa Grande West,Registered Voters - REPUBLICAN,,,REP,,1006,0,0,0
+Pinal,55 Casa Grande West,Registered Voters - DEMOCRATIC,,,DEM,,780,0,0,0
+Pinal,55 Casa Grande West,Registered Voters - LIBERTARIAN,,,LBT,,17,0,0,0
+Pinal,55 Casa Grande West,Registered Voters - NO LABELS,,,NOL,,29,0,0,0
+Pinal,55 Casa Grande West,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,55 Casa Grande West,Registered Voters - NONPARTISAN,,,-,,1258,0,0,0
 Pinal,55 Casa Grande West,Ballots Cast - Total,,,,,731,556,173,2
 Pinal,55 Casa Grande West,Ballots Cast - REPUBLICAN,,,REP,,503,358,143,2
 Pinal,55 Casa Grande West,Ballots Cast - DEMOCRATIC,,,DEM,,223,196,27,0
@@ -10852,13 +10852,13 @@ Pinal,55 Casa Grande West,City Council,City of Casa Grande,3,,Write-In Totals,0,
 Pinal,55 Casa Grande West,City Council,City of Casa Grande,3,,Total Votes Cast,764,629,135,0
 Pinal,55 Casa Grande West,City Council,City of Casa Grande,3,,Overvotes,6,6,0,0
 Pinal,55 Casa Grande West,City Council,City of Casa Grande,3,,Undervotes,169,112,57,0
-Pinal,56 Apache Junction North,Registered Voters - Total,,,,,1958,1958,1958,1958
-Pinal,56 Apache Junction North,Registered Voters - REPUBLICAN,,,REP,,817,817,817,817
-Pinal,56 Apache Junction North,Registered Voters - DEMOCRATIC,,,DEM,,374,374,374,374
-Pinal,56 Apache Junction North,Registered Voters - LIBERTARIAN,,,LBT,,14,14,14,14
-Pinal,56 Apache Junction North,Registered Voters - NO LABELS,,,NOL,,14,14,14,14
+Pinal,56 Apache Junction North,Registered Voters - Total,,,,,1958,0,0,0
+Pinal,56 Apache Junction North,Registered Voters - REPUBLICAN,,,REP,,817,0,0,0
+Pinal,56 Apache Junction North,Registered Voters - DEMOCRATIC,,,DEM,,374,0,0,0
+Pinal,56 Apache Junction North,Registered Voters - LIBERTARIAN,,,LBT,,14,0,0,0
+Pinal,56 Apache Junction North,Registered Voters - NO LABELS,,,NOL,,14,0,0,0
 Pinal,56 Apache Junction North,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,56 Apache Junction North,Registered Voters - NONPARTISAN,,,-,,739,739,739,739
+Pinal,56 Apache Junction North,Registered Voters - NONPARTISAN,,,-,,739,0,0,0
 Pinal,56 Apache Junction North,Ballots Cast - Total,,,,,521,423,96,2
 Pinal,56 Apache Junction North,Ballots Cast - REPUBLICAN,,,REP,,376,290,84,2
 Pinal,56 Apache Junction North,Ballots Cast - DEMOCRATIC,,,DEM,,139,131,8,0
@@ -11056,13 +11056,13 @@ Pinal,56 Apache Junction North,Council Member,City of Apache Junction,3,,Write-I
 Pinal,56 Apache Junction North,Council Member,City of Apache Junction,3,,Total Votes Cast,1090,894,190,6
 Pinal,56 Apache Junction North,Council Member,City of Apache Junction,3,,Overvotes,0,0,0,0
 Pinal,56 Apache Junction North,Council Member,City of Apache Junction,3,,Undervotes,473,375,98,0
-Pinal,57 Apache Junction N. Central,Registered Voters - Total,,,,,2669,2669,2669,2669
-Pinal,57 Apache Junction N. Central,Registered Voters - REPUBLICAN,,,REP,,1391,1391,1391,1391
-Pinal,57 Apache Junction N. Central,Registered Voters - DEMOCRATIC,,,DEM,,457,457,457,457
-Pinal,57 Apache Junction N. Central,Registered Voters - LIBERTARIAN,,,LBT,,35,35,35,35
-Pinal,57 Apache Junction N. Central,Registered Voters - NO LABELS,,,NOL,,10,10,10,10
+Pinal,57 Apache Junction N. Central,Registered Voters - Total,,,,,2669,0,0,0
+Pinal,57 Apache Junction N. Central,Registered Voters - REPUBLICAN,,,REP,,1391,0,0,0
+Pinal,57 Apache Junction N. Central,Registered Voters - DEMOCRATIC,,,DEM,,457,0,0,0
+Pinal,57 Apache Junction N. Central,Registered Voters - LIBERTARIAN,,,LBT,,35,0,0,0
+Pinal,57 Apache Junction N. Central,Registered Voters - NO LABELS,,,NOL,,10,0,0,0
 Pinal,57 Apache Junction N. Central,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,57 Apache Junction N. Central,Registered Voters - NONPARTISAN,,,-,,776,776,776,776
+Pinal,57 Apache Junction N. Central,Registered Voters - NONPARTISAN,,,-,,776,0,0,0
 Pinal,57 Apache Junction N. Central,Ballots Cast - Total,,,,,1105,822,280,3
 Pinal,57 Apache Junction N. Central,Ballots Cast - REPUBLICAN,,,REP,,866,620,243,3
 Pinal,57 Apache Junction N. Central,Ballots Cast - DEMOCRATIC,,,DEM,,231,196,35,0
@@ -11266,13 +11266,13 @@ Pinal,57 Apache Junction N. Central,Council Member,City of Apache Junction,3,,Wr
 Pinal,57 Apache Junction N. Central,Council Member,City of Apache Junction,3,,Total Votes Cast,416,298,114,4
 Pinal,57 Apache Junction N. Central,Council Member,City of Apache Junction,3,,Overvotes,0,0,0,0
 Pinal,57 Apache Junction N. Central,Council Member,City of Apache Junction,3,,Undervotes,190,131,57,2
-Pinal,58 Apache Junction E. Central,Registered Voters - Total,,,,,1998,1998,1998,1998
-Pinal,58 Apache Junction E. Central,Registered Voters - REPUBLICAN,,,REP,,939,939,939,939
-Pinal,58 Apache Junction E. Central,Registered Voters - DEMOCRATIC,,,DEM,,325,325,325,325
-Pinal,58 Apache Junction E. Central,Registered Voters - LIBERTARIAN,,,LBT,,11,11,11,11
-Pinal,58 Apache Junction E. Central,Registered Voters - NO LABELS,,,NOL,,12,12,12,12
-Pinal,58 Apache Junction E. Central,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,58 Apache Junction E. Central,Registered Voters - NONPARTISAN,,,-,,710,710,710,710
+Pinal,58 Apache Junction E. Central,Registered Voters - Total,,,,,1998,0,0,0
+Pinal,58 Apache Junction E. Central,Registered Voters - REPUBLICAN,,,REP,,939,0,0,0
+Pinal,58 Apache Junction E. Central,Registered Voters - DEMOCRATIC,,,DEM,,325,0,0,0
+Pinal,58 Apache Junction E. Central,Registered Voters - LIBERTARIAN,,,LBT,,11,0,0,0
+Pinal,58 Apache Junction E. Central,Registered Voters - NO LABELS,,,NOL,,12,0,0,0
+Pinal,58 Apache Junction E. Central,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,58 Apache Junction E. Central,Registered Voters - NONPARTISAN,,,-,,710,0,0,0
 Pinal,58 Apache Junction E. Central,Ballots Cast - Total,,,,,611,469,141,1
 Pinal,58 Apache Junction E. Central,Ballots Cast - REPUBLICAN,,,REP,,476,342,133,1
 Pinal,58 Apache Junction E. Central,Ballots Cast - DEMOCRATIC,,,DEM,,131,124,7,0
@@ -11476,13 +11476,13 @@ Pinal,58 Apache Junction E. Central,Council Member,City of Apache Junction,3,,Wr
 Pinal,58 Apache Junction E. Central,Council Member,City of Apache Junction,3,,Total Votes Cast,1027,759,266,2
 Pinal,58 Apache Junction E. Central,Council Member,City of Apache Junction,3,,Overvotes,0,0,0,0
 Pinal,58 Apache Junction E. Central,Council Member,City of Apache Junction,3,,Undervotes,410,324,85,1
-Pinal,59 Apache Junction South,Registered Voters - Total,,,,,4172,4172,4172,4172
-Pinal,59 Apache Junction South,Registered Voters - REPUBLICAN,,,REP,,1884,1884,1884,1884
-Pinal,59 Apache Junction South,Registered Voters - DEMOCRATIC,,,DEM,,816,816,816,816
-Pinal,59 Apache Junction South,Registered Voters - LIBERTARIAN,,,LBT,,32,32,32,32
-Pinal,59 Apache Junction South,Registered Voters - NO LABELS,,,NOL,,24,24,24,24
-Pinal,59 Apache Junction South,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,59 Apache Junction South,Registered Voters - NONPARTISAN,,,-,,1413,1413,1413,1413
+Pinal,59 Apache Junction South,Registered Voters - Total,,,,,4172,0,0,0
+Pinal,59 Apache Junction South,Registered Voters - REPUBLICAN,,,REP,,1884,0,0,0
+Pinal,59 Apache Junction South,Registered Voters - DEMOCRATIC,,,DEM,,816,0,0,0
+Pinal,59 Apache Junction South,Registered Voters - LIBERTARIAN,,,LBT,,32,0,0,0
+Pinal,59 Apache Junction South,Registered Voters - NO LABELS,,,NOL,,24,0,0,0
+Pinal,59 Apache Junction South,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,59 Apache Junction South,Registered Voters - NONPARTISAN,,,-,,1413,0,0,0
 Pinal,59 Apache Junction South,Ballots Cast - Total,,,,,1357,1131,226,0
 Pinal,59 Apache Junction South,Ballots Cast - REPUBLICAN,,,REP,,958,769,189,0
 Pinal,59 Apache Junction South,Ballots Cast - DEMOCRATIC,,,DEM,,374,353,21,0
@@ -11686,13 +11686,13 @@ Pinal,59 Apache Junction South,Council Member,City of Apache Junction,3,,Write-I
 Pinal,59 Apache Junction South,Council Member,City of Apache Junction,3,,Total Votes Cast,1832,1467,365,0
 Pinal,59 Apache Junction South,Council Member,City of Apache Junction,3,,Overvotes,3,3,0,0
 Pinal,59 Apache Junction South,Council Member,City of Apache Junction,3,,Undervotes,682,510,172,0
-Pinal,60 Blackwater,Registered Voters - Total,,,,,848,848,848,848
-Pinal,60 Blackwater,Registered Voters - REPUBLICAN,,,REP,,50,50,50,50
-Pinal,60 Blackwater,Registered Voters - DEMOCRATIC,,,DEM,,421,421,421,421
-Pinal,60 Blackwater,Registered Voters - LIBERTARIAN,,,LBT,,5,5,5,5
-Pinal,60 Blackwater,Registered Voters - NO LABELS,,,NOL,,1,1,1,1
-Pinal,60 Blackwater,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,60 Blackwater,Registered Voters - NONPARTISAN,,,-,,370,370,370,370
+Pinal,60 Blackwater,Registered Voters - Total,,,,,848,0,0,0
+Pinal,60 Blackwater,Registered Voters - REPUBLICAN,,,REP,,50,0,0,0
+Pinal,60 Blackwater,Registered Voters - DEMOCRATIC,,,DEM,,421,0,0,0
+Pinal,60 Blackwater,Registered Voters - LIBERTARIAN,,,LBT,,5,0,0,0
+Pinal,60 Blackwater,Registered Voters - NO LABELS,,,NOL,,1,0,0,0
+Pinal,60 Blackwater,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,60 Blackwater,Registered Voters - NONPARTISAN,,,-,,370,0,0,0
 Pinal,60 Blackwater,Ballots Cast - Total,,,,,137,39,98,0
 Pinal,60 Blackwater,Ballots Cast - REPUBLICAN,,,REP,,21,4,17,0
 Pinal,60 Blackwater,Ballots Cast - DEMOCRATIC,,,DEM,,116,35,81,0
@@ -11878,13 +11878,13 @@ Pinal,60 Blackwater,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,60 Blackwater,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,60 Blackwater,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,60 Blackwater,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,61 San Tan,Registered Voters - Total,,,,,973,973,973,973
-Pinal,61 San Tan,Registered Voters - REPUBLICAN,,,REP,,82,82,82,82
-Pinal,61 San Tan,Registered Voters - DEMOCRATIC,,,DEM,,399,399,399,399
-Pinal,61 San Tan,Registered Voters - LIBERTARIAN,,,LBT,,2,2,2,2
-Pinal,61 San Tan,Registered Voters - NO LABELS,,,NOL,,7,7,7,7
+Pinal,61 San Tan,Registered Voters - Total,,,,,973,0,0,0
+Pinal,61 San Tan,Registered Voters - REPUBLICAN,,,REP,,82,0,0,0
+Pinal,61 San Tan,Registered Voters - DEMOCRATIC,,,DEM,,399,0,0,0
+Pinal,61 San Tan,Registered Voters - LIBERTARIAN,,,LBT,,2,0,0,0
+Pinal,61 San Tan,Registered Voters - NO LABELS,,,NOL,,7,0,0,0
 Pinal,61 San Tan,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,61 San Tan,Registered Voters - NONPARTISAN,,,-,,483,483,483,483
+Pinal,61 San Tan,Registered Voters - NONPARTISAN,,,-,,483,0,0,0
 Pinal,61 San Tan,Ballots Cast - Total,,,,,124,30,93,1
 Pinal,61 San Tan,Ballots Cast - REPUBLICAN,,,REP,,16,1,15,0
 Pinal,61 San Tan,Ballots Cast - DEMOCRATIC,,,DEM,,108,29,78,1
@@ -12079,13 +12079,13 @@ Pinal,61 San Tan,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,61 San Tan,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,61 San Tan,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,61 San Tan,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,62 Casa Blanca,Registered Voters - Total,,,,,1032,1032,1032,1032
-Pinal,62 Casa Blanca,Registered Voters - REPUBLICAN,,,REP,,72,72,72,72
-Pinal,62 Casa Blanca,Registered Voters - DEMOCRATIC,,,DEM,,464,464,464,464
-Pinal,62 Casa Blanca,Registered Voters - LIBERTARIAN,,,LBT,,8,8,8,8
-Pinal,62 Casa Blanca,Registered Voters - NO LABELS,,,NOL,,7,7,7,7
+Pinal,62 Casa Blanca,Registered Voters - Total,,,,,1032,0,0,0
+Pinal,62 Casa Blanca,Registered Voters - REPUBLICAN,,,REP,,72,0,0,0
+Pinal,62 Casa Blanca,Registered Voters - DEMOCRATIC,,,DEM,,464,0,0,0
+Pinal,62 Casa Blanca,Registered Voters - LIBERTARIAN,,,LBT,,8,0,0,0
+Pinal,62 Casa Blanca,Registered Voters - NO LABELS,,,NOL,,7,0,0,0
 Pinal,62 Casa Blanca,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,62 Casa Blanca,Registered Voters - NONPARTISAN,,,-,,481,481,481,481
+Pinal,62 Casa Blanca,Registered Voters - NONPARTISAN,,,-,,481,0,0,0
 Pinal,62 Casa Blanca,Ballots Cast - Total,,,,,113,43,70,0
 Pinal,62 Casa Blanca,Ballots Cast - REPUBLICAN,,,REP,,9,2,7,0
 Pinal,62 Casa Blanca,Ballots Cast - DEMOCRATIC,,,DEM,,104,41,63,0
@@ -12280,13 +12280,13 @@ Pinal,62 Casa Blanca,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,62 Casa Blanca,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,62 Casa Blanca,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,62 Casa Blanca,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,63 Apache Trail,Registered Voters - Total,,,,,1659,1659,1659,1659
-Pinal,63 Apache Trail,Registered Voters - REPUBLICAN,,,REP,,677,677,677,677
-Pinal,63 Apache Trail,Registered Voters - DEMOCRATIC,,,DEM,,303,303,303,303
-Pinal,63 Apache Trail,Registered Voters - LIBERTARIAN,,,LBT,,8,8,8,8
-Pinal,63 Apache Trail,Registered Voters - NO LABELS,,,NOL,,13,13,13,13
-Pinal,63 Apache Trail,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,63 Apache Trail,Registered Voters - NONPARTISAN,,,-,,655,655,655,655
+Pinal,63 Apache Trail,Registered Voters - Total,,,,,1659,0,0,0
+Pinal,63 Apache Trail,Registered Voters - REPUBLICAN,,,REP,,677,0,0,0
+Pinal,63 Apache Trail,Registered Voters - DEMOCRATIC,,,DEM,,303,0,0,0
+Pinal,63 Apache Trail,Registered Voters - LIBERTARIAN,,,LBT,,8,0,0,0
+Pinal,63 Apache Trail,Registered Voters - NO LABELS,,,NOL,,13,0,0,0
+Pinal,63 Apache Trail,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,63 Apache Trail,Registered Voters - NONPARTISAN,,,-,,655,0,0,0
 Pinal,63 Apache Trail,Ballots Cast - Total,,,,,408,314,93,1
 Pinal,63 Apache Trail,Ballots Cast - REPUBLICAN,,,REP,,280,200,79,1
 Pinal,63 Apache Trail,Ballots Cast - DEMOCRATIC,,,DEM,,123,112,11,0
@@ -12490,13 +12490,13 @@ Pinal,63 Apache Trail,Council Member,City of Apache Junction,3,,Write-In Totals,
 Pinal,63 Apache Trail,Council Member,City of Apache Junction,3,,Total Votes Cast,845,659,186,0
 Pinal,63 Apache Trail,Council Member,City of Apache Junction,3,,Overvotes,3,3,0,0
 Pinal,63 Apache Trail,Council Member,City of Apache Junction,3,,Undervotes,376,280,93,3
-Pinal,64 Superstition Mountain,Registered Voters - Total,,,,,2483,2483,2483,2483
-Pinal,64 Superstition Mountain,Registered Voters - REPUBLICAN,,,REP,,1279,1279,1279,1279
-Pinal,64 Superstition Mountain,Registered Voters - DEMOCRATIC,,,DEM,,454,454,454,454
-Pinal,64 Superstition Mountain,Registered Voters - LIBERTARIAN,,,LBT,,25,25,25,25
-Pinal,64 Superstition Mountain,Registered Voters - NO LABELS,,,NOL,,9,9,9,9
-Pinal,64 Superstition Mountain,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,64 Superstition Mountain,Registered Voters - NONPARTISAN,,,-,,715,715,715,715
+Pinal,64 Superstition Mountain,Registered Voters - Total,,,,,2483,0,0,0
+Pinal,64 Superstition Mountain,Registered Voters - REPUBLICAN,,,REP,,1279,0,0,0
+Pinal,64 Superstition Mountain,Registered Voters - DEMOCRATIC,,,DEM,,454,0,0,0
+Pinal,64 Superstition Mountain,Registered Voters - LIBERTARIAN,,,LBT,,25,0,0,0
+Pinal,64 Superstition Mountain,Registered Voters - NO LABELS,,,NOL,,9,0,0,0
+Pinal,64 Superstition Mountain,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,64 Superstition Mountain,Registered Voters - NONPARTISAN,,,-,,715,0,0,0
 Pinal,64 Superstition Mountain,Ballots Cast - Total,,,,,1078,905,173,0
 Pinal,64 Superstition Mountain,Ballots Cast - REPUBLICAN,,,REP,,802,641,161,0
 Pinal,64 Superstition Mountain,Ballots Cast - DEMOCRATIC,,,DEM,,270,259,11,0
@@ -12687,13 +12687,13 @@ Pinal,64 Superstition Mountain,Corporation Commission,,3,GRN,Write-In Totals,0,0
 Pinal,64 Superstition Mountain,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,64 Superstition Mountain,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,64 Superstition Mountain,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,66 Mountainbrook Village,Registered Voters - Total,,,,,1560,1560,1560,1560
-Pinal,66 Mountainbrook Village,Registered Voters - REPUBLICAN,,,REP,,796,796,796,796
-Pinal,66 Mountainbrook Village,Registered Voters - DEMOCRATIC,,,DEM,,332,332,332,332
-Pinal,66 Mountainbrook Village,Registered Voters - LIBERTARIAN,,,LBT,,2,2,2,2
-Pinal,66 Mountainbrook Village,Registered Voters - NO LABELS,,,NOL,,3,3,3,3
+Pinal,66 Mountainbrook Village,Registered Voters - Total,,,,,1560,0,0,0
+Pinal,66 Mountainbrook Village,Registered Voters - REPUBLICAN,,,REP,,796,0,0,0
+Pinal,66 Mountainbrook Village,Registered Voters - DEMOCRATIC,,,DEM,,332,0,0,0
+Pinal,66 Mountainbrook Village,Registered Voters - LIBERTARIAN,,,LBT,,2,0,0,0
+Pinal,66 Mountainbrook Village,Registered Voters - NO LABELS,,,NOL,,3,0,0,0
 Pinal,66 Mountainbrook Village,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,66 Mountainbrook Village,Registered Voters - NONPARTISAN,,,-,,427,427,427,427
+Pinal,66 Mountainbrook Village,Registered Voters - NONPARTISAN,,,-,,427,0,0,0
 Pinal,66 Mountainbrook Village,Ballots Cast - Total,,,,,789,654,134,1
 Pinal,66 Mountainbrook Village,Ballots Cast - REPUBLICAN,,,REP,,562,443,118,1
 Pinal,66 Mountainbrook Village,Ballots Cast - DEMOCRATIC,,,DEM,,225,209,16,0
@@ -12884,13 +12884,13 @@ Pinal,66 Mountainbrook Village,Corporation Commission,,3,GRN,Write-In Totals,0,0
 Pinal,66 Mountainbrook Village,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,66 Mountainbrook Village,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,66 Mountainbrook Village,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,67 Hidden Valley,Registered Voters - Total,,,,,2535,2535,2535,2535
-Pinal,67 Hidden Valley,Registered Voters - REPUBLICAN,,,REP,,1072,1072,1072,1072
-Pinal,67 Hidden Valley,Registered Voters - DEMOCRATIC,,,DEM,,475,475,475,475
-Pinal,67 Hidden Valley,Registered Voters - LIBERTARIAN,,,LBT,,25,25,25,25
-Pinal,67 Hidden Valley,Registered Voters - NO LABELS,,,NOL,,27,27,27,27
+Pinal,67 Hidden Valley,Registered Voters - Total,,,,,2535,0,0,0
+Pinal,67 Hidden Valley,Registered Voters - REPUBLICAN,,,REP,,1072,0,0,0
+Pinal,67 Hidden Valley,Registered Voters - DEMOCRATIC,,,DEM,,475,0,0,0
+Pinal,67 Hidden Valley,Registered Voters - LIBERTARIAN,,,LBT,,25,0,0,0
+Pinal,67 Hidden Valley,Registered Voters - NO LABELS,,,NOL,,27,0,0,0
 Pinal,67 Hidden Valley,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,67 Hidden Valley,Registered Voters - NONPARTISAN,,,-,,936,936,936,936
+Pinal,67 Hidden Valley,Registered Voters - NONPARTISAN,,,-,,936,0,0,0
 Pinal,67 Hidden Valley,Ballots Cast - Total,,,,,641,528,112,1
 Pinal,67 Hidden Valley,Ballots Cast - REPUBLICAN,,,REP,,490,394,95,1
 Pinal,67 Hidden Valley,Ballots Cast - DEMOCRATIC,,,DEM,,148,131,17,0
@@ -13084,13 +13084,13 @@ Pinal,67 Hidden Valley,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,67 Hidden Valley,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,67 Hidden Valley,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,67 Hidden Valley,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,68 San Tan Park,Registered Voters - Total,,,,,4698,4698,4698,4698
-Pinal,68 San Tan Park,Registered Voters - REPUBLICAN,,,REP,,1826,1826,1826,1826
-Pinal,68 San Tan Park,Registered Voters - DEMOCRATIC,,,DEM,,929,929,929,929
-Pinal,68 San Tan Park,Registered Voters - LIBERTARIAN,,,LBT,,44,44,44,44
-Pinal,68 San Tan Park,Registered Voters - NO LABELS,,,NOL,,51,51,51,51
-Pinal,68 San Tan Park,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,68 San Tan Park,Registered Voters - NONPARTISAN,,,-,,1845,1845,1845,1845
+Pinal,68 San Tan Park,Registered Voters - Total,,,,,4698,0,0,0
+Pinal,68 San Tan Park,Registered Voters - REPUBLICAN,,,REP,,1826,0,0,0
+Pinal,68 San Tan Park,Registered Voters - DEMOCRATIC,,,DEM,,929,0,0,0
+Pinal,68 San Tan Park,Registered Voters - LIBERTARIAN,,,LBT,,44,0,0,0
+Pinal,68 San Tan Park,Registered Voters - NO LABELS,,,NOL,,51,0,0,0
+Pinal,68 San Tan Park,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,68 San Tan Park,Registered Voters - NONPARTISAN,,,-,,1845,0,0,0
 Pinal,68 San Tan Park,Ballots Cast - Total,,,,,1033,773,258,2
 Pinal,68 San Tan Park,Ballots Cast - REPUBLICAN,,,REP,,758,528,228,2
 Pinal,68 San Tan Park,Ballots Cast - DEMOCRATIC,,,DEM,,272,243,29,0
@@ -13273,13 +13273,13 @@ Pinal,68 San Tan Park,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,68 San Tan Park,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,68 San Tan Park,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,68 San Tan Park,Corporation Commission,,3,GRN,Undervotes,3,3,0,0
-Pinal,69 Bella Vista,Registered Voters - Total,,,,,2800,2800,2800,2800
-Pinal,69 Bella Vista,Registered Voters - REPUBLICAN,,,REP,,1177,1177,1177,1177
-Pinal,69 Bella Vista,Registered Voters - DEMOCRATIC,,,DEM,,525,525,525,525
-Pinal,69 Bella Vista,Registered Voters - LIBERTARIAN,,,LBT,,32,32,32,32
-Pinal,69 Bella Vista,Registered Voters - NO LABELS,,,NOL,,43,43,43,43
-Pinal,69 Bella Vista,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,69 Bella Vista,Registered Voters - NONPARTISAN,,,-,,1020,1020,1020,1020
+Pinal,69 Bella Vista,Registered Voters - Total,,,,,2800,0,0,0
+Pinal,69 Bella Vista,Registered Voters - REPUBLICAN,,,REP,,1177,0,0,0
+Pinal,69 Bella Vista,Registered Voters - DEMOCRATIC,,,DEM,,525,0,0,0
+Pinal,69 Bella Vista,Registered Voters - LIBERTARIAN,,,LBT,,32,0,0,0
+Pinal,69 Bella Vista,Registered Voters - NO LABELS,,,NOL,,43,0,0,0
+Pinal,69 Bella Vista,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,69 Bella Vista,Registered Voters - NONPARTISAN,,,-,,1020,0,0,0
 Pinal,69 Bella Vista,Ballots Cast - Total,,,,,658,527,129,2
 Pinal,69 Bella Vista,Ballots Cast - REPUBLICAN,,,REP,,491,378,112,1
 Pinal,69 Bella Vista,Ballots Cast - DEMOCRATIC,,,DEM,,164,147,16,1
@@ -13462,13 +13462,13 @@ Pinal,69 Bella Vista,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,69 Bella Vista,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,69 Bella Vista,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,69 Bella Vista,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,70 Copper Basin,Registered Voters - Total,,,,,2926,2926,2926,2926
-Pinal,70 Copper Basin,Registered Voters - REPUBLICAN,,,REP,,1360,1360,1360,1360
-Pinal,70 Copper Basin,Registered Voters - DEMOCRATIC,,,DEM,,443,443,443,443
-Pinal,70 Copper Basin,Registered Voters - LIBERTARIAN,,,LBT,,45,45,45,45
-Pinal,70 Copper Basin,Registered Voters - NO LABELS,,,NOL,,36,36,36,36
-Pinal,70 Copper Basin,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,70 Copper Basin,Registered Voters - NONPARTISAN,,,-,,1041,1041,1041,1041
+Pinal,70 Copper Basin,Registered Voters - Total,,,,,2926,0,0,0
+Pinal,70 Copper Basin,Registered Voters - REPUBLICAN,,,REP,,1360,0,0,0
+Pinal,70 Copper Basin,Registered Voters - DEMOCRATIC,,,DEM,,443,0,0,0
+Pinal,70 Copper Basin,Registered Voters - LIBERTARIAN,,,LBT,,45,0,0,0
+Pinal,70 Copper Basin,Registered Voters - NO LABELS,,,NOL,,36,0,0,0
+Pinal,70 Copper Basin,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,70 Copper Basin,Registered Voters - NONPARTISAN,,,-,,1041,0,0,0
 Pinal,70 Copper Basin,Ballots Cast - Total,,,,,663,499,161,3
 Pinal,70 Copper Basin,Ballots Cast - REPUBLICAN,,,REP,,516,371,144,1
 Pinal,70 Copper Basin,Ballots Cast - DEMOCRATIC,,,DEM,,145,126,17,2
@@ -13672,13 +13672,13 @@ Pinal,70 Copper Basin,Town Council,Town of Florence,3,,Write-In Totals,0,0,0,0
 Pinal,70 Copper Basin,Town Council,Town of Florence,3,,Total Votes Cast,0,0,0,0
 Pinal,70 Copper Basin,Town Council,Town of Florence,3,,Overvotes,0,0,0,0
 Pinal,70 Copper Basin,Town Council,Town of Florence,3,,Undervotes,0,0,0,0
-Pinal,71 Schnepf North,Registered Voters - Total,,,,,3627,3627,3627,3627
-Pinal,71 Schnepf North,Registered Voters - REPUBLICAN,,,REP,,1705,1705,1705,1705
-Pinal,71 Schnepf North,Registered Voters - DEMOCRATIC,,,DEM,,578,578,578,578
-Pinal,71 Schnepf North,Registered Voters - LIBERTARIAN,,,LBT,,34,34,34,34
-Pinal,71 Schnepf North,Registered Voters - NO LABELS,,,NOL,,21,21,21,21
+Pinal,71 Schnepf North,Registered Voters - Total,,,,,3627,0,0,0
+Pinal,71 Schnepf North,Registered Voters - REPUBLICAN,,,REP,,1705,0,0,0
+Pinal,71 Schnepf North,Registered Voters - DEMOCRATIC,,,DEM,,578,0,0,0
+Pinal,71 Schnepf North,Registered Voters - LIBERTARIAN,,,LBT,,34,0,0,0
+Pinal,71 Schnepf North,Registered Voters - NO LABELS,,,NOL,,21,0,0,0
 Pinal,71 Schnepf North,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,71 Schnepf North,Registered Voters - NONPARTISAN,,,-,,1289,1289,1289,1289
+Pinal,71 Schnepf North,Registered Voters - NONPARTISAN,,,-,,1289,0,0,0
 Pinal,71 Schnepf North,Ballots Cast - Total,,,,,844,647,197,0
 Pinal,71 Schnepf North,Ballots Cast - REPUBLICAN,,,REP,,678,502,176,0
 Pinal,71 Schnepf North,Ballots Cast - DEMOCRATIC,,,DEM,,164,144,20,0
@@ -13861,13 +13861,13 @@ Pinal,71 Schnepf North,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,71 Schnepf North,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,71 Schnepf North,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,71 Schnepf North,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,72 Peralta,Registered Voters - Total,,,,,1320,1320,1320,1320
-Pinal,72 Peralta,Registered Voters - REPUBLICAN,,,REP,,647,647,647,647
-Pinal,72 Peralta,Registered Voters - DEMOCRATIC,,,DEM,,244,244,244,244
-Pinal,72 Peralta,Registered Voters - LIBERTARIAN,,,LBT,,7,7,7,7
-Pinal,72 Peralta,Registered Voters - NO LABELS,,,NOL,,5,5,5,5
+Pinal,72 Peralta,Registered Voters - Total,,,,,1320,0,0,0
+Pinal,72 Peralta,Registered Voters - REPUBLICAN,,,REP,,647,0,0,0
+Pinal,72 Peralta,Registered Voters - DEMOCRATIC,,,DEM,,244,0,0,0
+Pinal,72 Peralta,Registered Voters - LIBERTARIAN,,,LBT,,7,0,0,0
+Pinal,72 Peralta,Registered Voters - NO LABELS,,,NOL,,5,0,0,0
 Pinal,72 Peralta,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,72 Peralta,Registered Voters - NONPARTISAN,,,-,,417,417,417,417
+Pinal,72 Peralta,Registered Voters - NONPARTISAN,,,-,,417,0,0,0
 Pinal,72 Peralta,Ballots Cast - Total,,,,,516,423,93,0
 Pinal,72 Peralta,Ballots Cast - REPUBLICAN,,,REP,,378,290,88,0
 Pinal,72 Peralta,Ballots Cast - DEMOCRATIC,,,DEM,,135,130,5,0
@@ -14058,13 +14058,13 @@ Pinal,72 Peralta,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,72 Peralta,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,72 Peralta,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,72 Peralta,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,73 Santa Rosa,Registered Voters - Total,,,,,1792,1792,1792,1792
-Pinal,73 Santa Rosa,Registered Voters - REPUBLICAN,,,REP,,625,625,625,625
-Pinal,73 Santa Rosa,Registered Voters - DEMOCRATIC,,,DEM,,469,469,469,469
-Pinal,73 Santa Rosa,Registered Voters - LIBERTARIAN,,,LBT,,20,20,20,20
-Pinal,73 Santa Rosa,Registered Voters - NO LABELS,,,NOL,,11,11,11,11
-Pinal,73 Santa Rosa,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,73 Santa Rosa,Registered Voters - NONPARTISAN,,,-,,666,666,666,666
+Pinal,73 Santa Rosa,Registered Voters - Total,,,,,1792,0,0,0
+Pinal,73 Santa Rosa,Registered Voters - REPUBLICAN,,,REP,,625,0,0,0
+Pinal,73 Santa Rosa,Registered Voters - DEMOCRATIC,,,DEM,,469,0,0,0
+Pinal,73 Santa Rosa,Registered Voters - LIBERTARIAN,,,LBT,,20,0,0,0
+Pinal,73 Santa Rosa,Registered Voters - NO LABELS,,,NOL,,11,0,0,0
+Pinal,73 Santa Rosa,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,73 Santa Rosa,Registered Voters - NONPARTISAN,,,-,,666,0,0,0
 Pinal,73 Santa Rosa,Ballots Cast - Total,,,,,487,362,124,1
 Pinal,73 Santa Rosa,Ballots Cast - REPUBLICAN,,,REP,,314,219,94,1
 Pinal,73 Santa Rosa,Ballots Cast - DEMOCRATIC,,,DEM,,161,139,22,0
@@ -14279,13 +14279,13 @@ Pinal,73 Santa Rosa,Proposition 482,City of Maricopa,1,,NO,205,143,61,1
 Pinal,73 Santa Rosa,Proposition 482,City of Maricopa,1,,Total Votes Cast,441,329,111,1
 Pinal,73 Santa Rosa,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,73 Santa Rosa,Proposition 482,City of Maricopa,1,,Undervotes,46,33,13,0
-Pinal,74 El Dorado,Registered Voters - Total,,,,,2870,2870,2870,2870
-Pinal,74 El Dorado,Registered Voters - REPUBLICAN,,,REP,,922,922,922,922
-Pinal,74 El Dorado,Registered Voters - DEMOCRATIC,,,DEM,,791,791,791,791
-Pinal,74 El Dorado,Registered Voters - LIBERTARIAN,,,LBT,,22,22,22,22
-Pinal,74 El Dorado,Registered Voters - NO LABELS,,,NOL,,22,22,22,22
-Pinal,74 El Dorado,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,74 El Dorado,Registered Voters - NONPARTISAN,,,-,,1111,1111,1111,1111
+Pinal,74 El Dorado,Registered Voters - Total,,,,,2870,0,0,0
+Pinal,74 El Dorado,Registered Voters - REPUBLICAN,,,REP,,922,0,0,0
+Pinal,74 El Dorado,Registered Voters - DEMOCRATIC,,,DEM,,791,0,0,0
+Pinal,74 El Dorado,Registered Voters - LIBERTARIAN,,,LBT,,22,0,0,0
+Pinal,74 El Dorado,Registered Voters - NO LABELS,,,NOL,,22,0,0,0
+Pinal,74 El Dorado,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,74 El Dorado,Registered Voters - NONPARTISAN,,,-,,1111,0,0,0
 Pinal,74 El Dorado,Ballots Cast - Total,,,,,653,514,137,2
 Pinal,74 El Dorado,Ballots Cast - REPUBLICAN,,,REP,,357,259,97,1
 Pinal,74 El Dorado,Ballots Cast - DEMOCRATIC,,,DEM,,279,244,34,1
@@ -14500,13 +14500,13 @@ Pinal,74 El Dorado,Proposition 482,City of Maricopa,1,,NO,259,189,68,2
 Pinal,74 El Dorado,Proposition 482,City of Maricopa,1,,Total Votes Cast,600,473,125,2
 Pinal,74 El Dorado,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,74 El Dorado,Proposition 482,City of Maricopa,1,,Undervotes,52,40,12,0
-Pinal,75 Walker Butte,Registered Voters - Total,,,,,3603,3603,3603,3603
-Pinal,75 Walker Butte,Registered Voters - REPUBLICAN,,,REP,,1368,1368,1368,1368
-Pinal,75 Walker Butte,Registered Voters - DEMOCRATIC,,,DEM,,735,735,735,735
-Pinal,75 Walker Butte,Registered Voters - LIBERTARIAN,,,LBT,,54,54,54,54
-Pinal,75 Walker Butte,Registered Voters - NO LABELS,,,NOL,,34,34,34,34
-Pinal,75 Walker Butte,Registered Voters - GREEN,,,GRN,,4,4,4,4
-Pinal,75 Walker Butte,Registered Voters - NONPARTISAN,,,-,,1408,1408,1408,1408
+Pinal,75 Walker Butte,Registered Voters - Total,,,,,3603,0,0,0
+Pinal,75 Walker Butte,Registered Voters - REPUBLICAN,,,REP,,1368,0,0,0
+Pinal,75 Walker Butte,Registered Voters - DEMOCRATIC,,,DEM,,735,0,0,0
+Pinal,75 Walker Butte,Registered Voters - LIBERTARIAN,,,LBT,,54,0,0,0
+Pinal,75 Walker Butte,Registered Voters - NO LABELS,,,NOL,,34,0,0,0
+Pinal,75 Walker Butte,Registered Voters - GREEN,,,GRN,,4,0,0,0
+Pinal,75 Walker Butte,Registered Voters - NONPARTISAN,,,-,,1408,0,0,0
 Pinal,75 Walker Butte,Ballots Cast - Total,,,,,756,581,172,3
 Pinal,75 Walker Butte,Ballots Cast - REPUBLICAN,,,REP,,534,389,145,0
 Pinal,75 Walker Butte,Ballots Cast - DEMOCRATIC,,,DEM,,215,188,24,3
@@ -14690,13 +14690,13 @@ Pinal,75 Walker Butte,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,75 Walker Butte,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,75 Walker Butte,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,75 Walker Butte,Corporation Commission,,3,GRN,Undervotes,3,3,0,0
-Pinal,76 Valley of the Sun,Registered Voters - Total,,,,,2779,2779,2779,2779
-Pinal,76 Valley of the Sun,Registered Voters - REPUBLICAN,,,REP,,1278,1278,1278,1278
-Pinal,76 Valley of the Sun,Registered Voters - DEMOCRATIC,,,DEM,,425,425,425,425
-Pinal,76 Valley of the Sun,Registered Voters - LIBERTARIAN,,,LBT,,37,37,37,37
-Pinal,76 Valley of the Sun,Registered Voters - NO LABELS,,,NOL,,21,21,21,21
-Pinal,76 Valley of the Sun,Registered Voters - GREEN,,,GRN,,4,4,4,4
-Pinal,76 Valley of the Sun,Registered Voters - NONPARTISAN,,,-,,1014,1014,1014,1014
+Pinal,76 Valley of the Sun,Registered Voters - Total,,,,,2779,0,0,0
+Pinal,76 Valley of the Sun,Registered Voters - REPUBLICAN,,,REP,,1278,0,0,0
+Pinal,76 Valley of the Sun,Registered Voters - DEMOCRATIC,,,DEM,,425,0,0,0
+Pinal,76 Valley of the Sun,Registered Voters - LIBERTARIAN,,,LBT,,37,0,0,0
+Pinal,76 Valley of the Sun,Registered Voters - NO LABELS,,,NOL,,21,0,0,0
+Pinal,76 Valley of the Sun,Registered Voters - GREEN,,,GRN,,4,0,0,0
+Pinal,76 Valley of the Sun,Registered Voters - NONPARTISAN,,,-,,1014,0,0,0
 Pinal,76 Valley of the Sun,Ballots Cast - Total,,,,,584,436,146,2
 Pinal,76 Valley of the Sun,Ballots Cast - REPUBLICAN,,,REP,,482,348,132,2
 Pinal,76 Valley of the Sun,Ballots Cast - DEMOCRATIC,,,DEM,,100,88,12,0
@@ -14879,13 +14879,13 @@ Pinal,76 Valley of the Sun,Corporation Commission,,3,GRN,Write-In Totals,1,0,1,0
 Pinal,76 Valley of the Sun,Corporation Commission,,3,GRN,Total Votes Cast,1,0,1,0
 Pinal,76 Valley of the Sun,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,76 Valley of the Sun,Corporation Commission,,3,GRN,Undervotes,2,0,2,0
-Pinal,77 Ak Chin Community,Registered Voters - Total,,,,,497,497,497,497
-Pinal,77 Ak Chin Community,Registered Voters - REPUBLICAN,,,REP,,38,38,38,38
-Pinal,77 Ak Chin Community,Registered Voters - DEMOCRATIC,,,DEM,,245,245,245,245
+Pinal,77 Ak Chin Community,Registered Voters - Total,,,,,497,0,0,0
+Pinal,77 Ak Chin Community,Registered Voters - REPUBLICAN,,,REP,,38,0,0,0
+Pinal,77 Ak Chin Community,Registered Voters - DEMOCRATIC,,,DEM,,245,0,0,0
 Pinal,77 Ak Chin Community,Registered Voters - LIBERTARIAN,,,LBT,,0,0,0,0
 Pinal,77 Ak Chin Community,Registered Voters - NO LABELS,,,NOL,,0,0,0,0
 Pinal,77 Ak Chin Community,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,77 Ak Chin Community,Registered Voters - NONPARTISAN,,,-,,214,214,214,214
+Pinal,77 Ak Chin Community,Registered Voters - NONPARTISAN,,,-,,214,0,0,0
 Pinal,77 Ak Chin Community,Ballots Cast - Total,,,,,74,29,45,0
 Pinal,77 Ak Chin Community,Ballots Cast - REPUBLICAN,,,REP,,9,5,4,0
 Pinal,77 Ak Chin Community,Ballots Cast - DEMOCRATIC,,,DEM,,65,24,41,0
@@ -15080,13 +15080,13 @@ Pinal,77 Ak Chin Community,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,77 Ak Chin Community,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,77 Ak Chin Community,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,77 Ak Chin Community,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,78 Maricopa Meadows,Registered Voters - Total,,,,,2914,2914,2914,2914
-Pinal,78 Maricopa Meadows,Registered Voters - REPUBLICAN,,,REP,,983,983,983,983
-Pinal,78 Maricopa Meadows,Registered Voters - DEMOCRATIC,,,DEM,,774,774,774,774
-Pinal,78 Maricopa Meadows,Registered Voters - LIBERTARIAN,,,LBT,,29,29,29,29
-Pinal,78 Maricopa Meadows,Registered Voters - NO LABELS,,,NOL,,19,19,19,19
-Pinal,78 Maricopa Meadows,Registered Voters - GREEN,,,GRN,,4,4,4,4
-Pinal,78 Maricopa Meadows,Registered Voters - NONPARTISAN,,,-,,1105,1105,1105,1105
+Pinal,78 Maricopa Meadows,Registered Voters - Total,,,,,2914,0,0,0
+Pinal,78 Maricopa Meadows,Registered Voters - REPUBLICAN,,,REP,,983,0,0,0
+Pinal,78 Maricopa Meadows,Registered Voters - DEMOCRATIC,,,DEM,,774,0,0,0
+Pinal,78 Maricopa Meadows,Registered Voters - LIBERTARIAN,,,LBT,,29,0,0,0
+Pinal,78 Maricopa Meadows,Registered Voters - NO LABELS,,,NOL,,19,0,0,0
+Pinal,78 Maricopa Meadows,Registered Voters - GREEN,,,GRN,,4,0,0,0
+Pinal,78 Maricopa Meadows,Registered Voters - NONPARTISAN,,,-,,1105,0,0,0
 Pinal,78 Maricopa Meadows,Ballots Cast - Total,,,,,678,544,134,0
 Pinal,78 Maricopa Meadows,Ballots Cast - REPUBLICAN,,,REP,,417,311,106,0
 Pinal,78 Maricopa Meadows,Ballots Cast - DEMOCRATIC,,,DEM,,255,227,28,0
@@ -15301,13 +15301,13 @@ Pinal,78 Maricopa Meadows,Proposition 482,City of Maricopa,1,,NO,308,239,69,0
 Pinal,78 Maricopa Meadows,Proposition 482,City of Maricopa,1,,Total Votes Cast,631,510,121,0
 Pinal,78 Maricopa Meadows,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,78 Maricopa Meadows,Proposition 482,City of Maricopa,1,,Undervotes,46,34,12,0
-Pinal,79 Maricopa Fiesta,Registered Voters - Total,,,,,3316,3316,3316,3316
-Pinal,79 Maricopa Fiesta,Registered Voters - REPUBLICAN,,,REP,,1097,1097,1097,1097
-Pinal,79 Maricopa Fiesta,Registered Voters - DEMOCRATIC,,,DEM,,835,835,835,835
-Pinal,79 Maricopa Fiesta,Registered Voters - LIBERTARIAN,,,LBT,,27,27,27,27
-Pinal,79 Maricopa Fiesta,Registered Voters - NO LABELS,,,NOL,,26,26,26,26
-Pinal,79 Maricopa Fiesta,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,79 Maricopa Fiesta,Registered Voters - NONPARTISAN,,,-,,1329,1329,1329,1329
+Pinal,79 Maricopa Fiesta,Registered Voters - Total,,,,,3316,0,0,0
+Pinal,79 Maricopa Fiesta,Registered Voters - REPUBLICAN,,,REP,,1097,0,0,0
+Pinal,79 Maricopa Fiesta,Registered Voters - DEMOCRATIC,,,DEM,,835,0,0,0
+Pinal,79 Maricopa Fiesta,Registered Voters - LIBERTARIAN,,,LBT,,27,0,0,0
+Pinal,79 Maricopa Fiesta,Registered Voters - NO LABELS,,,NOL,,26,0,0,0
+Pinal,79 Maricopa Fiesta,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,79 Maricopa Fiesta,Registered Voters - NONPARTISAN,,,-,,1329,0,0,0
 Pinal,79 Maricopa Fiesta,Ballots Cast - Total,,,,,802,578,222,2
 Pinal,79 Maricopa Fiesta,Ballots Cast - REPUBLICAN,,,REP,,495,337,156,2
 Pinal,79 Maricopa Fiesta,Ballots Cast - DEMOCRATIC,,,DEM,,284,234,50,0
@@ -15522,13 +15522,13 @@ Pinal,79 Maricopa Fiesta,Proposition 482,City of Maricopa,1,,NO,337,258,77,2
 Pinal,79 Maricopa Fiesta,Proposition 482,City of Maricopa,1,,Total Votes Cast,738,538,198,2
 Pinal,79 Maricopa Fiesta,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,79 Maricopa Fiesta,Proposition 482,City of Maricopa,1,,Undervotes,63,39,24,0
-Pinal,80 Province,Registered Voters - Total,,,,,6419,6419,6419,6419
-Pinal,80 Province,Registered Voters - REPUBLICAN,,,REP,,2331,2331,2331,2331
-Pinal,80 Province,Registered Voters - DEMOCRATIC,,,DEM,,1670,1670,1670,1670
-Pinal,80 Province,Registered Voters - LIBERTARIAN,,,LBT,,53,53,53,53
-Pinal,80 Province,Registered Voters - NO LABELS,,,NOL,,39,39,39,39
-Pinal,80 Province,Registered Voters - GREEN,,,GRN,,4,4,4,4
-Pinal,80 Province,Registered Voters - NONPARTISAN,,,-,,2322,2322,2322,2322
+Pinal,80 Province,Registered Voters - Total,,,,,6419,0,0,0
+Pinal,80 Province,Registered Voters - REPUBLICAN,,,REP,,2331,0,0,0
+Pinal,80 Province,Registered Voters - DEMOCRATIC,,,DEM,,1670,0,0,0
+Pinal,80 Province,Registered Voters - LIBERTARIAN,,,LBT,,53,0,0,0
+Pinal,80 Province,Registered Voters - NO LABELS,,,NOL,,39,0,0,0
+Pinal,80 Province,Registered Voters - GREEN,,,GRN,,4,0,0,0
+Pinal,80 Province,Registered Voters - NONPARTISAN,,,-,,2322,0,0,0
 Pinal,80 Province,Ballots Cast - Total,,,,,2117,1835,280,2
 Pinal,80 Province,Ballots Cast - REPUBLICAN,,,REP,,1327,1097,229,1
 Pinal,80 Province,Ballots Cast - DEMOCRATIC,,,DEM,,758,717,40,1
@@ -15743,13 +15743,13 @@ Pinal,80 Province,Proposition 482,City of Maricopa,1,,NO,786,645,140,1
 Pinal,80 Province,Proposition 482,City of Maricopa,1,,Total Votes Cast,1928,1666,260,2
 Pinal,80 Province,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,80 Province,Proposition 482,City of Maricopa,1,,Undervotes,189,169,20,0
-Pinal,81 Ironwood Common,Registered Voters - Total,,,,,2721,2721,2721,2721
-Pinal,81 Ironwood Common,Registered Voters - REPUBLICAN,,,REP,,1012,1012,1012,1012
-Pinal,81 Ironwood Common,Registered Voters - DEMOCRATIC,,,DEM,,708,708,708,708
-Pinal,81 Ironwood Common,Registered Voters - LIBERTARIAN,,,LBT,,19,19,19,19
-Pinal,81 Ironwood Common,Registered Voters - NO LABELS,,,NOL,,22,22,22,22
-Pinal,81 Ironwood Common,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,81 Ironwood Common,Registered Voters - NONPARTISAN,,,-,,959,959,959,959
+Pinal,81 Ironwood Common,Registered Voters - Total,,,,,2721,0,0,0
+Pinal,81 Ironwood Common,Registered Voters - REPUBLICAN,,,REP,,1012,0,0,0
+Pinal,81 Ironwood Common,Registered Voters - DEMOCRATIC,,,DEM,,708,0,0,0
+Pinal,81 Ironwood Common,Registered Voters - LIBERTARIAN,,,LBT,,19,0,0,0
+Pinal,81 Ironwood Common,Registered Voters - NO LABELS,,,NOL,,22,0,0,0
+Pinal,81 Ironwood Common,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,81 Ironwood Common,Registered Voters - NONPARTISAN,,,-,,959,0,0,0
 Pinal,81 Ironwood Common,Ballots Cast - Total,,,,,996,847,148,1
 Pinal,81 Ironwood Common,Ballots Cast - REPUBLICAN,,,REP,,604,493,110,1
 Pinal,81 Ironwood Common,Ballots Cast - DEMOCRATIC,,,DEM,,379,343,36,0
@@ -15951,13 +15951,13 @@ Pinal,81 Ironwood Common,City Council,City of Casa Grande,3,,Write-In Totals,15,
 Pinal,81 Ironwood Common,City Council,City of Casa Grande,3,,Total Votes Cast,2431,2077,351,3
 Pinal,81 Ironwood Common,City Council,City of Casa Grande,3,,Overvotes,3,3,0,0
 Pinal,81 Ironwood Common,City Council,City of Casa Grande,3,,Undervotes,554,461,93,0
-Pinal,82 Cruz Park,Registered Voters - Total,,,,,1126,1126,1126,1126
-Pinal,82 Cruz Park,Registered Voters - REPUBLICAN,,,REP,,204,204,204,204
-Pinal,82 Cruz Park,Registered Voters - DEMOCRATIC,,,DEM,,365,365,365,365
-Pinal,82 Cruz Park,Registered Voters - LIBERTARIAN,,,LBT,,3,3,3,3
-Pinal,82 Cruz Park,Registered Voters - NO LABELS,,,NOL,,17,17,17,17
+Pinal,82 Cruz Park,Registered Voters - Total,,,,,1126,0,0,0
+Pinal,82 Cruz Park,Registered Voters - REPUBLICAN,,,REP,,204,0,0,0
+Pinal,82 Cruz Park,Registered Voters - DEMOCRATIC,,,DEM,,365,0,0,0
+Pinal,82 Cruz Park,Registered Voters - LIBERTARIAN,,,LBT,,3,0,0,0
+Pinal,82 Cruz Park,Registered Voters - NO LABELS,,,NOL,,17,0,0,0
 Pinal,82 Cruz Park,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,82 Cruz Park,Registered Voters - NONPARTISAN,,,-,,537,537,537,537
+Pinal,82 Cruz Park,Registered Voters - NONPARTISAN,,,-,,537,0,0,0
 Pinal,82 Cruz Park,Ballots Cast - Total,,,,,177,128,48,1
 Pinal,82 Cruz Park,Ballots Cast - REPUBLICAN,,,REP,,73,45,27,1
 Pinal,82 Cruz Park,Ballots Cast - DEMOCRATIC,,,DEM,,98,80,18,0
@@ -16159,13 +16159,13 @@ Pinal,82 Cruz Park,City Council,City of Casa Grande,3,,Write-In Totals,0,0,0,0
 Pinal,82 Cruz Park,City Council,City of Casa Grande,3,,Total Votes Cast,421,329,92,0
 Pinal,82 Cruz Park,City Council,City of Casa Grande,3,,Overvotes,0,0,0,0
 Pinal,82 Cruz Park,City Council,City of Casa Grande,3,,Undervotes,110,55,52,3
-Pinal,83 Coyote Ranch,Registered Voters - Total,,,,,3477,3477,3477,3477
-Pinal,83 Coyote Ranch,Registered Voters - REPUBLICAN,,,REP,,1354,1354,1354,1354
-Pinal,83 Coyote Ranch,Registered Voters - DEMOCRATIC,,,DEM,,860,860,860,860
-Pinal,83 Coyote Ranch,Registered Voters - LIBERTARIAN,,,LBT,,19,19,19,19
-Pinal,83 Coyote Ranch,Registered Voters - NO LABELS,,,NOL,,37,37,37,37
-Pinal,83 Coyote Ranch,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,83 Coyote Ranch,Registered Voters - NONPARTISAN,,,-,,1206,1206,1206,1206
+Pinal,83 Coyote Ranch,Registered Voters - Total,,,,,3477,0,0,0
+Pinal,83 Coyote Ranch,Registered Voters - REPUBLICAN,,,REP,,1354,0,0,0
+Pinal,83 Coyote Ranch,Registered Voters - DEMOCRATIC,,,DEM,,860,0,0,0
+Pinal,83 Coyote Ranch,Registered Voters - LIBERTARIAN,,,LBT,,19,0,0,0
+Pinal,83 Coyote Ranch,Registered Voters - NO LABELS,,,NOL,,37,0,0,0
+Pinal,83 Coyote Ranch,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,83 Coyote Ranch,Registered Voters - NONPARTISAN,,,-,,1206,0,0,0
 Pinal,83 Coyote Ranch,Ballots Cast - Total,,,,,1088,873,212,3
 Pinal,83 Coyote Ranch,Ballots Cast - REPUBLICAN,,,REP,,723,555,167,1
 Pinal,83 Coyote Ranch,Ballots Cast - DEMOCRATIC,,,DEM,,350,311,37,2
@@ -16367,13 +16367,13 @@ Pinal,83 Coyote Ranch,City Council,City of Casa Grande,3,,Write-In Totals,2,0,2,
 Pinal,83 Coyote Ranch,City Council,City of Casa Grande,3,,Total Votes Cast,2147,1728,413,6
 Pinal,83 Coyote Ranch,City Council,City of Casa Grande,3,,Overvotes,0,0,0,0
 Pinal,83 Coyote Ranch,City Council,City of Casa Grande,3,,Undervotes,505,378,127,0
-Pinal,84 Gold Canyon North,Registered Voters - Total,,,,,1187,1187,1187,1187
-Pinal,84 Gold Canyon North,Registered Voters - REPUBLICAN,,,REP,,571,571,571,571
-Pinal,84 Gold Canyon North,Registered Voters - DEMOCRATIC,,,DEM,,228,228,228,228
-Pinal,84 Gold Canyon North,Registered Voters - LIBERTARIAN,,,LBT,,9,9,9,9
-Pinal,84 Gold Canyon North,Registered Voters - NO LABELS,,,NOL,,4,4,4,4
+Pinal,84 Gold Canyon North,Registered Voters - Total,,,,,1187,0,0,0
+Pinal,84 Gold Canyon North,Registered Voters - REPUBLICAN,,,REP,,571,0,0,0
+Pinal,84 Gold Canyon North,Registered Voters - DEMOCRATIC,,,DEM,,228,0,0,0
+Pinal,84 Gold Canyon North,Registered Voters - LIBERTARIAN,,,LBT,,9,0,0,0
+Pinal,84 Gold Canyon North,Registered Voters - NO LABELS,,,NOL,,4,0,0,0
 Pinal,84 Gold Canyon North,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,84 Gold Canyon North,Registered Voters - NONPARTISAN,,,-,,375,375,375,375
+Pinal,84 Gold Canyon North,Registered Voters - NONPARTISAN,,,-,,375,0,0,0
 Pinal,84 Gold Canyon North,Ballots Cast - Total,,,,,485,390,94,1
 Pinal,84 Gold Canyon North,Ballots Cast - REPUBLICAN,,,REP,,345,263,81,1
 Pinal,84 Gold Canyon North,Ballots Cast - DEMOCRATIC,,,DEM,,136,125,11,0
@@ -16564,13 +16564,13 @@ Pinal,84 Gold Canyon North,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,84 Gold Canyon North,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,84 Gold Canyon North,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,84 Gold Canyon North,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,85 San Tan Heights,Registered Voters - Total,,,,,3127,3127,3127,3127
-Pinal,85 San Tan Heights,Registered Voters - REPUBLICAN,,,REP,,1174,1174,1174,1174
-Pinal,85 San Tan Heights,Registered Voters - DEMOCRATIC,,,DEM,,654,654,654,654
-Pinal,85 San Tan Heights,Registered Voters - LIBERTARIAN,,,LBT,,31,31,31,31
-Pinal,85 San Tan Heights,Registered Voters - NO LABELS,,,NOL,,33,33,33,33
+Pinal,85 San Tan Heights,Registered Voters - Total,,,,,3127,0,0,0
+Pinal,85 San Tan Heights,Registered Voters - REPUBLICAN,,,REP,,1174,0,0,0
+Pinal,85 San Tan Heights,Registered Voters - DEMOCRATIC,,,DEM,,654,0,0,0
+Pinal,85 San Tan Heights,Registered Voters - LIBERTARIAN,,,LBT,,31,0,0,0
+Pinal,85 San Tan Heights,Registered Voters - NO LABELS,,,NOL,,33,0,0,0
 Pinal,85 San Tan Heights,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,85 San Tan Heights,Registered Voters - NONPARTISAN,,,-,,1235,1235,1235,1235
+Pinal,85 San Tan Heights,Registered Voters - NONPARTISAN,,,-,,1235,0,0,0
 Pinal,85 San Tan Heights,Ballots Cast - Total,,,,,672,519,150,3
 Pinal,85 San Tan Heights,Ballots Cast - REPUBLICAN,,,REP,,470,336,131,3
 Pinal,85 San Tan Heights,Ballots Cast - DEMOCRATIC,,,DEM,,199,182,17,0
@@ -16753,13 +16753,13 @@ Pinal,85 San Tan Heights,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,85 San Tan Heights,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,85 San Tan Heights,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,85 San Tan Heights,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,86 Circle Cross Ranch,Registered Voters - Total,,,,,5468,5468,5468,5468
-Pinal,86 Circle Cross Ranch,Registered Voters - REPUBLICAN,,,REP,,2307,2307,2307,2307
-Pinal,86 Circle Cross Ranch,Registered Voters - DEMOCRATIC,,,DEM,,1106,1106,1106,1106
-Pinal,86 Circle Cross Ranch,Registered Voters - LIBERTARIAN,,,LBT,,60,60,60,60
-Pinal,86 Circle Cross Ranch,Registered Voters - NO LABELS,,,NOL,,50,50,50,50
-Pinal,86 Circle Cross Ranch,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,86 Circle Cross Ranch,Registered Voters - NONPARTISAN,,,-,,1943,1943,1943,1943
+Pinal,86 Circle Cross Ranch,Registered Voters - Total,,,,,5468,0,0,0
+Pinal,86 Circle Cross Ranch,Registered Voters - REPUBLICAN,,,REP,,2307,0,0,0
+Pinal,86 Circle Cross Ranch,Registered Voters - DEMOCRATIC,,,DEM,,1106,0,0,0
+Pinal,86 Circle Cross Ranch,Registered Voters - LIBERTARIAN,,,LBT,,60,0,0,0
+Pinal,86 Circle Cross Ranch,Registered Voters - NO LABELS,,,NOL,,50,0,0,0
+Pinal,86 Circle Cross Ranch,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,86 Circle Cross Ranch,Registered Voters - NONPARTISAN,,,-,,1943,0,0,0
 Pinal,86 Circle Cross Ranch,Ballots Cast - Total,,,,,1443,1220,222,1
 Pinal,86 Circle Cross Ranch,Ballots Cast - REPUBLICAN,,,REP,,1054,865,188,1
 Pinal,86 Circle Cross Ranch,Ballots Cast - DEMOCRATIC,,,DEM,,380,348,32,0
@@ -16949,13 +16949,13 @@ Pinal,86 Circle Cross Ranch,Town Council,Town of Queen Creek,3,,Write-In Totals,
 Pinal,86 Circle Cross Ranch,Town Council,Town of Queen Creek,3,,Total Votes Cast,690,653,37,0
 Pinal,86 Circle Cross Ranch,Town Council,Town of Queen Creek,3,,Overvotes,0,0,0,0
 Pinal,86 Circle Cross Ranch,Town Council,Town of Queen Creek,3,,Undervotes,297,265,32,0
-Pinal,87 Johnson Ranch East,Registered Voters - Total,,,,,3470,3470,3470,3470
-Pinal,87 Johnson Ranch East,Registered Voters - REPUBLICAN,,,REP,,1257,1257,1257,1257
-Pinal,87 Johnson Ranch East,Registered Voters - DEMOCRATIC,,,DEM,,740,740,740,740
-Pinal,87 Johnson Ranch East,Registered Voters - LIBERTARIAN,,,LBT,,47,47,47,47
-Pinal,87 Johnson Ranch East,Registered Voters - NO LABELS,,,NOL,,31,31,31,31
-Pinal,87 Johnson Ranch East,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,87 Johnson Ranch East,Registered Voters - NONPARTISAN,,,-,,1393,1393,1393,1393
+Pinal,87 Johnson Ranch East,Registered Voters - Total,,,,,3470,0,0,0
+Pinal,87 Johnson Ranch East,Registered Voters - REPUBLICAN,,,REP,,1257,0,0,0
+Pinal,87 Johnson Ranch East,Registered Voters - DEMOCRATIC,,,DEM,,740,0,0,0
+Pinal,87 Johnson Ranch East,Registered Voters - LIBERTARIAN,,,LBT,,47,0,0,0
+Pinal,87 Johnson Ranch East,Registered Voters - NO LABELS,,,NOL,,31,0,0,0
+Pinal,87 Johnson Ranch East,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,87 Johnson Ranch East,Registered Voters - NONPARTISAN,,,-,,1393,0,0,0
 Pinal,87 Johnson Ranch East,Ballots Cast - Total,,,,,656,518,134,4
 Pinal,87 Johnson Ranch East,Ballots Cast - REPUBLICAN,,,REP,,445,330,111,4
 Pinal,87 Johnson Ranch East,Ballots Cast - DEMOCRATIC,,,DEM,,210,187,23,0
@@ -17138,13 +17138,13 @@ Pinal,87 Johnson Ranch East,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,
 Pinal,87 Johnson Ranch East,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,87 Johnson Ranch East,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,87 Johnson Ranch East,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,88 Ironwood Crossing West,Registered Voters - Total,,,,,4028,4028,4028,4028
-Pinal,88 Ironwood Crossing West,Registered Voters - REPUBLICAN,,,REP,,2014,2014,2014,2014
-Pinal,88 Ironwood Crossing West,Registered Voters - DEMOCRATIC,,,DEM,,634,634,634,634
-Pinal,88 Ironwood Crossing West,Registered Voters - LIBERTARIAN,,,LBT,,35,35,35,35
-Pinal,88 Ironwood Crossing West,Registered Voters - NO LABELS,,,NOL,,20,20,20,20
-Pinal,88 Ironwood Crossing West,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,88 Ironwood Crossing West,Registered Voters - NONPARTISAN,,,-,,1324,1324,1324,1324
+Pinal,88 Ironwood Crossing West,Registered Voters - Total,,,,,4028,0,0,0
+Pinal,88 Ironwood Crossing West,Registered Voters - REPUBLICAN,,,REP,,2014,0,0,0
+Pinal,88 Ironwood Crossing West,Registered Voters - DEMOCRATIC,,,DEM,,634,0,0,0
+Pinal,88 Ironwood Crossing West,Registered Voters - LIBERTARIAN,,,LBT,,35,0,0,0
+Pinal,88 Ironwood Crossing West,Registered Voters - NO LABELS,,,NOL,,20,0,0,0
+Pinal,88 Ironwood Crossing West,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,88 Ironwood Crossing West,Registered Voters - NONPARTISAN,,,-,,1324,0,0,0
 Pinal,88 Ironwood Crossing West,Ballots Cast - Total,,,,,1232,1039,193,0
 Pinal,88 Ironwood Crossing West,Ballots Cast - REPUBLICAN,,,REP,,978,809,169,0
 Pinal,88 Ironwood Crossing West,Ballots Cast - DEMOCRATIC,,,DEM,,247,228,19,0
@@ -17348,13 +17348,13 @@ Pinal,88 Ironwood Crossing West,Town Council,Town of Queen Creek,3,,Write-In Tot
 Pinal,88 Ironwood Crossing West,Town Council,Town of Queen Creek,3,,Total Votes Cast,2477,2152,325,0
 Pinal,88 Ironwood Crossing West,Town Council,Town of Queen Creek,3,,Overvotes,0,0,0,0
 Pinal,88 Ironwood Crossing West,Town Council,Town of Queen Creek,3,,Undervotes,1186,956,230,0
-Pinal,89 Quail Hollow,Registered Voters - Total,,,,,4,4,4,4
-Pinal,89 Quail Hollow,Registered Voters - REPUBLICAN,,,REP,,1,1,1,1
-Pinal,89 Quail Hollow,Registered Voters - DEMOCRATIC,,,DEM,,2,2,2,2
+Pinal,89 Quail Hollow,Registered Voters - Total,,,,,4,0,0,0
+Pinal,89 Quail Hollow,Registered Voters - REPUBLICAN,,,REP,,1,0,0,0
+Pinal,89 Quail Hollow,Registered Voters - DEMOCRATIC,,,DEM,,2,0,0,0
 Pinal,89 Quail Hollow,Registered Voters - LIBERTARIAN,,,LBT,,0,0,0,0
 Pinal,89 Quail Hollow,Registered Voters - NO LABELS,,,NOL,,0,0,0,0
 Pinal,89 Quail Hollow,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,89 Quail Hollow,Registered Voters - NONPARTISAN,,,-,,1,1,1,1
+Pinal,89 Quail Hollow,Registered Voters - NONPARTISAN,,,-,,1,0,0,0
 Pinal,89 Quail Hollow,Ballots Cast - Total,,,,,2,2,0,0
 Pinal,89 Quail Hollow,Ballots Cast - REPUBLICAN,,,REP,,0,0,0,0
 Pinal,89 Quail Hollow,Ballots Cast - DEMOCRATIC,,,DEM,,2,2,0,0
@@ -17538,13 +17538,13 @@ Pinal,89 Quail Hollow,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,89 Quail Hollow,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,89 Quail Hollow,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,89 Quail Hollow,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,90 Senita,Registered Voters - Total,,,,,2588,2588,2588,2588
-Pinal,90 Senita,Registered Voters - REPUBLICAN,,,REP,,683,683,683,683
-Pinal,90 Senita,Registered Voters - DEMOCRATIC,,,DEM,,747,747,747,747
-Pinal,90 Senita,Registered Voters - LIBERTARIAN,,,LBT,,20,20,20,20
-Pinal,90 Senita,Registered Voters - NO LABELS,,,NOL,,21,21,21,21
-Pinal,90 Senita,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,90 Senita,Registered Voters - NONPARTISAN,,,-,,1115,1115,1115,1115
+Pinal,90 Senita,Registered Voters - Total,,,,,2588,0,0,0
+Pinal,90 Senita,Registered Voters - REPUBLICAN,,,REP,,683,0,0,0
+Pinal,90 Senita,Registered Voters - DEMOCRATIC,,,DEM,,747,0,0,0
+Pinal,90 Senita,Registered Voters - LIBERTARIAN,,,LBT,,20,0,0,0
+Pinal,90 Senita,Registered Voters - NO LABELS,,,NOL,,21,0,0,0
+Pinal,90 Senita,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,90 Senita,Registered Voters - NONPARTISAN,,,-,,1115,0,0,0
 Pinal,90 Senita,Ballots Cast - Total,,,,,453,356,96,1
 Pinal,90 Senita,Ballots Cast - REPUBLICAN,,,REP,,259,184,74,1
 Pinal,90 Senita,Ballots Cast - DEMOCRATIC,,,DEM,,186,170,16,0
@@ -17759,13 +17759,13 @@ Pinal,90 Senita,Proposition 482,City of Maricopa,1,,NO,191,151,39,1
 Pinal,90 Senita,Proposition 482,City of Maricopa,1,,Total Votes Cast,426,339,86,1
 Pinal,90 Senita,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,90 Senita,Proposition 482,City of Maricopa,1,,Undervotes,27,17,10,0
-Pinal,91 Silverbell,Registered Voters - Total,,,,,193,193,193,193
-Pinal,91 Silverbell,Registered Voters - REPUBLICAN,,,REP,,88,88,88,88
-Pinal,91 Silverbell,Registered Voters - DEMOCRATIC,,,DEM,,35,35,35,35
-Pinal,91 Silverbell,Registered Voters - LIBERTARIAN,,,LBT,,1,1,1,1
-Pinal,91 Silverbell,Registered Voters - NO LABELS,,,NOL,,2,2,2,2
+Pinal,91 Silverbell,Registered Voters - Total,,,,,193,0,0,0
+Pinal,91 Silverbell,Registered Voters - REPUBLICAN,,,REP,,88,0,0,0
+Pinal,91 Silverbell,Registered Voters - DEMOCRATIC,,,DEM,,35,0,0,0
+Pinal,91 Silverbell,Registered Voters - LIBERTARIAN,,,LBT,,1,0,0,0
+Pinal,91 Silverbell,Registered Voters - NO LABELS,,,NOL,,2,0,0,0
 Pinal,91 Silverbell,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,91 Silverbell,Registered Voters - NONPARTISAN,,,-,,67,67,67,67
+Pinal,91 Silverbell,Registered Voters - NONPARTISAN,,,-,,67,0,0,0
 Pinal,91 Silverbell,Ballots Cast - Total,,,,,66,36,30,0
 Pinal,91 Silverbell,Ballots Cast - REPUBLICAN,,,REP,,58,30,28,0
 Pinal,91 Silverbell,Ballots Cast - DEMOCRATIC,,,DEM,,7,5,2,0
@@ -17949,13 +17949,13 @@ Pinal,91 Silverbell,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,91 Silverbell,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,91 Silverbell,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,91 Silverbell,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,92 Eagle Crest,Registered Voters - Total,,,,,3692,3692,3692,3692
-Pinal,92 Eagle Crest,Registered Voters - REPUBLICAN,,,REP,,1561,1561,1561,1561
-Pinal,92 Eagle Crest,Registered Voters - DEMOCRATIC,,,DEM,,939,939,939,939
-Pinal,92 Eagle Crest,Registered Voters - LIBERTARIAN,,,LBT,,22,22,22,22
-Pinal,92 Eagle Crest,Registered Voters - NO LABELS,,,NOL,,13,13,13,13
-Pinal,92 Eagle Crest,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,92 Eagle Crest,Registered Voters - NONPARTISAN,,,-,,1156,1156,1156,1156
+Pinal,92 Eagle Crest,Registered Voters - Total,,,,,3692,0,0,0
+Pinal,92 Eagle Crest,Registered Voters - REPUBLICAN,,,REP,,1561,0,0,0
+Pinal,92 Eagle Crest,Registered Voters - DEMOCRATIC,,,DEM,,939,0,0,0
+Pinal,92 Eagle Crest,Registered Voters - LIBERTARIAN,,,LBT,,22,0,0,0
+Pinal,92 Eagle Crest,Registered Voters - NO LABELS,,,NOL,,13,0,0,0
+Pinal,92 Eagle Crest,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,92 Eagle Crest,Registered Voters - NONPARTISAN,,,-,,1156,0,0,0
 Pinal,92 Eagle Crest,Ballots Cast - Total,,,,,1773,1506,267,0
 Pinal,92 Eagle Crest,Ballots Cast - REPUBLICAN,,,REP,,1142,909,233,0
 Pinal,92 Eagle Crest,Ballots Cast - DEMOCRATIC,,,DEM,,628,595,33,0
@@ -18140,13 +18140,13 @@ Pinal,92 Eagle Crest,Corporation Commission,,3,GRN,Write-In Totals,1,1,0,0
 Pinal,92 Eagle Crest,Corporation Commission,,3,GRN,Total Votes Cast,1,1,0,0
 Pinal,92 Eagle Crest,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,92 Eagle Crest,Corporation Commission,,3,GRN,Undervotes,2,2,0,0
-Pinal,93 Oracle South,Registered Voters - Total,,,,,2403,2403,2403,2403
-Pinal,93 Oracle South,Registered Voters - REPUBLICAN,,,REP,,812,812,812,812
-Pinal,93 Oracle South,Registered Voters - DEMOCRATIC,,,DEM,,832,832,832,832
-Pinal,93 Oracle South,Registered Voters - LIBERTARIAN,,,LBT,,17,17,17,17
-Pinal,93 Oracle South,Registered Voters - NO LABELS,,,NOL,,10,10,10,10
-Pinal,93 Oracle South,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,93 Oracle South,Registered Voters - NONPARTISAN,,,-,,730,730,730,730
+Pinal,93 Oracle South,Registered Voters - Total,,,,,2403,0,0,0
+Pinal,93 Oracle South,Registered Voters - REPUBLICAN,,,REP,,812,0,0,0
+Pinal,93 Oracle South,Registered Voters - DEMOCRATIC,,,DEM,,832,0,0,0
+Pinal,93 Oracle South,Registered Voters - LIBERTARIAN,,,LBT,,17,0,0,0
+Pinal,93 Oracle South,Registered Voters - NO LABELS,,,NOL,,10,0,0,0
+Pinal,93 Oracle South,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,93 Oracle South,Registered Voters - NONPARTISAN,,,-,,730,0,0,0
 Pinal,93 Oracle South,Ballots Cast - Total,,,,,930,699,224,7
 Pinal,93 Oracle South,Ballots Cast - REPUBLICAN,,,REP,,507,325,177,5
 Pinal,93 Oracle South,Ballots Cast - DEMOCRATIC,,,DEM,,421,373,46,2
@@ -18357,13 +18357,13 @@ Pinal,93 Oracle South,Recall Election for Alvaro Barcelo,Town of Mammoth,1,,Writ
 Pinal,93 Oracle South,Recall Election for Alvaro Barcelo,Town of Mammoth,1,,Total Votes Cast,0,0,0,0
 Pinal,93 Oracle South,Recall Election for Alvaro Barcelo,Town of Mammoth,1,,Overvotes,0,0,0,0
 Pinal,93 Oracle South,Recall Election for Alvaro Barcelo,Town of Mammoth,1,,Undervotes,0,0,0,0
-Pinal,94 Skyline Ranch,Registered Voters - Total,,,,,3449,3449,3449,3449
-Pinal,94 Skyline Ranch,Registered Voters - REPUBLICAN,,,REP,,1338,1338,1338,1338
-Pinal,94 Skyline Ranch,Registered Voters - DEMOCRATIC,,,DEM,,746,746,746,746
-Pinal,94 Skyline Ranch,Registered Voters - LIBERTARIAN,,,LBT,,36,36,36,36
-Pinal,94 Skyline Ranch,Registered Voters - NO LABELS,,,NOL,,36,36,36,36
-Pinal,94 Skyline Ranch,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,94 Skyline Ranch,Registered Voters - NONPARTISAN,,,-,,1290,1290,1290,1290
+Pinal,94 Skyline Ranch,Registered Voters - Total,,,,,3449,0,0,0
+Pinal,94 Skyline Ranch,Registered Voters - REPUBLICAN,,,REP,,1338,0,0,0
+Pinal,94 Skyline Ranch,Registered Voters - DEMOCRATIC,,,DEM,,746,0,0,0
+Pinal,94 Skyline Ranch,Registered Voters - LIBERTARIAN,,,LBT,,36,0,0,0
+Pinal,94 Skyline Ranch,Registered Voters - NO LABELS,,,NOL,,36,0,0,0
+Pinal,94 Skyline Ranch,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,94 Skyline Ranch,Registered Voters - NONPARTISAN,,,-,,1290,0,0,0
 Pinal,94 Skyline Ranch,Ballots Cast - Total,,,,,764,566,197,1
 Pinal,94 Skyline Ranch,Ballots Cast - REPUBLICAN,,,REP,,569,398,170,1
 Pinal,94 Skyline Ranch,Ballots Cast - DEMOCRATIC,,,DEM,,192,166,26,0
@@ -18546,13 +18546,13 @@ Pinal,94 Skyline Ranch,Corporation Commission,,3,GRN,Write-In Totals,0,0,0,0
 Pinal,94 Skyline Ranch,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,94 Skyline Ranch,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,94 Skyline Ranch,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,95 Queen Creek South,Registered Voters - Total,,,,,4310,4310,4310,4310
-Pinal,95 Queen Creek South,Registered Voters - REPUBLICAN,,,REP,,1901,1901,1901,1901
-Pinal,95 Queen Creek South,Registered Voters - DEMOCRATIC,,,DEM,,777,777,777,777
-Pinal,95 Queen Creek South,Registered Voters - LIBERTARIAN,,,LBT,,47,47,47,47
-Pinal,95 Queen Creek South,Registered Voters - NO LABELS,,,NOL,,45,45,45,45
-Pinal,95 Queen Creek South,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,95 Queen Creek South,Registered Voters - NONPARTISAN,,,-,,1538,1538,1538,1538
+Pinal,95 Queen Creek South,Registered Voters - Total,,,,,4310,0,0,0
+Pinal,95 Queen Creek South,Registered Voters - REPUBLICAN,,,REP,,1901,0,0,0
+Pinal,95 Queen Creek South,Registered Voters - DEMOCRATIC,,,DEM,,777,0,0,0
+Pinal,95 Queen Creek South,Registered Voters - LIBERTARIAN,,,LBT,,47,0,0,0
+Pinal,95 Queen Creek South,Registered Voters - NO LABELS,,,NOL,,45,0,0,0
+Pinal,95 Queen Creek South,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,95 Queen Creek South,Registered Voters - NONPARTISAN,,,-,,1538,0,0,0
 Pinal,95 Queen Creek South,Ballots Cast - Total,,,,,1067,892,175,0
 Pinal,95 Queen Creek South,Ballots Cast - REPUBLICAN,,,REP,,793,639,154,0
 Pinal,95 Queen Creek South,Ballots Cast - DEMOCRATIC,,,DEM,,269,248,21,0
@@ -18742,13 +18742,13 @@ Pinal,95 Queen Creek South,Town Council,Town of Queen Creek,3,,Write-In Totals,0
 Pinal,95 Queen Creek South,Town Council,Town of Queen Creek,3,,Total Votes Cast,0,0,0,0
 Pinal,95 Queen Creek South,Town Council,Town of Queen Creek,3,,Overvotes,0,0,0,0
 Pinal,95 Queen Creek South,Town Council,Town of Queen Creek,3,,Undervotes,0,0,0,0
-Pinal,96 San Tan Ranches,Registered Voters - Total,,,,,3133,3133,3133,3133
-Pinal,96 San Tan Ranches,Registered Voters - REPUBLICAN,,,REP,,1746,1746,1746,1746
-Pinal,96 San Tan Ranches,Registered Voters - DEMOCRATIC,,,DEM,,383,383,383,383
-Pinal,96 San Tan Ranches,Registered Voters - LIBERTARIAN,,,LBT,,27,27,27,27
-Pinal,96 San Tan Ranches,Registered Voters - NO LABELS,,,NOL,,32,32,32,32
-Pinal,96 San Tan Ranches,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,96 San Tan Ranches,Registered Voters - NONPARTISAN,,,-,,942,942,942,942
+Pinal,96 San Tan Ranches,Registered Voters - Total,,,,,3133,0,0,0
+Pinal,96 San Tan Ranches,Registered Voters - REPUBLICAN,,,REP,,1746,0,0,0
+Pinal,96 San Tan Ranches,Registered Voters - DEMOCRATIC,,,DEM,,383,0,0,0
+Pinal,96 San Tan Ranches,Registered Voters - LIBERTARIAN,,,LBT,,27,0,0,0
+Pinal,96 San Tan Ranches,Registered Voters - NO LABELS,,,NOL,,32,0,0,0
+Pinal,96 San Tan Ranches,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,96 San Tan Ranches,Registered Voters - NONPARTISAN,,,-,,942,0,0,0
 Pinal,96 San Tan Ranches,Ballots Cast - Total,,,,,1001,807,189,5
 Pinal,96 San Tan Ranches,Ballots Cast - REPUBLICAN,,,REP,,844,654,185,5
 Pinal,96 San Tan Ranches,Ballots Cast - DEMOCRATIC,,,DEM,,150,147,3,0
@@ -18940,13 +18940,13 @@ Pinal,96 San Tan Ranches,Town Council,Town of Queen Creek,3,,Write-In Totals,0,0
 Pinal,96 San Tan Ranches,Town Council,Town of Queen Creek,3,,Total Votes Cast,295,261,32,2
 Pinal,96 San Tan Ranches,Town Council,Town of Queen Creek,3,,Overvotes,0,0,0,0
 Pinal,96 San Tan Ranches,Town Council,Town of Queen Creek,3,,Undervotes,152,117,28,7
-Pinal,97 Copper Basin Southeast,Registered Voters - Total,,,,,4846,4846,4846,4846
-Pinal,97 Copper Basin Southeast,Registered Voters - REPUBLICAN,,,REP,,1760,1760,1760,1760
-Pinal,97 Copper Basin Southeast,Registered Voters - DEMOCRATIC,,,DEM,,1072,1072,1072,1072
-Pinal,97 Copper Basin Southeast,Registered Voters - LIBERTARIAN,,,LBT,,37,37,37,37
-Pinal,97 Copper Basin Southeast,Registered Voters - NO LABELS,,,NOL,,39,39,39,39
-Pinal,97 Copper Basin Southeast,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,97 Copper Basin Southeast,Registered Voters - NONPARTISAN,,,-,,1936,1936,1936,1936
+Pinal,97 Copper Basin Southeast,Registered Voters - Total,,,,,4846,0,0,0
+Pinal,97 Copper Basin Southeast,Registered Voters - REPUBLICAN,,,REP,,1760,0,0,0
+Pinal,97 Copper Basin Southeast,Registered Voters - DEMOCRATIC,,,DEM,,1072,0,0,0
+Pinal,97 Copper Basin Southeast,Registered Voters - LIBERTARIAN,,,LBT,,37,0,0,0
+Pinal,97 Copper Basin Southeast,Registered Voters - NO LABELS,,,NOL,,39,0,0,0
+Pinal,97 Copper Basin Southeast,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,97 Copper Basin Southeast,Registered Voters - NONPARTISAN,,,-,,1936,0,0,0
 Pinal,97 Copper Basin Southeast,Ballots Cast - Total,,,,,983,755,225,3
 Pinal,97 Copper Basin Southeast,Ballots Cast - REPUBLICAN,,,REP,,689,494,192,3
 Pinal,97 Copper Basin Southeast,Ballots Cast - DEMOCRATIC,,,DEM,,287,254,33,0
@@ -19130,13 +19130,13 @@ Pinal,97 Copper Basin Southeast,Corporation Commission,,3,GRN,Write-In Totals,2,
 Pinal,97 Copper Basin Southeast,Corporation Commission,,3,GRN,Total Votes Cast,2,2,0,0
 Pinal,97 Copper Basin Southeast,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,97 Copper Basin Southeast,Corporation Commission,,3,GRN,Undervotes,1,1,0,0
-Pinal,98 Links Estates,Registered Voters - Total,,,,,5209,5209,5209,5209
-Pinal,98 Links Estates,Registered Voters - REPUBLICAN,,,REP,,2255,2255,2255,2255
-Pinal,98 Links Estates,Registered Voters - DEMOCRATIC,,,DEM,,991,991,991,991
-Pinal,98 Links Estates,Registered Voters - LIBERTARIAN,,,LBT,,52,52,52,52
-Pinal,98 Links Estates,Registered Voters - NO LABELS,,,NOL,,39,39,39,39
-Pinal,98 Links Estates,Registered Voters - GREEN,,,GRN,,4,4,4,4
-Pinal,98 Links Estates,Registered Voters - NONPARTISAN,,,-,,1868,1868,1868,1868
+Pinal,98 Links Estates,Registered Voters - Total,,,,,5209,0,0,0
+Pinal,98 Links Estates,Registered Voters - REPUBLICAN,,,REP,,2255,0,0,0
+Pinal,98 Links Estates,Registered Voters - DEMOCRATIC,,,DEM,,991,0,0,0
+Pinal,98 Links Estates,Registered Voters - LIBERTARIAN,,,LBT,,52,0,0,0
+Pinal,98 Links Estates,Registered Voters - NO LABELS,,,NOL,,39,0,0,0
+Pinal,98 Links Estates,Registered Voters - GREEN,,,GRN,,4,0,0,0
+Pinal,98 Links Estates,Registered Voters - NONPARTISAN,,,-,,1868,0,0,0
 Pinal,98 Links Estates,Ballots Cast - Total,,,,,1371,1139,230,2
 Pinal,98 Links Estates,Ballots Cast - REPUBLICAN,,,REP,,998,800,196,2
 Pinal,98 Links Estates,Ballots Cast - DEMOCRATIC,,,DEM,,365,336,29,0
@@ -19326,13 +19326,13 @@ Pinal,98 Links Estates,Town Council,Town of Queen Creek,3,,Write-In Totals,5,2,3
 Pinal,98 Links Estates,Town Council,Town of Queen Creek,3,,Total Votes Cast,897,831,66,0
 Pinal,98 Links Estates,Town Council,Town of Queen Creek,3,,Overvotes,0,0,0,0
 Pinal,98 Links Estates,Town Council,Town of Queen Creek,3,,Undervotes,348,303,45,0
-Pinal,99 Mission Valley,Registered Voters - Total,,,,,3912,3912,3912,3912
-Pinal,99 Mission Valley,Registered Voters - REPUBLICAN,,,REP,,1341,1341,1341,1341
-Pinal,99 Mission Valley,Registered Voters - DEMOCRATIC,,,DEM,,1063,1063,1063,1063
-Pinal,99 Mission Valley,Registered Voters - LIBERTARIAN,,,LBT,,27,27,27,27
-Pinal,99 Mission Valley,Registered Voters - NO LABELS,,,NOL,,39,39,39,39
-Pinal,99 Mission Valley,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,99 Mission Valley,Registered Voters - NONPARTISAN,,,-,,1441,1441,1441,1441
+Pinal,99 Mission Valley,Registered Voters - Total,,,,,3912,0,0,0
+Pinal,99 Mission Valley,Registered Voters - REPUBLICAN,,,REP,,1341,0,0,0
+Pinal,99 Mission Valley,Registered Voters - DEMOCRATIC,,,DEM,,1063,0,0,0
+Pinal,99 Mission Valley,Registered Voters - LIBERTARIAN,,,LBT,,27,0,0,0
+Pinal,99 Mission Valley,Registered Voters - NO LABELS,,,NOL,,39,0,0,0
+Pinal,99 Mission Valley,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,99 Mission Valley,Registered Voters - NONPARTISAN,,,-,,1441,0,0,0
 Pinal,99 Mission Valley,Ballots Cast - Total,,,,,1169,989,178,2
 Pinal,99 Mission Valley,Ballots Cast - REPUBLICAN,,,REP,,698,558,138,2
 Pinal,99 Mission Valley,Ballots Cast - DEMOCRATIC,,,DEM,,453,421,32,0
@@ -19534,13 +19534,13 @@ Pinal,99 Mission Valley,City Council,City of Casa Grande,3,,Write-In Totals,2,2,
 Pinal,99 Mission Valley,City Council,City of Casa Grande,3,,Total Votes Cast,2840,2398,438,4
 Pinal,99 Mission Valley,City Council,City of Casa Grande,3,,Overvotes,0,0,0,0
 Pinal,99 Mission Valley,City Council,City of Casa Grande,3,,Undervotes,664,566,96,2
-Pinal,100 Desert Cedars,Registered Voters - Total,,,,,4369,4369,4369,4369
-Pinal,100 Desert Cedars,Registered Voters - REPUBLICAN,,,REP,,1293,1293,1293,1293
-Pinal,100 Desert Cedars,Registered Voters - DEMOCRATIC,,,DEM,,1234,1234,1234,1234
-Pinal,100 Desert Cedars,Registered Voters - LIBERTARIAN,,,LBT,,29,29,29,29
-Pinal,100 Desert Cedars,Registered Voters - NO LABELS,,,NOL,,42,42,42,42
-Pinal,100 Desert Cedars,Registered Voters - GREEN,,,GRN,,1,1,1,1
-Pinal,100 Desert Cedars,Registered Voters - NONPARTISAN,,,-,,1770,1770,1770,1770
+Pinal,100 Desert Cedars,Registered Voters - Total,,,,,4369,0,0,0
+Pinal,100 Desert Cedars,Registered Voters - REPUBLICAN,,,REP,,1293,0,0,0
+Pinal,100 Desert Cedars,Registered Voters - DEMOCRATIC,,,DEM,,1234,0,0,0
+Pinal,100 Desert Cedars,Registered Voters - LIBERTARIAN,,,LBT,,29,0,0,0
+Pinal,100 Desert Cedars,Registered Voters - NO LABELS,,,NOL,,42,0,0,0
+Pinal,100 Desert Cedars,Registered Voters - GREEN,,,GRN,,1,0,0,0
+Pinal,100 Desert Cedars,Registered Voters - NONPARTISAN,,,-,,1770,0,0,0
 Pinal,100 Desert Cedars,Ballots Cast - Total,,,,,959,797,159,3
 Pinal,100 Desert Cedars,Ballots Cast - REPUBLICAN,,,REP,,515,391,121,3
 Pinal,100 Desert Cedars,Ballots Cast - DEMOCRATIC,,,DEM,,426,398,28,0
@@ -19755,13 +19755,13 @@ Pinal,100 Desert Cedars,Proposition 482,City of Maricopa,1,,NO,415,327,86,2
 Pinal,100 Desert Cedars,Proposition 482,City of Maricopa,1,,Total Votes Cast,870,723,145,2
 Pinal,100 Desert Cedars,Proposition 482,City of Maricopa,1,,Overvotes,3,2,1,0
 Pinal,100 Desert Cedars,Proposition 482,City of Maricopa,1,,Undervotes,86,72,13,1
-Pinal,101 Alterra North,Registered Voters - Total,,,,,2903,2903,2903,2903
-Pinal,101 Alterra North,Registered Voters - REPUBLICAN,,,REP,,786,786,786,786
-Pinal,101 Alterra North,Registered Voters - DEMOCRATIC,,,DEM,,845,845,845,845
-Pinal,101 Alterra North,Registered Voters - LIBERTARIAN,,,LBT,,14,14,14,14
-Pinal,101 Alterra North,Registered Voters - NO LABELS,,,NOL,,24,24,24,24
-Pinal,101 Alterra North,Registered Voters - GREEN,,,GRN,,4,4,4,4
-Pinal,101 Alterra North,Registered Voters - NONPARTISAN,,,-,,1230,1230,1230,1230
+Pinal,101 Alterra North,Registered Voters - Total,,,,,2903,0,0,0
+Pinal,101 Alterra North,Registered Voters - REPUBLICAN,,,REP,,786,0,0,0
+Pinal,101 Alterra North,Registered Voters - DEMOCRATIC,,,DEM,,845,0,0,0
+Pinal,101 Alterra North,Registered Voters - LIBERTARIAN,,,LBT,,14,0,0,0
+Pinal,101 Alterra North,Registered Voters - NO LABELS,,,NOL,,24,0,0,0
+Pinal,101 Alterra North,Registered Voters - GREEN,,,GRN,,4,0,0,0
+Pinal,101 Alterra North,Registered Voters - NONPARTISAN,,,-,,1230,0,0,0
 Pinal,101 Alterra North,Ballots Cast - Total,,,,,524,422,102,0
 Pinal,101 Alterra North,Ballots Cast - REPUBLICAN,,,REP,,279,206,73,0
 Pinal,101 Alterra North,Ballots Cast - DEMOCRATIC,,,DEM,,233,213,20,0
@@ -19976,13 +19976,13 @@ Pinal,101 Alterra North,Proposition 482,City of Maricopa,1,,NO,222,180,42,0
 Pinal,101 Alterra North,Proposition 482,City of Maricopa,1,,Total Votes Cast,472,387,85,0
 Pinal,101 Alterra North,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,101 Alterra North,Proposition 482,City of Maricopa,1,,Undervotes,52,35,17,0
-Pinal,102 Maricopa Wells,Registered Voters - Total,,,,,4578,4578,4578,4578
-Pinal,102 Maricopa Wells,Registered Voters - REPUBLICAN,,,REP,,1513,1513,1513,1513
-Pinal,102 Maricopa Wells,Registered Voters - DEMOCRATIC,,,DEM,,1164,1164,1164,1164
-Pinal,102 Maricopa Wells,Registered Voters - LIBERTARIAN,,,LBT,,47,47,47,47
-Pinal,102 Maricopa Wells,Registered Voters - NO LABELS,,,NOL,,33,33,33,33
-Pinal,102 Maricopa Wells,Registered Voters - GREEN,,,GRN,,4,4,4,4
-Pinal,102 Maricopa Wells,Registered Voters - NONPARTISAN,,,-,,1817,1817,1817,1817
+Pinal,102 Maricopa Wells,Registered Voters - Total,,,,,4578,0,0,0
+Pinal,102 Maricopa Wells,Registered Voters - REPUBLICAN,,,REP,,1513,0,0,0
+Pinal,102 Maricopa Wells,Registered Voters - DEMOCRATIC,,,DEM,,1164,0,0,0
+Pinal,102 Maricopa Wells,Registered Voters - LIBERTARIAN,,,LBT,,47,0,0,0
+Pinal,102 Maricopa Wells,Registered Voters - NO LABELS,,,NOL,,33,0,0,0
+Pinal,102 Maricopa Wells,Registered Voters - GREEN,,,GRN,,4,0,0,0
+Pinal,102 Maricopa Wells,Registered Voters - NONPARTISAN,,,-,,1817,0,0,0
 Pinal,102 Maricopa Wells,Ballots Cast - Total,,,,,1078,877,198,3
 Pinal,102 Maricopa Wells,Ballots Cast - REPUBLICAN,,,REP,,648,509,136,3
 Pinal,102 Maricopa Wells,Ballots Cast - DEMOCRATIC,,,DEM,,408,359,49,0
@@ -20382,13 +20382,13 @@ Pinal,103 San Carlos Community,Corporation Commission,,3,GRN,Write-In Totals,0,0
 Pinal,103 San Carlos Community,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,103 San Carlos Community,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,103 San Carlos Community,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,104 Picacho South,Registered Voters - Total,,,,,2040,2040,2040,2040
-Pinal,104 Picacho South,Registered Voters - REPUBLICAN,,,REP,,826,826,826,826
-Pinal,104 Picacho South,Registered Voters - DEMOCRATIC,,,DEM,,429,429,429,429
-Pinal,104 Picacho South,Registered Voters - LIBERTARIAN,,,LBT,,18,18,18,18
-Pinal,104 Picacho South,Registered Voters - NO LABELS,,,NOL,,13,13,13,13
+Pinal,104 Picacho South,Registered Voters - Total,,,,,2040,0,0,0
+Pinal,104 Picacho South,Registered Voters - REPUBLICAN,,,REP,,826,0,0,0
+Pinal,104 Picacho South,Registered Voters - DEMOCRATIC,,,DEM,,429,0,0,0
+Pinal,104 Picacho South,Registered Voters - LIBERTARIAN,,,LBT,,18,0,0,0
+Pinal,104 Picacho South,Registered Voters - NO LABELS,,,NOL,,13,0,0,0
 Pinal,104 Picacho South,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,104 Picacho South,Registered Voters - NONPARTISAN,,,-,,754,754,754,754
+Pinal,104 Picacho South,Registered Voters - NONPARTISAN,,,-,,754,0,0,0
 Pinal,104 Picacho South,Ballots Cast - Total,,,,,473,368,105,0
 Pinal,104 Picacho South,Ballots Cast - REPUBLICAN,,,REP,,318,227,91,0
 Pinal,104 Picacho South,Ballots Cast - DEMOCRATIC,,,DEM,,154,141,13,0
@@ -20596,13 +20596,13 @@ Pinal,104 Picacho South,Proposition 484,City of Eloy,1,,NO,5,5,0,0
 Pinal,104 Picacho South,Proposition 484,City of Eloy,1,,Total Votes Cast,6,6,0,0
 Pinal,104 Picacho South,Proposition 484,City of Eloy,1,,Overvotes,0,0,0,0
 Pinal,104 Picacho South,Proposition 484,City of Eloy,1,,Undervotes,0,0,0,0
-Pinal,105 Toltec Southwest,Registered Voters - Total,,,,,653,653,653,653
-Pinal,105 Toltec Southwest,Registered Voters - REPUBLICAN,,,REP,,261,261,261,261
-Pinal,105 Toltec Southwest,Registered Voters - DEMOCRATIC,,,DEM,,136,136,136,136
-Pinal,105 Toltec Southwest,Registered Voters - LIBERTARIAN,,,LBT,,6,6,6,6
-Pinal,105 Toltec Southwest,Registered Voters - NO LABELS,,,NOL,,5,5,5,5
+Pinal,105 Toltec Southwest,Registered Voters - Total,,,,,653,0,0,0
+Pinal,105 Toltec Southwest,Registered Voters - REPUBLICAN,,,REP,,261,0,0,0
+Pinal,105 Toltec Southwest,Registered Voters - DEMOCRATIC,,,DEM,,136,0,0,0
+Pinal,105 Toltec Southwest,Registered Voters - LIBERTARIAN,,,LBT,,6,0,0,0
+Pinal,105 Toltec Southwest,Registered Voters - NO LABELS,,,NOL,,5,0,0,0
 Pinal,105 Toltec Southwest,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,105 Toltec Southwest,Registered Voters - NONPARTISAN,,,-,,245,245,245,245
+Pinal,105 Toltec Southwest,Registered Voters - NONPARTISAN,,,-,,245,0,0,0
 Pinal,105 Toltec Southwest,Ballots Cast - Total,,,,,194,150,43,1
 Pinal,105 Toltec Southwest,Ballots Cast - REPUBLICAN,,,REP,,141,105,36,0
 Pinal,105 Toltec Southwest,Ballots Cast - DEMOCRATIC,,,DEM,,49,44,4,1
@@ -20827,13 +20827,13 @@ Pinal,105 Toltec Southwest,Proposition 484,City of Eloy,1,,NO,36,28,8,0
 Pinal,105 Toltec Southwest,Proposition 484,City of Eloy,1,,Total Votes Cast,70,58,12,0
 Pinal,105 Toltec Southwest,Proposition 484,City of Eloy,1,,Overvotes,0,0,0,0
 Pinal,105 Toltec Southwest,Proposition 484,City of Eloy,1,,Undervotes,2,1,1,0
-Pinal,106 Saddlebrooke Ranch,Registered Voters - Total,,,,,2489,2489,2489,2489
-Pinal,106 Saddlebrooke Ranch,Registered Voters - REPUBLICAN,,,REP,,1105,1105,1105,1105
-Pinal,106 Saddlebrooke Ranch,Registered Voters - DEMOCRATIC,,,DEM,,664,664,664,664
-Pinal,106 Saddlebrooke Ranch,Registered Voters - LIBERTARIAN,,,LBT,,6,6,6,6
-Pinal,106 Saddlebrooke Ranch,Registered Voters - NO LABELS,,,NOL,,4,4,4,4
+Pinal,106 Saddlebrooke Ranch,Registered Voters - Total,,,,,2489,0,0,0
+Pinal,106 Saddlebrooke Ranch,Registered Voters - REPUBLICAN,,,REP,,1105,0,0,0
+Pinal,106 Saddlebrooke Ranch,Registered Voters - DEMOCRATIC,,,DEM,,664,0,0,0
+Pinal,106 Saddlebrooke Ranch,Registered Voters - LIBERTARIAN,,,LBT,,6,0,0,0
+Pinal,106 Saddlebrooke Ranch,Registered Voters - NO LABELS,,,NOL,,4,0,0,0
 Pinal,106 Saddlebrooke Ranch,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,106 Saddlebrooke Ranch,Registered Voters - NONPARTISAN,,,-,,710,710,710,710
+Pinal,106 Saddlebrooke Ranch,Registered Voters - NONPARTISAN,,,-,,710,0,0,0
 Pinal,106 Saddlebrooke Ranch,Ballots Cast - Total,,,,,1473,1327,146,0
 Pinal,106 Saddlebrooke Ranch,Ballots Cast - REPUBLICAN,,,REP,,950,823,127,0
 Pinal,106 Saddlebrooke Ranch,Ballots Cast - DEMOCRATIC,,,DEM,,521,503,18,0
@@ -21018,13 +21018,13 @@ Pinal,106 Saddlebrooke Ranch,Corporation Commission,,3,GRN,Write-In Totals,0,0,0
 Pinal,106 Saddlebrooke Ranch,Corporation Commission,,3,GRN,Total Votes Cast,0,0,0,0
 Pinal,106 Saddlebrooke Ranch,Corporation Commission,,3,GRN,Overvotes,0,0,0,0
 Pinal,106 Saddlebrooke Ranch,Corporation Commission,,3,GRN,Undervotes,0,0,0,0
-Pinal,107 Casa Grande Cowtown,Registered Voters - Total,,,,,2203,2203,2203,2203
-Pinal,107 Casa Grande Cowtown,Registered Voters - REPUBLICAN,,,REP,,819,819,819,819
-Pinal,107 Casa Grande Cowtown,Registered Voters - DEMOCRATIC,,,DEM,,522,522,522,522
-Pinal,107 Casa Grande Cowtown,Registered Voters - LIBERTARIAN,,,LBT,,18,18,18,18
-Pinal,107 Casa Grande Cowtown,Registered Voters - NO LABELS,,,NOL,,13,13,13,13
-Pinal,107 Casa Grande Cowtown,Registered Voters - GREEN,,,GRN,,2,2,2,2
-Pinal,107 Casa Grande Cowtown,Registered Voters - NONPARTISAN,,,-,,829,829,829,829
+Pinal,107 Casa Grande Cowtown,Registered Voters - Total,,,,,2203,0,0,0
+Pinal,107 Casa Grande Cowtown,Registered Voters - REPUBLICAN,,,REP,,819,0,0,0
+Pinal,107 Casa Grande Cowtown,Registered Voters - DEMOCRATIC,,,DEM,,522,0,0,0
+Pinal,107 Casa Grande Cowtown,Registered Voters - LIBERTARIAN,,,LBT,,18,0,0,0
+Pinal,107 Casa Grande Cowtown,Registered Voters - NO LABELS,,,NOL,,13,0,0,0
+Pinal,107 Casa Grande Cowtown,Registered Voters - GREEN,,,GRN,,2,0,0,0
+Pinal,107 Casa Grande Cowtown,Registered Voters - NONPARTISAN,,,-,,829,0,0,0
 Pinal,107 Casa Grande Cowtown,Ballots Cast - Total,,,,,675,581,91,3
 Pinal,107 Casa Grande Cowtown,Ballots Cast - REPUBLICAN,,,REP,,448,373,72,3
 Pinal,107 Casa Grande Cowtown,Ballots Cast - DEMOCRATIC,,,DEM,,214,200,14,0
@@ -21226,13 +21226,13 @@ Pinal,107 Casa Grande Cowtown,City Council,City of Casa Grande,3,,Write-In Total
 Pinal,107 Casa Grande Cowtown,City Council,City of Casa Grande,3,,Total Votes Cast,1640,1418,216,6
 Pinal,107 Casa Grande Cowtown,City Council,City of Casa Grande,3,,Overvotes,3,3,0,0
 Pinal,107 Casa Grande Cowtown,City Council,City of Casa Grande,3,,Undervotes,379,319,57,3
-Pinal,108 Ironwood Crossing East,Registered Voters - Total,,,,,3922,3922,3922,3922
-Pinal,108 Ironwood Crossing East,Registered Voters - REPUBLICAN,,,REP,,1984,1984,1984,1984
-Pinal,108 Ironwood Crossing East,Registered Voters - DEMOCRATIC,,,DEM,,577,577,577,577
-Pinal,108 Ironwood Crossing East,Registered Voters - LIBERTARIAN,,,LBT,,35,35,35,35
-Pinal,108 Ironwood Crossing East,Registered Voters - NO LABELS,,,NOL,,13,13,13,13
-Pinal,108 Ironwood Crossing East,Registered Voters - GREEN,,,GRN,,5,5,5,5
-Pinal,108 Ironwood Crossing East,Registered Voters - NONPARTISAN,,,-,,1308,1308,1308,1308
+Pinal,108 Ironwood Crossing East,Registered Voters - Total,,,,,3922,0,0,0
+Pinal,108 Ironwood Crossing East,Registered Voters - REPUBLICAN,,,REP,,1984,0,0,0
+Pinal,108 Ironwood Crossing East,Registered Voters - DEMOCRATIC,,,DEM,,577,0,0,0
+Pinal,108 Ironwood Crossing East,Registered Voters - LIBERTARIAN,,,LBT,,35,0,0,0
+Pinal,108 Ironwood Crossing East,Registered Voters - NO LABELS,,,NOL,,13,0,0,0
+Pinal,108 Ironwood Crossing East,Registered Voters - GREEN,,,GRN,,5,0,0,0
+Pinal,108 Ironwood Crossing East,Registered Voters - NONPARTISAN,,,-,,1308,0,0,0
 Pinal,108 Ironwood Crossing East,Ballots Cast - Total,,,,,961,768,193,0
 Pinal,108 Ironwood Crossing East,Ballots Cast - REPUBLICAN,,,REP,,780,599,181,0
 Pinal,108 Ironwood Crossing East,Ballots Cast - DEMOCRATIC,,,DEM,,179,167,12,0
@@ -21436,13 +21436,13 @@ Pinal,108 Ironwood Crossing East,Town Council,Town of Queen Creek,3,,Write-In To
 Pinal,108 Ironwood Crossing East,Town Council,Town of Queen Creek,3,,Total Votes Cast,0,0,0,0
 Pinal,108 Ironwood Crossing East,Town Council,Town of Queen Creek,3,,Overvotes,0,0,0,0
 Pinal,108 Ironwood Crossing East,Town Council,Town of Queen Creek,3,,Undervotes,0,0,0,0
-Pinal,109 Florence Anthem,Registered Voters - Total,,,,,6004,6004,6004,6004
-Pinal,109 Florence Anthem,Registered Voters - REPUBLICAN,,,REP,,2848,2848,2848,2848
-Pinal,109 Florence Anthem,Registered Voters - DEMOCRATIC,,,DEM,,1083,1083,1083,1083
-Pinal,109 Florence Anthem,Registered Voters - LIBERTARIAN,,,LBT,,41,41,41,41
-Pinal,109 Florence Anthem,Registered Voters - NO LABELS,,,NOL,,31,31,31,31
-Pinal,109 Florence Anthem,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,109 Florence Anthem,Registered Voters - NONPARTISAN,,,-,,1998,1998,1998,1998
+Pinal,109 Florence Anthem,Registered Voters - Total,,,,,6004,0,0,0
+Pinal,109 Florence Anthem,Registered Voters - REPUBLICAN,,,REP,,2848,0,0,0
+Pinal,109 Florence Anthem,Registered Voters - DEMOCRATIC,,,DEM,,1083,0,0,0
+Pinal,109 Florence Anthem,Registered Voters - LIBERTARIAN,,,LBT,,41,0,0,0
+Pinal,109 Florence Anthem,Registered Voters - NO LABELS,,,NOL,,31,0,0,0
+Pinal,109 Florence Anthem,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,109 Florence Anthem,Registered Voters - NONPARTISAN,,,-,,1998,0,0,0
 Pinal,109 Florence Anthem,Ballots Cast - Total,,,,,2494,2035,454,5
 Pinal,109 Florence Anthem,Ballots Cast - REPUBLICAN,,,REP,,1823,1436,384,3
 Pinal,109 Florence Anthem,Ballots Cast - DEMOCRATIC,,,DEM,,637,578,57,2
@@ -21645,13 +21645,13 @@ Pinal,109 Florence Anthem,Town Council,Town of Florence,3,,Write-In Totals,573,4
 Pinal,109 Florence Anthem,Town Council,Town of Florence,3,,Total Votes Cast,4792,4044,738,10
 Pinal,109 Florence Anthem,Town Council,Town of Florence,3,,Overvotes,0,0,0,0
 Pinal,109 Florence Anthem,Town Council,Town of Florence,3,,Undervotes,2690,2061,624,5
-Pinal,110 Rancho El Dorado,Registered Voters - Total,,,,,2173,2173,2173,2173
-Pinal,110 Rancho El Dorado,Registered Voters - REPUBLICAN,,,REP,,699,699,699,699
-Pinal,110 Rancho El Dorado,Registered Voters - DEMOCRATIC,,,DEM,,558,558,558,558
-Pinal,110 Rancho El Dorado,Registered Voters - LIBERTARIAN,,,LBT,,17,17,17,17
-Pinal,110 Rancho El Dorado,Registered Voters - NO LABELS,,,NOL,,39,39,39,39
-Pinal,110 Rancho El Dorado,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,110 Rancho El Dorado,Registered Voters - NONPARTISAN,,,-,,857,857,857,857
+Pinal,110 Rancho El Dorado,Registered Voters - Total,,,,,2173,0,0,0
+Pinal,110 Rancho El Dorado,Registered Voters - REPUBLICAN,,,REP,,699,0,0,0
+Pinal,110 Rancho El Dorado,Registered Voters - DEMOCRATIC,,,DEM,,558,0,0,0
+Pinal,110 Rancho El Dorado,Registered Voters - LIBERTARIAN,,,LBT,,17,0,0,0
+Pinal,110 Rancho El Dorado,Registered Voters - NO LABELS,,,NOL,,39,0,0,0
+Pinal,110 Rancho El Dorado,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,110 Rancho El Dorado,Registered Voters - NONPARTISAN,,,-,,857,0,0,0
 Pinal,110 Rancho El Dorado,Ballots Cast - Total,,,,,529,386,143,0
 Pinal,110 Rancho El Dorado,Ballots Cast - REPUBLICAN,,,REP,,299,193,106,0
 Pinal,110 Rancho El Dorado,Ballots Cast - DEMOCRATIC,,,DEM,,211,185,26,0
@@ -21866,13 +21866,13 @@ Pinal,110 Rancho El Dorado,Proposition 482,City of Maricopa,1,,NO,198,144,54,0
 Pinal,110 Rancho El Dorado,Proposition 482,City of Maricopa,1,,Total Votes Cast,488,362,126,0
 Pinal,110 Rancho El Dorado,Proposition 482,City of Maricopa,1,,Overvotes,0,0,0,0
 Pinal,110 Rancho El Dorado,Proposition 482,City of Maricopa,1,,Undervotes,41,24,17,0
-Pinal,111 Tortosa,Registered Voters - Total,,,,,3391,3391,3391,3391
-Pinal,111 Tortosa,Registered Voters - REPUBLICAN,,,REP,,938,938,938,938
-Pinal,111 Tortosa,Registered Voters - DEMOCRATIC,,,DEM,,912,912,912,912
-Pinal,111 Tortosa,Registered Voters - LIBERTARIAN,,,LBT,,36,36,36,36
-Pinal,111 Tortosa,Registered Voters - NO LABELS,,,NOL,,56,56,56,56
+Pinal,111 Tortosa,Registered Voters - Total,,,,,3391,0,0,0
+Pinal,111 Tortosa,Registered Voters - REPUBLICAN,,,REP,,938,0,0,0
+Pinal,111 Tortosa,Registered Voters - DEMOCRATIC,,,DEM,,912,0,0,0
+Pinal,111 Tortosa,Registered Voters - LIBERTARIAN,,,LBT,,36,0,0,0
+Pinal,111 Tortosa,Registered Voters - NO LABELS,,,NOL,,56,0,0,0
 Pinal,111 Tortosa,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,111 Tortosa,Registered Voters - NONPARTISAN,,,-,,1449,1449,1449,1449
+Pinal,111 Tortosa,Registered Voters - NONPARTISAN,,,-,,1449,0,0,0
 Pinal,111 Tortosa,Ballots Cast - Total,,,,,641,525,116,0
 Pinal,111 Tortosa,Ballots Cast - REPUBLICAN,,,REP,,313,236,77,0
 Pinal,111 Tortosa,Ballots Cast - DEMOCRATIC,,,DEM,,308,282,26,0
@@ -22087,13 +22087,13 @@ Pinal,111 Tortosa,Proposition 482,City of Maricopa,1,,NO,255,205,50,0
 Pinal,111 Tortosa,Proposition 482,City of Maricopa,1,,Total Votes Cast,568,467,101,0
 Pinal,111 Tortosa,Proposition 482,City of Maricopa,1,,Overvotes,1,1,0,0
 Pinal,111 Tortosa,Proposition 482,City of Maricopa,1,,Undervotes,70,55,15,0
-Pinal,112 Sunland Ranches,Registered Voters - Total,,,,,443,443,443,443
-Pinal,112 Sunland Ranches,Registered Voters - REPUBLICAN,,,REP,,168,168,168,168
-Pinal,112 Sunland Ranches,Registered Voters - DEMOCRATIC,,,DEM,,86,86,86,86
-Pinal,112 Sunland Ranches,Registered Voters - LIBERTARIAN,,,LBT,,3,3,3,3
-Pinal,112 Sunland Ranches,Registered Voters - NO LABELS,,,NOL,,4,4,4,4
+Pinal,112 Sunland Ranches,Registered Voters - Total,,,,,443,0,0,0
+Pinal,112 Sunland Ranches,Registered Voters - REPUBLICAN,,,REP,,168,0,0,0
+Pinal,112 Sunland Ranches,Registered Voters - DEMOCRATIC,,,DEM,,86,0,0,0
+Pinal,112 Sunland Ranches,Registered Voters - LIBERTARIAN,,,LBT,,3,0,0,0
+Pinal,112 Sunland Ranches,Registered Voters - NO LABELS,,,NOL,,4,0,0,0
 Pinal,112 Sunland Ranches,Registered Voters - GREEN,,,GRN,,0,0,0,0
-Pinal,112 Sunland Ranches,Registered Voters - NONPARTISAN,,,-,,182,182,182,182
+Pinal,112 Sunland Ranches,Registered Voters - NONPARTISAN,,,-,,182,0,0,0
 Pinal,112 Sunland Ranches,Ballots Cast - Total,,,,,90,61,28,1
 Pinal,112 Sunland Ranches,Ballots Cast - REPUBLICAN,,,REP,,76,50,25,1
 Pinal,112 Sunland Ranches,Ballots Cast - DEMOCRATIC,,,DEM,,14,11,3,0
@@ -22301,13 +22301,13 @@ Pinal,112 Sunland Ranches,Proposition 484,City of Eloy,1,,NO,1,1,0,0
 Pinal,112 Sunland Ranches,Proposition 484,City of Eloy,1,,Total Votes Cast,1,1,0,0
 Pinal,112 Sunland Ranches,Proposition 484,City of Eloy,1,,Overvotes,0,0,0,0
 Pinal,112 Sunland Ranches,Proposition 484,City of Eloy,1,,Undervotes,1,1,0,0
-Pinal,113 Schnepf South,Registered Voters - Total,,,,,2130,2130,2130,2130
-Pinal,113 Schnepf South,Registered Voters - REPUBLICAN,,,REP,,972,972,972,972
-Pinal,113 Schnepf South,Registered Voters - DEMOCRATIC,,,DEM,,373,373,373,373
-Pinal,113 Schnepf South,Registered Voters - LIBERTARIAN,,,LBT,,24,24,24,24
-Pinal,113 Schnepf South,Registered Voters - NO LABELS,,,NOL,,15,15,15,15
-Pinal,113 Schnepf South,Registered Voters - GREEN,,,GRN,,3,3,3,3
-Pinal,113 Schnepf South,Registered Voters - NONPARTISAN,,,-,,743,743,743,743
+Pinal,113 Schnepf South,Registered Voters - Total,,,,,2130,0,0,0
+Pinal,113 Schnepf South,Registered Voters - REPUBLICAN,,,REP,,972,0,0,0
+Pinal,113 Schnepf South,Registered Voters - DEMOCRATIC,,,DEM,,373,0,0,0
+Pinal,113 Schnepf South,Registered Voters - LIBERTARIAN,,,LBT,,24,0,0,0
+Pinal,113 Schnepf South,Registered Voters - NO LABELS,,,NOL,,15,0,0,0
+Pinal,113 Schnepf South,Registered Voters - GREEN,,,GRN,,3,0,0,0
+Pinal,113 Schnepf South,Registered Voters - NONPARTISAN,,,-,,743,0,0,0
 Pinal,113 Schnepf South,Ballots Cast - Total,,,,,512,400,112,0
 Pinal,113 Schnepf South,Ballots Cast - REPUBLICAN,,,REP,,388,290,98,0
 Pinal,113 Schnepf South,Ballots Cast - DEMOCRATIC,,,DEM,,122,108,14,0

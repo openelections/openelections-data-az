@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional
-Yuma,001,Registered Voters,,,,1172,1172,1172,1172
+Yuma,001,Registered Voters,,,,1172,0,0,0
 Yuma,001,Ballots Cast,,,,674,581,90,3
 Yuma,001,President,,REP,Donald J. TRUMP / JD VANCE,370,309,60,1
 Yuma,001,President,,DEM,Kamala D. HARRIS / Tim WALZ,289,262,26,1
@@ -244,7 +244,7 @@ Yuma,001,PROPOSITION 425,,,NO,22,17,5,0
 Yuma,001,PROPOSITION 425,,,Total Votes,46,36,10,0
 Yuma,001,PROPOSITION 425,,,Over Votes,0,0,0,0
 Yuma,001,PROPOSITION 425,,,Under Votes,3,1,2,0
-Yuma,002,Registered Voters,,,,1894,1894,1894,1894
+Yuma,002,Registered Voters,,,,1894,0,0,0
 Yuma,002,Ballots Cast,,,,825,662,153,10
 Yuma,002,President,,REP,Donald J. TRUMP / JD VANCE,386,306,76,4
 Yuma,002,President,,DEM,Kamala D. HARRIS / Tim WALZ,419,338,75,6
@@ -489,7 +489,7 @@ Yuma,002,PROPOSITION 425,,,NO,45,39,5,1
 Yuma,002,PROPOSITION 425,,,Total Votes,96,79,15,2
 Yuma,002,PROPOSITION 425,,,Over Votes,0,0,0,0
 Yuma,002,PROPOSITION 425,,,Under Votes,14,11,3,0
-Yuma,003,Registered Voters,,,,3280,3280,3280,3280
+Yuma,003,Registered Voters,,,,3280,0,0,0
 Yuma,003,Ballots Cast,,,,1572,1317,243,12
 Yuma,003,President,,REP,Donald J. TRUMP / JD VANCE,681,564,112,5
 Yuma,003,President,,DEM,Kamala D. HARRIS / Tim WALZ,841,710,124,7
@@ -741,7 +741,7 @@ Yuma,003,PROPOSITION 428,,,NO,619,523,94,2
 Yuma,003,PROPOSITION 428,,,Total Votes,1281,1074,200,7
 Yuma,003,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,003,PROPOSITION 428,,,Under Votes,148,119,24,5
-Yuma,004,Registered Voters,,,,2872,2872,2872,2872
+Yuma,004,Registered Voters,,,,2872,0,0,0
 Yuma,004,Ballots Cast,,,,1518,1290,217,11
 Yuma,004,President,,REP,Donald J. TRUMP / JD VANCE,755,624,122,9
 Yuma,004,President,,DEM,Kamala D. HARRIS / Tim WALZ,725,631,92,2
@@ -993,7 +993,7 @@ Yuma,004,PROPOSITION 428,,,NO,626,544,80,2
 Yuma,004,PROPOSITION 428,,,Total Votes,1287,1087,191,9
 Yuma,004,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,004,PROPOSITION 428,,,Under Votes,175,148,26,1
-Yuma,005,Registered Voters,,,,11,11,11,11
+Yuma,005,Registered Voters,,,,11,0,0,0
 Yuma,005,Ballots Cast,,,,7,7,0,0
 Yuma,005,President,,REP,Donald J. TRUMP / JD VANCE,2,2,0,0
 Yuma,005,President,,DEM,Kamala D. HARRIS / Tim WALZ,5,5,0,0
@@ -1245,7 +1245,7 @@ Yuma,005,PROPOSITION 428,,,NO,1,1,0,0
 Yuma,005,PROPOSITION 428,,,Total Votes,5,5,0,0
 Yuma,005,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,005,PROPOSITION 428,,,Under Votes,1,1,0,0
-Yuma,006,Registered Voters,,,,1505,1505,1505,1505
+Yuma,006,Registered Voters,,,,1505,0,0,0
 Yuma,006,Ballots Cast,,,,861,743,110,8
 Yuma,006,President,,REP,Donald J. TRUMP / JD VANCE,540,473,63,4
 Yuma,006,President,,DEM,Kamala D. HARRIS / Tim WALZ,295,248,43,4
@@ -1496,7 +1496,7 @@ Yuma,006,PROPOSITION 428,,,NO,387,333,50,4
 Yuma,006,PROPOSITION 428,,,Total Votes,762,653,101,8
 Yuma,006,PROPOSITION 428,,,Over Votes,1,1,0,0
 Yuma,006,PROPOSITION 428,,,Under Votes,71,62,9,0
-Yuma,007,Registered Voters,,,,2745,2745,2745,2745
+Yuma,007,Registered Voters,,,,2745,0,0,0
 Yuma,007,Ballots Cast,,,,1561,1318,231,12
 Yuma,007,President,,REP,Donald J. TRUMP / JD VANCE,810,656,144,10
 Yuma,007,President,,DEM,Kamala D. HARRIS / Tim WALZ,712,626,84,2
@@ -1748,7 +1748,7 @@ Yuma,007,PROPOSITION 428,,,NO,683,584,94,5
 Yuma,007,PROPOSITION 428,,,Total Votes,1368,1162,195,11
 Yuma,007,PROPOSITION 428,,,Over Votes,1,1,0,0
 Yuma,007,PROPOSITION 428,,,Under Votes,145,113,31,1
-Yuma,008,Registered Voters,,,,2764,2764,2764,2764
+Yuma,008,Registered Voters,,,,2764,0,0,0
 Yuma,008,Ballots Cast,,,,1758,1521,220,17
 Yuma,008,President,,REP,Donald J. TRUMP / JD VANCE,1048,873,163,12
 Yuma,008,President,,DEM,Kamala D. HARRIS / Tim WALZ,675,621,49,5
@@ -1986,7 +1986,7 @@ Yuma,008,PROPOSITION 425,,,NO,641,556,81,4
 Yuma,008,PROPOSITION 425,,,Total Votes,1212,1051,151,10
 Yuma,008,PROPOSITION 425,,,Over Votes,1,1,0,0
 Yuma,008,PROPOSITION 425,,,Under Votes,156,132,20,4
-Yuma,009,Registered Voters,,,,2431,2431,2431,2431
+Yuma,009,Registered Voters,,,,2431,0,0,0
 Yuma,009,Ballots Cast,,,,1333,1138,188,7
 Yuma,009,President,,REP,Donald J. TRUMP / JD VANCE,692,574,114,4
 Yuma,009,President,,DEM,Kamala D. HARRIS / Tim WALZ,618,541,74,3
@@ -2224,7 +2224,7 @@ Yuma,009,PROPOSITION 425,,,NO,344,294,50,0
 Yuma,009,PROPOSITION 425,,,Total Votes,662,559,101,2
 Yuma,009,PROPOSITION 425,,,Over Votes,0,0,0,0
 Yuma,009,PROPOSITION 425,,,Under Votes,98,80,17,1
-Yuma,010,Registered Voters,,,,2811,2811,2811,2811
+Yuma,010,Registered Voters,,,,2811,0,0,0
 Yuma,010,Ballots Cast,,,,1587,1336,243,8
 Yuma,010,President,,REP,Donald J. TRUMP / JD VANCE,775,631,141,3
 Yuma,010,President,,DEM,Kamala D. HARRIS / Tim WALZ,773,671,98,4
@@ -2462,7 +2462,7 @@ Yuma,010,PROPOSITION 425,,,NO,759,630,124,5
 Yuma,010,PROPOSITION 425,,,Total Votes,1351,1124,220,7
 Yuma,010,PROPOSITION 425,,,Over Votes,0,0,0,0
 Yuma,010,PROPOSITION 425,,,Under Votes,175,153,21,1
-Yuma,011,Registered Voters,,,,2854,2854,2854,2854
+Yuma,011,Registered Voters,,,,2854,0,0,0
 Yuma,011,Ballots Cast,,,,1836,1583,235,18
 Yuma,011,President,,REP,Donald J. TRUMP / JD VANCE,1072,902,157,13
 Yuma,011,President,,DEM,Kamala D. HARRIS / Tim WALZ,725,645,75,5
@@ -2700,7 +2700,7 @@ Yuma,011,PROPOSITION 425,,,NO,875,754,112,9
 Yuma,011,PROPOSITION 425,,,Total Votes,1559,1339,204,16
 Yuma,011,PROPOSITION 425,,,Over Votes,0,0,0,0
 Yuma,011,PROPOSITION 425,,,Under Votes,228,198,29,1
-Yuma,012,Registered Voters,,,,2611,2611,2611,2611
+Yuma,012,Registered Voters,,,,2611,0,0,0
 Yuma,012,Ballots Cast,,,,1810,1565,228,17
 Yuma,012,President,,REP,Donald J. TRUMP / JD VANCE,1022,861,149,12
 Yuma,012,President,,DEM,Kamala D. HARRIS / Tim WALZ,748,667,77,4
@@ -2952,7 +2952,7 @@ Yuma,012,PROPOSITION 428,,,NO,0,0,0,0
 Yuma,012,PROPOSITION 428,,,Total Votes,0,0,0,0
 Yuma,012,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,012,PROPOSITION 428,,,Under Votes,0,0,0,0
-Yuma,013,Registered Voters,,,,2583,2583,2583,2583
+Yuma,013,Registered Voters,,,,2583,0,0,0
 Yuma,013,Ballots Cast,,,,1589,1333,244,12
 Yuma,013,President,,REP,Donald J. TRUMP / JD VANCE,854,694,153,7
 Yuma,013,President,,DEM,Kamala D. HARRIS / Tim WALZ,701,613,83,5
@@ -3204,7 +3204,7 @@ Yuma,013,PROPOSITION 428,,,NO,667,556,104,7
 Yuma,013,PROPOSITION 428,,,Total Votes,1410,1187,213,10
 Yuma,013,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,013,PROPOSITION 428,,,Under Votes,151,119,30,2
-Yuma,014,Registered Voters,,,,2196,2196,2196,2196
+Yuma,014,Registered Voters,,,,2196,0,0,0
 Yuma,014,Ballots Cast,,,,1151,997,145,9
 Yuma,014,President,,REP,Donald J. TRUMP / JD VANCE,567,480,81,6
 Yuma,014,President,,DEM,Kamala D. HARRIS / Tim WALZ,548,483,62,3
@@ -3456,7 +3456,7 @@ Yuma,014,PROPOSITION 428,,,NO,458,406,50,2
 Yuma,014,PROPOSITION 428,,,Total Votes,986,857,121,8
 Yuma,014,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,014,PROPOSITION 428,,,Under Votes,123,100,22,1
-Yuma,015,Registered Voters,,,,714,714,714,714
+Yuma,015,Registered Voters,,,,714,0,0,0
 Yuma,015,Ballots Cast,,,,387,302,84,1
 Yuma,015,President,,REP,Donald J. TRUMP / JD VANCE,219,167,51,1
 Yuma,015,President,,DEM,Kamala D. HARRIS / Tim WALZ,158,125,33,0
@@ -3708,7 +3708,7 @@ Yuma,015,PROPOSITION 428,,,NO,188,149,39,0
 Yuma,015,PROPOSITION 428,,,Total Votes,342,265,76,1
 Yuma,015,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,015,PROPOSITION 428,,,Under Votes,39,31,8,0
-Yuma,016,Registered Voters,,,,1259,1259,1259,1259
+Yuma,016,Registered Voters,,,,1259,0,0,0
 Yuma,016,Ballots Cast,,,,668,538,124,6
 Yuma,016,President,,REP,Donald J. TRUMP / JD VANCE,344,254,86,4
 Yuma,016,President,,DEM,Kamala D. HARRIS / Tim WALZ,312,274,36,2
@@ -3959,7 +3959,7 @@ Yuma,016,PROPOSITION 428,,,NO,297,228,66,3
 Yuma,016,PROPOSITION 428,,,Total Votes,585,466,114,5
 Yuma,016,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,016,PROPOSITION 428,,,Under Votes,62,52,9,1
-Yuma,017,Registered Voters,,,,2239,2239,2239,2239
+Yuma,017,Registered Voters,,,,2239,0,0,0
 Yuma,017,Ballots Cast,,,,1415,1171,226,18
 Yuma,017,President,,REP,Donald J. TRUMP / JD VANCE,769,608,149,12
 Yuma,017,President,,DEM,Kamala D. HARRIS / Tim WALZ,610,528,76,6
@@ -4210,7 +4210,7 @@ Yuma,017,PROPOSITION 428,,,NO,541,438,96,7
 Yuma,017,PROPOSITION 428,,,Total Votes,1078,873,191,14
 Yuma,017,PROPOSITION 428,,,Over Votes,2,1,1,0
 Yuma,017,PROPOSITION 428,,,Under Votes,112,92,18,2
-Yuma,018,Registered Voters,,,,3306,3306,3306,3306
+Yuma,018,Registered Voters,,,,3306,0,0,0
 Yuma,018,Ballots Cast,,,,1937,1605,310,22
 Yuma,018,President,,REP,Donald J. TRUMP / JD VANCE,1030,824,193,13
 Yuma,018,President,,DEM,Kamala D. HARRIS / Tim WALZ,881,756,116,9
@@ -4448,7 +4448,7 @@ Yuma,018,PROPOSITION 425,,,NO,972,817,147,8
 Yuma,018,PROPOSITION 425,,,Total Votes,1638,1343,279,16
 Yuma,018,PROPOSITION 425,,,Over Votes,0,0,0,0
 Yuma,018,PROPOSITION 425,,,Under Votes,225,194,26,5
-Yuma,019,Registered Voters,,,,3018,3018,3018,3018
+Yuma,019,Registered Voters,,,,3018,0,0,0
 Yuma,019,Ballots Cast,,,,2219,1936,262,21
 Yuma,019,President,,REP,Donald J. TRUMP / JD VANCE,1485,1268,201,16
 Yuma,019,President,,DEM,Kamala D. HARRIS / Tim WALZ,702,642,55,5
@@ -4690,7 +4690,7 @@ Yuma,019,PROPOSITION 425,,,NO,939,822,109,8
 Yuma,019,PROPOSITION 425,,,Total Votes,1689,1473,201,15
 Yuma,019,PROPOSITION 425,,,Over Votes,0,0,0,0
 Yuma,019,PROPOSITION 425,,,Under Votes,204,176,24,4
-Yuma,020,Registered Voters,,,,2029,2029,2029,2029
+Yuma,020,Registered Voters,,,,2029,0,0,0
 Yuma,020,Ballots Cast,,,,1336,1160,165,11
 Yuma,020,President,,REP,Donald J. TRUMP / JD VANCE,808,682,118,8
 Yuma,020,President,,DEM,Kamala D. HARRIS / Tim WALZ,493,446,44,3
@@ -4948,7 +4948,7 @@ Yuma,020,PROPOSITION 428,,,NO,609,527,76,6
 Yuma,020,PROPOSITION 428,,,Total Votes,1144,993,140,11
 Yuma,020,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,020,PROPOSITION 428,,,Under Votes,135,115,20,0
-Yuma,021,Registered Voters,,,,2275,2275,2275,2275
+Yuma,021,Registered Voters,,,,2275,0,0,0
 Yuma,021,Ballots Cast,,,,1592,1380,191,21
 Yuma,021,President,,REP,Donald J. TRUMP / JD VANCE,1004,843,144,17
 Yuma,021,President,,DEM,Kamala D. HARRIS / Tim WALZ,551,502,45,4
@@ -5199,7 +5199,7 @@ Yuma,021,PROPOSITION 428,,,NO,702,611,85,6
 Yuma,021,PROPOSITION 428,,,Total Votes,1397,1211,167,19
 Yuma,021,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,021,PROPOSITION 428,,,Under Votes,144,118,24,2
-Yuma,022,Registered Voters,,,,2290,2290,2290,2290
+Yuma,022,Registered Voters,,,,2290,0,0,0
 Yuma,022,Ballots Cast,,,,1785,1615,162,8
 Yuma,022,President,,REP,Donald J. TRUMP / JD VANCE,1223,1091,126,6
 Yuma,022,President,,DEM,Kamala D. HARRIS / Tim WALZ,531,495,34,2
@@ -5450,7 +5450,7 @@ Yuma,022,PROPOSITION 428,,,NO,841,757,78,6
 Yuma,022,PROPOSITION 428,,,Total Votes,1511,1364,140,7
 Yuma,022,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,022,PROPOSITION 428,,,Under Votes,205,184,20,1
-Yuma,023,Registered Voters,,,,3982,3982,3982,3982
+Yuma,023,Registered Voters,,,,3982,0,0,0
 Yuma,023,Ballots Cast,,,,2813,2337,451,25
 Yuma,023,President,,REP,Donald J. TRUMP / JD VANCE,1891,1537,334,20
 Yuma,023,President,,DEM,Kamala D. HARRIS / Tim WALZ,876,759,112,5
@@ -5701,7 +5701,7 @@ Yuma,023,PROPOSITION 428,,,NO,1363,1123,228,12
 Yuma,023,PROPOSITION 428,,,Total Votes,2486,2064,399,23
 Yuma,023,PROPOSITION 428,,,Over Votes,3,2,1,0
 Yuma,023,PROPOSITION 428,,,Under Votes,257,204,51,2
-Yuma,024,Registered Voters,,,,2340,2340,2340,2340
+Yuma,024,Registered Voters,,,,2340,0,0,0
 Yuma,024,Ballots Cast,,,,1642,1459,172,11
 Yuma,024,President,,REP,Donald J. TRUMP / JD VANCE,1037,900,130,7
 Yuma,024,President,,DEM,Kamala D. HARRIS / Tim WALZ,569,526,39,4
@@ -5952,7 +5952,7 @@ Yuma,024,PROPOSITION 428,,,NO,802,710,87,5
 Yuma,024,PROPOSITION 428,,,Total Votes,1366,1201,156,9
 Yuma,024,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,024,PROPOSITION 428,,,Under Votes,198,181,16,1
-Yuma,025,Registered Voters,,,,3892,3892,3892,3892
+Yuma,025,Registered Voters,,,,3892,0,0,0
 Yuma,025,Ballots Cast,,,,3024,2579,425,20
 Yuma,025,President,,REP,Donald J. TRUMP / JD VANCE,2198,1842,339,17
 Yuma,025,President,,DEM,Kamala D. HARRIS / Tim WALZ,775,690,83,2
@@ -6191,7 +6191,7 @@ Yuma,025,PROPOSITION 428,,,NO,1525,1305,208,12
 Yuma,025,PROPOSITION 428,,,Total Votes,2559,2163,376,20
 Yuma,025,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,025,PROPOSITION 428,,,Under Votes,361,313,48,0
-Yuma,026,Registered Voters,,,,3313,3313,3313,3313
+Yuma,026,Registered Voters,,,,3313,0,0,0
 Yuma,026,Ballots Cast,,,,2672,2415,247,10
 Yuma,026,President,,REP,Donald J. TRUMP / JD VANCE,1920,1704,209,7
 Yuma,026,President,,DEM,Kamala D. HARRIS / Tim WALZ,700,663,35,2
@@ -6430,7 +6430,7 @@ Yuma,026,PROPOSITION 428,,,NO,1489,1340,144,5
 Yuma,026,PROPOSITION 428,,,Total Votes,2267,2031,226,10
 Yuma,026,PROPOSITION 428,,,Over Votes,1,0,1,0
 Yuma,026,PROPOSITION 428,,,Under Votes,312,292,20,0
-Yuma,027,Registered Voters,,,,3009,3009,3009,3009
+Yuma,027,Registered Voters,,,,3009,0,0,0
 Yuma,027,Ballots Cast,,,,2536,2303,223,10
 Yuma,027,President,,REP,Donald J. TRUMP / JD VANCE,1878,1687,182,9
 Yuma,027,President,,DEM,Kamala D. HARRIS / Tim WALZ,616,578,37,1
@@ -6669,7 +6669,7 @@ Yuma,027,PROPOSITION 428,,,NO,1446,1332,112,2
 Yuma,027,PROPOSITION 428,,,Total Votes,2155,1950,198,7
 Yuma,027,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,027,PROPOSITION 428,,,Under Votes,302,276,24,2
-Yuma,028,Registered Voters,,,,3362,3362,3362,3362
+Yuma,028,Registered Voters,,,,3362,0,0,0
 Yuma,028,Ballots Cast,,,,2501,2121,359,21
 Yuma,028,President,,REP,Donald J. TRUMP / JD VANCE,1742,1447,281,14
 Yuma,028,President,,DEM,Kamala D. HARRIS / Tim WALZ,721,639,75,7
@@ -6908,7 +6908,7 @@ Yuma,028,PROPOSITION 428,,,NO,1318,1125,186,7
 Yuma,028,PROPOSITION 428,,,Total Votes,2124,1787,319,18
 Yuma,028,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,028,PROPOSITION 428,,,Under Votes,289,246,39,4
-Yuma,029,Registered Voters,,,,3237,3237,3237,3237
+Yuma,029,Registered Voters,,,,3237,0,0,0
 Yuma,029,Ballots Cast,,,,2447,2073,355,19
 Yuma,029,President,,REP,Donald J. TRUMP / JD VANCE,1668,1382,273,13
 Yuma,029,President,,DEM,Kamala D. HARRIS / Tim WALZ,728,647,76,5
@@ -7147,7 +7147,7 @@ Yuma,029,PROPOSITION 428,,,NO,1283,1065,205,13
 Yuma,029,PROPOSITION 428,,,Total Votes,2121,1780,323,18
 Yuma,029,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,029,PROPOSITION 428,,,Under Votes,249,216,32,1
-Yuma,030,Registered Voters,,,,3297,3297,3297,3297
+Yuma,030,Registered Voters,,,,3297,0,0,0
 Yuma,030,Ballots Cast,,,,2134,1766,344,24
 Yuma,030,President,,REP,Donald J. TRUMP / JD VANCE,1361,1112,235,14
 Yuma,030,President,,DEM,Kamala D. HARRIS / Tim WALZ,734,622,102,10
@@ -7398,7 +7398,7 @@ Yuma,030,PROPOSITION 428,,,NO,1073,902,163,8
 Yuma,030,PROPOSITION 428,,,Total Votes,1884,1552,309,23
 Yuma,030,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,030,PROPOSITION 428,,,Under Votes,198,162,35,1
-Yuma,031,Registered Voters,,,,2642,2642,2642,2642
+Yuma,031,Registered Voters,,,,2642,0,0,0
 Yuma,031,Ballots Cast,,,,1730,1379,326,25
 Yuma,031,President,,REP,Donald J. TRUMP / JD VANCE,1176,905,252,19
 Yuma,031,President,,DEM,Kamala D. HARRIS / Tim WALZ,516,441,70,5
@@ -7649,7 +7649,7 @@ Yuma,031,PROPOSITION 428,,,NO,856,693,152,11
 Yuma,031,PROPOSITION 428,,,Total Votes,1553,1233,297,23
 Yuma,031,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,031,PROPOSITION 428,,,Under Votes,136,105,29,2
-Yuma,032,Registered Voters,,,,2289,2289,2289,2289
+Yuma,032,Registered Voters,,,,2289,0,0,0
 Yuma,032,Ballots Cast,,,,1823,1548,259,16
 Yuma,032,President,,REP,Donald J. TRUMP / JD VANCE,1441,1206,221,14
 Yuma,032,President,,DEM,Kamala D. HARRIS / Tim WALZ,349,312,37,0
@@ -7907,7 +7907,7 @@ Yuma,032,PROPOSITION 428,,,NO,970,821,143,6
 Yuma,032,PROPOSITION 428,,,Total Votes,1607,1358,234,15
 Yuma,032,PROPOSITION 428,,,Over Votes,1,1,0,0
 Yuma,032,PROPOSITION 428,,,Under Votes,172,146,25,1
-Yuma,033,Registered Voters,,,,998,998,998,998
+Yuma,033,Registered Voters,,,,998,0,0,0
 Yuma,033,Ballots Cast,,,,773,659,104,10
 Yuma,033,President,,REP,Donald J. TRUMP / JD VANCE,589,494,87,8
 Yuma,033,President,,DEM,Kamala D. HARRIS / Tim WALZ,171,154,15,2
@@ -8165,7 +8165,7 @@ Yuma,033,PROPOSITION 428,,,NO,419,363,49,7
 Yuma,033,PROPOSITION 428,,,Total Votes,675,577,89,9
 Yuma,033,PROPOSITION 428,,,Over Votes,1,1,0,0
 Yuma,033,PROPOSITION 428,,,Under Votes,76,61,14,1
-Yuma,034,Registered Voters,,,,747,747,747,747
+Yuma,034,Registered Voters,,,,747,0,0,0
 Yuma,034,Ballots Cast,,,,505,425,78,2
 Yuma,034,President,,REP,Donald J. TRUMP / JD VANCE,324,263,59,2
 Yuma,034,President,,DEM,Kamala D. HARRIS / Tim WALZ,174,157,17,0
@@ -8442,7 +8442,7 @@ Yuma,034,PROPOSITION 429,,,NO,56,48,8,0
 Yuma,034,PROPOSITION 429,,,Total Votes,97,80,16,1
 Yuma,034,PROPOSITION 429,,,Over Votes,0,0,0,0
 Yuma,034,PROPOSITION 429,,,Under Votes,8,6,2,0
-Yuma,035,Registered Voters,,,,3244,3244,3244,3244
+Yuma,035,Registered Voters,,,,3244,0,0,0
 Yuma,035,Ballots Cast,,,,1654,1211,391,52
 Yuma,035,President,,REP,Donald J. TRUMP / JD VANCE,825,576,215,34
 Yuma,035,President,,DEM,Kamala D. HARRIS / Tim WALZ,815,625,172,18
@@ -8741,7 +8741,7 @@ Yuma,035,PROPOSITION 431,,,NO,477,350,114,13
 Yuma,035,PROPOSITION 431,,,Total Votes,1057,736,280,41
 Yuma,035,PROPOSITION 431,,,Over Votes,0,0,0,0
 Yuma,035,PROPOSITION 431,,,Under Votes,90,61,24,5
-Yuma,036,Registered Voters,,,,1327,1327,1327,1327
+Yuma,036,Registered Voters,,,,1327,0,0,0
 Yuma,036,Ballots Cast,,,,726,590,127,9
 Yuma,036,President,,REP,Donald J. TRUMP / JD VANCE,392,318,69,5
 Yuma,036,President,,DEM,Kamala D. HARRIS / Tim WALZ,319,260,55,4
@@ -9012,7 +9012,7 @@ Yuma,036,PROPOSITION 429,,,NO,217,177,38,2
 Yuma,036,PROPOSITION 429,,,Total Votes,389,311,74,4
 Yuma,036,PROPOSITION 429,,,Over Votes,0,0,0,0
 Yuma,036,PROPOSITION 429,,,Under Votes,42,33,9,0
-Yuma,037,Registered Voters,,,,3558,3558,3558,3558
+Yuma,037,Registered Voters,,,,3558,0,0,0
 Yuma,037,Ballots Cast,,,,1816,1410,379,27
 Yuma,037,President,,REP,Donald J. TRUMP / JD VANCE,741,528,199,14
 Yuma,037,President,,DEM,Kamala D. HARRIS / Tim WALZ,1032,845,174,13
@@ -9274,7 +9274,7 @@ Yuma,037,PROPOSITION 429,,,NO,728,582,139,7
 Yuma,037,PROPOSITION 429,,,Total Votes,1637,1263,353,21
 Yuma,037,PROPOSITION 429,,,Over Votes,1,1,0,0
 Yuma,037,PROPOSITION 429,,,Under Votes,121,88,27,6
-Yuma,038,Registered Voters,,,,3361,3361,3361,3361
+Yuma,038,Registered Voters,,,,3361,0,0,0
 Yuma,038,Ballots Cast,,,,1629,1266,341,22
 Yuma,038,President,,REP,Donald J. TRUMP / JD VANCE,671,504,159,8
 Yuma,038,President,,DEM,Kamala D. HARRIS / Tim WALZ,918,724,181,13
@@ -9536,7 +9536,7 @@ Yuma,038,PROPOSITION 429,,,NO,602,481,115,6
 Yuma,038,PROPOSITION 429,,,Total Votes,1264,965,281,18
 Yuma,038,PROPOSITION 429,,,Over Votes,0,0,0,0
 Yuma,038,PROPOSITION 429,,,Under Votes,128,99,26,3
-Yuma,039,Registered Voters,,,,3531,3531,3531,3531
+Yuma,039,Registered Voters,,,,3531,0,0,0
 Yuma,039,Ballots Cast,,,,1769,1426,319,24
 Yuma,039,President,,REP,Donald J. TRUMP / JD VANCE,690,532,149,9
 Yuma,039,President,,DEM,Kamala D. HARRIS / Tim WALZ,1056,875,166,15
@@ -9804,7 +9804,7 @@ Yuma,039,PROPOSITION 431,,,NO,728,598,120,10
 Yuma,039,PROPOSITION 431,,,Total Votes,1451,1163,266,22
 Yuma,039,PROPOSITION 431,,,Over Votes,0,0,0,0
 Yuma,039,PROPOSITION 431,,,Under Votes,130,100,29,1
-Yuma,040,Registered Voters,,,,3650,3650,3650,3650
+Yuma,040,Registered Voters,,,,3650,0,0,0
 Yuma,040,Ballots Cast,,,,1669,1328,322,19
 Yuma,040,President,,REP,Donald J. TRUMP / JD VANCE,642,491,145,6
 Yuma,040,President,,DEM,Kamala D. HARRIS / Tim WALZ,996,812,171,13
@@ -10072,7 +10072,7 @@ Yuma,040,PROPOSITION 431,,,NO,710,567,136,7
 Yuma,040,PROPOSITION 431,,,Total Votes,1464,1166,279,19
 Yuma,040,PROPOSITION 431,,,Over Votes,0,0,0,0
 Yuma,040,PROPOSITION 431,,,Under Votes,154,113,41,0
-Yuma,041,Registered Voters,,,,3617,3617,3617,3617
+Yuma,041,Registered Voters,,,,3617,0,0,0
 Yuma,041,Ballots Cast,,,,1585,1265,296,24
 Yuma,041,President,,REP,Donald J. TRUMP / JD VANCE,597,457,128,12
 Yuma,041,President,,DEM,Kamala D. HARRIS / Tim WALZ,960,789,162,9
@@ -10340,7 +10340,7 @@ Yuma,041,PROPOSITION 431,,,NO,660,532,120,8
 Yuma,041,PROPOSITION 431,,,Total Votes,1386,1104,265,17
 Yuma,041,PROPOSITION 431,,,Over Votes,0,0,0,0
 Yuma,041,PROPOSITION 431,,,Under Votes,128,95,29,4
-Yuma,042,Registered Voters,,,,3384,3384,3384,3384
+Yuma,042,Registered Voters,,,,3384,0,0,0
 Yuma,042,Ballots Cast,,,,1245,958,269,18
 Yuma,042,President,,REP,Donald J. TRUMP / JD VANCE,432,312,116,4
 Yuma,042,President,,DEM,Kamala D. HARRIS / Tim WALZ,783,628,142,13
@@ -10608,7 +10608,7 @@ Yuma,042,PROPOSITION 431,,,NO,483,372,102,9
 Yuma,042,PROPOSITION 431,,,Total Votes,1082,825,241,16
 Yuma,042,PROPOSITION 431,,,Over Votes,0,0,0,0
 Yuma,042,PROPOSITION 431,,,Under Votes,106,78,26,2
-Yuma,043,Registered Voters,,,,836,836,836,836
+Yuma,043,Registered Voters,,,,836,0,0,0
 Yuma,043,Ballots Cast,,,,523,429,92,2
 Yuma,043,President,,REP,Donald J. TRUMP / JD VANCE,418,342,75,1
 Yuma,043,President,,DEM,Kamala D. HARRIS / Tim WALZ,99,83,15,1
@@ -10866,7 +10866,7 @@ Yuma,043,PROPOSITION 428,,,NO,256,213,43,0
 Yuma,043,PROPOSITION 428,,,Total Votes,428,349,78,1
 Yuma,043,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,043,PROPOSITION 428,,,Under Votes,71,57,13,1
-Yuma,044,Registered Voters,,,,3190,3190,3190,3190
+Yuma,044,Registered Voters,,,,3190,0,0,0
 Yuma,044,Ballots Cast,,,,2273,1744,509,20
 Yuma,044,President,,REP,Donald J. TRUMP / JD VANCE,1656,1236,405,15
 Yuma,044,President,,DEM,Kamala D. HARRIS / Tim WALZ,604,499,101,4
@@ -11131,7 +11131,7 @@ Yuma,044,PROPOSITION 428,,,NO,61,50,10,1
 Yuma,044,PROPOSITION 428,,,Total Votes,93,76,16,1
 Yuma,044,PROPOSITION 428,,,Over Votes,0,0,0,0
 Yuma,044,PROPOSITION 428,,,Under Votes,10,9,1,0
-Yuma,045,Registered Voters,,,,1,1,1,1
+Yuma,045,Registered Voters,,,,1,0,0,0
 Yuma,045,Ballots Cast,,,,0,0,0,0
 Yuma,045,President,,REP,Donald J. TRUMP / JD VANCE,0,0,0,0
 Yuma,045,President,,DEM,Kamala D. HARRIS / Tim WALZ,0,0,0,0

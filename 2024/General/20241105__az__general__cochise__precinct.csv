@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional
-Cochise,01 BE BENSON,Registered Voters,,,,1829,1829,1829,1829
+Cochise,01 BE BENSON,Registered Voters,,,,1829,0,0,0
 Cochise,01 BE BENSON,Ballots Cast,,,,1390,1080,298,12
 Cochise,01 BE BENSON,President,,REP,Donald J. TRUMP / JD VANCE,936,683,244,9
 Cochise,01 BE BENSON,President,,DEM,Kamala D. HARRIS / Tim WALZ,427,376,48,3
@@ -188,7 +188,7 @@ Cochise,01 BE BENSON,Proposition 315,,,NO,593,478,111,4
 Cochise,01 BE BENSON,Proposition 315,,,Total Votes,1269,976,284,9
 Cochise,01 BE BENSON,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,01 BE BENSON,Proposition 315,,,Undervotes,75,59,13,3
-Cochise,02 BE J_SIX,Registered Voters,,,,2270,2270,2270,2270
+Cochise,02 BE J_SIX,Registered Voters,,,,2270,0,0,0
 Cochise,02 BE J_SIX,Ballots Cast,,,,1825,1366,454,5
 Cochise,02 BE J_SIX,President,,REP,Donald J. TRUMP / JD VANCE,1312,926,382,4
 Cochise,02 BE J_SIX,President,,DEM,Kamala D. HARRIS / Tim WALZ,485,416,68,1
@@ -377,7 +377,7 @@ Cochise,02 BE J_SIX,Proposition 315,,,NO,747,580,166,1
 Cochise,02 BE J_SIX,Proposition 315,,,Total Votes,1662,1240,417,5
 Cochise,02 BE J_SIX,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,02 BE J_SIX,Proposition 315,,,Undervotes,118,81,37,0
-Cochise,03 BE SAN PEDRO,Registered Voters,,,,2107,2107,2107,2107
+Cochise,03 BE SAN PEDRO,Registered Voters,,,,2107,0,0,0
 Cochise,03 BE SAN PEDRO,Ballots Cast,,,,1639,1276,356,7
 Cochise,03 BE SAN PEDRO,President,,REP,Donald J. TRUMP / JD VANCE,1076,778,292,6
 Cochise,03 BE SAN PEDRO,President,,DEM,Kamala D. HARRIS / Tim WALZ,529,472,57,0
@@ -567,7 +567,7 @@ Cochise,03 BE SAN PEDRO,Proposition 315,,,NO,699,573,122,4
 Cochise,03 BE SAN PEDRO,Proposition 315,,,Total Votes,1475,1140,328,7
 Cochise,03 BE SAN PEDRO,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,03 BE SAN PEDRO,Proposition 315,,,Undervotes,105,77,28,0
-Cochise,04 BI BISBEE,Registered Voters,,,,1321,1321,1321,1321
+Cochise,04 BI BISBEE,Registered Voters,,,,1321,0,0,0
 Cochise,04 BI BISBEE,Ballots Cast,,,,1087,997,84,6
 Cochise,04 BI BISBEE,President,,DEM,Kamala D. HARRIS / Tim WALZ,859,801,53,5
 Cochise,04 BI BISBEE,President,,REP,Donald J. TRUMP / JD VANCE,205,176,28,1
@@ -743,7 +743,7 @@ Cochise,04 BI BISBEE,Proposition 315,,,YES,218,188,28,2
 Cochise,04 BI BISBEE,Proposition 315,,,Total Votes,991,914,74,3
 Cochise,04 BI BISBEE,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,04 BI BISBEE,Proposition 315,,,Undervotes,65,54,10,1
-Cochise,05 BI DON LUIS,Registered Voters,,,,1408,1408,1408,1408
+Cochise,05 BI DON LUIS,Registered Voters,,,,1408,0,0,0
 Cochise,05 BI DON LUIS,Ballots Cast,,,,1035,892,137,6
 Cochise,05 BI DON LUIS,President,,DEM,Kamala D. HARRIS / Tim WALZ,610,548,61,1
 Cochise,05 BI DON LUIS,President,,REP,Donald J. TRUMP / JD VANCE,404,325,74,5
@@ -919,7 +919,7 @@ Cochise,05 BI DON LUIS,Proposition 315,,,YES,294,238,53,3
 Cochise,05 BI DON LUIS,Proposition 315,,,Total Votes,943,806,133,4
 Cochise,05 BI DON LUIS,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,05 BI DON LUIS,Proposition 315,,,Undervotes,64,58,4,2
-Cochise,06 Bl WARREN,Registered Voters,,,,1436,1436,1436,1436
+Cochise,06 Bl WARREN,Registered Voters,,,,1436,0,0,0
 Cochise,06 Bl WARREN,Ballots Cast,,,,1151,1001,143,7
 Cochise,06 Bl WARREN,President,,DEM,Kamala D. HARRIS / Tim WALZ,741,682,56,3
 Cochise,06 Bl WARREN,President,,REP,Donald J. TRUMP / JD VANCE,369,284,82,3
@@ -1095,7 +1095,7 @@ Cochise,06 Bl WARREN,Proposition 315,,,YES,338,278,59,1
 Cochise,06 Bl WARREN,Proposition 315,,,Total Votes,1053,916,131,6
 Cochise,06 Bl WARREN,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,06 Bl WARREN,Proposition 315,,,Undervotes,64,51,12,1
-Cochise,07 BOWIE,Registered Voters,,,,289,289,289,289
+Cochise,07 BOWIE,Registered Voters,,,,289,0,0,0
 Cochise,07 BOWIE,Ballots Cast,,,,188,106,82,0
 Cochise,07 BOWIE,President,,REP,Donald J. TRUMP / JD VANCE,141,80,61,0
 Cochise,07 BOWIE,President,,DEM,Kamala D. HARRIS / Tim WALZ,43,25,18,0
@@ -1269,7 +1269,7 @@ Cochise,07 BOWIE,Proposition 315,,,NO,79,50,29,0
 Cochise,07 BOWIE,Proposition 315,,,Total Votes,167,100,67,0
 Cochise,07 BOWIE,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,07 BOWIE,Proposition 315,,,Undervotes,18,3,15,0
-Cochise,08 COCHISE STRONGHOLD,Registered Voters,,,,1776,1776,1776,1776
+Cochise,08 COCHISE STRONGHOLD,Registered Voters,,,,1776,0,0,0
 Cochise,08 COCHISE STRONGHOLD,Ballots Cast,,,,1426,1052,369,5
 Cochise,08 COCHISE STRONGHOLD,President,,REP,Donald J. TRUMP / JD VANCE,981,657,320,4
 Cochise,08 COCHISE STRONGHOLD,President,,DEM,Kamala D. HARRIS / Tim WALZ,411,367,44,0
@@ -1451,7 +1451,7 @@ Cochise,08 COCHISE STRONGHOLD,Proposition 315,,,NO,644,491,151,2
 Cochise,08 COCHISE STRONGHOLD,Proposition 315,,,Total Votes,1311,955,352,4
 Cochise,08 COCHISE STRONGHOLD,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,08 COCHISE STRONGHOLD,Proposition 315,,,Undervotes,87,70,17,0
-Cochise,09 DO CALVARY,Registered Voters,,,,1631,1631,1631,1631
+Cochise,09 DO CALVARY,Registered Voters,,,,1631,0,0,0
 Cochise,09 DO CALVARY,Ballots Cast,,,,886,735,145,6
 Cochise,09 DO CALVARY,President,,DEM,Kamala D. HARRIS / Tim WALZ,588,517,66,5
 Cochise,09 DO CALVARY,President,,REP,Donald J. TRUMP / JD VANCE,287,211,75,1
@@ -1627,7 +1627,7 @@ Cochise,09 DO CALVARY,PROPOSITION 400,,,NO,332,284,46,2
 Cochise,09 DO CALVARY,PROPOSITION 400,,,Total Votes,774,643,126,5
 Cochise,09 DO CALVARY,PROPOSITION 400,,,Overvotes,1,1,0,0
 Cochise,09 DO CALVARY,PROPOSITION 400,,,Undervotes,53,38,14,1
-Cochise,10 DO CARLSON,Registered Voters,,,,2080,2080,2080,2080
+Cochise,10 DO CARLSON,Registered Voters,,,,2080,0,0,0
 Cochise,10 DO CARLSON,Ballots Cast,,,,1266,1061,199,6
 Cochise,10 DO CARLSON,President,,DEM,Kamala D. HARRIS / Tim WALZ,712,632,77,3
 Cochise,10 DO CARLSON,President,,REP,Donald J. TRUMP / JD VANCE,530,407,120,3
@@ -1803,7 +1803,7 @@ Cochise,10 DO CARLSON,PROPOSITION 400,,,NO,499,422,75,2
 Cochise,10 DO CARLSON,PROPOSITION 400,,,Total Votes,1144,950,188,6
 Cochise,10 DO CARLSON,PROPOSITION 400,,,Overvotes,1,1,0,0
 Cochise,10 DO CARLSON,PROPOSITION 400,,,Undervotes,89,78,11,0
-Cochise,11 DO CASTRO PARK,Registered Voters,,,,2217,2217,2217,2217
+Cochise,11 DO CASTRO PARK,Registered Voters,,,,2217,0,0,0
 Cochise,11 DO CASTRO PARK,Ballots Cast,,,,1030,778,243,9
 Cochise,11 DO CASTRO PARK,President,,DEM,Kamala D. HARRIS / Tim WALZ,712,557,148,7
 Cochise,11 DO CASTRO PARK,President,,REP,Donald J. TRUMP / JD VANCE,299,208,89,2
@@ -1979,7 +1979,7 @@ Cochise,11 DO CASTRO PARK,PROPOSITION 400,,,NO,355,266,87,2
 Cochise,11 DO CASTRO PARK,PROPOSITION 400,,,Total Votes,913,693,215,5
 Cochise,11 DO CASTRO PARK,PROPOSITION 400,,,Overvotes,0,0,0,0
 Cochise,11 DO CASTRO PARK,PROPOSITION 400,,,Undervotes,80,50,27,3
-Cochise,12 DO GADSDEN,Registered Voters,,,,1685,1685,1685,1685
+Cochise,12 DO GADSDEN,Registered Voters,,,,1685,0,0,0
 Cochise,12 DO GADSDEN,Ballots Cast,,,,785,619,162,4
 Cochise,12 DO GADSDEN,President,,DEM,Kamala D. HARRIS / Tim WALZ,494,420,74,0
 Cochise,12 DO GADSDEN,President,,REP,Donald J. TRUMP / JD VANCE,274,187,83,4
@@ -2155,7 +2155,7 @@ Cochise,12 DO GADSDEN,PROPOSITION 400,,,NO,305,241,62,2
 Cochise,12 DO GADSDEN,PROPOSITION 400,,,Total Votes,722,566,153,3
 Cochise,12 DO GADSDEN,PROPOSITION 400,,,Overvotes,0,0,0,0
 Cochise,12 DO GADSDEN,PROPOSITION 400,,,Undervotes,41,31,9,1
-Cochise,13 DO SUNNYSIDE,Registered Voters,,,,1777,1777,1777,1777
+Cochise,13 DO SUNNYSIDE,Registered Voters,,,,1777,0,0,0
 Cochise,13 DO SUNNYSIDE,Ballots Cast,,,,873,693,176,4
 Cochise,13 DO SUNNYSIDE,President,,DEM,Kamala D. HARRIS / Tim WALZ,496,426,68,2
 Cochise,13 DO SUNNYSIDE,President,,REP,Donald J. TRUMP / JD VANCE,365,255,108,2
@@ -2331,7 +2331,7 @@ Cochise,13 DO SUNNYSIDE,PROPOSITION 400,,,NO,156,130,26,0
 Cochise,13 DO SUNNYSIDE,PROPOSITION 400,,,Total Votes,403,329,73,1
 Cochise,13 DO SUNNYSIDE,PROPOSITION 400,,,Overvotes,0,0,0,0
 Cochise,13 DO SUNNYSIDE,PROPOSITION 400,,,Undervotes,25,15,9,1
-Cochise,14 GREATER SAN PEDRO,Registered Voters,,,,1950,1950,1950,1950
+Cochise,14 GREATER SAN PEDRO,Registered Voters,,,,1950,0,0,0
 Cochise,14 GREATER SAN PEDRO,Ballots Cast,,,,1481,1147,327,7
 Cochise,14 GREATER SAN PEDRO,President,,REP,Donald J. TRUMP / JD VANCE,1075,796,275,4
 Cochise,14 GREATER SAN PEDRO,President,,DEM,Kamala D. HARRIS / Tim WALZ,361,314,44,3
@@ -2509,7 +2509,7 @@ Cochise,14 GREATER SAN PEDRO,Proposition 315,,,NO,636,513,120,3
 Cochise,14 GREATER SAN PEDRO,Proposition 315,,,Total Votes,1366,1057,302,7
 Cochise,14 GREATER SAN PEDRO,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,14 GREATER SAN PEDRO,Proposition 315,,,Undervotes,84,60,24,0
-Cochise,15 HEREFORD,Registered Voters,,,,1654,1654,1654,1654
+Cochise,15 HEREFORD,Registered Voters,,,,1654,0,0,0
 Cochise,15 HEREFORD,Ballots Cast,,,,1358,1138,213,7
 Cochise,15 HEREFORD,President,,REP,Donald J. TRUMP / JD VANCE,889,711,173,5
 Cochise,15 HEREFORD,President,,DEM,Kamala D. HARRIS / Tim WALZ,429,393,34,2
@@ -2702,7 +2702,7 @@ Cochise,15 HEREFORD,USD 68 District Additional Assistance,,,Undervotes,0,0,0,0
 Cochise,15 HEREFORD,USD 68 Main. & Operations Override,,,Total Votes,7,5,1,1
 Cochise,15 HEREFORD,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,15 HEREFORD,USD 68 Main. & Operations Override,,,Undervotes,0,0,0,0
-Cochise,16 HUACHUCA,Registered Voters,,,,1104,1104,1104,1104
+Cochise,16 HUACHUCA,Registered Voters,,,,1104,0,0,0
 Cochise,16 HUACHUCA,Ballots Cast,,,,754,521,222,1
 Cochise,16 HUACHUCA,President,,REP,Donald J. TRUMP / JD VANCE,451,274,169,8
 Cochise,16 HUACHUCA,President,,DEM,Kamala D. HARRIS / Tim WALZ,290,234,53,3
@@ -2887,7 +2887,7 @@ Cochise,16 HUACHUCA,PROPOSITION 424,,,NO,183,109,69,5
 Cochise,16 HUACHUCA,PROPOSITION 424,,,Total Votes,594,405,180,9
 Cochise,16 HUACHUCA,PROPOSITION 424,,,Overvotes,0,0,0,0
 Cochise,16 HUACHUCA,PROPOSITION 424,,,Undervotes,45,35,10,0
-Cochise,17 MCNEAL,Registered Voters,,,,1008,1008,1008,1008
+Cochise,17 MCNEAL,Registered Voters,,,,1008,0,0,0
 Cochise,17 MCNEAL,Ballots Cast,,,,788,588,197,3
 Cochise,17 MCNEAL,President,,REP,Donald J. TRUMP / JD VANCE,516,346,167,3
 Cochise,17 MCNEAL,President,,DEM,Kamala D. HARRIS / Tim WALZ,248,225,23,0
@@ -3064,7 +3064,7 @@ Cochise,17 MCNEAL,PROPOSITION 400,,,NO,0,0,0,0
 Cochise,17 MCNEAL,PROPOSITION 400,,,Total Votes,0,0,0,0
 Cochise,17 MCNEAL,PROPOSITION 400,,,Overvotes,0,0,0,0
 Cochise,17 MCNEAL,PROPOSITION 400,,,Undervotes,0,0,0,0
-Cochise,18 NACO,Registered Voters,,,,781,781,781,781
+Cochise,18 NACO,Registered Voters,,,,781,0,0,0
 Cochise,18 NACO,Ballots Cast,,,,460,371,85,4
 Cochise,18 NACO,President,,DEM,Kamala D. HARRIS / Tim WALZ,292,254,35,3
 Cochise,18 NACO,President,,REP,Donald J. TRUMP / JD VANCE,162,113,48,1
@@ -3240,7 +3240,7 @@ Cochise,18 NACO,Proposition 315,,,YES,131,98,30,3
 Cochise,18 NACO,Proposition 315,,,Total Votes,427,343,80,4
 Cochise,18 NACO,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,18 NACO,Proposition 315,,,Undervotes,15,10,5,0
-Cochise,19 PALOMINAS,Registered Voters,,,,1204,1204,1204,1204
+Cochise,19 PALOMINAS,Registered Voters,,,,1204,0,0,0
 Cochise,19 PALOMINAS,Ballots Cast,,,,921,765,152,4
 Cochise,19 PALOMINAS,President,,REP,Donald J. TRUMP / JD VANCE,598,471,126,1
 Cochise,19 PALOMINAS,President,,DEM,Kamala D. HARRIS / Tim WALZ,287,267,17,3
@@ -3416,7 +3416,7 @@ Cochise,19 PALOMINAS,Proposition 315,,,NO,414,346,65,3
 Cochise,19 PALOMINAS,Proposition 315,,,Total Votes,848,707,138,3
 Cochise,19 PALOMINAS,Proposition 315,,,Overvotes,1,1,0,0
 Cochise,19 PALOMINAS,Proposition 315,,,Undervotes,57,42,14,1
-Cochise,20 PIRTLEVILLE,Registered Voters,,,,1547,1547,1547,1547
+Cochise,20 PIRTLEVILLE,Registered Voters,,,,1547,0,0,0
 Cochise,20 PIRTLEVILLE,Ballots Cast,,,,859,669,183,7
 Cochise,20 PIRTLEVILLE,President,,DEM,Kamala D. HARRIS / Tim WALZ,482,403,75,4
 Cochise,20 PIRTLEVILLE,President,,REP,Donald J. TRUMP / JD VANCE,363,256,105,2
@@ -3592,7 +3592,7 @@ Cochise,20 PIRTLEVILLE,PROPOSITION 400,,,NO,0,0,0,0
 Cochise,20 PIRTLEVILLE,PROPOSITION 400,,,Total Votes,1,1,0,0
 Cochise,20 PIRTLEVILLE,PROPOSITION 400,,,Overvotes,0,0,0,0
 Cochise,20 PIRTLEVILLE,PROPOSITION 400,,,Undervotes,0,0,0,0
-Cochise,21 POMERENE,Registered Voters,,,,1246,1246,1246,1246
+Cochise,21 POMERENE,Registered Voters,,,,1246,0,0,0
 Cochise,21 POMERENE,Ballots Cast,,,,1006,780,221,5
 Cochise,21 POMERENE,President,,REP,Donald J. TRUMP / JD VANCE,736,542,190,4
 Cochise,21 POMERENE,President,,DEM,Kamala D. HARRIS / Tim WALZ,261,231,29,1
@@ -3782,7 +3782,7 @@ Cochise,21 POMERENE,Proposition 315,,,NO,430,345,84,1
 Cochise,21 POMERENE,Proposition 315,,,Total Votes,910,701,205,4
 Cochise,21 POMERENE,Proposition 315,,,Overvotes,1,1,0,0
 Cochise,21 POMERENE,Proposition 315,,,Undervotes,59,42,16,1
-Cochise,22 PORTAL,Registered Voters,,,,371,371,371,371
+Cochise,22 PORTAL,Registered Voters,,,,371,0,0,0
 Cochise,22 PORTAL,Ballots Cast,,,,325,296,29,0
 Cochise,22 PORTAL,President,,REP,Donald J. TRUMP / JD VANCE,165,145,20,0
 Cochise,22 PORTAL,President,,DEM,Kamala D. HARRIS / Tim WALZ,151,144,7,0
@@ -3968,7 +3968,7 @@ Cochise,22 PORTAL,Proposition 315,,,YES,129,115,14,0
 Cochise,22 PORTAL,Proposition 315,,,Total Votes,295,269,26,0
 Cochise,22 PORTAL,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,22 PORTAL,Proposition 315,,,Undervotes,22,20,2,0
-Cochise,23 SAN SIMON,Registered Voters,,,,239,239,239,239
+Cochise,23 SAN SIMON,Registered Voters,,,,239,0,0,0
 Cochise,23 SAN SIMON,Ballots Cast,,,,164,113,50,1
 Cochise,23 SAN SIMON,President,,REP,Donald J. TRUMP / JD VANCE,134,92,42,0
 Cochise,23 SAN SIMON,President,,DEM,Kamala D. HARRIS / Tim WALZ,27,19,7,1
@@ -4168,7 +4168,7 @@ Cochise,23 SAN SIMON,Proposition 315,,,NO,68,46,21,1
 Cochise,23 SAN SIMON,Proposition 315,,,Total Votes,151,104,46,1
 Cochise,23 SAN SIMON,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,23 SAN SIMON,Proposition 315,,,Undervotes,11,7,4,0
-Cochise,24 ST DAVID,Registered Voters,,,,2001,2001,2001,2001
+Cochise,24 ST DAVID,Registered Voters,,,,2001,0,0,0
 Cochise,24 ST DAVID,Ballots Cast,,,,1650,1203,435,12
 Cochise,24 ST DAVID,President,,REP,Donald J. TRUMP / JD VANCE,1252,848,396,8
 Cochise,24 ST DAVID,President,,DEM,Kamala D. HARRIS / Tim WALZ,374,337,33,4
@@ -4350,7 +4350,7 @@ Cochise,24 ST DAVID,Proposition 315,,,NO,673,507,161,5
 Cochise,24 ST DAVID,Proposition 315,,,Total Votes,1518,1097,410,11
 Cochise,24 ST DAVID,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,24 ST DAVID,Proposition 315,,,Undervotes,96,70,25,1
-Cochise,25 SUNIZONA,Registered Voters,,,,590,590,590,590
+Cochise,25 SUNIZONA,Registered Voters,,,,590,0,0,0
 Cochise,25 SUNIZONA,Ballots Cast,,,,464,334,127,3
 Cochise,25 SUNIZONA,President,,REP,Donald J. TRUMP / JD VANCE,327,215,109,3
 Cochise,25 SUNIZONA,President,,DEM,Kamala D. HARRIS / Tim WALZ,126,110,16,0
@@ -4524,7 +4524,7 @@ Cochise,25 SUNIZONA,Proposition 315,,,NO,203,145,57,1
 Cochise,25 SUNIZONA,Proposition 315,,,Total Votes,439,311,125,3
 Cochise,25 SUNIZONA,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,25 SUNIZONA,Proposition 315,,,Undervotes,16,14,2,0
-Cochise,26 SV AVENIDA DEL SOL,Registered Voters,,,,2549,2549,2549,2549
+Cochise,26 SV AVENIDA DEL SOL,Registered Voters,,,,2549,0,0,0
 Cochise,26 SV AVENIDA DEL SOL,Ballots Cast,,,,1948,1585,352,1
 Cochise,26 SV AVENIDA DEL SOL,President,,REP,Donald J. TRUMP / JD VANCE,1147,871,268,8
 Cochise,26 SV AVENIDA DEL SOL,President,,DEM,Kamala D. HARRIS / Tim WALZ,757,676,79,2
@@ -4726,7 +4726,7 @@ Cochise,26 SV AVENIDA DEL SOL,USD 68 District Additional Assistance,,,Undervotes
 Cochise,26 SV AVENIDA DEL SOL,USD 68 Main. & Operations Override,,,Total Votes,1729,1401,318,10
 Cochise,26 SV AVENIDA DEL SOL,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,26 SV AVENIDA DEL SOL,USD 68 Main. & Operations Override,,,Undervotes,174,139,34,1
-Cochise,27 SV BUFFALO SOLDIER,Registered Voters,,,,2858,2858,2858,2858
+Cochise,27 SV BUFFALO SOLDIER,Registered Voters,,,,2858,0,0,0
 Cochise,27 SV BUFFALO SOLDIER,Ballots Cast,,,,2282,1815,461,6
 Cochise,27 SV BUFFALO SOLDIER,President,,REP,Donald J. TRUMP / JD VANCE,1441,1054,381,6
 Cochise,27 SV BUFFALO SOLDIER,President,,DEM,Kamala D. HARRIS / Tim WALZ,786,714,72,0
@@ -4928,7 +4928,7 @@ Cochise,27 SV BUFFALO SOLDIER,USD 68 District Additional Assistance,,,Undervotes
 Cochise,27 SV BUFFALO SOLDIER,USD 68 Main. & Operations Override,,,Total Votes,2092,1668,422,2
 Cochise,27 SV BUFFALO SOLDIER,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,27 SV BUFFALO SOLDIER,USD 68 Main. & Operations Override,,,Undervotes,155,112,39,4
-Cochise,28 SV BUSBY,Registered Voters,,,,2184,2184,2184,2184
+Cochise,28 SV BUSBY,Registered Voters,,,,2184,0,0,0
 Cochise,28 SV BUSBY,Ballots Cast,,,,1465,1139,316,10
 Cochise,28 SV BUSBY,President,,REP,Donald J. TRUMP / JD VANCE,786,566,215,5
 Cochise,28 SV BUSBY,President,,DEM,Kamala D. HARRIS / Tim WALZ,635,541,89,5
@@ -5132,7 +5132,7 @@ Cochise,28 SV BUSBY,USD 68 District Additional Assistance,,,Undervotes,113,90,21
 Cochise,28 SV BUSBY,USD 68 Main. & Operations Override,,,Total Votes,1315,1015,292,8
 Cochise,28 SV BUSBY,USD 68 Main. & Operations Override,,,Overvotes,1,1,0,0
 Cochise,28 SV BUSBY,USD 68 Main. & Operations Override,,,Undervotes,110,86,22,2
-Cochise,29 SV CARMELITA,Registered Voters,,,,1266,1266,1266,1266
+Cochise,29 SV CARMELITA,Registered Voters,,,,1266,0,0,0
 Cochise,29 SV CARMELITA,Ballots Cast,,,,874,686,182,6
 Cochise,29 SV CARMELITA,President,,REP,Donald J. TRUMP / JD VANCE,497,366,128,3
 Cochise,29 SV CARMELITA,President,,DEM,Kamala D. HARRIS / Tim WALZ,357,302,52,3
@@ -5334,7 +5334,7 @@ Cochise,29 SV CARMELITA,USD 68 District Additional Assistance,,,Undervotes,76,60
 Cochise,29 SV CARMELITA,USD 68 Main. & Operations Override,,,Total Votes,780,608,167,5
 Cochise,29 SV CARMELITA,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,29 SV CARMELITA,USD 68 Main. & Operations Override,,,Undervotes,74,59,14,1
-Cochise,30 SV CLOUD,Registered Voters,,,,1042,1042,1042,1042
+Cochise,30 SV CLOUD,Registered Voters,,,,1042,0,0,0
 Cochise,30 SV CLOUD,Ballots Cast,,,,656,487,155,14
 Cochise,30 SV CLOUD,President,,REP,Donald J. TRUMP / JD VANCE,362,239,112,11
 Cochise,30 SV CLOUD,President,,DEM,Kamala D. HARRIS / Tim WALZ,278,237,38,3
@@ -5536,7 +5536,7 @@ Cochise,30 SV CLOUD,USD 68 District Additional Assistance,,,Undervotes,66,46,18,
 Cochise,30 SV CLOUD,USD 68 Main. & Operations Override,,,Total Votes,572,424,136,12
 Cochise,30 SV CLOUD,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,30 SV CLOUD,USD 68 Main. & Operations Override,,,Undervotes,69,48,19,2
-Cochise,31 SV COLLEGE,Registered Voters,,,,2003,2003,2003,2003
+Cochise,31 SV COLLEGE,Registered Voters,,,,2003,0,0,0
 Cochise,31 SV COLLEGE,Ballots Cast,,,,1439,1133,298,8
 Cochise,31 SV COLLEGE,President,,REP,Donald J. TRUMP / JD VANCE,851,626,218,7
 Cochise,31 SV COLLEGE,President,,DEM,Kamala D. HARRIS / Tim WALZ,552,478,73,1
@@ -5738,7 +5738,7 @@ Cochise,31 SV COLLEGE,USD 68 District Additional Assistance,,,Undervotes,118,90,
 Cochise,31 SV COLLEGE,USD 68 Main. & Operations Override,,,Total Votes,1295,1017,272,6
 Cochise,31 SV COLLEGE,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,31 SV COLLEGE,USD 68 Main. & Operations Override,,,Undervotes,121,93,26,2
-Cochise,32 SV COUNTRY CLUB,Registered Voters,,,,2218,2218,2218,2218
+Cochise,32 SV COUNTRY CLUB,Registered Voters,,,,2218,0,0,0
 Cochise,32 SV COUNTRY CLUB,Ballots Cast,,,,1913,682,29,2
 Cochise,32 SV COUNTRY CLUB,President,,REP,Donald J. TRUMP / JD VANCE,1164,977,185,2
 Cochise,32 SV COUNTRY CLUB,President,,DEM,Kamala D. HARRIS / Tim WALZ,717,679,38,0
@@ -5940,7 +5940,7 @@ Cochise,32 SV COUNTRY CLUB,USD 68 District Additional Assistance,,,Undervotes,15
 Cochise,32 SV COUNTRY CLUB,USD 68 Main. & Operations Override,,,Total Votes,1713,1510,201,2
 Cochise,32 SV COUNTRY CLUB,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,32 SV COUNTRY CLUB,USD 68 Main. & Operations Override,,,Undervotes,159,132,27,0
-Cochise,33 SV ESTATES,Registered Voters,,,,2200,2200,2200,2200
+Cochise,33 SV ESTATES,Registered Voters,,,,2200,0,0,0
 Cochise,33 SV ESTATES,Ballots Cast,,,,1625,1269,349,7
 Cochise,33 SV ESTATES,President,,REP,Donald J. TRUMP / JD VANCE,987,703,279,5
 Cochise,33 SV ESTATES,President,,DEM,Kamala D. HARRIS / Tim WALZ,598,533,63,2
@@ -6148,7 +6148,7 @@ Cochise,33 SV ESTATES,USD 68 District Additional Assistance,,,Undervotes,134,104
 Cochise,33 SV ESTATES,USD 68 Main. & Operations Override,,,Total Votes,1447,1125,315,7
 Cochise,33 SV ESTATES,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,33 SV ESTATES,USD 68 Main. & Operations Override,,,Undervotes,134,100,34,0
-Cochise,34 SV HOPI,Registered Voters,,,,1621,1621,1621,1621
+Cochise,34 SV HOPI,Registered Voters,,,,1621,0,0,0
 Cochise,34 SV HOPI,Ballots Cast,,,,1183,913,252,18
 Cochise,34 SV HOPI,President,,REP,Donald J. TRUMP / JD VANCE,681,485,187,9
 Cochise,34 SV HOPI,President,,DEM,Kamala D. HARRIS / Tim WALZ,480,412,59,9
@@ -6350,7 +6350,7 @@ Cochise,34 SV HOPI,USD 68 District Additional Assistance,,,Undervotes,99,70,27,2
 Cochise,34 SV HOPI,USD 68 Main. & Operations Override,,,Total Votes,1039,800,223,16
 Cochise,34 SV HOPI,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,34 SV HOPI,USD 68 Main. & Operations Override,,,Undervotes,104,74,28,2
-Cochise,35 SV MOSON,Registered Voters,,,,2206,2206,2206,2206
+Cochise,35 SV MOSON,Registered Voters,,,,2206,0,0,0
 Cochise,35 SV MOSON,Ballots Cast,,,,1713,1281,426,6
 Cochise,35 SV MOSON,President,,REP,Donald J. TRUMP / JD VANCE,1233,853,375,5
 Cochise,35 SV MOSON,President,,DEM,Kamala D. HARRIS / Tim WALZ,444,399,44,1
@@ -6558,7 +6558,7 @@ Cochise,35 SV MOSON,USD 68 District Additional Assistance,,,Undervotes,30,23,6,1
 Cochise,35 SV MOSON,USD 68 Main. & Operations Override,,,Total Votes,433,339,92,2
 Cochise,35 SV MOSON,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,35 SV MOSON,USD 68 Main. & Operations Override,,,Undervotes,30,24,5,1
-Cochise,36 SV PUEBLO DEL SOL,Registered Voters,,,,1569,1569,1569,1569
+Cochise,36 SV PUEBLO DEL SOL,Registered Voters,,,,1569,0,0,0
 Cochise,36 SV PUEBLO DEL SOL,Ballots Cast,,,,1159,924,227,8
 Cochise,36 SV PUEBLO DEL SOL,President,,REP,Donald J. TRUMP / JD VANCE,690,507,178,5
 Cochise,36 SV PUEBLO DEL SOL,President,,DEM,Kamala D. HARRIS / Tim WALZ,440,393,44,3
@@ -6760,7 +6760,7 @@ Cochise,36 SV PUEBLO DEL SOL,USD 68 District Additional Assistance,,,Undervotes,
 Cochise,36 SV PUEBLO DEL SOL,USD 68 Main. & Operations Override,,,Total Votes,1033,816,209,8
 Cochise,36 SV PUEBLO DEL SOL,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,36 SV PUEBLO DEL SOL,USD 68 Main. & Operations Override,,,Undervotes,99,81,18,0
-Cochise,37 SV RAMSEY,Registered Voters,,,,1650,1650,1650,1650
+Cochise,37 SV RAMSEY,Registered Voters,,,,1650,0,0,0
 Cochise,37 SV RAMSEY,Ballots Cast,,,,1340,1117,216,7
 Cochise,37 SV RAMSEY,President,,REP,Donald J. TRUMP / JD VANCE,888,699,184,5
 Cochise,37 SV RAMSEY,President,,DEM,Kamala D. HARRIS / Tim WALZ,423,392,29,2
@@ -6953,7 +6953,7 @@ Cochise,37 SV RAMSEY,USD 68 District Additional Assistance,,,Undervotes,45,43,2,
 Cochise,37 SV RAMSEY,USD 68 Main. & Operations Override,,,Total Votes,557,465,88,4
 Cochise,37 SV RAMSEY,USD 68 Main. & Operations Override,,,Overvotes,1,1,0,0
 Cochise,37 SV RAMSEY,USD 68 Main. & Operations Override,,,Undervotes,46,44,2,0
-Cochise,38 SV SNYDER,Registered Voters,,,,1243,1243,1243,1243
+Cochise,38 SV SNYDER,Registered Voters,,,,1243,0,0,0
 Cochise,38 SV SNYDER,Ballots Cast,,,,956,739,212,5
 Cochise,38 SV SNYDER,President,,REP,Donald J. TRUMP / JD VANCE,579,407,169,3
 Cochise,38 SV SNYDER,President,,DEM,Kamala D. HARRIS / Tim WALZ,367,327,39,1
@@ -7155,7 +7155,7 @@ Cochise,38 SV SNYDER,USD 68 District Additional Assistance,,,Undervotes,81,61,19
 Cochise,38 SV SNYDER,USD 68 Main. & Operations Override,,,Total Votes,854,659,191,4
 Cochise,38 SV SNYDER,USD 68 Main. & Operations Override,,,Overvotes,1,1,0,0
 Cochise,38 SV SNYDER,USD 68 Main. & Operations Override,,,Undervotes,83,62,20,1
-Cochise,39 SV SOLDIER CREEK,Registered Voters,,,,2889,2889,2889,2889
+Cochise,39 SV SOLDIER CREEK,Registered Voters,,,,2889,0,0,0
 Cochise,39 SV SOLDIER CREEK,Ballots Cast,,,,1685,1236,435,14
 Cochise,39 SV SOLDIER CREEK,President,,REP,Donald J. TRUMP / JD VANCE,919,606,303,10
 Cochise,39 SV SOLDIER CREEK,President,,DEM,Kamala D. HARRIS / Tim WALZ,724,598,122,4
@@ -7356,7 +7356,7 @@ Cochise,39 SV SOLDIER CREEK,USD 68 District Additional Assistance,,,Undervotes,1
 Cochise,39 SV SOLDIER CREEK,USD 68 Main. & Operations Override,,,Total Votes,1435,1045,378,12
 Cochise,39 SV SOLDIER CREEK,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,39 SV SOLDIER CREEK,USD 68 Main. & Operations Override,,,Undervotes,176,128,46,2
-Cochise,40 SV TOWN & COUNTRY,Registered Voters,,,,2106,2106,2106,2106
+Cochise,40 SV TOWN & COUNTRY,Registered Voters,,,,2106,0,0,0
 Cochise,40 SV TOWN & COUNTRY,Ballots Cast,,,,1692,1356,329,7
 Cochise,40 SV TOWN & COUNTRY,President,,REP,Donald J. TRUMP / JD VANCE,1079,813,260,6
 Cochise,40 SV TOWN & COUNTRY,President,,DEM,Kamala D. HARRIS / Tim WALZ,580,517,62,1
@@ -7558,7 +7558,7 @@ Cochise,40 SV TOWN & COUNTRY,USD 68 District Additional Assistance,,,Undervotes,
 Cochise,40 SV TOWN & COUNTRY,USD 68 Main. & Operations Override,,,Total Votes,1530,1224,299,7
 Cochise,40 SV TOWN & COUNTRY,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,40 SV TOWN & COUNTRY,USD 68 Main. & Operations Override,,,Undervotes,127,97,30,0
-Cochise,41 SV VILLAGE MEADOWS,Registered Voters,,,,2575,2575,2575,2575
+Cochise,41 SV VILLAGE MEADOWS,Registered Voters,,,,2575,0,0,0
 Cochise,41 SV VILLAGE MEADOWS,Ballots Cast,,,,2031,1651,376,4
 Cochise,41 SV VILLAGE MEADOWS,President,,REP,Donald J. TRUMP / JD VANCE,1284,998,284,2
 Cochise,41 SV VILLAGE MEADOWS,President,,DEM,Kamala D. HARRIS / Tim WALZ,700,614,84,2
@@ -7760,7 +7760,7 @@ Cochise,41 SV VILLAGE MEADOWS,USD 68 District Additional Assistance,,,Undervotes
 Cochise,41 SV VILLAGE MEADOWS,USD 68 Main. & Operations Override,,,Total Votes,1834,1487,343,4
 Cochise,41 SV VILLAGE MEADOWS,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,41 SV VILLAGE MEADOWS,USD 68 Main. & Operations Override,,,Undervotes,157,124,33,0
-Cochise,42 SV VISTA VILLAGE,Registered Voters,,,,1966,1966,1966,1966
+Cochise,42 SV VISTA VILLAGE,Registered Voters,,,,1966,0,0,0
 Cochise,42 SV VISTA VILLAGE,Ballots Cast,,,,1393,1065,316,12
 Cochise,42 SV VISTA VILLAGE,President,,REP,Donald J. TRUMP / JD VANCE,812,566,237,9
 Cochise,42 SV VISTA VILLAGE,President,,DEM,Kamala D. HARRIS / Tim WALZ,545,472,70,3
@@ -7962,7 +7962,7 @@ Cochise,42 SV VISTA VILLAGE,USD 68 District Additional Assistance,,,Undervotes,1
 Cochise,42 SV VISTA VILLAGE,USD 68 Main. & Operations Override,,,Total Votes,1227,929,286,12
 Cochise,42 SV VISTA VILLAGE,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,42 SV VISTA VILLAGE,USD 68 Main. & Operations Override,,,Undervotes,142,112,30,0
-Cochise,43 SV YAQUI,Registered Voters,,,,2268,2268,2268,2268
+Cochise,43 SV YAQUI,Registered Voters,,,,2268,0,0,0
 Cochise,43 SV YAQUI,Ballots Cast,,,,1960,1699,253,8
 Cochise,43 SV YAQUI,President,,REP,Donald J. TRUMP / JD VANCE,1294,1080,208,6
 Cochise,43 SV YAQUI,President,,DEM,Kamala D. HARRIS / Tim WALZ,626,582,42,2
@@ -8170,7 +8170,7 @@ Cochise,43 SV YAQUI,USD 68 District Additional Assistance,,,Undervotes,126,106,1
 Cochise,43 SV YAQUI,USD 68 Main. & Operations Override,,,Total Votes,1798,1555,236,7
 Cochise,43 SV YAQUI,USD 68 Main. & Operations Override,,,Overvotes,1,1,0,0
 Cochise,43 SV YAQUI,USD 68 Main. & Operations Override,,,Undervotes,123,106,16,1
-Cochise,44 TOMBSTONE,Registered Voters,,,,1719,1719,1719,1719
+Cochise,44 TOMBSTONE,Registered Voters,,,,1719,0,0,0
 Cochise,44 TOMBSTONE,Ballots Cast,,,,1312,866,443,3
 Cochise,44 TOMBSTONE,President,,REP,Donald J. TRUMP / JD VANCE,985,607,377,1
 Cochise,44 TOMBSTONE,President,,DEM,Kamala D. HARRIS / Tim WALZ,303,241,60,2
@@ -8347,7 +8347,7 @@ Cochise,44 TOMBSTONE,PROPOSITION 425,,,NO,324,212,112,0
 Cochise,44 TOMBSTONE,PROPOSITION 425,,,Total Votes,756,487,266,3
 Cochise,44 TOMBSTONE,PROPOSITION 425,,,Overvotes,0,0,0,0
 Cochise,44 TOMBSTONE,PROPOSITION 425,,,Undervotes,75,38,37,0
-Cochise,45 WEBB,Registered Voters,,,,620,620,620,620
+Cochise,45 WEBB,Registered Voters,,,,620,0,0,0
 Cochise,45 WEBB,Ballots Cast,,,,461,29,161,4
 Cochise,45 WEBB,President,,REP,Donald J. TRUMP / JD VANCE,339,204,132,3
 Cochise,45 WEBB,President,,DEM,Kamala D. HARRIS / Tim WALZ,112,89,22,1
@@ -8519,7 +8519,7 @@ Cochise,45 WEBB,Proposition 315,,,NO,196,132,63,1
 Cochise,45 WEBB,Proposition 315,,,Total Votes,423,272,147,4
 Cochise,45 WEBB,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,45 WEBB,Proposition 315,,,Undervotes,30,16,14,0
-Cochise,46 WHETSTONE,Registered Voters,,,,2598,2598,2598,2598
+Cochise,46 WHETSTONE,Registered Voters,,,,2598,0,0,0
 Cochise,46 WHETSTONE,Ballots Cast,,,,1929,1432,481,16
 Cochise,46 WHETSTONE,President,,REP,Donald J. TRUMP / JD VANCE,1402,969,421,12
 Cochise,46 WHETSTONE,President,,DEM,Kamala D. HARRIS / Tim WALZ,488,431,53,4
@@ -8708,7 +8708,7 @@ Cochise,46 WHETSTONE,USD 68 District Additional Assistance,,,Undervotes,0,0,0,0
 Cochise,46 WHETSTONE,USD 68 Main. & Operations Override,,,Total Votes,1,0,1,0
 Cochise,46 WHETSTONE,USD 68 Main. & Operations Override,,,Overvotes,0,0,0,0
 Cochise,46 WHETSTONE,USD 68 Main. & Operations Override,,,Undervotes,0,0,0,0
-Cochise,47 WI KANSAS SETTLEMENT,Registered Voters,,,,1532,1532,1532,1532
+Cochise,47 WI KANSAS SETTLEMENT,Registered Voters,,,,1532,0,0,0
 Cochise,47 WI KANSAS SETTLEMENT,Ballots Cast,,,,1058,669,386,3
 Cochise,47 WI KANSAS SETTLEMENT,President,,REP,Donald J. TRUMP / JD VANCE,778,448,327,3
 Cochise,47 WI KANSAS SETTLEMENT,President,,DEM,Kamala D. HARRIS / Tim WALZ,269,216,53,0
@@ -8879,7 +8879,7 @@ Cochise,47 WI KANSAS SETTLEMENT,Proposition 315,,,NO,495,320,174,1
 Cochise,47 WI KANSAS SETTLEMENT,Proposition 315,,,Total Votes,996,625,368,3
 Cochise,47 WI KANSAS SETTLEMENT,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,47 WI KANSAS SETTLEMENT,Proposition 315,,,Undervotes,45,28,17,0
-Cochise,48 WI STEWART,Registered Voters,,,,1322,1322,1322,1322
+Cochise,48 WI STEWART,Registered Voters,,,,1322,0,0,0
 Cochise,48 WI STEWART,Ballots Cast,,,,920,613,35,2
 Cochise,48 WI STEWART,President,,REP,Donald J. TRUMP / JD VANCE,708,443,263,2
 Cochise,48 WI STEWART,President,,DEM,Kamala D. HARRIS / Tim WALZ,194,158,36,0
@@ -9053,7 +9053,7 @@ Cochise,48 WI STEWART,Proposition 315,,,NO,412,274,137,1
 Cochise,48 WI STEWART,Proposition 315,,,Total Votes,833,547,284,2
 Cochise,48 WI STEWART,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,48 WI STEWART,Proposition 315,,,Undervotes,63,42,21,0
-Cochise,49 WI WILLCOX,Registered Voters,,,,1087,1087,1087,1087
+Cochise,49 WI WILLCOX,Registered Voters,,,,1087,0,0,0
 Cochise,49 WI WILLCOX,Ballots Cast,,,,746,468,276,2
 Cochise,49 WI WILLCOX,President,,REP,Donald J. TRUMP / JD VANCE,529,307,220,2
 Cochise,49 WI WILLCOX,President,,DEM,Kamala D. HARRIS / Tim WALZ,209,154,55,0
@@ -9227,7 +9227,7 @@ Cochise,49 WI WILLCOX,Proposition 315,,,YES,315,195,119,1
 Cochise,49 WI WILLCOX,Proposition 315,,,Total Votes,680,425,253,2
 Cochise,49 WI WILLCOX,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,49 WI WILLCOX,Proposition 315,,,Undervotes,50,27,23,0
-Cochise,50 DO GRAND,Registered Voters,,,,17,17,17,17
+Cochise,50 DO GRAND,Registered Voters,,,,17,0,0,0
 Cochise,50 DO GRAND,Ballots Cast,,,,77,61,15,1
 Cochise,50 DO GRAND,President,,REP,Donald J. TRUMP / JD VANCE,55,40,14,1
 Cochise,50 DO GRAND,President,,DEM,Kamala D. HARRIS / Tim WALZ,22,21,1,0
@@ -9399,7 +9399,7 @@ Cochise,50 DO GRAND,Proposition 315,,,NO,28,25,3,0
 Cochise,50 DO GRAND,Proposition 315,,,Total Votes,67,52,14,1
 Cochise,50 DO GRAND,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,50 DO GRAND,Proposition 315,,,Undervotes,11,10,1,0
-Cochise,51 BI SACRAMENTO,Registered Voters,,,,86,86,86,86
+Cochise,51 BI SACRAMENTO,Registered Voters,,,,86,0,0,0
 Cochise,51 BI SACRAMENTO,Ballots Cast,,,,68,60,8,0
 Cochise,51 BI SACRAMENTO,President,,REP,Donald J. TRUMP / JD VANCE,43,35,8,0
 Cochise,51 BI SACRAMENTO,President,,DEM,Kamala D. HARRIS / Tim WALZ,24,24,0,0
@@ -9577,7 +9577,7 @@ Cochise,51 BI SACRAMENTO,Proposition 315,,,YES,29,25,4,0
 Cochise,51 BI SACRAMENTO,Proposition 315,,,Total Votes,64,56,8,0
 Cochise,51 BI SACRAMENTO,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,51 BI SACRAMENTO,Proposition 315,,,Undervotes,4,4,0,0
-Cochise,52 THREE CANYONS,Registered Voters,,,,661,661,661,661
+Cochise,52 THREE CANYONS,Registered Voters,,,,661,0,0,0
 Cochise,52 THREE CANYONS,Ballots Cast,,,,562,476,84,2
 Cochise,52 THREE CANYONS,President,,REP,Donald J. TRUMP / JD VANCE,386,313,71,2
 Cochise,52 THREE CANYONS,President,,DEM,Kamala D. HARRIS / Tim WALZ,164,151,13,0
@@ -9753,7 +9753,7 @@ Cochise,52 THREE CANYONS,Proposition 315,,,NO,218,189,27,2
 Cochise,52 THREE CANYONS,Proposition 315,,,Total Votes,519,439,78,2
 Cochise,52 THREE CANYONS,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,52 THREE CANYONS,Proposition 315,,,Undervotes,33,27,6,0
-Cochise,53 GREENBUSH,Registered Voters,,,,290,290,290,290
+Cochise,53 GREENBUSH,Registered Voters,,,,290,0,0,0
 Cochise,53 GREENBUSH,Ballots Cast,,,,230,190,39,1
 Cochise,53 GREENBUSH,President,,REP,Donald J. TRUMP / JD VANCE,160,126,33,1
 Cochise,53 GREENBUSH,President,,DEM,Kamala D. HARRIS / Tim WALZ,64,59,5,0
@@ -9928,7 +9928,7 @@ Cochise,53 GREENBUSH,Proposition 315,,,NO,92,74,18,0
 Cochise,53 GREENBUSH,Proposition 315,,,Total Votes,214,178,36,0
 Cochise,53 GREENBUSH,Proposition 315,,,Overvotes,0,0,0,0
 Cochise,53 GREENBUSH,Proposition 315,,,Undervotes,9,5,3,1
-Cochise,54 PARKER,Registered Voters,,,,14,14,14,14
+Cochise,54 PARKER,Registered Voters,,,,14,0,0,0
 Cochise,54 PARKER,Ballots Cast,,,,13,13,0,0
 Cochise,54 PARKER,President,,REP,Donald J. TRUMP / JD VANCE,10,10,0,0
 Cochise,54 PARKER,President,,DEM,Kamala D. HARRIS / Tim WALZ,3,3,0,0

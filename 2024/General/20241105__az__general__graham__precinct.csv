@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional
-Graham,Solomon #1,Registered Voters,,,,1086,1086,1086,1086
+Graham,Solomon #1,Registered Voters,,,,1086,0,0,0
 Graham,Solomon #1,Ballots Cast,,,,801,551,250,0
 Graham,Solomon #1,President,,REP,Donald J. TRUMP / JD VANCE,574,378,196,0
 Graham,Solomon #1,President,,DEM,Kamala D. HARRIS / Tim WALZ,214,165,49,0
@@ -117,7 +117,7 @@ Graham,Solomon #1,PROPOSITION 314,,,Total Votes,752,514,238,0
 Graham,Solomon #1,PROPOSITION 315,,,YES,348,243,105,0
 Graham,Solomon #1,PROPOSITION 315,,,NO,366,252,114,0
 Graham,Solomon #1,PROPOSITION 315,,,Total Votes,714,495,219,0
-Graham,Safford #2,Registered Voters,,,,1805,1805,1805,1805
+Graham,Safford #2,Registered Voters,,,,1805,0,0,0
 Graham,Safford #2,Ballots Cast,,,,1184,824,354,6
 Graham,Safford #2,President,,REP,Donald J. TRUMP / JD VANCE,782,507,271,4
 Graham,Safford #2,President,,DEM,Kamala D. HARRIS / Tim WALZ,370,293,75,2
@@ -230,7 +230,7 @@ Graham,Safford #2,PROPOSITION 314,,,Total Votes,1122,782,334,6
 Graham,Safford #2,PROPOSITION 315,,,YES,555,386,167,2
 Graham,Safford #2,PROPOSITION 315,,,NO,510,353,154,3
 Graham,Safford #2,PROPOSITION 315,,,Total Votes,1065,739,321,5
-Graham,Safford #3,Registered Voters,,,,725,725,725,725
+Graham,Safford #3,Registered Voters,,,,725,0,0,0
 Graham,Safford #3,Ballots Cast,,,,542,384,157,1
 Graham,Safford #3,President,,REP,Donald J. TRUMP / JD VANCE,394,262,131,1
 Graham,Safford #3,President,,DEM,Kamala D. HARRIS / Tim WALZ,143,118,25,0
@@ -343,7 +343,7 @@ Graham,Safford #3,PROPOSITION 314,,,Total Votes,508,358,149,1
 Graham,Safford #3,PROPOSITION 315,,,YES,253,178,74,1
 Graham,Safford #3,PROPOSITION 315,,,NO,234,164,70,0
 Graham,Safford #3,PROPOSITION 315,,,Total Votes,487,342,144,1
-Graham,Layton #4,Registered Voters,,,,624,624,624,624
+Graham,Layton #4,Registered Voters,,,,624,0,0,0
 Graham,Layton #4,Ballots Cast,,,,463,326,132,5
 Graham,Layton #4,President,,REP,Donald J. TRUMP / JD VANCE,308,202,103,3
 Graham,Layton #4,President,,DEM,Kamala D. HARRIS / Tim WALZ,148,119,27,2
@@ -461,7 +461,7 @@ Graham,Layton #4,PROPOSITION 314,,,Total Votes,424,298,121,5
 Graham,Layton #4,PROPOSITION 315,,,YES,194,136,54,4
 Graham,Layton #4,PROPOSITION 315,,,NO,206,147,58,1
 Graham,Layton #4,PROPOSITION 315,,,Total Votes,400,283,112,5
-Graham,Layton #5,Registered Voters,,,,1557,1557,1557,1557
+Graham,Layton #5,Registered Voters,,,,1557,0,0,0
 Graham,Layton #5,Ballots Cast,,,,1177,868,301,8
 Graham,Layton #5,President,,REP,Donald J. TRUMP / JD VANCE,865,611,248,6
 Graham,Layton #5,President,,DEM,Kamala D. HARRIS / Tim WALZ,299,246,51,2
@@ -574,7 +574,7 @@ Graham,Layton #5,PROPOSITION 314,,,Total Votes,1100,812,280,8
 Graham,Layton #5,PROPOSITION 315,,,YES,550,406,142,2
 Graham,Layton #5,PROPOSITION 315,,,NO,516,381,129,6
 Graham,Layton #5,PROPOSITION 315,,,Total Votes,1066,787,271,8
-Graham,Thatcher #6,Registered Voters,,,,915,915,915,915
+Graham,Thatcher #6,Registered Voters,,,,915,0,0,0
 Graham,Thatcher #6,Ballots Cast,,,,739,510,226,3
 Graham,Thatcher #6,President,,REP,Donald J. TRUMP / JD VANCE,621,420,199,2
 Graham,Thatcher #6,President,,DEM,Kamala D. HARRIS / Tim WALZ,100,75,24,1
@@ -703,7 +703,7 @@ Graham,Thatcher #6,PROPOSITION 314,,,Total Votes,704,486,215,3
 Graham,Thatcher #6,PROPOSITION 315,,,YES,406,290,116,0
 Graham,Thatcher #6,PROPOSITION 315,,,NO,274,184,87,3
 Graham,Thatcher #6,PROPOSITION 315,,,Total Votes,680,474,203,3
-Graham,Thatcher #7,Registered Voters,,,,2013,2013,2013,2013
+Graham,Thatcher #7,Registered Voters,,,,2013,0,0,0
 Graham,Thatcher #7,Ballots Cast,,,,1556,1124,427,5
 Graham,Thatcher #7,President,,REP,Donald J. TRUMP / JD VANCE,1193,844,345,4
 Graham,Thatcher #7,President,,DEM,Kamala D. HARRIS / Tim WALZ,336,260,76,0
@@ -821,7 +821,7 @@ Graham,Thatcher #7,PROPOSITION 314,,,Total Votes,1481,1071,405,5
 Graham,Thatcher #7,PROPOSITION 315,,,YES,784,556,226,2
 Graham,Thatcher #7,PROPOSITION 315,,,NO,624,453,168,3
 Graham,Thatcher #7,PROPOSITION 315,,,Total Votes,1408,1009,394,5
-Graham,Central #8,Registered Voters,,,,610,610,610,610
+Graham,Central #8,Registered Voters,,,,610,0,0,0
 Graham,Central #8,Ballots Cast,,,,524,379,143,2
 Graham,Central #8,President,,REP,Donald J. TRUMP / JD VANCE,475,343,130,2
 Graham,Central #8,President,,DEM,Kamala D. HARRIS / Tim WALZ,45,34,11,0
@@ -945,7 +945,7 @@ Graham,Central #8,PROPOSITION 314,,,Total Votes,503,367,134,2
 Graham,Central #8,PROPOSITION 315,,,YES,280,207,73,0
 Graham,Central #8,PROPOSITION 315,,,NO,195,140,54,1
 Graham,Central #8,PROPOSITION 315,,,Total Votes,475,347,127,1
-Graham,Pima #9,Registered Voters,,,,2773,2773,2773,2773
+Graham,Pima #9,Registered Voters,,,,2773,0,0,0
 Graham,Pima #9,Ballots Cast,,,,2263,1526,714,23
 Graham,Pima #9,President,,REP,Donald J. TRUMP / JD VANCE,1925,1273,632,20
 Graham,Pima #9,President,,DEM,Kamala D. HARRIS / Tim WALZ,306,226,77,3
@@ -1080,7 +1080,7 @@ Graham,Pima #9,PROPOSITION 314,,,Total Votes,2149,1456,670,23
 Graham,Pima #9,PROPOSITION 315,,,YES,1196,810,377,9
 Graham,Pima #9,PROPOSITION 315,,,NO,845,571,263,11
 Graham,Pima #9,PROPOSITION 315,,,Total Votes,2041,1381,640,20
-Graham,Fort Thomas #10,Registered Voters,,,,258,258,258,258
+Graham,Fort Thomas #10,Registered Voters,,,,258,0,0,0
 Graham,Fort Thomas #10,Ballots Cast,,,,218,140,77,1
 Graham,Fort Thomas #10,President,,REP,Donald J. TRUMP / JD VANCE,190,117,73,0
 Graham,Fort Thomas #10,President,,DEM,Kamala D. HARRIS / Tim WALZ,25,20,4,1
@@ -1202,7 +1202,7 @@ Graham,Fort Thomas #10,PROPOSITION 314,,,Total Votes,209,135,73,1
 Graham,Fort Thomas #10,PROPOSITION 315,,,YES,110,74,35,1
 Graham,Fort Thomas #10,PROPOSITION 315,,,NO,90,53,37,0
 Graham,Fort Thomas #10,PROPOSITION 315,,,Total Votes,200,127,72,1
-Graham,Bylas #11,Registered Voters,,,,1063,1063,1063,1063
+Graham,Bylas #11,Registered Voters,,,,1063,0,0,0
 Graham,Bylas #11,Ballots Cast,,,,672,118,554,0
 Graham,Bylas #11,President,,REP,Donald J. TRUMP / JD VANCE,123,20,103,0
 Graham,Bylas #11,President,,DEM,Kamala D. HARRIS / Tim WALZ,534,97,437,0
@@ -1323,7 +1323,7 @@ Graham,Bylas #11,PROPOSITION 314,,,Total Votes,589,114,475,0
 Graham,Bylas #11,PROPOSITION 315,,,YES,214,44,170,0
 Graham,Bylas #11,PROPOSITION 315,,,NO,348,65,283,0
 Graham,Bylas #11,PROPOSITION 315,,,Total Votes,562,109,453,0
-Graham,Klondyke #12,Registered Voters,,,,64,64,64,64
+Graham,Klondyke #12,Registered Voters,,,,64,0,0,0
 Graham,Klondyke #12,Ballots Cast,,,,48,41,7,0
 Graham,Klondyke #12,President,,REP,Donald J. TRUMP / JD VANCE,30,26,4,0
 Graham,Klondyke #12,President,,DEM,Kamala D. HARRIS / Tim WALZ,15,12,3,0
@@ -1445,7 +1445,7 @@ Graham,Klondyke #12,PROPOSITION 314,,,Total Votes,47,40,7,0
 Graham,Klondyke #12,PROPOSITION 315,,,YES,12,10,2,0
 Graham,Klondyke #12,PROPOSITION 315,,,NO,33,28,5,0
 Graham,Klondyke #12,PROPOSITION 315,,,Total Votes,45,38,7,0
-Graham,Bonita #13,Registered Voters,,,,159,159,159,159
+Graham,Bonita #13,Registered Voters,,,,159,0,0,0
 Graham,Bonita #13,Ballots Cast,,,,140,92,48,0
 Graham,Bonita #13,President,,REP,Donald J. TRUMP / JD VANCE,126,83,43,0
 Graham,Bonita #13,President,,DEM,Kamala D. HARRIS / Tim WALZ,14,9,5,0
@@ -1579,7 +1579,7 @@ Graham,Bonita #13,PROPOSITION 314,,,Total Votes,135,89,46,0
 Graham,Bonita #13,PROPOSITION 315,,,YES,85,61,24,0
 Graham,Bonita #13,PROPOSITION 315,,,NO,45,25,20,0
 Graham,Bonita #13,PROPOSITION 315,,,Total Votes,130,86,44,0
-Graham,Thunderbird #14,Registered Voters,,,,380,380,380,380
+Graham,Thunderbird #14,Registered Voters,,,,380,0,0,0
 Graham,Thunderbird #14,Ballots Cast,,,,289,186,102,1
 Graham,Thunderbird #14,President,,REP,Donald J. TRUMP / JD VANCE,216,125,90,1
 Graham,Thunderbird #14,President,,DEM,Kamala D. HARRIS / Tim WALZ,43,31,12,0
@@ -1688,7 +1688,7 @@ Graham,Thunderbird #14,PROPOSITION 314,,,Total Votes,274,180,93,1
 Graham,Thunderbird #14,PROPOSITION 315,,,YES,139,91,47,1
 Graham,Thunderbird #14,PROPOSITION 315,,,NO,96,56,40,0
 Graham,Thunderbird #14,PROPOSITION 315,,,Total Votes,235,147,87,1
-Graham,Safford #15,Registered Voters,,,,1688,1688,1688,1688
+Graham,Safford #15,Registered Voters,,,,1688,0,0,0
 Graham,Safford #15,Ballots Cast,,,,1258,949,299,10
 Graham,Safford #15,President,,REP,Donald J. TRUMP / JD VANCE,849,617,225,7
 Graham,Safford #15,President,,DEM,Kamala D. HARRIS / Tim WALZ,388,316,69,3
@@ -1801,7 +1801,7 @@ Graham,Safford #15,PROPOSITION 314,,,Total Votes,1179,886,284,9
 Graham,Safford #15,PROPOSITION 315,,,YES,516,395,115,6
 Graham,Safford #15,PROPOSITION 315,,,NO,615,451,161,3
 Graham,Safford #15,PROPOSITION 315,,,Total Votes,1131,846,276,9
-Graham,Peridot #16,Registered Voters,,,,1069,1069,1069,1069
+Graham,Peridot #16,Registered Voters,,,,1069,0,0,0
 Graham,Peridot #16,Ballots Cast,,,,500,152,339,9
 Graham,Peridot #16,President,,REP,Donald J. TRUMP / JD VANCE,107,25,78,4
 Graham,Peridot #16,President,,DEM,Kamala D. HARRIS / Tim WALZ,383,126,253,4
@@ -1928,7 +1928,7 @@ Graham,Peridot #16,PROPOSITION 314,,,Total Votes,458,135,316,7
 Graham,Peridot #16,PROPOSITION 315,,,YES,159,53,101,5
 Graham,Peridot #16,PROPOSITION 315,,,NO,279,74,203,2
 Graham,Peridot #16,PROPOSITION 315,,,Total Votes,438,127,304,7
-Graham,Cactus #17,Registered Voters,,,,235,235,235,235
+Graham,Cactus #17,Registered Voters,,,,235,0,0,0
 Graham,Cactus #17,Ballots Cast,,,,189,144,45,0
 Graham,Cactus #17,President,,REP,Donald J. TRUMP / JD VANCE,139,100,39,0
 Graham,Cactus #17,President,,DEM,Kamala D. HARRIS / Tim WALZ,48,42,6,0
@@ -2066,7 +2066,7 @@ Graham,Cactus #17,PROPOSITION 314,,,Total Votes,179,136,43,0
 Graham,Cactus #17,PROPOSITION 315,,,YES,94,70,24,0
 Graham,Cactus #17,PROPOSITION 315,,,NO,79,59,20,0
 Graham,Cactus #17,PROPOSITION 315,,,Total Votes,173,129,44,0
-Graham,Jackson #18,Registered Voters,,,,1285,1285,1285,1285
+Graham,Jackson #18,Registered Voters,,,,1285,0,0,0
 Graham,Jackson #18,Ballots Cast,,,,1037,758,276,3
 Graham,Jackson #18,President,,REP,Donald J. TRUMP / JD VANCE,836,602,232,2
 Graham,Jackson #18,President,,DEM,Kamala D. HARRIS / Tim WALZ,186,147,38,1
@@ -2184,7 +2184,7 @@ Graham,Jackson #18,PROPOSITION 314,,,Total Votes,987,725,259,3
 Graham,Jackson #18,PROPOSITION 315,,,YES,509,364,143,2
 Graham,Jackson #18,PROPOSITION 315,,,NO,422,313,109,0
 Graham,Jackson #18,PROPOSITION 315,,,Total Votes,931,677,252,2
-Graham,Desert Hills #19,Registered Voters,,,,1300,1300,1300,1300
+Graham,Desert Hills #19,Registered Voters,,,,1300,0,0,0
 Graham,Desert Hills #19,Ballots Cast,,,,918,656,254,8
 Graham,Desert Hills #19,President,,REP,Donald J. TRUMP / JD VANCE,770,537,226,7
 Graham,Desert Hills #19,President,,DEM,Kamala D. HARRIS / Tim WALZ,134,108,25,1
@@ -2297,7 +2297,7 @@ Graham,Desert Hills #19,PROPOSITION 314,,,Total Votes,881,632,242,7
 Graham,Desert Hills #19,PROPOSITION 315,,,YES,463,331,129,3
 Graham,Desert Hills #19,PROPOSITION 315,,,NO,367,265,99,3
 Graham,Desert Hills #19,PROPOSITION 315,,,Total Votes,830,596,228,6
-Graham,Artesia #20,Registered Voters,,,,899,899,899,899
+Graham,Artesia #20,Registered Voters,,,,899,0,0,0
 Graham,Artesia #20,Ballots Cast,,,,659,446,209,4
 Graham,Artesia #20,President,,REP,Donald J. TRUMP / JD VANCE,538,352,182,4
 Graham,Artesia #20,President,,DEM,Kamala D. HARRIS / Tim WALZ,106,83,23,0
@@ -2410,7 +2410,7 @@ Graham,Artesia #20,PROPOSITION 314,,,Total Votes,626,425,199,2
 Graham,Artesia #20,PROPOSITION 315,,,YES,326,216,108,2
 Graham,Artesia #20,PROPOSITION 315,,,NO,274,189,84,1
 Graham,Artesia #20,PROPOSITION 315,,,Total Votes,600,405,192,3
-Graham,Quatro Cerros #21,Registered Voters,,,,118,118,118,118
+Graham,Quatro Cerros #21,Registered Voters,,,,118,0,0,0
 Graham,Quatro Cerros #21,Ballots Cast,,,,95,79,16,0
 Graham,Quatro Cerros #21,President,,REP,Donald J. TRUMP / JD VANCE,78,63,15,0
 Graham,Quatro Cerros #21,President,,DEM,Kamala D. HARRIS / Tim WALZ,17,16,1,0
@@ -2519,7 +2519,7 @@ Graham,Quatro Cerros #21,PROPOSITION 314,,,Total Votes,86,73,13,0
 Graham,Quatro Cerros #21,PROPOSITION 315,,,YES,56,50,6,0
 Graham,Quatro Cerros #21,PROPOSITION 315,,,NO,28,21,7,0
 Graham,Quatro Cerros #21,PROPOSITION 315,,,Total Votes,84,71,13,0
-Graham,Gila River #22,Registered Voters,,,,40,40,40,40
+Graham,Gila River #22,Registered Voters,,,,40,0,0,0
 Graham,Gila River #22,Ballots Cast,,,,22,17,5,0
 Graham,Gila River #22,President,,REP,Donald J. TRUMP / JD VANCE,12,8,4,0
 Graham,Gila River #22,President,,DEM,Kamala D. HARRIS / Tim WALZ,9,8,1,0
@@ -2632,7 +2632,7 @@ Graham,Gila River #22,PROPOSITION 314,,,Total Votes,21,17,4,0
 Graham,Gila River #22,PROPOSITION 315,,,YES,4,1,3,0
 Graham,Gila River #22,PROPOSITION 315,,,NO,14,12,2,0
 Graham,Gila River #22,PROPOSITION 315,,,Total Votes,18,13,5,0
-Graham,Fort Grant #23,Registered Voters,,,,48,48,48,48
+Graham,Fort Grant #23,Registered Voters,,,,48,0,0,0
 Graham,Fort Grant #23,Ballots Cast,,,,33,22,11,0
 Graham,Fort Grant #23,President,,REP,Donald J. TRUMP / JD VANCE,26,16,10,0
 Graham,Fort Grant #23,President,,DEM,Kamala D. HARRIS / Tim WALZ,4,4,0,0
