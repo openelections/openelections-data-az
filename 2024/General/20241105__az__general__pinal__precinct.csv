@@ -115,15 +115,15 @@ Pinal,01 Kearny,Retain Gard,,,Overvotes,0
 Pinal,01 Kearny,Retain Gard,,,Undervotes,241
 Pinal,01 Kearny,Board Member,Superior Unified School District,,Nick CRUZ,0
 Pinal,01 Kearny,Board Member,Superior Unified School District,,Ericka VASQUEZ,0
-Pinal,01 Kearny,Board Member,Superior Unified School District,,Write-In Totals,0
-Pinal,01 Kearny,Board Member,Superior Unified School District,,Total Votes Cast,0
-Pinal,01 Kearny,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,01 Kearny,Board Member,Superior Unified School District,,Undervotes,0
+Pinal,01 Kearny,Board Member,Superior Unified School District,,Write-In Totals (CRUZ/VASQUEZ),0
+Pinal,01 Kearny,Board Member,Superior Unified School District,,Total Votes Cast (CRUZ/VASQUEZ),0
+Pinal,01 Kearny,Board Member,Superior Unified School District,,Overvotes (CRUZ/VASQUEZ),0
+Pinal,01 Kearny,Board Member,Superior Unified School District,,Undervotes (CRUZ/VASQUEZ),0
 Pinal,01 Kearny,Board Member,Superior Unified School District,,Randi VILLEGAS,0
 Pinal,01 Kearny,Board Member,Superior Unified School District,,Martin NAVARRETTE,0
-Pinal,01 Kearny,Board Member,Superior Unified School District,,Write-In Totals,0
-Pinal,01 Kearny,Board Member,Superior Unified School District,,Total Votes Cast,0
-Pinal,01 Kearny,Board Member,Superior Unified School District,,Undervotes,0
+Pinal,01 Kearny,Board Member,Superior Unified School District,,Write-In Totals (VILLEGAS/NAVARRETTE),0
+Pinal,01 Kearny,Board Member,Superior Unified School District,,Total Votes Cast (VILLEGAS/NAVARRETTE),0
+Pinal,01 Kearny,Board Member,Superior Unified School District,,Undervotes (VILLEGAS/NAVARRETTE),0
 Pinal,01 Kearny,Florence Board Member,Central Arizona Valley Institute of Technology - Florence,,Write-In Totals,3
 Pinal,01 Kearny,Florence Board Member,Central Arizona Valley Institute of Technology - Florence,,Total Votes Cast,3
 Pinal,01 Kearny,Florence Board Member,Central Arizona Valley Institute of Technology - Florence,,Overvotes,0
@@ -5297,7 +5297,7 @@ Pinal,30 Maricopa,Retain Gard,,,Undervotes,465
 Pinal,30 Maricopa,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,1179
 Pinal,30 Maricopa,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,717
 Pinal,30 Maricopa,Board Member,Maricopa Unified School District,,Ben OWENS,907
-Pinal,30 Maricopa,Board Member,Maricopa Unified School District,,Write-In Totals,739
+Pinal,30 Maricopa,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,739
 Pinal,30 Maricopa,Board Member,Maricopa Unified School District,,Write-In Totals,25
 Pinal,30 Maricopa,Board Member,Maricopa Unified School District,,Total Votes Cast,3567
 Pinal,30 Maricopa,Board Member,Maricopa Unified School District,,Overvotes,3
@@ -8838,16 +8838,16 @@ Pinal,49 Queen Valley,Board Member,Apache Junction Unified School District,,Over
 Pinal,49 Queen Valley,Board Member,Apache Junction Unified School District,,Undervotes,498
 Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Nick CRUZ,77
 Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Ericka VASQUEZ,57
-Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Write-In Totals,2
-Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Total Votes Cast,136
-Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Undervotes,82
+Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Write-In Totals (CRUZ/VASQUEZ),2
+Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Total Votes Cast (CRUZ/VASQUEZ),136
+Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Overvotes (CRUZ/VASQUEZ),0
+Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Undervotes (CRUZ/VASQUEZ),82
 Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Randi VILLEGAS,50
 Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Martin NAVARRETTE,85
-Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Write-In Totals,2
-Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Total Votes Cast,137
-Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Undervotes,81
+Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Write-In Totals (VILLEGAS/NAVARRETTE),2
+Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Total Votes Cast (VILLEGAS/NAVARRETTE),137
+Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Overvotes (VILLEGAS/NAVARRETTE),0
+Pinal,49 Queen Valley,Board Member,Superior Unified School District,,Undervotes (VILLEGAS/NAVARRETTE),81
 Pinal,49 Queen Valley,Proposition 133,,,YES,221
 Pinal,49 Queen Valley,Proposition 133,,,NO,231
 Pinal,49 Queen Valley,Proposition 133,,,Total Votes Cast,452
@@ -9039,16 +9039,16 @@ Pinal,50 Superior,Retain Gard,,,Overvotes,0
 Pinal,50 Superior,Retain Gard,,,Undervotes,285
 Pinal,50 Superior,Board Member,Superior Unified School District,,Nick CRUZ,623
 Pinal,50 Superior,Board Member,Superior Unified School District,,Ericka VASQUEZ,367
-Pinal,50 Superior,Board Member,Superior Unified School District,,Write-In Totals,4
-Pinal,50 Superior,Board Member,Superior Unified School District,,Total Votes Cast,994
-Pinal,50 Superior,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,50 Superior,Board Member,Superior Unified School District,,Undervotes,143
+Pinal,50 Superior,Board Member,Superior Unified School District,,Write-In Totals (CRUZ/VASQUEZ),4
+Pinal,50 Superior,Board Member,Superior Unified School District,,Total Votes Cast (CRUZ/VASQUEZ),994
+Pinal,50 Superior,Board Member,Superior Unified School District,,Overvotes (CRUZ/VASQUEZ),0
+Pinal,50 Superior,Board Member,Superior Unified School District,,Undervotes (CRUZ/VASQUEZ),143
 Pinal,50 Superior,Board Member,Superior Unified School District,,Randi VILLEGAS,366
 Pinal,50 Superior,Board Member,Superior Unified School District,,Martin NAVARRETTE,612
-Pinal,50 Superior,Board Member,Superior Unified School District,,Write-In Totals,4
-Pinal,50 Superior,Board Member,Superior Unified School District,,Total Votes Cast,982
-Pinal,50 Superior,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,50 Superior,Board Member,Superior Unified School District,,Undervotes,155
+Pinal,50 Superior,Board Member,Superior Unified School District,,Write-In Totals (VILLEGAS/NAVARRETTE),4
+Pinal,50 Superior,Board Member,Superior Unified School District,,Total Votes Cast (VILLEGAS/NAVARRETTE),982
+Pinal,50 Superior,Board Member,Superior Unified School District,,Overvotes (VILLEGAS/NAVARRETTE),0
+Pinal,50 Superior,Board Member,Superior Unified School District,,Undervotes (VILLEGAS/NAVARRETTE),155
 Pinal,50 Superior,Proposition 133,,,YES,378
 Pinal,50 Superior,Proposition 133,,,NO,606
 Pinal,50 Superior,Proposition 133,,,Total Votes Cast,984
@@ -9240,16 +9240,16 @@ Pinal,51 Superior West,Retain Gard,,,Overvotes,0
 Pinal,51 Superior West,Retain Gard,,,Undervotes,0
 Pinal,51 Superior West,Board Member,Superior Unified School District,,Nick CRUZ,20
 Pinal,51 Superior West,Board Member,Superior Unified School District,,Ericka VASQUEZ,0
-Pinal,51 Superior West,Board Member,Superior Unified School District,,Write-In Totals,0
-Pinal,51 Superior West,Board Member,Superior Unified School District,,Total Votes Cast,20
-Pinal,51 Superior West,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,51 Superior West,Board Member,Superior Unified School District,,Undervotes,4
+Pinal,51 Superior West,Board Member,Superior Unified School District,,Write-In Totals (CRUZ/VASQUEZ),0
+Pinal,51 Superior West,Board Member,Superior Unified School District,,Total Votes Cast (CRUZ/VASQUEZ),20
+Pinal,51 Superior West,Board Member,Superior Unified School District,,Overvotes (CRUZ/VASQUEZ),0
+Pinal,51 Superior West,Board Member,Superior Unified School District,,Undervotes (CRUZ/VASQUEZ),4
 Pinal,51 Superior West,Board Member,Superior Unified School District,,Randi VILLEGAS,4
 Pinal,51 Superior West,Board Member,Superior Unified School District,,Martin NAVARRETTE,15
-Pinal,51 Superior West,Board Member,Superior Unified School District,,Write-In Totals,0
-Pinal,51 Superior West,Board Member,Superior Unified School District,,Total Votes Cast,19
-Pinal,51 Superior West,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,51 Superior West,Board Member,Superior Unified School District,,Undervotes,5
+Pinal,51 Superior West,Board Member,Superior Unified School District,,Write-In Totals (VILLEGAS/NAVARRETTE),0
+Pinal,51 Superior West,Board Member,Superior Unified School District,,Total Votes Cast (VILLEGAS/NAVARRETTE),19
+Pinal,51 Superior West,Board Member,Superior Unified School District,,Overvotes (VILLEGAS/NAVARRETTE),0
+Pinal,51 Superior West,Board Member,Superior Unified School District,,Undervotes (VILLEGAS/NAVARRETTE),5
 Pinal,51 Superior West,Proposition 133,,,YES,14
 Pinal,51 Superior West,Proposition 133,,,NO,9
 Pinal,51 Superior West,Proposition 133,,,Total Votes Cast,23
@@ -9436,16 +9436,16 @@ Pinal,52 Sutton Summit,Retain Gard,,,Overvotes,1
 Pinal,52 Sutton Summit,Retain Gard,,,Undervotes,26
 Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Nick CRUZ,52
 Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Ericka VASQUEZ,32
-Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Write-In Totals,1
-Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Total Votes Cast,85
-Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Undervotes,33
+Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Write-In Totals (CRUZ/VASQUEZ),1
+Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Total Votes Cast (CRUZ/VASQUEZ),85
+Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Overvotes (CRUZ/VASQUEZ),0
+Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Undervotes (CRUZ/VASQUEZ),33
 Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Randi VILLEGAS,43
 Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Martin NAVARRETTE,40
-Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Write-In Totals,1
-Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Total Votes Cast,84
-Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Overvotes,0
-Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Undervotes,34
+Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Write-In Totals (VILLEGAS/NAVARRETTE),1
+Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Total Votes Cast (VILLEGAS/NAVARRETTE),84
+Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Overvotes (VILLEGAS/NAVARRETTE),0
+Pinal,52 Sutton Summit,Board Member,Superior Unified School District,,Undervotes (VILLEGAS/NAVARRETTE),34
 Pinal,52 Sutton Summit,Proposition 133,,,YES,59
 Pinal,52 Sutton Summit,Proposition 133,,,NO,47
 Pinal,52 Sutton Summit,Proposition 133,,,Total Votes Cast,106
@@ -9840,7 +9840,7 @@ Pinal,54 Thunderbird Farms,Retain Gard,,,Undervotes,181
 Pinal,54 Thunderbird Farms,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,377
 Pinal,54 Thunderbird Farms,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,311
 Pinal,54 Thunderbird Farms,Board Member,Maricopa Unified School District,,Ben OWENS,381
-Pinal,54 Thunderbird Farms,Board Member,Maricopa Unified School District,,Write-In Totals,244
+Pinal,54 Thunderbird Farms,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,244
 Pinal,54 Thunderbird Farms,Board Member,Maricopa Unified School District,,Write-In Totals,7
 Pinal,54 Thunderbird Farms,Board Member,Maricopa Unified School District,,Total Votes Cast,1320
 Pinal,54 Thunderbird Farms,Board Member,Maricopa Unified School District,,Overvotes,0
@@ -11430,7 +11430,7 @@ Pinal,62 Casa Blanca,Board Member,Casa Grande Union High School District,,Underv
 Pinal,62 Casa Blanca,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,0
 Pinal,62 Casa Blanca,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,0
 Pinal,62 Casa Blanca,Board Member,Maricopa Unified School District,,Ben OWENS,0
-Pinal,62 Casa Blanca,Board Member,Maricopa Unified School District,,Write-In Totals,0
+Pinal,62 Casa Blanca,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,0
 Pinal,62 Casa Blanca,Board Member,Maricopa Unified School District,,Write-In Totals,0
 Pinal,62 Casa Blanca,Board Member,Maricopa Unified School District,,Total Votes Cast,0
 Pinal,62 Casa Blanca,Board Member,Maricopa Unified School District,,Overvotes,0
@@ -12235,7 +12235,7 @@ Pinal,67 Hidden Valley,Board Member,Casa Grande Union High School District,,Unde
 Pinal,67 Hidden Valley,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,270
 Pinal,67 Hidden Valley,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,183
 Pinal,67 Hidden Valley,Board Member,Maricopa Unified School District,,Ben OWENS,251
-Pinal,67 Hidden Valley,Board Member,Maricopa Unified School District,,Write-In Totals,122
+Pinal,67 Hidden Valley,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,122
 Pinal,67 Hidden Valley,Board Member,Maricopa Unified School District,,Write-In Totals,14
 Pinal,67 Hidden Valley,Board Member,Maricopa Unified School District,,Total Votes Cast,840
 Pinal,67 Hidden Valley,Board Member,Maricopa Unified School District,,Overvotes,3
@@ -13388,7 +13388,7 @@ Pinal,73 Santa Rosa,Retain Gard,,,Undervotes,319
 Pinal,73 Santa Rosa,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,717
 Pinal,73 Santa Rosa,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,455
 Pinal,73 Santa Rosa,Board Member,Maricopa Unified School District,,Ben OWENS,599
-Pinal,73 Santa Rosa,Board Member,Maricopa Unified School District,,Write-In Totals,404
+Pinal,73 Santa Rosa,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,404
 Pinal,73 Santa Rosa,Board Member,Maricopa Unified School District,,Write-In Totals,24
 Pinal,73 Santa Rosa,Board Member,Maricopa Unified School District,,Total Votes Cast,2199
 Pinal,73 Santa Rosa,Board Member,Maricopa Unified School District,,Overvotes,0
@@ -13590,7 +13590,7 @@ Pinal,74 El Dorado,Retain Gard,,,Undervotes,542
 Pinal,74 El Dorado,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,1073
 Pinal,74 El Dorado,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,751
 Pinal,74 El Dorado,Board Member,Maricopa Unified School District,,Ben OWENS,943
-Pinal,74 El Dorado,Board Member,Maricopa Unified School District,,Write-In Totals,734
+Pinal,74 El Dorado,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,734
 Pinal,74 El Dorado,Board Member,Maricopa Unified School District,,Write-In Totals,28
 Pinal,74 El Dorado,Board Member,Maricopa Unified School District,,Total Votes Cast,3529
 Pinal,74 El Dorado,Board Member,Maricopa Unified School District,,Overvotes,9
@@ -14177,7 +14177,7 @@ Pinal,77 Ak Chin Community,Board Member,Casa Grande Union High School District,,
 Pinal,77 Ak Chin Community,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,200
 Pinal,77 Ak Chin Community,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,78
 Pinal,77 Ak Chin Community,Board Member,Maricopa Unified School District,,Ben OWENS,107
-Pinal,77 Ak Chin Community,Board Member,Maricopa Unified School District,,Write-In Totals,123
+Pinal,77 Ak Chin Community,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,123
 Pinal,77 Ak Chin Community,Board Member,Maricopa Unified School District,,Write-In Totals,1
 Pinal,77 Ak Chin Community,Board Member,Maricopa Unified School District,,Total Votes Cast,509
 Pinal,77 Ak Chin Community,Board Member,Maricopa Unified School District,,Overvotes,0
@@ -14384,7 +14384,7 @@ Pinal,78 Maricopa Meadows,Retain Gard,,,Undervotes,545
 Pinal,78 Maricopa Meadows,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,1137
 Pinal,78 Maricopa Meadows,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,778
 Pinal,78 Maricopa Meadows,Board Member,Maricopa Unified School District,,Ben OWENS,961
-Pinal,78 Maricopa Meadows,Board Member,Maricopa Unified School District,,Write-In Totals,777
+Pinal,78 Maricopa Meadows,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,777
 Pinal,78 Maricopa Meadows,Board Member,Maricopa Unified School District,,Write-In Totals,32
 Pinal,78 Maricopa Meadows,Board Member,Maricopa Unified School District,,Total Votes Cast,3685
 Pinal,78 Maricopa Meadows,Board Member,Maricopa Unified School District,,Overvotes,0
@@ -14586,7 +14586,7 @@ Pinal,79 Maricopa Fiesta,Retain Gard,,,Undervotes,598
 Pinal,79 Maricopa Fiesta,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,1301
 Pinal,79 Maricopa Fiesta,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,897
 Pinal,79 Maricopa Fiesta,Board Member,Maricopa Unified School District,,Ben OWENS,1100
-Pinal,79 Maricopa Fiesta,Board Member,Maricopa Unified School District,,Write-In Totals,770
+Pinal,79 Maricopa Fiesta,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,770
 Pinal,79 Maricopa Fiesta,Board Member,Maricopa Unified School District,,Write-In Totals,34
 Pinal,79 Maricopa Fiesta,Board Member,Maricopa Unified School District,,Total Votes Cast,4102
 Pinal,79 Maricopa Fiesta,Board Member,Maricopa Unified School District,,Overvotes,3
@@ -14788,7 +14788,7 @@ Pinal,80 Province,Retain Gard,,,Undervotes,1317
 Pinal,80 Province,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,2687
 Pinal,80 Province,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,1892
 Pinal,80 Province,Board Member,Maricopa Unified School District,,Ben OWENS,2483
-Pinal,80 Province,Board Member,Maricopa Unified School District,,Write-In Totals,1877
+Pinal,80 Province,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,1877
 Pinal,80 Province,Board Member,Maricopa Unified School District,,Write-In Totals,64
 Pinal,80 Province,Board Member,Maricopa Unified School District,,Total Votes Cast,9003
 Pinal,80 Province,Board Member,Maricopa Unified School District,,Overvotes,12
@@ -16730,7 +16730,7 @@ Pinal,90 Senita,Retain Gard,,,Undervotes,419
 Pinal,90 Senita,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,917
 Pinal,90 Senita,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,584
 Pinal,90 Senita,Board Member,Maricopa Unified School District,,Ben OWENS,766
-Pinal,90 Senita,Board Member,Maricopa Unified School District,,Write-In Totals,670
+Pinal,90 Senita,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,670
 Pinal,90 Senita,Board Member,Maricopa Unified School District,,Write-In Totals,35
 Pinal,90 Senita,Board Member,Maricopa Unified School District,,Total Votes Cast,2972
 Pinal,90 Senita,Board Member,Maricopa Unified School District,,Overvotes,0
@@ -18648,7 +18648,7 @@ Pinal,100 Desert Cedars,Retain Gard,,,Undervotes,794
 Pinal,100 Desert Cedars,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,1750
 Pinal,100 Desert Cedars,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,1109
 Pinal,100 Desert Cedars,Board Member,Maricopa Unified School District,,Ben OWENS,1389
-Pinal,100 Desert Cedars,Board Member,Maricopa Unified School District,,Write-In Totals,1226
+Pinal,100 Desert Cedars,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,1226
 Pinal,100 Desert Cedars,Board Member,Maricopa Unified School District,,Write-In Totals,61
 Pinal,100 Desert Cedars,Board Member,Maricopa Unified School District,,Total Votes Cast,5535
 Pinal,100 Desert Cedars,Board Member,Maricopa Unified School District,,Overvotes,3
@@ -18850,7 +18850,7 @@ Pinal,101 Alterra North,Retain Gard,,,Undervotes,495
 Pinal,101 Alterra North,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,1016
 Pinal,101 Alterra North,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,669
 Pinal,101 Alterra North,Board Member,Maricopa Unified School District,,Ben OWENS,830
-Pinal,101 Alterra North,Board Member,Maricopa Unified School District,,Write-In Totals,655
+Pinal,101 Alterra North,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,655
 Pinal,101 Alterra North,Board Member,Maricopa Unified School District,,Write-In Totals,27
 Pinal,101 Alterra North,Board Member,Maricopa Unified School District,,Total Votes Cast,3197
 Pinal,101 Alterra North,Board Member,Maricopa Unified School District,,Overvotes,0
@@ -19052,7 +19052,7 @@ Pinal,102 Maricopa Wells,Retain Gard,,,Undervotes,816
 Pinal,102 Maricopa Wells,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,1815
 Pinal,102 Maricopa Wells,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,1205
 Pinal,102 Maricopa Wells,Board Member,Maricopa Unified School District,,Ben OWENS,1633
-Pinal,102 Maricopa Wells,Board Member,Maricopa Unified School District,,Write-In Totals,1238
+Pinal,102 Maricopa Wells,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,1238
 Pinal,102 Maricopa Wells,Board Member,Maricopa Unified School District,,Write-In Totals,52
 Pinal,102 Maricopa Wells,Board Member,Maricopa Unified School District,,Total Votes Cast,5943
 Pinal,102 Maricopa Wells,Board Member,Maricopa Unified School District,,Overvotes,15
@@ -20596,7 +20596,7 @@ Pinal,110 Rancho El Dorado,Retain Gard,,,Undervotes,460
 Pinal,110 Rancho El Dorado,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,939
 Pinal,110 Rancho El Dorado,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,574
 Pinal,110 Rancho El Dorado,Board Member,Maricopa Unified School District,,Ben OWENS,816
-Pinal,110 Rancho El Dorado,Board Member,Maricopa Unified School District,,Write-In Totals,649
+Pinal,110 Rancho El Dorado,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,649
 Pinal,110 Rancho El Dorado,Board Member,Maricopa Unified School District,,Write-In Totals,26
 Pinal,110 Rancho El Dorado,Board Member,Maricopa Unified School District,,Total Votes Cast,3004
 Pinal,110 Rancho El Dorado,Board Member,Maricopa Unified School District,,Overvotes,9
@@ -20807,7 +20807,7 @@ Pinal,111 Tortosa,Board Member,Casa Grande Union High School District,,Undervote
 Pinal,111 Tortosa,Board Member,Maricopa Unified School District,,Carolyn LOPEZ,1363
 Pinal,111 Tortosa,Board Member,Maricopa Unified School District,,Nicolas YENDRZESKI,819
 Pinal,111 Tortosa,Board Member,Maricopa Unified School District,,Ben OWENS,1097
-Pinal,111 Tortosa,Board Member,Maricopa Unified School District,,Write-In Totals,957
+Pinal,111 Tortosa,Board Member,Maricopa Unified School District,,Shawnté ROTHSCHILD,957
 Pinal,111 Tortosa,Board Member,Maricopa Unified School District,,Write-In Totals,37
 Pinal,111 Tortosa,Board Member,Maricopa Unified School District,,Total Votes Cast,4273
 Pinal,111 Tortosa,Board Member,Maricopa Unified School District,,Overvotes,3
