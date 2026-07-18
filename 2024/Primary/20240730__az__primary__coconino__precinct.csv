@@ -1,5 +1,5 @@
 county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,provisional
-Coconino,01 - FLAGSTAFF 1,"Registered Voters - Total ",,,,,1689,1689,1689,1689
+Coconino,01 - FLAGSTAFF 1,Registered Voters - Total,,,,,1689,1689,1689,1689
 Coconino,01 - FLAGSTAFF 1,Registered Voters - DEMOCRATIC,,,,,839,839,839,839
 Coconino,01 - FLAGSTAFF 1,Registered Voters - REPUBLICAN,,,,,263,263,263,263
 Coconino,01 - FLAGSTAFF 1,Registered Voters - LIBERTARIAN,,,,,18,18,18,18
@@ -240,7 +240,7 @@ Coconino,01 - FLAGSTAFF 1,County Treasurer,,1,GRN,Undervotes,2,2,0,0
 Coconino,01 - FLAGSTAFF 1,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,01 - FLAGSTAFF 1,,,1,NOL,Overvotes,0,0,0,0
 Coconino,01 - FLAGSTAFF 1,,,1,NOL,Undervotes,0,0,0,0
-Coconino,02 - FLAGSTAFF 2,"Registered Voters - Total ",,,,,1212,1212,1212,1212
+Coconino,02 - FLAGSTAFF 2,Registered Voters - Total,,,,,1212,1212,1212,1212
 Coconino,02 - FLAGSTAFF 2,Registered Voters - DEMOCRATIC,,,,,688,688,688,688
 Coconino,02 - FLAGSTAFF 2,Registered Voters - REPUBLICAN,,,,,146,146,146,146
 Coconino,02 - FLAGSTAFF 2,Registered Voters - LIBERTARIAN,,,,,6,6,6,6
@@ -722,7 +722,7 @@ Coconino,03 - FLAGSTAFF 3,County Treasurer,,1,GRN,Undervotes,1,1,0,0
 Coconino,03 - FLAGSTAFF 3,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,03 - FLAGSTAFF 3,,,1,NOL,Overvotes,0,0,0,0
 Coconino,03 - FLAGSTAFF 3,,,1,NOL,Undervotes,2,0,2,0
-Coconino,04 - FLAGSTAFF 4,"Registered Voters - Total ",,,,,1705,1705,1705,1705
+Coconino,04 - FLAGSTAFF 4,Registered Voters - Total,,,,,1705,1705,1705,1705
 Coconino,04 - FLAGSTAFF 4,Registered Voters - DEMOCRATIC,,,,,910,910,910,910
 Coconino,04 - FLAGSTAFF 4,Registered Voters - REPUBLICAN,,,,,306,306,306,306
 Coconino,04 - FLAGSTAFF 4,Registered Voters - LIBERTARIAN,,,,,14,14,14,14
@@ -963,7 +963,7 @@ Coconino,04 - FLAGSTAFF 4,County Treasurer,,1,GRN,Undervotes,2,2,0,0
 Coconino,04 - FLAGSTAFF 4,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,04 - FLAGSTAFF 4,,,1,NOL,Overvotes,0,0,0,0
 Coconino,04 - FLAGSTAFF 4,,,1,NOL,Undervotes,0,0,0,0
-Coconino,05 - FLAGSTAFF 5,"Registered Voters - Total ",,,,,2059,2059,2059,2059
+Coconino,05 - FLAGSTAFF 5,Registered Voters - Total,,,,,2059,2059,2059,2059
 Coconino,05 - FLAGSTAFF 5,Registered Voters - DEMOCRATIC,,,,,966,966,966,966
 Coconino,05 - FLAGSTAFF 5,Registered Voters - REPUBLICAN,,,,,485,485,485,485
 Coconino,05 - FLAGSTAFF 5,Registered Voters - LIBERTARIAN,,,,,12,12,12,12
@@ -1204,7 +1204,7 @@ Coconino,05 - FLAGSTAFF 5,County Treasurer,,1,GRN,Undervotes,1,1,0,0
 Coconino,05 - FLAGSTAFF 5,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,05 - FLAGSTAFF 5,,,1,NOL,Overvotes,0,0,0,0
 Coconino,05 - FLAGSTAFF 5,,,1,NOL,Undervotes,1,0,1,0
-Coconino,06 - FLAGSTAFF 6,"Registered Voters - Total ",,,,,1150,1150,1150,1150
+Coconino,06 - FLAGSTAFF 6,Registered Voters - Total,,,,,1150,1150,1150,1150
 Coconino,06 - FLAGSTAFF 6,Registered Voters - DEMOCRATIC,,,,,451,451,451,451
 Coconino,06 - FLAGSTAFF 6,Registered Voters - REPUBLICAN,,,,,281,281,281,281
 Coconino,06 - FLAGSTAFF 6,Registered Voters - LIBERTARIAN,,,,,12,12,12,12
@@ -1445,7 +1445,7 @@ Coconino,06 - FLAGSTAFF 6,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,06 - FLAGSTAFF 6,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,06 - FLAGSTAFF 6,,,1,NOL,Overvotes,0,0,0,0
 Coconino,06 - FLAGSTAFF 6,,,1,NOL,Undervotes,0,0,0,0
-Coconino,07 - FLAGSTAFF 7,"Registered Voters - Total ",,,,,1644,1644,1644,1644
+Coconino,07 - FLAGSTAFF 7,Registered Voters - Total,,,,,1644,1644,1644,1644
 Coconino,07 - FLAGSTAFF 7,Registered Voters - DEMOCRATIC,,,,,615,615,615,615
 Coconino,07 - FLAGSTAFF 7,Registered Voters - REPUBLICAN,,,,,390,390,390,390
 Coconino,07 - FLAGSTAFF 7,Registered Voters - LIBERTARIAN,,,,,14,14,14,14
@@ -1932,7 +1932,7 @@ Coconino,08 - FLAGSTAFF 8,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,08 - FLAGSTAFF 8,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,08 - FLAGSTAFF 8,,,1,NOL,Overvotes,0,0,0,0
 Coconino,08 - FLAGSTAFF 8,,,1,NOL,Undervotes,0,0,0,0
-Coconino,09 - FLAGSTAFF 9,"Registered Voters - Total ",,,,,1406,1406,1406,1406
+Coconino,09 - FLAGSTAFF 9,Registered Voters - Total,,,,,1406,1406,1406,1406
 Coconino,09 - FLAGSTAFF 9,Registered Voters - DEMOCRATIC,,,,,545,545,545,545
 Coconino,09 - FLAGSTAFF 9,Registered Voters - REPUBLICAN,,,,,250,250,250,250
 Coconino,09 - FLAGSTAFF 9,Registered Voters - LIBERTARIAN,,,,,19,19,19,19
@@ -2419,7 +2419,7 @@ Coconino,10 - FLAGSTAFF 10,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,10 - FLAGSTAFF 10,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,10 - FLAGSTAFF 10,,,1,NOL,Overvotes,0,0,0,0
 Coconino,10 - FLAGSTAFF 10,,,1,NOL,Undervotes,0,0,0,0
-Coconino,11 - FLAGSTAFF 11,"Registered Voters - Total ",,,,,1076,1076,1076,1076
+Coconino,11 - FLAGSTAFF 11,Registered Voters - Total,,,,,1076,1076,1076,1076
 Coconino,11 - FLAGSTAFF 11,Registered Voters - DEMOCRATIC,,,,,447,447,447,447
 Coconino,11 - FLAGSTAFF 11,Registered Voters - REPUBLICAN,,,,,185,185,185,185
 Coconino,11 - FLAGSTAFF 11,Registered Voters - LIBERTARIAN,,,,,12,12,12,12
@@ -3391,13 +3391,13 @@ Coconino,14 - FLAGSTAFF 14,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,14 - FLAGSTAFF 14,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,14 - FLAGSTAFF 14,,,1,NOL,Overvotes,0,0,0,0
 Coconino,14 - FLAGSTAFF 14,,,1,NOL,Undervotes,0,0,0,0
-Coconino,15 - FLAGSTAFF 15,"Registered Voters - Total ",,,,,2814,2814,2814,2814
-Coconino,15 - FLAGSTAFF 15,"Registered Voters - DEMOCRATIC ",,,,,1248,1248,1248,1248
+Coconino,15 - FLAGSTAFF 15,Registered Voters - Total,,,,,2814,2814,2814,2814
+Coconino,15 - FLAGSTAFF 15,Registered Voters - DEMOCRATIC,,,,,1248,1248,1248,1248
 Coconino,15 - FLAGSTAFF 15,Registered Voters - REPUBLICAN,,,,,474,474,474,474
 Coconino,15 - FLAGSTAFF 15,Registered Voters - LIBERTARIAN,,,,,32,32,32,32
 Coconino,15 - FLAGSTAFF 15,Registered Voters - GREEN,,,,,9,9,9,9
 Coconino,15 - FLAGSTAFF 15,Registered Voters - NO LABELS,,,,,26,26,26,26
-Coconino,15 - FLAGSTAFF 15,"Registered Voters - NONPARTISAN ",,,,,1025,1025,1025,1025
+Coconino,15 - FLAGSTAFF 15,Registered Voters - NONPARTISAN,,,,,1025,1025,1025,1025
 Coconino,15 - FLAGSTAFF 15,Ballots Cast - Total,,,,,672,605,66,1
 Coconino,15 - FLAGSTAFF 15,Ballots Cast - DEMOCRATIC,,,,,495,460,34,1
 Coconino,15 - FLAGSTAFF 15,Ballots Cast - REPUBLICAN,,,,,174,144,30,0
@@ -3631,7 +3631,7 @@ Coconino,15 - FLAGSTAFF 15,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,15 - FLAGSTAFF 15,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,15 - FLAGSTAFF 15,,,1,NOL,Overvotes,0,0,0,0
 Coconino,15 - FLAGSTAFF 15,,,1,NOL,Undervotes,1,0,1,0
-Coconino,16 - FLAGSTAFF 16,"Registered Voters - Total ",,,,,1810,1810,1810,1810
+Coconino,16 - FLAGSTAFF 16,Registered Voters - Total,,,,,1810,1810,1810,1810
 Coconino,16 - FLAGSTAFF 16,Registered Voters - DEMOCRATIC,,,,,851,851,851,851
 Coconino,16 - FLAGSTAFF 16,Registered Voters - REPUBLICAN,,,,,394,394,394,394
 Coconino,16 - FLAGSTAFF 16,Registered Voters - LIBERTARIAN,,,,,12,12,12,12
@@ -4353,7 +4353,7 @@ Coconino,18 - FLAGSTAFF 18,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,18 - FLAGSTAFF 18,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,18 - FLAGSTAFF 18,,,1,NOL,Overvotes,0,0,0,0
 Coconino,18 - FLAGSTAFF 18,,,1,NOL,Undervotes,0,0,0,0
-Coconino,19 - FLAGSTAFF 19,"Registered Voters - Total ",,,,,1830,1830,1830,1830
+Coconino,19 - FLAGSTAFF 19,Registered Voters - Total,,,,,1830,1830,1830,1830
 Coconino,19 - FLAGSTAFF 19,Registered Voters - DEMOCRATIC,,,,,714,714,714,714
 Coconino,19 - FLAGSTAFF 19,Registered Voters - REPUBLICAN,,,,,511,511,511,511
 Coconino,19 - FLAGSTAFF 19,Registered Voters - LIBERTARIAN,,,,,19,19,19,19
@@ -4847,7 +4847,7 @@ Coconino,20 - FLAGSTAFF 20,County Treasurer,,1,GRN,Undervotes,2,2,0,0
 Coconino,20 - FLAGSTAFF 20,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,20 - FLAGSTAFF 20,,,1,NOL,Overvotes,0,0,0,0
 Coconino,20 - FLAGSTAFF 20,,,1,NOL,Undervotes,0,0,0,0
-Coconino,21 - FLAGSTAFF 21,"Registered Voters - Total ",,,,,2182,2182,2182,2182
+Coconino,21 - FLAGSTAFF 21,Registered Voters - Total,,,,,2182,2182,2182,2182
 Coconino,21 - FLAGSTAFF 21,Registered Voters - DEMOCRATIC,,,,,870,870,870,870
 Coconino,21 - FLAGSTAFF 21,Registered Voters - REPUBLICAN,,,,,546,546,546,546
 Coconino,21 - FLAGSTAFF 21,Registered Voters - LIBERTARIAN,,,,,37,37,37,37
@@ -5095,8 +5095,8 @@ Coconino,21 - FLAGSTAFF 21,County Treasurer,,1,GRN,Undervotes,2,2,0,0
 Coconino,21 - FLAGSTAFF 21,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,21 - FLAGSTAFF 21,,,1,NOL,Overvotes,0,0,0,0
 Coconino,21 - FLAGSTAFF 21,,,1,NOL,Undervotes,0,0,0,0
-Coconino,22 - FLAGSTAFF 22,"Registered Voters - Total ",,,,,2822,2822,2822,2822
-Coconino,22 - FLAGSTAFF 22,"Registered Voters - DEMOCRATIC ",,,,,1073,1073,1073,1073
+Coconino,22 - FLAGSTAFF 22,Registered Voters - Total,,,,,2822,2822,2822,2822
+Coconino,22 - FLAGSTAFF 22,Registered Voters - DEMOCRATIC,,,,,1073,1073,1073,1073
 Coconino,22 - FLAGSTAFF 22,Registered Voters - REPUBLICAN,,,,,714,714,714,714
 Coconino,22 - FLAGSTAFF 22,Registered Voters - LIBERTARIAN,,,,,26,26,26,26
 Coconino,22 - FLAGSTAFF 22,Registered Voters - GREEN,,,,,4,4,4,4
@@ -5343,7 +5343,7 @@ Coconino,22 - FLAGSTAFF 22,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,22 - FLAGSTAFF 22,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,22 - FLAGSTAFF 22,,,1,NOL,Overvotes,0,0,0,0
 Coconino,22 - FLAGSTAFF 22,,,1,NOL,Undervotes,1,1,0,0
-Coconino,23 - FLAGSTAFF 23,"Registered Voters - Total ",,,,,1609,1609,1609,1609
+Coconino,23 - FLAGSTAFF 23,Registered Voters - Total,,,,,1609,1609,1609,1609
 Coconino,23 - FLAGSTAFF 23,Registered Voters - DEMOCRATIC,,,,,594,594,594,594
 Coconino,23 - FLAGSTAFF 23,Registered Voters - REPUBLICAN,,,,,322,322,322,322
 Coconino,23 - FLAGSTAFF 23,Registered Voters - LIBERTARIAN,,,,,19,19,19,19
@@ -5591,7 +5591,7 @@ Coconino,23 - FLAGSTAFF 23,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,23 - FLAGSTAFF 23,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,23 - FLAGSTAFF 23,,,1,NOL,Overvotes,0,0,0,0
 Coconino,23 - FLAGSTAFF 23,,,1,NOL,Undervotes,0,0,0,0
-Coconino,24 - FLAGSTAFF 24,"Registered Voters - Total ",,,,,2485,2485,2485,2485
+Coconino,24 - FLAGSTAFF 24,Registered Voters - Total,,,,,2485,2485,2485,2485
 Coconino,24 - FLAGSTAFF 24,Registered Voters - DEMOCRATIC,,,,,855,855,855,855
 Coconino,24 - FLAGSTAFF 24,Registered Voters - REPUBLICAN,,,,,778,778,778,778
 Coconino,24 - FLAGSTAFF 24,Registered Voters - LIBERTARIAN,,,,,21,21,21,21
@@ -5839,7 +5839,7 @@ Coconino,24 - FLAGSTAFF 24,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,24 - FLAGSTAFF 24,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,24 - FLAGSTAFF 24,,,1,NOL,Overvotes,0,0,0,0
 Coconino,24 - FLAGSTAFF 24,,,1,NOL,Undervotes,0,0,0,0
-Coconino,25 - FLAGSTAFF 25,"Registered Voters - Total ",,,,,1802,1802,1802,1802
+Coconino,25 - FLAGSTAFF 25,Registered Voters - Total,,,,,1802,1802,1802,1802
 Coconino,25 - FLAGSTAFF 25,Registered Voters - DEMOCRATIC,,,,,686,686,686,686
 Coconino,25 - FLAGSTAFF 25,Registered Voters - REPUBLICAN,,,,,535,535,535,535
 Coconino,25 - FLAGSTAFF 25,Registered Voters - LIBERTARIAN,,,,,12,12,12,12
@@ -6087,7 +6087,7 @@ Coconino,25 - FLAGSTAFF 25,County Treasurer,,1,GRN,Undervotes,1,1,0,0
 Coconino,25 - FLAGSTAFF 25,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,25 - FLAGSTAFF 25,,,1,NOL,Overvotes,0,0,0,0
 Coconino,25 - FLAGSTAFF 25,,,1,NOL,Undervotes,0,0,0,0
-Coconino,26 - FLAGSTAFF 26,"Registered Voters - Total ",,,,,1150,1150,1150,1150
+Coconino,26 - FLAGSTAFF 26,Registered Voters - Total,,,,,1150,1150,1150,1150
 Coconino,26 - FLAGSTAFF 26,Registered Voters - DEMOCRATIC,,,,,376,376,376,376
 Coconino,26 - FLAGSTAFF 26,Registered Voters - REPUBLICAN,,,,,320,320,320,320
 Coconino,26 - FLAGSTAFF 26,Registered Voters - LIBERTARIAN,,,,,12,12,12,12
@@ -7062,7 +7062,7 @@ Coconino,29 - FLAGSTAFF 29,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,29 - FLAGSTAFF 29,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,29 - FLAGSTAFF 29,,,1,NOL,Overvotes,0,0,0,0
 Coconino,29 - FLAGSTAFF 29,,,1,NOL,Undervotes,0,0,0,0
-Coconino,40 - BELLEMONT,"Registered Voters - Total ",,,,,1028,1028,1028,1028
+Coconino,40 - BELLEMONT,Registered Voters - Total,,,,,1028,1028,1028,1028
 Coconino,40 - BELLEMONT,Registered Voters - DEMOCRATIC,,,,,251,251,251,251
 Coconino,40 - BELLEMONT,Registered Voters - REPUBLICAN,,,,,372,372,372,372
 Coconino,40 - BELLEMONT,Registered Voters - LIBERTARIAN,,,,,18,18,18,18
@@ -7552,7 +7552,7 @@ Coconino,41 - BLUE RIDGE,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,41 - BLUE RIDGE,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,41 - BLUE RIDGE,,,1,NOL,Overvotes,0,0,0,0
 Coconino,41 - BLUE RIDGE,,,1,NOL,Undervotes,2,2,0,0
-Coconino,42 - BODAWAY,"Registered Voters - Total ",,,,,1078,1078,1078,1078
+Coconino,42 - BODAWAY,Registered Voters - Total,,,,,1078,1078,1078,1078
 Coconino,42 - BODAWAY,Registered Voters - DEMOCRATIC,,,,,672,672,672,672
 Coconino,42 - BODAWAY,Registered Voters - REPUBLICAN,,,,,151,151,151,151
 Coconino,42 - BODAWAY,Registered Voters - LIBERTARIAN,,,,,0,0,0,0
@@ -7812,7 +7812,7 @@ Coconino,42 - BODAWAY,Justice of the Peace,Page,1,GRN,Undervotes,0,0,0,0
 Coconino,42 - BODAWAY,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,42 - BODAWAY,,,1,NOL,Overvotes,0,0,0,0
 Coconino,42 - BODAWAY,,,1,NOL,Undervotes,0,0,0,0
-Coconino,43 - CAMERON,"Registered Voters - Total ",,,,,1016,1016,1016,1016
+Coconino,43 - CAMERON,Registered Voters - Total,,,,,1016,1016,1016,1016
 Coconino,43 - CAMERON,Registered Voters - DEMOCRATIC,,,,,612,612,612,612
 Coconino,43 - CAMERON,Registered Voters - REPUBLICAN,,,,,122,122,122,122
 Coconino,43 - CAMERON,Registered Voters - LIBERTARIAN,,,,,6,6,6,6
@@ -8556,7 +8556,7 @@ Coconino,48 - COALMINE,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,48 - COALMINE,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,48 - COALMINE,,,1,NOL,Overvotes,0,0,0,0
 Coconino,48 - COALMINE,,,1,NOL,Undervotes,0,0,0,0
-Coconino,50 - DONEY PARK,"Registered Voters - Total ",,,,,2207,2207,2207,2207
+Coconino,50 - DONEY PARK,Registered Voters - Total,,,,,2207,2207,2207,2207
 Coconino,50 - DONEY PARK,Registered Voters - DEMOCRATIC,,,,,577,577,577,577
 Coconino,50 - DONEY PARK,Registered Voters - REPUBLICAN,,,,,984,984,984,984
 Coconino,50 - DONEY PARK,Registered Voters - LIBERTARIAN,,,,,22,22,22,22
@@ -8798,7 +8798,7 @@ Coconino,50 - DONEY PARK,County Treasurer,,1,GRN,Undervotes,1,1,0,0
 Coconino,50 - DONEY PARK,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,50 - DONEY PARK,,,1,NOL,Overvotes,0,0,0,0
 Coconino,50 - DONEY PARK,,,1,NOL,Undervotes,0,0,0,0
-Coconino,52 - FERNWOOD,"Registered Voters - Total ",,,,,2002,2002,2002,2002
+Coconino,52 - FERNWOOD,Registered Voters - Total,,,,,2002,2002,2002,2002
 Coconino,52 - FERNWOOD,Registered Voters - DEMOCRATIC,,,,,557,557,557,557
 Coconino,52 - FERNWOOD,Registered Voters - REPUBLICAN,,,,,815,815,815,815
 Coconino,52 - FERNWOOD,Registered Voters - LIBERTARIAN,,,,,14,14,14,14
@@ -9288,7 +9288,7 @@ Coconino,53 - FOREST LAKES,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,53 - FOREST LAKES,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,53 - FOREST LAKES,,,1,NOL,Overvotes,0,0,0,0
 Coconino,53 - FOREST LAKES,,,1,NOL,Undervotes,0,0,0,0
-Coconino,56 - FORT VALLEY,"Registered Voters - Total ",,,,,1030,1030,1030,1030
+Coconino,56 - FORT VALLEY,Registered Voters - Total,,,,,1030,1030,1030,1030
 Coconino,56 - FORT VALLEY,Registered Voters - DEMOCRATIC,,,,,363,363,363,363
 Coconino,56 - FORT VALLEY,Registered Voters - REPUBLICAN,,,,,365,365,365,365
 Coconino,56 - FORT VALLEY,Registered Voters - LIBERTARIAN,,,,,10,10,10,10
@@ -10768,13 +10768,13 @@ Coconino,61 - INSCRIPTION HOUSE,Justice of the Peace,Page,1,GRN,Undervotes,0,0,0
 Coconino,61 - INSCRIPTION HOUSE,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,61 - INSCRIPTION HOUSE,,,1,NOL,Overvotes,0,0,0,0
 Coconino,61 - INSCRIPTION HOUSE,,,1,NOL,Undervotes,0,0,0,0
-Coconino,62 - PUMPHOUSE WASH,"Registered Voters - Total ",,,,,3006,3006,3006,3006
-Coconino,62 - PUMPHOUSE WASH,"Registered Voters - DEMOCRATIC ",,,,,1116,1116,1116,1116
+Coconino,62 - PUMPHOUSE WASH,Registered Voters - Total,,,,,3006,3006,3006,3006
+Coconino,62 - PUMPHOUSE WASH,Registered Voters - DEMOCRATIC,,,,,1116,1116,1116,1116
 Coconino,62 - PUMPHOUSE WASH,Registered Voters - REPUBLICAN,,,,,835,835,835,835
 Coconino,62 - PUMPHOUSE WASH,Registered Voters - LIBERTARIAN,,,,,29,29,29,29
 Coconino,62 - PUMPHOUSE WASH,Registered Voters - GREEN,,,,,9,9,9,9
 Coconino,62 - PUMPHOUSE WASH,Registered Voters - NO LABELS,,,,,13,13,13,13
-Coconino,62 - PUMPHOUSE WASH,"Registered Voters - NONPARTISAN ",,,,,1004,1004,1004,1004
+Coconino,62 - PUMPHOUSE WASH,Registered Voters - NONPARTISAN,,,,,1004,1004,1004,1004
 Coconino,62 - PUMPHOUSE WASH,"Ballots Cast - Total ,",,,,,1018,881,136,1
 Coconino,62 - PUMPHOUSE WASH,Ballots Cast - DEMOCRATIC,,,,,578,531,47,0
 Coconino,62 - PUMPHOUSE WASH,Ballots Cast - REPUBLICAN,,,,,435,347,87,1
@@ -11505,7 +11505,7 @@ Coconino,64 - KAIBAB,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,64 - KAIBAB,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,64 - KAIBAB,,,1,NOL,Overvotes,0,0,0,0
 Coconino,64 - KAIBAB,,,1,NOL,Undervotes,0,0,0,0
-Coconino,65 - KAIBETO,"Registered Voters - Total ",,,,,1460,1460,1460,1460
+Coconino,65 - KAIBETO,Registered Voters - Total,,,,,1460,1460,1460,1460
 Coconino,65 - KAIBETO,Registered Voters - DEMOCRATIC,,,,,848,848,848,848
 Coconino,65 - KAIBETO,Registered Voters - REPUBLICAN,,,,,186,186,186,186
 Coconino,65 - KAIBETO,Registered Voters - LIBERTARIAN,,,,,0,0,0,0
@@ -11765,7 +11765,7 @@ Coconino,65 - KAIBETO,Justice of the Peace,Page,1,GRN,Undervotes,0,0,0,0
 Coconino,65 - KAIBETO,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,65 - KAIBETO,,,1,NOL,Overvotes,0,0,0,0
 Coconino,65 - KAIBETO,,,1,NOL,Undervotes,0,0,0,0
-Coconino,67 - LECHEE,"Registered Voters - Total ",,,,,1103,1103,1103,1103
+Coconino,67 - LECHEE,Registered Voters - Total,,,,,1103,1103,1103,1103
 Coconino,67 - LECHEE,Registered Voters - DEMOCRATIC,,,,,559,559,559,559
 Coconino,67 - LECHEE,Registered Voters - REPUBLICAN,,,,,188,188,188,188
 Coconino,67 - LECHEE,Registered Voters - LIBERTARIAN,,,,,4,4,4,4
@@ -12025,7 +12025,7 @@ Coconino,67 - LECHEE,Justice of the Peace,Page,1,GRN,Undervotes,0,0,0,0
 Coconino,67 - LECHEE,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,67 - LECHEE,,,1,NOL,Overvotes,0,0,0,0
 Coconino,67 - LECHEE,,,1,NOL,Undervotes,0,0,0,0
-Coconino,69 - LEUPP,"Registered Voters - Total ",,,,,1491,1491,1491,1491
+Coconino,69 - LEUPP,Registered Voters - Total,,,,,1491,1491,1491,1491
 Coconino,69 - LEUPP,Registered Voters - DEMOCRATIC,,,,,819,819,819,819
 Coconino,69 - LEUPP,Registered Voters - REPUBLICAN,,,,,196,196,196,196
 Coconino,69 - LEUPP,Registered Voters - LIBERTARIAN,,,,,13,13,13,13
@@ -12769,7 +12769,7 @@ Coconino,71 - NAVAJO MOUNTAIN,Justice of the Peace,Page,1,GRN,Undervotes,0,0,0,0
 Coconino,71 - NAVAJO MOUNTAIN,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,71 - NAVAJO MOUNTAIN,,,1,NOL,Overvotes,0,0,0,0
 Coconino,71 - NAVAJO MOUNTAIN,,,1,NOL,Undervotes,0,0,0,0
-Coconino,72 - PAGE CENTRAL,"Registered Voters - Total ",,,,,1025,1025,1025,1025
+Coconino,72 - PAGE CENTRAL,Registered Voters - Total,,,,,1025,1025,1025,1025
 Coconino,72 - PAGE CENTRAL,Registered Voters - DEMOCRATIC,,,,,260,260,260,260
 Coconino,72 - PAGE CENTRAL,Registered Voters - REPUBLICAN,,,,,340,340,340,340
 Coconino,72 - PAGE CENTRAL,Registered Voters - LIBERTARIAN,,,,,7,7,7,7
@@ -13603,7 +13603,7 @@ Coconino,74 - PAGE SOUTH,Council Member,CITY OF PAGE,3,,Write-In Totals,2,2,0,0
 Coconino,74 - PAGE SOUTH,Council Member,CITY OF PAGE,3,,Total Votes Cast,622,393,220,9
 Coconino,74 - PAGE SOUTH,Council Member,CITY OF PAGE,3,,Overvotes,0,0,0,0
 Coconino,74 - PAGE SOUTH,Council Member,CITY OF PAGE,3,,Undervotes,89,57,32,0
-Coconino,75 - PAGE WEST,"Registered Voters - Total ",,,,,1038,1038,1038,1038
+Coconino,75 - PAGE WEST,Registered Voters - Total,,,,,1038,1038,1038,1038
 Coconino,75 - PAGE WEST,Registered Voters - DEMOCRATIC,,,,,226,226,226,226
 Coconino,75 - PAGE WEST,Registered Voters - REPUBLICAN,,,,,445,445,445,445
 Coconino,75 - PAGE WEST,Registered Voters - LIBERTARIAN,,,,,9,9,9,9
@@ -14371,7 +14371,7 @@ Coconino,79 - PARKS NORTH,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,79 - PARKS NORTH,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,79 - PARKS NORTH,,,1,NOL,Overvotes,0,0,0,0
 Coconino,79 - PARKS NORTH,,,1,NOL,Undervotes,0,0,0,0
-Coconino,80 - PINEWOOD,"Registered Voters - Total ",,,,,1077,1077,1077,1077
+Coconino,80 - PINEWOOD,Registered Voters - Total,,,,,1077,1077,1077,1077
 Coconino,80 - PINEWOOD,Registered Voters - DEMOCRATIC,,,,,199,199,199,199
 Coconino,80 - PINEWOOD,Registered Voters - REPUBLICAN,,,,,514,514,514,514
 Coconino,80 - PINEWOOD,Registered Voters - LIBERTARIAN,,,,,5,5,5,5
@@ -15108,7 +15108,7 @@ Coconino,82 - OAK CREEK,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,82 - OAK CREEK,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,82 - OAK CREEK,,,1,NOL,Overvotes,0,0,0,0
 Coconino,82 - OAK CREEK,,,1,NOL,Undervotes,0,0,0,0
-Coconino,83 - SEDONA,"Registered Voters - Total ",,,,,1912,1912,1912,1912
+Coconino,83 - SEDONA,Registered Voters - Total,,,,,1912,1912,1912,1912
 Coconino,83 - SEDONA,Registered Voters - DEMOCRATIC,,,,,695,695,695,695
 Coconino,83 - SEDONA,Registered Voters - REPUBLICAN,,,,,578,578,578,578
 Coconino,83 - SEDONA,Registered Voters - LIBERTARIAN,,,,,14,14,14,14
@@ -15620,7 +15620,7 @@ Coconino,84 - RANCHES SOUTH,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,84 - RANCHES SOUTH,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,84 - RANCHES SOUTH,,,1,NOL,Overvotes,0,0,0,0
 Coconino,84 - RANCHES SOUTH,,,1,NOL,Undervotes,0,0,0,0
-Coconino,85 - SUNSET CRATER,"Registered Voters - Total ",,,,,1891,1891,1891,1891
+Coconino,85 - SUNSET CRATER,Registered Voters - Total,,,,,1891,1891,1891,1891
 Coconino,85 - SUNSET CRATER,Registered Voters - DEMOCRATIC,,,,,470,470,470,470
 Coconino,85 - SUNSET CRATER,Registered Voters - REPUBLICAN,,,,,806,806,806,806
 Coconino,85 - SUNSET CRATER,Registered Voters - LIBERTARIAN,,,,,14,14,14,14
@@ -16352,8 +16352,8 @@ Coconino,89 - WALNUT CANYON,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,89 - WALNUT CANYON,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,89 - WALNUT CANYON,,,1,NOL,Overvotes,0,0,0,0
 Coconino,89 - WALNUT CANYON,,,1,NOL,Undervotes,0,0,0,0
-Coconino,90 - TONALEA,"Registered Voters - Total ",,,,,1972,1972,1972,1972
-Coconino,90 - TONALEA,"Registered Voters - DEMOCRATIC ",,,,,1216,1216,1216,1216
+Coconino,90 - TONALEA,Registered Voters - Total,,,,,1972,1972,1972,1972
+Coconino,90 - TONALEA,Registered Voters - DEMOCRATIC,,,,,1216,1216,1216,1216
 Coconino,90 - TONALEA,Registered Voters - REPUBLICAN,,,,,229,229,229,229
 Coconino,90 - TONALEA,Registered Voters - LIBERTARIAN,,,,,4,4,4,4
 Coconino,90 - TONALEA,Registered Voters - GREEN,,,,,1,1,1,1
@@ -16594,7 +16594,7 @@ Coconino,90 - TONALEA,County Treasurer,,1,GRN,Undervotes,1,1,0,0
 Coconino,90 - TONALEA,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,90 - TONALEA,,,1,NOL,Overvotes,0,0,0,0
 Coconino,90 - TONALEA,,,1,NOL,Undervotes,1,1,0,0
-Coconino,92 - WINONA,"Registered Voters - Total ",,,,,1640,1640,1640,1640
+Coconino,92 - WINONA,Registered Voters - Total,,,,,1640,1640,1640,1640
 Coconino,92 - WINONA,Registered Voters - DEMOCRATIC,,,,,477,477,477,477
 Coconino,92 - WINONA,Registered Voters - REPUBLICAN,,,,,610,610,610,610
 Coconino,92 - WINONA,Registered Voters - LIBERTARIAN,,,,,16,16,16,16
@@ -16836,7 +16836,7 @@ Coconino,92 - WINONA,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,92 - WINONA,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,92 - WINONA,,,1,NOL,Overvotes,0,0,0,0
 Coconino,92 - WINONA,,,1,NOL,Undervotes,0,0,0,0
-Coconino,93 - TUBA CITY NORTHEAST,"Registered Voters - Total ",,,,,1112,1112,1112,1112
+Coconino,93 - TUBA CITY NORTHEAST,Registered Voters - Total,,,,,1112,1112,1112,1112
 Coconino,93 - TUBA CITY NORTHEAST,Registered Voters - DEMOCRATIC,,,,,646,646,646,646
 Coconino,93 - TUBA CITY NORTHEAST,Registered Voters - REPUBLICAN,,,,,104,104,104,104
 Coconino,93 - TUBA CITY NORTHEAST,Registered Voters - LIBERTARIAN,,,,,6,6,6,6
@@ -17320,13 +17320,13 @@ Coconino,94 - TUBA CITY NORTHWEST,County Treasurer,,1,GRN,Undervotes,0,0,0,0
 Coconino,94 - TUBA CITY NORTHWEST,,,1,NOL,Total Votes Cast,0,0,0,0
 Coconino,94 - TUBA CITY NORTHWEST,,,1,NOL,Overvotes,0,0,0,0
 Coconino,94 - TUBA CITY NORTHWEST,,,1,NOL,Undervotes,1,0,0,1
-Coconino,95 - TUBA CITY SOUTH,"Registered Voters - Total ",,,,,3970,3970,3970,3970
-Coconino,95 - TUBA CITY SOUTH,"Registered Voters - DEMOCRATIC ",,,,,2324,2324,2324,2324
+Coconino,95 - TUBA CITY SOUTH,Registered Voters - Total,,,,,3970,3970,3970,3970
+Coconino,95 - TUBA CITY SOUTH,Registered Voters - DEMOCRATIC,,,,,2324,2324,2324,2324
 Coconino,95 - TUBA CITY SOUTH,Registered Voters - REPUBLICAN,,,,,462,462,462,462
 Coconino,95 - TUBA CITY SOUTH,Registered Voters - LIBERTARIAN,,,,,20,20,20,20
 Coconino,95 - TUBA CITY SOUTH,Registered Voters - GREEN,,,,,1,1,1,1
 Coconino,95 - TUBA CITY SOUTH,Registered Voters - NO LABELS,,,,,22,22,22,22
-Coconino,95 - TUBA CITY SOUTH,"Registered Voters - NONPARTISAN ",,,,,1141,1141,1141,1141
+Coconino,95 - TUBA CITY SOUTH,Registered Voters - NONPARTISAN,,,,,1141,1141,1141,1141
 Coconino,95 - TUBA CITY SOUTH,Ballots Cast - Total,,,,,969,641,293,35
 Coconino,95 - TUBA CITY SOUTH,Ballots Cast - DEMOCRATIC,,,,,861,583,248,30
 Coconino,95 - TUBA CITY SOUTH,Ballots Cast - REPUBLICAN,,,,,104,57,43,4
@@ -18061,9 +18061,9 @@ Coconino,97 - TUSAYAN,Council Member,TOWN OF TUSAYAN,2,,Write-In Totals,0,0,0,0
 Coconino,97 - TUSAYAN,Council Member,TOWN OF TUSAYAN,2,,Total Votes Cast,68,62,6,0
 Coconino,97 - TUSAYAN,Council Member,TOWN OF TUSAYAN,2,,Overvotes,0,0,0,0
 Coconino,97 - TUSAYAN,Council Member,TOWN OF TUSAYAN,2,,Undervotes,30,30,0,0
-Coconino,98 - WILLIAMS NORTH,"Registered Voters - Total ",,,,,2592,2592,2592,2592
+Coconino,98 - WILLIAMS NORTH,Registered Voters - Total,,,,,2592,2592,2592,2592
 Coconino,98 - WILLIAMS NORTH,Registered Voters - DEMOCRATIC,,,,,377,377,377,377
-Coconino,98 - WILLIAMS NORTH,"Registered Voters - REPUBLICAN ",,,,,1432,1432,1432,1432
+Coconino,98 - WILLIAMS NORTH,Registered Voters - REPUBLICAN,,,,,1432,1432,1432,1432
 Coconino,98 - WILLIAMS NORTH,Registered Voters - LIBERTARIAN,,,,,24,24,24,24
 Coconino,98 - WILLIAMS NORTH,Registered Voters - GREEN,,,,,5,5,5,5
 Coconino,98 - WILLIAMS NORTH,Registered Voters - NO LABELS,,,,,21,21,21,21

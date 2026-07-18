@@ -154,10 +154,10 @@ Santa Cruz,Coronado 5,Superintendent of Public Instruction,,REP,"HORNE, TOM",149
 Santa Cruz,Coronado 5,State Mine Inspector,,REP,"MARSH, PAUL",351,260,89,2
 Santa Cruz,Coronado 5,State Mine Inspector,,,Write-ins,22,21,1,0
 Santa Cruz,Coronado 5,State Mine Inspector,,Write In DEM,"DI GENOVA, TRISTA",5,5,0,0
-Santa Cruz,Coronado 5,Corporation Commisioner,,"DEM ","KENNEDY, SANDRA",347,294,52,1
-Santa Cruz,Coronado 5,Corporation Commisioner,,"DEM ","KUBY, LAUREN",288,248,40,0
-Santa Cruz,Coronado 5,Corporation Commisioner,,"REP ","MYERS, NICHOLAS ""NICK""",111,65,45,1
-Santa Cruz,Coronado 5,Corporation Commisioner,,"REP ","THOMPSON, KEVIN",109,66,43,0
+Santa Cruz,Coronado 5,Corporation Commisioner,,DEM,"KENNEDY, SANDRA",347,294,52,1
+Santa Cruz,Coronado 5,Corporation Commisioner,,DEM,"KUBY, LAUREN",288,248,40,0
+Santa Cruz,Coronado 5,Corporation Commisioner,,REP,"MYERS, NICHOLAS ""NICK""",111,65,45,1
+Santa Cruz,Coronado 5,Corporation Commisioner,,REP,"THOMPSON, KEVIN",109,66,43,0
 Santa Cruz,Coronado 5,State Senate,21,DEM,"HERNANDEZ, CONSUELO",44,37,7,0
 Santa Cruz,Coronado 5,State Senate,21,DEM,"STAHL HAMILTON, STEPHANIE",32,24,8,0
 Santa Cruz,Coronado 5,State Senate,21,REP,"KENNEDY, DAMIEN",16,13,3,0
@@ -400,58 +400,58 @@ Santa Cruz,Tubac 11,Superintendent of Public Instruction,,DEM,"HOFFMAN, KATHY 30
 Santa Cruz,Tubac 11,Superintendent of Public Instruction,,REP,"HORNE, TOM 18",18,10,7,1
 Santa Cruz,Nogales 12,Registered Voters,,,,674,,,
 Santa Cruz,Nogales 12,Ballots Cast,,,,225,167,55,3
-Santa Cruz,Nogales 12,U.S. Senate,,"DEM ","KELLY, MARK",172,131,39,2
-Santa Cruz,Nogales 12,U.S. Senate,,"REP ","MASTERS, BLAKE",47,34,12,1
-Santa Cruz,Nogales 12,U.S. Senate,,"LIB ","VICTOR, MARC J.",3,2,1,0
-Santa Cruz,Nogales 12,U.S. House,7,"DEM ","GRIJALVA, RA√öL 160",160,122,36,2
-Santa Cruz,Nogales 12,U.S. House,7,"REP ","POZZOLO, LUIS",60,43,16,1
-Santa Cruz,Nogales 12,Governor,,"DEM ","HOBBS, KATIE",167,126,39,2
-Santa Cruz,Nogales 12,Governor,,"REP ","LAKE, KARI",54,39,14,1
-Santa Cruz,Nogales 12,State Senate,21,"DEM ","GABALD√ìN, ROSANNA",165,126,38,1
-Santa Cruz,Nogales 12,State Senate,21,"REP ","CLEVELAND, JIM",51,36,13,2
-Santa Cruz,Nogales 12,State House,21,"DEM ","HERNANDEZ, CONSUELO",159,121,36,2
-Santa Cruz,Nogales 12,State House,21,"DEM ","STAHL HAMILTON, STEPHANIE",139,106,32,1
-Santa Cruz,Nogales 12,State House,21,"REP ","KENNEDY, DAMIEN",43,32,11,0
-Santa Cruz,Nogales 12,State House,21,"REP ","MCEWEN, DEBORAH",50,35,14,1
-Santa Cruz,Nogales 12,Secretary of State,,"DEM ","FONTES, ADRIAN",171,130,39,2
-Santa Cruz,Nogales 12,Secretary of State,,"REP ","FINCHEM, MARK",48,34,13,1
-Santa Cruz,Nogales 12,Attorney General,,"DEM ","MAYES, KRIS",163,124,38,1
-Santa Cruz,Nogales 12,Attorney General,,"REP ","HAMADEH, ABRAHAM ""ABE""",55,39,14,2
-Santa Cruz,Nogales 12,State Treasurer,,"DEM ","QUEZADA, MART√çN",166,126,38,2
-Santa Cruz,Nogales 12,State Treasurer,,"REP ","YEE, KIMBERLY",52,38,14,0
-Santa Cruz,Nogales 12,Superintendent of Public Instruction,,"DEM ","HOFFMAN, KATHY",163,125,37,1
-Santa Cruz,Nogales 12,Superintendent of Public Instruction,,"REP ","HORNE, TOM",51,34,15,2
-Santa Cruz,Nogales 12,State Mine Inspector,,"REP ","MARSH, PAUL",120,86,31,3
+Santa Cruz,Nogales 12,U.S. Senate,,DEM,"KELLY, MARK",172,131,39,2
+Santa Cruz,Nogales 12,U.S. Senate,,REP,"MASTERS, BLAKE",47,34,12,1
+Santa Cruz,Nogales 12,U.S. Senate,,LIB,"VICTOR, MARC J.",3,2,1,0
+Santa Cruz,Nogales 12,U.S. House,7,DEM,"GRIJALVA, RA√öL 160",160,122,36,2
+Santa Cruz,Nogales 12,U.S. House,7,REP,"POZZOLO, LUIS",60,43,16,1
+Santa Cruz,Nogales 12,Governor,,DEM,"HOBBS, KATIE",167,126,39,2
+Santa Cruz,Nogales 12,Governor,,REP,"LAKE, KARI",54,39,14,1
+Santa Cruz,Nogales 12,State Senate,21,DEM,"GABALD√ìN, ROSANNA",165,126,38,1
+Santa Cruz,Nogales 12,State Senate,21,REP,"CLEVELAND, JIM",51,36,13,2
+Santa Cruz,Nogales 12,State House,21,DEM,"HERNANDEZ, CONSUELO",159,121,36,2
+Santa Cruz,Nogales 12,State House,21,DEM,"STAHL HAMILTON, STEPHANIE",139,106,32,1
+Santa Cruz,Nogales 12,State House,21,REP,"KENNEDY, DAMIEN",43,32,11,0
+Santa Cruz,Nogales 12,State House,21,REP,"MCEWEN, DEBORAH",50,35,14,1
+Santa Cruz,Nogales 12,Secretary of State,,DEM,"FONTES, ADRIAN",171,130,39,2
+Santa Cruz,Nogales 12,Secretary of State,,REP,"FINCHEM, MARK",48,34,13,1
+Santa Cruz,Nogales 12,Attorney General,,DEM,"MAYES, KRIS",163,124,38,1
+Santa Cruz,Nogales 12,Attorney General,,REP,"HAMADEH, ABRAHAM ""ABE""",55,39,14,2
+Santa Cruz,Nogales 12,State Treasurer,,DEM,"QUEZADA, MART√çN",166,126,38,2
+Santa Cruz,Nogales 12,State Treasurer,,REP,"YEE, KIMBERLY",52,38,14,0
+Santa Cruz,Nogales 12,Superintendent of Public Instruction,,DEM,"HOFFMAN, KATHY",163,125,37,1
+Santa Cruz,Nogales 12,Superintendent of Public Instruction,,REP,"HORNE, TOM",51,34,15,2
+Santa Cruz,Nogales 12,State Mine Inspector,,REP,"MARSH, PAUL",120,86,31,3
 Santa Cruz,Nogales 12,State Mine Inspector,,,Write-ins,11,8,3,0
 Santa Cruz,Nogales 12,State Mine Inspector,,Write In DEM,"DI GENOVA, TRISTA",1,1,0,0
-Santa Cruz,Nogales 12,Corporation Commissioner,,"DEM ","KENNEDY, SANDRA",153,122,31,0
-Santa Cruz,Nogales 12,Corporation Commissioner,,"DEM ","KUBY, LAUREN",140,107,33,0
-Santa Cruz,Nogales 12,Corporation Commissioner,,"REP ","MYERS, NICHOLAS ""NICK""",54,38,14,2
-Santa Cruz,Nogales 12,Corporation Commissioner,,"REP ","THOMPSON, KEVIN",47,33,13,1
-Santa Cruz,Santa Cruz 13,U.S. Senate,,"DEM ","KELLY, MARK",139,110,29,0
-Santa Cruz,Santa Cruz 13,U.S. Senate,,"REP ","MASTERS, BLAKE",66,24,41,1
-Santa Cruz,Santa Cruz 13,U.S. House,7,"DEM ","GRIJALVA, RAUL",123,99,24,0
-Santa Cruz,Santa Cruz 13,U.S. House,7,"REP ","POZZOLO, LUIS",84,36,48,0
-Santa Cruz,Santa Cruz 13,Governor,,"DEM ","HOBBS, KATIE",132,103,29,0
-Santa Cruz,Santa Cruz 13,Governor,,"REP ","LAKE, KARI",75,33,42,0
-Santa Cruz,Santa Cruz 13,State Senate,21,"DEM ","GABALDON, ROSANNA",136,107,29,0
-Santa Cruz,Santa Cruz 13,State Senate,21,"REP ","CLEVELAND, JIM",70,28,41,1
-Santa Cruz,Santa Cruz 13,State House,21,"DEM ","HERNANDEZ, CONSUELO",119,94,25,0
-Santa Cruz,Santa Cruz 13,State House,21,"DEM ","STAHL HAMILTON, STEPHANIE",102,81,21,0
-Santa Cruz,Santa Cruz 13,State House,21,"REP ","KENNEDY, DAMIEN",65,27,38,0
-Santa Cruz,Santa Cruz 13,Secretary of State,,"DEM ","FONTES, ADRIAN",151,116,35,0
-Santa Cruz,Santa Cruz 13,Secretary of State,,"REP ","FINCHEM, MARK",57,21,36,0
-Santa Cruz,Santa Cruz 13,Attorney General,,"DEM ","MAYES, KRIS",139,109,30,0
-Santa Cruz,Santa Cruz 13,Attorney General,,"REP ","HAMADEH, ABRAHAM ""ABE""",71,29,41,1
-Santa Cruz,Santa Cruz 13,State Treasurer,,"DEM ","QUEZADA, MART√çN",124,102,22,0
-Santa Cruz,Santa Cruz 13,State Treasurer,,"REP ","YEE, KIMBERLY",79,33,45,1
-Santa Cruz,Santa Cruz 13,Superintendent of Public Instruction,,"DEM ","HOFFMAN, KATHY",5,5,0,0
-Santa Cruz,Santa Cruz 13,Superintendent of Public Instruction,,"REP ","HORNE, TOM",1,1,0,0
-Santa Cruz,Santa Cruz 13,State Mine Inspector,,"REP ","MARSH, PAUL",138,81,57,0
-Santa Cruz,Santa Cruz 13,Corporation Commissioner,,"DEM ","KENNEDY, SANDRA",129,106,23,0
-Santa Cruz,Santa Cruz 13,Corporation Commissioner,,"DEM ","KUBY, LAUREN",102,81,21,0
-Santa Cruz,Santa Cruz 13,Corporation Commissioner,,"REP ","MYERS, NICHOLAS ""NICK""",69,28,40,1
-Santa Cruz,Santa Cruz 13,Corporation Commissioner,,"REP ","THOMPSON, KEVIN",56,24,32,0
+Santa Cruz,Nogales 12,Corporation Commissioner,,DEM,"KENNEDY, SANDRA",153,122,31,0
+Santa Cruz,Nogales 12,Corporation Commissioner,,DEM,"KUBY, LAUREN",140,107,33,0
+Santa Cruz,Nogales 12,Corporation Commissioner,,REP,"MYERS, NICHOLAS ""NICK""",54,38,14,2
+Santa Cruz,Nogales 12,Corporation Commissioner,,REP,"THOMPSON, KEVIN",47,33,13,1
+Santa Cruz,Santa Cruz 13,U.S. Senate,,DEM,"KELLY, MARK",139,110,29,0
+Santa Cruz,Santa Cruz 13,U.S. Senate,,REP,"MASTERS, BLAKE",66,24,41,1
+Santa Cruz,Santa Cruz 13,U.S. House,7,DEM,"GRIJALVA, RAUL",123,99,24,0
+Santa Cruz,Santa Cruz 13,U.S. House,7,REP,"POZZOLO, LUIS",84,36,48,0
+Santa Cruz,Santa Cruz 13,Governor,,DEM,"HOBBS, KATIE",132,103,29,0
+Santa Cruz,Santa Cruz 13,Governor,,REP,"LAKE, KARI",75,33,42,0
+Santa Cruz,Santa Cruz 13,State Senate,21,DEM,"GABALDON, ROSANNA",136,107,29,0
+Santa Cruz,Santa Cruz 13,State Senate,21,REP,"CLEVELAND, JIM",70,28,41,1
+Santa Cruz,Santa Cruz 13,State House,21,DEM,"HERNANDEZ, CONSUELO",119,94,25,0
+Santa Cruz,Santa Cruz 13,State House,21,DEM,"STAHL HAMILTON, STEPHANIE",102,81,21,0
+Santa Cruz,Santa Cruz 13,State House,21,REP,"KENNEDY, DAMIEN",65,27,38,0
+Santa Cruz,Santa Cruz 13,Secretary of State,,DEM,"FONTES, ADRIAN",151,116,35,0
+Santa Cruz,Santa Cruz 13,Secretary of State,,REP,"FINCHEM, MARK",57,21,36,0
+Santa Cruz,Santa Cruz 13,Attorney General,,DEM,"MAYES, KRIS",139,109,30,0
+Santa Cruz,Santa Cruz 13,Attorney General,,REP,"HAMADEH, ABRAHAM ""ABE""",71,29,41,1
+Santa Cruz,Santa Cruz 13,State Treasurer,,DEM,"QUEZADA, MART√çN",124,102,22,0
+Santa Cruz,Santa Cruz 13,State Treasurer,,REP,"YEE, KIMBERLY",79,33,45,1
+Santa Cruz,Santa Cruz 13,Superintendent of Public Instruction,,DEM,"HOFFMAN, KATHY",5,5,0,0
+Santa Cruz,Santa Cruz 13,Superintendent of Public Instruction,,REP,"HORNE, TOM",1,1,0,0
+Santa Cruz,Santa Cruz 13,State Mine Inspector,,REP,"MARSH, PAUL",138,81,57,0
+Santa Cruz,Santa Cruz 13,Corporation Commissioner,,DEM,"KENNEDY, SANDRA",129,106,23,0
+Santa Cruz,Santa Cruz 13,Corporation Commissioner,,DEM,"KUBY, LAUREN",102,81,21,0
+Santa Cruz,Santa Cruz 13,Corporation Commissioner,,REP,"MYERS, NICHOLAS ""NICK""",69,28,40,1
+Santa Cruz,Santa Cruz 13,Corporation Commissioner,,REP,"THOMPSON, KEVIN",56,24,32,0
 Santa Cruz,Santa Cruz 13,Registered Voters,,,,400,,,
 Santa Cruz,Santa Cruz 13,Ballots Cast,,,,207,134,72,1
 Santa Cruz,Santa Cruz 13,U.S. Senate,,LIB,"VICTOR, MARC J.",6,4,2,0
