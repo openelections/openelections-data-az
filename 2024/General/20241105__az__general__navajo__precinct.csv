@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
-Navajo,01 RED BUTTE,,,,Registered Voters,9522
-Navajo,01 RED BUTTE,,,,Ballots Cast,5664
+Navajo,01 RED BUTTE,Registered Voters,,,,9522
+Navajo,01 RED BUTTE,Ballots Cast,,,,5664
 Navajo,01 RED BUTTE,President,,REP,Donald J. TRUMP / JD VANCE,1128
 Navajo,01 RED BUTTE,President,,DEM,Kamala D. HARRIS / Tim WALZ,4305
 Navajo,01 RED BUTTE,President,,LBT,Chase OLIVER / Mike ter MATT,49
@@ -199,8 +199,8 @@ Navajo,01 RED BUTTE,Question-Kayenta USD #27,,,NO,1430
 Navajo,01 RED BUTTE,Question-Kayenta USD #27,,,Total Votes,3688
 Navajo,01 RED BUTTE,Question-Kayenta USD #27,,,Overvotes,0
 Navajo,01 RED BUTTE,Question-Kayenta USD #27,,,Undervotes,400
-Navajo,02 STONE BUTTE,,,,Registered Voters,2324
-Navajo,02 STONE BUTTE,,,,Ballots Cast,1454
+Navajo,02 STONE BUTTE,Registered Voters,,,,2324
+Navajo,02 STONE BUTTE,Ballots Cast,,,,1454
 Navajo,02 STONE BUTTE,President,,REP,Donald J. TRUMP / JD VANCE,226
 Navajo,02 STONE BUTTE,President,,DEM,Kamala D. HARRIS / Tim WALZ,1172
 Navajo,02 STONE BUTTE,President,,LBT,Chase OLIVER / Mike ter MATT,12
@@ -400,8 +400,8 @@ Navajo,02 STONE BUTTE,Question-Kayenta USD #27,,,NO,0
 Navajo,02 STONE BUTTE,Question-Kayenta USD #27,,,Total Votes,0
 Navajo,02 STONE BUTTE,Question-Kayenta USD #27,,,Overvotes,0
 Navajo,02 STONE BUTTE,Question-Kayenta USD #27,,,Undervotes,0
-Navajo,03 BLACK BUTTES,,,,Registered Voters,4970
-Navajo,03 BLACK BUTTES,,,,Ballots Cast,3181
+Navajo,03 BLACK BUTTES,Registered Voters,,,,4970
+Navajo,03 BLACK BUTTES,Ballots Cast,,,,3181
 Navajo,03 BLACK BUTTES,President,,REP,Donald J. TRUMP / JD VANCE,591
 Navajo,03 BLACK BUTTES,President,,DEM,Kamala D. HARRIS / Tim WALZ,2503
 Navajo,03 BLACK BUTTES,President,,LBT,Chase OLIVER / Mike ter MATT,20
@@ -607,8 +607,8 @@ Navajo,03 BLACK BUTTES,Question-Winslow USD #1,,,YES,368
 Navajo,03 BLACK BUTTES,Question-Winslow USD #1,,,NO,231
 Navajo,03 BLACK BUTTES,Question-Winslow USD #1,,,Total Votes,599
 Navajo,03 BLACK BUTTES,Question-Winslow USD #1,,,Undervotes,78
-Navajo,04 HUBBLE,,,,Registered Voters,4200
-Navajo,04 HUBBLE,,,,Ballots Cast,3044
+Navajo,04 HUBBLE,Registered Voters,,,,4200
+Navajo,04 HUBBLE,Ballots Cast,,,,3044
 Navajo,04 HUBBLE,President,,REP,Donald J. TRUMP / JD VANCE,1352
 Navajo,04 HUBBLE,President,,DEM,Kamala D. HARRIS / Tim WALZ,1624
 Navajo,04 HUBBLE,President,,LBT,Chase OLIVER / Mike ter MATT,17
@@ -804,8 +804,8 @@ Navajo,04 HUBBLE,Question-Winslow USD #1,,,NO,941
 Navajo,04 HUBBLE,Question-Winslow USD #1,,,Total Votes,2776
 Navajo,04 HUBBLE,Question-Winslow USD #1,,,Overvotes,0
 Navajo,04 HUBBLE,Question-Winslow USD #1,,,Undervotes,256
-Navajo,05 CEDAR VALLEY,,,,Registered Voters,4928
-Navajo,05 CEDAR VALLEY,,,,Ballots Cast,3557
+Navajo,05 CEDAR VALLEY,Registered Voters,,,,4928
+Navajo,05 CEDAR VALLEY,Ballots Cast,,,,3557
 Navajo,05 CEDAR VALLEY,President,,REP,Donald J. TRUMP / JD VANCE,1362
 Navajo,05 CEDAR VALLEY,President,,DEM,Kamala D. HARRIS / Tim WALZ,2091
 Navajo,05 CEDAR VALLEY,President,,LBT,Chase OLIVER / Mike ter MATT,25
@@ -1001,8 +1001,8 @@ Navajo,05 CEDAR VALLEY,Question-Winslow USD #1,,,NO,0
 Navajo,05 CEDAR VALLEY,Question-Winslow USD #1,,,Total Votes,1
 Navajo,05 CEDAR VALLEY,Question-Winslow USD #1,,,Overvotes,0
 Navajo,05 CEDAR VALLEY,Question-Winslow USD #1,,,Undervotes,0
-Navajo,06 PAINTED DESERT,,,,Registered Voters,1465
-Navajo,06 PAINTED DESERT,,,,Ballots Cast,1014
+Navajo,06 PAINTED DESERT,Registered Voters,,,,1465
+Navajo,06 PAINTED DESERT,Ballots Cast,,,,1014
 Navajo,06 PAINTED DESERT,President,,REP,Donald J. TRUMP / JD VANCE,592
 Navajo,06 PAINTED DESERT,President,,DEM,Kamala D. HARRIS / Tim WALZ,389
 Navajo,06 PAINTED DESERT,President,,LBT,Chase OLIVER / Mike ter MATT,5
@@ -1187,8 +1187,8 @@ Navajo,06 PAINTED DESERT,Question-Winslow USD #1,,,NO,0
 Navajo,06 PAINTED DESERT,Question-Winslow USD #1,,,Total Votes,2
 Navajo,06 PAINTED DESERT,Question-Winslow USD #1,,,Overvotes,0
 Navajo,06 PAINTED DESERT,Question-Winslow USD #1,,,Undervotes,0
-Navajo,07 PALOMINO,,,,Registered Voters,0
-Navajo,07 PALOMINO,,,,Ballots Cast,0
+Navajo,07 PALOMINO,Registered Voters,,,,0
+Navajo,07 PALOMINO,Ballots Cast,,,,0
 Navajo,07 PALOMINO,President,,REP,Donald J. TRUMP / JD VANCE,0
 Navajo,07 PALOMINO,President,,DEM,Kamala D. HARRIS / Tim WALZ,0
 Navajo,07 PALOMINO,President,,LBT,Chase OLIVER / Mike ter MATT,0
@@ -1369,8 +1369,8 @@ Navajo,07 PALOMINO,Question-Winslow USD #1,,,NO,0
 Navajo,07 PALOMINO,Question-Winslow USD #1,,,Total Votes,0
 Navajo,07 PALOMINO,Question-Winslow USD #1,,,Overvotes,0
 Navajo,07 PALOMINO,Question-Winslow USD #1,,,Undervotes,0
-Navajo,08 MAVERIK,,,,Registered Voters,20
-Navajo,08 MAVERIK,,,,Ballots Cast,18
+Navajo,08 MAVERIK,Registered Voters,,,,20
+Navajo,08 MAVERIK,Ballots Cast,,,,18
 Navajo,08 MAVERIK,President,,REP,Donald J. TRUMP / JD VANCE,17
 Navajo,08 MAVERIK,President,,DEM,Kamala D. HARRIS / Tim WALZ,1
 Navajo,08 MAVERIK,President,,LBT,Chase OLIVER / Mike ter MATT,0
@@ -1547,8 +1547,8 @@ Navajo,08 MAVERIK,Question-Winslow USD #1,,,YES,12
 Navajo,08 MAVERIK,Question-Winslow USD #1,,,NO,4
 Navajo,08 MAVERIK,Question-Winslow USD #1,,,Total Votes,16
 Navajo,08 MAVERIK,Question-Winslow USD #1,,,Undervotes,2
-Navajo,09 WILD HORSE,,,,Registered Voters,5
-Navajo,09 WILD HORSE,,,,Ballots Cast,6
+Navajo,09 WILD HORSE,Registered Voters,,,,5
+Navajo,09 WILD HORSE,Ballots Cast,,,,6
 Navajo,09 WILD HORSE,President,,REP,Donald J. TRUMP / JD VANCE,5
 Navajo,09 WILD HORSE,President,,DEM,Kamala D. HARRIS / Tim WALZ,1
 Navajo,09 WILD HORSE,President,,LBT,Chase OLIVER / Mike ter MATT,0
@@ -1714,8 +1714,8 @@ Navajo,09 WILD HORSE,Question-Winslow USD #1,,,NO,2
 Navajo,09 WILD HORSE,Question-Winslow USD #1,,,Total Votes,6
 Navajo,09 WILD HORSE,Question-Winslow USD #1,,,Overvotes,0
 Navajo,09 WILD HORSE,Question-Winslow USD #1,,,Undervotes,0
-Navajo,10 PIONEER,,,,Registered Voters,10155
-Navajo,10 PIONEER,,,,Ballots Cast,8409
+Navajo,10 PIONEER,Registered Voters,,,,10155
+Navajo,10 PIONEER,Ballots Cast,,,,8409
 Navajo,10 PIONEER,President,,REP,Donald J. TRUMP / JD VANCE,7168
 Navajo,10 PIONEER,President,,DEM,Kamala D. HARRIS / Tim WALZ,1110
 Navajo,10 PIONEER,President,,LBT,Chase OLIVER / Mike ter MATT,40
@@ -1915,8 +1915,8 @@ Navajo,10 PIONEER,Proposition 315,,,NO,2824
 Navajo,10 PIONEER,Proposition 315,,,Total Votes,557
 Navajo,10 PIONEER,Proposition 315,,,Overvotes,0
 Navajo,10 PIONEER,Proposition 315,,,Undervotes,852
-Navajo,11 ANTELOPE,,,,Registered Voters,345
-Navajo,11 ANTELOPE,,,,Ballots Cast,279
+Navajo,11 ANTELOPE,Registered Voters,,,,345
+Navajo,11 ANTELOPE,Ballots Cast,,,,279
 Navajo,11 ANTELOPE,President,,REP,Donald J. TRUMP / JD VANCE,223
 Navajo,11 ANTELOPE,President,,LBT,Chase OLIVER / Mike ter MATT,2
 Navajo,11 ANTELOPE,President,,GRN,Jill STEIN / Rudolph WARE,1
@@ -2110,8 +2110,8 @@ Navajo,11 ANTELOPE,Question-Winslow USD #1,,,NO,0
 Navajo,11 ANTELOPE,Question-Winslow USD #1,,,Total Votes,0
 Navajo,11 ANTELOPE,Question-Winslow USD #1,,,Overvotes,0
 Navajo,11 ANTELOPE,Question-Winslow USD #1,,,Undervotes,0
-Navajo,12 JUNIPER,,,,Registered Voters,2778
-Navajo,12 JUNIPER,,,,Ballots Cast,2233
+Navajo,12 JUNIPER,Registered Voters,,,,2778
+Navajo,12 JUNIPER,Ballots Cast,,,,2233
 Navajo,12 JUNIPER,President,,REP,Donald J. TRUMP / JD VANCE,1810
 Navajo,12 JUNIPER,President,,DEM,Kamala D. HARRIS / Tim WALZ,386
 Navajo,12 JUNIPER,President,,LBT,Chase OLIVER / Mike ter MATT,15
@@ -2308,8 +2308,8 @@ Navajo,12 JUNIPER,Proposition 315,,,NO,930
 Navajo,12 JUNIPER,Proposition 315,,,Total Votes,1993
 Navajo,12 JUNIPER,Proposition 315,,,Overvotes,0
 Navajo,12 JUNIPER,Proposition 315,,,Undervotes,240
-Navajo,13 MOGOLLON,,,,Registered Voters,3035
-Navajo,13 MOGOLLON,,,,Ballots Cast,2528
+Navajo,13 MOGOLLON,Registered Voters,,,,3035
+Navajo,13 MOGOLLON,Ballots Cast,,,,2528
 Navajo,13 MOGOLLON,President,,REP,Donald J. TRUMP / JD VANCE,1955
 Navajo,13 MOGOLLON,President,,DEM,Kamala D. HARRIS / Tim WALZ,542
 Navajo,13 MOGOLLON,President,,LBT,Chase OLIVER / Mike ter MATT,6
@@ -2507,8 +2507,8 @@ Navajo,13 MOGOLLON,Proposition 315,,,NO,1000
 Navajo,13 MOGOLLON,Proposition 315,,,Total Votes,2262
 Navajo,13 MOGOLLON,Proposition 315,,,Overvotes,0
 Navajo,13 MOGOLLON,Proposition 315,,,Undervotes,266
-Navajo,14 BISON,,,,Registered Voters,11374
-Navajo,14 BISON,,,,Ballots Cast,9429
+Navajo,14 BISON,Registered Voters,,,,11374
+Navajo,14 BISON,Ballots Cast,,,,9429
 Navajo,14 BISON,President,,REP,Donald J. TRUMP / JD VANCE,7209
 Navajo,14 BISON,President,,DEM,Kamala D. HARRIS / Tim WALZ,2072
 Navajo,14 BISON,President,,LBT,Chase OLIVER / Mike ter MATT,32
@@ -2706,8 +2706,8 @@ Navajo,14 BISON,Proposition 315,,,YES,4749
 Navajo,14 BISON,Proposition 315,,,NO,3691
 Navajo,14 BISON,Proposition 315,,,Total Votes,8440
 Navajo,14 BISON,Proposition 315,,,Undervotes,984
-Navajo,15 SITGREAVES,,,,Registered Voters,1546
-Navajo,15 SITGREAVES,,,,Ballots Cast,1260
+Navajo,15 SITGREAVES,Registered Voters,,,,1546
+Navajo,15 SITGREAVES,Ballots Cast,,,,1260
 Navajo,15 SITGREAVES,President,,REP,Donald J. TRUMP / JD VANCE,954
 Navajo,15 SITGREAVES,President,,DEM,Kamala D. HARRIS / Tim WALZ,281
 Navajo,15 SITGREAVES,President,,LBT,Chase OLIVER / Mike ter MATT,10
@@ -2901,8 +2901,8 @@ Navajo,15 SITGREAVES,Proposition 315,,,NO,467
 Navajo,15 SITGREAVES,Proposition 315,,,Total Votes,1090
 Navajo,15 SITGREAVES,Proposition 315,,,Overvotes,0
 Navajo,15 SITGREAVES,Proposition 315,,,Undervotes,170
-Navajo,16 SUNRISE,,,,Registered Voters,5654
-Navajo,16 SUNRISE,,,,Ballots Cast,3058
+Navajo,16 SUNRISE,Registered Voters,,,,5654
+Navajo,16 SUNRISE,Ballots Cast,,,,3058
 Navajo,16 SUNRISE,President,,REP,Donald J. TRUMP / JD VANCE,585
 Navajo,16 SUNRISE,President,,DEM,Kamala D. HARRIS / Tim WALZ,2397
 Navajo,16 SUNRISE,President,,LBT,Chase OLIVER / Mike ter MATT,9
@@ -3099,8 +3099,8 @@ Navajo,16 SUNRISE,Proposition,Pinetop Fire Dist.,,AGAINST THE BONDS,1
 Navajo,16 SUNRISE,Proposition,Pinetop Fire Dist.,,Total Votes,2
 Navajo,16 SUNRISE,Proposition,Pinetop Fire Dist.,,Overvotes,0
 Navajo,16 SUNRISE,Proposition,Pinetop Fire Dist.,,Undervotes,0
-Navajo,17 CANYON BUTTE,,,,Registered Voters,0
-Navajo,17 CANYON BUTTE,,,,Ballots Cast,0
+Navajo,17 CANYON BUTTE,Registered Voters,,,,0
+Navajo,17 CANYON BUTTE,Ballots Cast,,,,0
 Navajo,17 CANYON BUTTE,President,,REP,Donald J. TRUMP / JD VANCE,0
 Navajo,17 CANYON BUTTE,President,,DEM,Kamala D. HARRIS / Tim WALZ,0
 Navajo,17 CANYON BUTTE,President,,LBT,Chase OLIVER / Mike ter MATT,0
@@ -3286,8 +3286,8 @@ Navajo,17 CANYON BUTTE,Proposition 315,,,NO,0
 Navajo,17 CANYON BUTTE,Proposition 315,,,Total Votes,0
 Navajo,17 CANYON BUTTE,Proposition 315,,,Overvotes,0
 Navajo,17 CANYON BUTTE,Proposition 315,,,Undervotes,0
-Navajo,18 ELK,,,,Registered Voters,113
-Navajo,18 ELK,,,,Ballots Cast,93
+Navajo,18 ELK,Registered Voters,,,,113
+Navajo,18 ELK,Ballots Cast,,,,93
 Navajo,18 ELK,President,,REP,Donald J. TRUMP / JD VANCE,59
 Navajo,18 ELK,President,,DEM,Kamala D. HARRIS / Tim WALZ,33
 Navajo,18 ELK,President,,LBT,Chase OLIVER / Mike ter MATT,1
@@ -3475,8 +3475,8 @@ Navajo,18 ELK,Proposition 314,,,NO,23
 Navajo,18 ELK,Proposition 314,,,Total Votes,85
 Navajo,18 ELK,Proposition 314,,,Overvotes,0
 Navajo,18 ELK,Proposition 314,,,Undervotes,8
-Navajo,19 ROSE WOOD,,,,Registered Voters,0
-Navajo,19 ROSE WOOD,,,,Ballots Cast,0
+Navajo,19 ROSE WOOD,Registered Voters,,,,0
+Navajo,19 ROSE WOOD,Ballots Cast,,,,0
 Navajo,19 ROSE WOOD,President,,REP,Donald J. TRUMP / JD VANCE,0
 Navajo,19 ROSE WOOD,President,,DEM,Kamala D. HARRIS / Tim WALZ,0
 Navajo,19 ROSE WOOD,President,,LBT,Chase OLIVER / Mike ter MATT,0
@@ -3651,8 +3651,8 @@ Navajo,19 ROSE WOOD,Proposition 315,,,NO,0
 Navajo,19 ROSE WOOD,Proposition 315,,,Total Votes,0
 Navajo,19 ROSE WOOD,Proposition 315,,,Overvotes,0
 Navajo,19 ROSE WOOD,Proposition 315,,,Undervotes,0
-Navajo,20 EVERGREEN,,,,Registered Voters,0
-Navajo,20 EVERGREEN,,,,Ballots Cast,0
+Navajo,20 EVERGREEN,Registered Voters,,,,0
+Navajo,20 EVERGREEN,Ballots Cast,,,,0
 Navajo,20 EVERGREEN,President,,REP,Donald J. TRUMP / JD VANCE,0
 Navajo,20 EVERGREEN,President,,DEM,Kamala D. HARRIS / Tim WALZ,0
 Navajo,20 EVERGREEN,President,,LBT,Chase OLIVER / Mike ter MATT,0
@@ -3844,8 +3844,8 @@ Navajo,20 EVERGREEN,Proposition 315,,,NO,0
 Navajo,20 EVERGREEN,Proposition 315,,,Total Votes,0
 Navajo,20 EVERGREEN,Proposition 315,,,Overvotes,0
 Navajo,20 EVERGREEN,Proposition 315,,,Undervotes,0
-Navajo,21 WOODLAND,,,,Registered Voters,7340
-Navajo,21 WOODLAND,,,,Ballots Cast,6159
+Navajo,21 WOODLAND,Registered Voters,,,,7340
+Navajo,21 WOODLAND,Ballots Cast,,,,6159
 Navajo,21 WOODLAND,President,,REP,Donald J. TRUMP / JD VANCE,4244
 Navajo,21 WOODLAND,President,,DEM,Kamala D. HARRIS / Tim WALZ,1797
 Navajo,21 WOODLAND,President,,LBT,Chase OLIVER / Mike ter MATT,32

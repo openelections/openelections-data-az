@@ -19781,20 +19781,6 @@ Maricopa,0748 ZUNI HILLS,President,,HAWKINS / WALKER,,1,1,0,0
 Maricopa,0748 ZUNI HILLS,President,,LA RIVA / FREEMAN,,0,0,0,0
 Maricopa,0748 ZUNI HILLS,President,,SIMMONS / ROZE,,0,0,0,0
 Maricopa,0748 ZUNI HILLS,President,,NOT QUALIFIED,,10,9,1,0
-Maricopa,,President,,Over Votes,,0,0,0,0
-Maricopa,,President,,Under Votes,,0,0,0,0
-Maricopa,,Registered Voters,,,,0,,,
-Maricopa,,Ballots Cast,,,,0,0,0,0
-Maricopa,,President,,TRUMP / PENCE,REP,0,0,0,0
-Maricopa,,President,,BIDEN / HARRIS,DEM,0,0,0,0
-Maricopa,,President,,JORGENSEN / COHEN,LBT,0,0,0,0
-Maricopa,,President,,Write-in,,0,0,0,0
-Maricopa,,President,,BODDIE / STONEHAM,,0,0,0,0
-Maricopa,,President,,CUMMINGS / HUBER,,0,0,0,0
-Maricopa,,President,,HAWKINS / WALKER,,0,0,0,0
-Maricopa,,President,,LA RIVA / FREEMAN,,0,0,0,0
-Maricopa,,President,,SIMMONS / ROZE,,0,0,0,0
-Maricopa,,President,,NOT QUALIFIED,,0,0,0,0
 Maricopa,0001 ACACIA,U.S. Senate,,"MCSALLY, MARTHA",REP,1426,1213,202,11
 Maricopa,0001 ACACIA,U.S. Senate,,"KELLY, MARK",DEM,1822,1664,142,16
 Maricopa,0001 ACACIA,U.S. Senate,,Write-in,,8,8,0,0
@@ -35398,27 +35384,6 @@ Maricopa,0748 ZUNI HILLS,U.S. Senate,,"STEVENS, JIM",,0,0,0,0
 Maricopa,0748 ZUNI HILLS,U.S. Senate,,"STEWART, BUZZ",,0,0,0,0
 Maricopa,0748 ZUNI HILLS,U.S. Senate,,"THOMAS, PATRICK 'PAT'",,0,0,0,0
 Maricopa,0748 ZUNI HILLS,U.S. Senate,,NOT QUALIFIED,,9,9,0,0
-Maricopa,,U.S. Senate,,"MCSALLY, MARTHA",REP,0,0,0,0
-Maricopa,,U.S. Senate,,"KELLY, MARK",DEM,0,0,0,0
-Maricopa,,U.S. Senate,,Write-in,,0,0,0,0
-Maricopa,,U.S. Senate,,"ARIF, MOHAMMAD 'MIKE OBAMA'",,0,0,0,0
-Maricopa,,U.S. Senate,,"BECKETT, CHRISTOPHER",,0,0,0,0
-Maricopa,,U.S. Senate,,"CHILTON, ADAM",,0,0,0,0
-Maricopa,,U.S. Senate,,"DAVIDA, EDWARD",,0,0,0,0
-Maricopa,,U.S. Senate,,"DECKER, WILLIAM 'WILL'",,0,0,0,0
-Maricopa,,U.S. Senate,,"DORCHESTER, MATTHEW 'DOC'",,0,0,0,0
-Maricopa,,U.S. Senate,,"GLENN, NICHOLAS N.",,0,0,0,0
-Maricopa,,U.S. Senate,,"HAUPT, MATHEW",,0,0,0,0
-Maricopa,,U.S. Senate,,"KAPADIA, PERRY",,0,0,0,0
-Maricopa,,U.S. Senate,,"RODRIGUEZ, BENJAMIN",,0,0,0,0
-Maricopa,,U.S. Senate,,"RODRIGUEZ, JOSHUA",,0,0,0,0
-Maricopa,,U.S. Senate,,"SAENZ, FRANK",,0,0,0,0
-Maricopa,,U.S. Senate,,"SCHIESS, JOHN",,0,0,0,0
-Maricopa,,U.S. Senate,,"SIMMONS, DEBBIE",,0,0,0,0
-Maricopa,,U.S. Senate,,"STEVENS, JIM",,0,0,0,0
-Maricopa,,U.S. Senate,,"STEWART, BUZZ",,0,0,0,0
-Maricopa,,U.S. Senate,,"THOMAS, PATRICK 'PAT'",,0,0,0,0
-Maricopa,,U.S. Senate,,NOT QUALIFIED,,0,0,0,0
 Maricopa,0349 KOMATKE,U.S. House,1,"SHEDD, TIFFANY",REP,59,27,31,1
 Maricopa,0349 KOMATKE,U.S. House,1,"O'HALLERAN, TOM",DEM,355,191,161,3
 Maricopa,0349 KOMATKE,U.S. House,1,Write-in,,1,1,0,0
@@ -35428,9 +35393,6 @@ Maricopa,0376 LONE BUTTE,U.S. House,1,Write-in,,0,0,0,0
 Maricopa,0493 PEE-POSH,U.S. House,1,"SHEDD, TIFFANY",REP,29,15,14,0
 Maricopa,0493 PEE-POSH,U.S. House,1,"O'HALLERAN, TOM",DEM,186,104,79,3
 Maricopa,0493 PEE-POSH,U.S. House,1,Write-in,,0,0,0,0
-Maricopa,,U.S. House,1,"SHEDD, TIFFANY",REP,0,0,0,0
-Maricopa,,U.S. House,1,"O'HALLERAN, TOM",DEM,0,0,0,0
-Maricopa,,U.S. House,1,Write-in,,0,0,0,0
 Maricopa,0016 ALVARADO,U.S. House,3,"WOOD, DANIEL",REP,512,389,113,10
 Maricopa,0016 ALVARADO,U.S. House,3,"GRIJALVA, RAÚL",DEM,1068,937,128,3
 Maricopa,0016 ALVARADO,U.S. House,3,Write-in,,0,0,0,0
@@ -35572,9 +35534,6 @@ Maricopa,0715 WESTAR,U.S. House,3,Write-in,,3,2,1,0
 Maricopa,0727 WHYMAN,U.S. House,3,"WOOD, DANIEL",REP,1945,1651,290,4
 Maricopa,0727 WHYMAN,U.S. House,3,"GRIJALVA, RAÚL",DEM,1937,1764,165,8
 Maricopa,0727 WHYMAN,U.S. House,3,Write-in,,5,5,0,0
-Maricopa,,U.S. House,3,"WOOD, DANIEL",REP,0,0,0,0
-Maricopa,,U.S. House,3,"GRIJALVA, RAÚL",DEM,0,0,0,0
-Maricopa,,U.S. House,3,Write-in,,0,0,0,0
 Maricopa,0007 AGUILA,U.S. House,4,"GOSAR, PAUL",REP,226,166,59,1
 Maricopa,0007 AGUILA,U.S. House,4,"DISANTO, DELINA",DEM,94,70,24,0
 Maricopa,0007 AGUILA,U.S. House,4,Write-in,,0,0,0,0
@@ -35737,15 +35696,6 @@ Maricopa,0740 WITTMANN,U.S. House,4,"OVERHOLSER, DON",,0,0,0,0
 Maricopa,0740 WITTMANN,U.S. House,4,"PEREZ GISSY, ANA",,0,0,0,0
 Maricopa,0740 WITTMANN,U.S. House,4,"ROBINSON, EMILY",,0,0,0,0
 Maricopa,0740 WITTMANN,U.S. House,4,NOT QUALIFIED,,0,0,0,0
-Maricopa,,U.S. House,4,"GOSAR, PAUL",REP,0,0,0,0
-Maricopa,,U.S. House,4,"DISANTO, DELINA",DEM,0,0,0,0
-Maricopa,,U.S. House,4,Write-in,,0,0,0,0
-Maricopa,,U.S. House,4,"BRENNAN, BRETT",,0,0,0,0
-Maricopa,,U.S. House,4,"JONES, MIKO",,0,0,0,0
-Maricopa,,U.S. House,4,"OVERHOLSER, DON",,0,0,0,0
-Maricopa,,U.S. House,4,"PEREZ GISSY, ANA",,0,0,0,0
-Maricopa,,U.S. House,4,"ROBINSON, EMILY",,0,0,0,0
-Maricopa,,U.S. House,4,NOT QUALIFIED,,0,0,0,0
 Maricopa,0005 ADORA,U.S. House,5,"BIGGS, ANDY",REP,4112,3740,365,7
 Maricopa,0005 ADORA,U.S. House,5,"GREENE, JOAN",DEM,2632,2530,100,2
 Maricopa,0005 ADORA,U.S. House,5,Write-in,,6,6,0,0
@@ -36386,11 +36336,6 @@ Maricopa,0735 WILLIAMS FIELD,U.S. House,5,"GREENE, JOAN",DEM,948,896,50,2
 Maricopa,0735 WILLIAMS FIELD,U.S. House,5,Write-in,,0,0,0,0
 Maricopa,0735 WILLIAMS FIELD,U.S. House,5,"STEPHENS, KAREN",,0,0,0,0
 Maricopa,0735 WILLIAMS FIELD,U.S. House,5,NOT QUALIFIED,,0,0,0,0
-Maricopa,,U.S. House,5,"BIGGS, ANDY",REP,0,0,0,0
-Maricopa,,U.S. House,5,"GREENE, JOAN",DEM,0,0,0,0
-Maricopa,,U.S. House,5,Write-in,,0,0,0,0
-Maricopa,,U.S. House,5,"STEPHENS, KAREN",,0,0,0,0
-Maricopa,,U.S. House,5,NOT QUALIFIED,,0,0,0,0
 Maricopa,0001 ACACIA,U.S. House,6,"SCHWEIKERT, DAVID",REP,1398,1184,204,10
 Maricopa,0001 ACACIA,U.S. House,6,"TIPIRNENI, HIRAL",DEM,1762,1622,126,14
 Maricopa,0001 ACACIA,U.S. House,6,Write-in,,6,6,0,0
@@ -36862,9 +36807,6 @@ Maricopa,0742 WOOD,U.S. House,6,Write-in,,7,6,1,0
 Maricopa,0746 YUCCA,U.S. House,6,"SCHWEIKERT, DAVID",REP,846,743,99,4
 Maricopa,0746 YUCCA,U.S. House,6,"TIPIRNENI, HIRAL",DEM,1193,1141,52,0
 Maricopa,0746 YUCCA,U.S. House,6,Write-in,,2,2,0,0
-Maricopa,,U.S. House,6,"SCHWEIKERT, DAVID",REP,0,0,0,0
-Maricopa,,U.S. House,6,"TIPIRNENI, HIRAL",DEM,0,0,0,0
-Maricopa,,U.S. House,6,Write-in,,0,0,0,0
 Maricopa,0003 ACUNA,U.S. House,7,"BARNETT, JOSHUA",REP,274,239,31,4
 Maricopa,0003 ACUNA,U.S. House,7,"GALLEGO, RUBEN",DEM,1659,1478,171,10
 Maricopa,0003 ACUNA,U.S. House,7,Write-in,,3,3,0,0
@@ -37507,12 +37449,6 @@ Maricopa,0738 WILSHIRE,U.S. House,7,Write-in,,8,8,0,0
 Maricopa,0738 WILSHIRE,U.S. House,7,"KIRKHAM, J. TRAVIS",,0,0,0,0
 Maricopa,0738 WILSHIRE,U.S. House,7,"RODRIGUEZ, ROXANNE",,0,0,0,0
 Maricopa,0738 WILSHIRE,U.S. House,7,NOT QUALIFIED,,8,8,0,0
-Maricopa,,U.S. House,7,"BARNETT, JOSHUA",REP,0,0,0,0
-Maricopa,,U.S. House,7,"GALLEGO, RUBEN",DEM,0,0,0,0
-Maricopa,,U.S. House,7,Write-in,,0,0,0,0
-Maricopa,,U.S. House,7,"KIRKHAM, J. TRAVIS",,0,0,0,0
-Maricopa,,U.S. House,7,"RODRIGUEZ, ROXANNE",,0,0,0,0
-Maricopa,,U.S. House,7,NOT QUALIFIED,,0,0,0,0
 Maricopa,0002 ACOMA,U.S. House,8,"LESKO, DEBBIE",REP,1799,1612,182,5
 Maricopa,0002 ACOMA,U.S. House,8,"MUSCATO, MICHAEL",DEM,973,927,45,1
 Maricopa,0002 ACOMA,U.S. House,8,Write-in,,5,5,0,0
@@ -38228,11 +38164,6 @@ Maricopa,0748 ZUNI HILLS,U.S. House,8,"MUSCATO, MICHAEL",DEM,1566,1518,46,2
 Maricopa,0748 ZUNI HILLS,U.S. House,8,Write-in,,2,2,0,0
 Maricopa,0748 ZUNI HILLS,U.S. House,8,"HENDRIX, TALIBAN",,0,0,0,0
 Maricopa,0748 ZUNI HILLS,U.S. House,8,NOT QUALIFIED,,2,2,0,0
-Maricopa,,U.S. House,8,"LESKO, DEBBIE",REP,0,0,0,0
-Maricopa,,U.S. House,8,"MUSCATO, MICHAEL",DEM,0,0,0,0
-Maricopa,,U.S. House,8,Write-in,,0,0,0,0
-Maricopa,,U.S. House,8,"HENDRIX, TALIBAN",,0,0,0,0
-Maricopa,,U.S. House,8,NOT QUALIFIED,,0,0,0,0
 Maricopa,0008 AHWATUKEE,U.S. House,9,"GILES, DAVE",REP,1422,1312,109,1
 Maricopa,0008 AHWATUKEE,U.S. House,9,"STANTON, GREG",DEM,1905,1855,48,2
 Maricopa,0008 AHWATUKEE,U.S. House,9,Write-in,,11,11,0,0
@@ -38653,9 +38584,6 @@ Maricopa,0744 XAVIER,U.S. House,9,Write-in,,4,4,0,0
 Maricopa,0747 YUMA,U.S. House,9,"GILES, DAVE",REP,729,644,81,4
 Maricopa,0747 YUMA,U.S. House,9,"STANTON, GREG",DEM,989,950,38,1
 Maricopa,0747 YUMA,U.S. House,9,Write-in,,2,2,0,0
-Maricopa,,U.S. House,9,"GILES, DAVE",REP,0,0,0,0
-Maricopa,,U.S. House,9,"STANTON, GREG",DEM,0,0,0,0
-Maricopa,,U.S. House,9,Write-in,,0,0,0,0
 Maricopa,0049 BISCUIT FLAT,State Senate,1,"FANN, KAREN ELIZABETH",REP,1897,1730,165,2
 Maricopa,0049 BISCUIT FLAT,State Senate,1,"CARILLO, GILBERT 'GILBERT'",DEM,741,706,33,2
 Maricopa,0049 BISCUIT FLAT,State Senate,1,Write-in,,2,2,0,0
@@ -38704,9 +38632,6 @@ Maricopa,0677 TRAMONTO,State Senate,1,Write-in,,4,2,2,0
 Maricopa,0741 WOLF RUN,State Senate,1,"FANN, KAREN ELIZABETH",REP,2419,2312,105,2
 Maricopa,0741 WOLF RUN,State Senate,1,"CARILLO, GILBERT 'GILBERT'",DEM,918,905,13,0
 Maricopa,0741 WOLF RUN,State Senate,1,Write-in,,1,1,0,0
-Maricopa,,State Senate,1,"FANN, KAREN ELIZABETH",REP,0,0,0,0
-Maricopa,,State Senate,1,"CARILLO, GILBERT 'GILBERT'",DEM,0,0,0,0
-Maricopa,,State Senate,1,Write-in,,0,0,0,0
 Maricopa,0029 ARLINGTON,State Senate,4,"ANGRY, TRAVIS",REP,122,109,13,0
 Maricopa,0029 ARLINGTON,State Senate,4,"OTONDO, LISA",DEM,19,19,0,0
 Maricopa,0029 ARLINGTON,State Senate,4,Write-in,,0,0,0,0
@@ -38761,9 +38686,6 @@ Maricopa,0715 WESTAR,State Senate,4,Write-in,,2,1,1,0
 Maricopa,0734 WILDFLOWER,State Senate,4,"ANGRY, TRAVIS",REP,1445,1266,171,8
 Maricopa,0734 WILDFLOWER,State Senate,4,"OTONDO, LISA",DEM,1665,1528,131,6
 Maricopa,0734 WILDFLOWER,State Senate,4,Write-in,,4,4,0,0
-Maricopa,,State Senate,4,"ANGRY, TRAVIS",REP,0,0,0,0
-Maricopa,,State Senate,4,"OTONDO, LISA",DEM,0,0,0,0
-Maricopa,,State Senate,4,Write-in,,0,0,0,0
 Maricopa,0005 ADORA,State Senate,12,"PETERSEN, WARREN",REP,4088,3718,364,6
 Maricopa,0005 ADORA,State Senate,12,"ROBINSON, LYNSEY",DEM,2565,2474,89,2
 Maricopa,0005 ADORA,State Senate,12,Write-in,,4,4,0,0
@@ -38875,9 +38797,6 @@ Maricopa,0679 TRILOGY,State Senate,12,Write-in,,5,3,2,0
 Maricopa,0724 WHITEWING,State Senate,12,"PETERSEN, WARREN",REP,2395,2111,278,6
 Maricopa,0724 WHITEWING,State Senate,12,"ROBINSON, LYNSEY",DEM,1492,1435,56,1
 Maricopa,0724 WHITEWING,State Senate,12,Write-in,,5,5,0,0
-Maricopa,,State Senate,12,"PETERSEN, WARREN",REP,0,0,0,0
-Maricopa,,State Senate,12,"ROBINSON, LYNSEY",DEM,0,0,0,0
-Maricopa,,State Senate,12,Write-in,,0,0,0,0
 Maricopa,0007 AGUILA,State Senate,13,"KERR, SINE",REP,255,185,70,0
 Maricopa,0007 AGUILA,State Senate,13,Write-in,,7,6,1,0
 Maricopa,0007 AGUILA,State Senate,13,"BACKUS, BRENT",,0,0,0,0
@@ -38994,10 +38913,6 @@ Maricopa,0740 WITTMANN,State Senate,13,"KERR, SINE",REP,1995,1764,222,9
 Maricopa,0740 WITTMANN,State Senate,13,Write-in,,40,39,1,0
 Maricopa,0740 WITTMANN,State Senate,13,"BACKUS, BRENT",,5,5,0,0
 Maricopa,0740 WITTMANN,State Senate,13,NOT QUALIFIED,,35,34,1,0
-Maricopa,,State Senate,13,"KERR, SINE",REP,0,0,0,0
-Maricopa,,State Senate,13,Write-in,,0,0,0,0
-Maricopa,,State Senate,13,"BACKUS, BRENT",,0,0,0,0
-Maricopa,,State Senate,13,NOT QUALIFIED,,0,0,0,0
 Maricopa,0004 ADOBE,State Senate,15,"BARTO, NANCY",REP,1424,1275,149,0
 Maricopa,0004 ADOBE,State Senate,15,Write-in,,81,80,1,0
 Maricopa,0004 ADOBE,State Senate,15,"SMITH, MATT",,24,24,0,0
@@ -39166,10 +39081,6 @@ Maricopa,0732 WIKIEUP,State Senate,15,"BARTO, NANCY",REP,994,880,113,1
 Maricopa,0732 WIKIEUP,State Senate,15,Write-in,,62,59,3,0
 Maricopa,0732 WIKIEUP,State Senate,15,"SMITH, MATT",,22,22,0,0
 Maricopa,0732 WIKIEUP,State Senate,15,NOT QUALIFIED,,40,37,3,0
-Maricopa,,State Senate,15,"BARTO, NANCY",REP,0,0,0,0
-Maricopa,,State Senate,15,Write-in,,0,0,0,0
-Maricopa,,State Senate,15,"SMITH, MATT",,0,0,0,0
-Maricopa,,State Senate,15,NOT QUALIFIED,,0,0,0,0
 Maricopa,0022 APACHE,State Senate,16,"TOWNSEND, KELLY",REP,976,886,88,2
 Maricopa,0022 APACHE,State Senate,16,Write-in,,39,39,0,0
 Maricopa,0022 APACHE,State Senate,16,"FIERRO, NICK",,7,7,0,0
@@ -39320,12 +39231,6 @@ Maricopa,0735 WILLIAMS FIELD,State Senate,16,"FIERRO, NICK",,26,26,0,0
 Maricopa,0735 WILLIAMS FIELD,State Senate,16,"GRAYSON, RICHARD",,46,45,1,0
 Maricopa,0735 WILLIAMS FIELD,State Senate,16,"HART, JOHN ROSS",,3,3,0,0
 Maricopa,0735 WILLIAMS FIELD,State Senate,16,NOT QUALIFIED,,70,64,6,0
-Maricopa,,State Senate,16,"TOWNSEND, KELLY",REP,0,0,0,0
-Maricopa,,State Senate,16,Write-in,,0,0,0,0
-Maricopa,,State Senate,16,"FIERRO, NICK",,0,0,0,0
-Maricopa,,State Senate,16,"GRAYSON, RICHARD",,0,0,0,0
-Maricopa,,State Senate,16,"HART, JOHN ROSS",,0,0,0,0
-Maricopa,,State Senate,16,NOT QUALIFIED,,0,0,0,0
 Maricopa,0010 ALAMO,State Senate,17,"MESNARD, J.D.",REP,1314,1120,191,3
 Maricopa,0010 ALAMO,State Senate,17,"KURDOGLU, AJLAN 'A.J.'",DEM,1667,1514,150,3
 Maricopa,0010 ALAMO,State Senate,17,Write-in,,7,4,3,0
@@ -39446,9 +39351,6 @@ Maricopa,0691 VELERO,State Senate,17,Write-in,,1,1,0,0
 Maricopa,0692 VERANO,State Senate,17,"MESNARD, J.D.",REP,1238,1118,117,3
 Maricopa,0692 VERANO,State Senate,17,"KURDOGLU, AJLAN 'A.J.'",DEM,1378,1296,80,2
 Maricopa,0692 VERANO,State Senate,17,Write-in,,1,1,0,0
-Maricopa,,State Senate,17,"MESNARD, J.D.",REP,0,0,0,0
-Maricopa,,State Senate,17,"KURDOGLU, AJLAN 'A.J.'",DEM,0,0,0,0
-Maricopa,,State Senate,17,Write-in,,0,0,0,0
 Maricopa,0008 AHWATUKEE,State Senate,18,"SHARER, SUZANNE",REP,1422,1309,111,2
 Maricopa,0008 AHWATUKEE,State Senate,18,"BOWIE, SEAN",DEM,1865,1821,44,0
 Maricopa,0008 AHWATUKEE,State Senate,18,Write-in,,8,8,0,0
@@ -39572,9 +39474,6 @@ Maricopa,0739 WINDMERE,State Senate,18,Write-in,,8,4,4,0
 Maricopa,0743 WOODGLEN,State Senate,18,"SHARER, SUZANNE",REP,1203,1043,158,2
 Maricopa,0743 WOODGLEN,State Senate,18,"BOWIE, SEAN",DEM,1822,1711,106,5
 Maricopa,0743 WOODGLEN,State Senate,18,Write-in,,4,4,0,0
-Maricopa,,State Senate,18,"SHARER, SUZANNE",REP,0,0,0,0
-Maricopa,,State Senate,18,"BOWIE, SEAN",DEM,0,0,0,0
-Maricopa,,State Senate,18,Write-in,,0,0,0,0
 Maricopa,0016 ALVARADO,State Senate,19,"CHAVIRA CONTRERAS, LUPE",DEM,1222,1053,162,7
 Maricopa,0016 ALVARADO,State Senate,19,Write-in,,39,29,9,1
 Maricopa,0037 AVONDALE,State Senate,19,"CHAVIRA CONTRERAS, LUPE",DEM,1006,876,120,10
@@ -39633,8 +39532,6 @@ Maricopa,0710 WELDON,State Senate,19,"CHAVIRA CONTRERAS, LUPE",DEM,940,806,133,1
 Maricopa,0710 WELDON,State Senate,19,Write-in,,38,35,3,0
 Maricopa,0719 WESTRIDGE,State Senate,19,"CHAVIRA CONTRERAS, LUPE",DEM,1602,1350,245,7
 Maricopa,0719 WESTRIDGE,State Senate,19,Write-in,,50,41,8,1
-Maricopa,,State Senate,19,"CHAVIRA CONTRERAS, LUPE",DEM,0,0,0,0
-Maricopa,,State Senate,19,Write-in,,0,0,0,0
 Maricopa,0001 ACACIA,State Senate,20,"BOYER, PAUL",REP,1474,1265,202,7
 Maricopa,0001 ACACIA,State Senate,20,"ERVIN, DOUGLAS",DEM,1662,1517,130,15
 Maricopa,0001 ACACIA,State Senate,20,Write-in,,3,3,0,0
@@ -39776,9 +39673,6 @@ Maricopa,0683 TURF PARADISE,State Senate,20,Write-in,,1,1,0,0
 Maricopa,0742 WOOD,State Senate,20,"BOYER, PAUL",REP,1153,1002,147,4
 Maricopa,0742 WOOD,State Senate,20,"ERVIN, DOUGLAS",DEM,1065,985,78,2
 Maricopa,0742 WOOD,State Senate,20,Write-in,,3,2,1,0
-Maricopa,,State Senate,20,"BOYER, PAUL",REP,0,0,0,0
-Maricopa,,State Senate,20,"ERVIN, DOUGLAS",DEM,0,0,0,0
-Maricopa,,State Senate,20,Write-in,,0,0,0,0
 Maricopa,0002 ACOMA,State Senate,21,"GRAY, RICK",REP,2023,1831,189,3
 Maricopa,0002 ACOMA,State Senate,21,Write-in,,69,68,1,0
 Maricopa,0006 AGUA FRIA,State Senate,21,"GRAY, RICK",REP,957,911,46,0
@@ -39863,8 +39757,6 @@ Maricopa,0718 WESTGREEN PARK,State Senate,21,"GRAY, RICK",REP,1592,1448,140,4
 Maricopa,0718 WESTGREEN PARK,State Senate,21,Write-in,,79,75,3,1
 Maricopa,0745 YOUNGTOWN,State Senate,21,"GRAY, RICK",REP,1677,1420,248,9
 Maricopa,0745 YOUNGTOWN,State Senate,21,Write-in,,89,81,8,0
-Maricopa,,State Senate,21,"GRAY, RICK",REP,0,0,0,0
-Maricopa,,State Senate,21,Write-in,,0,0,0,0
 Maricopa,0013 ALPACA,State Senate,22,"LIVINGSTON, DAVID",REP,980,958,20,2
 Maricopa,0013 ALPACA,State Senate,22,"TYREE, SARAH",DEM,577,574,2,1
 Maricopa,0013 ALPACA,State Senate,22,Write-in,,3,3,0,0
@@ -40009,9 +39901,6 @@ Maricopa,0737 WILLOW CANYON,State Senate,22,Write-in,,3,3,0,0
 Maricopa,0748 ZUNI HILLS,State Senate,22,"LIVINGSTON, DAVID",REP,3598,3264,325,9
 Maricopa,0748 ZUNI HILLS,State Senate,22,"TYREE, SARAH",DEM,1516,1466,47,3
 Maricopa,0748 ZUNI HILLS,State Senate,22,Write-in,,6,6,0,0
-Maricopa,,State Senate,22,"LIVINGSTON, DAVID",REP,0,0,0,0
-Maricopa,,State Senate,22,"TYREE, SARAH",DEM,0,0,0,0
-Maricopa,,State Senate,22,Write-in,,0,0,0,0
 Maricopa,0060 BRONCO,State Senate,23,"UGENTI-RITA, MICHELLE",REP,2038,1865,171,2
 Maricopa,0060 BRONCO,State Senate,23,"BLATTMAN, SETH",DEM,1181,1150,31,0
 Maricopa,0060 BRONCO,State Senate,23,Write-in,,1,1,0,0
@@ -40297,11 +40186,6 @@ Maricopa,0747 YUMA,State Senate,23,"BLATTMAN, SETH",DEM,922,884,37,1
 Maricopa,0747 YUMA,State Senate,23,Write-in,,4,4,0,0
 Maricopa,0747 YUMA,State Senate,23,"KIRSCH, KYLE",,2,2,0,0
 Maricopa,0747 YUMA,State Senate,23,NOT QUALIFIED,,2,2,0,0
-Maricopa,,State Senate,23,"UGENTI-RITA, MICHELLE",REP,0,0,0,0
-Maricopa,,State Senate,23,"BLATTMAN, SETH",DEM,0,0,0,0
-Maricopa,,State Senate,23,Write-in,,0,0,0,0
-Maricopa,,State Senate,23,"KIRSCH, KYLE",,0,0,0,0
-Maricopa,,State Senate,23,NOT QUALIFIED,,0,0,0,0
 Maricopa,0040 BALSZ,State Senate,24,"MICHAELS, RAY",REP,608,495,108,5
 Maricopa,0040 BALSZ,State Senate,24,"ALSTON, LELA",DEM,2160,1934,212,14
 Maricopa,0040 BALSZ,State Senate,24,Write-in,,9,5,3,1
@@ -40422,9 +40306,6 @@ Maricopa,0738 WILSHIRE,State Senate,24,Write-in,,5,5,0,0
 Maricopa,0744 XAVIER,State Senate,24,"MICHAELS, RAY",REP,658,545,112,1
 Maricopa,0744 XAVIER,State Senate,24,"ALSTON, LELA",DEM,1856,1730,125,1
 Maricopa,0744 XAVIER,State Senate,24,Write-in,,6,6,0,0
-Maricopa,,State Senate,24,"MICHAELS, RAY",REP,0,0,0,0
-Maricopa,,State Senate,24,"ALSTON, LELA",DEM,0,0,0,0
-Maricopa,,State Senate,24,Write-in,,0,0,0,0
 Maricopa,0024 APACHE WELLS,State Senate,25,"PACE, TYLER",REP,2676,2446,225,5
 Maricopa,0024 APACHE WELLS,State Senate,25,"WEIGEL, PAUL",DEM,1510,1458,51,1
 Maricopa,0024 APACHE WELLS,State Senate,25,Write-in,,7,7,0,0
@@ -40551,9 +40432,6 @@ Maricopa,0688 VALENCIA GROVES,State Senate,25,Write-in,,4,4,0,0
 Maricopa,0721 WESTWOOD,State Senate,25,"PACE, TYLER",REP,1270,1146,121,3
 Maricopa,0721 WESTWOOD,State Senate,25,"WEIGEL, PAUL",DEM,874,804,67,3
 Maricopa,0721 WESTWOOD,State Senate,25,Write-in,,5,4,1,0
-Maricopa,,State Senate,25,"PACE, TYLER",REP,0,0,0,0
-Maricopa,,State Senate,25,"WEIGEL, PAUL",DEM,0,0,0,0
-Maricopa,,State Senate,25,Write-in,,0,0,0,0
 Maricopa,0039 BALBOA,State Senate,26,"CHIN, JAE",REP,976,866,106,4
 Maricopa,0039 BALBOA,State Senate,26,"MENDEZ, JUAN",DEM,1899,1772,120,7
 Maricopa,0039 BALBOA,State Senate,26,Write-in,,8,8,0,0
@@ -40656,9 +40534,6 @@ Maricopa,0689 VAN NESS,State Senate,26,Write-in,,6,4,2,0
 Maricopa,0694 VICTORY,State Senate,26,"CHIN, JAE",REP,685,566,115,4
 Maricopa,0694 VICTORY,State Senate,26,"MENDEZ, JUAN",DEM,1279,1159,115,5
 Maricopa,0694 VICTORY,State Senate,26,Write-in,,6,5,1,0
-Maricopa,,State Senate,26,"CHIN, JAE",REP,0,0,0,0
-Maricopa,,State Senate,26,"MENDEZ, JUAN",DEM,0,0,0,0
-Maricopa,,State Senate,26,Write-in,,0,0,0,0
 Maricopa,0028 ARDMORE,State Senate,27,"SHREVES, GARLAND",REP,833,738,92,3
 Maricopa,0028 ARDMORE,State Senate,27,"RIOS, REBECCA",DEM,2344,2236,105,3
 Maricopa,0028 ARDMORE,State Senate,27,Write-in,,3,3,0,0
@@ -40770,9 +40645,6 @@ Maricopa,0649 SUNLAND,State Senate,27,Write-in,,7,5,2,0
 Maricopa,0697 VINEYARD,State Senate,27,"SHREVES, GARLAND",REP,882,787,92,3
 Maricopa,0697 VINEYARD,State Senate,27,"RIOS, REBECCA",DEM,2062,1928,126,8
 Maricopa,0697 VINEYARD,State Senate,27,Write-in,,7,7,0,0
-Maricopa,,State Senate,27,"SHREVES, GARLAND",REP,0,0,0,0
-Maricopa,,State Senate,27,"RIOS, REBECCA",DEM,0,0,0,0
-Maricopa,,State Senate,27,Write-in,,0,0,0,0
 Maricopa,0017 AMBER,State Senate,28,"BROPHY MCGEE, KATE",REP,763,686,75,2
 Maricopa,0017 AMBER,State Senate,28,"MARSH, CHRISTINE",DEM,726,708,18,0
 Maricopa,0017 AMBER,State Senate,28,Write-in,,1,1,0,0
@@ -40944,9 +40816,6 @@ Maricopa,0736 WILLOW,State Senate,28,Write-in,,2,2,0,0
 Maricopa,0746 YUCCA,State Senate,28,"BROPHY MCGEE, KATE",REP,958,847,107,4
 Maricopa,0746 YUCCA,State Senate,28,"MARSH, CHRISTINE",DEM,1066,1024,42,0
 Maricopa,0746 YUCCA,State Senate,28,Write-in,,1,1,0,0
-Maricopa,,State Senate,28,"BROPHY MCGEE, KATE",REP,0,0,0,0
-Maricopa,,State Senate,28,"MARSH, CHRISTINE",DEM,0,0,0,0
-Maricopa,,State Senate,28,Write-in,,0,0,0,0
 Maricopa,0003 ACUNA,State Senate,29,"WILSON, JOHN",REP,278,242,32,4
 Maricopa,0003 ACUNA,State Senate,29,"QUEZADA, MARTÍN J.",DEM,1655,1472,174,9
 Maricopa,0003 ACUNA,State Senate,29,Write-in,,2,2,0,0
@@ -41112,11 +40981,6 @@ Maricopa,0731 WIGWAM CREEK,State Senate,29,"QUEZADA, MARTÍN J.",DEM,1289,1194,8
 Maricopa,0731 WIGWAM CREEK,State Senate,29,Write-in,,4,3,1,0
 Maricopa,0731 WIGWAM CREEK,State Senate,29,"CARPENTER, CHARLES",,1,0,1,0
 Maricopa,0731 WIGWAM CREEK,State Senate,29,NOT QUALIFIED,,3,3,0,0
-Maricopa,,State Senate,29,"WILSON, JOHN",REP,0,0,0,0
-Maricopa,,State Senate,29,"QUEZADA, MARTÍN J.",DEM,0,0,0,0
-Maricopa,,State Senate,29,Write-in,,0,0,0,0
-Maricopa,,State Senate,29,"CARPENTER, CHARLES",,0,0,0,0
-Maricopa,,State Senate,29,NOT QUALIFIED,,0,0,0,0
 Maricopa,0012 ALHAMBRA,State Senate,30,"NAVARRETE, OTONIEL 'TONY'",DEM,635,556,77,2
 Maricopa,0012 ALHAMBRA,State Senate,30,Write-in,,18,18,0,0
 Maricopa,0034 AUGUSTA,State Senate,30,"NAVARRETE, OTONIEL 'TONY'",DEM,617,567,50,0
@@ -41175,8 +41039,6 @@ Maricopa,0675 TOWNLEY,State Senate,30,"NAVARRETE, OTONIEL 'TONY'",DEM,686,597,83
 Maricopa,0675 TOWNLEY,State Senate,30,Write-in,,23,20,3,0
 Maricopa,0712 WEST PLAZA,State Senate,30,"NAVARRETE, OTONIEL 'TONY'",DEM,1669,1481,180,8
 Maricopa,0712 WEST PLAZA,State Senate,30,Write-in,,67,48,19,0
-Maricopa,,State Senate,30,"NAVARRETE, OTONIEL 'TONY'",DEM,0,0,0,0
-Maricopa,,State Senate,30,Write-in,,0,0,0,0
 Graham,Solomon #1,President,,Trump / Pence,REP,534,,,
 Graham,Solomon #1,President,,Biden / Harris,DEM,242,,,
 Graham,Solomon #1,President,,Jorgensen / Cohen,LBT,5,,,
