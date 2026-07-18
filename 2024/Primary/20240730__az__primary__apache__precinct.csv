@@ -184,13 +184,13 @@ Apache,02 ALPINE,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,02 ALPINE,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,02 ALPINE,,,1,NOL,Overvotes,0,0,0,0
 Apache,02 ALPINE,,,1,NOL,Undervotes,0,0,0,0
-Apache,03 CANYON DE CHELLY,"Registered Voters - Total ",,,,,3707,3707,3707,3707
-Apache,03 CANYON DE CHELLY,"Registered Voters - Democratic ",,,DEM,,2150,2150,2150,2150
+Apache,03 CANYON DE CHELLY,Registered Voters - Total,,,,,3707,3707,3707,3707
+Apache,03 CANYON DE CHELLY,Registered Voters - Democratic,,,DEM,,2150,2150,2150,2150
 Apache,03 CANYON DE CHELLY,Registered Voters - Republican,,,REP,,393,393,393,393
 Apache,03 CANYON DE CHELLY,Registered Voters - Libertarian,,,LBT,,7,7,7,7
 Apache,03 CANYON DE CHELLY,Registered Voters - Green,,,GRN,,2,2,2,2
 Apache,03 CANYON DE CHELLY,Registered Voters - No Labels,,,NOL,,9,9,9,9
-Apache,03 CANYON DE CHELLY,"Registered Voters - Nonpartisan ",,,Nonpartisan,,1146,1146,1146,1146
+Apache,03 CANYON DE CHELLY,Registered Voters - Nonpartisan,,,Nonpartisan,,1146,1146,1146,1146
 Apache,03 CANYON DE CHELLY,Ballots Cast - Total,,,,,918,522,396,0
 Apache,03 CANYON DE CHELLY,Ballots Cast - Democratic,,,DEM,,819,471,348,0
 Apache,03 CANYON DE CHELLY,Ballots Cast - Republican,,,REP,,95,48,47,0
@@ -369,8 +369,8 @@ Apache,03 CANYON DE CHELLY,Corporation Commissioner,,3,GRN,Undervotes,1,1,0,0
 Apache,03 CANYON DE CHELLY,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,03 CANYON DE CHELLY,,,1,NOL,Overvotes,0,0,0,0
 Apache,03 CANYON DE CHELLY,,,1,NOL,Undervotes,1,0,1,0
-Apache,05 CHINLE,"Registered Voters - Total ",,,,,1994,1994,1994,1994
-Apache,05 CHINLE,"Registered Voters - Democratic ",,,DEM,,1097,1097,1097,1097
+Apache,05 CHINLE,Registered Voters - Total,,,,,1994,1994,1994,1994
+Apache,05 CHINLE,Registered Voters - Democratic,,,DEM,,1097,1097,1097,1097
 Apache,05 CHINLE,Registered Voters - Republican,,,REP,,217,217,217,217
 Apache,05 CHINLE,Registered Voters - Libertarian,,,LBT,,5,5,5,5
 Apache,05 CHINLE,Registered Voters - Green,,,GRN,,1,1,1,1
@@ -554,9 +554,9 @@ Apache,05 CHINLE,Corporation Commissioner,,3,GRN,Undervotes,2,0,2,0
 Apache,05 CHINLE,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,05 CHINLE,,,1,NOL,Overvotes,0,0,0,0
 Apache,05 CHINLE,,,1,NOL,Undervotes,1,0,1,0
-Apache,09 CONCHO,"Registered Voters - Total ",,,,,2531,2531,2531,2531
+Apache,09 CONCHO,Registered Voters - Total,,,,,2531,2531,2531,2531
 Apache,09 CONCHO,Registered Voters - Democratic,,,DEM,,296,296,296,296
-Apache,09 CONCHO,"Registered Voters - Republican ",,,REP,,1414,1414,1414,1414
+Apache,09 CONCHO,Registered Voters - Republican,,,REP,,1414,1414,1414,1414
 Apache,09 CONCHO,Registered Voters - Libertarian,,,LBT,,36,36,36,36
 Apache,09 CONCHO,Registered Voters - Green,,,GRN,,1,1,1,1
 Apache,09 CONCHO,Registered Voters - No Labels,,,NOL,,19,19,19,19
@@ -926,7 +926,7 @@ Apache,10 CORNFIELDS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,10 CORNFIELDS,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,10 CORNFIELDS,,,1,NOL,Overvotes,0,0,0,0
 Apache,10 CORNFIELDS,,,1,NOL,Undervotes,1,0,1,0
-Apache,11 COTTONWOOD,"Registered Voters - Total ",,,,,1252,1252,1252,1252
+Apache,11 COTTONWOOD,Registered Voters - Total,,,,,1252,1252,1252,1252
 Apache,11 COTTONWOOD,Registered Voters - Democratic,,,DEM,,814,814,814,814
 Apache,11 COTTONWOOD,Registered Voters - Republican,,,REP,,108,108,108,108
 Apache,11 COTTONWOOD,Registered Voters - Libertarian,,,LBT,,4,4,4,4
@@ -1113,7 +1113,7 @@ Apache,11 COTTONWOOD,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,11 COTTONWOOD,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,11 COTTONWOOD,,,1,NOL,Overvotes,0,0,0,0
 Apache,11 COTTONWOOD,,,1,NOL,Undervotes,0,0,0,0
-Apache,12 CORONADO,"Registered Voters - Total ",,,,,1217,1217,1217,1217
+Apache,12 CORONADO,Registered Voters - Total,,,,,1217,1217,1217,1217
 Apache,12 CORONADO,Registered Voters - Democratic,,,DEM,,175,175,175,175
 Apache,12 CORONADO,Registered Voters - Republican,,,REP,,638,638,638,638
 Apache,12 CORONADO,Registered Voters - Libertarian,,,LBT,,9,9,9,9
@@ -1311,7 +1311,7 @@ Apache,12 CORONADO,Prop #408,,1,,NO,61,38,22,1
 Apache,12 CORONADO,Prop #408,,1,,Total Votes Cast,252,148,103,1
 Apache,12 CORONADO,Prop #408,,1,,Overvotes,0,0,0,0
 Apache,12 CORONADO,Prop #408,,1,,Undervotes,37,18,19,0
-Apache,13 DENNEHOTSO,"Registered Voters - Total ",,,,,1113,1113,1113,1113
+Apache,13 DENNEHOTSO,Registered Voters - Total,,,,,1113,1113,1113,1113
 Apache,13 DENNEHOTSO,Registered Voters - Democratic,,,DEM,,610,610,610,610
 Apache,13 DENNEHOTSO,Registered Voters - Republican,,,REP,,124,124,124,124
 Apache,13 DENNEHOTSO,Registered Voters - Libertarian,,,LBT,,5,5,5,5
@@ -1496,7 +1496,7 @@ Apache,13 DENNEHOTSO,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,13 DENNEHOTSO,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,13 DENNEHOTSO,,,1,NOL,Overvotes,0,0,0,0
 Apache,13 DENNEHOTSO,,,1,NOL,Undervotes,0,0,0,0
-Apache,16 EAGAR,"Registered Voters - Total ",,,,,1206,1206,1206,1206
+Apache,16 EAGAR,Registered Voters - Total,,,,,1206,1206,1206,1206
 Apache,16 EAGAR,Registered Voters - Democratic,,,DEM,,151,151,151,151
 Apache,16 EAGAR,Registered Voters - Republican,,,REP,,729,729,729,729
 Apache,16 EAGAR,Registered Voters - Libertarian,,,LBT,,9,9,9,9
@@ -1693,7 +1693,7 @@ Apache,16 EAGAR,Council Member,,2,,Write-In Totals,4,4,0,0
 Apache,16 EAGAR,Council Member,,2,,Total Votes Cast,755,574,162,19
 Apache,16 EAGAR,Council Member,,2,,Overvotes,0,0,0,0
 Apache,16 EAGAR,Council Member,,2,,Undervotes,257,204,44,9
-Apache,17 FLAT TOP,"Registered Voters - Total ",,,,,1064,1064,1064,1064
+Apache,17 FLAT TOP,Registered Voters - Total,,,,,1064,1064,1064,1064
 Apache,17 FLAT TOP,Registered Voters - Democratic,,,DEM,,111,111,111,111
 Apache,17 FLAT TOP,Registered Voters - Republican,,,REP,,629,629,629,629
 Apache,17 FLAT TOP,Registered Voters - Libertarian,,,LBT,,5,5,5,5
@@ -1897,8 +1897,8 @@ Apache,17 FLAT TOP,Council Member,Town of Springerville,2,,Write-In Totals,0,0,0
 Apache,17 FLAT TOP,Council Member,Town of Springerville,2,,Total Votes Cast,0,0,0,0
 Apache,17 FLAT TOP,Council Member,Town of Springerville,2,,Overvotes,0,0,0,0
 Apache,17 FLAT TOP,Council Member,Town of Springerville,2,,Undervotes,0,0,0,0
-Apache,19 FT. DEFIANCE,"Registered Voters - Total ",,,,,3109,3109,3109,3109
-Apache,19 FT. DEFIANCE,"Registered Voters - Democratic ",,,DEM,,1909,1909,1909,1909
+Apache,19 FT. DEFIANCE,Registered Voters - Total,,,,,3109,3109,3109,3109
+Apache,19 FT. DEFIANCE,Registered Voters - Democratic,,,DEM,,1909,1909,1909,1909
 Apache,19 FT. DEFIANCE,Registered Voters - Republican,,,REP,,394,394,394,394
 Apache,19 FT. DEFIANCE,Registered Voters - Libertarian,,,LBT,,8,8,8,8
 Apache,19 FT. DEFIANCE,Registered Voters - Green,,,GRN,,4,4,4,4
@@ -2271,7 +2271,7 @@ Apache,22 GANADO NORTH,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,22 GANADO NORTH,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,22 GANADO NORTH,,,1,NOL,Overvotes,0,0,0,0
 Apache,22 GANADO NORTH,,,1,NOL,Undervotes,0,0,0,0
-Apache,23 GANADO SOUTH,"Registered Voters - Total ",,,,,1302,1302,1302,1302
+Apache,23 GANADO SOUTH,Registered Voters - Total,,,,,1302,1302,1302,1302
 Apache,23 GANADO SOUTH,Registered Voters - Democratic,,,DEM,,833,833,833,833
 Apache,23 GANADO SOUTH,Registered Voters - Republican,,,REP,,163,163,163,163
 Apache,23 GANADO SOUTH,Registered Voters - Libertarian,,,LBT,,7,7,7,7
@@ -2643,7 +2643,7 @@ Apache,25 GREER,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,25 GREER,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,25 GREER,,,1,NOL,Overvotes,0,0,0,0
 Apache,25 GREER,,,1,NOL,Undervotes,0,0,0,0
-Apache,27 HOUCK,"Registered Voters - Total ",,,,,1047,1047,1047,1047
+Apache,27 HOUCK,Registered Voters - Total,,,,,1047,1047,1047,1047
 Apache,27 HOUCK,Registered Voters - Democratic,,,DEM,,646,646,646,646
 Apache,27 HOUCK,Registered Voters - Republican,,,REP,,143,143,143,143
 Apache,27 HOUCK,Registered Voters - Libertarian,,,LBT,,6,6,6,6
@@ -3204,8 +3204,8 @@ Apache,31 KLAGETOH,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,31 KLAGETOH,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,31 KLAGETOH,,,1,NOL,Overvotes,0,0,0,0
 Apache,31 KLAGETOH,,,1,NOL,Undervotes,2,0,1,1
-Apache,33 LUKACHUKAI,"Registered Voters - Total ",,,,,1800,1800,1800,1800
-Apache,33 LUKACHUKAI,"Registered Voters - Democratic ",,,DEM,,1161,1161,1161,1161
+Apache,33 LUKACHUKAI,Registered Voters - Total,,,,,1800,1800,1800,1800
+Apache,33 LUKACHUKAI,Registered Voters - Democratic,,,DEM,,1161,1161,1161,1161
 Apache,33 LUKACHUKAI,Registered Voters - Republican,,,REP,,122,122,122,122
 Apache,33 LUKACHUKAI,Registered Voters - Libertarian,,,LBT,,3,3,3,3
 Apache,33 LUKACHUKAI,Registered Voters - Green,,,GRN,,0,0,0,0
@@ -3759,8 +3759,8 @@ Apache,37 MCNARY,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,37 MCNARY,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,37 MCNARY,,,1,NOL,Overvotes,0,0,0,0
 Apache,37 MCNARY,,,1,NOL,Undervotes,0,0,0,0
-Apache,39 MANY FARMS,"Registered Voters - Total ",,,,,1971,1971,1971,1971
-Apache,39 MANY FARMS,"Registered Voters - Democratic ",,,DEM,,1234,1234,1234,1234
+Apache,39 MANY FARMS,Registered Voters - Total,,,,,1971,1971,1971,1971
+Apache,39 MANY FARMS,Registered Voters - Democratic,,,DEM,,1234,1234,1234,1234
 Apache,39 MANY FARMS,Registered Voters - Republican,,,REP,,153,153,153,153
 Apache,39 MANY FARMS,Registered Voters - Libertarian,,,LBT,,9,9,9,9
 Apache,39 MANY FARMS,Registered Voters - Green,,,GRN,,0,0,0,0
@@ -4129,7 +4129,7 @@ Apache,41 MEXICAN WATER,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,41 MEXICAN WATER,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,41 MEXICAN WATER,,,1,NOL,Overvotes,0,0,0,0
 Apache,41 MEXICAN WATER,,,1,NOL,Undervotes,0,0,0,0
-Apache,43 NAZLINI,"Registered Voters - Total ",,,,,1029,1029,1029,1029
+Apache,43 NAZLINI,Registered Voters - Total,,,,,1029,1029,1029,1029
 Apache,43 NAZLINI,Registered Voters - Democratic,,,DEM,,679,679,679,679
 Apache,43 NAZLINI,Registered Voters - Republican,,,REP,,94,94,94,94
 Apache,43 NAZLINI,Registered Voters - Libertarian,,,LBT,,0,0,0,0
@@ -4686,7 +4686,7 @@ Apache,46 OAK SPRINGS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,46 OAK SPRINGS,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,46 OAK SPRINGS,,,1,NOL,Overvotes,0,0,0,0
 Apache,46 OAK SPRINGS,,,1,NOL,Undervotes,1,0,1,0
-Apache,48 PUERCO,"Registered Voters - Total ",,,,,1451,1451,1451,1451
+Apache,48 PUERCO,Registered Voters - Total,,,,,1451,1451,1451,1451
 Apache,48 PUERCO,Registered Voters - Democratic,,,DEM,,792,792,792,792
 Apache,48 PUERCO,Registered Voters - Republican,,,REP,,263,263,263,263
 Apache,48 PUERCO,Registered Voters - Libertarian,,,LBT,,5,5,5,5
@@ -5241,7 +5241,7 @@ Apache,52 RED VALLEY,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,52 RED VALLEY,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,52 RED VALLEY,,,1,NOL,Overvotes,0,0,0,0
 Apache,52 RED VALLEY,,,1,NOL,Undervotes,0,0,0,0
-Apache,54 ROCK POINT,"Registered Voters - Total ",,,,,1379,1379,1379,1379
+Apache,54 ROCK POINT,Registered Voters - Total,,,,,1379,1379,1379,1379
 Apache,54 ROCK POINT,Registered Voters - Democratic,,,DEM,,842,842,842,842
 Apache,54 ROCK POINT,Registered Voters - Republican,,,REP,,113,113,113,113
 Apache,54 ROCK POINT,Registered Voters - Libertarian,,,LBT,,4,4,4,4
@@ -5611,7 +5611,7 @@ Apache,56 ROUGH ROCK,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,56 ROUGH ROCK,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,56 ROUGH ROCK,,,1,NOL,Overvotes,0,0,0,0
 Apache,56 ROUGH ROCK,,,1,NOL,Undervotes,0,0,0,0
-Apache,58 ROUND ROCK,"Registered Voters - Total ",,,,,1035,1035,1035,1035
+Apache,58 ROUND ROCK,Registered Voters - Total,,,,,1035,1035,1035,1035
 Apache,58 ROUND ROCK,Registered Voters - Democratic,,,DEM,,713,713,713,713
 Apache,58 ROUND ROCK,Registered Voters - Republican,,,REP,,70,70,70,70
 Apache,58 ROUND ROCK,Registered Voters - Libertarian,,,LBT,,5,5,5,5
@@ -6000,7 +6000,7 @@ Apache,59 ROUND VALLEY,Council Member,Town of Springerville,2,,Write-In Totals,0
 Apache,59 ROUND VALLEY,Council Member,Town of Springerville,2,,Total Votes Cast,43,31,12,0
 Apache,59 ROUND VALLEY,Council Member,Town of Springerville,2,,Overvotes,0,0,0,0
 Apache,59 ROUND VALLEY,Council Member,Town of Springerville,2,,Undervotes,9,7,2,0
-Apache,61 ST. JOHNS,"Registered Voters - Total ",,,,,1384,1384,1384,1384
+Apache,61 ST. JOHNS,Registered Voters - Total,,,,,1384,1384,1384,1384
 Apache,61 ST. JOHNS,Registered Voters - Democratic,,,DEM,,294,294,294,294
 Apache,61 ST. JOHNS,Registered Voters - Republican,,,REP,,598,598,598,598
 Apache,61 ST. JOHNS,Registered Voters - Libertarian,,,LBT,,13,13,13,13
@@ -6198,8 +6198,8 @@ Apache,61 ST. JOHNS,Prop #408,,1,,NO,104,74,30,0
 Apache,61 ST. JOHNS,Prop #408,,1,,Total Votes Cast,362,230,131,1
 Apache,61 ST. JOHNS,Prop #408,,1,,Overvotes,0,0,0,0
 Apache,61 ST. JOHNS,Prop #408,,1,,Undervotes,60,37,23,0
-Apache,65 ST. MICHAELS,"Registered Voters - Total ",,,,,2312,2312,2312,2312
-Apache,65 ST. MICHAELS,"Registered Voters - Democratic ",,,DEM,,1452,1452,1452,1452
+Apache,65 ST. MICHAELS,Registered Voters - Total,,,,,2312,2312,2312,2312
+Apache,65 ST. MICHAELS,Registered Voters - Democratic,,,DEM,,1452,1452,1452,1452
 Apache,65 ST. MICHAELS,Registered Voters - Republican,,,REP,,296,296,296,296
 Apache,65 ST. MICHAELS,Registered Voters - Libertarian,,,LBT,,6,6,6,6
 Apache,65 ST. MICHAELS,Registered Voters - Green,,,GRN,,0,0,0,0
@@ -6764,7 +6764,7 @@ Apache,70 SPRINGERVILLE,Council Member,Town of Springerville,2,,Write-In Totals,
 Apache,70 SPRINGERVILLE,Council Member,Town of Springerville,2,,Total Votes Cast,533,406,111,16
 Apache,70 SPRINGERVILLE,Council Member,Town of Springerville,2,,Overvotes,0,0,0,0
 Apache,70 SPRINGERVILLE,Council Member,Town of Springerville,2,,Undervotes,143,110,29,4
-Apache,74 STEAMBOAT,"Registered Voters - Total ",,,,,1346,1346,1346,1346
+Apache,74 STEAMBOAT,Registered Voters - Total,,,,,1346,1346,1346,1346
 Apache,74 STEAMBOAT,Registered Voters - Democratic,,,DEM,,964,964,964,964
 Apache,74 STEAMBOAT,Registered Voters - Republican,,,REP,,101,101,101,101
 Apache,74 STEAMBOAT,Registered Voters - Libertarian,,,LBT,,3,3,3,3
@@ -7506,9 +7506,9 @@ Apache,80 TEEC NOS POS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,80 TEEC NOS POS,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,80 TEEC NOS POS,,,1,NOL,Overvotes,0,0,0,0
 Apache,80 TEEC NOS POS,,,1,NOL,Undervotes,0,0,0,0
-Apache,82 VERNON,"Registered Voters - Total ",,,,,1881,1881,1881,1881
+Apache,82 VERNON,Registered Voters - Total,,,,,1881,1881,1881,1881
 Apache,82 VERNON,Registered Voters - Democratic,,,DEM,,197,197,197,197
-Apache,82 VERNON,"Registered Voters - Republican ",,,REP,,1137,1137,1137,1137
+Apache,82 VERNON,Registered Voters - Republican,,,REP,,1137,1137,1137,1137
 Apache,82 VERNON,Registered Voters - Libertarian,,,LBT,,14,14,14,14
 Apache,82 VERNON,Registered Voters - Green,,,GRN,,0,0,0,0
 Apache,82 VERNON,Registered Voters - No Labels,,,NOL,,14,14,14,14
@@ -7691,8 +7691,8 @@ Apache,82 VERNON,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,82 VERNON,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,82 VERNON,,,1,NOL,Overvotes,0,0,0,0
 Apache,82 VERNON,,,1,NOL,Undervotes,0,0,0,0
-Apache,84 WHEATFIELDS,"Registered Voters - Total ",,,,,1849,1849,1849,1849
-Apache,84 WHEATFIELDS,"Registered Voters - Democratic ",,,DEM,,1212,1212,1212,1212
+Apache,84 WHEATFIELDS,Registered Voters - Total,,,,,1849,1849,1849,1849
+Apache,84 WHEATFIELDS,Registered Voters - Democratic,,,DEM,,1212,1212,1212,1212
 Apache,84 WHEATFIELDS,Registered Voters - Republican,,,REP,,131,131,131,131
 Apache,84 WHEATFIELDS,Registered Voters - Libertarian,,,LBT,,9,9,9,9
 Apache,84 WHEATFIELDS,Registered Voters - Green,,,GRN,,0,0,0,0
@@ -8063,7 +8063,7 @@ Apache,86 WIDE RUINS,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
 Apache,86 WIDE RUINS,,,1,NOL,Total Votes Cast,0,0,0,0
 Apache,86 WIDE RUINS,,,1,NOL,Overvotes,0,0,0,0
 Apache,86 WIDE RUINS,,,1,NOL,Undervotes,0,0,0,0
-Apache,88 WINDOW ROCK,"Registered Voters - Total ",,,,,1654,1654,1654,1654
+Apache,88 WINDOW ROCK,Registered Voters - Total,,,,,1654,1654,1654,1654
 Apache,88 WINDOW ROCK,Registered Voters - Democratic,,,DEM,,994,994,994,994
 Apache,88 WINDOW ROCK,Registered Voters - Republican,,,REP,,213,213,213,213
 Apache,88 WINDOW ROCK,Registered Voters - Libertarian,,,LBT,,3,3,3,3

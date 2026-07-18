@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,election_day,early_voting,late_votes,provisional 
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,late_votes,provisional
 Yuma,001.01,Registered Voters,,,,1358,,,,
 Yuma,002,Registered Voters,,,,1516,,,,
 Yuma,003,Registered Voters,,,,1809,,,,

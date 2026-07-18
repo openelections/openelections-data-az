@@ -1,428 +1,428 @@
 county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,provisional
-Santa Cruz,"Nogales 1 ",Registered Voters - Total,,,,,594,594,594,594
-Santa Cruz,"Nogales 1 ",Registered Voters - Democratic,,,DEM,,309,309,309,309
-Santa Cruz,"Nogales 1 ",Registered Voters - Republican,,,REP,,62,62,62,62
-Santa Cruz,"Nogales 1 ",Registered Voters - Libertarian,,,LBT,,5,5,5,5
-Santa Cruz,"Nogales 1 ",Registered Voters - Green,,,GRN,,0,0,0,0
-Santa Cruz,"Nogales 1 ",Registered Voters - No Labels Party,,,NOL,,1,1,1,1
-Santa Cruz,"Nogales 1 ",Registered Voters - Nonpartisan,,,,,217,217,217,217
-Santa Cruz,"Nogales 1 ",Ballots Cast - Total,,,,,129,111,18,0
-Santa Cruz,"Nogales 1 ",Ballots Cast - Democratic,,,DEM,,110,95,15,0
-Santa Cruz,"Nogales 1 ",Ballots Cast - Republican,,,REP,,18,16,2,0
-Santa Cruz,"Nogales 1 ",Ballots Cast - Libertarian,,,LBT,,0,0,0,0
-Santa Cruz,"Nogales 1 ",Ballots Cast - Green,,,GRN,,0,0,0,0
-Santa Cruz,"Nogales 1 ",Ballots Cast - No Labels Party,,,NOL,,0,0,0,0
-Santa Cruz,"Nogales 1 ",Ballots Cast - Nonpartisan,,,,,1,0,1,0
-Santa Cruz,"Nogales 1 ",Ballots Cast - Blank,,,,,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,DEM,Ruben GALLEGO,105,91,14,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,DEM,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,DEM,Total Votes Cast,105,91,14,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,DEM,Undervotes,5,4,1,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,DEM,Raul M. GRIJALVA,94,83,11,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,DEM,Write-In Totals,1,0,1,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,DEM,Total Votes Cast,95,83,12,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,DEM,Undervotes,15,12,3,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,DEM,Rosanna GABALDAN,102,89,13,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,DEM,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,DEM,Total Votes Cast,102,89,13,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,DEM,Undervotes,8,6,2,0
-Santa Cruz,"Nogales 1 ",State House,21,2,DEM,Consuelo HERNANDEZ,83,73,10,0
-Santa Cruz,"Nogales 1 ",State House,21,2,DEM,"Briana ""Breezy"" ORTEGA",58,49,9,0
-Santa Cruz,"Nogales 1 ",State House,21,2,DEM,Stephanie STAHL HAMILTON,37,32,5,0
-Santa Cruz,"Nogales 1 ",State House,21,2,DEM,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,DEM,Total Votes Cast,178,154,24,0
-Santa Cruz,"Nogales 1 ",State House,21,2,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,DEM,Undervotes,42,36,6,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,DEM,Ylenia AGUILAR,85,74,11,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,DEM,Jonathon HILL,56,48,8,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,DEM,Joshua POLACHECK,55,48,7,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,DEM,Write-In Totals,3,3,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,DEM,Total Votes Cast,199,173,26,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,DEM,Undervotes,131,112,19,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,DEM,Luis Carlos DAVIS,43,36,7,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,DEM,Robert ROJAS,25,23,2,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,DEM,"Manuel ""Manny"" RUIZ",36,31,5,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,DEM,Write-In Totals,2,1,1,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,DEM,Total Votes Cast,106,91,15,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,DEM,Overvotes,2,2,0,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,DEM,Undervotes,2,2,0,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,DEM,"Octavio ""Tavo"" GRADILLAS",53,43,10,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,DEM,Pablo A. RAMOS,55,50,5,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,DEM,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,DEM,Total Votes Cast,108,93,15,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,DEM,Undervotes,2,2,0,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,DEM,George SILVA,83,75,8,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,DEM,Write-In Totals,5,3,2,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,DEM,Total Votes Cast,88,78,10,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,DEM,Undervotes,22,17,5,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,DEM,"Ana ""Anita"" MORENO",102,89,13,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,DEM,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,DEM,Total Votes Cast,103,90,13,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,DEM,Undervotes,7,5,2,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,DEM,Alfredo I. VELASQUEZ,102,88,14,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,DEM,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,DEM,Total Votes Cast,103,89,14,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,DEM,Undervotes,7,6,1,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,"Jose ""Joe"" AGOSTTINI",2,2,0,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,"Rafael ""Rafita"" CORRALES",23,20,3,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,David HATHAWAY,58,53,5,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,"Mario ""Toro"" MORALES",18,14,4,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,Andrew IBARRA,5,3,2,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,Total Votes Cast,106,92,14,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,Overvotes,1,1,0,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,DEM,Undervotes,3,2,1,0
-Santa Cruz,"Nogales 1 ",County Treasurer,,1,DEM,Write-In Totals,55,45,10,0
-Santa Cruz,"Nogales 1 ",County Treasurer,,1,DEM,Total Votes Cast,55,45,10,0
-Santa Cruz,"Nogales 1 ",County Treasurer,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Treasurer,,1,DEM,Undervotes,55,50,5,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,DEM,Miguel A. LOPEZ,63,53,10,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,DEM,Adriana OLAIZ,44,41,3,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,DEM,Write-In Totals,1,0,1,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,DEM,Total Votes Cast,108,94,14,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,DEM,Overvotes,1,1,0,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,DEM,Undervotes,1,0,1,0
-Santa Cruz,"Nogales 1 ",Judge of the Superior Court,Div. 2,1,DEM,Write-In Totals,12,10,2,0
-Santa Cruz,"Nogales 1 ",Judge of the Superior Court,Div. 2,1,DEM,Total Votes Cast,12,10,2,0
-Santa Cruz,"Nogales 1 ",Judge of the Superior Court,Div. 2,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Judge of the Superior Court,Div. 2,1,DEM,Undervotes,98,85,13,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,REP,Kari LAKE,13,11,2,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,REP,Mark LAMB,3,3,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,REP,Elizabeth Jean REYE,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,REP,Write-In Totals,2,2,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,REP,Total Votes Cast,18,16,2,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,REP,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,REP,Daniel Francis BUTIEREZ SR.,15,13,2,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,REP,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,REP,Total Votes Cast,16,14,2,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,REP,Undervotes,2,2,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,REP,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,REP,Total Votes Cast,1,1,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,REP,Undervotes,17,15,2,0
-Santa Cruz,"Nogales 1 ",State House,21,2,REP,Christopher KIBBEY,13,11,2,0
-Santa Cruz,"Nogales 1 ",State House,21,2,REP,Write-In Totals,2,2,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,REP,Total Votes Cast,15,13,2,0
-Santa Cruz,"Nogales 1 ",State House,21,2,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,REP,Undervotes,21,19,2,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,REP,Rene LOPEZ,11,9,2,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,10,9,1,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,REP,Rachel WALDEN,9,8,1,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,REP,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,REP,Total Votes Cast,30,26,4,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,REP,Undervotes,24,22,2,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,REP,Mike MELENDEZ,14,12,2,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,REP,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,REP,Total Votes Cast,15,13,2,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Board of Supervisors,1,1,REP,Undervotes,3,3,0,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,REP,Write-In Totals,3,2,1,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,REP,Total Votes Cast,3,2,1,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Assessor,,1,REP,Undervotes,15,14,1,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,REP,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,REP,Total Votes Cast,1,1,0,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Attorney,,1,REP,Undervotes,17,15,2,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,REP,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,REP,Total Votes Cast,1,1,0,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Recorder,,1,REP,Undervotes,17,15,2,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,REP,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,REP,Total Votes Cast,1,1,0,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County School Superintendent,,1,REP,Undervotes,17,15,2,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,REP,Write-In Totals,2,2,0,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,REP,Total Votes Cast,2,2,0,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Sheriff,,1,REP,Undervotes,16,14,2,0
-Santa Cruz,"Nogales 1 ",County Treasurer,,1,REP,Write-In Totals,2,2,0,0
-Santa Cruz,"Nogales 1 ",County Treasurer,,1,REP,Total Votes Cast,2,2,0,0
-Santa Cruz,"Nogales 1 ",County Treasurer,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",County Treasurer,,1,REP,Undervotes,16,14,2,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,REP,Write-In Totals,5,5,0,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,REP,Total Votes Cast,5,5,0,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Justice of the Peace,,1,REP,Undervotes,13,11,2,0
-Santa Cruz,"Nogales 1 ",Judge of the Superior Court,Div. 2,1,REP,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 1 ",Judge of the Superior Court,Div. 2,1,REP,Total Votes Cast,1,1,0,0
-Santa Cruz,"Nogales 1 ",Judge of the Superior Court,Div. 2,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Judge of the Superior Court,Div. 2,1,REP,Undervotes,17,15,2,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,GRN,Arturo HERNANDEZ,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,GRN,Michael NORTON,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. Senate,,1,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",U.S. House,7,1,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State Senate,21,1,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",State House,21,2,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 1 ",NOL Notice,,1,NOL,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Council Member,Nogales (and Coronado 05.1),3,,Saulo BONILLA,56,47,9,0
-Santa Cruz,"Nogales 1 ",Council Member,Nogales (and Coronado 05.1),3,,Liza MONTIEL,75,67,8,0
-Santa Cruz,"Nogales 1 ",Council Member,Nogales (and Coronado 05.1),3,,Anna PARADA,79,67,12,0
-Santa Cruz,"Nogales 1 ",Council Member,Nogales (and Coronado 05.1),3,,Write-In Totals,4,4,0,0
-Santa Cruz,"Nogales 1 ",Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,214,185,29,0
-Santa Cruz,"Nogales 1 ",Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 1 ",Council Member,Nogales (and Coronado 05.1),3,,Undervotes,173,148,25,0
-Santa Cruz,"Nogales 2 ",Registered Voters - Total,,,,,1647,1647,1647,1647
-Santa Cruz,"Nogales 2 ",Registered Voters - Democratic,,,DEM,,739,739,739,739
-Santa Cruz,"Nogales 2 ",Registered Voters - Republican,,,REP,,152,152,152,152
-Santa Cruz,"Nogales 2 ",Registered Voters - Libertarian,,,LBT,,4,4,4,4
-Santa Cruz,"Nogales 2 ",Registered Voters - Green,,,GRN,,1,1,1,1
-Santa Cruz,"Nogales 2 ",Registered Voters - No Labels Party,,,NOL,,9,9,9,9
-Santa Cruz,"Nogales 2 ",Registered Voters - Nonpartisan,,,,,742,742,742,742
-Santa Cruz,"Nogales 2 ",Ballots Cast - Total,,,,,206,177,28,1
-Santa Cruz,"Nogales 2 ",Ballots Cast - Democratic,,,DEM,,180,160,19,1
-Santa Cruz,"Nogales 2 ",Ballots Cast - Republican,,,REP,,25,17,8,0
-Santa Cruz,"Nogales 2 ",Ballots Cast - Libertarian,,,LBT,,0,0,0,0
-Santa Cruz,"Nogales 2 ",Ballots Cast - Green,,,GRN,,0,0,0,0
-Santa Cruz,"Nogales 2 ",Ballots Cast - No Labels Party,,,NOL,,0,0,0,0
-Santa Cruz,"Nogales 2 ",Ballots Cast - Nonpartisan,,,,,1,0,1,0
-Santa Cruz,"Nogales 2 ",Ballots Cast - Blank,,,,,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,DEM,Ruben GALLEGO,158,141,16,1
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,DEM,Write-In Totals,2,2,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,DEM,Total Votes Cast,160,143,16,1
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,DEM,Undervotes,20,17,3,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,DEM,Raul M. GRIJALVA,164,145,18,1
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,DEM,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,DEM,Total Votes Cast,165,146,18,1
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,DEM,Undervotes,15,14,1,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,DEM,Rosanna GABALDAN,160,144,15,1
-Santa Cruz,"Nogales 2 ",State Senate,21,1,DEM,Write-In Totals,3,2,1,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,DEM,Total Votes Cast,163,146,16,1
-Santa Cruz,"Nogales 2 ",State Senate,21,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,DEM,Undervotes,17,14,3,0
-Santa Cruz,"Nogales 2 ",State House,21,2,DEM,Consuelo HERNANDEZ,132,119,12,1
-Santa Cruz,"Nogales 2 ",State House,21,2,DEM,"Briana ""Breezy"" ORTEGA",83,78,5,0
-Santa Cruz,"Nogales 2 ",State House,21,2,DEM,Stephanie STAHL HAMILTON,50,43,7,0
-Santa Cruz,"Nogales 2 ",State House,21,2,DEM,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,DEM,Total Votes Cast,265,240,24,1
-Santa Cruz,"Nogales 2 ",State House,21,2,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,DEM,Undervotes,95,80,14,1
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,DEM,Ylenia AGUILAR,139,126,13,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,DEM,Jonathon HILL,89,80,9,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,DEM,Joshua POLACHECK,80,72,8,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,DEM,Write-In Totals,3,3,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,DEM,Total Votes Cast,311,281,30,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,DEM,Undervotes,229,199,27,3
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,DEM,Luis Carlos DAVIS,65,59,5,1
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,DEM,Robert ROJAS,41,36,5,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,DEM,"Manuel ""Manny"" RUIZ",65,57,8,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,DEM,Write-In Totals,3,2,1,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,DEM,Total Votes Cast,174,154,19,1
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,DEM,Overvotes,1,1,0,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,DEM,Undervotes,5,5,0,0
-Santa Cruz,"Nogales 2 ",County Assessor,,1,DEM,"Octavio ""Tavo"" GRADILLAS",82,77,5,0
-Santa Cruz,"Nogales 2 ",County Assessor,,1,DEM,Pablo A. RAMOS,86,71,14,1
-Santa Cruz,"Nogales 2 ",County Assessor,,1,DEM,Write-In Totals,2,2,0,0
-Santa Cruz,"Nogales 2 ",County Assessor,,1,DEM,Total Votes Cast,170,150,19,1
-Santa Cruz,"Nogales 2 ",County Assessor,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Assessor,,1,DEM,Undervotes,10,10,0,0
-Santa Cruz,"Nogales 2 ",County Attorney,,1,DEM,George SILVA,167,147,19,1
-Santa Cruz,"Nogales 2 ",County Attorney,,1,DEM,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 2 ",County Attorney,,1,DEM,Total Votes Cast,168,148,19,1
-Santa Cruz,"Nogales 2 ",County Attorney,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Attorney,,1,DEM,Undervotes,12,12,0,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,DEM,"Ana ""Anita"" MORENO",172,154,18,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,DEM,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,DEM,Total Votes Cast,173,155,18,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,DEM,Undervotes,7,5,1,1
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,DEM,Alfredo I. VELASQUEZ,164,145,18,1
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,DEM,Write-In Totals,2,2,0,0
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,DEM,Total Votes Cast,166,147,18,1
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,DEM,Undervotes,14,13,1,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,"Jose ""Joe"" AGOSTTINI",14,12,2,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,"Rafael ""Rafita"" CORRALES",36,33,3,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,David HATHAWAY,80,71,8,1
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,"Mario ""Toro"" MORALES",41,35,6,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,Andrew IBARRA,5,5,0,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,Total Votes Cast,177,157,19,1
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,DEM,Undervotes,3,3,0,0
-Santa Cruz,"Nogales 2 ",County Treasurer,,1,DEM,Write-In Totals,58,49,9,0
-Santa Cruz,"Nogales 2 ",County Treasurer,,1,DEM,Total Votes Cast,58,49,9,0
-Santa Cruz,"Nogales 2 ",County Treasurer,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Treasurer,,1,DEM,Undervotes,122,111,10,1
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,DEM,Miguel A. LOPEZ,101,90,10,1
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,DEM,Adriana OLAIZ,71,63,8,0
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,DEM,Write-In Totals,3,3,0,0
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,DEM,Total Votes Cast,175,156,18,1
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,DEM,Undervotes,5,4,1,0
-Santa Cruz,"Nogales 2 ",Judge of the Superior Court,Div. 2,1,DEM,Write-In Totals,27,26,1,0
-Santa Cruz,"Nogales 2 ",Judge of the Superior Court,Div. 2,1,DEM,Total Votes Cast,27,26,1,0
-Santa Cruz,"Nogales 2 ",Judge of the Superior Court,Div. 2,1,DEM,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Judge of the Superior Court,Div. 2,1,DEM,Undervotes,153,134,18,1
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,REP,Kari LAKE,12,10,2,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,REP,Mark LAMB,9,5,4,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,REP,Elizabeth Jean REYE,3,2,1,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,REP,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,REP,Total Votes Cast,24,17,7,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,REP,Undervotes,1,0,1,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,REP,Daniel Francis BUTIEREZ SR.,21,15,6,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,REP,Write-In Totals,1,1,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,REP,Total Votes Cast,22,16,6,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,REP,Undervotes,3,1,2,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,REP,Write-In Totals,6,5,1,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,REP,Total Votes Cast,6,5,1,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,REP,Undervotes,19,12,7,0
-Santa Cruz,"Nogales 2 ",State House,21,2,REP,Christopher KIBBEY,21,15,6,0
-Santa Cruz,"Nogales 2 ",State House,21,2,REP,Write-In Totals,2,2,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,REP,Total Votes Cast,23,17,6,0
-Santa Cruz,"Nogales 2 ",State House,21,2,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,REP,Undervotes,27,17,10,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,REP,Rene LOPEZ,18,14,4,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,15,12,3,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,REP,Rachel WALDEN,19,14,5,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,REP,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,REP,Total Votes Cast,52,40,12,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,REP,Undervotes,23,11,12,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,REP,Mike MELENDEZ,20,15,5,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,REP,Write-In Totals,2,0,2,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,REP,Total Votes Cast,22,15,7,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Board of Supervisors,1,1,REP,Undervotes,3,2,1,0
-Santa Cruz,"Nogales 2 ",County Assessor,,1,REP,Write-In Totals,3,2,1,0
-Santa Cruz,"Nogales 2 ",County Assessor,,1,REP,Total Votes Cast,3,2,1,0
-Santa Cruz,"Nogales 2 ",County Assessor,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Assessor,,1,REP,Undervotes,22,15,7,0
-Santa Cruz,"Nogales 2 ",County Attorney,,1,REP,Write-In Totals,4,2,2,0
-Santa Cruz,"Nogales 2 ",County Attorney,,1,REP,Total Votes Cast,4,2,2,0
-Santa Cruz,"Nogales 2 ",County Attorney,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Attorney,,1,REP,Undervotes,21,15,6,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,REP,Write-In Totals,3,2,1,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,REP,Total Votes Cast,3,2,1,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Recorder,,1,REP,Undervotes,22,15,7,0
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,REP,Write-In Totals,4,2,2,0
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,REP,Total Votes Cast,4,2,2,0
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County School Superintendent,,1,REP,Undervotes,21,15,6,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,REP,Write-In Totals,7,3,4,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,REP,Total Votes Cast,7,3,4,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Sheriff,,1,REP,Undervotes,18,14,4,0
-Santa Cruz,"Nogales 2 ",County Treasurer,,1,REP,Write-In Totals,4,2,2,0
-Santa Cruz,"Nogales 2 ",County Treasurer,,1,REP,Total Votes Cast,4,2,2,0
-Santa Cruz,"Nogales 2 ",County Treasurer,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",County Treasurer,,1,REP,Undervotes,21,15,6,0
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,REP,Write-In Totals,8,5,3,0
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,REP,Total Votes Cast,8,5,3,0
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Justice of the Peace,,1,REP,Undervotes,17,12,5,0
-Santa Cruz,"Nogales 2 ",Judge of the Superior Court,Div. 2,1,REP,Write-In Totals,3,2,1,0
-Santa Cruz,"Nogales 2 ",Judge of the Superior Court,Div. 2,1,REP,Total Votes Cast,3,2,1,0
-Santa Cruz,"Nogales 2 ",Judge of the Superior Court,Div. 2,1,REP,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Judge of the Superior Court,Div. 2,1,REP,Undervotes,22,15,7,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,LBT,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,LBT,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,LBT,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,LBT,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,GRN,Arturo HERNANDEZ,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,GRN,Michael NORTON,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. Senate,,1,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",U.S. House,7,1,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State Senate,21,1,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",State House,21,2,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
-Santa Cruz,"Nogales 2 ",NOL Notice,,1,NOL,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",NOL Notice,,1,NOL,Undervotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Council Member,Nogales (and Coronado 05.1),3,,Saulo BONILLA,103,95,8,0
-Santa Cruz,"Nogales 2 ",Council Member,Nogales (and Coronado 05.1),3,,Liza MONTIEL,143,123,19,1
-Santa Cruz,"Nogales 2 ",Council Member,Nogales (and Coronado 05.1),3,,Anna PARADA,128,113,15,0
-Santa Cruz,"Nogales 2 ",Council Member,Nogales (and Coronado 05.1),3,,Write-In Totals,10,9,1,0
-Santa Cruz,"Nogales 2 ",Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,384,340,43,1
-Santa Cruz,"Nogales 2 ",Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
-Santa Cruz,"Nogales 2 ",Council Member,Nogales (and Coronado 05.1),3,,Undervotes,234,191,41,2
+Santa Cruz,Nogales 1,Registered Voters - Total,,,,,594,594,594,594
+Santa Cruz,Nogales 1,Registered Voters - Democratic,,,DEM,,309,309,309,309
+Santa Cruz,Nogales 1,Registered Voters - Republican,,,REP,,62,62,62,62
+Santa Cruz,Nogales 1,Registered Voters - Libertarian,,,LBT,,5,5,5,5
+Santa Cruz,Nogales 1,Registered Voters - Green,,,GRN,,0,0,0,0
+Santa Cruz,Nogales 1,Registered Voters - No Labels Party,,,NOL,,1,1,1,1
+Santa Cruz,Nogales 1,Registered Voters - Nonpartisan,,,,,217,217,217,217
+Santa Cruz,Nogales 1,Ballots Cast - Total,,,,,129,111,18,0
+Santa Cruz,Nogales 1,Ballots Cast - Democratic,,,DEM,,110,95,15,0
+Santa Cruz,Nogales 1,Ballots Cast - Republican,,,REP,,18,16,2,0
+Santa Cruz,Nogales 1,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
+Santa Cruz,Nogales 1,Ballots Cast - Green,,,GRN,,0,0,0,0
+Santa Cruz,Nogales 1,Ballots Cast - No Labels Party,,,NOL,,0,0,0,0
+Santa Cruz,Nogales 1,Ballots Cast - Nonpartisan,,,,,1,0,1,0
+Santa Cruz,Nogales 1,Ballots Cast - Blank,,,,,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,DEM,Ruben GALLEGO,105,91,14,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,DEM,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,DEM,Total Votes Cast,105,91,14,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,DEM,Undervotes,5,4,1,0
+Santa Cruz,Nogales 1,U.S. House,7,1,DEM,Raul M. GRIJALVA,94,83,11,0
+Santa Cruz,Nogales 1,U.S. House,7,1,DEM,Write-In Totals,1,0,1,0
+Santa Cruz,Nogales 1,U.S. House,7,1,DEM,Total Votes Cast,95,83,12,0
+Santa Cruz,Nogales 1,U.S. House,7,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,DEM,Undervotes,15,12,3,0
+Santa Cruz,Nogales 1,State Senate,21,1,DEM,Rosanna GABALDAN,102,89,13,0
+Santa Cruz,Nogales 1,State Senate,21,1,DEM,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,DEM,Total Votes Cast,102,89,13,0
+Santa Cruz,Nogales 1,State Senate,21,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,DEM,Undervotes,8,6,2,0
+Santa Cruz,Nogales 1,State House,21,2,DEM,Consuelo HERNANDEZ,83,73,10,0
+Santa Cruz,Nogales 1,State House,21,2,DEM,"Briana ""Breezy"" ORTEGA",58,49,9,0
+Santa Cruz,Nogales 1,State House,21,2,DEM,Stephanie STAHL HAMILTON,37,32,5,0
+Santa Cruz,Nogales 1,State House,21,2,DEM,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,DEM,Total Votes Cast,178,154,24,0
+Santa Cruz,Nogales 1,State House,21,2,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,DEM,Undervotes,42,36,6,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,DEM,Ylenia AGUILAR,85,74,11,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,DEM,Jonathon HILL,56,48,8,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,DEM,Joshua POLACHECK,55,48,7,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,DEM,Write-In Totals,3,3,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,DEM,Total Votes Cast,199,173,26,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,DEM,Undervotes,131,112,19,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,DEM,Luis Carlos DAVIS,43,36,7,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,DEM,Robert ROJAS,25,23,2,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,DEM,"Manuel ""Manny"" RUIZ",36,31,5,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,DEM,Write-In Totals,2,1,1,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,DEM,Total Votes Cast,106,91,15,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,DEM,Overvotes,2,2,0,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,DEM,Undervotes,2,2,0,0
+Santa Cruz,Nogales 1,County Assessor,,1,DEM,"Octavio ""Tavo"" GRADILLAS",53,43,10,0
+Santa Cruz,Nogales 1,County Assessor,,1,DEM,Pablo A. RAMOS,55,50,5,0
+Santa Cruz,Nogales 1,County Assessor,,1,DEM,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,County Assessor,,1,DEM,Total Votes Cast,108,93,15,0
+Santa Cruz,Nogales 1,County Assessor,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Assessor,,1,DEM,Undervotes,2,2,0,0
+Santa Cruz,Nogales 1,County Attorney,,1,DEM,George SILVA,83,75,8,0
+Santa Cruz,Nogales 1,County Attorney,,1,DEM,Write-In Totals,5,3,2,0
+Santa Cruz,Nogales 1,County Attorney,,1,DEM,Total Votes Cast,88,78,10,0
+Santa Cruz,Nogales 1,County Attorney,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Attorney,,1,DEM,Undervotes,22,17,5,0
+Santa Cruz,Nogales 1,County Recorder,,1,DEM,"Ana ""Anita"" MORENO",102,89,13,0
+Santa Cruz,Nogales 1,County Recorder,,1,DEM,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,County Recorder,,1,DEM,Total Votes Cast,103,90,13,0
+Santa Cruz,Nogales 1,County Recorder,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Recorder,,1,DEM,Undervotes,7,5,2,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,DEM,Alfredo I. VELASQUEZ,102,88,14,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,DEM,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,DEM,Total Votes Cast,103,89,14,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,DEM,Undervotes,7,6,1,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,"Jose ""Joe"" AGOSTTINI",2,2,0,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,"Rafael ""Rafita"" CORRALES",23,20,3,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,David HATHAWAY,58,53,5,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,"Mario ""Toro"" MORALES",18,14,4,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,Andrew IBARRA,5,3,2,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,Total Votes Cast,106,92,14,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,Overvotes,1,1,0,0
+Santa Cruz,Nogales 1,County Sheriff,,1,DEM,Undervotes,3,2,1,0
+Santa Cruz,Nogales 1,County Treasurer,,1,DEM,Write-In Totals,55,45,10,0
+Santa Cruz,Nogales 1,County Treasurer,,1,DEM,Total Votes Cast,55,45,10,0
+Santa Cruz,Nogales 1,County Treasurer,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Treasurer,,1,DEM,Undervotes,55,50,5,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,DEM,Miguel A. LOPEZ,63,53,10,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,DEM,Adriana OLAIZ,44,41,3,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,DEM,Write-In Totals,1,0,1,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,DEM,Total Votes Cast,108,94,14,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,DEM,Overvotes,1,1,0,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,DEM,Undervotes,1,0,1,0
+Santa Cruz,Nogales 1,Judge of the Superior Court,Div. 2,1,DEM,Write-In Totals,12,10,2,0
+Santa Cruz,Nogales 1,Judge of the Superior Court,Div. 2,1,DEM,Total Votes Cast,12,10,2,0
+Santa Cruz,Nogales 1,Judge of the Superior Court,Div. 2,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Judge of the Superior Court,Div. 2,1,DEM,Undervotes,98,85,13,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,REP,Kari LAKE,13,11,2,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,REP,Mark LAMB,3,3,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,REP,Elizabeth Jean REYE,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,REP,Write-In Totals,2,2,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,REP,Total Votes Cast,18,16,2,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,REP,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,REP,Daniel Francis BUTIEREZ SR.,15,13,2,0
+Santa Cruz,Nogales 1,U.S. House,7,1,REP,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,REP,Total Votes Cast,16,14,2,0
+Santa Cruz,Nogales 1,U.S. House,7,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,REP,Undervotes,2,2,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,REP,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,REP,Total Votes Cast,1,1,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,REP,Undervotes,17,15,2,0
+Santa Cruz,Nogales 1,State House,21,2,REP,Christopher KIBBEY,13,11,2,0
+Santa Cruz,Nogales 1,State House,21,2,REP,Write-In Totals,2,2,0,0
+Santa Cruz,Nogales 1,State House,21,2,REP,Total Votes Cast,15,13,2,0
+Santa Cruz,Nogales 1,State House,21,2,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,REP,Undervotes,21,19,2,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,REP,Rene LOPEZ,11,9,2,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,10,9,1,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,REP,Rachel WALDEN,9,8,1,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,REP,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,REP,Total Votes Cast,30,26,4,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,REP,Undervotes,24,22,2,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,REP,Mike MELENDEZ,14,12,2,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,REP,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,REP,Total Votes Cast,15,13,2,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Board of Supervisors,1,1,REP,Undervotes,3,3,0,0
+Santa Cruz,Nogales 1,County Assessor,,1,REP,Write-In Totals,3,2,1,0
+Santa Cruz,Nogales 1,County Assessor,,1,REP,Total Votes Cast,3,2,1,0
+Santa Cruz,Nogales 1,County Assessor,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Assessor,,1,REP,Undervotes,15,14,1,0
+Santa Cruz,Nogales 1,County Attorney,,1,REP,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,County Attorney,,1,REP,Total Votes Cast,1,1,0,0
+Santa Cruz,Nogales 1,County Attorney,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Attorney,,1,REP,Undervotes,17,15,2,0
+Santa Cruz,Nogales 1,County Recorder,,1,REP,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,County Recorder,,1,REP,Total Votes Cast,1,1,0,0
+Santa Cruz,Nogales 1,County Recorder,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Recorder,,1,REP,Undervotes,17,15,2,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,REP,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,REP,Total Votes Cast,1,1,0,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County School Superintendent,,1,REP,Undervotes,17,15,2,0
+Santa Cruz,Nogales 1,County Sheriff,,1,REP,Write-In Totals,2,2,0,0
+Santa Cruz,Nogales 1,County Sheriff,,1,REP,Total Votes Cast,2,2,0,0
+Santa Cruz,Nogales 1,County Sheriff,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Sheriff,,1,REP,Undervotes,16,14,2,0
+Santa Cruz,Nogales 1,County Treasurer,,1,REP,Write-In Totals,2,2,0,0
+Santa Cruz,Nogales 1,County Treasurer,,1,REP,Total Votes Cast,2,2,0,0
+Santa Cruz,Nogales 1,County Treasurer,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,County Treasurer,,1,REP,Undervotes,16,14,2,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,REP,Write-In Totals,5,5,0,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,REP,Total Votes Cast,5,5,0,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Justice of the Peace,,1,REP,Undervotes,13,11,2,0
+Santa Cruz,Nogales 1,Judge of the Superior Court,Div. 2,1,REP,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 1,Judge of the Superior Court,Div. 2,1,REP,Total Votes Cast,1,1,0,0
+Santa Cruz,Nogales 1,Judge of the Superior Court,Div. 2,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Judge of the Superior Court,Div. 2,1,REP,Undervotes,17,15,2,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,GRN,Arturo HERNANDEZ,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,GRN,Michael NORTON,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. Senate,,1,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,U.S. House,7,1,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,State Senate,21,1,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,State House,21,2,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 1,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,NOL Notice,,1,NOL,Undervotes,0,0,0,0
+Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Saulo BONILLA,56,47,9,0
+Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Liza MONTIEL,75,67,8,0
+Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Anna PARADA,79,67,12,0
+Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Write-In Totals,4,4,0,0
+Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,214,185,29,0
+Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
+Santa Cruz,Nogales 1,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,173,148,25,0
+Santa Cruz,Nogales 2,Registered Voters - Total,,,,,1647,1647,1647,1647
+Santa Cruz,Nogales 2,Registered Voters - Democratic,,,DEM,,739,739,739,739
+Santa Cruz,Nogales 2,Registered Voters - Republican,,,REP,,152,152,152,152
+Santa Cruz,Nogales 2,Registered Voters - Libertarian,,,LBT,,4,4,4,4
+Santa Cruz,Nogales 2,Registered Voters - Green,,,GRN,,1,1,1,1
+Santa Cruz,Nogales 2,Registered Voters - No Labels Party,,,NOL,,9,9,9,9
+Santa Cruz,Nogales 2,Registered Voters - Nonpartisan,,,,,742,742,742,742
+Santa Cruz,Nogales 2,Ballots Cast - Total,,,,,206,177,28,1
+Santa Cruz,Nogales 2,Ballots Cast - Democratic,,,DEM,,180,160,19,1
+Santa Cruz,Nogales 2,Ballots Cast - Republican,,,REP,,25,17,8,0
+Santa Cruz,Nogales 2,Ballots Cast - Libertarian,,,LBT,,0,0,0,0
+Santa Cruz,Nogales 2,Ballots Cast - Green,,,GRN,,0,0,0,0
+Santa Cruz,Nogales 2,Ballots Cast - No Labels Party,,,NOL,,0,0,0,0
+Santa Cruz,Nogales 2,Ballots Cast - Nonpartisan,,,,,1,0,1,0
+Santa Cruz,Nogales 2,Ballots Cast - Blank,,,,,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,DEM,Ruben GALLEGO,158,141,16,1
+Santa Cruz,Nogales 2,U.S. Senate,,1,DEM,Write-In Totals,2,2,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,DEM,Total Votes Cast,160,143,16,1
+Santa Cruz,Nogales 2,U.S. Senate,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,DEM,Undervotes,20,17,3,0
+Santa Cruz,Nogales 2,U.S. House,7,1,DEM,Raul M. GRIJALVA,164,145,18,1
+Santa Cruz,Nogales 2,U.S. House,7,1,DEM,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,DEM,Total Votes Cast,165,146,18,1
+Santa Cruz,Nogales 2,U.S. House,7,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,DEM,Undervotes,15,14,1,0
+Santa Cruz,Nogales 2,State Senate,21,1,DEM,Rosanna GABALDAN,160,144,15,1
+Santa Cruz,Nogales 2,State Senate,21,1,DEM,Write-In Totals,3,2,1,0
+Santa Cruz,Nogales 2,State Senate,21,1,DEM,Total Votes Cast,163,146,16,1
+Santa Cruz,Nogales 2,State Senate,21,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,DEM,Undervotes,17,14,3,0
+Santa Cruz,Nogales 2,State House,21,2,DEM,Consuelo HERNANDEZ,132,119,12,1
+Santa Cruz,Nogales 2,State House,21,2,DEM,"Briana ""Breezy"" ORTEGA",83,78,5,0
+Santa Cruz,Nogales 2,State House,21,2,DEM,Stephanie STAHL HAMILTON,50,43,7,0
+Santa Cruz,Nogales 2,State House,21,2,DEM,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,DEM,Total Votes Cast,265,240,24,1
+Santa Cruz,Nogales 2,State House,21,2,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,DEM,Undervotes,95,80,14,1
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,DEM,Ylenia AGUILAR,139,126,13,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,DEM,Jonathon HILL,89,80,9,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,DEM,Joshua POLACHECK,80,72,8,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,DEM,Write-In Totals,3,3,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,DEM,Total Votes Cast,311,281,30,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,DEM,Undervotes,229,199,27,3
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,DEM,Luis Carlos DAVIS,65,59,5,1
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,DEM,Robert ROJAS,41,36,5,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,DEM,"Manuel ""Manny"" RUIZ",65,57,8,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,DEM,Write-In Totals,3,2,1,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,DEM,Total Votes Cast,174,154,19,1
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,DEM,Overvotes,1,1,0,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,DEM,Undervotes,5,5,0,0
+Santa Cruz,Nogales 2,County Assessor,,1,DEM,"Octavio ""Tavo"" GRADILLAS",82,77,5,0
+Santa Cruz,Nogales 2,County Assessor,,1,DEM,Pablo A. RAMOS,86,71,14,1
+Santa Cruz,Nogales 2,County Assessor,,1,DEM,Write-In Totals,2,2,0,0
+Santa Cruz,Nogales 2,County Assessor,,1,DEM,Total Votes Cast,170,150,19,1
+Santa Cruz,Nogales 2,County Assessor,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Assessor,,1,DEM,Undervotes,10,10,0,0
+Santa Cruz,Nogales 2,County Attorney,,1,DEM,George SILVA,167,147,19,1
+Santa Cruz,Nogales 2,County Attorney,,1,DEM,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 2,County Attorney,,1,DEM,Total Votes Cast,168,148,19,1
+Santa Cruz,Nogales 2,County Attorney,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Attorney,,1,DEM,Undervotes,12,12,0,0
+Santa Cruz,Nogales 2,County Recorder,,1,DEM,"Ana ""Anita"" MORENO",172,154,18,0
+Santa Cruz,Nogales 2,County Recorder,,1,DEM,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 2,County Recorder,,1,DEM,Total Votes Cast,173,155,18,0
+Santa Cruz,Nogales 2,County Recorder,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Recorder,,1,DEM,Undervotes,7,5,1,1
+Santa Cruz,Nogales 2,County School Superintendent,,1,DEM,Alfredo I. VELASQUEZ,164,145,18,1
+Santa Cruz,Nogales 2,County School Superintendent,,1,DEM,Write-In Totals,2,2,0,0
+Santa Cruz,Nogales 2,County School Superintendent,,1,DEM,Total Votes Cast,166,147,18,1
+Santa Cruz,Nogales 2,County School Superintendent,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County School Superintendent,,1,DEM,Undervotes,14,13,1,0
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,"Jose ""Joe"" AGOSTTINI",14,12,2,0
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,"Rafael ""Rafita"" CORRALES",36,33,3,0
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,David HATHAWAY,80,71,8,1
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,"Mario ""Toro"" MORALES",41,35,6,0
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,Andrew IBARRA,5,5,0,0
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,Total Votes Cast,177,157,19,1
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Sheriff,,1,DEM,Undervotes,3,3,0,0
+Santa Cruz,Nogales 2,County Treasurer,,1,DEM,Write-In Totals,58,49,9,0
+Santa Cruz,Nogales 2,County Treasurer,,1,DEM,Total Votes Cast,58,49,9,0
+Santa Cruz,Nogales 2,County Treasurer,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Treasurer,,1,DEM,Undervotes,122,111,10,1
+Santa Cruz,Nogales 2,Justice of the Peace,,1,DEM,Miguel A. LOPEZ,101,90,10,1
+Santa Cruz,Nogales 2,Justice of the Peace,,1,DEM,Adriana OLAIZ,71,63,8,0
+Santa Cruz,Nogales 2,Justice of the Peace,,1,DEM,Write-In Totals,3,3,0,0
+Santa Cruz,Nogales 2,Justice of the Peace,,1,DEM,Total Votes Cast,175,156,18,1
+Santa Cruz,Nogales 2,Justice of the Peace,,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Justice of the Peace,,1,DEM,Undervotes,5,4,1,0
+Santa Cruz,Nogales 2,Judge of the Superior Court,Div. 2,1,DEM,Write-In Totals,27,26,1,0
+Santa Cruz,Nogales 2,Judge of the Superior Court,Div. 2,1,DEM,Total Votes Cast,27,26,1,0
+Santa Cruz,Nogales 2,Judge of the Superior Court,Div. 2,1,DEM,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Judge of the Superior Court,Div. 2,1,DEM,Undervotes,153,134,18,1
+Santa Cruz,Nogales 2,U.S. Senate,,1,REP,Kari LAKE,12,10,2,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,REP,Mark LAMB,9,5,4,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,REP,Elizabeth Jean REYE,3,2,1,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,REP,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,REP,Total Votes Cast,24,17,7,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,REP,Undervotes,1,0,1,0
+Santa Cruz,Nogales 2,U.S. House,7,1,REP,Daniel Francis BUTIEREZ SR.,21,15,6,0
+Santa Cruz,Nogales 2,U.S. House,7,1,REP,Write-In Totals,1,1,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,REP,Total Votes Cast,22,16,6,0
+Santa Cruz,Nogales 2,U.S. House,7,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,REP,Undervotes,3,1,2,0
+Santa Cruz,Nogales 2,State Senate,21,1,REP,Write-In Totals,6,5,1,0
+Santa Cruz,Nogales 2,State Senate,21,1,REP,Total Votes Cast,6,5,1,0
+Santa Cruz,Nogales 2,State Senate,21,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,REP,Undervotes,19,12,7,0
+Santa Cruz,Nogales 2,State House,21,2,REP,Christopher KIBBEY,21,15,6,0
+Santa Cruz,Nogales 2,State House,21,2,REP,Write-In Totals,2,2,0,0
+Santa Cruz,Nogales 2,State House,21,2,REP,Total Votes Cast,23,17,6,0
+Santa Cruz,Nogales 2,State House,21,2,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,REP,Undervotes,27,17,10,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,REP,Rene LOPEZ,18,14,4,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,REP,Lea MARQUEZ PETERSON,15,12,3,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,REP,Rachel WALDEN,19,14,5,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,REP,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,REP,Total Votes Cast,52,40,12,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,REP,Undervotes,23,11,12,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,REP,Mike MELENDEZ,20,15,5,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,REP,Write-In Totals,2,0,2,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,REP,Total Votes Cast,22,15,7,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Board of Supervisors,1,1,REP,Undervotes,3,2,1,0
+Santa Cruz,Nogales 2,County Assessor,,1,REP,Write-In Totals,3,2,1,0
+Santa Cruz,Nogales 2,County Assessor,,1,REP,Total Votes Cast,3,2,1,0
+Santa Cruz,Nogales 2,County Assessor,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Assessor,,1,REP,Undervotes,22,15,7,0
+Santa Cruz,Nogales 2,County Attorney,,1,REP,Write-In Totals,4,2,2,0
+Santa Cruz,Nogales 2,County Attorney,,1,REP,Total Votes Cast,4,2,2,0
+Santa Cruz,Nogales 2,County Attorney,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Attorney,,1,REP,Undervotes,21,15,6,0
+Santa Cruz,Nogales 2,County Recorder,,1,REP,Write-In Totals,3,2,1,0
+Santa Cruz,Nogales 2,County Recorder,,1,REP,Total Votes Cast,3,2,1,0
+Santa Cruz,Nogales 2,County Recorder,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Recorder,,1,REP,Undervotes,22,15,7,0
+Santa Cruz,Nogales 2,County School Superintendent,,1,REP,Write-In Totals,4,2,2,0
+Santa Cruz,Nogales 2,County School Superintendent,,1,REP,Total Votes Cast,4,2,2,0
+Santa Cruz,Nogales 2,County School Superintendent,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County School Superintendent,,1,REP,Undervotes,21,15,6,0
+Santa Cruz,Nogales 2,County Sheriff,,1,REP,Write-In Totals,7,3,4,0
+Santa Cruz,Nogales 2,County Sheriff,,1,REP,Total Votes Cast,7,3,4,0
+Santa Cruz,Nogales 2,County Sheriff,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Sheriff,,1,REP,Undervotes,18,14,4,0
+Santa Cruz,Nogales 2,County Treasurer,,1,REP,Write-In Totals,4,2,2,0
+Santa Cruz,Nogales 2,County Treasurer,,1,REP,Total Votes Cast,4,2,2,0
+Santa Cruz,Nogales 2,County Treasurer,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,County Treasurer,,1,REP,Undervotes,21,15,6,0
+Santa Cruz,Nogales 2,Justice of the Peace,,1,REP,Write-In Totals,8,5,3,0
+Santa Cruz,Nogales 2,Justice of the Peace,,1,REP,Total Votes Cast,8,5,3,0
+Santa Cruz,Nogales 2,Justice of the Peace,,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Justice of the Peace,,1,REP,Undervotes,17,12,5,0
+Santa Cruz,Nogales 2,Judge of the Superior Court,Div. 2,1,REP,Write-In Totals,3,2,1,0
+Santa Cruz,Nogales 2,Judge of the Superior Court,Div. 2,1,REP,Total Votes Cast,3,2,1,0
+Santa Cruz,Nogales 2,Judge of the Superior Court,Div. 2,1,REP,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Judge of the Superior Court,Div. 2,1,REP,Undervotes,22,15,7,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,LBT,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,LBT,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,LBT,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,LBT,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,GRN,Arturo HERNANDEZ,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,GRN,Michael NORTON,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. Senate,,1,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,U.S. House,7,1,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,State Senate,21,1,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,State House,21,2,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,GRN,Write-In Totals,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,GRN,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,GRN,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Corporation Commissioner,,3,GRN,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,NOL Notice,,1,NOL,Total Votes Cast,0,0,0,0
+Santa Cruz,Nogales 2,NOL Notice,,1,NOL,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,NOL Notice,,1,NOL,Undervotes,0,0,0,0
+Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Saulo BONILLA,103,95,8,0
+Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Liza MONTIEL,143,123,19,1
+Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Anna PARADA,128,113,15,0
+Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Write-In Totals,10,9,1,0
+Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Total Votes Cast,384,340,43,1
+Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Overvotes,0,0,0,0
+Santa Cruz,Nogales 2,Council Member,Nogales (and Coronado 05.1),3,,Undervotes,234,191,41,2
 Santa Cruz,Nogales 3,Registered Voters - Total,,,,,932,932,932,932
 Santa Cruz,Nogales 3,Registered Voters - Democratic,,,DEM,,451,451,451,451
 Santa Cruz,Nogales 3,Registered Voters - Republican,,,REP,,101,101,101,101

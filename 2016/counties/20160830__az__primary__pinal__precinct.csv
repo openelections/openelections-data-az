@@ -1,4 +1,4 @@
-contest,choice,precinct_id,vote_total,early_votes,polling_place_votes,late_early_votes,provisional_votes,party_name,contest_name,choice_name,precinct_designation,precinct_designation,precinct_name,votes_allowed,referendum_flag
+contest,choice,precinct_id,vote_total,early_votes,polling_place_votes,late_early_votes,provisional_votes,party_name,contest_name,choice_name,precinct_designation,precinct_name,votes_allowed,referendum_flag
 000,00,000,001410,00000,00000,00000,00000,,Registered Voters,REGISTERED VOTERS,0,KEARNY,0,
 000,00,000,000644,00000,00000,00000,00000,,Registered Voters,REGISTERED VOTERS,0,DUDLEYVILLE,0,
 000,00,000,001915,00000,00000,00000,00000,,Registered Voters,REGISTERED VOTERS,0,SAN MANUEL,0,
