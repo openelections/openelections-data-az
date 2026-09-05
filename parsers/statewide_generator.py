@@ -2,8 +2,8 @@ import os
 import glob
 import csv
 
-year = '2016'
-election = '20161108'
+year = '2022'
+election = '20221108'
 path = election+'*precinct.csv'
 output_file = election+'__az__general__precinct.csv'
 
@@ -45,8 +45,7 @@ def generate_consolidated_file(year, path, output_file):
             print(fname)
             reader = csv.DictReader(csvfile)
             for row in reader:
-                print(row)
-                if row['office'].strip().title() in ['Straight Party', 'President', 'Governor', 'Secretary Of State', 'State Mine Inspector', 'Corporation Commissioner', 'State Auditor', 'State Treasurer', 'Commissioner of Agriculture & Commerce', 'Commissioner of Insurance', 'Attorney General', 'U.S. House', 'State Senate', 'U.S. Senate', 'State Representative', 'Registered Voters', 'Ballots Cast']:
+                if row['office'].strip().title() in ['Straight Party', 'President', 'Governor', 'Secretary Of State', 'State Mine Inspector', 'Corporation Commissioner', 'State Auditor', 'State Treasurer', 'Commissioner of Agriculture & Commerce', 'Commissioner of Insurance', 'Attorney General', 'U.S. House', 'State Senate','State House', 'U.S. Senate', 'State Representative', 'Registered Voters', 'Ballots Cast']:
                     if all(k in set(row) for k in ['early_voting', 'election_day', 'provisional']):
                         results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], row['early_voting'], row['election_day'], row['provisional']])
                     else:

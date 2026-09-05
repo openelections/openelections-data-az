@@ -1,0 +1,699 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional,late_early_voting
+Greenlee,001 Eagle,Registered Voters,,,,22,,,,
+Greenlee,001 Eagle,Ballots Cast,,,,12,3,3,0,6
+Greenlee,001 Eagle,Ballots Cast - Blank,,,,0,0,0,0,0
+Greenlee,001 Eagle,U.S. House,6,REP,Juan Ciscomani,9,3,2,0,4
+Greenlee,001 Eagle,U.S. House,6,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,REP,Andy Biggs,8,2,2,0,4
+Greenlee,001 Eagle,Governor,,REP,Ken Miceli,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,REP,Scott Neely,2,1,0,0,1
+Greenlee,001 Eagle,Governor,,REP,David Schweikert,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Senate,19,REP,Gail Griffin,10,3,2,0,5
+Greenlee,001 Eagle,State Senate,19,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Representative,19,REP,Cheryl Caswell,1,0,0,0,1
+Greenlee,001 Eagle,State Representative,19,REP,Lupe Diaz,9,3,2,0,4
+Greenlee,001 Eagle,State Representative,19,REP,David Gowan,7,2,2,0,3
+Greenlee,001 Eagle,State Representative,19,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Secretary of State,,REP,Alexander Kolodin,9,3,2,0,4
+Greenlee,001 Eagle,Secretary of State,,REP,Gina Swoboda,1,0,0,0,1
+Greenlee,001 Eagle,Secretary of State,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Attorney General,,REP,Rodney Glassman,6,2,0,0,4
+Greenlee,001 Eagle,Attorney General,,REP,Warren Petersen,4,1,2,0,1
+Greenlee,001 Eagle,Attorney General,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Treasurer,,REP,Katherine Haley,2,0,0,0,2
+Greenlee,001 Eagle,State Treasurer,,REP,Elijah Norton,8,3,2,0,3
+Greenlee,001 Eagle,State Treasurer,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Superintendent of Public Instruction,,REP,Tom Horne,8,2,2,0,4
+Greenlee,001 Eagle,Superintendent of Public Instruction,,REP,Kimberly Yee,1,0,0,0,1
+Greenlee,001 Eagle,Superintendent of Public Instruction,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Mine Inspector,,REP,"Walter ""Les"" Presmyk",10,3,2,0,5
+Greenlee,001 Eagle,State Mine Inspector,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Corporation Commissioner,,REP,Ralph Heap,2,1,0,0,1
+Greenlee,001 Eagle,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",6,0,2,0,4
+Greenlee,001 Eagle,Corporation Commissioner,,REP,Kevin Thompson,7,0,2,0,5
+Greenlee,001 Eagle,Corporation Commissioner,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Clerk of the Superior Court,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Justice of the Peace,1,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Constable,1,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Judge of the Superior Court,,REP,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,U.S. House,6,DEM,JoAnna Mendoza,1,0,1,0,0
+Greenlee,001 Eagle,U.S. House,6,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,DEM,Katie Hobbs,1,0,1,0,0
+Greenlee,001 Eagle,Governor,,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Senate,19,DEM,Write-in,1,0,1,0,0
+Greenlee,001 Eagle,State Representative,19,DEM,Jackie O'Donnell Anderson,1,0,1,0,0
+Greenlee,001 Eagle,State Representative,19,DEM,Aiden Nicholette Swallow,1,0,1,0,0
+Greenlee,001 Eagle,State Representative,19,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Secretary of State,,DEM,Adrian Fontes,1,0,1,0,0
+Greenlee,001 Eagle,Secretary of State,,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Attorney General,,DEM,Kris Mayes,1,0,1,0,0
+Greenlee,001 Eagle,Attorney General,,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Treasurer,,DEM,Nick Mansour,1,0,1,0,0
+Greenlee,001 Eagle,State Treasurer,,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Superintendent of Public Instruction,,DEM,Brett Matthew Newby,0,0,0,0,0
+Greenlee,001 Eagle,Superintendent of Public Instruction,,DEM,Teresa Leyba Ruiz,2,0,1,0,1
+Greenlee,001 Eagle,Superintendent of Public Instruction,,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Mine Inspector,,DEM,Brian Matlock,0,0,0,0,0
+Greenlee,001 Eagle,State Mine Inspector,,DEM,Write-in,1,0,1,0,0
+Greenlee,001 Eagle,Corporation Commissioner,,DEM,Jonathon Hill,1,0,1,0,0
+Greenlee,001 Eagle,Corporation Commissioner,,DEM,Clara Pratte,1,0,1,0,0
+Greenlee,001 Eagle,Corporation Commissioner,,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Clerk of the Superior Court,,DEM,Madeline Montoya,1,0,1,0,0
+Greenlee,001 Eagle,Clerk of the Superior Court,,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Justice of the Peace,1,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Constable,1,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Judge of the Superior Court,,DEM,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,U.S. House,6,LBT,Jereme Lance Peters,0,0,0,0,0
+Greenlee,001 Eagle,U.S. House,6,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Senate,19,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Representative,19,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Secretary of State,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Attorney General,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Treasurer,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Superintendent of Public Instruction,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Mine Inspector,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Corporation Commissioner,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Clerk of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Justice of the Peace,1,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Constable,1,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Judge of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,U.S. House,6,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,GRN,Risa Lombardo,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Senate,19,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Representative,19,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Secretary of State,,GRN,Duwayne Collier,0,0,0,0,0
+Greenlee,001 Eagle,Secretary of State,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Attorney General,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Treasurer,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Superintendent of Public Instruction,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Mine Inspector,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Corporation Commissioner,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Clerk of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Justice of the Peace,1,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Constable,1,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Judge of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,U.S. House,6,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,NOL,Teri Ann Hourihan,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,NOL,Hugh Lytle,0,0,0,0,0
+Greenlee,001 Eagle,Governor,,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Senate,19,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Representative,19,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Secretary of State,,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Attorney General,,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Treasurer,,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Superintendent of Public Instruction,,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,State Mine Inspector,,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Corporation Commissioner,,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Clerk of the Superior Court,,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Justice of the Peace,1,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Constable,1,NOL,Write-in,0,0,0,0,0
+Greenlee,001 Eagle,Judge of the Superior Court,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Registered Voters,,,,40,,,,
+Greenlee,002 Blue,Ballots Cast,,,,24,1,12,0,11
+Greenlee,002 Blue,Ballots Cast - Blank,,,,0,0,0,0,0
+Greenlee,002 Blue,U.S. House,6,REP,Juan Ciscomani,17,0,8,0,9
+Greenlee,002 Blue,U.S. House,6,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Governor,,REP,Andy Biggs,16,1,6,0,9
+Greenlee,002 Blue,Governor,,REP,Ken Miceli,1,0,1,0,0
+Greenlee,002 Blue,Governor,,REP,Scott Neely,1,0,1,0,0
+Greenlee,002 Blue,Governor,,REP,David Schweikert,2,0,2,0,0
+Greenlee,002 Blue,Governor,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Senate,19,REP,Gail Griffin,18,0,9,0,9
+Greenlee,002 Blue,State Senate,19,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Representative,19,REP,Cheryl Caswell,4,0,4,0,0
+Greenlee,002 Blue,State Representative,19,REP,Lupe Diaz,14,1,4,0,9
+Greenlee,002 Blue,State Representative,19,REP,David Gowan,14,1,4,0,9
+Greenlee,002 Blue,State Representative,19,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Secretary of State,,REP,Alexander Kolodin,10,1,6,0,3
+Greenlee,002 Blue,Secretary of State,,REP,Gina Swoboda,10,0,4,0,6
+Greenlee,002 Blue,Secretary of State,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Attorney General,,REP,Rodney Glassman,7,1,3,0,3
+Greenlee,002 Blue,Attorney General,,REP,Warren Petersen,13,0,7,0,6
+Greenlee,002 Blue,Attorney General,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Treasurer,,REP,Katherine Haley,12,1,8,0,3
+Greenlee,002 Blue,State Treasurer,,REP,Elijah Norton,8,0,2,0,6
+Greenlee,002 Blue,State Treasurer,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Superintendent of Public Instruction,,REP,Tom Horne,6,0,6,0,0
+Greenlee,002 Blue,Superintendent of Public Instruction,,REP,Kimberly Yee,14,1,4,0,9
+Greenlee,002 Blue,Superintendent of Public Instruction,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Mine Inspector,,REP,"Walter ""Les"" Presmyk",17,1,7,0,9
+Greenlee,002 Blue,State Mine Inspector,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Corporation Commissioner,,REP,Ralph Heap,8,1,4,0,3
+Greenlee,002 Blue,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",10,1,2,0,7
+Greenlee,002 Blue,Corporation Commissioner,,REP,Kevin Thompson,16,0,9,0,7
+Greenlee,002 Blue,Corporation Commissioner,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Clerk of the Superior Court,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Justice of the Peace,1,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Constable,1,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Judge of the Superior Court,,REP,Write-in,0,0,0,0,0
+Greenlee,002 Blue,U.S. House,6,DEM,JoAnna Mendoza,4,0,2,0,2
+Greenlee,002 Blue,U.S. House,6,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Governor,,DEM,Katie Hobbs,2,0,2,0,0
+Greenlee,002 Blue,Governor,,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Senate,19,DEM,Write-in,2,0,2,0,0
+Greenlee,002 Blue,State Representative,19,DEM,Jackie O'Donnell Anderson,4,0,2,0,2
+Greenlee,002 Blue,State Representative,19,DEM,Aiden Nicholette Swallow,4,0,2,0,2
+Greenlee,002 Blue,State Representative,19,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Secretary of State,,DEM,Adrian Fontes,4,0,2,0,2
+Greenlee,002 Blue,Secretary of State,,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Attorney General,,DEM,Kris Mayes,4,0,2,0,2
+Greenlee,002 Blue,Attorney General,,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Treasurer,,DEM,Nick Mansour,4,0,2,0,2
+Greenlee,002 Blue,State Treasurer,,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Superintendent of Public Instruction,,DEM,Brett Matthew Newby,0,0,0,0,0
+Greenlee,002 Blue,Superintendent of Public Instruction,,DEM,Teresa Leyba Ruiz,4,0,2,0,2
+Greenlee,002 Blue,Superintendent of Public Instruction,,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Mine Inspector,,DEM,Brian Matlock,4,0,2,0,2
+Greenlee,002 Blue,State Mine Inspector,,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Corporation Commissioner,,DEM,Jonathon Hill,4,0,2,0,2
+Greenlee,002 Blue,Corporation Commissioner,,DEM,Clara Pratte,4,0,2,0,2
+Greenlee,002 Blue,Corporation Commissioner,,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Clerk of the Superior Court,,DEM,Madeline Montoya,4,0,2,0,2
+Greenlee,002 Blue,Clerk of the Superior Court,,DEM,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Justice of the Peace,1,DEM,Write-in,2,0,2,0,0
+Greenlee,002 Blue,Constable,1,DEM,Write-in,2,0,2,0,0
+Greenlee,002 Blue,Judge of the Superior Court,,DEM,Write-in,2,0,2,0,0
+Greenlee,002 Blue,U.S. House,6,LBT,Jereme Lance Peters,0,0,0,0,0
+Greenlee,002 Blue,U.S. House,6,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Governor,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Senate,19,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Representative,19,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Secretary of State,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Attorney General,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Treasurer,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Superintendent of Public Instruction,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Mine Inspector,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Corporation Commissioner,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Clerk of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Justice of the Peace,1,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Constable,1,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Judge of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,002 Blue,U.S. House,6,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Governor,,GRN,Risa Lombardo,0,0,0,0,0
+Greenlee,002 Blue,Governor,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Senate,19,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Representative,19,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Secretary of State,,GRN,Duwayne Collier,0,0,0,0,0
+Greenlee,002 Blue,Secretary of State,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Attorney General,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Treasurer,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Superintendent of Public Instruction,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Mine Inspector,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Corporation Commissioner,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Clerk of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Justice of the Peace,1,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Constable,1,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Judge of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,002 Blue,U.S. House,6,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Governor,,NOL,Teri Ann Hourihan,0,0,0,0,0
+Greenlee,002 Blue,Governor,,NOL,Hugh Lytle,0,0,0,0,0
+Greenlee,002 Blue,Governor,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Senate,19,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Representative,19,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Secretary of State,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Attorney General,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Treasurer,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Superintendent of Public Instruction,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,State Mine Inspector,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Corporation Commissioner,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Clerk of the Superior Court,,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Justice of the Peace,1,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Constable,1,NOL,Write-in,0,0,0,0,0
+Greenlee,002 Blue,Judge of the Superior Court,,NOL,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Registered Voters,,,,1872,,,,
+Greenlee,003 Clifton,Ballots Cast,,,,352,56,272,0,24
+Greenlee,003 Clifton,Ballots Cast - Blank,,,,1,0,1,0,0
+Greenlee,003 Clifton,U.S. House,6,REP,Juan Ciscomani,109,33,64,0,12
+Greenlee,003 Clifton,U.S. House,6,REP,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Governor,,REP,Andy Biggs,86,24,50,0,12
+Greenlee,003 Clifton,Governor,,REP,Ken Miceli,7,4,3,0,0
+Greenlee,003 Clifton,Governor,,REP,Scott Neely,17,5,11,0,1
+Greenlee,003 Clifton,Governor,,REP,David Schweikert,7,2,5,0,0
+Greenlee,003 Clifton,Governor,,REP,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,State Senate,19,REP,Gail Griffin,111,34,65,0,12
+Greenlee,003 Clifton,State Senate,19,REP,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,State Representative,19,REP,Cheryl Caswell,43,15,26,0,2
+Greenlee,003 Clifton,State Representative,19,REP,Lupe Diaz,55,12,39,0,4
+Greenlee,003 Clifton,State Representative,19,REP,David Gowan,95,30,53,0,12
+Greenlee,003 Clifton,State Representative,19,REP,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Secretary of State,,REP,Alexander Kolodin,71,28,38,0,5
+Greenlee,003 Clifton,Secretary of State,,REP,Gina Swoboda,42,8,29,0,5
+Greenlee,003 Clifton,Secretary of State,,REP,Write-in,2,0,0,0,2
+Greenlee,003 Clifton,Attorney General,,REP,Rodney Glassman,67,25,36,0,6
+Greenlee,003 Clifton,Attorney General,,REP,Warren Petersen,52,12,33,0,7
+Greenlee,003 Clifton,Attorney General,,REP,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,State Treasurer,,REP,Katherine Haley,54,16,33,0,5
+Greenlee,003 Clifton,State Treasurer,,REP,Elijah Norton,59,17,34,0,8
+Greenlee,003 Clifton,State Treasurer,,REP,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Superintendent of Public Instruction,,REP,Tom Horne,71,27,36,0,8
+Greenlee,003 Clifton,Superintendent of Public Instruction,,REP,Kimberly Yee,46,8,33,0,5
+Greenlee,003 Clifton,Superintendent of Public Instruction,,REP,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,State Mine Inspector,,REP,"Walter ""Les"" Presmyk",100,29,61,0,10
+Greenlee,003 Clifton,State Mine Inspector,,REP,Write-in,2,1,1,0,0
+Greenlee,003 Clifton,Corporation Commissioner,,REP,Ralph Heap,52,18,24,0,10
+Greenlee,003 Clifton,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",60,17,42,0,1
+Greenlee,003 Clifton,Corporation Commissioner,,REP,Kevin Thompson,62,18,38,0,6
+Greenlee,003 Clifton,Corporation Commissioner,,REP,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Clerk of the Superior Court,,REP,Write-in,16,2,12,0,2
+Greenlee,003 Clifton,Justice of the Peace,1,REP,Write-in,24,8,13,0,3
+Greenlee,003 Clifton,Constable,1,REP,Write-in,16,2,11,0,3
+Greenlee,003 Clifton,Judge of the Superior Court,,REP,Write-in,17,2,12,0,3
+Greenlee,003 Clifton,U.S. House,6,DEM,JoAnna Mendoza,202,13,180,0,9
+Greenlee,003 Clifton,U.S. House,6,DEM,Write-in,2,0,2,0,0
+Greenlee,003 Clifton,Governor,,DEM,Katie Hobbs,204,13,182,0,9
+Greenlee,003 Clifton,Governor,,DEM,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,State Senate,19,DEM,Write-in,22,0,20,0,2
+Greenlee,003 Clifton,State Representative,19,DEM,Jackie O'Donnell Anderson,175,10,158,0,7
+Greenlee,003 Clifton,State Representative,19,DEM,Aiden Nicholette Swallow,156,9,140,0,7
+Greenlee,003 Clifton,State Representative,19,DEM,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Secretary of State,,DEM,Adrian Fontes,206,14,183,0,9
+Greenlee,003 Clifton,Secretary of State,,DEM,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Attorney General,,DEM,Kris Mayes,203,14,180,0,9
+Greenlee,003 Clifton,Attorney General,,DEM,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,State Treasurer,,DEM,Nick Mansour,199,13,177,0,9
+Greenlee,003 Clifton,State Treasurer,,DEM,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Superintendent of Public Instruction,,DEM,Brett Matthew Newby,32,1,31,0,0
+Greenlee,003 Clifton,Superintendent of Public Instruction,,DEM,Teresa Leyba Ruiz,176,14,153,0,9
+Greenlee,003 Clifton,Superintendent of Public Instruction,,DEM,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,State Mine Inspector,,DEM,Brian Matlock,203,13,181,0,9
+Greenlee,003 Clifton,State Mine Inspector,,DEM,Write-in,1,1,0,0,0
+Greenlee,003 Clifton,Corporation Commissioner,,DEM,Jonathon Hill,157,8,144,0,5
+Greenlee,003 Clifton,Corporation Commissioner,,DEM,Clara Pratte,180,11,160,0,9
+Greenlee,003 Clifton,Corporation Commissioner,,DEM,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Clerk of the Superior Court,,DEM,Madeline Montoya,206,13,182,0,11
+Greenlee,003 Clifton,Clerk of the Superior Court,,DEM,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Justice of the Peace,1,DEM,Write-in,29,2,24,0,3
+Greenlee,003 Clifton,Constable,1,DEM,Write-in,14,0,14,0,0
+Greenlee,003 Clifton,Judge of the Superior Court,,DEM,Write-in,9,0,9,0,0
+Greenlee,003 Clifton,U.S. House,6,LBT,Jereme Lance Peters,2,1,1,0,0
+Greenlee,003 Clifton,U.S. House,6,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Governor,,LBT,Write-in,2,1,1,0,0
+Greenlee,003 Clifton,State Senate,19,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,State Representative,19,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Secretary of State,,LBT,Write-in,2,1,1,0,0
+Greenlee,003 Clifton,Attorney General,,LBT,Write-in,2,1,1,0,0
+Greenlee,003 Clifton,State Treasurer,,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Superintendent of Public Instruction,,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,State Mine Inspector,,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Corporation Commissioner,,LBT,Write-in,2,1,1,0,0
+Greenlee,003 Clifton,Clerk of the Superior Court,,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Justice of the Peace,1,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Constable,1,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,Judge of the Superior Court,,LBT,Write-in,1,0,1,0,0
+Greenlee,003 Clifton,U.S. House,6,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Governor,,GRN,Risa Lombardo,0,0,0,0,0
+Greenlee,003 Clifton,Governor,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,State Senate,19,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,State Representative,19,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Secretary of State,,GRN,Duwayne Collier,0,0,0,0,0
+Greenlee,003 Clifton,Secretary of State,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Attorney General,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,State Treasurer,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Superintendent of Public Instruction,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,State Mine Inspector,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Corporation Commissioner,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Clerk of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Justice of the Peace,1,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Constable,1,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,Judge of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,003 Clifton,U.S. House,6,NOL,Write-in,3,0,3,0,0
+Greenlee,003 Clifton,Governor,,NOL,Teri Ann Hourihan,0,0,0,0,0
+Greenlee,003 Clifton,Governor,,NOL,Hugh Lytle,1,1,0,0,0
+Greenlee,003 Clifton,Governor,,NOL,Write-in,4,0,4,0,0
+Greenlee,003 Clifton,State Senate,19,NOL,Write-in,4,0,4,0,0
+Greenlee,003 Clifton,State Representative,19,NOL,Write-in,6,0,6,0,0
+Greenlee,003 Clifton,Secretary of State,,NOL,Write-in,3,0,3,0,0
+Greenlee,003 Clifton,Attorney General,,NOL,Write-in,3,0,3,0,0
+Greenlee,003 Clifton,State Treasurer,,NOL,Write-in,3,0,3,0,0
+Greenlee,003 Clifton,Superintendent of Public Instruction,,NOL,Write-in,3,0,3,0,0
+Greenlee,003 Clifton,State Mine Inspector,,NOL,Write-in,3,0,3,0,0
+Greenlee,003 Clifton,Corporation Commissioner,,NOL,Write-in,4,0,4,0,0
+Greenlee,003 Clifton,Clerk of the Superior Court,,NOL,Write-in,4,0,4,0,0
+Greenlee,003 Clifton,Justice of the Peace,1,NOL,Write-in,4,0,4,0,0
+Greenlee,003 Clifton,Constable,1,NOL,Write-in,2,0,2,0,0
+Greenlee,003 Clifton,Judge of the Superior Court,,NOL,Write-in,4,1,3,0,0
+Greenlee,003 Clifton,Councilmember,Town of Clifton,,"Raymond ""Ray"" Lorenzo",142,27,104,0,11
+Greenlee,003 Clifton,Councilmember,Town of Clifton,,"Melissa ""Mel"" Loya",138,27,102,0,9
+Greenlee,003 Clifton,Councilmember,Town of Clifton,,Write-in,9,3,6,0,0
+Greenlee,003 Clifton,Councilmember,Town of Clifton 2 Year Term,,Chad Brown,151,32,106,0,13
+Greenlee,003 Clifton,Councilmember,Town of Clifton 2 Year Term,,Write-in,2,0,2,0,0
+Greenlee,004 Morenci,Registered Voters,,,,1332,,,,
+Greenlee,004 Morenci,Ballots Cast,,,,102,28,65,0,9
+Greenlee,004 Morenci,Ballots Cast - Blank,,,,1,0,1,0,0
+Greenlee,004 Morenci,U.S. House,6,REP,Juan Ciscomani,46,17,24,0,5
+Greenlee,004 Morenci,U.S. House,6,REP,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Governor,,REP,Andy Biggs,30,8,20,0,2
+Greenlee,004 Morenci,Governor,,REP,Ken Miceli,2,0,2,0,0
+Greenlee,004 Morenci,Governor,,REP,Scott Neely,4,2,1,0,1
+Greenlee,004 Morenci,Governor,,REP,David Schweikert,9,5,2,0,2
+Greenlee,004 Morenci,Governor,,REP,Write-in,1,0,0,0,1
+Greenlee,004 Morenci,State Senate,19,REP,Gail Griffin,49,16,27,0,6
+Greenlee,004 Morenci,State Senate,19,REP,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,State Representative,19,REP,Cheryl Caswell,24,9,12,0,3
+Greenlee,004 Morenci,State Representative,19,REP,Lupe Diaz,23,7,14,0,2
+Greenlee,004 Morenci,State Representative,19,REP,David Gowan,37,13,21,0,3
+Greenlee,004 Morenci,State Representative,19,REP,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Secretary of State,,REP,Alexander Kolodin,25,9,12,0,4
+Greenlee,004 Morenci,Secretary of State,,REP,Gina Swoboda,25,7,16,0,2
+Greenlee,004 Morenci,Secretary of State,,REP,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Attorney General,,REP,Rodney Glassman,25,9,12,0,4
+Greenlee,004 Morenci,Attorney General,,REP,Warren Petersen,23,7,15,0,1
+Greenlee,004 Morenci,Attorney General,,REP,Write-in,1,0,0,0,1
+Greenlee,004 Morenci,State Treasurer,,REP,Katherine Haley,19,4,13,0,2
+Greenlee,004 Morenci,State Treasurer,,REP,Elijah Norton,30,12,14,0,4
+Greenlee,004 Morenci,State Treasurer,,REP,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Superintendent of Public Instruction,,REP,Tom Horne,31,10,17,0,4
+Greenlee,004 Morenci,Superintendent of Public Instruction,,REP,Kimberly Yee,20,7,11,0,2
+Greenlee,004 Morenci,Superintendent of Public Instruction,,REP,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Mine Inspector,,REP,"Walter ""Les"" Presmyk",46,16,25,0,5
+Greenlee,004 Morenci,State Mine Inspector,,REP,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Corporation Commissioner,,REP,Ralph Heap,23,7,14,0,2
+Greenlee,004 Morenci,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",24,8,15,0,1
+Greenlee,004 Morenci,Corporation Commissioner,,REP,Kevin Thompson,29,12,12,0,5
+Greenlee,004 Morenci,Corporation Commissioner,,REP,Write-in,2,1,1,0,0
+Greenlee,004 Morenci,Clerk of the Superior Court,,REP,Write-in,2,0,1,0,1
+Greenlee,004 Morenci,Justice of the Peace,1,REP,Write-in,2,0,1,0,1
+Greenlee,004 Morenci,Constable,1,REP,Write-in,2,0,1,0,1
+Greenlee,004 Morenci,Judge of the Superior Court,,REP,Write-in,2,0,1,0,1
+Greenlee,004 Morenci,U.S. House,6,DEM,JoAnna Mendoza,41,10,28,0,3
+Greenlee,004 Morenci,U.S. House,6,DEM,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Governor,,DEM,Katie Hobbs,41,10,28,0,3
+Greenlee,004 Morenci,Governor,,DEM,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,State Senate,19,DEM,Write-in,7,2,4,0,1
+Greenlee,004 Morenci,State Representative,19,DEM,Jackie O'Donnell Anderson,30,6,22,0,2
+Greenlee,004 Morenci,State Representative,19,DEM,Aiden Nicholette Swallow,30,8,19,0,3
+Greenlee,004 Morenci,State Representative,19,DEM,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Secretary of State,,DEM,Adrian Fontes,37,9,25,0,3
+Greenlee,004 Morenci,Secretary of State,,DEM,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Attorney General,,DEM,Kris Mayes,40,9,28,0,3
+Greenlee,004 Morenci,Attorney General,,DEM,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Treasurer,,DEM,Nick Mansour,40,9,28,0,3
+Greenlee,004 Morenci,State Treasurer,,DEM,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Superintendent of Public Instruction,,DEM,Brett Matthew Newby,5,1,3,0,1
+Greenlee,004 Morenci,Superintendent of Public Instruction,,DEM,Teresa Leyba Ruiz,37,9,26,0,2
+Greenlee,004 Morenci,Superintendent of Public Instruction,,DEM,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Mine Inspector,,DEM,Brian Matlock,41,9,29,0,3
+Greenlee,004 Morenci,State Mine Inspector,,DEM,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Corporation Commissioner,,DEM,Jonathon Hill,31,8,20,0,3
+Greenlee,004 Morenci,Corporation Commissioner,,DEM,Clara Pratte,35,7,25,0,3
+Greenlee,004 Morenci,Corporation Commissioner,,DEM,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Clerk of the Superior Court,,DEM,Madeline Montoya,39,9,27,0,3
+Greenlee,004 Morenci,Clerk of the Superior Court,,DEM,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Justice of the Peace,1,DEM,Write-in,5,2,3,0,0
+Greenlee,004 Morenci,Constable,1,DEM,Write-in,4,1,3,0,0
+Greenlee,004 Morenci,Judge of the Superior Court,,DEM,Write-in,4,1,3,0,0
+Greenlee,004 Morenci,U.S. House,6,LBT,Jereme Lance Peters,0,0,0,0,0
+Greenlee,004 Morenci,U.S. House,6,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Governor,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Senate,19,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Representative,19,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Secretary of State,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Attorney General,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Treasurer,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Superintendent of Public Instruction,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Mine Inspector,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Corporation Commissioner,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Clerk of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Justice of the Peace,1,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Constable,1,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Judge of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,U.S. House,6,GRN,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Governor,,GRN,Risa Lombardo,1,0,1,0,0
+Greenlee,004 Morenci,Governor,,GRN,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Senate,19,GRN,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,State Representative,19,GRN,Write-in,2,0,2,0,0
+Greenlee,004 Morenci,Secretary of State,,GRN,Duwayne Collier,1,0,1,0,0
+Greenlee,004 Morenci,Secretary of State,,GRN,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Attorney General,,GRN,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,State Treasurer,,GRN,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Superintendent of Public Instruction,,GRN,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,State Mine Inspector,,GRN,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Corporation Commissioner,,GRN,Write-in,2,0,2,0,0
+Greenlee,004 Morenci,Clerk of the Superior Court,,GRN,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Justice of the Peace,1,GRN,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Constable,1,GRN,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Judge of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,U.S. House,6,NOL,Write-in,5,0,5,0,0
+Greenlee,004 Morenci,Governor,,NOL,Teri Ann Hourihan,5,0,5,0,0
+Greenlee,004 Morenci,Governor,,NOL,Hugh Lytle,0,0,0,0,0
+Greenlee,004 Morenci,Governor,,NOL,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,State Senate,19,NOL,Write-in,2,0,2,0,0
+Greenlee,004 Morenci,State Representative,19,NOL,Write-in,10,0,10,0,0
+Greenlee,004 Morenci,Secretary of State,,NOL,Write-in,5,0,5,0,0
+Greenlee,004 Morenci,Attorney General,,NOL,Write-in,5,0,5,0,0
+Greenlee,004 Morenci,State Treasurer,,NOL,Write-in,5,0,5,0,0
+Greenlee,004 Morenci,Superintendent of Public Instruction,,NOL,Write-in,5,0,5,0,0
+Greenlee,004 Morenci,State Mine Inspector,,NOL,Write-in,5,0,5,0,0
+Greenlee,004 Morenci,Corporation Commissioner,,NOL,Write-in,10,0,10,0,0
+Greenlee,004 Morenci,Clerk of the Superior Court,,NOL,Write-in,3,0,3,0,0
+Greenlee,004 Morenci,Justice of the Peace,1,NOL,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Constable,1,NOL,Write-in,0,0,0,0,0
+Greenlee,004 Morenci,Judge of the Superior Court,,NOL,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Councilmember,Town of Clifton,,"Raymond ""Ray"" Lorenzo",32,7,24,0,1
+Greenlee,004 Morenci,Councilmember,Town of Clifton,,"Melissa ""Mel"" Loya",29,4,24,0,1
+Greenlee,004 Morenci,Councilmember,Town of Clifton,,Write-in,1,0,1,0,0
+Greenlee,004 Morenci,Councilmember,Town of Clifton 2 Year Term,,Chad Brown,31,5,25,0,1
+Greenlee,004 Morenci,Councilmember,Town of Clifton 2 Year Term,,Write-in,2,1,1,0,0
+Greenlee,005 York/Sheldon,Registered Voters,,,,854,,,,
+Greenlee,005 York/Sheldon,Ballots Cast,,,,225,36,174,0,15
+Greenlee,005 York/Sheldon,Ballots Cast - Blank,,,,2,0,0,0,2
+Greenlee,005 York/Sheldon,U.S. House,6,REP,Juan Ciscomani,120,30,78,0,12
+Greenlee,005 York/Sheldon,U.S. House,6,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Governor,,REP,Andy Biggs,85,25,52,0,8
+Greenlee,005 York/Sheldon,Governor,,REP,Ken Miceli,5,0,4,0,1
+Greenlee,005 York/Sheldon,Governor,,REP,Scott Neely,23,5,16,0,2
+Greenlee,005 York/Sheldon,Governor,,REP,David Schweikert,10,0,9,0,1
+Greenlee,005 York/Sheldon,Governor,,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Senate,19,REP,Gail Griffin,120,28,81,0,11
+Greenlee,005 York/Sheldon,State Senate,19,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Representative,19,REP,Cheryl Caswell,32,9,21,0,2
+Greenlee,005 York/Sheldon,State Representative,19,REP,Lupe Diaz,84,21,57,0,6
+Greenlee,005 York/Sheldon,State Representative,19,REP,David Gowan,101,28,62,0,11
+Greenlee,005 York/Sheldon,State Representative,19,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Secretary of State,,REP,Alexander Kolodin,76,21,50,0,5
+Greenlee,005 York/Sheldon,Secretary of State,,REP,Gina Swoboda,43,8,28,0,7
+Greenlee,005 York/Sheldon,Secretary of State,,REP,Write-in,3,0,3,0,0
+Greenlee,005 York/Sheldon,Attorney General,,REP,Rodney Glassman,74,18,46,0,10
+Greenlee,005 York/Sheldon,Attorney General,,REP,Warren Petersen,48,11,35,0,2
+Greenlee,005 York/Sheldon,Attorney General,,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Treasurer,,REP,Katherine Haley,49,11,35,0,3
+Greenlee,005 York/Sheldon,State Treasurer,,REP,Elijah Norton,70,17,44,0,9
+Greenlee,005 York/Sheldon,State Treasurer,,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,REP,Tom Horne,68,19,44,0,5
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,REP,Kimberly Yee,57,12,38,0,7
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Mine Inspector,,REP,"Walter ""Les"" Presmyk",113,26,77,0,10
+Greenlee,005 York/Sheldon,State Mine Inspector,,REP,Write-in,2,0,2,0,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,REP,Ralph Heap,58,18,35,0,5
+Greenlee,005 York/Sheldon,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",64,11,48,0,5
+Greenlee,005 York/Sheldon,Corporation Commissioner,,REP,Kevin Thompson,68,16,48,0,4
+Greenlee,005 York/Sheldon,Corporation Commissioner,,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Clerk of the Superior Court,,REP,Write-in,7,1,6,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,1,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,2,REP,Mindy Claridge,100,26,67,0,7
+Greenlee,005 York/Sheldon,Justice of the Peace,2,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,1,REP,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,2,REP,Write-in,6,1,5,0,0
+Greenlee,005 York/Sheldon,Judge of the Superior Court,,REP,Write-in,6,1,5,0,0
+Greenlee,005 York/Sheldon,U.S. House,6,DEM,JoAnna Mendoza,86,2,83,0,1
+Greenlee,005 York/Sheldon,U.S. House,6,DEM,Write-in,2,2,0,0,0
+Greenlee,005 York/Sheldon,Governor,,DEM,Katie Hobbs,89,2,86,0,1
+Greenlee,005 York/Sheldon,Governor,,DEM,Write-in,3,2,1,0,0
+Greenlee,005 York/Sheldon,State Senate,19,DEM,Write-in,13,0,13,0,0
+Greenlee,005 York/Sheldon,State Representative,19,DEM,Jackie O'Donnell Anderson,77,1,75,0,1
+Greenlee,005 York/Sheldon,State Representative,19,DEM,Aiden Nicholette Swallow,70,0,69,0,1
+Greenlee,005 York/Sheldon,State Representative,19,DEM,Write-in,2,0,2,0,0
+Greenlee,005 York/Sheldon,Secretary of State,,DEM,Adrian Fontes,88,2,85,0,1
+Greenlee,005 York/Sheldon,Secretary of State,,DEM,Write-in,4,2,2,0,0
+Greenlee,005 York/Sheldon,Attorney General,,DEM,Kris Mayes,89,1,87,0,1
+Greenlee,005 York/Sheldon,Attorney General,,DEM,Write-in,2,2,0,0,0
+Greenlee,005 York/Sheldon,State Treasurer,,DEM,Nick Mansour,90,2,87,0,1
+Greenlee,005 York/Sheldon,State Treasurer,,DEM,Write-in,2,2,0,0,0
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,DEM,Brett Matthew Newby,16,0,16,0,0
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,DEM,Teresa Leyba Ruiz,73,2,71,0,0
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,DEM,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Mine Inspector,,DEM,Brian Matlock,87,3,83,0,1
+Greenlee,005 York/Sheldon,State Mine Inspector,,DEM,Write-in,2,0,2,0,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,DEM,Jonathon Hill,68,0,68,0,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,DEM,Clara Pratte,77,1,76,0,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,DEM,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Clerk of the Superior Court,,DEM,Madeline Montoya,94,4,89,0,1
+Greenlee,005 York/Sheldon,Clerk of the Superior Court,,DEM,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,1,DEM,Write-in,1,0,1,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,2,DEM,Write-in,11,2,9,0,0
+Greenlee,005 York/Sheldon,Constable,1,DEM,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,2,DEM,Write-in,9,0,9,0,0
+Greenlee,005 York/Sheldon,Judge of the Superior Court,,DEM,Write-in,9,0,9,0,0
+Greenlee,005 York/Sheldon,U.S. House,6,LBT,Jereme Lance Peters,0,0,0,0,0
+Greenlee,005 York/Sheldon,U.S. House,6,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Governor,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Senate,19,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Representative,19,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Secretary of State,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Attorney General,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Treasurer,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Mine Inspector,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Clerk of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,1,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,2,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,1,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,2,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Judge of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,U.S. House,6,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Governor,,GRN,Risa Lombardo,0,0,0,0,0
+Greenlee,005 York/Sheldon,Governor,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Senate,19,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Representative,19,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Secretary of State,,GRN,Duwayne Collier,0,0,0,0,0
+Greenlee,005 York/Sheldon,Secretary of State,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Attorney General,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Treasurer,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Mine Inspector,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Clerk of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,1,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,2,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,1,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,2,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Judge of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,U.S. House,6,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Governor,,NOL,Teri Ann Hourihan,0,0,0,0,0
+Greenlee,005 York/Sheldon,Governor,,NOL,Hugh Lytle,0,0,0,0,0
+Greenlee,005 York/Sheldon,Governor,,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Senate,19,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Representative,19,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Secretary of State,,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Attorney General,,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Treasurer,,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Superintendent of Public Instruction,,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,State Mine Inspector,,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Corporation Commissioner,,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Clerk of the Superior Court,,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,1,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Justice of the Peace,2,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,1,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Constable,2,NOL,Write-in,0,0,0,0,0
+Greenlee,005 York/Sheldon,Judge of the Superior Court,,NOL,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Registered Voters,,,,976,,,,
+Greenlee,006 Duncan,Ballots Cast,,,,250,40,170,3,37
+Greenlee,006 Duncan,Ballots Cast - Blank,,,,0,0,0,0,0
+Greenlee,006 Duncan,U.S. House,6,REP,Juan Ciscomani,160,32,94,3,31
+Greenlee,006 Duncan,U.S. House,6,REP,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,Governor,,REP,Andy Biggs,128,26,80,1,21
+Greenlee,006 Duncan,Governor,,REP,Ken Miceli,8,1,5,0,2
+Greenlee,006 Duncan,Governor,,REP,Scott Neely,9,2,2,1,4
+Greenlee,006 Duncan,Governor,,REP,David Schweikert,20,3,14,1,2
+Greenlee,006 Duncan,Governor,,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Senate,19,REP,Gail Griffin,163,30,99,3,31
+Greenlee,006 Duncan,State Senate,19,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Representative,19,REP,Cheryl Caswell,51,13,27,2,9
+Greenlee,006 Duncan,State Representative,19,REP,Lupe Diaz,99,14,62,0,23
+Greenlee,006 Duncan,State Representative,19,REP,David Gowan,137,26,83,3,25
+Greenlee,006 Duncan,State Representative,19,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Secretary of State,,REP,Alexander Kolodin,85,14,47,3,21
+Greenlee,006 Duncan,Secretary of State,,REP,Gina Swoboda,73,16,47,0,10
+Greenlee,006 Duncan,Secretary of State,,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Attorney General,,REP,Rodney Glassman,55,14,33,1,7
+Greenlee,006 Duncan,Attorney General,,REP,Warren Petersen,111,18,67,2,24
+Greenlee,006 Duncan,Attorney General,,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Treasurer,,REP,Katherine Haley,69,5,49,2,13
+Greenlee,006 Duncan,State Treasurer,,REP,Elijah Norton,93,26,48,1,18
+Greenlee,006 Duncan,State Treasurer,,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Superintendent of Public Instruction,,REP,Tom Horne,79,13,51,1,14
+Greenlee,006 Duncan,Superintendent of Public Instruction,,REP,Kimberly Yee,90,19,52,2,17
+Greenlee,006 Duncan,Superintendent of Public Instruction,,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Mine Inspector,,REP,"Walter ""Les"" Presmyk",157,29,96,3,29
+Greenlee,006 Duncan,State Mine Inspector,,REP,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,Corporation Commissioner,,REP,Ralph Heap,92,16,57,0,19
+Greenlee,006 Duncan,Corporation Commissioner,,REP,"Nicholas ""Nick"" Myers",94,15,56,3,20
+Greenlee,006 Duncan,Corporation Commissioner,,REP,Kevin Thompson,104,18,62,2,22
+Greenlee,006 Duncan,Corporation Commissioner,,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Clerk of the Superior Court,,REP,Write-in,7,1,4,1,1
+Greenlee,006 Duncan,Justice of the Peace,2,REP,Mindy Claridge,162,32,96,3,31
+Greenlee,006 Duncan,Justice of the Peace,2,REP,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Constable,2,REP,Write-in,12,1,6,2,3
+Greenlee,006 Duncan,Judge of the Superior Court,,REP,Write-in,11,3,5,2,1
+Greenlee,006 Duncan,U.S. House,6,DEM,JoAnna Mendoza,68,6,58,0,4
+Greenlee,006 Duncan,U.S. House,6,DEM,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Governor,,DEM,Katie Hobbs,66,5,57,0,4
+Greenlee,006 Duncan,Governor,,DEM,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,State Senate,19,DEM,Write-in,6,0,6,0,0
+Greenlee,006 Duncan,State Representative,19,DEM,Jackie O'Donnell Anderson,52,2,46,0,4
+Greenlee,006 Duncan,State Representative,19,DEM,Aiden Nicholette Swallow,54,5,45,0,4
+Greenlee,006 Duncan,State Representative,19,DEM,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Secretary of State,,DEM,Adrian Fontes,69,7,58,0,4
+Greenlee,006 Duncan,Secretary of State,,DEM,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Attorney General,,DEM,Kris Mayes,67,6,57,0,4
+Greenlee,006 Duncan,Attorney General,,DEM,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Treasurer,,DEM,Nick Mansour,66,6,56,0,4
+Greenlee,006 Duncan,State Treasurer,,DEM,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Superintendent of Public Instruction,,DEM,Brett Matthew Newby,12,1,11,0,0
+Greenlee,006 Duncan,Superintendent of Public Instruction,,DEM,Teresa Leyba Ruiz,59,5,49,0,5
+Greenlee,006 Duncan,Superintendent of Public Instruction,,DEM,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Mine Inspector,,DEM,Brian Matlock,70,7,59,0,4
+Greenlee,006 Duncan,State Mine Inspector,,DEM,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,Corporation Commissioner,,DEM,Jonathon Hill,48,1,44,0,3
+Greenlee,006 Duncan,Corporation Commissioner,,DEM,Clara Pratte,54,5,46,0,3
+Greenlee,006 Duncan,Corporation Commissioner,,DEM,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,Clerk of the Superior Court,,DEM,Madeline Montoya,66,7,56,0,3
+Greenlee,006 Duncan,Clerk of the Superior Court,,DEM,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Justice of the Peace,2,DEM,Write-in,8,1,7,0,0
+Greenlee,006 Duncan,Constable,2,DEM,Write-in,4,0,4,0,0
+Greenlee,006 Duncan,Judge of the Superior Court,,DEM,Write-in,4,0,4,0,0
+Greenlee,006 Duncan,U.S. House,6,LBT,Jereme Lance Peters,0,0,0,0,0
+Greenlee,006 Duncan,U.S. House,6,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Governor,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Senate,19,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Representative,19,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Secretary of State,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Attorney General,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Treasurer,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Superintendent of Public Instruction,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Mine Inspector,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Corporation Commissioner,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Clerk of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Justice of the Peace,2,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Constable,2,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Judge of the Superior Court,,LBT,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,U.S. House,6,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Governor,,GRN,Risa Lombardo,0,0,0,0,0
+Greenlee,006 Duncan,Governor,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Senate,19,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Representative,19,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Secretary of State,,GRN,Duwayne Collier,0,0,0,0,0
+Greenlee,006 Duncan,Secretary of State,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Attorney General,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Treasurer,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Superintendent of Public Instruction,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,State Mine Inspector,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Corporation Commissioner,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Clerk of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Justice of the Peace,2,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Constable,2,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,Judge of the Superior Court,,GRN,Write-in,0,0,0,0,0
+Greenlee,006 Duncan,U.S. House,6,NOL,Write-in,2,0,1,0,1
+Greenlee,006 Duncan,Governor,,NOL,Teri Ann Hourihan,0,0,0,0,0
+Greenlee,006 Duncan,Governor,,NOL,Hugh Lytle,1,0,1,0,0
+Greenlee,006 Duncan,Governor,,NOL,Write-in,2,0,1,0,1
+Greenlee,006 Duncan,State Senate,19,NOL,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,State Representative,19,NOL,Write-in,2,0,2,0,0
+Greenlee,006 Duncan,Secretary of State,,NOL,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,Attorney General,,NOL,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,State Treasurer,,NOL,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,Superintendent of Public Instruction,,NOL,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,State Mine Inspector,,NOL,Write-in,1,0,1,0,0
+Greenlee,006 Duncan,Corporation Commissioner,,NOL,Write-in,2,0,2,0,0
+Greenlee,006 Duncan,Clerk of the Superior Court,,NOL,Write-in,2,0,1,0,1
+Greenlee,006 Duncan,Justice of the Peace,2,NOL,Write-in,2,0,1,0,1
+Greenlee,006 Duncan,Constable,2,NOL,Write-in,2,0,1,0,1
+Greenlee,006 Duncan,Judge of the Superior Court,,NOL,Write-in,2,0,1,0,1
+Greenlee,006 Duncan,Mayor,Town of Duncan,,Write-in,18,2,14,0,2
+Greenlee,006 Duncan,Councilmember,Town of Duncan,,Valerie Smith,81,11,63,0,7
+Greenlee,006 Duncan,Councilmember,Town of Duncan,,Jill Wearne,86,14,63,0,9
+Greenlee,006 Duncan,Councilmember,Town of Duncan,,Write-in,0,0,0,0,0

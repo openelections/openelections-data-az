@@ -36,12 +36,13 @@ Most recent work in this repo has been driving out these four test failures coun
 
 ## Scripts
 
-Root-level scripts are ad-hoc converters, each hardcoded to a specific election — edit the constants at the top when reusing:
+The `parsers/` directory holds ad-hoc converters, each hardcoded to a specific election — edit the constants at the top when reusing. They write output paths relative to the repo root, so run them from the repo root (e.g. `uv run python parsers/cochise_parser.py`):
 
 - `statewide_generator.py` — merges the per-county precinct CSVs of a year's `counties/` dir into a single statewide `…__precinct.csv`. Uses `os.chdir`, so run it from the repo root after setting `year`/`election` at the top.
 - `precinct_parser.py` — downloads per-county Clarity `Detail` reports and writes precinct CSVs; county-specific column mappings live in its `COUNTIES`/`HEADERS` dicts.
+- `<county>_parser.py` — per-county parsers for the 2026 primary, one per county source (PDF Statement of Votes Cast or Clarity `detail.xml`); each writes `2026/counties/20260721__az__primary__<county>__precinct.csv` and validates before writing.
 - `clarity_parser.py`, `parser.py` — older one-off parsers for Clarity XML and canvass text files.
-- `maricopa_parser.rb` — Ruby parser for Maricopa County files.
+- `maricopa_parser.rb` — Ruby parser for Maricopa County files (still at the repo root).
 
 ## Environment
 
